@@ -3,6 +3,8 @@ __author__ = 'vitaliyvrublevskiy'
 
 url = 'https://www.lawinsider.com/contracts/1UvT1mgEAKfaPL5IUpNk6Q.docx'
 import requests
+from requests.auth import HTTPBasicAuth
+
 
 cookie = {
     '__cfduid' : 'd4a23cb5a2d676396be7fd88a0b82b78f1505115716',
@@ -19,6 +21,10 @@ cookie = {
 }
 
 response = requests.get(url, cookies=cookie)
-f = open('file.docx','w')
-
-f.write(response.content)
+if response.status_code == 403:
+    print 'Fuck'
+else:
+    # response = requests.get(url, auth=HTTPBasicAuth('yakymiv1995@gmail.com', '123456'))
+    f = open('file.docx','w')
+    print response.content
+    f.write(response.content)

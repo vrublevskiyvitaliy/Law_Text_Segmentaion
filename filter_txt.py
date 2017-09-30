@@ -18,6 +18,7 @@ class StructuredText:
         self.filter_content()
         self.divide_by_paragrahp()
         self.divide_by_sent()
+        self.generate_all_sent()
 
     def filter_line(self, line):
         ll = ''
@@ -58,6 +59,12 @@ class StructuredText:
                 file.write(s + "\n")
 
         file.close()
+
+    def generate_all_sent(self):
+        self.all_sent = []
+        for paragraph in self.structure_text['paragraph']:
+            for s in paragraph['sent']:
+                self.all_sent.append(s)
 
 
 def filter_txt():

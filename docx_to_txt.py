@@ -11,9 +11,14 @@ def convert_docx_to_txt():
 
     for file in files_docx:
         docx_path = documents_path + file
+        print docx_path
         path = txt_path + file[:-4] + 'txt'
-        a = docx2txt.process(docx_path).encode('utf-8')
-        f = open(path, 'w')
-        f.write(a)
+        try:
+            a = docx2txt.process(docx_path).encode('utf-8')
+            f = open(path, 'w')
+            f.write(a)
+        except Exception as e:
+            print('Error')
+
 
 convert_docx_to_txt()

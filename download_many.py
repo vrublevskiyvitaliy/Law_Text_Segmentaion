@@ -17,10 +17,10 @@ def download_docx_contracts(contracts_ids, contracts_num):
         'session': 'eyJjc3JmIjoiYlZINGFPb0kxNXlnN3V1cXFveUlYaCJ9|1505115716|eff56d3da7623bd2aef4f8d43247ef75bcd75f2d',
         'ajs_anonymous_id': '%22e709dd72-97e4-444f-b685-73913b836bb8%22',
         'csrf': 'bVH4aOoI15yg7uuqqoyIXh',
-        'auth': '"eyJfdXNlciI6WzU2Nzc1ODY3MDUyODUxMjAsMSwiUm4wdFJ6MXRIRXg5YmppMUxjZWhEeiIsMTUwNjc2MDEzNSwxNTA2NzYwMTM1LCJWaXRhbGlpIFZydWJsZXZza3lpIiwwXX0\075|1506760144|c52efcc5f99048d842dbdf8025629135b47d5dc4"',
+        'auth': 'eyJfdXNlciI6WzU2Nzc1ODY3MDUyODUxMjAsMSwiWGkyNFBJaXV0MXVSOGYzcXNHbGdKWSIsMTUwNjg1MTM5OSwxNTA2ODUxMzk5LCJWaXRhbGlpIFZydWJsZXZza3lpIl19|1506851399|8b5ee1a015bfe942582b67945a6cbeb068ad6201',
         '_ga': 'GA1.2.923972133.1505115718',
-        '_gid': 'GA1.2.857001817.1505295653',
-        'v': '42',
+        '_gid': 'GA1.2.1020241738.1506851128',
+        'v': '43',
         'ajs_user_id': 'null',
         'ajs_group_id': 'null',
         '_gat': '1'
@@ -35,6 +35,7 @@ def download_docx_contracts(contracts_ids, contracts_num):
 
         file = Path(path)
         if not file.is_file():
+            random_wait()
             response = requests.get(url, cookies=cookie)
             print url
             if response.status_code == 403:
@@ -49,7 +50,7 @@ def download_docx_contracts(contracts_ids, contracts_num):
 
 
 def get_contracts_ids():
-    with open('short.json') as data_file:
+    with open('1.json') as data_file:
         data = json.load(data_file)
 
     contracts_ids = []
@@ -61,4 +62,4 @@ def get_contracts_ids():
 
 
 contracts_ids = get_contracts_ids()
-download_docx_contracts(contracts_ids, 10)
+download_docx_contracts(contracts_ids, 700)

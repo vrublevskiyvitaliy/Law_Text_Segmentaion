@@ -127,3 +127,150 @@ class StructuredText:
 
         result = sorted(result, key=lambda v: v['upper'], reverse=True)
         return result
+
+    def write_list_to_file(self, path):
+        file = open(path, 'w')
+        for s in self.grouped_list_sentances:
+            file.write(s['sss'] + "\n")
+        file.close()
+
+    def find_lists(self):
+        self.list_sentances = []
+        for s in self.all_sent:
+            prefix = self.get_possible_list_id(s)
+            prefix_type = None
+            if len(prefix) > 0:
+                ss = s[len(prefix):]
+                prefix_type = self.get_prefix_type(prefix)
+                ss = '<LIST_ITEM type=' + prefix_type + '>' + prefix + '</LIST_ITEM>' + ss
+            else:
+                ss = s
+            self.list_sentances.append({
+                's' : s,
+                'ss' : ss,
+                'prefix' : prefix,
+                'prefix_type' : prefix_type,
+            })
+        self.group_lists()
+
+    def group_lists(self):
+        # <ol>
+        # <li> </li>
+        start_list = {
+            'sss': '<ul>'
+        }
+        end_list = {
+            'sss': '</ul>'
+        }
+
+        stack = []
+        self.grouped_list_sentances = []
+        flag_found_list = False
+        for s in self.list_sentances:
+            s['sss'] = s['s']
+            if len(s['prefix']) == 0:
+                self.grouped_list_sentances.append(s)
+            else:
+                flag_found_list = True
+                s['sss'] = '<li>' + s['s'] + '</li>'
+
+                if len(stack) > 0:
+                    # if the same type
+                    while len(stack) > 0:
+                        last_element = stack[-1]
+                        if self.is_prefixes_neighboring(last_element['prefix'], s['prefix']):
+                            stack.pop()
+                            stack.append(s)
+                            break
+                        else:
+                            # start new list
+                            if self.is_prefix_begin_list(s['prefix']):
+                                self.grouped_list_sentances.append(start_list)
+                                stack.append(s)
+                                break
+                            else:
+                                # close previous list
+                                self.grouped_list_sentances.append(end_list)
+                                stack.pop()
+                else:
+                    self.grouped_list_sentances.append(start_list)
+                    stack.append(s)
+
+                self.grouped_list_sentances.append(s)
+        while len(stack) > 0:
+            self.grouped_list_sentances.append(end_list)
+            stack.pop()
+
+
+    def get_prefix_type(self, prefix):
+        if prefix == '(i)' or prefix == '(v)':
+            return 'roman_()'
+        prefixes = self.get_list_begginng_by_type()
+        for key, value in prefixes.iteritems():
+            if prefix in value:
+                return key
+
+        # then just number
+        prefix = prefix[:]
+        prefix = prefix.strip('.')
+        dots = sum(1 for c in prefix if c == '.')
+        return 'number' + str(dots)
+
+    def is_prefix_begin_list(self, prefix):
+        prefixes = self.get_list_begginng_by_type()
+        prefix_type = self.get_prefix_type(prefix)
+        if prefix_type in prefixes:
+            return prefixes[prefix_type][0] == prefix
+        else:
+            # number
+            prefix = prefix.strip('.')
+            dots = sum(1 for c in prefix if c == '.')
+            if dots > 0:
+                prefix = prefix.split('.')[-1]
+            return int(prefix) == 1
+
+    def is_prefixes_neighboring(self, first_prefix, second_prefix):
+        first_type = self.get_prefix_type(first_prefix)
+        second_type = self.get_prefix_type(second_prefix)
+        if self.get_prefix_type(first_prefix) != self.get_prefix_type(second_prefix):
+            return False
+        else:
+            # todo: check if they are near, like 1 2 5 ?
+            return True
+
+    def get_possible_list_id(self, sentance):
+        prefixes = self.get_list_begginng_by_type()
+
+        for key, value in prefixes.iteritems():
+            for prefix in value:
+                if sentance.startswith(prefix):
+                    return prefix
+
+        possible_id = ''
+        for char in sentance:
+            if not char.isalpha() or char == '.':
+                possible_id += char
+            else:
+                break
+
+        return possible_id
+
+    def get_list_begginng_by_type(self):
+        types = dict()
+        # low letter
+        prefixes = []
+        for i in range(ord('a'), ord('z')):
+            prefixes.append(chr(i) + '.')
+        types['low_letter'] = prefixes
+
+        prefixes = []
+        for i in range(ord('A'), ord('Z')):
+            prefixes.append('(' + chr(i) + ')')
+        types['big_letter_()'] = prefixes
+        prefixes = ['(i)', '(ii)', '(iii)', '(iv)', '(v)', '(vi)', '(vii)', '(viii)']
+        types['roman_()'] = prefixes
+        prefixes = []
+        for i in range(ord('a'), ord('z')):
+            prefixes.append('(' + chr(i) + ')')
+        types['low_letter_()'] = prefixes
+        return types

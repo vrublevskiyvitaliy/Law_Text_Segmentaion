@@ -141,27 +141,21 @@ class StructuredText:
             prefix_type = None
             if len(prefix) > 0:
                 ss = s[len(prefix):]
-                prefix_type = self.get_prefix_type(prefix)
-                ss = '<LIST_ITEM type=' + prefix_type + '>' + prefix + '</LIST_ITEM>' + ss
+                ss = '<LIST_ITEM>' + prefix + '</LIST_ITEM>' + ss
             else:
                 ss = s
             self.list_sentances.append({
                 's' : s,
                 'ss' : ss,
                 'prefix' : prefix,
-                'prefix_type' : prefix_type,
             })
         self.group_lists()
 
     def group_lists(self):
         # <ol>
         # <li> </li>
-        start_list = {
-            'sss': '<ul>'
-        }
-        end_list = {
-            'sss': '</ul>'
-        }
+        start_list = {'sss': '<ul>'}
+        end_list = {'sss': '</ul>'}
 
         stack = []
         self.grouped_list_sentances = []
@@ -201,42 +195,72 @@ class StructuredText:
             self.grouped_list_sentances.append(end_list)
             stack.pop()
 
-
     def get_prefix_type(self, prefix):
-        if prefix == '(i)' or prefix == '(v)':
-            return 'roman_()'
+        types = []
         prefixes = self.get_list_begginng_by_type()
         for key, value in prefixes.iteritems():
             if prefix in value:
-                return key
+                types.append(key)
 
-        # then just number
-        prefix = prefix[:]
+        # check if only numbers and dots
         prefix = prefix.strip('.')
         dots = sum(1 for c in prefix if c == '.')
-        return 'number' + str(dots)
+        not_alpha = sum(1 for c in prefix if not c.isalpha() and c != '.')
+        if not_alpha + dots == len(prefix):
+            types.append('number' + str(dots))
+
+        return types
 
     def is_prefix_begin_list(self, prefix):
         prefixes = self.get_list_begginng_by_type()
         prefix_type = self.get_prefix_type(prefix)
-        if prefix_type in prefixes:
-            return prefixes[prefix_type][0] == prefix
-        else:
-            # number
-            prefix = prefix.strip('.')
-            dots = sum(1 for c in prefix if c == '.')
-            if dots > 0:
-                prefix = prefix.split('.')[-1]
-            return int(prefix) == 1
+        result = False
+        for type in prefix_type:
+            if type in prefixes:
+                result = result or prefixes[type][0] == prefix
+            else:
+                # number
+                p = prefix[:]
+                p = p.strip('.')
+                dots = sum(1 for c in p if c == '.')
+                if dots > 0:
+                    p = p.split('.')[-1]
+                result = result or int(p) == 1
+        return result
 
     def is_prefixes_neighboring(self, first_prefix, second_prefix):
         first_type = self.get_prefix_type(first_prefix)
         second_type = self.get_prefix_type(second_prefix)
-        if self.get_prefix_type(first_prefix) != self.get_prefix_type(second_prefix):
+        if len(set(first_type).intersection(second_type)) == 0:
             return False
         else:
-            # todo: check if they are near, like 1 2 5 ?
-            return True
+            for type in first_type:
+                next_prefix = self.get_next_prefix_for_type(first_prefix, type)
+                if next_prefix == second_prefix:
+                    return True
+            return False
+
+    def get_next_prefix_for_type(self, prefix, type):
+        next_prefix = None
+        prefixes = self.get_list_begginng_by_type()
+        if type in prefixes:
+            type_prefixes = prefixes[type]
+            index = type_prefixes.index(prefix)
+            index += 1
+            try:
+                next_prefix = type_prefixes[index]
+            except Exception as e:
+                pass
+        else:
+            p = prefix
+            p = p.strip('.')
+            parts = p.split('.')
+            parts[-1] = str(int(parts[-1]) + 1)
+            next_prefix = '.'.join(parts)
+            if len(parts) == 1:
+                next_prefix = next_prefix + '.'
+
+        return next_prefix
 
     def get_possible_list_id(self, sentance):
         prefixes = self.get_list_begginng_by_type()

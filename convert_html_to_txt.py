@@ -39,10 +39,14 @@ def convert_html_to_txt(files):
     for f in files:
         html = open(f)
         soup = BeautifulSoup(html)
-        txt = soup.get_text().encode('utf-8')
+        divs = soup.find_all('div')
+        txt = ''
+        for div in divs:
+            if len(div.find_all('div')) == 0:
+                txt += div.get_text().encode('utf-8') + "\n\n"
         head, tail = os.path.split(f)
         name = tail[:-5]
-        with open('txt_from_html/' + name + '.txt', 'w') as txt_file:
+        with open('txt_from_html/' + name + '.txt', 'w+') as txt_file:
             txt_file.write(txt)
             txt_file.close()
 
@@ -54,8 +58,9 @@ def save_json(data, path):
     with open(path, 'w') as outfile:
         json.dump(data, outfile)
 
+#files = ['/Users/vitaliyvrublevskiy/contracts_2010/01/04/1AXOw9oDa18zA7ZvTymzzi.html']
 files = []
 find_files(files, [path_to_dataset], ['.html'])
-convert_html_to_txt(files[:100])
+convert_html_to_txt(files)
 #data = generate_combined_meta_data(files[:])
 #save_json(data, 'short.json')

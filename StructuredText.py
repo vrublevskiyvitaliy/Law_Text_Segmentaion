@@ -205,8 +205,8 @@ class StructuredText:
         # check if only numbers and dots
         prefix = prefix.strip('.')
         dots = sum(1 for c in prefix if c == '.')
-        not_alpha = sum(1 for c in prefix if not c.isalpha() and c != '.')
-        if not_alpha + dots == len(prefix):
+        digit = sum(1 for c in prefix if c.isdigit())
+        if digit + dots == len(prefix):
             types.append('number' + str(dots))
 
         return types
@@ -272,7 +272,7 @@ class StructuredText:
 
         possible_id = ''
         for char in sentance:
-            if not char.isalpha() or char == '.':
+            if char.isdigit() or char == '.':
                 possible_id += char
             else:
                 break

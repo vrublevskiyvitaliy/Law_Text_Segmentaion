@@ -1,6 +1,8 @@
+# encoding=utf-8
 import os
 import json
 from nltk.tokenize import sent_tokenize, word_tokenize
+
 
 class StructuredText:
 
@@ -18,13 +20,11 @@ class StructuredText:
         self.divide_by_sent()
         self.generate_all_sent()
         self.generate_text_string()
-
-
+        print('Title: ' + self.find_title())
 
     def set_id(self):
         head, tail = os.path.split(self.path)
         self.id = tail[:-4]
-
 
     def filter_line(self, line):
         ll = ''
@@ -45,19 +45,31 @@ class StructuredText:
                 self.filtered_content.append(line)
 
     def divide_by_paragrahp(self):
-        self.content = [x.strip() for x in self.content]
-        paragraph = ''
-        for line in self.content:
-            line = self.filter_line(line)
-            if len(line) > 0:
-                paragraph += line + ' '
-            elif len(paragraph) > 0:
-                self.structure_text['paragraph'].append({
-                    'content': paragraph,
-                    'sent': []
-                })
-                paragraph = ''
+        # from html
+        if False:
+            self.content = [x.strip() for x in self.content]
+            paragraph = ''
 
+            for line in self.content:
+                line = self.filter_line(line)
+                if len(line) > 0:
+                    paragraph += line + ' '
+                elif len(paragraph) > 0:
+                    self.structure_text['paragraph'].append({
+                        'content': paragraph,
+                        'sent': []
+                    })
+                    paragraph = ''
+        else:
+            # from docx converted to txt
+            self.content = [x.strip() for x in self.content]
+            for line in self.content:
+                line = self.filter_line(line)
+                if len(line) > 0:
+                    self.structure_text['paragraph'].append({
+                        'content': line,
+                        'sent': []
+                    })
 
     def divide_by_sent(self):
         for paragraph in self.structure_text['paragraph']:
@@ -111,11 +123,18 @@ class StructuredText:
             most_used_words = json.load(f)
 
         result = []
+        next_is_title = False
         for item in possible_titles:
             count = 0
             words = word_tokenize(item)
+            if next_is_title:
+                next_is_title = False
+                return item
+
+            if 'Exhibit' in item:
+                next_is_title = True
             for w in words:
-                if w in most_used_words:
+                if w.lower() in most_used_words:
                     count += 1
             upper = sum(1 for c in item if c.isupper())
             result.append({
@@ -126,7 +145,7 @@ class StructuredText:
             })
 
         result = sorted(result, key=lambda v: v['upper'], reverse=True)
-        return result
+        return result[0]['title']
 
     def write_list_to_file(self, path):
         file = open(path, 'w')
@@ -277,6 +296,8 @@ class StructuredText:
             else:
                 break
 
+        if sum(1 for c in possible_id if c == '.') == 0:
+            possible_id = ''
         return possible_id
 
     def get_list_begginng_by_type(self):
@@ -297,4 +318,15 @@ class StructuredText:
         for i in range(ord('a'), ord('z')):
             prefixes.append('(' + chr(i) + ')')
         types['low_letter_()'] = prefixes
+        prefixes = []
+        for i in range(1, 40):
+            prefixes.append(str(i) + ')')
+        types['number_)'] = prefixes
+
+        prefixes = []
+        for i in range(ord('a'), ord('z')):
+            prefixes.append(chr(i) + ')')
+        types['char_)'] = prefixes
+        types['dot'] = '•'
+
         return types

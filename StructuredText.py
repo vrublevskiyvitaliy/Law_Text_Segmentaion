@@ -1,9 +1,10 @@
 # encoding=utf-8
 import os
+import docx2txt
 import json
 from nltk.tokenize import sent_tokenize, word_tokenize
 from ListHelper import ListHelper
-
+from segtok.segmenter import split_single
 
 class StructuredText:
 
@@ -12,8 +13,7 @@ class StructuredText:
         self.set_id()
         self.path_to_metadata = '1.json'
         self.set_metainfo()
-        with open(path) as f:
-            self.content = f.readlines()
+        self.read_content()
         self.structure_text = {}
         self.structure_text['paragraph'] = []
         self.filter_content()
@@ -22,6 +22,21 @@ class StructuredText:
         self.generate_all_sent()
         self.generate_text_string()
         print('Title: ' + self.find_title())
+
+    def read_content(self):
+        if self.path[-3:] == 'txt':
+            self.read_txt()
+        elif self.path[-4:] == 'docx' or self.path[-3:] == 'doc':
+            self.read_docx()
+        else:
+            raise ValueError('Couldnt recognize file')
+
+    def read_txt(self):
+        with open(self.path) as f:
+            self.content = f.readlines()
+
+    def read_docx(self):
+        self.content = docx2txt.process(self.path).encode('utf-8')
 
     def set_id(self):
         head, tail = os.path.split(self.path)
@@ -48,7 +63,7 @@ class StructuredText:
 
     def divide_by_paragrahp(self):
         # from html
-        if True:
+        if False:
             self.content = [x.strip() for x in self.content]
             paragraph = ''
 
@@ -75,7 +90,12 @@ class StructuredText:
 
     def divide_by_sent(self):
         for paragraph in self.structure_text['paragraph']:
-            sent = sent_tokenize(paragraph['content'])
+            if False:
+                # NLTK
+                sent = sent_tokenize(paragraph['content'])
+            else:
+                # segtok
+                sent = split_single(paragraph['content'])
             paragraph['sent'] = sent
 
     def write_to_file(self, path):

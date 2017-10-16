@@ -224,20 +224,11 @@ class StructuredText:
         return types
 
     def is_prefix_begin_list(self, prefix):
-        prefixes = self.get_list_begginng_by_type()
-        prefix_type = self.get_prefix_type(prefix)
         result = False
-        for type in prefix_type:
-            if type in prefixes:
-                result = result or prefixes[type][0] == prefix
-            else:
-                # number
-                p = prefix[:]
-                p = p.strip('.')
-                dots = sum(1 for c in p if c == '.')
-                if dots > 0:
-                    p = p.split('.')[-1]
-                result = result or int(p) == 1
+        for list_class in list_classes:
+            instance = list_classes[list_class](prefix)
+            if instance.is_in_prefixes() and instance.is_begining_list():
+                result = True
         return result
 
     def is_prefixes_neighboring(self, first_prefix, second_prefix):

@@ -29,6 +29,9 @@ class ListItem:
     def init_prefixes(self):
         pass
 
+    def is_begining_list(self):
+        return len(self.prefixes) > 1 and self.prefixes[0] == self.prefix
+
 
 class LowLetterList(ListItem):
     """
@@ -74,6 +77,11 @@ class NumberTwoLevelList(ListItem):
         for i in range(1, 40):
             for j in range(1, 40):
                 self.prefixes.append(str(i) + '.' + str(j))
+
+    def is_begining_list(self):
+        second_part_prefix = self.prefix.split('.')[1]
+        return second_part_prefix == '1'
+
 
 class BigLetterBracketList(ListItem):
     """

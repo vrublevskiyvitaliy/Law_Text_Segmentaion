@@ -216,17 +216,10 @@ class StructuredText:
 
     def get_prefix_type(self, prefix):
         types = []
-        prefixes = self.get_list_begginng_by_type()
-        for key, value in prefixes.iteritems():
-            if prefix in value:
-                types.append(key)
-
-        # check if only numbers and dots
-        prefix = prefix.strip('.')
-        dots = sum(1 for c in prefix if c == '.')
-        digit = sum(1 for c in prefix if c.isdigit())
-        if digit + dots == len(prefix):
-            types.append('number' + str(dots))
+        for list_class in list_classes:
+            instance = list_classes[list_class](prefix)
+            if instance.is_in_prefixes():
+                types.append(instance.list_name)
 
         return types
 

@@ -53,7 +53,7 @@ class NumberOneLevelList(ListItem):
     """
     def __init__(self, sentence):
         ListItem.__init__(self, sentence)
-        self.list_name = 'number_one_level'
+        self.list_name = 'number0'
 
     def init_prefixes(self):
         for i in range(1, 40):
@@ -68,7 +68,7 @@ class NumberTwoLevelList(ListItem):
     """
     def __init__(self, sentence):
         ListItem.__init__(self, sentence)
-        self.list_name = 'number_two_level'
+        self.list_name = 'number1'
 
     def init_prefixes(self):
         for i in range(1, 40):

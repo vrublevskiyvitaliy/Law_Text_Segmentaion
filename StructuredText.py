@@ -2,7 +2,7 @@
 import os
 import json
 from nltk.tokenize import sent_tokenize, word_tokenize
-
+from List import *
 
 class StructuredText:
 
@@ -46,7 +46,7 @@ class StructuredText:
 
     def divide_by_paragrahp(self):
         # from html
-        if False:
+        if True:
             self.content = [x.strip() for x in self.content]
             paragraph = ''
 
@@ -281,24 +281,17 @@ class StructuredText:
 
         return next_prefix
 
-    def get_possible_list_id(self, sentance):
-        prefixes = self.get_list_begginng_by_type()
+    def get_possible_list_id(self, sentence):
+        """
+        todo: move this into List
+        """
+        prefix = ''
+        for list_class in list_classes:
+            instance = list_classes[list_class](sentence)
+            if instance.is_in_prefixes():
+                prefix = instance.prefix if len(instance.prefix) > len(prefix) else prefix
 
-        for key, value in prefixes.iteritems():
-            for prefix in value:
-                if sentance.startswith(prefix):
-                    return prefix
-
-        possible_id = ''
-        for char in sentance:
-            if char.isdigit() or char == '.':
-                possible_id += char
-            else:
-                break
-
-        if sum(1 for c in possible_id if c == '.') == 0:
-            possible_id = ''
-        return possible_id
+        return prefix
 
     def get_list_begginng_by_type(self):
         types = dict()
@@ -327,6 +320,5 @@ class StructuredText:
         for i in range(ord('a'), ord('z')):
             prefixes.append(chr(i) + ')')
         types['char_)'] = prefixes
-        types['dot'] = '•'
 
         return types

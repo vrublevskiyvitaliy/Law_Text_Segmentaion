@@ -6,11 +6,11 @@ import json
 documents_path = 'documents/'
 
 
-def add_to_bad_docx(list):
+def add_to_bad_docx(list_array):
     with open('bad_docx.json') as data_file:
         data = json.load(data_file)
 
-    for item in list:
+    for item in list_array:
         data.append(item)
 
     data = list(set(data))

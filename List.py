@@ -165,15 +165,3 @@ class CharBracketList(ListItem):
     def init_prefixes(self):
         for i in range(ord('a'), ord('z')):
             self.prefixes.append(chr(i) + ')')
-
-
-list_classes = {
-    'LowLetterList': LowLetterList,
-    'NumberTwoLevelList': NumberTwoLevelList,
-    'NumberOneLevelList': NumberOneLevelList,
-    'BigLetterBracketList': BigLetterBracketList,
-    'RomanBracketList': RomanBracketList,
-    'LowLetterBracketList': LowLetterBracketList,
-    'NumberBracketList': NumberBracketList,
-    'CharBracketList': CharBracketList,
-}

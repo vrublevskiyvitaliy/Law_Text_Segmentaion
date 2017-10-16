@@ -2,7 +2,8 @@
 import os
 import json
 from nltk.tokenize import sent_tokenize, word_tokenize
-from List import *
+from ListHelper import ListHelper
+
 
 class StructuredText:
 
@@ -28,6 +29,7 @@ class StructuredText:
 
     def filter_line(self, line):
         ll = ''
+        # todo: fix this
         for l in line:
             if (ord(l)) < 128:
                 ll += l
@@ -156,7 +158,7 @@ class StructuredText:
     def find_lists(self):
         self.list_sentances = []
         for s in self.all_sent:
-            prefix = self.get_possible_list_id(s)
+            prefix = ListHelper.get_possible_list_id(s)
             prefix_type = None
             if len(prefix) > 0:
                 ss = s[len(prefix):]
@@ -191,13 +193,13 @@ class StructuredText:
                     # if the same type
                     while len(stack) > 0:
                         last_element = stack[-1]
-                        if self.is_prefixes_neighboring(last_element['prefix'], s['prefix']):
+                        if ListHelper.is_prefixes_neighboring(last_element['prefix'], s['prefix']):
                             stack.pop()
                             stack.append(s)
                             break
                         else:
                             # start new list
-                            if self.is_prefix_begin_list(s['prefix']):
+                            if ListHelper.is_prefix_begin_list(s['prefix']):
                                 self.grouped_list_sentances.append(start_list)
                                 stack.append(s)
                                 break
@@ -213,51 +215,3 @@ class StructuredText:
         while len(stack) > 0:
             self.grouped_list_sentances.append(end_list)
             stack.pop()
-
-    def get_prefix_type(self, prefix):
-        types = []
-        for list_class in list_classes:
-            instance = list_classes[list_class](prefix)
-            if instance.is_in_prefixes():
-                types.append(instance.list_name)
-
-        return types
-
-    def is_prefix_begin_list(self, prefix):
-        result = False
-        for list_class in list_classes:
-            instance = list_classes[list_class](prefix)
-            if instance.is_in_prefixes() and instance.is_begining_list():
-                result = True
-        return result
-
-    def is_prefixes_neighboring(self, first_prefix, second_prefix):
-        first_type = self.get_prefix_type(first_prefix)
-        second_type = self.get_prefix_type(second_prefix)
-        if len(set(first_type).intersection(second_type)) == 0:
-            return False
-        else:
-            for type in first_type:
-                next_prefix = self.get_next_prefix_for_type(first_prefix, type)
-                if next_prefix == second_prefix:
-                    return True
-            return False
-
-    def get_next_prefix_for_type(self, prefix, type):
-        for list_class in list_classes:
-            instance = list_classes[list_class](prefix)
-            if instance.is_in_prefixes() and instance.list_name == type:
-                return instance.get_next_prefix(prefix)
-        return None
-
-    def get_possible_list_id(self, sentence):
-        """
-        todo: move this into List
-        """
-        prefix = ''
-        for list_class in list_classes:
-            instance = list_classes[list_class](sentence)
-            if instance.is_in_prefixes():
-                prefix = instance.prefix if len(instance.prefix) > len(prefix) else prefix
-
-        return prefix

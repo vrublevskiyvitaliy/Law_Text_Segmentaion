@@ -9,9 +9,6 @@ class ListItem:
         self.init_prefixes()
         self.list_name = ''
 
-    def is_list_item(self):
-        return False
-
     def is_in_prefixes(self):
         starts_with_prefix = False
 
@@ -31,6 +28,14 @@ class ListItem:
 
     def is_begining_list(self):
         return len(self.prefixes) > 1 and self.prefixes[0] == self.prefix
+
+    def get_next_prefix(self, prefix):
+        try:
+            index = self.prefixes.index(prefix) + 1
+            next_prefix = self.prefixes[index]
+        except ValueError as e:
+            next_prefix = None
+        return next_prefix
 
 
 class LowLetterList(ListItem):
@@ -81,6 +86,11 @@ class NumberTwoLevelList(ListItem):
     def is_begining_list(self):
         second_part_prefix = self.prefix.split('.')[1]
         return second_part_prefix == '1'
+
+    def get_next_prefix(self, prefix):
+        parts = prefix.split('.')
+        parts[1] = str(int(parts[1]) + 1)
+        return '.'.join(parts)
 
 
 class BigLetterBracketList(ListItem):

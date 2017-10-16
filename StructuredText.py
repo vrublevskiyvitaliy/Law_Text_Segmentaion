@@ -244,26 +244,11 @@ class StructuredText:
             return False
 
     def get_next_prefix_for_type(self, prefix, type):
-        next_prefix = None
-        prefixes = self.get_list_begginng_by_type()
-        if type in prefixes:
-            type_prefixes = prefixes[type]
-            index = type_prefixes.index(prefix)
-            index += 1
-            try:
-                next_prefix = type_prefixes[index]
-            except Exception as e:
-                pass
-        else:
-            p = prefix
-            p = p.strip('.')
-            parts = p.split('.')
-            parts[-1] = str(int(parts[-1]) + 1)
-            next_prefix = '.'.join(parts)
-            if len(parts) == 1:
-                next_prefix = next_prefix + '.'
-
-        return next_prefix
+        for list_class in list_classes:
+            instance = list_classes[list_class](prefix)
+            if instance.is_in_prefixes() and instance.list_name == type:
+                return instance.get_next_prefix(prefix)
+        return None
 
     def get_possible_list_id(self, sentence):
         """
@@ -276,33 +261,3 @@ class StructuredText:
                 prefix = instance.prefix if len(instance.prefix) > len(prefix) else prefix
 
         return prefix
-
-    def get_list_begginng_by_type(self):
-        types = dict()
-        # low letter
-        prefixes = []
-        for i in range(ord('a'), ord('z')):
-            prefixes.append(chr(i) + '.')
-        types['low_letter'] = prefixes
-
-        prefixes = []
-        for i in range(ord('A'), ord('Z')):
-            prefixes.append('(' + chr(i) + ')')
-        types['big_letter_()'] = prefixes
-        prefixes = ['(i)', '(ii)', '(iii)', '(iv)', '(v)', '(vi)', '(vii)', '(viii)']
-        types['roman_()'] = prefixes
-        prefixes = []
-        for i in range(ord('a'), ord('z')):
-            prefixes.append('(' + chr(i) + ')')
-        types['low_letter_()'] = prefixes
-        prefixes = []
-        for i in range(1, 40):
-            prefixes.append(str(i) + ')')
-        types['number_)'] = prefixes
-
-        prefixes = []
-        for i in range(ord('a'), ord('z')):
-            prefixes.append(chr(i) + ')')
-        types['char_)'] = prefixes
-
-        return types

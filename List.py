@@ -1,4 +1,5 @@
 # encoding=utf-8
+import re
 
 
 class ListItem:
@@ -8,15 +9,14 @@ class ListItem:
         self.prefix = ''
         self.init_prefixes()
         self.list_name = ''
+        self.regex = ''
 
     def is_in_prefixes(self):
         starts_with_prefix = False
 
-        for prefix in self.prefixes:
-            if self.sentence.startswith(prefix):
-                starts_with_prefix = True
-                self.prefix = prefix
-                break
+        if re.match(self.regex, self.sentence):
+            starts_with_prefix = True
+            self.prefix = re.search(self.regex, self.sentence).group(0)
 
         return starts_with_prefix
 
@@ -47,6 +47,7 @@ class LowLetterList(ListItem):
     def __init__(self, sentence):
         ListItem.__init__(self, sentence)
         self.list_name = 'low_letter'
+        self.regex = '^\\w\.'
 
     def init_prefixes(self):
         for i in range(ord('a'), ord('z')):
@@ -62,6 +63,7 @@ class NumberOneLevelList(ListItem):
     def __init__(self, sentence):
         ListItem.__init__(self, sentence)
         self.list_name = 'number0'
+        self.regex = '^\\d+\.'
 
     def init_prefixes(self):
         for i in range(1, 40):
@@ -77,6 +79,7 @@ class NumberTwoLevelList(ListItem):
     def __init__(self, sentence):
         ListItem.__init__(self, sentence)
         self.list_name = 'number1'
+        self.regex = '^\\d+\.\d+'
 
     def init_prefixes(self):
         for i in range(1, 40):
@@ -102,6 +105,7 @@ class BigLetterBracketList(ListItem):
     def __init__(self, sentence):
         ListItem.__init__(self, sentence)
         self.list_name = 'big_letter_()'
+        self.regex = '^\([A-Z]\)'
 
     def init_prefixes(self):
         for i in range(ord('A'), ord('Z')):
@@ -121,6 +125,17 @@ class RomanBracketList(ListItem):
     def init_prefixes(self):
         self.prefixes = ['(i)', '(ii)', '(iii)', '(iv)', '(v)', '(vi)', '(vii)', '(viii)']
 
+    def is_in_prefixes(self):
+        starts_with_prefix = False
+
+        for prefix in self.prefixes:
+            if self.sentence.startswith(prefix):
+                starts_with_prefix = True
+                self.prefix = prefix
+                break
+
+        return starts_with_prefix
+
 
 class LowLetterBracketList(ListItem):
     """
@@ -131,6 +146,7 @@ class LowLetterBracketList(ListItem):
     def __init__(self, sentence):
         ListItem.__init__(self, sentence)
         self.list_name = 'low_letter_()'
+        self.regex = '^\([a-z]\)'
 
     def init_prefixes(self):
         for i in range(ord('a'), ord('z')):
@@ -146,6 +162,7 @@ class NumberBracketList(ListItem):
     def __init__(self, sentence):
         ListItem.__init__(self, sentence)
         self.list_name = 'number_)'
+        self.regex = '^\\d+\)'
 
     def init_prefixes(self):
         for i in range(1, 40):
@@ -161,6 +178,7 @@ class CharBracketList(ListItem):
     def __init__(self, sentence):
         ListItem.__init__(self, sentence)
         self.list_name = 'char_)'
+        self.regex = '^\\w\)'
 
     def init_prefixes(self):
         for i in range(ord('a'), ord('z')):

@@ -1,5 +1,6 @@
 # encoding=utf-8
 import re
+INT_MAX = 100
 
 
 class ListItem:
@@ -35,6 +36,11 @@ class ListItem:
             next_prefix = self.prefixes[index]
         except ValueError as e:
             next_prefix = None
+        except IndexError as e:
+            print e.message
+            print prefix
+            print "Get next prefix"
+            next_prefix = None
         return next_prefix
 
 
@@ -66,7 +72,7 @@ class NumberOneLevelList(ListItem):
         self.regex = '\\d+\.'
 
     def init_prefixes(self):
-        for i in range(1, 40):
+        for i in range(1, INT_MAX):
             self.prefixes.append(str(i) + '.')
 
     def is_neighboring(self, first_prefix, second_prefix):
@@ -90,8 +96,8 @@ class NumberTwoLevelList(ListItem):
         self.regex = '\\d+\.\d+'
 
     def init_prefixes(self):
-        for i in range(1, 40):
-            for j in range(1, 40):
+        for i in range(1, INT_MAX):
+            for j in range(1, INT_MAX):
                 self.prefixes.append(str(i) + '.' + str(j))
 
     def is_begining_list(self):
@@ -110,6 +116,7 @@ class NumberTwoLevelList(ListItem):
             return int(first) + 1 == int(second)
         else:
             return False
+
 
 class BigLetterBracketList(ListItem):
     """
@@ -180,7 +187,7 @@ class NumberBracketList(ListItem):
         self.regex = '\\d+\)'
 
     def init_prefixes(self):
-        for i in range(1, 40):
+        for i in range(1, INT_MAX):
             self.prefixes.append(str(i) + ')')
 
 
@@ -228,5 +235,5 @@ class ArticleNumberDotList(ListItem):
         self.regex = 'ARTICLE\ \\d+\.'
 
     def init_prefixes(self):
-        for i in range(1, 40):
+        for i in range(1, INT_MAX):
             self.prefixes.append('ARTICLE ' + str(i) + '.')

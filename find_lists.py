@@ -2,22 +2,25 @@
 from os import listdir
 from os.path import isfile, join
 from StructuredText import StructuredText
-txt_path = 'txt_from_html/'
-#txt_path = 'Lawyer Test/'
+path = 'txt_from_html/'
+#path = 'Lawyer Test/'
 list_path = 'lists/'
+extencion = 'txt'
+#extencion = 'doc'
 
-
-def find_title():
-    #files_txt = [f for f in listdir(txt_path) if isfile(join(txt_path, f)) and f[-3:] == 'txt']
+def find_list():
+    files = [f for f in listdir(path) if isfile(join(path, f)) and f[-3:] == extencion]
     #files_txt = files_txt[:1]
-    files_txt = ['1AXOw9oDa18zA7ZvTymzzi.txt']
-    #files_txt = ['1BdeYqcvvjtH306sk9gXX3.txt']
-    # files_txt = ['rental-agreement-plain-language-lease.txt']
-    for file in files_txt:
-        txt_before_path = txt_path + file
-        text = StructuredText(txt_before_path)
+    files = ['retainer-agreement.txt']
+    files = ['power-of-attorney.txt']
+    files = ['contract-for-mobile-application-development-services.txt']
+    files = ['1BdeYqcvvjtH306sk9gXX3.txt']
+    # files = ['rental-agreement-plain-language-lease.txt']
+    for file in files:
+        file_path = path + file
+        text = StructuredText(file_path)
         cand = text.find_lists()
         text.write_list_to_file(list_path + file[:-3] + 'html')
 
 
-find_title()
+find_list()

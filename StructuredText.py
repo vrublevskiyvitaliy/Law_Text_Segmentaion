@@ -6,6 +6,7 @@ from nltk.tokenize import sent_tokenize, word_tokenize
 from ListHelper import ListHelper
 from segtok.segmenter import split_single
 
+
 class StructuredText:
 
     def __init__(self, path):
@@ -48,9 +49,9 @@ class StructuredText:
         for l in line:
             if (ord(l)) < 128:
                 ll += l
-        to_replace = ["\n", "\r", "\t", " ", "	", "	"]
+        to_replace = ["\n", "\r", "\t", " ", "	", "	", "_"] # should we add _ ?
         for rep in to_replace:
-            line = line.strip(rep)
+            ll = ll.strip(rep)
         return ll
 
     def filter_content(self):
@@ -63,7 +64,7 @@ class StructuredText:
 
     def divide_by_paragrahp(self):
         # from html
-        if False:
+        if True:
             self.content = [x.strip() for x in self.content]
             paragraph = ''
 

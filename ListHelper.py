@@ -14,6 +14,8 @@ class ListHelper:
             'LowLetterBracketList': LowLetterBracketList,
             'NumberBracketList': NumberBracketList,
             'CharBracketList': CharBracketList,
+            'BigCharDotList': BigCharDotList,
+            'ArticleNumberDotList': ArticleNumberDotList,
         }
 
     @staticmethod
@@ -67,7 +69,18 @@ class ListHelper:
                 next_prefix = ListHelper.get_next_prefix_for_type(first_prefix, type)
                 if next_prefix == second_prefix:
                     return True
+                if ListHelper.is_prefixes_neighboring_inner(first_prefix, second_prefix, type):
+                    return True
             return False
 
+    @staticmethod
+    def is_prefixes_neighboring_inner(first_prefix, second_prefix, type):
+        list_classes = ListHelper.get_list_classes()
+        for list_class in list_classes:
+            instance = list_classes[list_class](first_prefix)
+            if instance.list_name == type and hasattr(instance, 'is_neighboring'):
+                return instance.is_neighboring(first_prefix, second_prefix)
+
+        return False
 
 

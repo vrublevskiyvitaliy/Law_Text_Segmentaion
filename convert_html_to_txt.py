@@ -61,6 +61,6 @@ def save_json(data, path):
 #files = ['/Users/vitaliyvrublevskiy/contracts_2010/01/04/1AXOw9oDa18zA7ZvTymzzi.html']
 files = []
 find_files(files, [path_to_dataset], ['.html'])
-convert_html_to_txt(files)
+convert_html_to_txt(files[:100])
 #data = generate_combined_meta_data(files[:])
 #save_json(data, 'short.json')

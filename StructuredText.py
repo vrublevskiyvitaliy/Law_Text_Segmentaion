@@ -25,6 +25,7 @@ class StructuredText:
         self.divide_by_sent()
         self.generate_all_sent()
         self.generate_text_string()
+        self.sections = []
         print('Title: ' + self.find_title())
 
     def read_content(self):
@@ -188,6 +189,7 @@ class StructuredText:
                 'prefix' : prefix,
             })
         self.group_lists_structure()
+        self.post_analyze_lists_structure()
 
     def group_lists_structure(self):
         list_stack = []
@@ -273,3 +275,58 @@ class StructuredText:
         content = self.generate_html_content(self.list_structure)
         file.write(content)
         file.close()
+
+    def analyze_list_structure(self):
+        if len(self.list_structure) == 0:
+            print 'No structure'
+            return
+        else:
+            # we need to find a list at 0 level with biggest amount of words
+
+            index_of_main_list = None
+            max_chars = 0
+            for index, element in enumerate(self.list_structure):
+                if type(element) is list:
+                    if index_of_main_list is None:
+                        index_of_main_list = index
+                        max_chars = self.count_chars(element)
+                    else:
+                        current_chars = self.count_chars(element)
+                        if current_chars > max_chars:
+                            max_chars = current_chars
+                            index_of_main_list = index
+
+            if index_of_main_list is None:
+                print 'No main list'
+                return
+            # here we have our main list
+            # we can find out name of section
+
+            for index, element in enumerate(self.list_structure[index_of_main_list]):
+                if type(element) is not list and element['is_list_item']:
+                    element['SECTION_NAME'] = element['sentence']
+                    self.sections.append(element['sentence'])
+
+    def count_chars(self, elements):
+        chars = 0
+        for element in elements:
+            if type(element) is list:
+                chars += self.count_chars(element)
+            else:
+                chars += len(element['sentence'])
+
+        return chars
+
+    # remove inner list from outer
+    def post_analyze_lists_structure(self):
+        for index, element in enumerate(self.list_structure):
+            if type(element) is list:
+                if type(element[-1]) is list:
+                    # check coef
+                    outer_list_size = self.count_chars(element)
+                    inner_list_size = self.count_chars(element[-1])
+                    if (inner_list_size * 1.) / outer_list_size > 0.8:
+                        # need to move it out
+                        last_list = element[-1]
+                        self.list_structure[index] = self.list_structure[index][:-1]
+                        self.list_structure.insert(index + 1, last_list)

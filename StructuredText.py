@@ -14,6 +14,7 @@ class StructuredText:
 
     def __init__(self, path):
         self.path = path
+        self.from_html = False
         self.set_id()
         self.path_to_metadata = '1.json'
         self.set_metainfo()
@@ -41,7 +42,9 @@ class StructuredText:
             self.content = f.readlines()
 
     def read_docx(self):
+        self.from_html = False
         self.content = docx2txt.process(self.path).encode('utf-8')
+        self.content = self.content.split("\n")
 
     def set_id(self):
         head, tail = os.path.split(self.path)

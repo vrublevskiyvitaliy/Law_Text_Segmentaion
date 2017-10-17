@@ -16,6 +16,9 @@ class ListHelper:
             'CharBracketList': CharBracketList,
             'BigCharDotList': BigCharDotList,
             'ArticleNumberDotList': ArticleNumberDotList,
+            'SectionCapsNumberDotList': SectionCapsNumberDotList,
+            'SectionNumberDotList': SectionNumberDotList,
+            'NumberThreeLevelList': NumberThreeLevelList,
         }
 
     @staticmethod

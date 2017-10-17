@@ -155,6 +155,8 @@ class StructuredText:
         result = []
         next_is_title = False
         for item in possible_titles:
+            if len(item) == 0:
+                continue
             count = 0
             words = word_tokenize(item)
             if next_is_title:
@@ -190,6 +192,7 @@ class StructuredText:
             self.list_sentances.append({
                 'sentence' : sentence,
                 'prefix' : prefix,
+                'type': ListHelper.get_prefix_type(prefix)
             })
         self.group_lists_structure()
         self.post_analyze_lists_structure()
@@ -202,6 +205,7 @@ class StructuredText:
         for s in self.list_sentances:
             sentence = s['sentence']
             prefix = s['prefix']
+            prefix_type = s['type']
             if len(prefix) == 0:
                 stack_of_all_structure[-1].append({
                     'sentence': sentence,
@@ -220,6 +224,7 @@ class StructuredText:
                                 'sentence': sentence,
                                 'is_list_item': True,
                                 'is_list_beggining': False,
+                                'prefix_type':  prefix_type,
                             })
                             break
                         else:
@@ -230,6 +235,7 @@ class StructuredText:
                                     'sentence': sentence,
                                     'is_list_item': True,
                                     'is_list_beggining': True,
+                                    'prefix_type':  prefix_type,
                                 }])
                                 break
                             else:
@@ -246,6 +252,7 @@ class StructuredText:
                         'sentence': sentence,
                         'is_list_item': True,
                         'is_list_beggining': True,
+                        'prefix_type':  prefix_type,
                     }])
 
         while len(list_stack) > 0:

@@ -7,6 +7,9 @@ from ListHelper import ListHelper
 from segtok.segmenter import split_single
 
 
+
+
+
 class StructuredText:
 
     def __init__(self, path):
@@ -236,3 +239,88 @@ class StructuredText:
         while len(stack) > 0:
             self.grouped_list_sentances.append(end_list)
             stack.pop()
+
+    def group_lists_structure(self):
+        list_stack = []
+        stack_of_all_structure = [
+            []
+        ]
+        for s in self.list_sentances:
+            sentence = s['s']
+            prefix = s['prefix']
+            if len(prefix) == 0:
+                stack_of_all_structure[-1].append({
+                    'sentence': sentence,
+                    'is_list_item': False,
+                })
+            else:
+                if len(list_stack) > 0:
+                    # if the same type
+                    while len(list_stack) > 0:
+                        last_element = list_stack[-1]
+                        if ListHelper.is_prefixes_neighboring(last_element['prefix'], s['prefix']):
+                            # continue the same level
+                            list_stack.pop()
+                            list_stack.append(s)
+                            stack_of_all_structure[-1].append({
+                                'sentence': sentence,
+                                'is_list_item': True,
+                                'is_list_beggining': False,
+                            })
+                            break
+                        else:
+                            # start new list
+                            if ListHelper.is_prefix_begin_list(s['prefix']):
+                                list_stack.append(s)
+                                stack_of_all_structure.append([{
+                                    'sentence': sentence,
+                                    'is_list_item': True,
+                                    'is_list_beggining': True,
+                                }])
+                                break
+                            else:
+                                # close previous list
+                                list_stack.pop()
+                                last_list = stack_of_all_structure[-1]
+                                stack_of_all_structure = stack_of_all_structure[:-1]
+                                stack_of_all_structure[-1].append(last_list)
+
+
+                else:
+                    list_stack.append(s)
+                    stack_of_all_structure.append([{
+                        'sentence': sentence,
+                        'is_list_item': True,
+                        'is_list_beggining': True,
+                    }])
+
+        while len(list_stack) > 0:
+            list_stack.pop()
+            last_list = stack_of_all_structure[-1]
+            stack_of_all_structure = stack_of_all_structure[:-1]
+            stack_of_all_structure[-1].append(last_list)
+
+        assert len(stack_of_all_structure) == 1
+        self.list_structure = stack_of_all_structure[0]
+
+    def generate_html_content(self, elements):
+        content = ''
+        for element in elements:
+            if type(element) is list:
+                content += "<ul>"
+                content += self.generate_html_content(element)
+                content += "</ul>"
+            else:
+                if element['is_list_item']:
+                    content += '<li>'
+                    content += element['sentence']
+                    content += '</li>'
+                else:
+                    content += element['sentence']
+        return content
+
+    def write_group_lists_structure(self, path):
+        file = open(path, 'w')
+        content = self.generate_html_content(self.list_structure)
+        file.write(content)
+        file.close()

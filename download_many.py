@@ -82,4 +82,4 @@ def get_contracts_ids():
 
 
 contracts_ids = get_contracts_ids()
-download_docx_contracts(contracts_ids[1000:], 50)
+download_docx_contracts(contracts_ids[1000:], 2)

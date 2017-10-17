@@ -15,12 +15,15 @@ def find_list():
     files = ['power-of-attorney.txt']
     files = ['contract-for-mobile-application-development-services.txt']
     files = ['1BdeYqcvvjtH306sk9gXX3.txt']
+    files = ['1AXOw9oDa18zA7ZvTymzzi.txt']
     # files = ['rental-agreement-plain-language-lease.txt']
     for file in files:
         file_path = path + file
         text = StructuredText(file_path)
         cand = text.find_lists()
-        text.write_list_to_file(list_path + file[:-3] + 'html')
-
+        cand = text.group_lists_structure()
+        text.write_group_lists_structure(list_path + file[:-3] + 'html')
+        #text.write_list_to_file(list_path + file[:-3] + 'html')
+        print 'file:///Users/vitaliyvrublevskiy/projects/text_segmentation/lists/' + file[:-3] + 'html'
 
 find_list()

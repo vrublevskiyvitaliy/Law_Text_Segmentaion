@@ -177,7 +177,10 @@ class StructuredText:
             })
 
         result = sorted(result, key=lambda v: v['upper'], reverse=True)
-        return result[0]['title']
+        if len(result) > 0:
+            return result[0]['title']
+        else:
+            return 'NOT FOUND'
 
     def write_list_to_file(self, path):
         file = open(path, 'w')

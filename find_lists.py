@@ -17,12 +17,14 @@ def find_list():
     # files = ['contract-for-mobile-application-development-services.txt']
     # files = ['1BdeYqcvvjtH306sk9gXX3.txt']
     # files = ['1AXOw9oDa18zA7ZvTymzzi.txt']
-    files = ['11i1Ws6jtKlAc0YkWRqMEr.docx']
-    #files = files[:10]
+    files = ['1fTqM3ibJO3kCtYVXipzSF.docx']
+    #files = files[:30]
     #files = files[:10]
     # files = ['rental-agreement-plain-language-lease.txt']
     for file in files:
+        print '*********************************'
         file_id = file.split('.')[0]
+        print 'ID ' + file_id
         file_path = path + file
         text = StructuredText(file_path)
         text.find_lists()

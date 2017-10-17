@@ -14,10 +14,17 @@ class ListItem:
 
     def is_in_prefixes(self):
         starts_with_prefix = False
-
-        if re.match('^' + self.regex, self.sentence):
-            starts_with_prefix = True
-            self.prefix = re.search(self.regex, self.sentence).group(0)
+        if self.sentence is None:
+            return starts_with_prefix
+        try:
+            if re.match('^' + self.regex, self.sentence):
+                starts_with_prefix = True
+                self.prefix = re.search(self.regex, self.sentence).group(0)
+        except TypeError as e:
+            print e.message
+            print self.regex
+            print self.sentence
+            print 'is_in_prefixes'
 
         return starts_with_prefix
 
@@ -56,7 +63,7 @@ class LowLetterList(ListItem):
         self.regex = '[a-z]\.'
 
     def init_prefixes(self):
-        for i in range(ord('a'), ord('z')):
+        for i in range(ord('a'), ord('z') + 1):
             self.prefixes.append(chr(i) + '.')
 
 
@@ -172,7 +179,7 @@ class BigLetterBracketList(ListItem):
         self.regex = '\([A-Z]\)'
 
     def init_prefixes(self):
-        for i in range(ord('A'), ord('Z')):
+        for i in range(ord('A'), ord('Z') + 1):
             self.prefixes.append('(' + chr(i) + ')')
 
 
@@ -191,6 +198,8 @@ class RomanBracketList(ListItem):
 
     def is_in_prefixes(self):
         starts_with_prefix = False
+        if self.sentence is None:
+            return starts_with_prefix
 
         for prefix in self.prefixes:
             if self.sentence.startswith(prefix):
@@ -213,7 +222,7 @@ class LowLetterBracketList(ListItem):
         self.regex = '\([a-z]\)'
 
     def init_prefixes(self):
-        for i in range(ord('a'), ord('z')):
+        for i in range(ord('a'), ord('z') + 1):
             self.prefixes.append('(' + chr(i) + ')')
 
 
@@ -245,7 +254,7 @@ class CharBracketList(ListItem):
         self.regex = '\\w\)'
 
     def init_prefixes(self):
-        for i in range(ord('a'), ord('z')):
+        for i in range(ord('a'), ord('z') + 1):
             self.prefixes.append(chr(i) + ')')
 
 
@@ -261,7 +270,7 @@ class BigCharDotList(ListItem):
         self.regex = '[A-Z]\.'
 
     def init_prefixes(self):
-        for i in range(ord('A'), ord('Z')):
+        for i in range(ord('A'), ord('Z') + 1):
             self.prefixes.append(chr(i) + '.')
 
 
@@ -314,3 +323,5 @@ class SectionCapsNumberDotList(ListItem):
 
 
 
+# ADD ARTICLE I , II, 1E7XxSctOZ1kmCL3gRr3Sq
+# Chapter ONE, TWO, .. 1e9lEXRT6nr59q4kb8LulD

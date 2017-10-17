@@ -195,7 +195,7 @@ class StructuredText:
                 'type': ListHelper.get_prefix_type(prefix)
             })
         self.group_lists_structure()
-        self.post_analyze_lists_structure()
+        #self.post_analyze_lists_structure()
 
     def group_lists_structure(self):
         list_stack = []
@@ -244,7 +244,14 @@ class StructuredText:
                                 last_list = stack_of_all_structure[-1]
                                 stack_of_all_structure = stack_of_all_structure[:-1]
                                 stack_of_all_structure[-1].append(last_list)
-
+                    if len(list_stack) == 0:
+                        list_stack.append(s)
+                        stack_of_all_structure.append([{
+                           'sentence': sentence,
+                           'is_list_item': True,
+                           'is_list_beggining': True,
+                           'prefix_type': prefix_type,
+                        }])
 
                 else:
                     list_stack.append(s)

@@ -73,11 +73,14 @@ class ListHelper:
             return False
         else:
             for type in first_type:
-                next_prefix = ListHelper.get_next_prefix_for_type(first_prefix, type)
-                if next_prefix == second_prefix:
-                    return True
-                if ListHelper.is_prefixes_neighboring_inner(first_prefix, second_prefix, type):
-                    return True
+                current_prefix = first_prefix
+                for i in range(3): # error distance allowed
+                    next_prefix = ListHelper.get_next_prefix_for_type(current_prefix, type)
+                    if next_prefix == second_prefix:
+                        return True
+                    if ListHelper.is_prefixes_neighboring_inner(current_prefix, second_prefix, type):
+                        return True
+                    current_prefix = next_prefix
             return False
 
     @staticmethod

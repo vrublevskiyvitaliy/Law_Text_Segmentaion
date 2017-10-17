@@ -328,6 +328,7 @@ class StructuredText:
         return chars
 
     # remove inner list from outer
+    # todo: fix numbers
     def post_analyze_lists_structure(self):
         for index, element in enumerate(self.list_structure):
             if type(element) is list:

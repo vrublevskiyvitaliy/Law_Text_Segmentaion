@@ -17,8 +17,8 @@ def find_list():
     # files = ['contract-for-mobile-application-development-services.txt']
     # files = ['1BdeYqcvvjtH306sk9gXX3.txt']
     # files = ['1AXOw9oDa18zA7ZvTymzzi.txt']
-    #files = ['10bGzlgCb0B3m8oE32PNT1.docx']
-    files = files[:10]
+    files = ['14tsEF5dHpm8B2kKm0TbpP.docx']
+    #files = files[:10]
     #files = files[:10]
     # files = ['rental-agreement-plain-language-lease.txt']
     for file in files:

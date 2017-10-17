@@ -53,7 +53,7 @@ class LowLetterList(ListItem):
     def __init__(self, sentence):
         ListItem.__init__(self, sentence)
         self.list_name = 'low_letter'
-        self.regex = '[a..z]\.'
+        self.regex = '[a-z]\.'
 
     def init_prefixes(self):
         for i in range(ord('a'), ord('z')):
@@ -72,8 +72,9 @@ class NumberOneLevelList(ListItem):
         self.regex = '[1-9]\\d*\.'
 
     def init_prefixes(self):
-        for i in range(1, INT_MAX):
-            self.prefixes.append(str(i) + '.')
+        pass
+        #for i in range(1, INT_MAX):
+        #    self.prefixes.append(str(i) + '.')
 
     def is_neighboring(self, first_prefix, second_prefix):
         if re.match('^' + self.regex + '$', first_prefix) and re.match('^' + self.regex + '$', second_prefix):
@@ -82,6 +83,11 @@ class NumberOneLevelList(ListItem):
             return int(first) + 1 == int(second)
         else:
             return False
+
+    def get_next_prefix(self, prefix):
+        parts = prefix.split('.')
+        parts[0] = str(int(parts[0]) + 1)
+        return str(parts[0]) + '.'
 
 
 class NumberTwoLevelList(ListItem):
@@ -96,9 +102,10 @@ class NumberTwoLevelList(ListItem):
         self.regex = '[1-9]\\d*\.\\d+'
 
     def init_prefixes(self):
-        for i in range(1, INT_MAX):
-            for j in range(1, INT_MAX):
-                self.prefixes.append(str(i) + '.' + str(j))
+        pass
+        #for i in range(1, INT_MAX):
+        #    for j in range(1, INT_MAX):
+        #        self.prefixes.append(str(i) + '.' + str(j))
 
     def is_begining_list(self):
         second_part_prefix = self.prefix.split('.')[1]
@@ -251,7 +258,7 @@ class BigCharDotList(ListItem):
     def __init__(self, sentence):
         ListItem.__init__(self, sentence)
         self.list_name = 'big_char_.'
-        self.regex = '[A..Z]\.'
+        self.regex = '[A-Z]\.'
 
     def init_prefixes(self):
         for i in range(ord('A'), ord('Z')):

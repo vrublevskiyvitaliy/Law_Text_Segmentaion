@@ -25,10 +25,14 @@ class ListHelper:
     def get_prefix_type(prefix):
         types = []
         list_classes = ListHelper.get_list_classes()
+        longest_prefix = ''
         for list_class in list_classes:
             instance = list_classes[list_class](prefix)
             if instance.is_in_prefixes():
-                types.append(instance.list_name)
+                if instance.prefix > longest_prefix:
+                    types = []
+                    types.append(instance.list_name)
+                    longest_prefix = instance.prefix
 
         return types
 

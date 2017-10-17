@@ -20,10 +20,8 @@ def find_list():
     for file in files:
         file_path = path + file
         text = StructuredText(file_path)
-        cand = text.find_lists()
-        cand = text.group_lists_structure()
+        text.find_lists()
         text.write_group_lists_structure(list_path + file[:-3] + 'html')
-        #text.write_list_to_file(list_path + file[:-3] + 'html')
         print 'file:///Users/vitaliyvrublevskiy/projects/text_segmentation/lists/' + file[:-3] + 'html'
 
 find_list()

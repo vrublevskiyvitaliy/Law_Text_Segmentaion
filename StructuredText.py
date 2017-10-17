@@ -181,64 +181,13 @@ class StructuredText:
 
     def find_lists(self):
         self.list_sentances = []
-        for s in self.all_sent:
-            prefix = ListHelper.get_possible_list_id(s)
-            prefix_type = None
-            if len(prefix) > 0:
-                ss = s[len(prefix):]
-                ss = '<LIST_ITEM>' + prefix + '</LIST_ITEM>' + ss
-            else:
-                ss = s
+        for sentence in self.all_sent:
+            prefix = ListHelper.get_possible_list_id(sentence)
             self.list_sentances.append({
-                's' : s,
-                'ss' : ss,
+                'sentence' : sentence,
                 'prefix' : prefix,
             })
-        self.group_lists()
-
-    def group_lists(self):
-        # <ol>
-        # <li> </li>
-        start_list = {'sss': '<ul>'}
-        end_list = {'sss': '</ul>'}
-
-        stack = []
-        self.grouped_list_sentances = []
-        flag_found_list = False
-        for s in self.list_sentances:
-            s['sss'] = s['s']
-            if len(s['prefix']) == 0:
-                self.grouped_list_sentances.append(s)
-            else:
-                flag_found_list = True
-                s['sss'] = '<li>' + s['s'] + '</li>'
-
-                if len(stack) > 0:
-                    # if the same type
-                    while len(stack) > 0:
-                        last_element = stack[-1]
-                        if ListHelper.is_prefixes_neighboring(last_element['prefix'], s['prefix']):
-                            stack.pop()
-                            stack.append(s)
-                            break
-                        else:
-                            # start new list
-                            if ListHelper.is_prefix_begin_list(s['prefix']):
-                                self.grouped_list_sentances.append(start_list)
-                                stack.append(s)
-                                break
-                            else:
-                                # close previous list
-                                self.grouped_list_sentances.append(end_list)
-                                stack.pop()
-                else:
-                    self.grouped_list_sentances.append(start_list)
-                    stack.append(s)
-
-                self.grouped_list_sentances.append(s)
-        while len(stack) > 0:
-            self.grouped_list_sentances.append(end_list)
-            stack.pop()
+        self.group_lists_structure()
 
     def group_lists_structure(self):
         list_stack = []
@@ -246,7 +195,7 @@ class StructuredText:
             []
         ]
         for s in self.list_sentances:
-            sentence = s['s']
+            sentence = s['sentence']
             prefix = s['prefix']
             if len(prefix) == 0:
                 stack_of_all_structure[-1].append({

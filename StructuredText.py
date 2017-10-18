@@ -402,10 +402,6 @@ class StructuredText:
                 rest_words = words[len(caps_words):]
                 first_s['sentence'] += ' '.join(caps_words)
                 second_s['sentence'] = ' '.join(rest_words)
-                #print '*****************'
-                #print words
-                # todo:
-                section_name = ''
             else:
                 stop_chars = ['.']
                 section_name = ''

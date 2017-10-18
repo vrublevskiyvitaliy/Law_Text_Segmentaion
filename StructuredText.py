@@ -416,8 +416,8 @@ class StructuredText:
                     else:
                         section_name += ch
 
-            first_s['sentence'] += section_name
-            second_s['sentence'] = second_s['sentence'][len(section_name):]
+                first_s['sentence'] += section_name
+                second_s['sentence'] = second_s['sentence'][len(section_name):]
 
         if second_s is None:
             return [first_s]

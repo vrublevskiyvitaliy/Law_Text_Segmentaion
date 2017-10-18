@@ -16,9 +16,9 @@ def find_list():
     # files = ['power-of-attorney.txt']
     # files = ['contract-for-mobile-application-development-services.txt']
     # files = ['1BdeYqcvvjtH306sk9gXX3.txt']
-    # files = ['1AXOw9oDa18zA7ZvTymzzi.txt']
-    files = ['1fTqM3ibJO3kCtYVXipzSF.docx']
-    #files = files[:30]
+    #files = ['1AXOw9oDa18zA7ZvTymzzi.docx']
+    #files = ['103uLzqu45vthv8iYk5jJu.docx']
+    files = files[:30]
     #files = files[:10]
     # files = ['rental-agreement-plain-language-lease.txt']
     for file in files:

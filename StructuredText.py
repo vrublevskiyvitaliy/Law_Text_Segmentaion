@@ -7,9 +7,6 @@ from ListHelper import ListHelper
 from segtok.segmenter import split_single
 
 
-
-
-
 class StructuredText:
 
     def __init__(self, path):
@@ -198,6 +195,7 @@ class StructuredText:
                 'type': ListHelper.get_prefix_type(prefix)
             })
         self.group_lists_structure()
+        self.process_list_names()
         #self.post_analyze_lists_structure()
 
     def group_lists_structure(self):
@@ -228,6 +226,7 @@ class StructuredText:
                                 'is_list_item': True,
                                 'is_list_beggining': False,
                                 'prefix_type':  prefix_type,
+                                'prefix': prefix,
                             })
                             break
                         else:
@@ -239,6 +238,7 @@ class StructuredText:
                                     'is_list_item': True,
                                     'is_list_beggining': True,
                                     'prefix_type':  prefix_type,
+                                    'prefix': prefix,
                                 }])
                                 break
                             else:
@@ -254,6 +254,7 @@ class StructuredText:
                            'is_list_item': True,
                            'is_list_beggining': True,
                            'prefix_type': prefix_type,
+                           'prefix': prefix,
                         }])
 
                 else:
@@ -263,6 +264,7 @@ class StructuredText:
                         'is_list_item': True,
                         'is_list_beggining': True,
                         'prefix_type':  prefix_type,
+                        'prefix': prefix,
                     }])
 
         while len(list_stack) > 0:
@@ -303,12 +305,12 @@ class StructuredText:
         else:
             # we need to find a list at 0 level with biggest amount of words
 
-            index_of_main_list = None
+            self.index_of_main_list = None
             max_chars = 0
             for index, element in enumerate(self.list_structure):
                 if type(element) is list:
-                    if index_of_main_list is None:
-                        index_of_main_list = index
+                    if self.index_of_main_list is None:
+                        self.index_of_main_list = index
                         max_chars = self.count_chars(element)
                     else:
                         current_chars = self.count_chars(element)
@@ -316,13 +318,13 @@ class StructuredText:
                             max_chars = current_chars
                             index_of_main_list = index
 
-            if index_of_main_list is None:
+            if self.index_of_main_list is None:
                 print 'No main list'
                 return
             # here we have our main list
             # we can find out name of section
 
-            for index, element in enumerate(self.list_structure[index_of_main_list]):
+            for index, element in enumerate(self.list_structure[self.index_of_main_list]):
                 if type(element) is not list and element['is_list_item']:
                     element['SECTION_NAME'] = element['sentence']
                     self.sections.append(element['sentence'])
@@ -351,3 +353,65 @@ class StructuredText:
                         last_list = element[-1]
                         self.list_structure[index] = self.list_structure[index][:-1]
                         self.list_structure.insert(index + 1, last_list)
+
+    def process_section_names_list(self, parent):
+        index = 0
+        while index < len(parent):
+            element = parent[index]
+            if type(element) is list:
+                self.process_section_names_list(element)
+            else:
+                if element['is_list_item']:
+                    # check if can use the next element also
+                    try:
+                        next_index = index + 1
+                        next_sentance = parent[next_index]
+                        if type(next_sentance) is list or next_sentance['is_list_item']:
+                            next_sentance = None
+                    except IndexError as e:
+                        next_sentance = None
+
+                    prefix_list = parent[:index - 1] if index > 0 else []
+
+                    if next_sentance is not None:
+                        pass
+                        # we use two sentences
+                        middle_list = self.process_two_sentences(element, next_sentance)
+                        suffix_list = parent[index + 2:]
+                    else:
+                        pass
+                        # we use only one sentences
+                        suffix_list = parent[index + 1:]
+                        middle_list = self.process_two_sentences(element)
+                    parent = prefix_list + middle_list + suffix_list
+            index += 1
+
+    def process_two_sentences(self, first_s, second_s = None):
+        if first_s['sentence'] == first_s['prefix'] and second_s is not None and len(second_s['sentence']) > 0:
+            # find title in second_s
+            words = word_tokenize(second_s['sentence'])
+            # if can define by first word
+            is_caps = words[0].isupper()
+            if is_caps:
+                # todo:
+                section_name = ''
+            else:
+                stop_chars = ['.']
+                section_name = ''
+                for ch in second_s['sentence']:
+                    if ch in stop_chars:
+                        section_name += ch
+                        break
+                    else:
+                        section_name += ch
+
+            first_s['sentence'] += section_name
+            second_s['sentence'] = second_s['sentence'][len(section_name):]
+
+        if second_s is None:
+            return [first_s]
+        else:
+            return [first_s, second_s]
+
+    def process_list_names(self):
+        self.process_section_names_list(self.list_structure)

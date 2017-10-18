@@ -24,6 +24,7 @@ class StructuredText:
         self.generate_all_sent()
         self.generate_text_string()
         self.sections = []
+        self.sections_full_name = []
         print('Title: ' + self.find_title())
 
     def read_content(self):
@@ -326,8 +327,10 @@ class StructuredText:
 
             for index, element in enumerate(self.list_structure[self.index_of_main_list]):
                 if type(element) is not list and element['is_list_item']:
-                    element['SECTION_NAME'] = element['sentence']
-                    self.sections.append(element['sentence'])
+                    section_name = element['sentence'][len(element['prefix']):]
+                    element['SECTION_NAME'] = section_name
+                    self.sections.append(section_name)
+                    self.sections_full_name.append(element['sentence'])
 
     def count_chars(self, elements):
         chars = 0

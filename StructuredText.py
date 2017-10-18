@@ -393,6 +393,17 @@ class StructuredText:
             # if can define by first word
             is_caps = words[0].isupper()
             if is_caps:
+                caps_words = []
+                for w in words:
+                    if w.isupper():
+                        caps_words.append(w)
+                    else:
+                        break
+                rest_words = words[len(caps_words):]
+                first_s['sentence'] += ' '.join(caps_words)
+                second_s['sentence'] = ' '.join(rest_words)
+                #print '*****************'
+                #print words
                 # todo:
                 section_name = ''
             else:

@@ -289,7 +289,7 @@ class StructuredText:
                     content += element['sentence']
                     content += '</li>'
                 else:
-                    content += element['sentence']
+                    content += element['sentence'] + '<br>'
         return content
 
     def write_group_lists_structure(self, path):

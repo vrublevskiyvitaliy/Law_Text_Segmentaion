@@ -1,7 +1,7 @@
 # Text_Segmentaion
 Structured data extraction from unstructured text based on law documents
 
-The main gola of the project is to extract/divide law documents into sections like 
+The main goal of the project is to extract/divide law documents into sections like 
 ```python
 ["Defined Terms", "Term of Agreement", "Company's Covenants Summarized", "The Executive's Covenants", "Certain Compensation Other Than Severance Payments"]
 ```

@@ -18,26 +18,12 @@ def get_bad_docx():
 
 def download_docx_contracts(contracts_ids, contracts_num):
     cookie = {
-        '__cfduid': 'd4a23cb5a2d676396be7fd88a0b82b78f1505115716',
-        'session': 'eyJjc3JmIjoiYlZINGFPb0kxNXlnN3V1cXFveUlYaCJ9|1505115716|eff56d3da7623bd2aef4f8d43247ef75bcd75f2d',
-        'ajs_anonymous_id': '%22e709dd72-97e4-444f-b685-73913b836bb8%22',
-        'csrf': 'bVH4aOoI15yg7uuqqoyIXh',
-        'auth': 'eyJfdXNlciI6WzU2Nzc1ODY3MDUyODUxMjAsMSwiSVJ2RGdFR2FqcXJJYzVkTGJGUXdRNyIsMTUwODA5MTc3NywxNTA4MDkxNzc3LCJWaXRhbGlpIFZydWJsZXZza3lpIl19|1508091782|7f657355f2b2b306d028123ce739649fb8a8a675',
-        '_ga': 'GA1.2.923972133.1505115718',
-        '_gid': 'GA1.2.1020241738.1506851128',
-        'v': '60',
-        'ajs_user_id': 'null',
-        'ajs_group_id': 'null',
-        '_gat': '1'
+        'auth': 'eyJfdXNlciI6WzU3NjE5MzUwODE0NzIwMDAsMCwiUG9OTVhnNWo4OVM1S045UU90RnE5TSIsMTUwODc0NzI3NCwxNTA4NzQ3Mjc0LG51bGxdfQ\075\075|1508747280|afaf02f5eb311ae7a3d81f8d6efd229385fb8230',
     }
 
-    # cookie = {
-    #     # '__cfduid': 'd4a23cb5a2d676396be7fd88a0b82b78f1505115716',
-    #     # 'session': 'eyJjc3JmIjoiYlZINGFPb0kxNXlnN3V1cXFveUlYaCJ9|1505115716|eff56d3da7623bd2aef4f8d43247ef75bcd75f2d',
-    #     # 'ajs_anonymous_id': '%22e709dd72-97e4-444f-b685-73913b836bb8%22',
-    #     # 'csrf': 'bVH4aOoI15yg7uuqqoyIXh',
-    #     'auth': 'eyJfdXNlciI6WzU3NjE5MzUwODE0NzIwMDAsMCwiaFZjNlhZTGJ3TWdjekJMNnRlWjk5OCIsMTUwODA3NjYxMCwxNTA4MDc2NjEwLG51bGxdfQ\075\075|1508076621|7e825751cf3965bd4f4fa1b089fa63ab831907ef',
-    # }
+    cookie = {
+        'auth': 'eyJfdXNlciI6WzU2Nzc1ODY3MDUyODUxMjAsMSwiMXBQMnJUcEw0OU5LYXpTa3kwY0oxMSIsMTUwODc1MTI5MCwxNTA4NzUxMjkwLCJWaXRhbGlpIFZydWJsZXZza3lpIl19|1508751294|b44520043e9ce95397453a2a19699fd759910356',
+    }
 
 
     bad_docx = get_bad_docx()
@@ -82,4 +68,4 @@ def get_contracts_ids():
 
 
 contracts_ids = get_contracts_ids()
-download_docx_contracts(contracts_ids[1000:], 2)
+download_docx_contracts(contracts_ids[1000:], 48)

@@ -347,26 +347,49 @@ class StructuredText:
         #content = self.generate_parsed_content(self.list_structure)
         self.find_title_using_list_structure(all_sentences)
         self.fix_list_end(all_sentences)
+        self.set_paragraphs_ends(all_sentences)
         content = self.title_sentence
 
+        open_paragraph = False
+
         for s in all_sentences:
+            is_list_beggining = 'is_list_beggining' in s.keys() and s['is_list_beggining']
+            is_section = 'is_section' in s.keys() and s['is_section']
+            is_list_item = 'is_list_item' in s.keys() and s['is_list_item']
+            is_title = 'is_title' in s.keys() and s['is_title']
+            is_list_ending = 'is_list_ending' in s.keys() and s['is_list_ending']
+            close_p = 'end_paragraph' in s.keys() and s['end_paragraph']
+
+            can_open_p = not is_list_beggining and not is_section and not is_list_item
+
             tmp_s = ''
-            if 'is_list_beggining' in s.keys() and s['is_list_beggining']:
+
+            if open_paragraph and (is_list_beggining or is_section or is_list_item or is_title or is_list_ending):
+                tmp_s += '</p>' + "\n"
+                open_paragraph = False
+
+            if is_list_beggining:
                 tmp_s += '<l>' + "\n"
 
-            if 'is_section' in s.keys() and s['is_section']:
-                tmp_s += '<s> ' + s['sentence'] + ' </s>'
-            elif 'is_list_item' in s.keys() and s['is_list_item']:
+            if is_section:
+                tmp_s += '<s> ' + s['sentence'] + ' </s>' + "\n"
+            elif is_list_item:
                 tmp_s += '<le> ' + s['sentence'] + ' </le>'
-            elif 'is_title' in s.keys() and s['is_title']:
-                tmp_s += '<t> ' + s['sentence'] + ' </t>'
+            elif is_title:
+                tmp_s += '<t> ' + s['sentence'] + ' </t>' + "\n"
+            elif close_p and open_paragraph:
+                tmp_s += s['sentence'] + ' </p>' + "\n"
+                open_paragraph = False
+            elif not open_paragraph:
+                tmp_s += '<p> ' + s['sentence']
+                open_paragraph = True
             else:
                 tmp_s += s['sentence']
 
-            if 'is_list_ending' in s.keys() and s['is_list_ending']:
+            if is_list_ending:
                 tmp_s += '</l>' + "\n"
 
-            tmp_s += "\n" # temporary
+            #tmp_s += "\n" # temporary
             file.write(tmp_s)
         # file.write(content)
         file.close()
@@ -574,4 +597,18 @@ class StructuredText:
                 sentences[index]['is_list_ending'] = False
 
     def set_paragraphs_ends(self, sentences):
-        pass
+        sentence_index = 0
+        current_size = 0
+        sentences[0]['start_paragraph'] = True
+        sentences[-1]['end_paragraph'] = True
+
+        for p_index, paragraph in enumerate(self.structure_text['paragraph']):
+            current_size = 0
+            size = len(paragraph['content'])
+            while current_size < size and sentence_index < len(sentences):
+                current_size += len(sentences[sentence_index]['sentence'])
+                sentence_index += 1
+
+            if sentence_index < len(sentences):
+                sentences[sentence_index]['start_paragraph'] = True
+            sentences[sentence_index - 1]['end_paragraph'] = True

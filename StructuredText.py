@@ -25,7 +25,8 @@ class StructuredText:
         self.generate_text_string()
         self.sections = []
         self.sections_full_name = []
-        print('Title: ' + self.find_title())
+        self.title_sentence = None
+        # print('Title: ' + self.find_title())
 
     def read_content(self):
         if self.path[-3:] == 'txt':
@@ -47,6 +48,35 @@ class StructuredText:
     def set_id(self):
         head, tail = os.path.split(self.path)
         self.id = tail[:-4]
+
+    def get_first_n_sentance_from_list_structure(self, n, node=None):
+        sentences = []
+
+        if n <= 0:
+            return sentences
+
+        if node is None:
+            node = self.list_structure
+
+        for element in node:
+            if n <= 0:
+                break
+
+            if type(element) is list:
+                tmp_sentences = self.get_first_n_sentance_from_list_structure(n, element)
+                sentences = sentences + tmp_sentences
+                n = n - len(tmp_sentences)
+            else:
+                sentences.append(element['sentence'])
+                n = n - 1
+
+        return sentences
+
+    def find_title_using_list_structure(self):
+        possible_titles = self.get_first_n_sentance_from_list_structure(10)
+        title = self.find_title_in_sentences(possible_titles)
+        if title != 'NOT FOUND':
+            self.title_sentence = title
 
     def filter_line(self, line):
         ll = ''
@@ -144,9 +174,7 @@ class StructuredText:
                 self.meta = record
                 break
 
-
-    def find_title(self):
-        possible_titles = self.all_sent[:10]
+    def find_title_in_sentences(self, possible_titles):
         with open('wost_used_words_in_title.json') as f:
             most_used_words = json.load(f)
 
@@ -179,6 +207,10 @@ class StructuredText:
             return result[0]['title']
         else:
             return 'NOT FOUND'
+
+    def find_title(self):
+        possible_titles = self.all_sent[:10]
+        return self.find_title_in_sentences(possible_titles)
 
     def write_list_to_file(self, path):
         file = open(path, 'w')
@@ -296,6 +328,14 @@ class StructuredText:
     def write_group_lists_structure(self, path):
         file = open(path, 'w')
         content = self.generate_html_content(self.list_structure)
+        file.write(content)
+        file.close()
+
+    def save_parsed(self, path):
+        file = open(path, 'w')
+        #content = self.generate_html_content(self.list_structure)
+        self.find_title_using_list_structure()
+        content = self.title_sentence
         file.write(content)
         file.close()
 

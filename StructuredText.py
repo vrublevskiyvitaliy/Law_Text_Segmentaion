@@ -333,10 +333,27 @@ class StructuredText:
 
     def save_parsed(self, path):
         file = open(path, 'w')
-        #content = self.generate_html_content(self.list_structure)
-        self.find_title_using_list_structure()
+        all_sentences = self.get_all_sentences_from_list_structure()
+        #content = self.generate_parsed_content(self.list_structure)
+        #self.find_title_using_list_structure()
         content = self.title_sentence
-        file.write(content)
+
+        for s in all_sentences:
+            tmp_s = ''
+            if 'is_list_beggining' in s.keys() and s['is_list_beggining']:
+                tmp_s += '<l>' + "\n"
+
+            if 'is_list_item' in s.keys() and s['is_list_item']:
+                tmp_s += '<le> ' + s['sentence'] + ' </le>'
+            else:
+                tmp_s += s['sentence']
+
+            if 'is_list_ending' in s.keys() and s['is_list_ending']:
+                tmp_s += '</l>' + "\n"
+
+            tmp_s += "\n" # temporary
+            file.write(tmp_s)
+        # file.write(content)
         file.close()
 
     def analyze_list_structure(self):
@@ -511,3 +528,20 @@ class StructuredText:
 
     def process_list_names(self):
         self.process_section_names_list(self.list_structure)
+
+    def get_all_sentences_from_list_structure(self, node=None):
+        sentences = []
+
+        if node is None:
+            node = self.list_structure
+
+        for element in node:
+            if type(element) is list:
+                tmp_sentences = self.get_all_sentences_from_list_structure(element)
+                tmp_sentences[0]['is_list_beggining'] = True
+                tmp_sentences[-1]['is_list_ending'] = True
+                sentences = sentences + tmp_sentences
+            else:
+                sentences.append(element)
+
+        return sentences

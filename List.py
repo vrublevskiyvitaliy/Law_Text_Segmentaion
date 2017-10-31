@@ -96,6 +96,11 @@ class NumberOneLevelList(ListItem):
         parts[0] = str(int(parts[0]) + 1)
         return str(parts[0]) + '.'
 
+    def is_begining_list(self):
+        p = self.sentence.strip('.')
+
+        return int(p) == 1
+
 
 class NumberTwoLevelList(ListItem):
     """

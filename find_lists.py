@@ -66,9 +66,10 @@ def find_list():
         file_path = path + file
         text = StructuredText(file_path)
         text.find_lists()
+        text.analyze_list_structure()
         text.write_group_lists_structure(list_path + file_id + '.html')
         text.save_parsed(parsed_path + file_id + '.txt')
-        text.analyze_list_structure()
+
         print_sections(text.sections)
         add_sections(text.sections)
         print 'file:///Users/vitaliyvrublevskiy/projects/text_segmentation/lists/' + file_id + '.html'

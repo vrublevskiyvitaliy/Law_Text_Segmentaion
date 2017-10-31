@@ -343,7 +343,9 @@ class StructuredText:
             if 'is_list_beggining' in s.keys() and s['is_list_beggining']:
                 tmp_s += '<l>' + "\n"
 
-            if 'is_list_item' in s.keys() and s['is_list_item']:
+            if 'is_section' in s.keys() and s['is_section']:
+                tmp_s += '<s> ' + s['sentence'] + ' </s>'
+            elif 'is_list_item' in s.keys() and s['is_list_item']:
                 tmp_s += '<le> ' + s['sentence'] + ' </le>'
             else:
                 tmp_s += s['sentence']
@@ -374,7 +376,7 @@ class StructuredText:
                         current_chars = self.count_chars(element)
                         if current_chars > max_chars:
                             max_chars = current_chars
-                            index_of_main_list = index
+                            self.index_of_main_list = index
 
             if self.index_of_main_list is None:
                 print 'No main list'
@@ -386,6 +388,7 @@ class StructuredText:
                 if type(element) is not list and element['is_list_item']:
                     section_name = element['sentence'][len(element['prefix']):]
                     element['SECTION_NAME'] = section_name
+                    self.list_structure[self.index_of_main_list][index]['is_section'] = True
                     self.sections.append(section_name)
                     self.sections_full_name.append(element['sentence'])
 

@@ -72,10 +72,20 @@ class StructuredText:
 
         return sentences
 
-    def find_title_using_list_structure(self):
-        possible_titles = self.get_first_n_sentance_from_list_structure(10)
+    def find_title_using_list_structure(self, sentences):
+        tmp = sentences[:10]
+        possible_titles = []
+        for s in tmp:
+            possible_titles.append(s['sentence'])
+
         title = self.find_title_in_sentences(possible_titles)
         if title != 'NOT FOUND':
+            key = 0
+            for index, s in enumerate(possible_titles):
+                if s == title:
+                    key = index
+                    break
+            sentences[key]['is_title'] = True
             self.title_sentence = title
 
     def filter_line(self, line):
@@ -335,7 +345,7 @@ class StructuredText:
         file = open(path, 'w')
         all_sentences = self.get_all_sentences_from_list_structure()
         #content = self.generate_parsed_content(self.list_structure)
-        #self.find_title_using_list_structure()
+        self.find_title_using_list_structure(all_sentences)
         content = self.title_sentence
 
         for s in all_sentences:
@@ -347,6 +357,8 @@ class StructuredText:
                 tmp_s += '<s> ' + s['sentence'] + ' </s>'
             elif 'is_list_item' in s.keys() and s['is_list_item']:
                 tmp_s += '<le> ' + s['sentence'] + ' </le>'
+            elif 'is_title' in s.keys() and s['is_title']:
+                tmp_s += '<t> ' + s['sentence'] + ' </t>'
             else:
                 tmp_s += s['sentence']
 

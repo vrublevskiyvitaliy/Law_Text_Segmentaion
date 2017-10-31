@@ -109,7 +109,7 @@ class StructuredText:
 
     def divide_by_paragrahp(self):
         # from html
-        if True:
+        if False:
             self.content = [x.strip() for x in self.content]
             paragraph = ''
 
@@ -346,6 +346,7 @@ class StructuredText:
         all_sentences = self.get_all_sentences_from_list_structure()
         #content = self.generate_parsed_content(self.list_structure)
         self.find_title_using_list_structure(all_sentences)
+        self.fix_list_end(all_sentences)
         content = self.title_sentence
 
         for s in all_sentences:
@@ -560,3 +561,17 @@ class StructuredText:
                 sentences.append(element)
 
         return sentences
+
+    def fix_list_end(self, sentences):
+        last_list_index = -1
+        for index, s in enumerate(sentences):
+            if 'is_list_item' in s.keys() and s['is_list_item']:
+                last_list_index = index
+            elif 'is_list_item' in s.keys() and 'is_list_ending' in s.keys() and s['is_list_ending'] \
+                    and not s['is_list_item']:
+                # fix this
+                sentences[last_list_index]['is_list_ending'] = True
+                sentences[index]['is_list_ending'] = False
+
+    def set_paragraphs_ends(self, sentences):
+        pass

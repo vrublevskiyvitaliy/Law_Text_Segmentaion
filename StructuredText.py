@@ -423,47 +423,46 @@ class StructuredText:
             words = word_tokenize(first_s['sentence'][len(first_s['prefix']):])
             middle_s = None
             # if can define by first word
-            is_caps = words[0].isupper()
-            if (words[0] == 'Waiver'):
-                t = 0
-            if is_caps:
-                caps_words = []
-                for w in words:
-                    if w.isupper():
-                        caps_words.append(w)
-                    else:
-                        break
-                rest_words = words[len(caps_words):]
-                first_s['sentence'] = ' '.join(caps_words)
-                if (len(rest_words)) > 0:
-                    middle_s = {
-                       'sentence': ' '.join(rest_words),
-                       'is_list_item': False,
-                       'is_list_beggining': False,
-                    }
-            else:
-                stop_chars = ['.']
-                section_name = ''
-                for ch in first_s['sentence'][len(first_s['prefix']):]:
-                    if ch in stop_chars:
-                        section_name += ch
-                        break
-                    else:
-                        section_name += ch
+            if len(words) > 0:
+                is_caps = words[0].isupper()
+                if is_caps:
+                    caps_words = []
+                    for w in words:
+                        if w.isupper():
+                            caps_words.append(w)
+                        else:
+                            break
+                    rest_words = words[len(caps_words):]
+                    first_s['sentence'] = ' '.join(caps_words)
+                    if (len(rest_words)) > 0:
+                        middle_s = {
+                           'sentence': ' '.join(rest_words),
+                           'is_list_item': False,
+                           'is_list_beggining': False,
+                        }
+                else:
+                    stop_chars = ['.']
+                    section_name = ''
+                    for ch in first_s['sentence'][len(first_s['prefix']):]:
+                        if ch in stop_chars:
+                            section_name += ch
+                            break
+                        else:
+                            section_name += ch
 
-                first_s['sentence'] = first_s['prefix'] + section_name
-                if len(first_s['sentence'][len(section_name) + len(first_s['prefix']):]) > 0:
-                    middle_s = {
-                       'sentence': first_s['sentence'][len(section_name) + len(first_s['prefix']):],
-                       'is_list_item': False,
-                       'is_list_beggining': False,
-                    }
-            ans = [first_s]
-            if middle_s is not None:
-                ans.append(middle_s)
-            if second_s is not None:
-                ans.append(second_s)
-                return ans
+                    first_s['sentence'] = first_s['prefix'] + section_name
+                    if len(first_s['sentence'][len(section_name) + len(first_s['prefix']):]) > 0:
+                        middle_s = {
+                           'sentence': first_s['sentence'][len(section_name) + len(first_s['prefix']):],
+                           'is_list_item': False,
+                           'is_list_beggining': False,
+                        }
+                ans = [first_s]
+                if middle_s is not None:
+                    ans.append(middle_s)
+                if second_s is not None:
+                    ans.append(second_s)
+                    return ans
 
         if second_s is None:
             return [first_s]

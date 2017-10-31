@@ -368,13 +368,13 @@ class StructuredText:
                 tmp_s += '</p>' + "\n"
                 open_paragraph = False
 
-            if is_list_beggining:
+            if is_list_beggining and not is_section:
                 tmp_s += '<l>' + "\n"
 
             if is_section:
                 tmp_s += '<s> ' + s['sentence'] + ' </s>' + "\n"
             elif is_list_item:
-                tmp_s += '<le> ' + s['sentence'] + ' </le>'
+                tmp_s += '<le> ' + s['sentence'] + ' </le>' + "\n"
             elif is_title:
                 tmp_s += '<t> ' + s['sentence'] + ' </t>' + "\n"
             elif close_p and open_paragraph:
@@ -386,7 +386,7 @@ class StructuredText:
             else:
                 tmp_s += s['sentence']
 
-            if is_list_ending:
+            if is_list_ending and not is_section:
                 tmp_s += '</l>' + "\n"
 
             #tmp_s += "\n" # temporary
@@ -529,7 +529,7 @@ class StructuredText:
                         else:
                             break
                     rest_words = words[len(caps_words):]
-                    first_s['sentence'] = ' '.join(caps_words)
+                    first_s['sentence'] = first_s['prefix'] + ' '.join(caps_words)
                     if (len(rest_words)) > 0:
                         middle_s = {
                            'sentence': ' '.join(rest_words),

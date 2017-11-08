@@ -19,6 +19,8 @@ class ListHelper:
             'SectionCapsNumberDotList': SectionCapsNumberDotList,
             'SectionNumberDotList': SectionNumberDotList,
             'NumberThreeLevelList': NumberThreeLevelList,
+            'SectionBracketsWithoutOrderList': SectionBracketsWithoutOrderList,
+            'RomanDotList': RomanDotList,
         }
 
     @staticmethod
@@ -29,10 +31,12 @@ class ListHelper:
         for list_class in list_classes:
             instance = list_classes[list_class](prefix)
             if instance.is_in_prefixes():
-                if instance.prefix > longest_prefix:
+                if len(instance.prefix) > len(longest_prefix):
                     types = []
                     types.append(instance.list_name)
                     longest_prefix = instance.prefix
+                elif len(instance.prefix) == len(longest_prefix):
+                    types.append(instance.list_name)
 
         return types
 

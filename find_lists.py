@@ -4,14 +4,14 @@ from os.path import isfile, join
 from StructuredText import StructuredText
 import json
 
-path = 'documents/'
-parsed_path = 'parsed/'
+#path = 'documents/'
+parsed_path = 'parsed_test/'
 
 # path = 'txt_from_html/'
-#path = 'Lawyer Test/'
+path = 'test/'
 list_path = 'lists/'
 #extencion = 'txt'
-extencion = 'docx'
+extencion = 'txt'
 
 
 def filter_section(s):
@@ -52,8 +52,8 @@ def find_list():
     # files = ['retainer-agreement.txt']
     # files = ['power-of-attorney.txt']
     # files = ['contract-for-mobile-application-development-services.txt']
-    # files = ['1BdeYqcvvjtH306sk9gXX3.txt']
-    files = ['1AXOw9oDa18zA7ZvTymzzi.docx']
+    #files = ['contract-for-mobile-application-development-services.txt']
+    files = ['3.txt']
     #files = ['1gSpQJeKuF8YWFRwu8UmvZ.docx']
     #files = ['14tsEF5dHpm8B2kKm0TbpP.docx']
     #files = files[:30]

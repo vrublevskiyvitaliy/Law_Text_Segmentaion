@@ -441,6 +441,7 @@ class StructuredText:
     # remove inner list from outer
     # todo: fix numbers
     def post_analyze_lists_structure(self):
+        return
         for index, element in enumerate(self.list_structure):
             if type(element) is list:
                 if type(element[-1]) is list:

@@ -214,6 +214,32 @@ class RomanBracketList(ListItem):
 
         return starts_with_prefix
 
+class RomanDotList(ListItem):
+    """
+
+    Something like i. ii. iii.
+
+    """
+    def __init__(self, sentence):
+        ListItem.__init__(self, sentence)
+        self.list_name = 'roman_dot'
+
+    def init_prefixes(self):
+        self.prefixes = ['i.', 'ii.', 'iii.', 'iv.', 'v.', 'vi.', 'vii.', 'viii.']
+
+    def is_in_prefixes(self):
+        starts_with_prefix = False
+        if self.sentence is None:
+            return starts_with_prefix
+
+        for prefix in self.prefixes:
+            if self.sentence.startswith(prefix):
+                starts_with_prefix = True
+                self.prefix = prefix
+                break
+
+        return starts_with_prefix
+
 
 class LowLetterBracketList(ListItem):
     """
@@ -327,6 +353,30 @@ class SectionCapsNumberDotList(ListItem):
             self.prefixes.append('SECTION ' + str(i) + '.')
 
 
+class SectionBracketsWithoutOrderList(ListItem):
+    """
+
+    Something like (A) (B) (X)
+
+    """
+    def __init__(self, sentence):
+        ListItem.__init__(self, sentence)
+        self.list_name = 'big_letter_()'
+        self.regex = '\([A-Z]\)'
+
+    def init_prefixes(self):
+        for i in range(ord('A'), ord('Z') + 1):
+            self.prefixes.append('(' + chr(i) + ')')
+
+    def is_neighboring(self, first_prefix, second_prefix):
+        if re.match('^' + self.regex + '$', first_prefix) and re.match('^' + self.regex + '$', second_prefix):
+            return True
+        else:
+            return False
+
+    def is_begining_list(self):
+        p = self.sentence.strip('.')
+        return self.sentence.strip('(').strip(')') == 'A'
 
 # ADD ARTICLE I , II, 1E7XxSctOZ1kmCL3gRr3Sq
 # Chapter ONE, TWO, .. 1e9lEXRT6nr59q4kb8LulD

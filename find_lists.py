@@ -53,7 +53,7 @@ def find_list():
     # files = ['power-of-attorney.txt']
     # files = ['contract-for-mobile-application-development-services.txt']
     #files = ['contract-for-mobile-application-development-services.txt']
-    files = ['3.txt']
+    #files = ['3.txt']
     #files = ['1gSpQJeKuF8YWFRwu8UmvZ.docx']
     #files = ['14tsEF5dHpm8B2kKm0TbpP.docx']
     #files = files[:30]

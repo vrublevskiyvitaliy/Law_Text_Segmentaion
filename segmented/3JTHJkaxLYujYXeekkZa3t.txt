@@ -1,0 +1,360 @@
+**********************
+Exhibit10.2
+**********************
+SUPPLEMENT TO GUARANTY AGREEMENT
+**********************
+This SUPPLEMENT TO GUARANTY AGREEMENT (this Supplement) is entered into among the Borrower (defined below), the Administrative Agent (defined below) and the New Guarantor (defined below) as of December31, 2009, as a supplement to that certain Guaranty Agreement dated as of October1, 2008 (as amended, supplemented or otherwise modified from time to time, the Guaranty Agreement) among WILLIS NORTH AMERICA INC., a Delaware corporation (the Borrower), WILLIS GROUP HOLDINGS LIMITED, an exempted company under the Companies Act 1981 of Bermuda (WGHL or, subject to substitution thereof in accordance with Section 10.20 of the Credit Agreement (defined below), the Parent), each Subsidiary constituting a Guarantor thereunder as of date hereof (each of WGHL and each such Subsidiary, individually, a Guarantor and collectively, the Guarantors) and BANK OF AMERICA, N.A., as administrative agent (the Administrative Agent).
+**********************
+A.Reference is made to the Credit Agreement dated as of October1, 2008 (as amended, supplemented or otherwise modified from time to time, the Credit Agreement), among the Borrower, the Parent, the Lenders from time to time party thereto and the Administrative Agent.
+**********************
+B.Capitalized terms used herein and not otherwise defined herein shall have the meanings assigned to such terms in the Credit Agreement and the Guaranty Agreement, as applicable.
+**********************
+C.The Guarantors have entered into the Guaranty Agreement in order to induce the Lenders to make Loans.
+In accordance with the terms of the Credit Agreement and as consideration for Loans thereunder, WILLIS GROUP HOLDINGS PUBLIC LIMITED COMPANY, a company incorporated under the laws of Ireland having company number 475616 (the New Guarantor), is required to execute this Supplement to become a Guarantor under the Guaranty Agreement and to acknowledge its role as the successor Parent under the Credit Agreement and the other Loan Documents upon the occurrence of the Parent Effective Date (defined below).
+**********************
+D.The New Guarantor will derive substantial benefits from the extension of credit to the Borrower pursuant to the Credit Agreement and is willing to execute and deliver this Supplement as consideration for Loans thereunder.
+**********************
+Accordingly, the Borrower, the Administrative Agent and the New Guarantor hereby agree as follows:
+**********************
+SECTION 1.
+As of the date hereof, the New Guarantor by its execution of this Supplement shall become a Guarantor under the Guaranty Agreement and the other Loan Documents with the same force and effect as if originally named therein as a Guarantor, and the New Guarantor hereby (a)agrees to all the terms and provisions of the Guaranty Agreement and the other Loan Documents applicable to it as a Guarantor thereunder and (b)represents and warrants that the representations and warranties made by it as a Guarantor thereunder are true and correct on and as of the date hereof.
+Each reference to a Guarantor in the Guaranty
+**********************
+Agreement and the other Loan Documents shall be deemed to include the New Guarantor.
+The Guaranty Agreement is hereby incorporated herein by reference.
+**********************
+SECTION 2.
+As provided in Section10.20 of the Credit Agreement, on the date on which the New Guarantor shall own, directly or indirectly, any Equity Interests in the Borrower and shall be the publicly held indirect parent company of the Borrower in lieu of WGHL (the Parent Effective Date), the New Guarantor shall automatically become the Parent under the Credit Agreement and the other Loan Documents, in substitution for WGHL as the predecessor Parent, with the same force and effect as if originally named therein as the Parent.
+As of the Parent Effective Date, the New Guarantor (a)acknowledges and agrees that it shall accede to and shall be the Parent under the Credit Agreement, and shall be subject to all the terms and provisions of the Credit Agreement and the other Loan Documents applicable to the Parent, and (b)represents and warrants that the representations and warranties made by the New Guarantor as Parent thereunder are true and correct.
+As of the Parent Effective Date, each reference to the Parent in the Guaranty Agreement and the other Loan Documents shall be deemed to reference the New Guarantor.
+The Borrower agrees to provide the Administrative Agent prompt written notice as to the Parent Effective Date.
+**********************
+SECTION 3.
+By their respective execution hereof, each of the Borrower and the New Guarantor represents and warrants that (a)none of the execution, delivery and performance by the New Guarantor of this Supplement, or the performance by the New Guarantor of its obligations and duties under the Guaranty Agreement, constitutes financial assistance for the purposes of Section60 of the Companies Act, 1963 (as amended) (Ireland) (Section60) or contravenes Section60, and (b)none of the proceeds of the facilities made available by the Lenders pursuant to the Credit Agreement have been or will be used in any way which would constitute the giving of financial assistance or which would result in the Credit Agreement, this Supplement, the Guaranty Agreement or any other Loan Document, or any transactions hereunder or thereunder, contravening Section60.
+**********************
+SECTION 4.
+The New Guarantor represents and warrants to the Administrative Agent and the other Guaranteed Parties that this Supplement has been duly authorized, executed and delivered by it and constitutes its legal, valid and binding obligation, enforceable against it in accordance with its terms.
+**********************
+SECTION 5.
+This Supplement may be executed in counterparts (and by different parties hereto on different counterparts), each of which shall constitute an original, but all of which when taken together shall constitute a single contract.
+This Supplement shall become effective when the Administrative Agent shall have received (a)one or more counterparts of this Supplement that bear the signature of the Borrower and the New Guarantor, and the Administrative Agent has executed a counterpart hereof, and (b)such documents of the types referred to in clauses (iii), (iv)and (v) of Section4.01(a) of the Credit Agreement (including opinions of local counsel in relevant jurisdictions for the New Guarantor) as the Administrative Agent may have requested in accordance with the Guaranty Agreement or the Credit Agreement.
+Delivery of an executed signature page to this Supplement by facsimile transmission or other electronic imaging means shall be as effective as delivery of a manually signed counterpart of this Supplement.
+**********************
+2
+**********************
+SECTION 6.
+As supplemented hereby, the Guaranty Agreement shall remain in full force and effect.
+**********************
+SECTION 7.
+Notwithstanding anything to the contrary contained in this Supplement, the Guaranty Agreement or the Loan Documents, in the event that the guarantee obligations expressed to be assumed by the New Guarantor pursuant to this Supplement, the Guaranty Agreement and the Loan Documents are held to constitute unlawful financial assistance within the meaning of Section60 (such obligations the Financial Assistance Guaranty Obligations), such Financial Assistance Guaranty Obligations, to the extent that they are voidable or unenforceable under Irish law, shall be deemed not to form part of the obligations assumed by the New Guarantor pursuant to this Supplement, the Guaranty Agreement and the Loan Documents.
+Each of the Borrower, the New Guarantor and the Administrative Agent hereby agrees and acknowledges that the enforceability and validity of the remainder of the obligations assumed by the New Guarantor pursuant to this Supplement, the Guaranty Agreement, or the Loan Documents, or any of them, shall not be affected by the Financial Assistance Guaranty Obligations being rendered voidable or unenforceable, and this Supplement, the Guaranty Agreement and the Loan Documents shall be construed accordingly.
+**********************
+SECTION 8.
+The guarantees and indemnities granted by the New Guarantor under this Supplement, the Guaranty Agreement and the Loan Documents shall only apply to the extent that the Borrower or such other Guarantor is a subsidiary of the New Guarantor.
+As of the Parent Effective Date, the New Guarantor and the Borrower represent, warrant and consent that the New Guarantor is a holding company of the Borrower and each other Guarantor.
+For the purposes of this Section8 the terms holding company and subsidiary shall have the meanings given to them in Section155 of the Companies Act, 1963 (as amended) (Ireland).
+**********************
+SECTION 9.
+THIS SUPPLEMENT SHALL BE GOVERNED BY, AND CONSTRUED IN ACCORDANCE WITH, THE LAWS OF THE STATE OF NEW YORK.
+**********************
+SECTION 10.
+Without prejudice to Section7 above, in case any one or more of the provisions contained in this Supplement should be held invalid, illegal or unenforceable in any respect, the validity, legality and enforceability of the remaining provisions contained herein, in the Guaranty Agreement and/or in the Credit Agreement or any other Loan Document shall not in any way be affected or impaired thereby (it being understood that the invalidity of a particular provision in a particular jurisdiction shall not in and of itself affect the validity of such provision in any other jurisdiction).
+The parties hereto shall endeavor in good-faith negotiations to replace the invalid, illegal or unenforceable provisions with valid provisions the economic effect of which comes as close as possible to that of the invalid, illegal or unenforceable provisions.
+**********************
+SECTION 11.
+All communications and notices hereunder shall be in writing and given as provided in Section10.02 of the Credit Agreement.
+**********************
+SECTION 12.
+The Borrower and the New Guarantor agree to reimburse the Administrative Agent for its reasonable out-of-pocket expenses in connection with this Supplement, including the reasonable fees, other charges and disbursements of counsel for the Administrative Agent.
+**********************
+SECTION 13.
+Set forth on Schedule1 hereto are the New Guarantors true and correct (a)unique identification number that has been issued by its jurisdiction of organization and the name of such jurisdiction and (b)mailing address.
+**********************
+3
+**********************
+IN WITNESS WHEREOF, the Borrower, the New Guarantor and the Administrative Agent have duly executed this Supplement to Guaranty Agreement as of the day and year first above written.
+**********************
+WILLIS NORTH AMERICA INC., as the Borrower
+**********************
+By /s/ Donald J. Bailey
+**********************
+Name: Donald J. Bailey
+**********************
+Title: Chief Executive Officer
+**********************
+GIVEN under the common seal of WILLIS GROUP HOLDINGS PUBLIC LIMITED COMPANY:-
+**********************
+/s/ Patrick C. Regan MEMBER OF THE SEALING COMMITTEE
+**********************
+/s/ David Malloy
+**********************
+Solicitor
+**********************
+Arthur Cox
+**********************
+/s/ Adam G. Ciongoli SECRETARY/ MEMBER OF THE SEALING COMMITTEE
+**********************
+BANK OF AMERICA, N.A., as Administrative Agent
+**********************
+By /s/ Aamir Saleem
+**********************
+Name: Aamir Saleem
+**********************
+Title: Vice President
+**********************
+Willis North America, Inc.
+Supplement to Guaranty Agreement Signature Pages
+**********************
+SCHEDULE 1 TO SUPPLEMENT TO GUARANTY AGREEMENT (Willis Group Holdings plc)
+**********************
+Jurisdiction of
+**********************
+Company name
+**********************
+Company number
+**********************
+incorporation
+**********************
+Registered address
+**********************
+WILLIS GROUP HOLDINGS PUBLIC LIMITED COMPANY
+**********************
+475616
+**********************
+Ireland
+**********************
+Grand Mill Quay Barrow Street Dublin 4 Ireland
+**********************
+Exhibit10.2
+**********************
+SUPPLEMENT TO GUARANTY AGREEMENT
+**********************
+This SUPPLEMENT TO GUARANTY AGREEMENT (this Supplement) is entered into among the Borrower (defined below), the Administrative Agent (defined below) and the New Guarantor (defined below) as of December31, 2009, as a supplement to that certain Guaranty Agreement dated as of October1, 2008 (as amended, supplemented or otherwise modified from time to time, the Guaranty Agreement) among WILLIS NORTH AMERICA INC., a Delaware corporation (the Borrower), WILLIS GROUP HOLDINGS LIMITED, an exempted company under the Companies Act 1981 of Bermuda (WGHL or, subject to substitution thereof in accordance with Section 10.20 of the Credit Agreement (defined below), the Parent), each Subsidiary constituting a Guarantor thereunder as of date hereof (each of WGHL and each such Subsidiary, individually, a Guarantor and collectively, the Guarantors) and BANK OF AMERICA, N.A., as administrative agent (the Administrative Agent).
+**********************
+A.Reference is made to the Credit Agreement dated as of October1, 2008 (as amended, supplemented or otherwise modified from time to time, the Credit Agreement), among the Borrower, the Parent, the Lenders from time to time party thereto and the Administrative Agent.
+**********************
+B.Capitalized terms used herein and not otherwise defined herein shall have the meanings assigned to such terms in the Credit Agreement and the Guaranty Agreement, as applicable.
+**********************
+C.The Guarantors have entered into the Guaranty Agreement in order to induce the Lenders to make Loans.
+In accordance with the terms of the Credit Agreement and as consideration for Loans thereunder, WILLIS GROUP HOLDINGS PUBLIC LIMITED COMPANY, a company incorporated under the laws of Ireland having company number 475616 (the New Guarantor), is required to execute this Supplement to become a Guarantor under the Guaranty Agreement and to acknowledge its role as the successor Parent under the Credit Agreement and the other Loan Documents upon the occurrence of the Parent Effective Date (defined below).
+**********************
+D.The New Guarantor will derive substantial benefits from the extension of credit to the Borrower pursuant to the Credit Agreement and is willing to execute and deliver this Supplement as consideration for Loans thereunder.
+**********************
+Accordingly, the Borrower, the Administrative Agent and the New Guarantor hereby agree as follows:
+**********************
+SECTION 1.
+As of the date hereof, the New Guarantor by its execution of this Supplement shall become a Guarantor under the Guaranty Agreement and the other Loan Documents with the same force and effect as if originally named therein as a Guarantor, and the New Guarantor hereby (a)agrees to all the terms and provisions of the Guaranty Agreement and the other Loan Documents applicable to it as a Guarantor thereunder and (b)represents and warrants that the representations and warranties made by it as a Guarantor thereunder are true and correct on and as of the date hereof.
+Each reference to a Guarantor in the Guaranty
+**********************
+Exhibit10.2
+**********************
+SUPPLEMENT TO GUARANTY AGREEMENT
+**********************
+This SUPPLEMENT TO GUARANTY AGREEMENT (this Supplement) is entered into among the Borrower (defined below), the Administrative Agent (defined below) and the New Guarantor (defined below) as of December31, 2009, as a supplement to that certain Guaranty Agreement dated as of October1, 2008 (as amended, supplemented or otherwise modified from time to time, the Guaranty Agreement) among WILLIS NORTH AMERICA INC., a Delaware corporation (the Borrower), WILLIS GROUP HOLDINGS LIMITED, an exempted company under the Companies Act 1981 of Bermuda (WGHL or, subject to substitution thereof in accordance with Section 10.20 of the Credit Agreement (defined below), the Parent), each Subsidiary constituting a Guarantor thereunder as of date hereof (each of WGHL and each such Subsidiary, individually, a Guarantor and collectively, the Guarantors) and BANK OF AMERICA, N.A., as administrative agent (the Administrative Agent).
+**********************
+A.Reference is made to the Credit Agreement dated as of October1, 2008 (as amended, supplemented or otherwise modified from time to time, the Credit Agreement), among the Borrower, the Parent, the Lenders from time to time party thereto and the Administrative Agent.
+**********************
+B.Capitalized terms used herein and not otherwise defined herein shall have the meanings assigned to such terms in the Credit Agreement and the Guaranty Agreement, as applicable.
+**********************
+C.The Guarantors have entered into the Guaranty Agreement in order to induce the Lenders to make Loans.
+In accordance with the terms of the Credit Agreement and as consideration for Loans thereunder, WILLIS GROUP HOLDINGS PUBLIC LIMITED COMPANY, a company incorporated under the laws of Ireland having company number 475616 (the New Guarantor), is required to execute this Supplement to become a Guarantor under the Guaranty Agreement and to acknowledge its role as the successor Parent under the Credit Agreement and the other Loan Documents upon the occurrence of the Parent Effective Date (defined below).
+**********************
+D.The New Guarantor will derive substantial benefits from the extension of credit to the Borrower pursuant to the Credit Agreement and is willing to execute and deliver this Supplement as consideration for Loans thereunder.
+**********************
+Accordingly, the Borrower, the Administrative Agent and the New Guarantor hereby agree as follows:
+**********************
+SECTION 1.
+As of the date hereof, the New Guarantor by its execution of this Supplement shall become a Guarantor under the Guaranty Agreement and the other Loan Documents with the same force and effect as if originally named therein as a Guarantor, and the New Guarantor hereby (a)agrees to all the terms and provisions of the Guaranty Agreement and the other Loan Documents applicable to it as a Guarantor thereunder and (b)represents and warrants that the representations and warranties made by it as a Guarantor thereunder are true and correct on and as of the date hereof.
+Each reference to a Guarantor in the Guaranty
+**********************
+Agreement and the other Loan Documents shall be deemed to include the New Guarantor.
+The Guaranty Agreement is hereby incorporated herein by reference.
+**********************
+SECTION 2.
+As provided in Section10.20 of the Credit Agreement, on the date on which the New Guarantor shall own, directly or indirectly, any Equity Interests in the Borrower and shall be the publicly held indirect parent company of the Borrower in lieu of WGHL (the Parent Effective Date), the New Guarantor shall automatically become the Parent under the Credit Agreement and the other Loan Documents, in substitution for WGHL as the predecessor Parent, with the same force and effect as if originally named therein as the Parent.
+As of the Parent Effective Date, the New Guarantor (a)acknowledges and agrees that it shall accede to and shall be the Parent under the Credit Agreement, and shall be subject to all the terms and provisions of the Credit Agreement and the other Loan Documents applicable to the Parent, and (b)represents and warrants that the representations and warranties made by the New Guarantor as Parent thereunder are true and correct.
+As of the Parent Effective Date, each reference to the Parent in the Guaranty Agreement and the other Loan Documents shall be deemed to reference the New Guarantor.
+The Borrower agrees to provide the Administrative Agent prompt written notice as to the Parent Effective Date.
+**********************
+SECTION 3.
+By their respective execution hereof, each of the Borrower and the New Guarantor represents and warrants that (a)none of the execution, delivery and performance by the New Guarantor of this Supplement, or the performance by the New Guarantor of its obligations and duties under the Guaranty Agreement, constitutes financial assistance for the purposes of Section60 of the Companies Act, 1963 (as amended) (Ireland) (Section60) or contravenes Section60, and (b)none of the proceeds of the facilities made available by the Lenders pursuant to the Credit Agreement have been or will be used in any way which would constitute the giving of financial assistance or which would result in the Credit Agreement, this Supplement, the Guaranty Agreement or any other Loan Document, or any transactions hereunder or thereunder, contravening Section60.
+**********************
+SECTION 4.
+The New Guarantor represents and warrants to the Administrative Agent and the other Guaranteed Parties that this Supplement has been duly authorized, executed and delivered by it and constitutes its legal, valid and binding obligation, enforceable against it in accordance with its terms.
+**********************
+SECTION 5.
+This Supplement may be executed in counterparts (and by different parties hereto on different counterparts), each of which shall constitute an original, but all of which when taken together shall constitute a single contract.
+This Supplement shall become effective when the Administrative Agent shall have received (a)one or more counterparts of this Supplement that bear the signature of the Borrower and the New Guarantor, and the Administrative Agent has executed a counterpart hereof, and (b)such documents of the types referred to in clauses (iii), (iv)and (v) of Section4.01(a) of the Credit Agreement (including opinions of local counsel in relevant jurisdictions for the New Guarantor) as the Administrative Agent may have requested in accordance with the Guaranty Agreement or the Credit Agreement.
+Delivery of an executed signature page to this Supplement by facsimile transmission or other electronic imaging means shall be as effective as delivery of a manually signed counterpart of this Supplement.
+**********************
+2
+**********************
+Agreement and the other Loan Documents shall be deemed to include the New Guarantor.
+The Guaranty Agreement is hereby incorporated herein by reference.
+**********************
+SECTION 2.
+As provided in Section10.20 of the Credit Agreement, on the date on which the New Guarantor shall own, directly or indirectly, any Equity Interests in the Borrower and shall be the publicly held indirect parent company of the Borrower in lieu of WGHL (the Parent Effective Date), the New Guarantor shall automatically become the Parent under the Credit Agreement and the other Loan Documents, in substitution for WGHL as the predecessor Parent, with the same force and effect as if originally named therein as the Parent.
+As of the Parent Effective Date, the New Guarantor (a)acknowledges and agrees that it shall accede to and shall be the Parent under the Credit Agreement, and shall be subject to all the terms and provisions of the Credit Agreement and the other Loan Documents applicable to the Parent, and (b)represents and warrants that the representations and warranties made by the New Guarantor as Parent thereunder are true and correct.
+As of the Parent Effective Date, each reference to the Parent in the Guaranty Agreement and the other Loan Documents shall be deemed to reference the New Guarantor.
+The Borrower agrees to provide the Administrative Agent prompt written notice as to the Parent Effective Date.
+**********************
+SECTION 3.
+By their respective execution hereof, each of the Borrower and the New Guarantor represents and warrants that (a)none of the execution, delivery and performance by the New Guarantor of this Supplement, or the performance by the New Guarantor of its obligations and duties under the Guaranty Agreement, constitutes financial assistance for the purposes of Section60 of the Companies Act, 1963 (as amended) (Ireland) (Section60) or contravenes Section60, and (b)none of the proceeds of the facilities made available by the Lenders pursuant to the Credit Agreement have been or will be used in any way which would constitute the giving of financial assistance or which would result in the Credit Agreement, this Supplement, the Guaranty Agreement or any other Loan Document, or any transactions hereunder or thereunder, contravening Section60.
+**********************
+SECTION 4.
+The New Guarantor represents and warrants to the Administrative Agent and the other Guaranteed Parties that this Supplement has been duly authorized, executed and delivered by it and constitutes its legal, valid and binding obligation, enforceable against it in accordance with its terms.
+**********************
+SECTION 5.
+This Supplement may be executed in counterparts (and by different parties hereto on different counterparts), each of which shall constitute an original, but all of which when taken together shall constitute a single contract.
+This Supplement shall become effective when the Administrative Agent shall have received (a)one or more counterparts of this Supplement that bear the signature of the Borrower and the New Guarantor, and the Administrative Agent has executed a counterpart hereof, and (b)such documents of the types referred to in clauses (iii), (iv)and (v) of Section4.01(a) of the Credit Agreement (including opinions of local counsel in relevant jurisdictions for the New Guarantor) as the Administrative Agent may have requested in accordance with the Guaranty Agreement or the Credit Agreement.
+Delivery of an executed signature page to this Supplement by facsimile transmission or other electronic imaging means shall be as effective as delivery of a manually signed counterpart of this Supplement.
+**********************
+SECTION 6.
+As supplemented hereby, the Guaranty Agreement shall remain in full force and effect.
+**********************
+SECTION 7.
+Notwithstanding anything to the contrary contained in this Supplement, the Guaranty Agreement or the Loan Documents, in the event that the guarantee obligations expressed to be assumed by the New Guarantor pursuant to this Supplement, the Guaranty Agreement and the Loan Documents are held to constitute unlawful financial assistance within the meaning of Section60 (such obligations the Financial Assistance Guaranty Obligations), such Financial Assistance Guaranty Obligations, to the extent that they are voidable or unenforceable under Irish law, shall be deemed not to form part of the obligations assumed by the New Guarantor pursuant to this Supplement, the Guaranty Agreement and the Loan Documents.
+Each of the Borrower, the New Guarantor and the Administrative Agent hereby agrees and acknowledges that the enforceability and validity of the remainder of the obligations assumed by the New Guarantor pursuant to this Supplement, the Guaranty Agreement, or the Loan Documents, or any of them, shall not be affected by the Financial Assistance Guaranty Obligations being rendered voidable or unenforceable, and this Supplement, the Guaranty Agreement and the Loan Documents shall be construed accordingly.
+**********************
+SECTION 8.
+The guarantees and indemnities granted by the New Guarantor under this Supplement, the Guaranty Agreement and the Loan Documents shall only apply to the extent that the Borrower or such other Guarantor is a subsidiary of the New Guarantor.
+As of the Parent Effective Date, the New Guarantor and the Borrower represent, warrant and consent that the New Guarantor is a holding company of the Borrower and each other Guarantor.
+For the purposes of this Section8 the terms holding company and subsidiary shall have the meanings given to them in Section155 of the Companies Act, 1963 (as amended) (Ireland).
+**********************
+SECTION 9.
+THIS SUPPLEMENT SHALL BE GOVERNED BY, AND CONSTRUED IN ACCORDANCE WITH, THE LAWS OF THE STATE OF NEW YORK.
+**********************
+SECTION 10.
+Without prejudice to Section7 above, in case any one or more of the provisions contained in this Supplement should be held invalid, illegal or unenforceable in any respect, the validity, legality and enforceability of the remaining provisions contained herein, in the Guaranty Agreement and/or in the Credit Agreement or any other Loan Document shall not in any way be affected or impaired thereby (it being understood that the invalidity of a particular provision in a particular jurisdiction shall not in and of itself affect the validity of such provision in any other jurisdiction).
+The parties hereto shall endeavor in good-faith negotiations to replace the invalid, illegal or unenforceable provisions with valid provisions the economic effect of which comes as close as possible to that of the invalid, illegal or unenforceable provisions.
+**********************
+SECTION 11.
+All communications and notices hereunder shall be in writing and given as provided in Section10.02 of the Credit Agreement.
+**********************
+SECTION 12.
+The Borrower and the New Guarantor agree to reimburse the Administrative Agent for its reasonable out-of-pocket expenses in connection with this Supplement, including the reasonable fees, other charges and disbursements of counsel for the Administrative Agent.
+**********************
+SECTION 13.
+Set forth on Schedule1 hereto are the New Guarantors true and correct (a)unique identification number that has been issued by its jurisdiction of organization and the name of such jurisdiction and (b)mailing address.
+**********************
+3
+**********************
+SECTION 6.
+As supplemented hereby, the Guaranty Agreement shall remain in full force and effect.
+**********************
+SECTION 7.
+Notwithstanding anything to the contrary contained in this Supplement, the Guaranty Agreement or the Loan Documents, in the event that the guarantee obligations expressed to be assumed by the New Guarantor pursuant to this Supplement, the Guaranty Agreement and the Loan Documents are held to constitute unlawful financial assistance within the meaning of Section60 (such obligations the Financial Assistance Guaranty Obligations), such Financial Assistance Guaranty Obligations, to the extent that they are voidable or unenforceable under Irish law, shall be deemed not to form part of the obligations assumed by the New Guarantor pursuant to this Supplement, the Guaranty Agreement and the Loan Documents.
+Each of the Borrower, the New Guarantor and the Administrative Agent hereby agrees and acknowledges that the enforceability and validity of the remainder of the obligations assumed by the New Guarantor pursuant to this Supplement, the Guaranty Agreement, or the Loan Documents, or any of them, shall not be affected by the Financial Assistance Guaranty Obligations being rendered voidable or unenforceable, and this Supplement, the Guaranty Agreement and the Loan Documents shall be construed accordingly.
+**********************
+SECTION 8.
+The guarantees and indemnities granted by the New Guarantor under this Supplement, the Guaranty Agreement and the Loan Documents shall only apply to the extent that the Borrower or such other Guarantor is a subsidiary of the New Guarantor.
+As of the Parent Effective Date, the New Guarantor and the Borrower represent, warrant and consent that the New Guarantor is a holding company of the Borrower and each other Guarantor.
+For the purposes of this Section8 the terms holding company and subsidiary shall have the meanings given to them in Section155 of the Companies Act, 1963 (as amended) (Ireland).
+**********************
+SECTION 9.
+THIS SUPPLEMENT SHALL BE GOVERNED BY, AND CONSTRUED IN ACCORDANCE WITH, THE LAWS OF THE STATE OF NEW YORK.
+**********************
+SECTION 10.
+Without prejudice to Section7 above, in case any one or more of the provisions contained in this Supplement should be held invalid, illegal or unenforceable in any respect, the validity, legality and enforceability of the remaining provisions contained herein, in the Guaranty Agreement and/or in the Credit Agreement or any other Loan Document shall not in any way be affected or impaired thereby (it being understood that the invalidity of a particular provision in a particular jurisdiction shall not in and of itself affect the validity of such provision in any other jurisdiction).
+The parties hereto shall endeavor in good-faith negotiations to replace the invalid, illegal or unenforceable provisions with valid provisions the economic effect of which comes as close as possible to that of the invalid, illegal or unenforceable provisions.
+**********************
+SECTION 11.
+All communications and notices hereunder shall be in writing and given as provided in Section10.02 of the Credit Agreement.
+**********************
+SECTION 12.
+The Borrower and the New Guarantor agree to reimburse the Administrative Agent for its reasonable out-of-pocket expenses in connection with this Supplement, including the reasonable fees, other charges and disbursements of counsel for the Administrative Agent.
+**********************
+SECTION 13.
+Set forth on Schedule1 hereto are the New Guarantors true and correct (a)unique identification number that has been issued by its jurisdiction of organization and the name of such jurisdiction and (b)mailing address.
+**********************
+IN WITNESS WHEREOF, the Borrower, the New Guarantor and the Administrative Agent have duly executed this Supplement to Guaranty Agreement as of the day and year first above written.
+**********************
+WILLIS NORTH AMERICA INC., as the Borrower
+**********************
+By /s/ Donald J. Bailey
+**********************
+Name: Donald J. Bailey
+**********************
+Title: Chief Executive Officer
+**********************
+GIVEN under the common seal of WILLIS GROUP HOLDINGS PUBLIC LIMITED COMPANY:-
+**********************
+/s/ Patrick C. Regan MEMBER OF THE SEALING COMMITTEE
+**********************
+/s/ David Malloy
+**********************
+Solicitor
+**********************
+Arthur Cox
+**********************
+/s/ Adam G. Ciongoli SECRETARY/ MEMBER OF THE SEALING COMMITTEE
+**********************
+BANK OF AMERICA, N.A., as Administrative Agent
+**********************
+By /s/ Aamir Saleem
+**********************
+Name: Aamir Saleem
+**********************
+Title: Vice President
+**********************
+Willis North America, Inc.
+Supplement to Guaranty Agreement Signature Pages
+**********************
+IN WITNESS WHEREOF, the Borrower, the New Guarantor and the Administrative Agent have duly executed this Supplement to Guaranty Agreement as of the day and year first above written.
+**********************
+GIVEN under the common seal of WILLIS GROUP HOLDINGS PUBLIC LIMITED COMPANY:-
+**********************
+/s/ Patrick C. Regan MEMBER OF THE SEALING COMMITTEE
+**********************
+/s/ Patrick C. Regan
+**********************
+/s/ Adam G. Ciongoli SECRETARY/ MEMBER OF THE SEALING COMMITTEE
+**********************
+/s/ Adam G. Ciongoli
+**********************
+BANK OF AMERICA, N.A., as Administrative Agent
+**********************
+Willis North America, Inc.
+Supplement to Guaranty Agreement Signature Pages
+**********************
+SCHEDULE 1 TO SUPPLEMENT TO GUARANTY AGREEMENT (Willis Group Holdings plc)
+**********************
+Jurisdiction of
+**********************
+Company name
+**********************
+Company number
+**********************
+incorporation
+**********************
+Registered address
+**********************
+WILLIS GROUP HOLDINGS PUBLIC LIMITED COMPANY
+**********************
+475616
+**********************
+Ireland
+**********************
+Grand Mill Quay Barrow Street Dublin 4 Ireland
+**********************
+SCHEDULE 1 TO SUPPLEMENT TO GUARANTY AGREEMENT (Willis Group Holdings plc)
+**********************
+Jurisdiction of
+**********************
+Company name
+**********************
+Company number
+**********************
+incorporation
+**********************
+Registered address
+**********************
+WILLIS GROUP HOLDINGS PUBLIC LIMITED COMPANY
+**********************
+475616
+**********************
+Ireland
+**********************
+Grand Mill Quay Barrow Street Dublin 4 Ireland
+**********************
+WILLIS GROUP HOLDINGS PUBLIC LIMITED COMPANY

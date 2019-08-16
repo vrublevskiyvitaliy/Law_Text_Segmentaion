@@ -1,0 +1,827 @@
+Exhibit 10.1
+
+SHARE EXCHANGE AGREEMENT
+
+THIS SHARE EXCHANGE AGREEMENT (hereinafter referred to as this “Agreement”) is entered into as of this 28th day of December, 2009, by and among (a) Commonwealth Biotechnologies, Inc., a Virginia corporation (hereinafter referred to as “CBI”), with its principal executive office at 601 Biotech Drive, Richmond, Virginia 23235, (b) Wise Century Group Limited, a Hong Kong company (hereinafter referred to as “WCGL”), with offices at Room 2701, 27/F., Tesbury Centre, 28 Queen’s Road East, Wanchai, Hong Kong and (c) Asia Peptide Limited, a British Virgin Islands company and the sole shareholder of WCGL (the “Shareholder”), with offices at No. 519 Ziyue Road, Zizhu High-Tech Zone, Minhang District, Shanghai. Each of the parties to this Agreement is individually referred to herein as a “Party” and collectively, as the “Parties.”
+
+PREMISES
+
+WHEREAS, CBI is a publicly held corporation incorporated under the laws of the Commonwealth of Virginia;
+
+WHEREAS, as of the date hereof and prior to the transaction contemplated hereby, CBI has 8,141,796 shares of common stock, without par value per share (the “CBI Common Stock”), issued and outstanding;
+
+WHEREAS, as of the date hereof, WCGL has 1,000 shares of capital stock (the “WCGL Common Stock”) issued and outstanding, all of which are held by the Shareholder.
+
+AGREEMENT
+
+NOW THEREFORE, on the stated premises and for and in consideration of the mutual covenants and agreements hereinafter set forth and the mutual benefits to the parties to be derived here from, and intending to be legally bound hereby, it is hereby agreed as follows:
+
+ARTICLE I
+
+PLAN OF EXCHANGE
+
+Section 1.01 Share Exchange. On the terms and subject to the conditions set forth in this Agreement, on the Closing Date (as such term is defined in Section 1.02 hereof), the Shareholder by executing this Agreement, shall assign, transfer and deliver to CBI, free and clear of all liens, pledges, encumbrances, charges, restrictions or known claims of any kind, nature, or description, 1,000 shares of WCGL Common Stock, constituting 100% of the issued and outstanding WCGL Common Stock (the “WCGL Exchange Shares”). In exchange for (a) the transfer of the WCGL Exchange Shares by the Shareholder, (b) the payment by WCGL of the Legal Expenses on the terms referenced in Section 6.02(d) hereof and (c) the execution and funding under the Promissory Note referenced in Section 1.02 hereof, CBI shall issue to the Shareholder, its affiliates or assigns, 77,889,871 shares of CBI Common Stock (the “CBI Exchange Shares”). The number of CBI Exchange Shares equals 78% of the issued and outstanding shares of CBI on a post-closing, fully-diluted basis (the “Exchange Share Percentage”). For purposes of this Agreement, “fully diluted basis” shall equal the sum on the Closing Date (as such term is defined in Section 1.03 hereof) of (i) the issued and outstanding shares of CBI Common Stock and (ii) shares of CBI Common Stock that underlie other outstanding securities of CBI that are convertible or exercisable into CBI Common Stock at a per share price equal to or less than the greater of (a) the average five days’ closing price for CBI Common Stock or (b) $1.01. The term “fully diluted basis” shall not include any shares underlying issuable but not issued securities or any issued securities convertible into CBI Common Stock that are exercisable or convertible for more than the exercise price per share described in the previous sentence. At the Closing Date, the Shareholder shall, on surrender of its certificate or certificates representing the WCGL Exchange Shares to CBI or its registrar or transfer agent, be entitled to receive a certificate or certificates evidencing the CBI Exchange Shares.
+
+
+
+Section 1.02 Legal Fees. Within five business days of the execution of this Agreement, WCGL shall make available funds to Kaufman & Canoles for legal fees owed by CBI to Kaufman & Canoles an aggregate of $150,000 as follows: $30,000 within five (5) days of execution of this Agreement; $30,000 within five (5) days of CBI submitting a proxy to the SEC for the transaction that is the subject of this Agreement; $30,000 within five (5) days of the mailing of the definitive proxy described hereinbefore; and $60,000 upon consummation of the closing of the transaction contemplated by this Agreement.
+
+Section 1.03 Closing. The closing (“Closing”) of the transaction contemplated by this Agreement shall occur upon the exchange of the WCGL Exchange Shares and the CBI Exchange Shares (the “Closing Date”). Such Closing shall take place at a location mutually acceptable to the Parties.
+
+Section 1.04 Directors of CBI at Closing. Effective as of the Closing Date, and subject to applicable regulatory requirements, including the preparation, filing and distribution to the shareholders of CBI of a proxy statement meeting the rules and regulations promulgated by the Securities and Exchange Commission, the following members of CBI’s Board of Directors shall resign: Bill Guo, Samuel Sears, James Causey, Richard Freer, Eric Tao, Paul D’Sylva and Maria Song. The following seven (7) () individuals shall be appointed to the Board of Directors of CBI:
+
+Dr. Hongyan Xu Min Zhou
+
+Wu Donghuan, Esq.
+
+Tomothy Zhang
+
+Joseph Meuse
+
+Bill Guo
+
+Samuel Steven Sears
+
+Among them, five (5) individuals shall be nominated by the current Board of Directors of WCGL and the remaining two (2) individuals shall be nominated by the current Board of Directors of CBI.
+
+Section 1.05 Officers of CBI at Closing. Effective as of the Closing Date, Richard J. Freer shall resign from positions held at CBI, and Dr. Hongyan Xu shall be appointed as the President, Chief Executive Officer, and Secretary of CBI.
+
+ARTICLE II
+
+REPRESENTATIONS, COVENANTS, AND WARRANTIES OF WCGL
+
+WCGL represents, warrants and agrees that all of the statements in the following subsections of this Article II are true and complete as of the date hereof. The disclosure schedules attached hereto as (the “WCGL Disclosure Schedules”) are divided into sections that correspond to the sections of this Article II. The WCGL Disclosure Schedules comprise lists of all exceptions to the truth and accuracy in all material respects of, and of all disclosures or descriptions required by, the representations and warrants set forth in this Article II.
+
+Section 2.01 Incorporation. WCGL is a company duly incorporated, validly existing, and in good standing under the laws of Hong Kong and has the corporate power and is duly authorized under all applicable laws, regulations, ordinances, and orders of public authorities to carry on its business in all material respects as it is now being conducted. Complete and correct copies of WCGL Constituent Instruments (as such term is defined below) as in effect on the date hereof are included in the WCGL Disclosure Schedules as Schedule 2.01. The execution and delivery of this Agreement does not, and the consummation of the transactions contemplated hereby will not, violate any provision of WCGL Constituent Instruments. WCGL has taken all actions required by law, the WCGL Constituent Instruments, or otherwise to authorize the execution and delivery of this Agreement. WCGL has full power, authority, and legal capacity and has taken all action required by law, the WCGL Constituent Instruments, and otherwise to consummate the transactions herein contemplated. For the purpose of this Agreement, “WCGL Constituent Instruments” shall mean the memorandum and articles of association of WCGL and such other constituent instruments of WCGL as may exist, each as amended to the date of this Agreement.
+
+ 
+
+2
+
+
+
+Section 2.02 Organization. The corporate structure of WCGL, including all subsidiaries is attached as Schedule 2.02. WCGL has not entered into a variable interest entity structure with a third company. WCGL and each of its subsidiaries is a corporation or other entity duly incorporated or otherwise organized, validly existing, and in good standing under the laws of its jurisdiction or organization (as applicable) and has the requisite corporate power to own, lease and operate its properties and assets and to conduct its business as it is now being conducted. Except as set forth on Schedule 2.02, WCGL and each such subsidiary is duly qualified to do business and is in good standing in every jurisdiction in which the nature of the business conducted or property owned by it makes such qualification necessary except for any jurisdiction(s) (alone or in the aggregate) in which the failure to be so qualified will not have a Material Adverse Effect on WCGL’s financial condition. For the purposes of this Agreement, “subsidiary” shall mean any corporation or other entity of which at least a majority of the securities or other ownership interests having ordinary voting power (absolutely or contingently) for the election of directors or other persons performing similar functions are at the time owned directly or indirectly by a Party and/or any of its other subsidiaries.
+
+Section 2.03 Authorized Shares. WCGL is authorized to issue 10,000 shares of capital stock, consisting of 10,000 shares of common stock, par value of $1.00HKD per share and no shares of preferred stock. There are 1,000 shares of common stock currently issued and outstanding. The issued and outstanding shares are validly issued, fully paid, and non-assessable and not issued in violation of the preemptive or other rights of any person. Except as disclosed in Schedule 2.02, there are no other bonds, debentures, notes or other indebtedness of WCGL having the right to vote (or convertible into, or exchangeable for, securities having right to the vote) (“Voting WCGL Debt”). Except as disclosed on Schedule 2.02, there are no options, warrants, rights, stock-based performance units, commitments, contracts, arrangements or undertakings of any kind to which WCGL is a party or by which is bound (a) obligating WCGL to issue, deliver or sell, or cause to be issued, delivered or sold, additional shares of capital stock or other equity interests in, or any security convertible or exercisable for or exchangeable into any capital stock of or other equity interest in WCGL or any Voting WCGL Debt, (b) obligating WCGL to issue, grant, extend or enter into any such option, warrant, call, right, security, commitment, contract, arrangement or undertaking or (c) that give any person the right to receive any economic benefit or right similar to or derived from the economic benefits and rights occurring to holders of the capital stock of WCGL. As of the date of this Agreement, there are not any outstanding contractual obligations of WCGL to repurchase, redeem or otherwise acquire any shares of capital stock of WCGL.
+
+Section 2.04 Financial Statements.
+
+(a) The consolidated, audited balance sheets of WCGL as of June 30, 2009 and 2008 and the related audited statements of operations, stockholders’ equity and cash flows for the fiscal years ended June 30, 2009 and 2008, and the reviewed consolidated balance sheet of WCGL as of September 30, 2009 and 2008 and the related reviewed statements of operations, stockholders’ equity and cash flows for the quarters ended September 30, 2009 and 2008, together with the notes to such statements and the opinion of Bagell Josephs, Levine & Company, LLC, independent certified public accountants.
+
+(b) All such financial statements have been prepared in accordance with generally accepted accounting principles (“US GAAP”) consistently applied throughout the periods involved. The WCGL balance sheets are true and accurate and present fairly as of their respective dates the financial condition of WCGL. As of the date of such balance sheets, except as and to the extent reflected or reserved against therein, WCGL had no other liabilities or obligations (absolute or contingent) which should be reflected in the balance sheets or the notes thereto prepared in accordance with U.S. GAAP, and all assets reflected therein are properly reported and present fairly the value of the assets of WCGL, in accordance with US GAAP. The statements of operations, stockholders’ equity and cash flows reflect fairly the information required to be set forth therein by generally accepted accounting principles.
+
+(c) Except as set forth in the WCGL Disclosure Schedules or the financial statements of WCGL or the notes thereto, WCGL has no material liabilities, direct or indirect, matured or unmatured, contingent or otherwise.
+
+(d) WCGL has duly and punctually paid all governmental fees and taxation which it has become liable to pay and has duly allowed for all taxation reasonably foreseeable. WCGL is under no liability to pay any penalty or interest in connection with any claim for governmental fees or taxation, and WCGL has made any and all proper declarations and returns for taxation purposes. All information contained in such declarations and returns is true and complete and full provision or reserves have been made in its financial statements for all governmental fees and taxation.
+
+ 
+
+3
+
+
+
+(e) The books and records, financial and otherwise of WCGL are in all material aspects complete and correct and have been maintained in accordance with good business and accounting practices.
+
+Section 2.05 Information. The information concerning WCGL set forth in this Agreement and in the WCGL Schedules is complete and accurate in all material respects and does not contain any untrue statement of a material fact or omit to state a material fact required to make the statements made, in light of the circumstances under which they were made, not misleading. In addition, WCGL has fully disclosed in writing to CBI (through this Agreement or the WCGL Schedules) all information relating to matters involving WCGL or its assets or its present or past operations or activities which (i) indicated or may indicate, in the aggregate, the existence of a greater than $50,000 liability, (ii) have led or may lead to a competitive disadvantage on the part of WCGL and (iii) either alone or in aggregation with other information covered by this Section 2.05 or otherwise have led or may lead to a Material Adverse Effect upon WCGL. For the purposes of this Agreement, “Material Adverse Effect” means any material adverse effect on the business, operations, properties, or financial condition of a Party and its subsidiaries individually, or in the aggregate and/or any condition, circumstance, or situation that would prohibit or otherwise materially interfere with the ability of a Party to perform any of its obligations under this Agreement in any material respect.
+
+Section 2.06 Absence of Certain Changes or Events. Since December 31, 2008:
+
+(a) WCGL has not incurred a Material Adverse Effect;
+
+(b) WCGL has not (i) amended the WCGL Constituent Instruments; (ii) declared or made, or agreed to declare or make, any payment of dividends or distributions of any assets of any kind whatsoever to shareholders or purchased or redeemed, or agreed to purchase or redeem, any of its securities; (iii) waived any rights of value which in the aggregate are outside of the ordinary course of business or material considering the business of WCGL; (iv) made any material change in its method of management, operation or accounting, (v) entered into any other material transaction other than sales in the ordinary course of its business; (vii) increased the rate of compensation payable or to become payable by it to any of its officers or directors or any of its salaried employees whose monthly compensation exceed $1,000; or (viii) made any increase in or adoption of any profit sharing, bonus, deferred compensation, insurance, pension, retirement, or other employee benefit plan, payment, or arrangement made to, for, or with its officers, directors, or employees;
+
+(c) Except as disclosed on Schedule 2.06(c), WCGL has not (i) granted or agreed to grant any options, warrants or other rights for its stocks, bonds or other corporate securities calling for the issuance thereof, (ii) borrowed or agreed to borrow any funds or incurred, or become subject to, any material obligation or liability (absolute or contingent) except as disclosed herein and except liabilities incurred in the ordinary course of business; (iii) paid or agreed to pay any material obligations or liabilities (absolute or contingent) other than (A) current liabilities reflected in or shown on the most recent WCGL balance sheet, (B) current liabilities incurred since that date in the ordinary course of business and professional and (C) other fees and expenses in connection with the preparation of this Agreement and the consummation of the transaction contemplated hereby; (iv) sold or transferred, or agreed to sell or transfer, any of its assets, properties, or rights or canceled, or agreed to cancel, any debts or claims; (v) made or permitted any amendment or termination of any contract, agreement, or license to which it is a party if such amendment or termination is material, considering the business of WCGL; or (vi) issued, delivered, or agreed to issue or deliver any stock, bonds or other corporate securities including debentures (whether authorized and unissued or held as treasury stock) except in connection with this Agreement; and
+
+(d) To its best knowledge, WCGL has not become subject to any law or regulation which materially and adversely affects, or in the future, may adversely affect, the business, operations, properties, assets or condition of WCGL.
+
+Section 2.07 No Undisclosed Liabilities. Other than as disclosed on Schedule 2.07, neither WCGL nor any of its subsidiaries has liabilities, obligations, claims or losses (whether liquidated or unliquidated, secured or unsecured, absolute, accrued, contingent or otherwise) other than those incurred in the ordinary course of its business since December 31, 2008 and which, individually or in the aggregate, do not or would not have a Material Adverse Effect on WCGL or its subsidiaries.
+
+ 
+
+4
+
+
+
+Section 2.08 Indebtedness. Schedule 2.08(a) hereto sets forth all outstanding secured and unsecured Indebtedness of WCGL and its subsidiaries on a consolidated basis as of the date of this Agreement. For the purposes of this Agreement, “Indebtedness” shall mean (a) any liabilities for borrowed money or amounts owed in excess of $5,000 (other than trade accounts payable incurred in the ordinary course of business), (b) all guaranties, endorsements and other contingent obligations in respect of Indebtedness of others, whether or not the same should be reflected in a Party’s balance sheet (or the notes thereto), except guaranties by endorsement of negotiable instruments for deposit or collection or similar transactions in the ordinary course of business; and (c) the present value of any lease payments in excess of $5,000 due under leases required to be capitalized in accordance with U.S. GAAP. Except as set forth in Schedule 2.08(b), neither WCGL nor any subsidiary is in default with respect to any Indebtedness.
+
+Section 2.09 Litigation and Proceedings. As of the date of this Agreement, there are no actions, suits, proceedings, or investigations pending or, to the knowledge of WCGL after reasonable investigation, threatened by or against WCGL or affecting WCGL or its properties, at law or in equity, before any court or other governmental agency or instrumentality, domestic or foreign, or before any arbitrator of any kind. WCGL does not have any knowledge of any material default on its part with respect to any judgment, order, injunction, decree, award, rule, or regulation of any court, arbitrator, or governmental agency or instrumentality or of any circumstances which, after reasonable investigation, would result in the discovery of such a default.
+
+Section 2.10 Taxes. Except as set forth on Schedule 2.10, WCGL and each of the subsidiaries has accurately prepared and timely filed all applicable tax returns required by law to be filed by it, has paid or made provisions for the payment of all taxes shown to be due and all additional assessments, and adequate provisions have been and are reflected in the financial statements of WCGL and the subsidiaries for all current taxes and other charges to which WCGL or any subsidiary is subject and which are not currently due and payable. Except as set forth on Schedule 2.10, WCGL has no knowledge of any additional assessments, adjustments or contingent tax liability (whether federal or state) of any nature whatsoever, whether pending or threatened against WCGL for any period, nor of any basis for any such assessment, adjustment or contingency.
+
+Section 2.11 Operation of Business. Except as disclosed in Schedule 2.11, WCGL and each of the subsidiaries does not own, nor is validly licensed nor otherwise has the right to use, any intellectual property rights. To the extent WCGL or any subsidiary uses any intellectual property, WCGL or such subsidiary owns or has the lawful right to use all patents, trademarks, domain names (whether or not registered) and any patentable improvements or copyrightable derivative works thereof, websites and intellectual property rights relating thereto, service marks, trade names, copyrights, licenses and authorizations, and all rights with respect to the foregoing, which are necessary for the conduct of its business as now conducted without any conflict with the rights of others, except where the failure to so own or possess would not have a Material Adverse Effect.
+
+Section 2.12 Environmental Compliance. Since their inception, WCGL and its subsidiaries have not been in violation of any applicable law relating to the environment or occupational health and safety, where such violation would have a Material Adverse Effect. WCGL and its subsidiaries (i) are in compliance with any and all Environmental Laws (as hereinafter defined), (ii) have received all permits, licenses or other approvals required of them under applicable Environmental Laws to conduct their respective businesses and (iii) are in compliance with all terms and conditions of any such permit, license or approval where, in each of the foregoing clauses (i), (ii) and (iii), the failure to so comply could be reasonably expected to have, individually or in the aggregate, a Material Adverse Effect. “Environmental Laws” shall mean all applicable laws relating to the protection of the environment including, without limitation, all requirements pertaining to reporting, licensing, permitting, controlling, investigating or remediating emissions, discharges, releases or threatened releases of hazardous substances, chemical substances, pollutants, contaminants or toxic substances, materials or wastes, whether solid, liquid or gaseous in nature, into the air, surface water, groundwater or land, or relating to the manufacture, processing, distribution, use, treatment, storage, disposal, transport or handling of hazardous substances, chemical substances, pollutants, contaminants or toxic substances, material or wastes, whether solid, liquid or gaseous in nature. Other than as disclosed on Schedule 2.12, WCGL and its subsidiaries are also in compliance with all other limitations, restrictions, conditions, standards, requirements, schedules and timetables required or imposed under all Environmental Laws. There are no past or present events, conditions, circumstances, incidents, actions or omissions relating to or in any way affecting WCGL or any subsidiary that violate or may violate any Environmental Law after the Closing Date or that may give rise to any environmental liability, or otherwise form the basis of any claim, action, demand, suit, proceeding, hearing, study or investigation (i) under any Environmental Law, or (ii) based on or related to the manufacture, processing, distribution, use, treatment, storage
+
+ 
+
+5
+
+
+
+(including without limitation underground storage tanks), disposal, transport or handling, or the emission, discharge, release or threatened release of any hazardous substance where, in each of the foregoing clauses (i) and (ii), the failure to so comply could be reasonably expected to have, individually or in the aggregate, a Material Adverse Effect.
+
+Section 2.13 Contracts.
+
+(a) All “material” contracts, agreements, franchises, license agreements, debt instruments or other commitments to which WCGL or any subsidiary is a party or by which it or any of their assets, products, technology, or properties are bound other than those incurred in the ordinary course of business are set forth on Schedule 2.13. A “material” contract, agreement, franchise, license agreement, debt instrument or commitment is one which (i) will remain in effect for more than six (6) months after the date of this Agreement or (ii) involves aggregate obligations of at least fifty thousand dollars ($50,000);
+
+(b) All contracts, agreements, franchises, license agreements, and other commitments to which WCGL or any subsidiary is a party or by which its properties are bound and which are material to the operations of WCGL or the subsidiary taken as a whole are valid and enforceable in all respects, except as limited by bankruptcy and insolvency laws and by other laws affecting the rights of creditors generally; and
+
+(c) Except as included or described in the WCGL Schedules or reflected in the most recent WCGL balance sheet, neither WCGL nor any subsidiary is a party to any oral or written (i) contract for the employment of any officer or employee; (ii) profit sharing, bonus, deferred compensation, stock option, severance pay, pension benefit or retirement plan, (iii) agreement, contract, or indenture relating to the borrowing of money, (iv) guaranty of any obligation; (vi) collective bargaining agreement; or (vii) agreement with any present or former officer or director of WCGL or a subsidiary.
+
+(d) Except as set forth in Schedule 2.13(d), WCGL and its subsidiaries have in all material respects performed all the obligations required to be performed by each of them to date under the foregoing agreements, has received no notice of default and are not in default under any Material Agreement now in effect the result of which would cause a Material Adverse Effect.
+
+Section 2.14 Books and Record Internal Accounting Controls. The books and records of WCGL and its subsidiaries accurately reflect in all material respects the information relating to the business of WCGL and the subsidiaries, the location and collection of their assets, and the nature of all transactions giving rise to the obligations or accounts receivable of WCGL or any subsidiary. WCGL and each of its subsidiaries maintain a system of internal accounting controls sufficient, in the judgment of WCGL, to provide reasonable assurance that (i) transactions are executed in accordance with management’s general or specific authorizations, (ii) transactions are recorded as necessary to permit preparation of financial statements in conformity with U.S. GAAP and to maintain asset accountability, (iii) access to assets is permitted only in accordance with management’s general or specific authorization and (iv) the recorded accountability for assets is compared with the existing assets at reasonable intervals and appropriate actions are taken with respect to any differences.
+
+Section 2.15 Material Agreements. Schedule 2.15(a) sets forth any and all written or oral contracts, instruments, agreements, commitments, obligations, plans or arrangements, WCGL or any subsidiary is a party to, that a copy of which would be required to be filed with the Commission as an exhibit to a registration statement on Form S-1 (collectively, the “Exhibit Agreements”) if WCGL or any subsidiary were registering securities under the Securities Act of 1933 (the “Securities Act”). Except as set forth in Schedule 2.15(b), WCGL and each of its subsidiaries have in all material respects performed all the obligations required to be performed by them to date under the foregoing agreements, have received no notice of default and are not in default under any Exhibit Agreement now in effect the result of which would cause a Material Adverse Effect.
+
+Section 2.15 Transactions with Affiliates. Except as set forth on Schedule 2.15, there are no loans, leases, agreements, contracts, royalty agreements, management contracts or arrangements or other continuing transactions between (a) WCGL or a subsidiary on the one hand, and (b) on the other hand, any officer, employee, consultant or director of WCGL, or any of its subsidiaries, or any person owning any capital stock of WCGL or any member of the immediate family of such officer, employee, consultant, director or stockholder or any corporation or other entity controlled by such officer, employee, consultant, director or stockholder, or a member of the immediate family of such officer, employee, consultant, director or stockholder.
+
+ 
+
+6
+
+
+
+Section 2.16 No Conflict with Other Instruments. The execution of this Agreement and the consummation of the transactions contemplated by this Agreement will not result in the breach of any term or provision of, constitute a default under, or terminate, accelerate or modify the terms of any indenture, mortgage, deed of trust, or other material agreement, or instrument to which WCGL or any subsidiary is a party or to which any of its assets, properties or operations are subject.
+
+Section 2.17 Compliance with Laws and Regulations. The business of WCGL and its subsidiaries has been and is presently being conducted in material compliance with all applicable federal, state and local governmental laws, rules, regulations and ordinances. WCGL and each of its subsidiaries have all franchises, permits, licenses, consents and other governmental or regulatory authorizations and approvals necessary for the conduct of its business in all material respects as now being conducted by it unless the failure to possess such franchises, permits, licenses, consents and other governmental or regulatory authorizations and approvals, individually or in the aggregate, could not reasonably be expected to have a Material Adverse Effect.
+
+Section 2.18 Authority, Execution and Delivery; Enforceability of Agreement. WCGL has all requisite corporate power and authority to execute and deliver this Agreement and to consummate the transaction contemplated hereby. The execution and delivery by WCGL of this Agreement and the consummation by WCGL of the transaction contemplated hereby have been duly authorized and approved by the Board of Directors of WCGL and no other corporate proceedings on the part of WCGL are necessary to authorize this Agreement and the transaction contemplated hereby.
+
+Section 2.19 Bank Accounts; Power of Attorney. Schedule 2.19 hereto sets forth a true and complete list of (a) all accounts with banks, money market mutual funds or securities or other financial institutions maintained by WCGL and its subsidiaries within the past twelve (12) months, the account numbers thereof, and all persons authorized to sign or act on behalf of WCGL, (b) all safe deposit boxes and other similar custodial arrangements maintained by WCGL and its subsidiaries within the past twelve (12) months, (c) the check ledger for the last 12 months, and (d) the names of all persons holding powers of attorney from WCGL and its subsidiaries or who are otherwise authorized to act on behalf of WCGL or its subsidiaries with respect to any matter, other than its officers and directors, and a summary of the terms of such powers or authorizations.
+
+Section 2.20 Valid Obligation. This Agreement and all agreements and other documents executed by WCGL in connection herewith constitute the valid and binding obligation of WCGL, enforceable in accordance with its or their terms, except as may be limited by bankruptcy, insolvency, moratorium or other similar laws affecting the enforcement of creditors’ rights generally and subject to the qualification that the availability of equitable remedies is subject to the discretion of the court before which any proceeding therefore may be brought.
+
+Section 2.21 Title to Properties. Except as disclosed in Schedule 2.21, WCGL and its subsidiaries do not own any real property.
+
+Section 2.22 Insurance. Except as disclosed in Schedule 2.22, WCGL and any of its subsidiaries does not currently maintain any form of insurance. Beginning on the Closing Date and for a period of two years thereafter, WCGL shall take all actions necessary to cause CBI to renew and maintain all of CBI’s insurance policies with at least the same benefits and no more than existing deductibles or co-payments.
+
+Section 2.23 Authorization. No authorization, consent, approval, license, exemption of, filing or registration with any court or governmental department, commission, board, bureau, agency or instrumentality, domestic or foreign, is or will be necessary for, or in connection with, the execution or delivery of the WCGL Exchange Shares, or for the performance by WCGL of its obligations under the Agreement.
+
+ 
+
+7
+
+
+
+Section 2.24 Labor Matters.
+
+(a) Except as disclosed in Schedule 2.24(a), there are no collective bargaining or other labor union agreements to which WCGL is a party or by which WCGL is bound. No material labor dispute exists or, to the knowledge of WCGL, is imminent with respect to any of the employees of WCGL.
+
+(b) Set forth in Schedule 2.24(b) is a complete list of all stock option plans providing for the grant by WCGL of stock options to directors, officers, employees, consultants or other persons. Except as disclosed on Schedule 2.24(b), WCGL has no employment contract, agreement, or other similar contract with any officer, consultant or employee.
+
+(c) Except as set forth in Schedule 2.24(c), neither the consummation of the transactions contemplated hereunder alone, nor in combination with another event, with respect to each director, officer, employee and consultant of WCGL, will result in (a) any payment (including, without limitation, severance, unemployment compensation or bonus payments) becoming due from WCGL, (b) any increase in the amount of compensation or benefits payable to any such individual or (c) any acceleration of the vesting or timing of payment of compensation payable to any such individual. Except as set forth in Schedule 2.24(d), no agreement, arrangement or other contract of WCGL provides benefits or payments contingent upon, triggered by, or increased as a result of a change in the ownership or effective control of WCGL. Except as set forth in Schedule 2.24(d), since December 31, 2008, no termination of any officer, consultant or employee of WCGL, either individually or in the aggregate, would have a Material Adverse Effect or cause any labor dispute.
+
+Section 2.25 Foreign Corrupt Practices. Neither WCGL, nor, to WCGL’s knowledge, any director, officer, agent, employee or other person acting on behalf of WCGL, in the course of its actions for, or on behalf of, WCGL (a) used any corporate funds for any unlawful contribution, gift, entertainment or other unlawful expenses relating to political activity; (b) made any direct or indirect unlawful payment to any foreign or domestic government official or employee from corporate funds; (c) violated or is in violation of any provision of the U.S. Foreign Corrupt Practices Act of 1977, as amended; or (d) made any unlawful bribe, rebate, payoff, influence payment, kickback or other unlawful payment to any foreign or domestic government official or employee.
+
+Section 2.26 WCGL Consultant. As of the date of this Agreement, WCGL has engaged a consultant, agreed by CBI, advising it on the transactions contemplated hereunder. WCGL is solely responsible for payment of fees and expenses arising from obtaining the WCGL Consultant’s services. Except as set forth in Schedule 2.26 of this Agreement, no broker, investment banker, financial advisor or other person is entitled to any broker’s, finder’s, financial advisor’s or other similar fee or commission in connection with the Transactions based upon arrangements made by or on behalf of WCGL.
+
+ARTICLE III
+
+REPRESENTATIONS, COVENANTS, AND WARRANTIES OF CBI
+
+CBI represents, warrants and agrees that all of the statements in the following subsections of this Article III are true and complete as of the date hereof. The disclosure schedules attached hereto are divided into sections that correspond to the sections of this Article III. The CBI Disclosure Schedules comprise lists of all exceptions to the truth and accuracy in all material respects of, and of all disclosures or descriptions required by, the representations and warrants set forth in this Article III.
+
+Section 3.01 Incorporation. CBI is a company duly incorporated, validly existing, and in good standing under the laws of the Commonwealth of Virginia and has the corporate power and is duly authorized under all applicable laws, regulations, ordinances, and orders of public authorities to carry on its business in all material respects as it is now being conducted. Complete and correct copies of the CBI Constituent Instruments (as such term is defined below) as in effect on the date hereof are included in the CBI Disclosure Schedules as Schedule 3.01. The execution and delivery of this Agreement does not, and the consummation of the transactions contemplated hereby will not, violate any provision of CBI Constituent Instruments. CBI has taken all actions required by law, the CBI Constituent Instruments, or otherwise to authorize the execution and delivery of this Agreement. CBI has full power, authority, and legal capacity and has taken all action required by law, the CBI Constituent Instruments, and otherwise to consummate the transactions
+
+ 
+
+8
+
+
+
+herein contemplated. For the purpose of this Agreement, “CBI Constituent Instruments” shall mean the articles of incorporation and bylaws of CBI and such other constituent instruments of CBI as may exist, each as amended to the date of this Agreement.
+
+Section 3.02 Organization. Except as set forth on Schedule 3.02, CBI and each of its subsidiaries is a corporation or other entity duly incorporated or otherwise organized, validly existing, and in good standing under the laws of its jurisdiction or organization (as applicable) and has the requisite corporate power to own, lease and operate its properties and assets and to conduct its business as it is now being conducted. Schedule 3.02 includes a list of all of CBI’s subsidiaries. Except as set forth on Schedule 3.02, CBI and each such subsidiary is duly qualified to do business and is in good standing in every jurisdiction in which the nature of the business conducted or property owned by it makes such qualification necessary except for any jurisdiction(s) (alone or in the aggregate) in which the failure to be so qualified will not have a Material Adverse Effect on CBI’s financial condition.
+
+Section 3.03 Capitalization. CBI is authorized to issue a total of 101,000,000 shares of capital stock, of which 100,000,000 shares are common stock, without par value per share, and 1,000,000 shares are preferred stock, without par value per share. As of the date of this Agreement, there are 8,141,796 shares of CBI Common Stock issued and outstanding, and no shares of preferred stock are issued and outstanding. All issued and outstanding shares are legally issued, fully paid, and non-assessable and not issued in violation of the preemptive or other rights of any person. Except as set forth on Schedule 3.03(a) hereto, no shares of CBI Common Stock are entitled to preemptive rights or registration rights and there are no outstanding options, warrants, scrip, rights to subscribe to, call or commitments of any character whatsoever relating to, or securities or rights convertible into, any shares of capital stock of CBI. Except as set forth on Schedule 3.03(b), there are no contracts, commitments, understandings, or arrangements by which CBI is or may become bound to issue additional shares of its capital stock or options, securities or rights convertible into shares of capital stock of CBI. Except as set forth on Schedule 3.03(c) hereto, CBI is not a party to any agreement granting registration or anti-dilution rights to any person with respect to any of its equity or debt securities. Except as set forth on Schedule 3.03(d), CBI is not a party to, and it has no knowledge of, any agreement restricting the voting or transfer of any shares of the capital stock of CBI. The offer and sale of all capital stock, convertible securities, rights, warrants, or options of CBI issued prior to the Closing complied with all applicable federal and state securities laws, and no stockholder has a right of rescission or claim for damages with respect thereto which would have a Material Adverse Effect.
+
+Section 3.04 Subsidiaries. All of the outstanding shares of capital stock of each subsidiary have been duly authorized and validly issued, and are fully paid and nonassessable. Other than as set forth on Schedule 3.04(b), there are no outstanding preemptive, conversion or other rights, options, warrants or agreements granted or issued by or binding upon any subsidiary for the purchase or acquisition of any shares of capital stock of any subsidiary or any other securities convertible into, exchangeable for or evidencing the rights to subscribe for any shares of such capital stock. Other than as set forth on Schedule 3.04(c), neither CBI nor any subsidiary is subject to any obligation (contingent or otherwise) to repurchase or otherwise acquire or retire any shares of the capital stock of any subsidiary or any convertible securities, rights, warrants or options of the type described in the preceding sentence. Neither CBI nor any subsidiary is party to, nor has any knowledge of, any agreement restricting the voting or transfer of any shares of the capital stock of any subsidiary. CBI and its subsidiaries, as applicable, each have the unrestricted right to vote, and (subject to limitations or restrictions imposed by applicable law) to receive dividends and distributions on, all capital securities of its subsidiaries as owned by CBI or any such subsidiary, as the case may be.
+
+Section 3.05 Financial Statements.
+
+(a) Schedule 3.05(a) hereto sets forth the audited balance sheets of CBI as of December 31, 2008 and 2007 and the related audited statements of operations, stockholders’ equity and cash flows for December 31, 2008 and 2007 together with the notes to such statements and the opinions of Witt Mares, PLC and BDO Seidman, LLP, independent certified public accountants with respect thereto.
+
+(b) Schedule 3.05(b) hereto sets forth unaudited balance sheets of September 30, 2009 and the related unaudited statements of operations, stockholders’ equity and cash flows for the quarters ended on such dates and all such financial statements have been reviewed by Witt Mares, PLC.
+
+ 
+
+9
+
+
+
+(c) All such financial statements have been prepared in accordance with U.S. GAAP consistently applied throughout the periods involved. The CBI balance sheets are true and accurate and present fairly as of their respective dates the financial condition of CBI. As of the date of such balance sheets, except as and to the extent reflected or reserved against therein, CBI had no liabilities or obligations (absolute or contingent) which should be reflected in the balance sheets or the notes thereto prepared in accordance with generally accepted accounting principles, and all assets reflected therein are properly reported and present fairly the value of the assets of CBI, in accordance with U.S. GAAP. The statements of operations, stockholders’ equity and cash flows reflect fairly the information required to be set forth therein by U.S. GAAP.
+
+(d) The books and records, financial and otherwise, of CBI and its subsidiaries are in all material aspects complete and correct and have been maintained in accordance with good business and accounting practices.
+
+(e) All of CBI and its subsidiaries’ assets are reflected on its financial statements, and, except as set forth in Schedule 3.05(e) or the financial statements of CBI or the notes thereto, CBI and its subsidiaries have no material liabilities, direct or indirect, matured or unmatured, contingent or otherwise.
+
+Section 3.06 Absence of Certain Changes or Events. Except as set forth in Schedule 3.06, since December 31, 2008:
+
+(a) CBI has not incurred a Material Adverse Effect;
+
+(b) CBI has not (i) amended the CBI Constituent Instruments; (ii) declared or made, or agreed to declare or make any payment of dividends or distributions of any assets of any kind whatsoever to stockholders or purchased or redeemed, or agreed to purchase or redeem, any of its capital stock; (iii) waived any rights of value which in the aggregate are outside of the ordinary course of business or material considering the business of CBI; (iv) made any material change in its method of management, operation, or accounting; (v) entered into any transactions or agreements other than in the ordinary course of business; (vi) made any accrual or arrangement for or payment of bonuses or special compensation of any kind or any severance or termination pay to any present or former officer or employee; (vii) increased the rate of compensation payable or to become payable by it to any of its officers or directors or any of its salaried employees whose monthly compensation exceed $1,000; or (viii) made any increase in any profit sharing, bonus, deferred compensation, insurance, pension, retirement, or other employee benefit plan, payment, or arrangement, made to, for or with its officers, directors, or employees;
+
+(c) Neither CBI nor any of its subsidiaries has (i) granted or agreed to grant any options, warrants, or other rights for its stock, bonds, or other corporate securities calling for the issuance thereof; (ii) borrowed or agreed to borrow any funds or incurred, or become subject to, any material obligation or liability (absolute or contingent) except liabilities incurred in the ordinary course of business; (iii) paid or agreed to pay any material obligations or liabilities (absolute or contingent) other than current liabilities reflected in or shown on the most recent CBI balance sheet and current liabilities incurred since that date in the ordinary course of business and professional and other fees and expenses in connection with the preparation of this Agreement and the consummation of the transaction contemplated hereby; (iv) sold or transferred, or agreed to sell or transfer, any of its assets, properties, or rights (except assets, properties, or rights not used or useful in its business which, in the aggregate have a value of less than $1,000), or canceled, or agreed to cancel, any debts or claims (except debts or claims which in the aggregate are of a value less than $1,000); (v) made or permitted any amendment or termination of any contract, agreement, or license to which it is a party if such amendment or termination is material, considering the business of CBI; or (vi) issued, delivered or agreed to issue or deliver, any stock, bonds or other corporate securities including debentures (whether authorized and unissued or held as treasury stock), except in connection with this Agreement; and
+
+(d) To its best knowledge, neither CBI nor any of its subsidiaries has become subject to any law or regulation which materially and adversely affects, or in the future, may adversely affect, the business, operations, properties, assets or condition of CBI or its subsidiary.
+
+Section 3.07 No Undisclosed Liabilities. Other than as disclosed on Schedule 3.07, neither CBI nor any of its subsidiaries has any liabilities, obligations, claims or losses (whether liquidated or unliquidated, secured or unsecured, absolute, accrued, contingent or otherwise) other than those incurred in the ordinary course of CBI or its subsidiaries’ respective businesses since December 31, 2008 and which, individually or in the aggregate, do not or would not have a Material Adverse Effect on CBI or its subsidiaries.
+
+ 
+
+10
+
+
+
+Section 3.08 No Undisclosed Events or Circumstances To the best knowledge of CBI, no event or circumstance has occurred or exists with respect to CBI or its subsidiaries or their respective businesses, properties, operations or financial condition, which, under applicable law, rule or regulation, requires public disclosure or announcement by CBI but which has not been so publicly announced or disclosed.
+
+Section 3.09 Indebtedness. Schedule 3.09(a) hereto sets forth all outstanding secured and unsecured Indebtedness of CBI and its subsidiaries on a consolidated basis as of the date of this Agreement. Except as set forth in Schedule 3.09(b) neither CBI nor any subsidiary is in default with respect to any Indebtedness.
+
+Section 3.10 Litigation and Proceedings. Except as set forth on Schedule 3.10, as of the date of this Agreement, there are no actions, suits, proceedings, or investigations pending or, to the knowledge of CBI after reasonable investigation, threatened by or against CBI or affecting CBI or its properties, at law or in equity, before any court or other governmental agency or instrumentality, domestic or foreign, or before any arbitrator of any kind. Except as set forth on Schedule 3.10, CBI does not have any knowledge of any material default on its part with respect to any judgment, order, injunction, decree, award, rule, or regulation of any court, arbitrator, or governmental agency or instrumentality or of any circumstances which, after reasonable investigation, would result in the discovery of such a default.
+
+Section 3.11 Title to Assets. Except as set forth on Schedule 3.11(a), each of CBI or its subsidiaries has good and marketable title to all of its real and personal property reflected on Schedule 3.11(b) free and clear of any mortgages, pledges, charges, liens, securities interest or other encumbrances, all properties and assets (i) purportedly owned or used by them, (ii) all properties and assets necessary for the conduct of their business as currently conducted. All leases of CBI and each of its subsidiaries are valid and subsisting and in full force and effect. The aggregate of all monthly payment accrued from the mortgages, pledges, charges, lien, securities interest or other encumbrances set forth on Schedule 3.11(a) is discharged in full on a monthly basis by CBI’s monthly income arising from its five-year lease with Bostwick Laboratories, Inc., of the facility located at 601 Biotech Drive, Richmond, Virginia, 23235 (the “Office Property”)owned by CBI with good and marketable title, assuming consummation of such lease and full performance thereunder.
+
+Section 3.12 Litigation and Proceedings. Except as set forth on Schedule 3.12, there is no action, suit, claim, investigation, arbitration, alternate dispute resolution proceeding or any other proceeding pending or, to the knowledge of CBI, threatened against CBI or any subsidiary which questions the validity of this Agreement or the transactions contemplated hereby or thereby or any action taken or to be taken pursuant hereto or thereto. There is no action, suit, claim, investigation, arbitration, alternate dispute resolution proceeding or any other proceeding pending or, to the knowledge of CBI, threatened, against or involving CBI, any subsidiary or any of their respective properties or assets. There are no outstanding orders, judgments, injunctions, awards or decrees of any court, arbitrator or governmental or regulatory body against CBI or any subsidiary or any executive officers or directors of CBI or subsidiary in their capacities as such.
+
+Section 3.13 Taxes. Except as set forth on Schedule 3.13, CBI and each of the subsidiaries has accurately prepared and timely filed all federal, state and other tax returns required by law to be filed by it, has paid or made provisions for the payment of all taxes shown to be due and all additional assessments, and adequate provisions have been and are reflected in the financial statements of CBI and the subsidiaries for all current taxes and other charges to which CBI or any subsidiary is subject and which are not currently due and payable. None of the federal income tax returns of CBI or any subsidiary have been audited by the Internal Revenue Service. Except as set forth on Schedule 3.13, CBI has no knowledge of any additional assessments, adjustments or contingent tax liability (whether federal or state) of any nature whatsoever, whether pending or threatened against CBI or any subsidiary for any period, nor of any basis for any such assessment, adjustment or contingency.
+
+Section 3.14 Certain Fees. No brokers’ fees, finders fees or financial advisory fees or commissions will be payable by CBI or any subsidiary with respect to the transactions contemplated by this Agreement.
+
+ 
+
+11
+
+
+
+Section 3.15 Operation of Business. CBI and each of the subsidiaries owns or has the lawful right to use all patents, trademarks, domain names (whether or not registered) and any patentable improvements or copyrightable derivative works thereof, websites and intellectual property rights relating thereto, service marks, trade names, copyrights, licenses and authorizations, and all rights with respect to the foregoing, which are necessary for the conduct of its business as now conducted without any conflict with the rights of others, except where the failure to so own or possess would not have a Material Adverse Effect. Schedule 3.14 sets forth a list of the status of all intellectual property owned by CBI and its subsidiaries.
+
+Section 3.16 Environmental Compliance. Since their inception, neither CBI, nor any of its subsidiaries has been, in violation of any applicable law relating to the environment or occupational health and safety, where such violation would have a Material Adverse Effect on the business or financial condition of any of CBI and its subsidiaries. CBI and its subsidiaries (i) are in compliance with any and all Environmental Laws (as hereinafter defined), (ii) have received all permits, licenses or other approvals required of them under applicable Environmental Laws to conduct their respective businesses and (iii) are in compliance with all terms and conditions of any such permit, license or approval where, in each of the foregoing clauses (i), (ii) and (iii), the failure to so comply could be reasonably expected to have, individually or in the aggregate, a Material Adverse Effect. “Environmental Laws” shall mean all applicable laws relating to the protection of the environment including, without limitation, all requirements pertaining to reporting, licensing, permitting, controlling, investigating or remediating emissions, discharges, releases or threatened releases of hazardous substances, chemical substances, pollutants, contaminants or toxic substances, materials or wastes, whether solid, liquid or gaseous in nature, into the air, surface water, groundwater or land, or relating to the manufacture, processing, distribution, use, treatment, storage, disposal, transport or handling of hazardous substances, chemical substances, pollutants, contaminants or toxic substances, material or wastes, whether solid, liquid or gaseous in nature. Other than as disclosed on Schedule 3.16, CBI and each of its subsidiaries are also in compliance with all other limitations, restrictions, conditions, standards, requirements, schedules and timetables required or imposed under all Environmental Laws. There are no past or present events, conditions, circumstances, incidents, actions or omissions relating to or in any way affecting CBI or its subsidiaries that violate or may violate any Environmental Law after the Closing Date or that may give rise to any environmental liability, or otherwise form the basis of any claim, action, demand, suit, proceeding, hearing, study or investigation (i) under any Environmental Law, or (ii) based on or related to the manufacture, processing, distribution, use, treatment, storage (including without limitation underground storage tanks), disposal, transport or handling, or the emission, discharge, release or threatened release of any hazardous substance where, in each of the foregoing clauses (i) and (ii), the failure to so comply could be reasonably expected to have5, individually or in the aggregate, a Material Adverse Effect.
+
+Section 3.17 Contracts.
+
+(a) All “material” contracts, agreements, franchises, license agreements, debt instruments or other commitments (as such term is defined in Section 2.13 hereof) to which CBI or any subsidiary is a party or by which it or any of its assets, products, technology, or properties are bound other than those incurred in the ordinary course of business are set forth on Schedule 3.17;
+
+(a) All contracts, agreements, franchises, license agreements, and other commitments to which CBI or any affiliate is a party or by which its properties are bound and which are material to the operations of CBI taken as a whole are valid and enforceable in all respects, except as limited by bankruptcy and insolvency laws and by other laws affecting the rights of creditors generally; and
+
+(c) Except as included or described in Schedule 3.17(c) or reflected in the Commission Documents, neither CBI nor any affiliate is a party to any oral or written (i) contract for the employment of any officer or employee; (ii) profit sharing, bonus, deferred compensation, stock option, severance pay, pension benefit or retirement plan, (iii) agreement, contract, or indenture relating to the borrowing of money, (iv) guaranty of any obligation; (vi) collective bargaining agreement; or (vii) agreement with any present or former officer or director of WCGL.
+
+(d) Except as set forth in Schedule 3.17(d), CBI and its subsidiaries have in all material respects performed all the obligations required to be performed by it to date under the foregoing agreements, has received no notice of default and is not in default under any Material Agreement now in effect the result of which would cause a Material Adverse Effect.
+
+ 
+
+12
+
+
+
+Section 3.18 Books and Record Internal Accounting Controls. Except as otherwise disclosed in the Commission Documents (as such term is defined in Section 3.25(a) hereof), the books and records of CBI and its subsidiaries accurately reflect in all material respects the information relating to the business of CBI and the subsidiaries, the location and collection of their assets, and the nature of all transactions giving rise to the obligations or accounts receivable of CBI or any subsidiary. CBI and each of its subsidiaries maintain a system of internal accounting controls sufficient, in the judgment of CBI, to provide reasonable assurance that (i) transactions are executed in accordance with management’s general or specific authorizations, (ii) transactions are recorded as necessary to permit preparation of financial statements in conformity with U.S. GAAP and to maintain asset accountability, (iii) access to assets is permitted only in accordance with management’s general or specific authorization and (iv) the recorded accountability for assets is compared with the existing assets at reasonable intervals and appropriate actions are taken with respect to any differences.
+
+Section 3.19 Exhibit Agreements. Schedule 3.19(a) sets forth any and all Exhibit Agreements (as such term is defined in Section 2.15 hereof). Except as set forth in Schedule 3.19(b), CBI and each of its subsidiaries have in all material respects performed all the obligations required to be performed by them to date under the foregoing agreements, have received no notice of default and are not in default under any Exhibit Agreement now in effect the result of which would cause a Material Adverse Effect.
+
+Section 3.20 Transactions with Affiliates. Except as set forth on Schedule 3.20, which sets forth proposed and existing affiliate relationships, there are no loans, leases, agreements, contracts, royalty agreements, management contracts or arrangements or other continuing transactions between (a) CBI or any subsidiary on the one hand, and (b) on the other hand, any officer, employee, consultant or director of CBI, or any of its subsidiaries, or any person owning any capital stock of CBI or any subsidiary or any member of the immediate family of such officer, employee, consultant, director or stockholder or any corporation or other entity controlled by such officer, employee, consultant, director or stockholder, or a member of the immediate family of such officer, employee, consultant, director or stockholder.
+
+Section 3.21 No Conflict with Other Instruments. Except as set forth on Schedule 3.21, the execution of this Agreement and the consummation of the transactions contemplated by this Agreement will not result in the breach of any term or provision of, constitute a default under, or terminate, accelerate or modify the terms of, any indenture, mortgage, deed of trust, or other material agreement or instrument to which CBI or any of its subsidiaries is a party or to which any of its assets, properties or operations are subject.
+
+Section 3.22 Compliance with Law. Except s set forth on Schedule 3.22, the business of CBI and the subsidiaries has been and is presently being conducted in material compliance with all applicable federal, state and local governmental laws, rules, regulations and ordinances. CBI and each of its subsidiaries have all franchises, permits, licenses, consents and other governmental or regulatory authorizations and approvals necessary for the conduct of its business in all material respects as now being conducted by it unless the failure to possess such franchises, permits, licenses, consents and other governmental or regulatory authorizations and approvals, individually or in the aggregate, could not reasonably be expected to have a Material Adverse Effect.
+
+Section 3.23 Approval of Agreement. The Board of Directors has authorized the execution and delivery of this Agreement by CBI and has approved this Agreement and the transactions contemplated hereby. The shareholders of CBI have not yet voted to approve this Agreement and the transactions contemplated hereby, and such shareholder approval is a condition of Closing. If such shareholder approval does not occur, then this Agreement will terminate in accordance with Section 8.01.
+
+Section 3.24 Bank Accounts; Power of Attorney. Schedule 3.23 hereto sets forth a true and complete list of (a) all accounts with banks, money market mutual funds or securities or other financial institutions maintained by CBI or any of its subsidiaries within the past twelve (12) months, the account numbers thereof, and all persons authorized to sign or act on behalf of CBI or otherwise its subsidiaries, (b) all safe deposit boxes and other similar custodial arrangements maintained by CBI and its subsidiaries within the past twelve (12) months, (c) the check ledger for the last 12 months, and (d) the names of all persons holding powers of attorney from CBI or its subsidiaries or who are otherwise authorized to act on behalf of CBI or its subsidiaries with respect to any matter, other than its officers and directors, and a summary of the terms of such powers or authorizations.
+
+ 
+
+13
+
+
+
+Section 3.25 Valid Obligation. This Agreement and all agreements and other documents executed by CBI in connection herewith constitute the valid and binding obligation of CBI, enforceable in accordance with its or their terms, except as may be limited by bankruptcy, insolvency, moratorium or other similar laws affecting the enforcement of creditors’ rights generally and subject to the qualification that the availability of equitable remedies is subject to the discretion of the court before which any proceeding therefore may be brought.
+
+Section 3.26 Commission Documents; Financial Statements.
+
+(a) CBI has filed all reports, schedules, forms, statements and other documents required to be filed by it with the Securities and Exchange Commission (the “Commission”) pursuant to the reporting requirements of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), including material filed pursuant to Section 13(a) or 15(d) of the Exchange Act (all of the foregoing including filings incorporated by reference therein being referred to herein as the “Commission Documents”).
+
+(b) CBI has made available to WCGL and the Shareholder a correct and complete copy, or there has been available on EDGAR, copies of each Commission Document filed by CBI with the SEC upon the request of WCGL or the Shareholder. As of the respective dates of such Commission Documents, to CBI’s knowledge, the Commission Documents: (i) were prepared in accordance and complied in all material respects with the requirements of the Securities Act or the Exchange Act, as the case may be, and the rules and regulations of the Commission thereunder applicable to such Commission Documents, and (ii) did not at the time they were filed (and if amended or superseded by a filing prior to the date of this Agreement then on the date of such filing and as so amended or superseded) contain any untrue statement of a material fact or omit to state a material fact required to be stated therein or necessary in order to make the statements therein, in light of the circumstances under which they were made, not misleading.
+
+(c) A current report on Form 8-K is required to be and shall be filed by CBI within four business days after the Closing Date to disclose the transactions contemplated in this Agreement (the “Form 8-K”).
+
+Section 3.27 Securities Act of 1933. Assuming the accuracy of the representations of the Shareholder set forth in Sections 4.06 and 4.07 hereof, CBI has complied and will comply with all applicable federal and state securities laws in connection with the offer, issuance and sale of the CBI Common Stock hereunder. Neither CBI nor anyone acting on its behalf, directly or indirectly, has or will sell, offer to sell or solicit offers to buy any of the CBI Common Stock, or solicit offers with respect thereto from, or enter into any preliminary conversations or negotiations relating thereto with, any person, or has taken or will take any action so as to bring the issuance and sale of any of the CBI Common Stock in violation of the registration provisions of the Securities Act and applicable state securities laws, and neither CBI nor any of its affiliates, nor any person acting on its or their behalf, has engaged in any form of general solicitation or general advertising (within the meaning of Regulation D under the Securities Act) in connection with the offer or sale of any of the CBI Common Stock.
+
+Section 3.28 Governmental Approvals. Except for the filing of any notice prior or subsequent to the Closing Date that may be required under applicable state and/or federal securities laws (which if required, shall be filed on a timely basis), including the filing of a Form D and Form 8-K, no authorization, consent, approval, license, exemption of, filing or registration with any court or governmental department, commission, board, bureau, agency or instrumentality, domestic or foreign, is or will be necessary for, or in connection with, the execution or delivery of the CBI Exchange Shares, or for the performance by CBI of its obligations under the Agreement.
+
+Section 3.29 Securities and Exchange Act of 1934. CBI is in compliance with, and current in, all of the reporting, filing and other requirements under the Exchange Act, the shares of CBI Common Stock have been registered under Section 12(b) of the Exchange Act, and CBI is in compliance with all of the requirements under, and imposed by, Section 12(b) of the Exchange Act, except where a failure to so comply is not reasonably likely to have a Material Adverse Effect on CBI.
+
+Section 3.30 Employees/Labor Matters.
+
+(a) Except as disclosed on Schedule 3.30(a), neither CBI nor any subsidiary has any collective bargaining arrangements or agreements covering any of its employees. No labor dispute exists or, to the knowledge of CBI, is imminent with respect to any of the employees of CBI.
+
+ 
+
+14
+
+
+
+(b) Set forth in Schedule 3.30(b) is a complete list of all stock option plans providing for the grant by CBI of stock options to directors, officers, employees, consultants or other persons.
+
+(c) Except as disclosed on Schedule 3.30(c), neither CBI nor any subsidiary has any employment contract, agreement, or other similar contract with any of its officer, consultant or employee.
+
+(d) Except as set forth in Schedule 3.30(d), neither the consummation of the transactions contemplated hereunder alone, nor in combination with another event, with respect to each director, officer, employee and consultant of CBI, will result in (a) any payment (including, without limitation, severance, unemployment compensation or bonus payments) becoming due from CBI, (b) any increase in the amount of compensation or benefits payable to any such individual or (c) any acceleration of the vesting or timing of payment of compensation payable to any such individual. Except as set forth in Schedule 3.30(d), no agreement, arrangement or other contract of CBI provides benefits or payments contingent upon, triggered by, or increased as a result of a change in the ownership or effective control of CBI. Except as set forth in Schedule 3.30(d), since December 31, 2008, no termination of any officer, consultant or employee of CBI, either individually or in the aggregate, would have a Material Adverse Effect or cause any labor dispute.
+
+(e) Except as set forth in Schedule 3.30(e), CBI has terminated all employees and has satisfied all obligations, including past salary, taxes, payroll obligations or any other liability related to such employees.
+
+Section 3.31 No Material Change of Mimotopes. Since December 31, 2008, there has not been any Material Adverse Effect in Mimotopes.
+
+ARTICLE IV
+
+REPRESENTATIONS AND WARRANTIES OF THE SHAREHOLDER
+
+The Shareholder hereby represents and warrants to CBI as follows.
+
+Section 4.01 Incorporation. The Shareholder is a company duly incorporated, validly existing, and in good standing under the laws of the British Virgin Islands and has the corporate power and is duly authorized under all applicable laws, regulations, ordinances, and orders of public authorities to carry on its business in all material respects as it is now being conducted. The execution and delivery of this Agreement does not, and the consummation of the transactions contemplated hereby will not, violate any provision of the Shareholder Constituent Instruments (as such term is defined below). The Shareholder has taken all actions required by law, the Shareholder Constituent Instruments or otherwise to authorize the execution and delivery of this Agreement. The Shareholder has full power, authority, and legal capacity and has taken all action required by law, the Shareholder Constituent Instruments, and otherwise to consummate the transactions herein contemplated. For the purpose of this Agreement, “Shareholder Constituent Instruments” shall mean the memorandum and articles of association of the Shareholder and such other constituent instruments of the Shareholder as may exist, each as amended to the date of this Agreement.
+
+Section 4.02 Good Title. The Shareholder is the record and beneficial owner, and has good title to its WCGL Common Stock, with the right and authority to sell and deliver such WCGL Common Stock. Upon delivery of any certificate or certificates duly assigned, representing the same as herein contemplated and/or upon registering of CBI as the new owner of such WCGL Common Stock in the share register of WCGL, CBI will receive good title to such WCGL Common Stock, free and clear of all Liens.
+
+Section 4.03 Enforceability. This Agreement constitutes a legal, valid and binding obligation of the Shareholder, enforceable against the Shareholder in all respects, except as limited by bankruptcy and insolvency laws and by other laws affecting the rights of creditors generally.
+
+Section 4.04 No Conflicts. The execution and delivery of this Agreement by the Shareholder and the performance by the Shareholder of its obligations hereunder in accordance with the terms hereof: (a) will not require the consent of any third party or governmental entity under any laws; (b) will not violate any law applicable to the Shareholder and (c) will not violate or breach any contractual obligation to which the Shareholder is a party.
+
+ 
+
+15
+
+
+
+Section 4.05 Finder’s Fee. Except as set forth in Schedule 4.05, the Shareholder represents and warrants that it has not created any obligation for any finder’s, investment banker’s or broker’s fee in connection with the transaction contemplated hereby.
+
+Section 4.06 Purchase Entirely for Own Account. The Shareholder is acquiring the CBI Exchange Shares for investment for its own account, and not with a view to the resale or distribution of any part thereof, and the Shareholder has no present intention of selling or otherwise distributing the CBI Exchange Shares, except in compliance with applicable securities laws.
+
+Section 4.07 Sophistication and Accredited Status. The Shareholder is a sophisticated investor, as described in Rule 506(b)(2)(ii) promulgated under the Securities Act and has such experience in business and financial matters that it is capable of evaluating the merits and risk of an investment in CBI. In addition, the Shareholder meets the definition of “accredited investor,” as defined in Rule 501(a) promulgated under the Securities Act.
+
+Section 4.08 Access to Information. The Shareholder has received or had access to all documents, records and other information pertaining to its investment in the CBI Exchange Shares that it has requested, and has been given the opportunity to meet or have telephonic discussions with CBI’s representatives, to ask questions of them, to receive answers concerning the terms and conditions of this investment and to obtain information that CBI possesses or can acquire without unreasonable effort or expense.
+
+Section 4.09 Non-Registration. The Shareholder understands that the CBI Exchange Shares have not been registered under the Securities Act and, if issued in accordance with the provisions of this Agreement, will be issued by reason of a specific exemption from the registration provisions of the Securities Act which depends upon, among other things, the bona fide nature of the investment intent and the accuracy of the Shareholder’s representations as expressed herein. The non-registration shall have no prejudice with respect to any rights, interests, benefits and entitlements attached to the CBI Exchange Shares in accordance with the CBI Constituent Instruments or the laws of its jurisdiction of incorporation.
+
+Section 4.10 Restricted Securities. The Shareholder understands that the CBI Exchange Shares are characterized as “restricted securities” under the Securities Act inasmuch as this Agreement contemplates that, if acquired by the Shareholder pursuant hereto, the CBI Exchange Shares would be acquired in a transaction not involving a public offering. The issuance of the CBI Exchange Shares hereunder has not been registered under the Securities Act or the securities laws of any state of the U.S. and that the issuance of Exchange Shares is being effected in reliance upon an exemption from registration afforded either under Section 4(2) of the Securities Act for transactions by an issuer not involving a public offering or Regulation S for offers and sales of securities outside the U.S. The Shareholder further acknowledges that if the CBI Exchange Shares are issued to the Shareholder in accordance with the provisions of this Agreement, such CBI Exchange Shares may not be resold without registration under the Securities Act or the existence of an exemption therefrom. The Shareholder represents that it is familiar with Rule 144 promulgated under the Securities Act, as presently in effect, and understands the resale limitations imposed thereby and by the Securities Act.
+
+Section 4.11 Legends. The Shareholder hereby agrees with CBI that the CBI Exchange Shares will bear the following legend or one that is substantially similar to the following legend:
+
+THE SECURITIES REPRESENTED BY THIS CERTIFICATE HAVE NOT BEEN REGISTERED UNDER THE SECURITIES ACT OF 1933, AS AMENDED (THE “ACT”), OR ANY STATE SECURITIES LAWS AND NEITHER SUCH SECURITIES NOR ANY INTEREST THEREIN MAY BE OFFERED, SOLD, PLEDGED, ASSIGNED OR OTHERWISE TRANSFERRED EXCEPT (1) PURSUANT TO AN EFFECTIVE REGISTRATION STATEMENT UNDER THE SECURITIES ACT AND APPLICABLE STATE SECURITIES LAWS OR (2) PURSUANT TO AN AVAILABLE EXEMPTION FROM THE REGISTRATION REQUIREMENTS OF THE SECURITIES ACT AND APPLICABLE STATE SECURITIES LAWS, IN WHICH CASE THE HOLDER MUST, PRIOR TO SUCH TRANSFER, FURNISH TO THE COMPANY AN OPINION OF COUNSEL, WHICH COUNSEL AND OPINION ARE REASONABLY SATISFACTORY TO THE COMPANY, THAT SUCH SECURITIES MAY BE
+
+ 
+
+16
+
+
+
+OFFERED, SOLD, PLEDGED, ASSIGNED OR OTHERWISE TRANSFERRED IN THE MANNER CONTEMPLATED PURSUANT TO AN AVAILABLE EXEMPTION FROM THE REGISTRATION REQUIREMENTS OF THE SECURITIES ACT AND APPLICABLE STATE SECURITIES LAWS.
+
+ARTICLE V
+
+SPECIAL COVENANTS
+
+Section 5.01 Access to Properties and Records. CBI and WCGL will each afford to the officers and authorized representatives of the other full access to the properties, books and records of CBI or WCGL, as the case may be, in order that each may have a full opportunity to make such reasonable investigation as it shall desire to make of the affairs of the other, and each will furnish the other with such additional financial and operating data and other information as to the business and properties of CBI or WCGL, as the case may be, as the other shall from time to time reasonably request. Without limiting the foregoing, as soon as practicable after the end of each fiscal quarter (and in any event through the last fiscal quarter prior to the Closing Date), each party shall provide the other with quarterly internally prepared and reviewed financial statements. In connection with this disclosure, WCGL and its affiliates and subsidiaries agree to enter into standard non-disclosure / non-trading agreements designed to comply with Regulation FD, as promulgated by the Commission.
+
+Section 5.02 Third Party Consents and Certificates. CBI and WCGL agree to cooperate with each other in order to obtain any required third party consents to this Agreement and the transactions herein contemplated.
+
+Section 5.03 NASDAQ Compliance. CBI shall use its best efforts to cure its violation of NASDAQ’s continued listing requirements and to remain listed on the NASDAQ marketplace.
+
+Section 5.04 Actions Prior to Closing.
+
+(a) From and after the date of this Agreement until the Closing Date and except as set forth in the CBI Disclosure Schedules or WCGL Disclosure Schedules or as permitted or contemplated by this Agreement, CBI and WCGL respectively, will each:
+
+(i) carry on its business in substantially the same manner as it has heretofore;
+
+(ii) maintain and keep its properties in states of good repair and condition as at present, except for depreciation due to ordinary wear and tear and damage due to casualty;
+
+(iii) maintain in full force and effect insurance comparable in amount and in scope of coverage to that now maintained by it;
+
+(iv) perform in all material respects all of its obligations under material contracts, leases, and instruments relating to or affecting its assets, properties, and business;
+
+(v) use its best efforts to maintain and preserve its business organization intact, to retain its key employees, and to maintain its relationship with its material suppliers and customers; and
+
+(vi) fully comply with and perform in all material respects all obligations and duties imposed on it by all federal and state laws and all rules, regulations, and orders imposed by federal or state governmental authorities.
+
+(b) From and after the date of this Agreement until the Closing Date, neither CBI nor WCGL will:
+
+(i) make any changes in their respective Constituent Instruments; and
+
+ 
+
+17
+
+
+
+(ii) except as required by this Agreement, take any action outside the ordinary course of the Party’s business.
+
+ARTICLE VI
+
+CONDITIONS
+
+Section 6.01 Conditions Precedent to Closing. The obligations of the Parties under this Agreement shall be and are subject to fulfillment, prior to or at the Closing, of each of the following conditions:
+
+(a) That each of the representations and warranties of the Parties contained herein shall be true and correct at the time of the Closing Date as if such representations and warranties were made at such time except for changes permitted or contemplated by this Agreement; and
+
+(b) That the Parties shall have performed or complied with all agreements, terms and conditions required by this Agreement to be performed or complied with by them prior to or at the time of the Closing.
+
+Section 6.02 Conditions to Obligations of CBI. The obligations of CBI shall be subject to fulfillment prior to or at the Closing, of each of the following conditions:
+
+(a) CBI shall have received all of the deliveries referenced in Section 7.01 hereof;
+
+(b) CBI shall have received all of the regulatory, shareholder and other third party consents, permits, approvals and authorizations necessary to consummate the transaction contemplated by this Agreement; and
+
+(c) Within five business days of the execution of this Agreement, WCGL shall make available funds to Kaufman & Canoles for legal fees owed by CBI to Kaufman & Canoles an aggregate of $150,000 as follows: $30,000 within five (5) days of execution of this Agreement; $30,000 within five (5) days of CBI submitting a proxy to the SEC for the transaction that is the subject of this Agreement; $30,000 within five (5) days of the mailing of the definitive proxy described hereinbefore; and $60,000 upon consummation of the closing of the transaction contemplated by this Agreement.
+
+Section 6.03 Conditions to Obligations of WCGL and the Shareholder. The obligations of WCGL and the Shareholder shall be subject to fulfillment prior to or at the Closing, of each of the following conditions:
+
+(a) WCGL shall have received all of the deliveries referenced in Section 7.02 hereof;
+
+(b) WCGL shall have received all of the regulatory, shareholder and other third party consents, permits, approvals and authorizations necessary to consummate the transactions contemplated by this Agreement;
+
+(c) CBI shall have filed a proxy information statement concerning this Agreement with the SEC, the SEC shall have approved the proxy statement, the execution, delivery and performance of this Agreement, and each of the related traction agreements to which CBI is a party, and each such related agreement by CBI shall have been duly and validly authorized by the requisite number of CBI’s shareholders and CBI shall have filed a Form 8-K in connection with the execution of this Agreement with the SEC;
+
+(d) CBI shall have maintained the business of Mimotopes Pty Limited (“Mimotopes”), with its principal executive office at 11 Duerdin Street, Clayton, Victoria 3168, in substantially the same manner as it had as of the date of this Agreement, and shall have maintained and kept the properties of Mimotopes in states of good repair and condition as it was as of the date of this Agreement;
+
+(e) CBI shall have terminated the employment of all its employees related to the Richmond Business (the “Terminated Employees”), fulfilled its obligations to the Terminated Employees, including, without limitation, accrued salary, vacation, severance fees and vested benefits and any other amount due to any Terminated Employees, settled all employment contracts, if any, with the Terminated Employees, terminated the benefit plans of remaining employee related to Richmond Business, if any, in accordance with the applicable plan provisions, and to bear all
+
+ 
+
+18
+
+
+
+expenses incurred in connection with such termination. WCGL understands that CBI may, to the extent permitted, elect to satisfy such obligations with payments in cash or CBI securities. CBI shall be responsible for complying with the requirements of applicable employment laws and regulations and for any and all costs, expenses or penalties that may arise as a result of the failure to do so. As of the Closing, to the best knowledge of CBI, there has been no pending or threatened labor dispute arising from the termination;
+
+(f) Except for the mortgage on the Office Property, CBI and Mimotopes shall have used its best efforts to satisfy and pay other liabilities in full; and
+
+(g) CBI shall have completed a 1-for-10 reverse stock split of the CBI Common Stock.
+
+ARTICLE VII
+
+DELIVERIES
+
+Section 7.01 Items to be delivered to the WCGL and the Shareholder prior to or at Closing by CBI.
+
+(a) the CBI Constituent Instruments and certificate of good standing of CBI in Virginia;
+
+(b) the CBI Disclosure Schedules;
+
+(c) all minutes and resolutions of Board of Directors and shareholder meetings in CBI’s possession;
+
+(d) a shareholder list;
+
+(e) all tax returns in possession of CBI;
+
+(f) a resolution from CBI’s Board of Directors appointing the designees of the Shareholder to the CBI Board of Directors;
+
+(g) a resolution from CBI’s Board of Directors, and if applicable, shareholder resolutions approving this transaction and authorizing the issuances of the shares hereto;
+
+(h) notice of termination or letters of resignation from CBI’s current officers and named directors to be effective upon Closing and after the appointments described in this section;
+
+(i) a certificate representing the CBI Exchange Shares issued in the name of the Shareholder;
+
+(j) a certificate signed by a duly authorized officer of CBI certifying the satisfaction of the conditions precedents as set forth in Article VI; and
+
+(k) any other document reasonably requested by the Shareholder that it deems necessary for the consummation of this transaction.
+
+Section 7.02 Items to be delivered to CBI prior to or at Closing by WCGL and the Shareholder.
+
+(a) the WCGL Disclosure Schedules;
+
+(b) instructions from WCGL appointing its designees to the Company’s Board of Directors;
+
+(c) share certificates and duly executed instruments of transfer for the WCGL Exchange Shares;
+
+(d) resolutions from the Board of Directors of WCGL, if applicable, and shareholder resolutions approving the transactions contemplated hereby; and
+
+ 
+
+19
+
+
+
+(e) any other document reasonably requested by the Company that it deems necessary for the consummation of this transaction.
+
+ARTICLE VIII
+
+TERMINATION
+
+Section 8.01 Termination. This Agreement may be terminated as provided below:
+
+(a) CBI and WCGL may terminate this Agreement by mutual written consent at any time prior to Closing;
+
+(b) CBI may terminate this Agreement (i) in the event that WCGL or the Shareholder has breached any representation, warranty or covenant contained in this Agreement in any material respect; or (ii) if the Closing shall not have occurred on or before February 12, 2010 for any reason.
+
+(c) WCGL may terminate this Agreement (i) in the event that CBI has breached any representation, warranty or covenant contained in this Agreement in any material respect; or (ii) if the Closing shall not have occurred on or before February 12, 2010 for any reason.
+
+ARTICLE IX
+
+INDEMNIFICATION
+
+Section 9.01 Indemnification.
+
+(a) WCGL hereby agrees to indemnify CBI and each of the officers, agents and directors of CBI as of the date of execution of this Agreement against any loss, liability, claim, damage, or expense (including, but not limited to, any and all expense whatsoever reasonably incurred in investigating, preparing, or defending against any litigation, commenced or threatened, or any claim whatsoever) (“Loss”), to which it or they may become subject arising out of or based on any inaccuracy appearing in or misrepresentations made under Article II of this Agreement. The indemnification provided for in this paragraph shall survive the Closing and consummation of the transactions contemplated hereby and termination of this Agreement for one year following the Closing.
+
+(b) The Shareholder agrees to indemnify CBI and each of the officers, agents and directors of CBI as of the date of execution of this Agreement against any Loss, to which it or they may become subject arising out of or based on any inaccuracy appearing in or misrepresentations made under Article IV of this Agreement. The indemnification provided for in this paragraph shall survive the Closing and consummation of the transactions contemplated hereby and termination of this Agreement for one year following the Closing.
+
+(c) CBI hereby agrees to indemnify WCGL and each of the officers, agents, and directors of WCGL and the Shareholder as of the date of execution of this Agreement against any Loss to which it or they may become subject arising out of or based on any inaccuracy appearing in or misrepresentation made under Article III of this Agreement. The indemnification provided for in this paragraph shall survive the Closing and consummation of the transactions contemplated hereby and termination of this Agreement for one year following the Closing.
+
+ARTICLE X
+
+MISCELLANEOUS
+
+Section 10.01 Brokers. Except as set forth in Section 2.25 hereof, CBI and WCGL agree that there were no other finders, brokers, financial advisories, or consultants involved in bringing the parties together or who were instrumental in the negotiation, execution or consummation of this Agreement. CBI and WCGL each agrees to indemnify the other against any claim by any third person other than those described above for any commission,
+
+ 
+
+20
+
+
+
+brokerage, or finder’s fee arising from the transactions contemplated hereby based on any alleged agreement or understanding between the indemnifying party and such third person, whether express or implied from the actions of the indemnifying party.
+
+Section 10.02 Governing Law. This Agreement shall be governed by, enforced, and construed under and in accordance with the laws of the United States of America and, with respect to the matters of state law, with the laws of the Commonwealth of Virginia. Venue for all matters shall be in Richmond, Virginia without giving effect to principles of conflicts of law thereunder. Each of the parties (a) irrevocably consents and agrees that any legal or equitable action or proceedings arising under or in connection with this Agreement shall be brought exclusively in the federal courts of the United States. By execution and delivery of this Agreement, each party hereto irrevocably submits to and accepts, with respect to any such action or proceeding, generally and unconditionally, the jurisdiction of the aforesaid court, and irrevocably waives any and all rights such party may now or hereafter have to object to such jurisdiction.
+
+Section 10.03 Notices. Any notice or other communications required or permitted hereunder shall be in writing and shall be sufficiently given if personally delivered to it or sent by telecopy, overnight courier or registered mail or certified mail, postage prepaid, addressed as follows:
+
+If to WCGL, to:
+
+Room 2701, 27/F
+
+Tesbury Centre, 28 Queens Road east
+
+Wanchai, Hong Kong
+
+With copies (which shall not constitute notice) to:
+
+Anslow & Jaclin, LLP
+
+Attn.: Richard I. Anslow, Esq.
+
+195 Route 9 South, Suite 204
+
+Manalapan, NJ 07726
+
+Tel.: 732-409-1212
+
+If to CBI, to:
+
+Commonwealth Biotechnologies, Inc.
+
+Attn.: CEO
+
+601 Biotech Drive
+
+Richmond, Virginia 23235
+
+Tel.: (804) 648-3820
+
+With copies (which shall not constitute notice) to:
+
+Kaufman & Canoles, P.C.
+
+Attn.: Bradley A. Haneberg, Esq.
+
+Three James Center, 12th Floor
+
+1051 E. Cary Street
+
+Richmond, VA 23219
+
+Tel.: 804-771-5700
+
+or such other addresses as shall be furnished in writing by any party in the manner for giving notices hereunder, and any such notice or communication shall be deemed to have been given (i) upon receipt, if personally delivered, (ii) on the day after dispatch, if sent by overnight courier, (iii) upon dispatch, if transmitted by telecopy and receipt is confirmed by telephone and (iv) three (3) days after mailing, if sent by registered or certified mail.
+
+Section 10.04 Attorneys’ Fees. In the event that either party institutes any action or suit to enforce this Agreement or to secure relief from any default hereunder or breach hereof, the prevailing party shall be reimbursed by the losing party for all costs, including reasonable attorneys’ fees, incurred in connection therewith and in enforcing or collecting any judgment rendered therein.
+
+ 
+
+21
+
+
+
+Section 10.05 Confidentiality. Each party hereto agrees with the other that, unless and until the transactions contemplated by this Agreement have been consummated, it and its representatives will hold in strict confidence all data and information obtained with respect to another party or any subsidiary thereof from any representative, officer, director or employee, or from any books or records or from personal inspection, of such other party, and shall not use such data or information or disclose the same to others, except (i) to the extent such data or information is published, is a matter of public knowledge, or is required by law or Commission rules and regulations to be published; or (ii) to the extent that such data or information must be used or disclosed in order to consummate the transactions contemplated by this Agreement. In the event of the termination of this Agreement, each party shall return to the other party all documents and other materials obtained by it or on its behalf and shall destroy all copies, digests, work papers, abstracts or other materials relating thereto, and each party will continue to comply with the confidentiality provisions set forth herein.
+
+Section 10.06 Schedules; Knowledge. Each party is presumed to have full knowledge of all information set forth in the other party’s schedules delivered pursuant to this Agreement.
+
+Section 10.07 Third Party Beneficiaries. Other than Kaufman & Canoles, this contract is strictly between CBI, WCGL and the Shareholder, and, except as specifically provided, no director, officer, stockholder (other than the Shareholder), employee, agent, independent contractor or any other person or entity shall be deemed to be a third party beneficiary of this Agreement.
+
+Section 10.08 Expenses. Except as otherwise referenced herein, whether or not the transaction contemplated hereby is consummated, each of CBI and WCGL will bear their own respective expenses, including legal, accounting and professional fees, incurred in connection with the Exchange or any of the other transactions contemplated hereby.
+
+Section 10.09 Entire Agreement. This Agreement represents the entire agreement between the Parties relating to the subject matter thereof and supersedes all prior agreements, understandings and negotiations, written or oral, with respect to such subject matter.
+
+Section 10.10 Survival; Termination. The representations, warranties, and covenants of the respective parties shall survive the Closing Date and the consummation of the transactions herein contemplated for a period of two years.
+
+Section 10.11 Counterparts. This Agreement may be executed in multiple counterparts, each of which shall be deemed an original and all of which taken together shall be but a single instrument.
+
+Section 10.12 Amendment or Waiver. Every right and remedy provided herein shall be cumulative with every other right and remedy, whether conferred herein, at law, or in equity, and may be enforced concurrently herewith, and no waiver by any party of the performance of any obligation by the other shall be construed as a waiver of the same or any other default then, theretofore, or thereafter occurring or existing. At any time prior to the Closing Date, this Agreement may by amended by a writing signed by all parties hereto, with respect to any of the terms contained herein, and any term or condition of this Agreement may be waived or the time for performance may be extended by a writing signed by the party or parties for whose benefit the provision is intended.
+
+Section 10.13 Best Efforts. Subject to the terms and conditions herein provided, each party shall use its best efforts to perform or fulfill all conditions and obligations to be performed or fulfilled by it under this Agreement so that the transactions contemplated hereby shall be consummated as soon as practicable. Each party also agrees that it shall use its best efforts to take, or cause to be taken, all actions and to do, or cause to be done, all things necessary, proper or advisable under applicable laws and regulations to consummate and make effective this Agreement and the transactions contemplated herein.
+
+[Signature Pages Follow]
+
+ 
+
+22
+
+
+
+IN WITNESS WHEREOF, the corporate parties hereto have caused this Agreement to be executed by their respective officers, hereunto duly authorized, as of the date first-above written.
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CBI:
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+COMMONWEALTH BIOTECHNOLOGIES, INC.,
+
+a Virginia corporation
+
+
+
+
+
+
+
+
+
+ 
+
+By:
+
+ 
+
+/s/ Samuel P. Sears    
+
+
+
+
+
+ 
+
+
+
+ 
+
+Name:
+
+ 
+
+Samuel P. Sears                      
+
+
+
+ 
+
+
+
+ 
+
+Title:
+
+ 
+
+    Chairman, Executive Committee
+
+
+
+WCGL:
+
+
+
+WISE CENTURY GROUP LIMITED,
+
+a Hong Kong company
+
+
+
+
+
+
+
+
+
+ 
+
+By:
+
+ 
+
+/s/ Hongyan Xu
+
+
+
+
+
+ 
+
+
+
+ 
+
+Name:
+
+ 
+
+Hongyan Xu                   
+
+
+
+ 
+
+
+
+ 
+
+Title:
+
+ 
+
+President                         
+
+
+
+SHAREHOLDER:
+
+
+
+ASIA PEPTIDE LIMITED,
+
+a British Virgin Islands company
+
+
+
+
+
+
+
+
+
+ 
+
+By:
+
+ 
+
+/s/ Hongyan Xu
+
+
+
+
+
+ 
+
+
+
+ 
+
+Name:
+
+ 
+
+Hongyan Xu                  
+
+
+
+ 
+
+
+
+ 
+
+Title:
+
+ 
+
+President                       
+
+ 
+
+23

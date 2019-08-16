@@ -1,0 +1,2971 @@
+Exhibit 2
+
+ 
+
+ 
+
+ 
+
+AMENDED AND RESTATED
+
+PURCHASE OPTION AGREEMENT
+
+ 
+
+by and among
+
+ 
+
+DYNAVAX TECHNOLOGIES CORPORATION,
+
+ 
+
+ 
+
+SYMPHONY DYNAMO HOLDINGS LLC
+
+ 
+
+and
+
+ 
+
+SYMPHONY DYNAMO, INC.
+
+ 
+
+ 
+
+_______________________
+
+Dated as of November 9, 2009
+
+________________________
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+
+
+Amended and Restated Purchase Option Agreement
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+ 
+
+TABLE OF CONTENTS
+
+Page
+
+
+
+Section 1.
+
+Grant of Purchase Option
+
+2
+
+Section 2.
+
+Exercise of Purchase Option
+
+2
+
+Section 2A.
+
+Purchase Option Closing Date Adjustment
+
+6
+
+Section 2B.
+
+Post-Closing Adjustment
+
+6
+
+Section 3.
+
+Dynavax Representations, Warranties and Covenants.
+
+8
+
+Section 4.
+
+Holdings Representations, Warranties and Covenants
+
+12
+
+Section 5.
+
+Symphony Dynamo Representations, Warranties and Covenants
+
+16
+
+Section 6.
+
+Notice of Material Event
+
+24
+
+Section 7.
+
+Assignment Transfers; Legend
+
+25
+
+Section 8.
+
+Costs and Expenses: Payments
+
+26
+
+Section 9.
+
+Expiration: Termination of Agreement
+
+26
+
+Section 10.
+
+Survival: Indemnification
+
+26
+
+Section 11.
+
+No Petition
+
+29
+
+Section 12.
+
+Third-Party Beneficiary
+
+30
+
+Section 13.
+
+Notices
+
+30
+
+Section 14.
+
+Governing Law: Consent to Jurisdiction and Service of Process
+
+31
+
+Section 15.
+
+WAIVER OF JURY TRIAL
+
+32
+
+Section 16.
+
+Entire Agreement
+
+32
+
+Section 17.
+
+Amendment: Successors: Counterparts
+
+32
+
+Section 18.
+
+Specific Performance
+
+32
+
+Section 19.
+
+Severability
+
+33
+
+Section 20.
+
+Tax Reporting
+
+33
+
+ 
+
+ 
+
+
+
+i
+
+Amended and Restated Purchase Option Agreement
+
+ 
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+ 
+
+ 
+
+
+
+Section 21.
+
+Original Agreement
+
+34
+
+Section 22.
+
+Amendment to Annex A
+
+34
+
+ 
+
+ 
+
+ 
+
+Annex A
+
+Certain Definitions
+
+ 
+
+Exhibit 1
+
+Form of Purchase Option Exercise Notice
+
+ 
+
+Exhibit 2
+
+Form of Dynavax Promissory Note
+
+ 
+
+Exhibit 3
+
+Form of Standstill and Corporate Governance Letter Agreement
+
+ 
+
+Exhibit 4
+
+Form of Warrant Purchase Agreement
+
+ 
+
+ 
+
+ 
+
+
+
+ii
+
+Amended and Restated Purchase Option Agreement
+
+ 
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+ 
+
+AMENDED AND RESTATED
+
+PURCHASE OPTION AGREEMENT
+
+This AMENDED AND RESTATED PURCHASE OPTION AGREEMENT (this “Agreement”) is entered into as of November 9, 2009 (the “Closing Date”) by and among DYNAVAX TECHNOLOGIES CORPORATION, a Delaware corporation (“Dynavax”), SYMPHONY DYNAMO HOLDINGS LLC, a Delaware limited liability company (“Holdings”), and SYMPHONY DYNAMO, INC., a Delaware corporation (“Symphony Dynamo”). Capitalized terms used herein and not defined herein shall have the meanings assigned to such terms in Annex A attached hereto.
+
+PRELIMINARY STATEMENT
+
+WHEREAS, Dynavax, Holdings and Symphony Dynamo, entered into that certain Purchase Option Agreement dated as of April 18, 2006 (the “Original Agreement”), pursuant to which Holdings granted Dynavax an option to purchase all of the Common Stock of the Symphony Dynamo and any other Equity Securities issued by Symphony Dynamo (together, the “Symphony Dynamo Equity Securities”) owned, or thereafter acquired, by Holdings on the terms described on the terms described therein;
+
+WHEREAS, institutional investors have invested $50,000,000 in Holdings (the “Financing”) in exchange for membership interests in Holdings and for a warrant to purchase up to a total of 2,000,000 shares of Dynavax Common Stock (the “Warrant”), which were issued to Holdings, and Holdings contributed the net proceeds of the Financing to Symphony Dynamo;
+
+WHEREAS, the parties to the Original Agreement desire to amend and restate the Original Agreement and accept the rights and covenants hereof in lieu of their rights and covenants under the Original Agreement;
+
+WHEREAS, contemporaneously with the execution of this Agreement, Dynavax has exercised the Purchase Option (as defined below) by delivering the Purchase Option Exercise Notice (as defined below) to Holdings;
+
+WHEREAS, on the Purchase Option Closing Date, Dynavax will issue to Holdings, subject to the satisfaction of certain conditions (including, without limitation, the Stockholder Approval (as defined below) and cancellation of the Warrant), (i) the Dynavax Closing Shares (as defined below), (ii) warrants (the “Dynavax Closing Warrants”) to purchase 2,000,000 shares of Dynavax Common Stock, to be initially issued to Holdings (the “Dynavax Closing Warrant Shares”) and the Dynavax Promissory Note (as defined below); and
+
+WHEREAS, Symphony Dynamo and Holdings have determined that it is in each of its best interest to perform and comply with certain agreements and covenants relating to each of its ongoing operations contained in this Agreement.
+
+ 
+
+
+
+Amended and Restated Purchase Option Agreement
+
+ 
+
+
+
+NOW, THEREFORE, in consideration of the foregoing and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto (the “Parties”) agree as follows:
+
+
+
+ 
+
+Section 1.
+
+Grant of Purchase Option.
+
+(a)       Holdings hereby grants to Dynavax an exclusive option (the “Purchase Option”) to purchase all, but not less than all, of the outstanding Symphony Dynamo Equity Securities owned or hereafter acquired by Holdings, in accordance with the terms of this Agreement.
+
+(b)       Symphony Dynamo hereby covenants and agrees that all Symphony Dynamo Equity Securities issued by Symphony Dynamo at any time prior to the expiration of the Term (including to Holdings on, prior to, or after the date hereof or to any other Person at any time whatsoever, in all cases prior to the expiration of the Term) shall be subject to a purchase option on the same terms as the Purchase Option (except as provided by the immediately following sentence) and all of the other terms and conditions of this Agreement without any additional action on the part of Dynavax or Holdings. Further, to the extent Symphony Dynamo shall issue any Symphony Dynamo Equity Securities (including any issuance in respect of a transfer of Symphony Dynamo Equity Securities by any holder thereof, including Holdings) after the date hereof to any Person (including Holdings) (any issuance of such Symphony Dynamo Equity Securities being subject to the prior written consent of Dynavax as set forth in Sections 5(c) and7(b) hereof, as applicable), Symphony Dynamo hereby covenants and agrees that it shall cause such Symphony Dynamo Equity Securities to be subject to the Purchase Option without the payment of, or any obligation to pay, any additional consideration in respect of such Symphony Dynamo Equity Securities by Dynavax, Symphony Dynamo or any Symphony Dynamo Subsidiary to the Person(s) acquiring such subsequently issued Symphony Dynamo Equity Securities, the Parties acknowledging and agreeing that the sole consideration payable by Dynavax pursuant to this Agreement for all of the outstanding Symphony Dynamo Equity Securities now or hereinafter owned by any Person shall be the Purchase Price.
+
+(c)       Dynavax’s right to exercise the Purchase Option granted hereby is subject to the following conditions:
+
+(i)        The Purchase Option may only be exercised for the purchase of all, and not less than all, of Holdings’ Symphony Dynamo Equity Securities;
+
+
+
+ 
+
+(ii)
+
+The Purchase Option may only be exercised a single time; and
+
+
+
+ 
+
+(iii)
+
+The Purchase Option may be exercised only on the date hereof.
+
+
+
+ 
+
+Section 2.
+
+Exercise of Purchase Option.
+
+(a)       Exercise Notice. Dynavax may exercise the Purchase Option only by delivery of a notice in the form attached hereto as Exhibit 1 (the “Purchase Option
+
+ 
+
+
+
+ 
+
+2
+
+Amended and Restated Purchase Option Agreement
+
+ 
+
+
+
+ 
+
+
+
+Exercise Notice”) on the date hereof. The Purchase Option Exercise Notice shall be delivered to Holdings and Symphony Dynamo and shall be irrevocable once delivered. The date on which the Purchase Option Exercise Notice is first delivered to Holdings and Symphony Dynamo is referred to as the “Purchase Option Exercise Date.” The Purchase Option Exercise Notice shall contain an estimated date for the settlement of the Purchase Option (the “Purchase Option Closing”), which date shall be estimated in accordance with this Section 2(a). Such notice and election shall be irrevocable once given and made. If, during the period following delivery of the Purchase Option Exercise Notice, the amount of cash and cash equivalents held by Symphony Dynamo is an amount less than or equal to $1,000,000 then Symphony Dynamo shall cease payment of any amounts owed to Dynavax in respect of its activities pursuant to the Amended and Restated Research and Development Agreement, but shall continue to pay amounts owed to all other Persons. The date of the Purchase Option Closing (the “Purchase Option Closing Date”) shall be the date that is the latest of:
+
+(i)        five (5) Business Days following the date that Dynavax receives the necessary Government Approvals related to its HSR Filings; provided, however, that Dynavax and Holdings shall make all necessary HSR Filings within five (5) Business Days following the Purchase Option Exercise Date and shall diligently pursue the related regulatory process; and
+
+(ii)       five (5) Business Days following the date that Dynavax receives the necessary stockholder approvals for purposes of NASDAQ Marketplace Rule 5635 in connection with the issuance of Dynavax Closing Shares (as defined below) and the Dynavax Closing Warrant Shares (the “Stockholder Approval”);
+
+
+
+ 
+
+(b)
+
+Purchase Price  
+
+(i)        Subject to the post-closing adjustment pursuant to Section 2B and the following sentence, as consideration for the sale to Dynavax by Holdings of its Symphony Dynamo Equity Securities (and for the Symphony Dynamo Equity Securities of any other Person), on the Purchase Option Closing Date, Dynavax shall issue to Holdings an aggregate of (A) 13,000,000 shares of Dynavax Common Stock (the “Dynavax Closing Shares”) and (B) the Dynavax Closing Warrants. If, after the date hereof and prior to the Purchase Option Closing Date, (x) the number of outstanding shares of Dynavax Common Stock has been increased, decreased, changed into or exchanged for a different number or kind of shares or securities as a result of a reorganization, recapitalization, stock dividend, stock split, reverse stock split or other similar change in capitalization, an appropriate and proportionate adjustment shall be made to the number of Dynavax Closing Shares to be issued at the Purchase Option Closing Date, or (y) there has been a Specified Company Issuance (as defined below), the consideration to be paid by Dynavax at the Purchase Option Closing Date may be adjusted in accordance with Section 2A.
+
+ 
+
+
+
+ 
+
+3
+
+Amended and Restated Purchase Option Agreement
+
+ 
+
+
+
+ 
+
+
+
+(ii)       As further consideration for the sale to Dynavax by Holdings of its Symphony Dynamo Equity Securities (and for the Symphony Dynamo Equity Securities of any other Person), if Dynavax enters into any agreement or arrangement with any third party with respect to the development and/or commercialization of a Cancer Product or a Hepatitis C Product (each a “Symphony Dynamo Product Agreement”), Dynavax shall be obligated to pay to Holdings, within 10 Business Days of Dynavax’s receipt thereof, an amount equal to 50% of the first $50,000,000 of any upfront, pre-commercialization milestone or similar payments received by Dynavax under any such Symphony Dynamo Product Agreements.
+
+For the avoidance of doubt, payments from a third party to Dynavax for reimbursement for research and development, equity or debt issued as part of the collaboration at fair market value, commercial milestones or royalties shall not be considered payments received by Dynavax under Symphony Dynamo Product Agreements for purposes of this Section 2(b).
+
+(iii)      As further consideration for the sale to Dynavax by Holdings of its Symphony Dynamo Equity Securities (and for the Symphony Dynamo Equity Securities of any other Person), on the Purchase Option Closing Date, Dynavax shall deliver a duly executed promissory note in the principal amount of $15,000,000, substantially in the form attached hereto as Exhibit 2 (the “Dynavax Promissory Note”).
+
+(iv)      The Dynavax Closing Shares, the Dynavax Closing Warrants, the payments to be made to Holdings set forth in Section 2(b)(ii) and the Dynavax Promissory Note shall constitute the “Purchase Price”.
+
+
+
+ 
+
+(c)
+
+[Reserved.]
+
+(d)       Surrender of Symphony Dynamo Equity Securities. Subject to the terms and conditions of this Agreement, on or prior to the Purchase Option Closing Date, Holdings shall surrender to Dynavax its certificates representing its Symphony Dynamo Equity Securities, and shall convey good title to such Symphony Dynamo Equity Securities, free from any Encumbrances and from any and all restrictions that any sale, assignment or other transfer of such Symphony Dynamo Equity Securities be consented to or approved by any Person. On or prior to the Purchase Option Closing Date, Holdings shall remove all directors serving on the Symphony Dynamo Board, other than the Dynavax Director (as defined in Section 4(b)(iv) hereof) from the Symphony Dynamo Board as of the Purchase Option Closing Date.
+
+(e)       Valuation of Dynavax Stock. The value per share of the Dynavax Closing Shares as of the date hereof has been determined by the Parties to equal $1.57.
+
+(f)        Standstill and Corporate Governance Letter Agreement. Subject to the terms and conditions of this Agreement, on the Purchase Option Closing Date, Holdings and Dynavax shall enter into a standstill and corporate governance letter
+
+ 
+
+
+
+ 
+
+4
+
+Amended and Restated Purchase Option Agreement
+
+ 
+
+
+
+ 
+
+
+
+agreement substantially in the form attached hereto as Exhibit 3 (the “Standstill and Corporate Governance Letter Agreement”).
+
+(g)       Warrant Purchase Agreement. Subject to the terms and conditions of this Agreement, on the Purchase Option Closing Date, Holdings and Dynavax shall enter into a warrant purchase agreement substantially in the form attached hereto as Exhibit 4 (the “Warrant Purchase Agreement”).
+
+(h)       Share Certificates. Any stock certificate(s) issued by Dynavax for Dynavax Common Stock pursuant to this Section 2 may contain a legend (the “33 Act Legend”) substantially as follows:
+
+THE SHARES REPRESENTED BY THIS CERTIFICATE HAVE NOT BEEN REGISTERED UNDER THE SECURITIES ACT OF 1933, AS AMENDED, OR UNDER THE SECURITIES LAWS OF ANY STATE, AND THE SAME HAVE BEEN ISSUED IN RELIANCE ON EXEMPTIONS FROM THE REGISTRATION REQUIREMENTS OF SAID ACT AND SUCH LAWS. SUCH SHARES MAY NOT BE SOLD, TRANSFERRED, PLEDGED, HYPOTHECATED OR OTHERWISE DISPOSED OF EXCEPT AS PERMITTED UNDER SUCH SECURITIES LAWS, PURSUANT TO REGISTRATION OR EXEMPTION THEREFROM.
+
+This legend shall be removed by Dynavax, subject to, and in accordance with, the terms of Section 3(b)(iii) hereof.
+
+(i)        Government Approvals. On or prior to the Purchase Option Closing Date, each of Dynavax, Symphony Dynamo and Holdings shall have taken all necessary action to cause all required Governmental Approvals with respect to such Party (including, if deemed necessary and without limitation, the preparing and filing of the pre-merger notification and report forms required under the Hart-Scott-Rodino Antitrust Improvements Act of 1976, as amended (“HSR Filings”)) in connection with the transactions contemplated by this Agreement to be in effect; provided, however, that with respect to Government Approvals required by a Governmental Authority other than the United States federal government and its various branches and agencies, the Parties’ obligations under this Section 2(i) shall be limited to causing to be in effect only those Government Approvals, the failure of which to be in effect would, either individually or in the aggregate, reasonably be expected to have a Material Adverse Effect on any of the Parties. Each of Symphony Dynamo and Dynavax shall pay its own costs associated with taking such action. Symphony Dynamo shall pay any costs of Holdings associated with obtaining Government Approvals required in connection with the exercise of the Purchase Option. All other costs and expenses of Holdings shall be paid by Holdings pursuant to Section 8 hereof, including any costs arising from any error in Holdings’ initial valuation of its investment in Symphony Dynamo.
+
+ 
+
+
+
+ 
+
+5
+
+Amended and Restated Purchase Option Agreement
+
+ 
+
+
+
+ 
+
+
+
+(j)        Transfer of Title. Transfer of title to Dynavax of all of the Symphony Dynamo Equity Securities shall be deemed to occur automatically on the Purchase Option Closing Date, subject to the issuance by Dynavax on such date of the portion of the Purchase Price comprised of the Dynavax Closing Shares and the Dynavax Closing Warrants or Alternate Closing Securities (as defined below), as applicable, and the Dynavax Promissory Note, and its performance of its other obligations herein required to be performed, and under the Registration Rights Agreement, as applicable, on or prior to the Purchase Option Closing Date to the reasonable satisfaction of Holdings, and thereafter Symphony Dynamo shall treat Dynavax as the sole holder of all Symphony Dynamo Equity Securities, notwithstanding the failure of Holdings to tender certificates representing such shares to Dynavax in accordance with Section 2(d) hereof. After the Purchase Option Closing Date, Holdings shall have no rights in connection with such Symphony Dynamo Equity Securities other than the right to receive the Purchase Price; provided, however, that nothing in this Section 2(j) shall affect the survivability of any indemnification provision in this Agreement upon termination of this Agreement.
+
+(k)       Consents and Authorizations. On or prior to the Purchase Option Closing Date, Dynavax shall have obtained all consents and authorizations necessary from stockholders and/or its board of directors for the consummation of the exercise and closing of the Purchase Option, as may be required under the organizational documents of Dynavax, any prior stockholders or board resolution, any stock exchange or similar rules or any applicable law (including, without limitation, the Stockholder Approval); provided, however, that with respect to consents or authorizations required by a Governmental Authority other than the United States federal government and its various branches and agencies, the Parties’ obligations under this Section 2(k) shall be limited to obtaining only those consents and authorizations, the failure of which to be obtained would, either individually or in the aggregate, reasonably be expected to have a Material Adverse Effect on any of the Parties.
+
+
+
+ 
+
+Section 2A.
+
+Purchase Option Closing Date Adjustment.
+
+(a)       If at any time or from time to time from and after the date hereof through the Purchase Option Closing Date, Dynavax has issued Additional Dynavax Securities (any such issuance of Additional Dynavax Securities, a “Specified Dynavax Issuance”), Holdings may elect (in accordance with the procedures set forth in Section 2B) to be paid the portion of the Purchase Price comprised of the Dynavax Closing Shares and the Dynavax Closing Warrants in the form of the Alternate Securities specified in the Specified Issuance Notice (each as defined below) (such Alternate Securities paid to Holdings at the Purchase Option Closing Date, the “Alternate Closing Securities”).
+
+
+
+ 
+
+Section 2B.
+
+Post-Closing Adjustment.
+
+(a)       If at any time and from time to time from and after the Purchase Option Closing Date through the date occurring six (6) months after the Purchase Option Closing Date (or if such date is not a Business Day, the first Business Day thereafter)
+
+ 
+
+
+
+ 
+
+6
+
+Amended and Restated Purchase Option Agreement
+
+ 
+
+
+
+ 
+
+
+
+(such date, the “Final Adjustment Date”), there is a Specified Dynavax Issuance, as soon as practicable, but in no event later than five (5) Business Days after the delivery to Dynavax of a Holdings Election Notice (as defined below) (such date, the “Adjusted Securities Payment Date”), (i) Dynavax shall issue to Holdings such Alternate Securities in the form specified in the Specified Issuance Notice, and (ii) Holdings shall deliver to Dynavax such Dynavax Closing Shares, Dynavax Closing Warrants, Alternate Closing Securities, or other securities of Dynavax issued pursuant to this Agreement, or other consideration transferred to Holdings, other than the Dynavax Promissory Note and the amounts payable pursuant to Section 2(b)(b)(ii), as applicable, such that on the Adjusted Securities Payment Date Holdings shall own Alternate Securities, together with all other securities of Dynavax issued, or other consideration transferred (including the Dynavax Promissory Note and the amounts payable pursuant to Section 2(b)(b)(ii)), to Holdings pursuant to this Agreement, to which Holdings is entitled in consideration of the transfer to Dynavax of the Symphony Collaboration Equity Securities. The foregoing described transactions between Dynavax and Holdings shall be settled on a net basis. For the avoidance of doubt, the parties hereby acknowledge and agree that Holdings may exercise its rights under this Section 2B(a) following each Specified Dynavax Issuance that occurs after the date of this Agreement and on or prior to the Final Adjustment Date.
+
+(b)       Not later than five (5) Business Days prior to the consummation of a Specified Dynavax Issuance, Dynavax shall, in accordance with Section 13, deliver to Holdings a notice (a “Specified Issuance Notice”) setting forth in reasonable detail: (i) a description of the form and terms of the Additional Dynavax Securities to be issued pursuant to the Specified Dynavax Issuance (such Additional Dynavax Securities, the “Alternate Securities”); (ii) the price at which the Alternate Securities will be issued pursuant to the Specified Dynavax Issuance; (iii) the estimated date of issuance of such Alternate Securities; and (iv) the amount and form of Alternate Securities that would be issued to an investor participating in the Specified Dynavax Issuance upon payment to Dynavax of an amount equal to $20,446,000. If Holdings elects to exercise its rights under Section 2B(a) with respect to a Specified Dynavax Issuance, Holdings, in accordance with Section 13, shall deliver to Dynavax a notice of such election not later than one (1) Business Day prior to the consummation of such Specified Dynavax Issuance (the “Holdings Election Notice”). The failure of Holdings to notify Dynavax pursuant to this Section 2B(b) shall be deemed to constitute the waiver by Holdings of its rights under Section 2B(a) with respect to such Specified Dynavax Issuance.
+
+(c)       “Additional Dynavax Securities” shall mean all shares of Dynavax Common Stock, Options, Convertible Securities, notes, bonds, or any other securities issued by Dynavax, or cash or other consideration paid or delivered by or on behalf of Dynavax, other than the following (collectively, “Exempted Securities”):
+
+(i)        rights, options or warrants to subscribe for, purchase or otherwise acquire Dynavax Common Stock (“Options”), or shares of restricted stock or stock appreciation rights, issued to employees or directors of, or consultants or advisors to, Dynavax or any of its subsidiaries pursuant to a plan, agreement or arrangement approved by the board of directors of Dynavax;
+
+ 
+
+
+
+ 
+
+7
+
+Amended and Restated Purchase Option Agreement
+
+ 
+
+
+
+ 
+
+
+
+(ii)       (1) shares of Dynavax Common Stock actually issued upon the exercise of Options or (2) shares of Dynavax Common Stock actually issued upon the conversion or exchange of any evidences of indebtedness, shares or other securities directly or indirectly convertible into or exchangeable for Dynavax Common Stock, but excluding Options (“Convertible Securities”), in each case provided such issuance is pursuant to the terms of such Option or Convertible Security;
+
+(iii)      shares of Dynavax Common Stock, Options or Convertible Securities issued by reason of a dividend on the outstanding Dynavax Common Stock, stock split of the outstanding Dynavax Common Stock, split-up of the outstanding Dynavax Common Stock or other distribution on shares of Dynavax Common Stock; or
+
+(iv)      shares of Dynavax Common Stock sold and issued pursuant to that certain Equity Distribution Agreement dated August 17, 2009, by and between Dynavax and Wedbush Morgan Securities, Inc. (the “ATM Securities”).
+
+Section 3.        Dynavax Representations, Warranties and Covenants. (a)        As of the date hereof, Dynavax hereby represents and warrants, and, except to the extent that any of the following representations and warranties is limited to the date of this Agreement or otherwise limited, on the Purchase Option Closing Date and each Adjusted Securities Payment Date, shall be deemed to have represented and warranted, to Holdings and Symphony Dynamo that:
+
+(i)        Organization. Dynavax is a corporation, duly organized, validly existing and in good standing under the laws of the State of Delaware.
+
+(ii)       Authority and Validity. Dynavax has all requisite corporate power and authority to execute, deliver and perform its obligations under this Agreement, the Dynavax Promissory Note, the Warrant Purchase Agreement, and the Standstill and Corporate Governance Letter Agreement (the “Ancillary Agreements”), and to consummate the transactions contemplated hereby and thereby. The execution, delivery and performance by Dynavax of this Agreement and the Ancillary Agreements and the consummation of the transactions contemplated hereby and thereby have been duly and validly authorized by all necessary action required on the part of Dynavax, and no other proceedings on the part of Dynavax, other than the Stockholder Approval, which will be obtained prior to the Purchase Option Closing Date, are necessary to authorize this Agreement or the Ancillary Agreements or for Dynavax to perform its obligations hereunder or thereunder. This Agreement and the Ancillary Agreements constitute the lawful, valid and legally binding obligations of Dynavax, enforceable in accordance with their terms, except as the same may be limited by applicable bankruptcy, insolvency, reorganization, moratorium or similar laws affecting the enforcement of creditors’ rights generally and general equitable principles regardless of whether such enforceability is considered in a proceeding at law or in equity.
+
+ 
+
+
+
+ 
+
+8
+
+Amended and Restated Purchase Option Agreement
+
+ 
+
+
+
+ 
+
+
+
+(iii)      No Violation or Conflict. The execution, delivery and performance of this Agreement and the Ancillary Agreements and the transactions contemplated hereby and thereby do not (A) violate, conflict with or result in the breach of any provision of the Organizational Documents of Dynavax, (B) conflict with or violate any law or Governmental Order applicable to Dynavax or any of its assets, properties or businesses, or (C) conflict with, result in any breach of, constitute a default (or event that with the giving of notice or lapse of time, or both, would become a default) under, require any consent under, or give to others any rights of termination, amendment, acceleration, suspension, revocation or cancellation of, or result in the creation of any Encumbrance on any of the assets or properties of Dynavax, pursuant to, any note, bond, mortgage or indenture, contract, agreement, lease, sublease, license, permit, franchise or other instrument or arrangement to which Dynavax is a party except, in the case of clauses (B) and (C), to the extent that such conflicts, breaches, defaults or other matters would not, individually or in the aggregate, reasonably be expected to have a Material Adverse Effect on Dynavax.
+
+(iv)      Governmental Consents and Approvals. Other than any HSR Filings which, if such HSR Filings are required pursuant to Section 2(a)(ii) hereof, will be obtained on or prior to the Purchase Option Closing Date, the execution, delivery and performance of this Agreement and the Ancillary Agreements by Dynavax do not, and the consummation of the transactions contemplated hereby and thereby do not and will not, require any Governmental Approval which has not already been obtained, effected or provided, except with respect to which the failure to so obtain, effect or provide would not, individually or in the aggregate, reasonably be expected to have a Material Adverse Effect on Dynavax.
+
+(v)       Litigation. There are no actions by or against Dynavax pending before any Governmental Authority or, to the knowledge of Dynavax, threatened to be brought by or before any Governmental Authority, that would, individually or in the aggregate, reasonably be expected to have a Material Adverse Effect on Dynavax. There are no pending or, to the knowledge of Dynavax, threatened actions, to which Dynavax is a party (or is threatened to be named as a party) to set aside, restrain, enjoin or prevent the execution, delivery or performance of this Agreement, the Ancillary Agreements or the Operative Documents or the consummation of the transactions contemplated hereby or thereby by any party hereto or thereto. Dynavax is not subject to any Governmental Order (nor, to the knowledge of Dynavax, is there any such Governmental Order threatened to be imposed by any Governmental Authority) that would, individually or in the aggregate, reasonably be expected to have a Material Adverse Effect on Dynavax.
+
+
+
+ 
+
+(b)
+
+Dynavax hereby covenants and agrees with Holdings as follows:
+
+ 
+
+
+
+ 
+
+9
+
+Amended and Restated Purchase Option Agreement
+
+ 
+
+
+
+ 
+
+
+
+(i)        Immediately prior to the Purchase Option Closing Date, Dynavax shall have sufficient authorized but unissued, freely transferable and nonassessable shares of Dynavax Common Stock or Alternate Closing Securities, as applicable, available to satisfy its obligation to deliver the Dynavax Closing Shares or Alternate Closing Securities, as applicable, the Dynavax Closing Warrant Shares and the shares of Dynavax Common Stock issuable pursuant to the Dynavax Promissory Note (the “Dynavax Promissory Note Shares”). Immediately prior to each Adjusted Securities Payment Date, Dynavax shall have sufficient authorized but unissued, freely transferable and nonassessable Alternate Securities available to satisfy its obligation to deliver such Alternate Securities as required pursuant to Section 2B(a). Dynavax shall deliver to Holdings on or prior to the Purchase Option Closing Date a legal opinion of Cooley Godward Kronish llp (or such other counsel as Dynavax and Holdings shall mutually agree), which opinion shall be, in form and substance, reasonably acceptable to Holdings. If Alternate Securities are to be issued pursuant to Section 2B(a), Dynavax shall deliver to Holdings on or before each Adjusted Securities Payment date a legal opinion of Cooley Godward Kronish llp (or such other counsel as Dynavax and Holdings shall mutually agree), which opinion shall be, in form and substance, reasonably acceptable to Holdings.
+
+(ii)       Dynavax, on the Purchase Option Closing Date, shall convey good and marketable title to the Dynavax Closing Shares or Alternate Closing Securities, as applicable, free from any Encumbrances and any and all other restrictions that any issuance, sale, assignment or other transfer of Dynavax Closing Shares or Alternate Closing Securities, as applicable, be consented to or approved by any Person. Dynavax, on each Adjusted Securities Payment Date, shall convey good and marketable title to the Alternate Securities issued pursuant to Section 2B(a), free from any Encumbrances and any and all other restrictions requiring that any issuance, sale, assignment or other transfer of such Alternate Securities be consented to or approved by any Person.
+
+(iii)      If the share certificates representing the Dynavax Closing Shares or Alternate Closing Securities, as applicable, and any Alternate Securities issued pursuant to Section 2B(a), include the 33 Act Legend (as set forth in Section 2(f) hereof), Dynavax shall, within two (2) Business Days of receiving a request from Holdings or any “Investor” (as defined in the Registration Rights Agreement), remove or cause to be removed the 33 Act Legend from such share certificates as Holdings or such Investor shall designate, so long as (x) the Dynavax Closing Shares or Alternate Closing Securities or such Alternate Securities, as applicable, represented by such share certificates has been transferred to a third party in compliance with the registration requirements of the Securities Act or an available exemption therefrom, and (y) Dynavax receives a certification from Holdings, such Investor or a securities broker designated by Holdings or such Investor to the effect that the sale of such Dynavax Closing Shares or Alternate Closing Securities or such Alternate Securities, as applicable, was made under a Registration Statement and accompanied by the delivery of a current prospectus.
+
+ 
+
+
+
+ 
+
+10
+
+Amended and Restated Purchase Option Agreement
+
+ 
+
+
+
+ 
+
+
+
+(iv)      Upon the termination of this Agreement pursuant to Section 9 hereof, or as soon thereafter as is practical, Dynavax shall (A) in accordance with Sections 2.7 and 2.8 of the Novated and Restated Technology License Agreement, deliver to Symphony Dynamo all regulatory submissions, clinical master files, development plans, consultant inputs, manufacturing reports and, to the extent requested by Symphony, other materials, documents, files and other information relating to the Programs and necessary to enable Symphony Dynamo to continue the development of the Programs (or, where necessary, copies thereof), and (B) in accordance with and pursuant to Section 2.12 of the Novated and Restated Technology License Agreement, negotiate in good faith, and on commercially reasonable terms and conditions, a supply agreement relating to materials, including compounds and Products, required by Symphony Dynamo or its partners or transferees for the continued development (including clinical development), manufacture and commercialization of Products.
+
+
+
+ 
+
+(v)
+
+[Reserved].
+
+(vi)      Prior to each Adjusted Securities Payment Date, Dynavax shall take all such actions (at Dynavax’s sole cost and expense) as are necessary to permit Dynavax to issue the Alternate Securities to Holdings in accordance with Section 2B(a).
+
+(vii)     Dynavax shall take all such actions (at Dynavax’s sole cost and expense) as are necessary or advisable to cause (A) the issuance of any Alternate Securities by Dynavax to Holdings or (B) the transfer of any securities of Dynavax by Holdings to Dynavax, in each case pursuant to Section 2B(a), to be exempted from Section 16(b) of the Exchange Act, provided that Holdings shall notify Dynavax promptly of any transactions by it involving Dynavax Common Stock that could implicate Section 16(b) of the Exchange Act.
+
+(viii)    Dynavax agrees to use its commercially reasonable efforts to obtain the Stockholder Approval. In connection with the foregoing, Dynavax shall call and hold a meeting of its stockholders to seek Stockholder Approval prior to the date that is six (6) months from the date hereof, and file with the SEC a proxy statement and shall use its commercially reasonable efforts to solicit proxies in favor of the Stockholder Approval, and shall use its commercially reasonable efforts to respond to any comments of the SEC or its staff and to cause a definitive proxy statement related to such stockholders’ meeting to be mailed to Dynavax’s stockholders. The Dynavax Board shall recommend Stockholder Approval and such recommendation shall be included in each proxy statement filed with the SEC and disseminated to the Dynavax stockholders in connection with such stockholder meeting (such recommendations, the “Dynavax Board Recommendation”). Dynavax shall notify Holdings promptly of the receipt of any comments from the SEC or its staff and of any request by the SEC or its staff for amendments or supplements to such proxy statement or for additional information and will supply Holdings with copies of all correspondence between Dynavax or
+
+ 
+
+
+
+ 
+
+11
+
+Amended and Restated Purchase Option Agreement
+
+ 
+
+
+
+ 
+
+
+
+any of its representatives, on the one hand, and the SEC or its staff, on the other hand, with respect to such proxy statement. If at any time prior to such stockholders’ meeting there shall occur any event that is required to be set forth in an amendment or supplement to the proxy statement, Dynavax shall as promptly as practicable prepare and mail to its stockholders such an amendment or supplement. Each of Holdings and Dynavax agrees promptly to correct any information provided by it or on its behalf for use in the proxy statement if and to the extent that such information shall have become false or misleading in any material respect, and Dynavax shall as promptly as practicable prepare and mail to its stockholders an amendment or supplement to correct such information to the extent required by applicable laws and regulations. Dynavax shall provide Holdings with drafts of each such proxy statement, or amendment or supplement thereto, and consult with Holdings regarding the same, in each case, prior to filing or mailing the same. Without limiting the generality of the foregoing, Dynavax’s obligations pursuant to the first two sentences of this Section 3(b)(viii) shall not be affected by the withdrawal or modification by the Dynavax Board or any committee thereof of the Dynavax Board Recommendation. In the event that Stockholder Approval is not obtained at the first meeting of stockholders at which Stockholder Approval is sought, at the written request of Holdings, Dynavax shall call and convene no more than one subsequent meeting of stockholders for the purpose of obtaining Stockholder Approval (and the Dynavax Board will unanimously recommend Stockholder Approval), which meeting may not be unreasonably delayed by Dynavax, and all covenants between the parties set forth in this Section 2(b)(viii) shall apply equally with respect to such subsequent meeting of stockholders. Unless otherwise required by applicable law, Dynavax shall not call or convene a meeting of its stockholders prior to the meeting of stockholders at which Stockholder Approval is sought.
+
+(ix)       Prior to the Purchase Option Closing Date, the Dynavax Board shall have adopted resolutions, reasonably satisfactory to Holdings, approving the issuance of the Dynavax Closing Shares, the Dynavax Closing Warrants and the Dynavax Closing Warrant Shares or the Alternate Closing Securities, as applicable, and the Dynavax Promissory Note Shares to Holdings for purposes of Section 203(a)(1) of the Delaware General Corporation Law (the “DGCL”), such that the restrictions on “business combinations” set forth in Section 203 of the DGCL shall not apply to Dynavax and Holdings as a result of such issuances.
+
+(x)       Prior to the Purchase Option Closing, Dynavax shall take all such actions as are necessary or advisable to cause Symphony Dynamo to declare and pay the Pre-Closing Holdings Dividend (as defined below).
+
+ 
+
+
+
+ 
+
+Section 4.
+
+Holdings Representations, Warranties and Covenants.
+
+(a)       As of the date hereof, Holdings hereby represents and warrants, and, except to the extent that any of the following representations and warranties is limited to the date of this Agreement or otherwise limited, on the Purchase Option
+
+ 
+
+
+
+ 
+
+12
+
+Amended and Restated Purchase Option Agreement
+
+ 
+
+
+
+ 
+
+
+
+Closing Date and each Adjusted Securities Payment Date, shall be deemed to have represented and warranted, to Dynavax and Symphony Dynamo that:
+
+(i)        Organization. Holdings is a limited liability company, duly formed, validly existing and in good standing under the laws of the State of Delaware.
+
+(ii)       Authority and Validity. Holdings has all requisite limited liability company power and authority to execute, deliver and perform its obligations under this Agreement and the Ancillary Agreements to which it is a party and to consummate the transactions contemplated hereby and thereby. The execution, delivery and performance by Holdings of this Agreement and the Ancillary Agreements to which it is a party and the consummation of the transactions contemplated hereby and thereby have been duly and validly authorized by all necessary action required on the part of Holdings, and no other proceedings on the part of Holdings are necessary to authorize this Agreement or the Ancillary Agreements to which it is a party or for Holdings to perform its obligations hereunder or thereunder. This Agreement and the Ancillary Agreements to which it is a party constitute the lawful, valid and legally binding obligations of Holdings, enforceable in accordance with their terms, except as the same may be limited by applicable bankruptcy, insolvency, reorganization, moratorium or similar laws affecting the enforcement of creditors’ rights generally and general equitable principles regardless of whether such enforceability is considered in a proceeding at law or in equity.
+
+(iii)      No Violation or Conflict. The execution, delivery and performance of this Agreement and the Ancillary Agreements to which it is a party and the transactions contemplated hereby and thereby do not (A) violate, conflict with or result in the breach of any provision of the Organizational Documents of Holdings, (B) as of the date of this Agreement, conflict with or violate any law or Governmental Order applicable to Holdings or any of its assets, properties or businesses, or (C) as of the date of this Agreement, conflict with, result in any breach of, constitute a default (or event that with the giving of notice or lapse of time, or both, would become a default) under, require any consent under, or give to others any rights of termination, amendment, acceleration, suspension, revocation or cancellation of, or result in the creation of any Encumbrance on any of the assets or properties of Holdings, pursuant to, any note, bond, mortgage or indenture, contract, agreement, lease, sublease, license, permit, franchise or other instrument or arrangement to which Holdings is a party except, in the case of clauses (B) and (C), to the extent that such conflicts, breaches, defaults or other matters would not, individually or in the aggregate, reasonably be expected to have a Material Adverse Effect on Holdings.
+
+(iv)      Governmental Consents and Approvals. The execution, delivery and performance of this Agreement and the Ancillary Agreements to which it is a party by Holdings do not, and the consummation of the transactions contemplated
+
+ 
+
+
+
+ 
+
+13
+
+Amended and Restated Purchase Option Agreement
+
+ 
+
+
+
+ 
+
+
+
+hereby and thereby do not and will not, require any Governmental Approval which has not already been obtained, effected or provided, except with respect to which the failure to so obtain, effect or provide would not, individually or in the aggregate, reasonably be expected to have a Material Adverse Effect on Holdings.
+
+(v)       Litigation. As of the date of this Agreement, there are no actions by or against Holdings pending before any Governmental Authority or, to the knowledge of Holdings, threatened to be brought by or before any Governmental Authority, that would, individually or in the aggregate, reasonably be expected to have a Material Adverse Effect on Holdings. There are no pending or, to the knowledge of Holdings, threatened actions to which Holdings is a party (or is threatened to be named as a party) to set aside, restrain, enjoin or prevent the execution, delivery or performance of this Agreement and the Ancillary Agreements to which it is a party or the Operative Documents or the consummation of the transactions contemplated hereby or thereby by any party hereto or thereto. As of the date of this Agreement, Holdings is not subject to any Governmental Order (nor, to the knowledge of Holdings, is there any such Governmental Order threatened to be imposed by any Governmental Authority) that would, individually or in the aggregate, reasonably be expected to have a Material Adverse Effect on Holdings.
+
+(vi)      Stock Ownership. All of Symphony Dynamo’s issued and outstanding Symphony Dynamo Equity Securities are owned beneficially and of record by Holdings, free and clear of any and all encumbrances.
+
+(vii)     Interim Operations. Holdings was formed solely for the purpose of engaging in the transactions contemplated by the Operative Documents, has engaged in no other business activities and has conducted its operations only as contemplated by the Operative Documents.
+
+
+
+ 
+
+(viii)
+
+Accredited Investor.
+
+(A)      Holdings is and will remain at all relevant times an Accredited Investor.
+
+(B)      Holdings has relied completely on the advice of, or has consulted with or has had the opportunity to consult with, its own personal tax, investment, legal or other advisors and has not relied on Dynavax or any of its Affiliates for advice related to any offer and sale of the Dynavax Closing Shares, and, if issued, the Alternate Securities, in connection with the Purchase Option. Holdings has reviewed the Investment Overview and is aware of the risks disclosed therein. Holdings acknowledges that it has had a reasonable opportunity to conduct its own due diligence with respect to the Products, the Programs, Symphony Dynamo, Dynavax and the transactions contemplated by the Operative Documents.
+
+ 
+
+
+
+ 
+
+14
+
+Amended and Restated Purchase Option Agreement
+
+ 
+
+
+
+ 
+
+
+
+(C)      Holdings is able to bear the economic risk of such investment for an indefinite period and to afford a complete loss thereof.
+
+(D)      Holdings agrees that the Dynavax Closing Shares and, if issued, the Alternate Securities may not be resold (1) without registration thereof under the Securities Act (unless an exemption from such registration is available), or (2) in violation of any law.
+
+(E)       No person or entity acting on behalf of, or under the authority of, Holdings is or will be entitled to any broker’s, finder’s, or similar fees or commission payable by Dynavax or any of its Affiliates.
+
+
+
+ 
+
+(b)
+
+Holdings hereby covenants and agrees with Dynavax as follows:
+
+
+
+ 
+
+(i)
+
+[Reserved.]
+
+(ii)       Encumbrance. Holdings will not, and will not permit any of its Subsidiaries to, create, assume or suffer to exist any Encumbrance on any of its Symphony Dynamo Equity Securities except with the prior written consent of Dynavax.
+
+(iii)      Transfer and Amendment. Commencing upon the date hereof and ending upon the earlier to occur of (x) the Purchase Option Closing Date, and the termination of this Agreement pursuant to Section 9 (such period, the “Term”), the manager of Holdings shall not (A) transfer, or permit the transfer of, any Membership Interest without the prior written consent of Dynavax or (B) amend, or permit the amendment of, any provisions relating to the transfer of Membership Interests, as set forth in Section 7.02 of the Holdings LLC Agreement, to the extent such amendment would adversely affect Dynavax’s right of consent set forth in Sections 7.02(b)(i) and 7.02(c) of the Holdings LLC Agreement.
+
+(iv)      Symphony Dynamo Directors. During the Term, Holdings agrees to vote all of its Symphony Dynamo Equity Securities (or to exercise its right with respect to such Symphony Dynamo Equity Securities to consent to action in writing without a meeting) in favor of, as applicable, the election, removal and replacement of one director of the Symphony Dynamo Board, and any successor thereto, designated by Dynavax (the “Dynavax Director”) as directed by Dynavax. In furtherance and not in limitation of the foregoing, Holdings hereby grants to Dynavax an irrevocable proxy, with respect to all Symphony Dynamo Equity Securities now owned or hereafter acquired by Holdings, to vote such Symphony Dynamo Equity Securities or to exercise the right to consent to action in writing without a meeting with respect to such Symphony Dynamo Equity Securities, such irrevocable proxy to be exercised solely for the limited purpose of electing, removing and replacing the Dynavax Director in the event of the failure or refusal of Holdings to elect, remove or replace such Dynavax Director, as directed by Dynavax. Additionally, Holdings agrees, during the Term, to the
+
+ 
+
+
+
+ 
+
+15
+
+Amended and Restated Purchase Option Agreement
+
+ 
+
+
+
+ 
+
+
+
+selection of two (2) independent directors (of the four (4) directors of Symphony Dynamo not chosen by Holdings at the direction of Dynavax), and any successors thereto. Such independent directors shall be selected by mutual agreement of Dynavax and Holdings.
+
+(v)       Symphony Dynamo Board. During the Term, Holdings shall not vote any of its Symphony Dynamo Equity Securities (or exercise its rights with respect to such Symphony Dynamo Equity Securities by written consent without a meeting) to increase the size of the Symphony Dynamo Board to more than five (5) members without the prior written consent of Dynavax.
+
+(vi)      Symphony Dynamo Charter. During the Term, Holdings shall not approve or permit any amendment to Article IV, Paragraphs (1) and (3); Article VI; Article VII; Article X; Article XI or Article XIII of the Symphony Dynamo Charter without the prior written consent of Dynavax.
+
+Section 5.        Symphony Dynamo Representations, Warranties and Covenants.
+
+(a)       As of the date hereof, Symphony Dynamo hereby represents and warrants, and, except to the extent that any of the following representations and warranties is limited to the date of this Agreement or otherwise limited, on the Purchase Option Closing Date, shall be deemed to have represented and warranted, to Dynavax and Holdings that:
+
+(i)        Organization. Symphony Dynamo is a corporation, duly organized, validly existing and in good standing under the laws of the State of Delaware.
+
+(ii)       Authority and Validity. Symphony Dynamo has all requisite corporate power and authority to execute, deliver and perform its obligations under this Agreement and to consummate the transactions contemplated hereby. The execution, delivery and performance by Symphony Dynamo of this Agreement and the consummation of the transactions contemplated hereby have been duly and validly authorized by all necessary action required on the part of Symphony Dynamo, and no other proceedings on the part of Symphony Dynamo are necessary to authorize this Agreement or for Symphony Dynamo to perform its obligations under this Agreement. This Agreement constitutes the lawful, valid and legally binding obligation of Symphony Dynamo, enforceable in accordance with its terms, except as the same may be limited by applicable bankruptcy, insolvency, reorganization, moratorium or similar laws affecting the enforcement of creditors’ rights generally and general equitable principles regardless of whether such enforceability is considered in a proceeding at law or in equity.
+
+(iii)      No Violation or Conflict. The execution, delivery and performance of this Agreement and the transactions contemplated hereby do not (A) violate, conflict with or result in the breach of any provision of the Organizational
+
+ 
+
+
+
+ 
+
+16
+
+Amended and Restated Purchase Option Agreement
+
+ 
+
+
+
+ 
+
+
+
+Documents of Symphony Dynamo, (B) conflict with or violate any law or Governmental Order applicable to Symphony Dynamo or any of its assets, properties or businesses, or (C) conflict with, result in any breach of, constitute a default (or event that with the giving of notice or lapse of time, or both, would become a default) under, require any consent under, or give to others any rights of termination, amendment, acceleration, suspension, revocation or cancellation of, or result in the creation of any Encumbrance on any of the assets or properties of Symphony Dynamo, pursuant to, any note, bond, mortgage or indenture, contract, agreement, lease, sublease, license, permit, franchise or other instrument or arrangement to which Symphony Dynamo is a party except, in the case of clauses (B) and (C), to the extent that such conflicts, breaches, defaults or other matters would not, individually or in the aggregate, reasonably be expected to have a Material Adverse Effect on Symphony Dynamo.
+
+(iv)      Governmental Consents and Approvals. The execution, delivery and performance of this Agreement by Symphony Dynamo do not, and the consummation of the transactions contemplated hereby do not and will not, require any Governmental Approval which has not already been obtained, effected or provided, except with respect to which the failure to so obtain, effect or provide would not, individually or in the aggregate, reasonably be expected to have a Material Adverse Effect on Symphony Dynamo.
+
+(v)       Litigation. There are no actions by or against Symphony Dynamo pending before any Governmental Authority or, to the knowledge of Symphony Dynamo, threatened to be brought by or before any Governmental Authority that would, individually or in the aggregate, reasonably be expected to have a Material Adverse Effect on Symphony Dynamo. There are no pending or, to the knowledge of Symphony Dynamo, threatened actions to which Symphony Dynamo is a party (or is threatened to be named as a party) to set aside, restrain, enjoin or prevent the execution, delivery or performance of this Agreement or the Operative Documents or the consummation of the transactions contemplated hereby or thereby by any party hereto or thereto. Symphony Dynamo is not subject to any Governmental Order (nor, to the knowledge of Symphony Dynamo, is there any such Governmental Order threatened to be imposed by any Governmental Authority) that would, individually or in the aggregate, reasonably be expected to have a Material Adverse Effect on Symphony Dynamo.
+
+(vi)      Capitalization. Holdings is the beneficial and record owner of all issued and outstanding Symphony Dynamo Equity Securities. No shares of Symphony Dynamo capital stock are held in treasury by Symphony Dynamo or any Symphony Dynamo Subsidiary. All of the issued and outstanding Symphony Dynamo Equity Securities (A) have been duly authorized and validly issued and are fully paid and nonassessable, (B) were issued in compliance with all applicable state and federal securities laws, and (C) were not issued in violation of any preemptive rights or rights of first refusal. No preemptive rights or rights of first refusal exist with respect to any Symphony Dynamo Equity Securities and no
+
+ 
+
+
+
+ 
+
+17
+
+Amended and Restated Purchase Option Agreement
+
+ 
+
+
+
+ 
+
+
+
+such rights will arise by virtue of or in connection with the transactions contemplated hereby (other than for the Purchase Option). Other than the Purchase Option, there are no outstanding options, warrants, call rights, commitments or agreements of any character to acquire any Symphony Dynamo Equity Securities. There are no outstanding stock appreciation, phantom stock, profit participation or other similar rights with respect to Symphony Dynamo. Symphony Dynamo is not obligated to redeem or otherwise acquire any of its outstanding Symphony Dynamo Equity Securities.
+
+(vii)     Interim Operations. Symphony Dynamo was formed solely for the purpose of engaging in the transactions contemplated by the Operative Documents, has engaged in no other business activities and has conducted its operations only as contemplated by the Operative Documents.
+
+(viii)    Investment Company. Symphony Dynamo is not, and after giving effect to the transactions contemplated by the Operative Documents will not be, required to register as an “investment company” as such term is defined in the Investment Company Act of 1940, as amended.
+
+
+
+ 
+
+(b)
+
+Symphony Dynamo covenants and agrees that:
+
+(i)        Symphony Dynamo will comply with all laws, ordinances or governmental rules or regulations to which it is subject and will obtain and maintain in effect all licenses, certificates, permits, franchises and other Governmental Approvals necessary to the ownership of its properties or to the conduct of its business, in each case to the extent necessary to ensure that non-compliance with such laws, ordinances or governmental rules or regulations or failures to obtain or maintain in effect such licenses, certificates, permits, franchises and other Governmental Approvals would not, individually or in the aggregate, reasonably be expected to have a Material Adverse Effect on Symphony Dynamo.
+
+(ii)       Symphony Dynamo will file (or cause to be filed) all material tax returns required to be filed by it and pay all taxes shown to be due and payable on such returns and all other taxes imposed on it or its assets to the extent such taxes have become due and payable and before they have become delinquent and shall pay all claims for which sums have become due and payable that have or might become attached to the assets of Symphony Dynamo; provided, that Symphony Dynamo need not file any such tax returns or pay any such tax or claims if (A) the amount, applicability or validity thereof is contested by Symphony Dynamo on a timely basis in good faith and in appropriate proceedings, and Symphony Dynamo has established adequate reserves therefor in accordance with GAAP on the books of Symphony Dynamo or (B) the failure to file such tax returns or the nonpayment of such taxes and assessments, individually or in the aggregate, could not reasonably be expected to have a Material Adverse Effect on Symphony Dynamo.
+
+ 
+
+
+
+ 
+
+18
+
+Amended and Restated Purchase Option Agreement
+
+ 
+
+
+
+ 
+
+
+
+(iii)      Symphony Dynamo will at all times preserve and keep in full force and effect its corporate existence.
+
+(iv)      Symphony Dynamo will keep complete, proper and separate books of record and account, including a record of all costs and expenses incurred, all charges made, all credits made and received, and all income derived in connection with the operation of the business of Symphony Dynamo, all in accordance with GAAP, in each case to the extent necessary to enable Symphony Dynamo to comply with the periodic reporting requirements of this Agreement.
+
+(v)       Symphony Dynamo will perform and observe in all material respects all of the terms and provisions of each Operative Document to be performed or observed by it, maintain each such Operative Document to which it is a party, promptly enforce in all material respects each such Operative Document in accordance with its terms, take all such action to such end as may be from time to time reasonably requested by Holdings or Dynavax and make to each other party to each such Operative Document such demands and requests for information and reports or for action as Symphony Dynamo is entitled to make under such Operative Document.
+
+(vi)      Symphony Dynamo shall permit the representatives of Holdings (including Holdings’ members and their respective representatives), each Symphony Fund and Dynavax, at each of their own expense and upon reasonable prior notice to Symphony Dynamo, to visit the principal executive office of Symphony Dynamo, to discuss the affairs, finances and accounts of Symphony Dynamo with Symphony Dynamo’s officers and (with the consent of Symphony Dynamo, which consent will not be unreasonably withheld) the Symphony Dynamo Auditors (as defined in Section 5(d)(iii) hereof), all at such reasonable times and as often as may be reasonably requested in writing.
+
+(vii)     Symphony Dynamo shall permit each Symphony Fund, at its own expense and upon reasonable prior notice to Symphony Dynamo, to inspect and copy Symphony Dynamo’s books and records and inspect Symphony Dynamo’s properties at reasonable times.
+
+(viii)    Symphony Dynamo shall allow Dynavax or its designated representatives to have reasonable visitation and inspection rights with regard to the Programs and materials, documents and other information relating thereto.
+
+(ix)      Symphony Dynamo shall permit each Symphony Fund to consult with and advise the management of Symphony Dynamo on matters relating to the research and development of the Programs in order to develop the Product.
+
+(x)       On the Purchase Option Closing Date, or as soon thereafter as is practical, Symphony Dynamo shall deliver to Dynavax all materials, documents, files and other information relating to the Programs (or, where necessary, copies thereof).
+
+ 
+
+
+
+ 
+
+19
+
+Amended and Restated Purchase Option Agreement
+
+ 
+
+
+
+ 
+
+
+
+(xi)      During the Term, Dynavax shall have the right to consent to any increase in the size of the Symphony Dynamo Board to more than five (5) directors.
+
+(xii)     During the Term, Dynavax shall have the right to designate, remove and replace one (1) director of the Symphony Dynamo Board and consent to the selection of the two (2) independent directors (of the four (4) directors of Symphony Dynamo not chosen by Holdings at the direction of Dynavax), in each case including any successors thereto and in accordance with the terms of Section 4(b)(iv).
+
+(xiii)    Symphony Dynamo shall indemnify the directors and officers of Symphony Dynamo against liability incurred by reason of the fact that such Person is or was a director or officer of Symphony Dynamo, as permitted by Article VII of the Symphony Dynamo Charter and Section 9.01 of the Symphony Dynamo By-laws, as set forth in, and on the terms of, the Indemnification Agreement and the RRD Services Agreement, respectively.
+
+(xiv)    During the Term, Symphony Dynamo shall comply with, and cause any Persons acting for it to comply with, the terms of the Investment Policy with respect to the investment of any funds held by it.
+
+(xv)     From and after the Purchase Option Closing Date,  Symphony Dynamo shall not make any further payments to RRD,  and immediately prior to the Purchase Option Closing, Symphony Dynamo shall declare and pay as a dividend to Holdings an amount in cash equal to $500,000, minus the sum of (A) any and all outstanding amounts pursuant to the RRD Services Agreement through the Purchase Option Closing Date, plus (B) all costs and expenses incurred by Symphony  Dynamo that are associated with the consummation of the Purchase Option (including tax preparation and filings but excluding a final audit), plus (C) all  amounts paid by Symphony Dynamo for the purchase of a tail insurance policy for Symphony Dynamo (the calculated total, the “Pre-Closing Holdings Dividend”).
+
+(c)       Symphony Dynamo covenants and agrees that, until the expiration of the Term, it shall not, and shall cause its Subsidiaries (if any) not to, without Dynavax’s prior written consent (such consent, in the case of clause (x) below, not to be unreasonably withheld):
+
+(i)        issue any Symphony Dynamo Equity Securities or any Equity Securities of any Subsidiary thereof (other than any issuances of Equity Securities by Symphony Dynamo made in accordance with Section 1(b) hereof to Holdings so long as Symphony Dynamo is a wholly owned subsidiary of Holdings, or by a Subsidiary of Symphony Dynamo to Symphony Dynamo or to another wholly owned Subsidiary of Symphony Dynamo); provided, however, that in any event
+
+ 
+
+
+
+ 
+
+20
+
+Amended and Restated Purchase Option Agreement
+
+ 
+
+
+
+ 
+
+
+
+any such Symphony Dynamo Equity Securities or Equity Securities of such Subsidiary shall be issued subject to the Purchase Option;
+
+(ii)       redeem, repurchase or otherwise acquire, directly or indirectly, any Symphony Dynamo Equity Securities or the Equity Securities of any Subsidiary of Symphony Dynamo;
+
+(iii)      create, incur, assume or permit to exist any Debt other than any Debt incurred pursuant to the Operative Documents and the Development Budget (including payables incurred in the ordinary course of business) (“Excepted Debt”); provided, however, that the aggregate outstanding principal amount of all such Excepted Debt for borrowed money shall not exceed $1,000,000 at any time;
+
+(iv)      declare or pay dividends or other distributions on any Symphony Dynamo Equity Securities other than any dividend declared from the proceeds of a sale or license of a discontinued Program to a third party, in respect of which Symphony Dynamo shall be entitled to pay (subject to the existence of lawfully available funds) a dividend equal to the net amount (such net amount calculated as the gross proceeds received less amounts required to be paid in respect of any and all corporate taxes owed by Symphony Dynamo as a result of the receipt of such gross amounts) of such amounts received from such third party;
+
+(v)       enter into any transaction of merger or consolidation, or liquidate, wind up or dissolve itself, or convey, transfer, license, lease or otherwise dispose of all, or a material portion of, its properties, assets or business;
+
+(vi)      other than in respect of the Programs, engage in the development of products for any other company or engage or participate in the development of products or engage in any other material line of business;
+
+(vii)     other than entering into, and performing its obligations under, the Operative Documents and participating in the Programs, engage in any action that negates or is inconsistent with any rights of Dynavax set forth herein;
+
+(viii)    other than as contemplated by the RRD Services Agreement and Section 6.2 of the Amended and Restated Research and Development Agreement, hire, retain or contract for the services of, any employees until the termination of such agreements;
+
+(ix)      incur any financial commitments in respect of the development of the Programs other than those set forth in the Development Plan and the Development Budget, or those approved by the Development Committee and, if so required by the terms of Paragraph 11 of the Development Committee Charter, the Symphony Dynamo Board in accordance with the Operative Documents;
+
+(x)       other than any transaction contemplated by the Operative Documents, enter into or engage in any Conflict Transactions without the prior approval of a majority of the Disinterested Directors of the Symphony Dynamo Board; or
+
+ 
+
+
+
+ 
+
+21
+
+Amended and Restated Purchase Option Agreement
+
+ 
+
+
+
+ 
+
+
+
+(xi)      waive, alter, modify, amend or supplement in any manner whatsoever any material terms and conditions of the RRD Services Agreement, the Funding Agreement, the Subscription Agreement, or Articles 4 and 6 of the Amended and Restated Research and Development Agreement, except in compliance with the terms of the Operative Documents.
+
+(d)       Symphony Dynamo covenants and agrees to deliver, cause to be delivered, and provide access thereto, to each other Party, each Symphony Fund, and such Auditors as Dynavax may designate, so long as such Auditors shall be subject to confidentiality requirements at least as stringent as the Confidentiality Agreement:
+
+(i)        upon request, copies of the then current Development Plan for each quarter, on or before March 31, June 30, September 30, and December 31 of each year;
+
+(ii)       upon request, copies of the then current Development Budget for each quarter, including a report setting forth in reasonable detail the projected expenditures by Symphony Dynamo pursuant to the Development Budget, on or before March 31, June 30, September 30, and December 31 of each year;
+
+(iii)      prior to the close of each fiscal year, Symphony Dynamo shall cause the Manager to seek to obtain from the Symphony Dynamo Auditors the Client Schedules to be provided to Dynavax’s Auditors in connection with the Symphony Dynamo Auditors’ audit of Symphony Dynamo. Within ten (10) Business Days after the close of each fiscal year, Symphony Dynamo (or the Manager acting on its behalf) will provide Dynavax’s Auditors with the requested Client Schedules. If the Symphony Dynamo Auditors deliver the Client Schedules after the end of the fiscal year, Symphony Dynamo (or the Manager acting on its behalf) will provide the completed Client Schedules to Dynavax’s Auditors within ten (10) Business Days of such receipt;
+
+(iv)      prior to the close of each fiscal year, Dynavax’ Vice President of Finance, the Symphony Dynamo Auditors, Dynavax’s Auditors and Symphony Dynamo (or the Manager acting on its behalf) shall agree to a completion schedule that will include (A) the provision by Symphony Dynamo to Dynavax of the financial information reasonably necessary for Dynavax to consolidate and audit the financial results of Symphony Dynamo and (B) the following financial statements, including the related notes thereto, audited and certified by the Symphony Dynamo Auditors: one (1) a balance sheet of Symphony Dynamo as of the close of such fiscal year, two (2) a statement of net income for such fiscal year, and three (3) a statement of cash flows for such fiscal year. Such audited annual financial statements shall set forth in comparative form the figures for the previous fiscal year, all in reasonable detail, prepared in accordance with GAAP,
+
+ 
+
+
+
+ 
+
+22
+
+Amended and Restated Purchase Option Agreement
+
+ 
+
+
+
+ 
+
+
+
+and Symphony Dynamo (or the Manager acting on its behalf) shall, to the extent that Symphony Dynamo (or the Manager acting on its behalf), using commercially reasonable means, can procure such an opinion, be accompanied by an opinion thereon of the Symphony Dynamo Auditors to the effect that such financial statements present fairly, in all material respects, the financial position of Symphony Dynamo and its results of operations and cash flows and have been prepared in conformity with GAAP, and that the examination of such accountants in connection with such financial statements has been made in accordance with generally accepted auditing standards, and that such audit provides a reasonable basis for such opinion in the circumstances;
+
+(v)       within two (2) Business Days following each calendar month and upon receipt from Dynavax of its monthly invoice to Symphony Dynamo, current accrued monthly vendor expenses and prepaid expenses: (A) the unaudited balance sheet of Symphony Dynamo for the previous calendar month; (B) the unaudited statement of net income for such previous calendar month; (C) the unaudited statement of cash flows for such previous calendar month; (D) the trial balance schedule for such previous calendar month; and (E) related account reconciliations for such previous calendar month;
+
+(vi)      any other documents, materials or other information, including information and documentation of internal controls and reporting as may be required by applicable law, rule or regulation (including information prepared in support of Symphony Dynamo’s efforts pursuant to Section 5(e)) pertaining to Holdings, the Programs or Symphony Dynamo as Dynavax may reasonably request, including preliminary financial information;
+
+(vii)     within two (2) Business Days following its receipt thereof from Symphony Dynamo’s tax return preparer, a copy of each income tax return to be filed by Symphony Dynamo with any foreign, federal, state or local taxing authority (including all supporting schedules thereto);
+
+(viii)    promptly, and in any event within five (5) Business Days of receipt thereof, copies of any notice to Symphony Dynamo from any federal or state Governmental Authority relating to any order, ruling, statute or other law or regulation that would reasonably be expected to have a Material Adverse Effect on Symphony Dynamo;
+
+(ix)      promptly upon receipt thereof, notice of all actions, suits, investigations, litigation and proceedings before any court or governmental department, commission, board, bureau, agency or instrumentality, domestic or foreign, affecting Symphony Dynamo;
+
+(x)       promptly upon receipt thereof, copies of any other notices, requests, reports, financial statements and other information and documents received by Symphony Dynamo under or pursuant to
+
+ 
+
+
+
+ 
+
+23
+
+Amended and Restated Purchase Option Agreement
+
+ 
+
+
+
+ 
+
+
+
+any other Operative Document, including, without limitation, any notices of breach or termination of any subcontracts or licenses entered into or permitted pursuant to the Operative Documents; and
+
+(xi)      with reasonable promptness, such other data and information relating to the business, operations, affairs, financial condition, assets or properties of Symphony Dynamo or relating to the ability of Symphony Dynamo to perform its obligations hereunder and under the Operative Documents as from time to time may be reasonably requested by Dynavax and/or Holdings;
+
+provided, that neither Symphony Dynamo, nor the Manager acting on behalf of Symphony Dynamo, shall have any liability to Dynavax for the failure to deliver financial documents or other materials hereunder, if such failure was caused by a failure of Dynavax to provide, in a timely manner, data required to prepare such financial documents or other materials to Symphony Dynavax in a timely manner.
+
+(e)       Symphony Dynamo will use commercially reasonable efforts, at its own expense (as set forth in the Management Budget), to cooperate with Dynavax in meeting Dynavax’s government compliance, disclosure, and financial reporting obligations, including without limitation under the Sarbanes-Oxley Act of 2002 and any rules and regulations promulgated thereunder, and under FASB Interpretation No. 46. Without limiting the foregoing, Symphony Dynamo further covenants, until the expiration of the Term, that (w) the principal executive officer and the principal financial officer of Symphony Dynamo, or persons performing similar functions, shall provide certifications to Dynavax corresponding to those required with respect to public companies for which a class of securities is registered under the Exchange Act (“Public Companies”) under Sections 302 and 906 of the Sarbanes-Oxley Act of 2002; (x) Symphony Dynamo shall maintain a system of disclosure controls and internal controls (as defined under the Exchange Act) and conduct quarterly and annual evaluations of the effectiveness of such controls as required under the Exchange Act for Public Companies; (y) Symphony Dynamo shall provide to Dynavax an attestation report of the Symphony Dynamo Auditors with respect to Symphony Dynamo management’s assessment of Symphony Dynamo’s internal controls as required under the Exchange Act for Public Companies; and (z) Symphony Dynamo will maintain, or cause to have maintained, such sufficient evidentiary support for management’s assessment of the effectiveness of Symphony Dynamo’s internal controls as required for Public Companies.
+
+(f)        Dynavax agrees to provide reasonable assistance and support for the financial operations of Symphony Dynamo as may be reasonably requested by Symphony Dynamo from time to time during the Term; provided that any such services shall be pursuant to a separate agreement specifying the nature and amount of assistance and support to be provided and the reimbursement to Dynavax of costs plus a reasonable profit in the provision of such assistance and support.
+
+Section 6.        Notice of Material Event. Each Party agrees that, upon it receiving knowledge of a material event or development with respect to any of the transactions contemplated hereby that, to the
+
+ 
+
+
+
+ 
+
+24
+
+Amended and Restated Purchase Option Agreement
+
+ 
+
+
+
+ 
+
+
+
+knowledge of its executive officers, is not known to the other Parties, such Party shall notify the other Parties in writing within three (3) Business Days of the receipt of such knowledge by any executive officer of such Party; provided, that the failure to provide such notice shall not impair or otherwise be deemed a waiver of any rights any Party may have arising from such material event or development and that notice under this Section 6 shall not in itself constitute notice of any breach of any of the Operative Documents.
+
+
+
+ 
+
+Section 7.
+
+Assignment Transfers; Legend.
+
+(a)       Assignment by Dynavax and Symphony Dynamo. Neither Dynavax nor Symphony Dynamo may assign, delegate, transfer, sell or otherwise dispose of (collectively, “Transfer”), in whole or in part, any or all of their rights or obligations hereunder to any Person (a “Transferee”) without the prior written approval of each of the other Parties; provided, however, that Dynavax, without the prior approval of each of the other Parties, acting in accordance with Article 14 of the Amended and Restated Research and Development Agreement, may make such Transfer to any Person which acquires all or substantially all of Dynavax’s assets or business (or assets or business related to the Programs) or which is the surviving or resulting Person in a merger or consolidation with Dynavax; provided, further, that in the event of any Transfer, Dynavax or Symphony Dynamo, as applicable, shall provide written notice to the other Parties of any such Transfer not later than thirty (30) days after such Transfer setting forth the identity and address of the Transferee and summarizing the terms of the Transfer. In no event shall such assignment alter the definition of “Dynavax Common Stock” except as a result of the surviving or resulting “parent” entity in a merger being other than Dynavax, in which case any reference to Dynavax Common Stock shall be deemed to instead reference the common stock, if any, of the surviving or resulting entity.
+
+(b)       Assignment and Transfers by Holdings. Prior to the expiration of the Purchase Option, Holdings may not Transfer, in whole or in part, any or all of its Symphony Dynamo Equity Securities or any or all of its rights or obligations hereunder to any Person (other than Dynavax) without the prior written consent of Dynavax. In addition, any Transfer of Symphony Dynamo Equity Securities by Holdings or any other Person to any Person other than Dynavax shall be conditioned upon, and no effect shall be given to any such Transfer unless such transferee shall agree in writing in form and substance satisfactory to Dynavax to be bound by all of the terms and conditions hereunder, including the Purchase Option, as if such transferee were originally designated as “Holdings” hereunder.
+
+(c)       Legend. Any certificates evidencing Symphony Dynamo Equity Securities shall bear a legend in substantially the following form:
+
+THE SECURITIES OF SYMPHONY DYNAMO, INC., EVIDENCED HEREBY ARE SUBJECT TO AN OPTION, HELD BY DYNAVAX, AS DESCRIBED IN AN AMENDED AND RESTATED PURCHASE
+
+ 
+
+
+
+ 
+
+25
+
+Amended and Restated Purchase Option Agreement
+
+ 
+
+
+
+ 
+
+
+
+OPTION AGREEMENT (THE “PURCHASE OPTION AGREEMENT”) DATED AS OF NOVEMBER 9, 2009, BY AND AMONG DYNAVAX TECHNOLOGIES CORPORATION, AND THE OTHER PARTIES THERETO, TO PURCHASE SUCH SECURITIES AT A PURCHASE PRICE DETERMINED PURSUANT TO SECTION 2 OF THE PURCHASE OPTION AGREEMENT, EXERCISABLE BY WRITTEN NOTICE AT ANY TIME DURING THE PERIOD SET FORTH THEREIN. COPIES OF THE PURCHASE OPTION AGREEMENT ARE AVAILABLE AT THE PRINCIPAL PLACE OF BUSINESS OF SYMPHONY DYNAMO, INC. AT 7361 CALHOUN PLACE, SUITE 325, ROCKVILLE, MARYLAND 20855, AND WILL BE FURNISHED TO THE HOLDER HEREOF UPON WRITTEN REQUEST WITHOUT COST.
+
+Section 8.        Costs and Expenses: Payments. Except as otherwise specified in Section 2(i) hereof, each Party shall pay its own costs and expenses incurred in connection with the exercise of the Purchase Option; provided, however, that Dynavax shall pay any filing fees incurred in connection with any HSR Filings made pursuant to this Agreement.
+
+
+
+ 
+
+Section 9.
+
+Expiration: Termination of Agreement.
+
+
+
+ 
+
+(a)
+
+Termination.
+
+(i)        This Agreement shall terminate upon the mutual written consent of all of the Parties.
+
+(ii)       Each of Holdings and Symphony Dynamo may terminate this Agreement in the event that Symphony Dynamo terminates the Amended and Restated Research and Development Agreement in accordance with its terms.
+
+(iii)      Holdings may terminate this Agreement in the event that the Purchase Option Closing Date Shall not have occurred by the six (6) month anniversary of the date hereof, in which case this agreement shall become null and void ab initio and the Original Agreement shall simultaneously be reinstated in its entirety and supersede this Agreement in its entirety.
+
+
+
+ 
+
+Section 10.
+
+Survival: Indemnification.
+
+(a)       Survival of Representations and Warranties; Expiration of Certain Covenants.
+
+(i)        The representations and warranties of the Parties contained in this Agreement shall survive for a period of one year from the making of such representations. The liability. of the Parties related to their respective representations and warranties hereunder shall not be reduced by any
+
+ 
+
+
+
+ 
+
+26
+
+Amended and Restated Purchase Option Agreement
+
+ 
+
+
+
+ 
+
+
+
+investigation made at any time by or on behalf of Holdings, Symphony Dynamo or Dynavax, as applicable.
+
+(ii)       For the avoidance of doubt, the covenants and agreements set forth in Sections Section 4(b), Section 5(b)(i), Section 5(b)(v)-Section 5(b)(ix), Section 5(b)(xi)-Section 5(b)(xiv), Section 5(c), Section 5(d)(i), 5(d)(ii), and Section 5(d)(viii)-Section 5(d)(xi) shall, upon the expiration of the Term, expire and end without any further obligation by Symphony Dynamo or Holdings thereunder.
+
+(iii)      For the avoidance of doubt, the covenants and agreements set forth in Section 5(b)(ii)-Section 4(b)(iii), Section 5(b)(x), Section 5(d)(iii)-Section 5(d)(v), Section 5(d)(vii), and Section 5(e) shall, upon the completion of all the reporting, accounting and other obligations set forth therein with respect to the fiscal year in which this Agreement shall terminate, expire and end without any further obligation by Symphony Dynamo or Holdings thereunder.
+
+(b)       Indemnification. To the greatest extent permitted by applicable law, Dynavax shall indemnify and hold harmless Holdings and Symphony Dynamo and Holdings shall indemnify and hold harmless Dynavax, and each of their respective Affiliates, officers, directors, employees, agents, partners, members, successors, assigns, representatives of, and each Person, if any (including any officers, directors, employees, agents, partners, members of such Person) who controls Holdings, Symphony Dynamo and Dynavax, as applicable, within the meaning of the Securities Act or the Exchange Act, (each, an “Indemnified Party”), from and against any and all actions, causes of action, suits, claims, losses, costs, interest, penalties, fees, liabilities and damages, and expenses in connection therewith (irrespective of whether any such Indemnified Party is a party to the action for which indemnification hereunder is sought), and including reasonable attorneys’ fees and disbursements (hereinafter, a “Loss”), incurred by any Indemnified Party as a result of, or arising out of, or relating to: (i) in the case of Dynavax being the Indemnifying Party, (A) any breach of any representation or warranty made by Dynavax herein or in any certificate, instrument or document delivered in connection and contemporaneously herewith, or (B) any breach of any covenant, agreement or obligation of Dynavax contained herein or in any certificate, instrument or document delivered hereunder, including, without limitation, actions to enforce the Note, and (ii) in the case of Holdings being the Indemnifying Party, (A) any breach of any representation or warranty made by Holdings or Symphony Dynamo herein or in any certificate, instrument or document delivered in connection and contemporaneously herewith, or (B) any breach of any covenant, agreement or obligation of Holdings or Symphony Dynamo contained herein or in any certificate, instrument or document delivered hereunder. To the extent that the foregoing undertaking by Dynavax or Holdings may be unenforceable for any reason, such Party shall make the maximum contribution to the payment and satisfaction of any Loss that is permissible under applicable law.
+
+ 
+
+
+
+ 
+
+27
+
+Amended and Restated Purchase Option Agreement
+
+ 
+
+
+
+ 
+
+
+
+(c)       Notice of Claims. Any Indemnified Party that proposes to assert a right to be indemnified under this Section 10 shall notify Dynavax or Holdings, as applicable (the “Indemnifying Party”), promptly after receipt of notice of commencement of any action, suit or proceeding against such Indemnified Party (an “Indemnified Proceeding”) in respect of which a claim is to be made under this Section 10, or the incurrence or realization of any Loss in respect of which a claim is to be made under this Section 10, of the commencement of such Indemnified Proceeding or of such incurrence or realization, enclosing a copy of all relevant documents, including all papers served and claims made, but the omission to so notify the applicable Indemnifying Party promptly of any such Indemnified Proceeding or incurrence or realization shall not relieve (x) such Indemnifying Party from any liability that it may have to such Indemnified Party under this Section 10 or otherwise, except, as to such Indemnifying Party’s liability under this Section 10, to the extent, but only to the extent, that such Indemnifying Party shall have been prejudiced by such omission, or (y) any other indemnitor from liability that it may have to any Indemnified Party under the Operative Documents.
+
+(d)       Defense of Proceedings. In case any Indemnified Proceeding shall be brought against any Indemnified Party, it shall notify the applicable Indemnifying Party of the commencement thereof as provided in Section 10(c), and such Indemnifying Party shall be entitled to participate in, and provided such Indemnified Proceeding involves a claim solely for money damages and does not seek an injunction or other equitable relief against the Indemnified Party and is not a criminal or regulatory action, to assume the defense of, such Indemnified Proceeding with counsel reasonably satisfactory to such Indemnified Party. After notice from such Indemnifying Party to such Indemnified Party of such Indemnifying Party’s election so to assume the defense thereof and the failure by such Indemnified Party to object to such counsel within ten (10) Business Days following its receipt of such notice, such Indemnifying Party shall not be liable to such Indemnified Party for legal or other expenses related to such Indemnified Proceedings incurred after such notice of election to assume such defense except as provided below and except for the reasonable costs of investigating, monitoring or cooperating in such defense subsequently incurred by such Indemnified Party reasonably necessary in connection with the defense thereof. Such Indemnified Party shall have the right to employ its counsel in any such Indemnified Proceeding, but the reasonable fees and expenses of such counsel shall be at the expense of such Indemnified Party unless:
+
+(i)        the employment of counsel by such Indemnified Party at the expense of the applicable Indemnifying Party has been authorized in writing by such Indemnifying Party;
+
+(ii)       such Indemnified Party shall have reasonably concluded in its good faith (which conclusion shall be determinative unless a court determines that such conclusion was not reached reasonably and in good faith) that there is or may be a conflict of interest between the applicable Indemnifying Party and such Indemnified Party in the conduct of the defense of such Indemnified Proceeding or that there are or may be one or more different or additional defenses, claims, counterclaims, or causes of action available to such Indemnified Party (it being
+
+ 
+
+
+
+ 
+
+28
+
+Amended and Restated Purchase Option Agreement
+
+ 
+
+
+
+ 
+
+
+
+agreed that in any case referred to in this clause (ii) such Indemnifying Party shall not have the right to direct the defense of such Indemnified Proceeding on behalf of the Indemnified Party);
+
+(iii)      the applicable Indemnifying Party shall not have employed counsel reasonably acceptable to the Indemnified Party, to assume the defense of such Indemnified Proceeding within a reasonable time after notice of the commencement thereof (provided, however, that this clause (iii) shall not be deemed to constitute a waiver of any conflict of interest that may arise with respect to any such counsel); or
+
+(iv)      any counsel employed by the applicable Indemnifying Party shall fail to timely commence or diligently conduct the defense of such Indemnified Proceeding and such failure has materially prejudiced (or, in the reasonable judgment of the Indemnified Party, is in danger of materially prejudicing) the outcome of such Indemnified Proceeding;
+
+in each of which cases the reasonable fees and expenses of counsel for such Indemnified Party shall be at the expense of such Indemnifying Party. Only one counsel shall be retained by all Indemnified Parties with respect to any Indemnified Proceeding, unless counsel for any Indemnified Party reasonably concludes in good faith (which conclusion shall be determinative unless a court determines that such conclusion was not reached reasonably and in good faith) that there is or may be a conflict of interest between such Indemnified Party and one or more other Indemnified Parties in the conduct of the defense of such Indemnified Proceeding or that there are or may be one or more different or additional defenses, claims, counterclaims, or causes or action available to such Indemnified Party.
+
+(e)       Settlement. Without the prior written consent of such Indemnified Party, such Indemnifying Party shall not settle or compromise, or consent to the entry of any judgment in, any pending or threatened Indemnified Proceeding, unless such settlement, compromise, consent or related judgment (i) includes an unconditional release of such Indemnified Party from all liability for Losses arising out of such claim, action, investigation, suit or other legal proceeding, (ii) provides for the payment of money damages as the sole relief for the claimant (whether at law or in equity), (iii) involves no finding or admission of any violation of law or the rights of any Person by the Indemnified Party, and (iv) is not in the nature of a criminal or regulatory action. No Indemnified Party shall settle or compromise, or consent to the entry of any judgment in, any pending or threatened Indemnified Proceeding in respect of which any payment would result hereunder or under the Operative Documents without the prior written consent of the Indemnifying Party, such consent not to be unreasonably conditioned, withheld or delayed.
+
+Section 11.      No Petition. Each of Dynavax and Holdings covenants and agrees that, prior to the date which is one year and one day after the Purchase Option Closing Date, it will not institute or join in the institution of any bankruptcy, insolvency, reorganization or similar proceeding against Symphony Dynamo. The provisions of this Section 11 shall survive the termination of this Agreement.
+
+ 
+
+
+
+ 
+
+29
+
+Amended and Restated Purchase Option Agreement
+
+ 
+
+
+
+ 
+
+
+
+Section 12.      Third-Party Beneficiary. Each of the Parties agrees that each Symphony Fund shall be a third-party beneficiary of this Agreement.
+
+Section 13.      Notices. Any notice, request, demand, waiver, consent, approval or other communication which is required or permitted to be given to any Party shall be in writing and shall be deemed given only if delivered to the Party personally or sent to the Party by facsimile transmission (promptly followed by a hard-copy delivered in accordance with this Section 13), by next Business Day delivery by a nationally recognized courier service, or by registered or certified mail (return receipt requested), with postage and registration or certification fees thereon prepaid, addressed to the Party at its address set forth below:
+
+Dynavax:
+
+Dynavax Technologies Corporation
+
+2929 Seventh Street, Suite 100
+
+Berkeley, CA 94710
+
+Attn: Michael S. Ostrach, Esq., Vice President,
+
+Chief Business Officer and General Counsel
+
+Facsimile: (510) 848-1327
+
+with copies to:
+
+Cooley Godward Kronish llp
+
+Five Palo Alto Square, 4th Floor
+
+3000 El Camino Real
+
+Palo Alto, CA 94306-2155
+
+Attn: Glen Y. Sato, Esq.
+
+Facsimile: (650) 849-7400
+
+Symphony Dynamo:
+
+Symphony Dynamo, Inc.
+
+7361 Calhoun Place, Suite 325
+
+Rockville, MD 20855
+
+Attn: Charles W. Finn, Ph.D.
+
+Facsimile: (301) 762-6154
+
+Holdings:
+
+Symphony Dynamo Holdings LLC
+
+7361 Calhoun Place, Suite 325
+
+Rockville, MD 20855
+
+Attn: Robert L. Smith, Jr.
+
+Facsimile: (301) 762-6154
+
+
+
+ 
+
+30
+
+Amended and Restated Purchase Option Agreement
+
+ 
+
+
+
+
+
+
+
+with copies to:
+
+
+
+Symphony Capital Partners, L.P.
+
+875 Third Avenue
+
+3rd Floor
+
+New York, NY 10022
+
+Attn: Mark Kessel
+
+Facsimile: (212) 632-5401
+
+Symphony Strategic Partners, LLC
+
+875 Third Avenue
+
+3rd Floor
+
+New York, NY 10022
+
+Attn: Mark Kessel
+
+Facsimile: (212) 632-5401
+
+or to such other address as such Party may from time to time specify by notice given in the manner provided herein to each other Party entitled to receive notice hereunder.
+
+Section 14.      Governing Law: Consent to Jurisdiction and Service of Process.
+
+(a)       This Agreement shall be governed by, and construed in accordance with, the laws of the State of New York; except to the extent that this Agreement pertains to the internal governance of Symphony Dynamo or Holdings, and to such extent this Agreement shall be governed and construed in accordance with the laws of the State of Delaware.
+
+(b)       Each of the Parties hereby irrevocably and unconditionally submits, for itself and its property, to the nonexclusive jurisdiction of any New York State court and Delaware State court or federal court of the United States of America sitting in The City of New York, Borough of Manhattan or Wilmington, Delaware, and any appellate court from any jurisdiction thereof, in any action or proceeding arising out of or relating to this Agreement, or for recognition or enforcement of any judgment, and each of the Parties hereby irrevocably and unconditionally agrees that all claims in respect of any such action or proceeding may be heard and determined in any such New York State court, any such Delaware State court or, to the fullest extent permitted by law, in such federal court. Each of the Parties agrees that a final judgment in any such action or proceeding shall be conclusive and may be enforced in other jurisdictions by suit on the judgment or in any other manner provided by law. Nothing in this Agreement shall affect any right that any Party may otherwise have to bring any action or proceeding relating to this Agreement.
+
+ 
+
+
+
+ 
+
+31
+
+Amended and Restated Purchase Option Agreement
+
+ 
+
+
+
+ 
+
+
+
+(c)       Each of the Parties irrevocably and unconditionally waives, to the fullest extent it may legally and effectively do so, any objection that it may now or hereafter have to the laying of venue of any suit, action or proceeding arising out of or relating to this Agreement in any New York State or federal court, or any Delaware State or federal court. Each of the Parties hereby irrevocably waives, to the fullest extent permitted by law, the defense of an inconvenient forum to the maintenance of such action or proceeding in any such court. Each of the parties hereby consents to service of process by mail.
+
+Section 15.      WAIVER OF JURY TRIAL. EACH OF THE PARTIES HERETO IRREVOCABLY WAIVES ALL RIGHT TO TRIAL BY JURY IN ANY ACTION, PROCEEDING OR COUNTERCLAIM (WHETHER BASED ON CONTRACT, TORT OR OTHERWISE) ARISING OUT OF OR RELATING TO THIS AGREEMENT.
+
+Section 16.      Entire Agreement. This Agreement (including any Annexes, Schedules, Exhibits or other attachments hereto) constitutes the entire agreement between the Parties with respect to the matters covered hereby and supersedes all prior agreements and understanding with respect to such matters between the Parties.
+
+
+
+ 
+
+Section 17.
+
+Amendment: Successors: Counterparts.
+
+(a)       The terms of this Agreement shall not be altered, modified, amended, waived or supplemented in any manner whatsoever except by a written instrument signed by each of the Parties.
+
+(b)       Except as set forth in Section 12, nothing expressed or implied herein is intended or shall be construed to confer upon or to give to any Person, other than the Parties, any right, remedy or claim under or by reason of this Agreement or of any term, covenant or condition hereof, and all the terms, covenants, conditions, promises and agreements contained herein shall be for the sole and exclusive benefit of the Parties and their successors and permitted assigns.
+
+(c)       This Agreement may be executed in one or more counterparts, each of which, when executed, shall be deemed an original but all of which, taken together, shall constitute one and the same Agreement.
+
+Section 18.      Specific Performance. The Parties acknowledge that irreparable damage would result if this Agreement were not specifically enforced, and they therefore agree that the rights and obligations of the Parties under this Agreement may be enforced by a decree of specific performance issued by a court of competent jurisdiction. Such a remedy shall, however, not be exclusive, and shall be in addition to
+
+ 
+
+
+
+ 
+
+32
+
+Amended and Restated Purchase Option Agreement
+
+ 
+
+
+
+ 
+
+
+
+any other remedies which any Party may have under this Agreement or otherwise. The Parties further acknowledge and agree that a decree of specific performance may not be an available remedy in all circumstances.
+
+Section 19.      Severability. If any term or other provision of this Agreement is invalid, illegal or incapable of being enforced by any rule of law or public policy, all other conditions and provisions of this Agreement shall nevertheless remain in full force and effect so long as the economic or legal substance of the transactions contemplated hereby is not affected in a manner materially adverse to either party. Upon such determination that any term or other provision is invalid, illegal or incapable of being enforced, the parties hereto shall negotiate in good faith to modify this Agreement so as to effect the original intent of the parties as closely as possible in an acceptable manner to the end that the transactions contemplated hereby are fulfilled to the extent possible.
+
+Section 20.      Tax Reporting. The Parties acknowledge and agree that, for all federal and state income tax purposes:
+
+(a)       (i) Holdings shall be treated as the owner of all the Equity Securities of Symphony Dynamo prior to the consummation of the Purchase Option; (ii) the Purchase Option shall be treated as an option to acquire all the Equity Securities of Symphony Dynamo; (iii) the Dynavax Closing Warrants shall be treated as option premium payable in respect of the grant and exercise of the Purchase Option; and (iv) Symphony Dynamo shall be treated as the owner of all the Licensed Intellectual Property and shall be entitled to all deductions claimed under Section 174 of the Code in respect of the Licensed Intellectual Property to the extent of the amounts funded by Symphony Dynamo; and
+
+(b)       No Party shall take any tax position inconsistent with any position described in Section 20(a) above, except (i) in the event of a “determination” (as defined in Section 1313 of the Code) to the contrary, or (ii) in the event either of the Parties receives an opinion of counsel to the effect that there is no reasonable basis in law for such a position or that a tax return cannot be prepared based on such a position without being subject to substantial understatement penalties; provided, however, that in the case of Dynavax, such counsel shall be reasonably satisfactory to Holdings.
+
+ 
+
+
+
+ 
+
+33
+
+Amended and Restated Purchase Option Agreement
+
+ 
+
+
+
+ 
+
+
+
+
+
+ 
+
+Section 21.
+
+Original Agreement.
+
+(a)       The Original Agreement is hereby amended and superseded in its entirety and restated herein. Such amendment and restatement is effective upon execution of this Agreement by the Parties. Upon such execution, all provisions of, rights granted and covenants made in the Original Agreement are hereby superseded in their entirety by the provisions hereof and shall have no further force or effect.
+
+(b)       Defined terms in the Operative Documents (other than this Agreement) that refer to definitions in this Agreement shall be deemed to refer to the definitions in the Original Agreement, except where the context requires otherwise.
+
+
+
+ 
+
+Section 22.
+
+Amendment to Annex A.
+
+(a)       The definition of “Purchase Option Agreement” in Annex A is hereby amended to read, “means the Purchase Option Agreement dated as of the Closing Date, among Dynavax, Holdings and Symphony Dynamo, as the same may be amended, amended and restated, supplemented or otherwise modified from time to time.”
+
+(b)       The definition of “Registration Rights Agreement” in Annex A is hereby amended to read, “means the Registration Rights Agreement dated as of the Closing Date, among Dynavax, Holdings and Symphony Dynamo, as the same may be amended, amended and restated, supplemented or otherwise modified from time to time.”
+
+[SIGNATURES FOLLOW ON NEXT PAGE]
+
+ 
+
+
+
+ 
+
+34
+
+Amended and Restated Purchase Option Agreement
+
+ 
+
+
+
+ 
+
+
+
+IN WITNESS WHEREOF, the parties hereto have signed this Agreement as of the day and year first above written.
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+DYNAVAX TECHNOLOGIES CORPORATION
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+By: 
+
+
+
+/s/ Dino Dina, M.D.
+
+ 
+
+ 
+
+ 
+
+Name: Dino Dina, M.D.
+
+Title: President and Chief Executive Officer
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+SYMPHONY DYNAMO HOLDINGS LLC
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+Symphony Capital Partners, L.P.,
+
+ 
+
+ 
+
+ 
+
+its Manager
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+Symphony Capital GP, L.P.,
+
+ 
+
+ 
+
+ 
+
+its general partner
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+Symphony GP, LLC,
+
+ 
+
+ 
+
+ 
+
+its general partner
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+By: 
+
+
+
+/s/ Mark Kessel
+
+ 
+
+ 
+
+ 
+
+Name: Mark Kessel
+
+Title: Managing Member
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+SYMPHONY DYNAMO, INC.
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+By: 
+
+
+
+/s/ Harri V. Taranto
+
+ 
+
+ 
+
+ 
+
+Name: Harri V. Taranto
+
+Title: Chairman of the Board
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+ 
+
+
+
+
+
+ 
+
+Signature Page to the Amended and Restated Purchase Option Agreement
+
+ 
+
+ 
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+ 
+
+ANNEX A
+
+CERTAIN DEFINITIONS
+
+“$” means United States dollars.
+
+“Accredited Investor” has the meaning set forth in Rule 501(a) of Regulation D promulgated under the Securities Act of 1933, as amended.
+
+“Act” means the Delaware Limited Liability Company Act, 6 Del. C. § 18-101 et seq.
+
+“Ad Hoc Meeting” has the meaning set forth in Paragraph 6 of Annex B of the Amended and Restated Research and Development Agreement.
+
+“Additional Funds” has the meaning set forth in Section 2(b) of the Funding Agreement.
+
+“Additional Funding Date” has the meaning set forth in Section 3 of the Funding Agreement.
+
+“Additional Party” has the meaning set forth in Section 13 of the Confidentiality Agreement.
+
+“Additional Regulatory Filings” means such Governmental Approvals as required to be made under any law applicable to the purchase of the Symphony Dynamo Equity Securities under the Purchase Option Agreement.
+
+“Adjusted Capital Account Deficit” has the meaning set forth in Section 1.01 of the Holdings LLC Agreement.
+
+“Affected Member” has the meaning set forth in Section 27 of the Investors LLC Agreement.
+
+“Affiliate” means, with respect to any Person (i) any Person directly or indirectly controlling, controlled by or under common control with such Person, (ii) any officer, director, general partner, member or trustee of such Person, or (iii) any Person who is an officer, director, general partner, member or trustee of any Person described in clauses (i) or (ii) of this sentence. For purposes of this definition, the terms “controlling,” “controlled by” or `”under common control with” shall mean the possession, direct or indirect, of the power to direct or cause the direction of the management and policies of a Person or entity, whether through the ownership of voting securities, by contract or otherwise, or the power to elect at least 50% of the directors, managers, general partners, or persons exercising similar authority with respect to such Person or entities.
+
+“Amended and Restated Research and Development Agreement” means the Amended and Restated Research and Development Agreement dated as of the Closing Date, among Dynavax, Holdings and Symphony Dynamo.
+
+ 
+
+Amended and Restated Purchase Option Agreement
+
+ 
+
+
+
+
+
+ 
+
+
+
+ 
+
+“Asset Value” has the meaning set forth in Section 1.01 of the Holdings LLC Agreement.
+
+“Auditors” means an independent certified public accounting firm of recognized national standing.
+
+“Avecia Agreement” has the meaning set forth in Schedule 12.1(f) to the Amended and Restated Research and Development Agreement.
+
+“Bankruptcy Code” means the United States Bankruptcy Code.
+
+“Berna” has the meaning set forth in Section 11.1(a) of the Amended and Restated Research and Development Agreement.
+
+“Business Day” means any day other than Saturday, Sunday or any other day on which commercial banks in The City of New York or the City of San Francisco are authorized or required by law to remain closed.
+
+“Cancer Products” mean any pharmaceutical product comprising a Selected ISS in the absence of any added tumor, cancer or viral antigen, for use in cancer treatment or therapy.
+
+“Cancer Program” means the identification, development, manufacture and/or use of any Cancer Products in accordance with the Development Plan.
+
+“Capital Contributions” has the meaning set forth in Section 1.01 of the Holdings LLC Agreement.
+
+“Capitalized Leases” means all leases that have been or should be, in accordance with GAAP, recorded as capitalized leases.
+
+“Cash Available for Distribution” has the meaning set forth in Section 1.01 of the Holdings LLC Agreement.
+
+“Chair” has the meaning set forth in Paragraph 4 of Annex B to the Amended and Restated Research and Development Agreement.
+
+“Change of Control” means and includes the occurrence of any of the following events, but specifically excludes (i) acquisitions of capital stock directly from Dynavax for cash, whether in a public or private offering, (ii) sales of capital stock by stockholders of Dynavax, and (iii) acquisitions of capital stock by or from any employee benefit plan or related trust:
+
+(a)       the merger, reorganization or consolidation of Dynavax into or with another corporation or legal entity in which Dynavax’s stockholders holding the right to vote with respect to matters generally immediately preceding such
+
+ 
+
+
+
+
+
+ 
+
+2
+
+
+
+Amended and Restated Purchase Option Agreement
+
+ 
+
+
+
+ 
+
+
+
+merger, reorganization or consolidation, own less than fifty percent (50%) of the voting securities of the surviving entity; or
+
+
+
+ 
+
+(b)
+
+the sale of all or substantially all of Dynavax’s assets or business.
+
+“Class A Member” means a holder of a Class A Membership Interest.
+
+“Class A Membership Interest” means a Class A Membership Interest in Holdings.
+
+“Class B Member” means a holder of a Class B Membership interest.
+
+“Class B Membership Interest” means a Class B Membership Interest in Holdings.
+
+“Class C Member” means a holder of a Class C Membership Interest.
+
+“Class C Membership Interest” means a Class C Membership Interest in Holdings.
+
+“Closing Certificate for Section 5.1(e)” means the written certificate, pertaining to the representations made by Dynavax under Section 5.1(e) of the Novated and Restated Technology License Agreement, provided by Dynavax to Symphony Dynamo Holdings LLC and Symphony Dynamo on the Closing Date.
+
+“Closing Certificate for Section 5.1(f)” means the written certificate, pertaining to the representations made by Dynavax under Section 5.1(f) of the Novated and Restated Technology License Agreement, provided by Dynavax to Symphony Dynamo Holdings LLC and Symphony Dynamo on the Closing Date.
+
+“Client Schedules” has the meaning set forth in Section 5(b)(i) of the RRD Services Agreement.
+
+“Clinical Budget Component” has the meaning set forth in Section 4.1 of the Amended and Restated Research and Development Agreement.
+
+“Closing Date” means April 18, 2006.
+
+“CMC” means the chemistry, manufacturing and controls documentation as required for filings with Regulatory Authority relating to the manufacturing, production and testing of drug products.
+
+“Code” means the Internal Revenue Code of 1986, as amended from time to time.
+
+“Committed Capital” means $50,000,000.00.
+
+ 
+
+
+
+ 
+
+3
+
+Amended and Restated Purchase Option Agreement
+
+ 
+
+
+
+ 
+
+
+
+“Common Stock” means the common stock, par value $0.01 per share, of Symphony Dynamo.
+
+“Company Expenses” has the meaning set forth in Section 5.09 of the Holdings LLC Agreement.
+
+“Company Property” has the meaning set forth in Section 1.01 of the Holdings LLC Agreement.
+
+“Confidential Information” has the meaning set forth in Section 2 of the Confidentiality Agreement.
+
+“Confidentiality Agreement” means the Confidentiality Agreement, dated as of the Closing Date, among Symphony Dynamo, Holdings, Dynavax, each Symphony Fund, SCP, SSP, Investors, Symphony Capital, RRD and Ann M. Arvin, M.D.
+
+“Conflict Transaction” has the meaning set forth in Article X of the Symphony Dynamo Charter.
+
+“Control” means, with respect to any material, information or intellectual property right, that a Party owns or has a license to such item or right, and has the ability to grant the other Party access, a license or a sublicense (as applicable) in or to such item or right as provided in the Operative Documents without violating the terms of any agreement or other arrangement with any third party.
+
+“Debt” of any Person means, without duplication:
+
+
+
+ 
+
+(a)
+
+all indebtedness of such Person for borrowed money,
+
+(b)       all obligations of such Person for the deferred purchase price of property or services (other than any portion of any trade payable obligation that shall not have remained unpaid for 91 days or more from the later of (A) the original due date of such portion and (B) the customary payment date in the industry and relevant market for such portion),
+
+(c)       all obligations of such Person evidenced by bonds, notes, debentures or other similar instruments,
+
+(d)       all obligations of such Person created or arising under any conditional sale or other title retention agreement with respect to property acquired by such Person (whether or not the rights and remedies of the seller or lender under such agreement in an event of default are limited to repossession or sale of such property),
+
+
+
+ 
+
+(e)
+
+all Capitalized Leases to which such Person is a party,
+
+ 
+
+
+
+ 
+
+4
+
+Amended and Restated Purchase Option Agreement
+
+ 
+
+
+
+ 
+
+
+
+(f)        all obligations, contingent or otherwise, of such Person under acceptance, letter of credit or similar facilities,
+
+(g)       all obligations of such Person to purchase, redeem, retire, defease or otherwise acquire for value any Equity Securities of such Person,
+
+(h)       the net amount of all financial obligations of such Person in respect of Hedge Agreements,
+
+(i)        the net amount of all other financial obligations of such Person under any contract or other agreement to which such Person is a party,
+
+(j)        all Debt of other Persons of the type described in clauses (a) through (i) above guaranteed, directly or indirectly, in any manner by such Person, or in effect guaranteed, directly or indirectly, by such Person through an agreement (A) to pay or purchase such Debt or to advance or supply funds for the payment or purchase of such Debt, (B) to purchase, sell or lease (as lessee or lessor) property, or to purchase or sell services, primarily for the purpose of enabling the debtor to make payment of such Debt or to assure the holder of such Debt against loss, (C) to supply funds to or in any other manner invest in the debtor (including any agreement to pay for property or services irrespective of whether such property is received or such services are rendered) or (D) otherwise to assure a creditor against loss, and
+
+(k)       all Debt of the type described in clauses (a) through (i) above secured by (or for which the holder of such Debt has an existing right, contingent or otherwise, to be secured by) any Encumbrance on property (including accounts and contract rights) owned or held or used under lease or license by such Person, even though such Person has not assumed or become liable for payment of such Debt.
+
+“Development Budget” means the budget (comprised of the Management Budget Component and the Clinical Budget Component) for the implementation of the Development Plan (the initial form of which was agreed upon by Dynavax and Symphony Dynamo as of the Closing Date and attached to the Amended and Restated Research and Development Agreement as Annex D thereto), as may be further developed and revised from time to time in accordance with the Development Committee Charter and the Amended and Restated Research and Development Agreement.
+
+“Development Committee” has the meaning set forth in Article 3 of the Amended and Restated Research and Development Agreement.
+
+“Development Committee Charter” has the meaning set forth in Article 3 of the Amended and Restated Research and Development Agreement.
+
+ 
+
+
+
+ 
+
+5
+
+Amended and Restated Purchase Option Agreement
+
+ 
+
+
+
+ 
+
+
+
+“Development Committee Member” has the meaning set forth in Paragraph I of Annex B to the Amended and Restated Research and Development Agreement.
+
+“Development Plan” means the development plan covering all the Programs (the initial form of which was agreed upon by Dynavax and Symphony Dynamo as of the Closing Date and attached to the Amended and Restated Research and Development Agreement as Annex C thereto), as may be further developed and revised from time to time in accordance with the Development Committee Charter and the Amended and Restated Research and Development Agreement.
+
+“Development Services” has the meaning set forth in Section 1(b) of the RRD Services Agreement.
+
+“Director(s)” has the meaning set forth in the Preliminary Statement of the Indemnification Agreement.
+
+“Disclosing Party” has the meaning set forth in Section 3 of the Confidentiality Agreement.
+
+“Discontinuation Closing Date” has the meaning set forth in Section 11.3 of the Amended and Restated Research and Development Agreement.
+
+“Discontinuation Date” means any date designated by Symphony Dynamo which shall occur on or after the 90`h day following the receipt by Dynavax of notice from Symphony Dynamo of Symphony Dynamo’s intent to discontinue a Program in accordance with the terms of the Amended and Restated Research and Development Agreement.
+
+“Discontinuation Option” has the meaning set forth in Section 11.3 of the Amended and Restated Research and Development Agreement.
+
+“Discontinuation Price” has the meaning set forth in Section 11.3 of the Amended and Restated Research and Development Agreement.
+
+“Discontinuation Price Dispute Notice” has the meaning set forth in Section 11.3(b) of the Amended and Restated Research and Development Agreement.
+
+“Discontinued Program” has the meaning set forth in Section 2.11 of the Novated and Restated Technology License Agreement.
+
+“Discontinuation Program Funding” has the meaning set forth in Section 11.3(b) of the Amended and Restated Research and Development Agreement.
+
+“Disinterested Directors” has the meaning set forth in Article X of the Symphony Dynamo Charter.
+
+ 
+
+
+
+ 
+
+6
+
+Amended and Restated Purchase Option Agreement
+
+ 
+
+
+
+ 
+
+
+
+“Distribution” has the meaning set forth in Section 1.01 of the Holdings LLC Agreement.
+
+“Dynavax” means Dynavax Technologies Corporation, a Delaware corporation.
+
+“Dynavax Common Stock” means the common stock, par value $0.001 per share, of Dynavax.
+
+“Dynavax Common Stock valuation” has the meaning set forth in Section 2(e) of the Purchase Option Agreement.
+
+“Dynavax Obligations” has the meaning set forth in Section 6.1 of the Amended and Restated Research and Development Agreement.
+
+“Dynavax Personnel” has the meaning set forth in Section 8.4 of the Amended and Restated Research and Development Agreement.
+
+“Dynavax Subcontractor” has the meaning set forth in Section 6.2 of the Amended and Restated Research and Development Agreement.
+
+“Early Purchase Option Exercise” has the meaning set forth in Section 1(c)(iv) of the Purchase Option Agreement.
+
+“Effective Registration Date” has the meaning set forth in Section 1(b) of the Registration Rights Agreement
+
+“Encumbrance” means (i) any security interest, pledge, mortgage, lien (statutory or other), charge or option to purchase, lease or otherwise acquire any interest, (ii) any adverse claim, restriction, covenant, title defect, hypothecation, assignment, deposit arrangement, license or other encumbrance of any kind, preference or priority, or (iii) any other security agreement or preferential arrangement of any kind or nature whatsoever (including, without limitation, any conditional sale or other title retention agreement).
+
+“Enhancements” means findings, improvements, discoveries, inventions, additions, modifications, enhancements, derivative works, clinical development data, or changes to the Licensed Intellectual Property and/or Regulatory Files, in each case whether or not patentable.
+
+“Equity Securities” means, with respect to any Person, shares of capital stock of (or other ownership or profit interests in) such Person, warrants, options or other rights for the purchase or other acquisition from such Person of shares of capital stock of (or other ownership or profit interests in) such Person, securities convertible into or exchangeable for shares of capital stock of (or other ownership or profit interests in) such Person or warrants, rights or options for the purchase or other acquisition from such Person of such shares (or such other interests), and other ownership or profit interests in such Person (including, without
+
+ 
+
+
+
+ 
+
+7
+
+Amended and Restated Purchase Option Agreement
+
+ 
+
+
+
+ 
+
+
+
+limitation, partnership, member or trust interests therein), whether voting or nonvoting, and whether or not such shares, warrants, options, rights or other interests are authorized or otherwise existing on any date of determination.
+
+“ERISA” means the United States Employee Retirement Income Security Act of 1974, as amended.
+
+“Excepted Debt” has the meaning set forth in Section 5(c)(iii) of the Purchase Option Agreement.
+
+“Exchange Act” means the Securities Exchange Act of 1934, as amended, and the rules and regulations promulgated thereunder.
+
+“Excluded ISS” means (a) any ISS testing positive for stimulation of TLR-9 by Dynavax prior to the Closing Date that is not a Selected ISS, or (b) any ISS made and tested for activity by Dynavax during the Term that (i) is not designed to have significant activity with a target other than TLR-9 (whether or not it also acts through TLR-9) and (ii) is not a Selected ISS.
+
+“Existing NDA” has the meaning set forth in Section 2 of the Confidentiality Agreement.
+
+“External Directors” has the meaning set forth in the preamble of the Confidentiality Agreement.
+
+“FDA” means the United States Food and Drug Administration or its successor agency in the United States.
+
+“FDA Sponsor” has the meaning set forth in Section 5.1 of the Amended and Restated Research and Development Agreement.
+
+“Final Discontinuation Price” has the meaning set forth in Section 11.3(c) of the Amended and Restated Research and Development Agreement.
+
+“Financial Audits” has the meaning set forth in Section 6.6 of the Amended and Restated Research and Development Agreement,
+
+“Financing” has the meaning set forth in the Preliminary Statement of the Purchase Option Agreement.
+
+“Fiscal Year” has the meaning set forth in each Operative Document in which it appears.
+
+“Form S-3” means the Registration Statement on Form S-3 as defined under the Securities Act.
+
+ 
+
+
+
+ 
+
+8
+
+Amended and Restated Purchase Option Agreement
+
+ 
+
+
+
+ 
+
+
+
+“FTE” has the meaning set forth in Section 4.1 of the Amended and Restated Research and Development Agreement.
+
+“Funding Agreement” means the Funding Agreement, dated as of the Closing Date, among Dynavax, SCP and Investors.
+
+“Funding Notice” has the meaning set forth in Section 2(b) of the Funding Agreement.
+
+“GAAP” means generally accepted accounting principles in effect in the United States of America from time to time.
+
+“Governmental Approvals” means authorizations, consents, orders, declarations or approvals of, or filings with, or terminations or expirations of waiting periods imposed by any Governmental Authority.
+
+“Governmental Authority” means any United States or non-United States federal, national, supranational, state, provincial, local, or similar government, governmental, regulatory or administrative authority, agency or commission or any court, tribunal, or judicial or arbitral body.
+
+“Governmental Order” means any order, writ, judgment, injunction, decree, stipulation, determination or award entered by or with any Governmental Authority.
+
+“Hedge Agreement” means any interest rate swap, cap or collar agreement, interest rate future or option contract, currency swap agreement, currency future or option contract or other similar hedging agreement.
+
+“Hepatitis B Products” mean any pharmaceutical product comprising a Selected ISS, either alone or in combination with Hepatitis B Surface Antigen (HBsAg), whether conjugated or unconjugated to the applicable ISS, for use in Hepatitis B treatment or therapy.
+
+“Hepatitis B Program” means the identification, development, manufacture and/or use of any Hepatitis B Products in Accordance with the Development Plan.
+
+“Hepatitis C Products” mean any pharmaceutical product comprising a Selected ISS, either alone or in combination with an added Hepatitis C antigen, whether conjugated or unconjugated to the applicable ISS, for use in Hepatitis C treatment or therapy.
+
+“Hepatitis C Program” means the identification, development, manufacture and/or use of any Hepatitis C Products in Accordance with the Development Plan.
+
+ 
+
+
+
+ 
+
+9
+
+Amended and Restated Purchase Option Agreement
+
+ 
+
+
+
+ 
+
+
+
+“Holdings” means Symphony Dynamo Holdings LLC, a Delaware limited liability company.
+
+“Holdings Claims” has the meaning set forth in Section 5.01 of the Warrant Purchase Agreement.
+
+“Holdings LLC Agreement” means the Amended and Restated Limited Liability Company Agreement of Holdings, dated as of the Closing Date.
+
+“HSR Act Filings” means the premerger notification and report forms required under the Hart-Scott-Rodino Antitrust Improvements Act of 1976, as amended.
+
+“IND” means an Investigational New Drug Application, as described in 21 U.S.C. § 355(i)(1) and 21 C.F.R. § 312 in the regulations promulgated by the United States Food and Drug Administration, or any foreign equivalent thereof.
+
+“Indemnification Agreement” means the Indemnification Agreement among Symphony Dynamo and the Directors named therein, dated as of the Closing Date.
+
+“Indemnified Party” has the meaning set forth in each Operative Document in which it appears.
+
+“Indemnified Proceeding” has the meaning set forth in each Operative Document in which it appears.
+
+“Indemnifying Party” has the meaning set forth in each Operative Document in which it appears.
+
+“Independent Accountant” has the meaning set forth in Section 11.3(c) of the Amended and Restated Research and Development Agreement.
+
+“Initial Development Budget” means the initial development budget prepared by representatives of Symphony Dynamo and Dynavax prior to the Closing Date, and attached to the Amended and Restated Research and Development Agreement as Annex D thereto.
+
+“Initial Development Plan” means the initial development plan prepared by representatives of Symphony Dynamo and Dynavax prior to the Closing Date, and attached to the Amended and Restated Research and Development Agreement as Annex C thereto.
+
+“Initial Funds” has the meaning set forth in Section 2(a) of the Funding Agreement.
+
+“Initial Holdings LLC Agreement” means the Agreement of Limited Liability Company of Holdings, dated January 10, 2006.
+
+ 
+
+
+
+ 
+
+10
+
+Amended and Restated Purchase Option Agreement
+
+ 
+
+
+
+ 
+
+
+
+“Initial Investors LLC Agreement” means the Agreement of Limited Liability Company of Investors, dated January 10, 2006.
+
+“Initial LLC Member” has the meaning set forth in Section 1.01 of the Holdings LLC Agreement.
+
+“Interest Certificate” has the meaning set forth in Section 1.01 of the Holdings LLC Agreement.
+
+“Investment Company Act” means the Investment Company Act of 1940, as amended.
+
+“Investment Overview” means the investment overview describing the transactions entered into pursuant to the Operative Documents.
+
+“Investment Policy” has the meaning set forth in Section 1(a)(vi) of the RRD Services Agreement.
+
+“Investors” means Symphony Dynamo Investors LLC.
+
+“Investors LLC Agreement” means the Amended and Restated Agreement of Limited Liability Company of Investors dated as of the Closing Date
+
+“IRS” means the U.S. Internal Revenue Service.
+
+“ISS” means any synthetic oligonucleotide sequence or chimeric oligonucleotide sequence that modulates an immune response, including, but not limited to, such sequences referred to by Dynavax as immunostimulatory sequences, chimeric immunomodulatory compounds and branched immunomodulatory compounds.
+
+“Knowledge” means the actual (and not imputed) knowledge of the executive officers of Dynavax, without the duty of inquiry or investigation.
+
+“Law” means any law, statute, treaty, constitution, regulation, rule, ordinance, order or Governmental Approval, or other governmental restriction, requirement or determination, of or by any Governmental Authority.
+
+“License” has the meaning set forth in the Preliminary Statement of the Purchase Option Agreement.
+
+“Licensed Intellectual Property” means the Licensed Patent Rights, Symphony Dynamo Enhancements, Licensor Enhancements and the Licensed Know-How.
+
+“Licensed Know-How” means any and all proprietary technology that is Controlled by Licensor as of the Closing Date and that relates to the Licensed Patent Rights, Regulatory Files, ISSs or the Programs, including without limitation,
+
+ 
+
+
+
+ 
+
+11
+
+Amended and Restated Purchase Option Agreement
+
+ 
+
+
+
+ 
+
+
+
+manufacturing processes or protocols, know-how, writings, documentation, data, technical information, techniques, results of experimentation and testing, diagnostic and prognostic assays, specifications, databases, any and all laboratory, research, pharmacological, toxicological, analytical, quality control pre-clinical and clinical data, and other information and materials, whether or not patentable.
+
+“Licensed Patent Rights” means:
+
+(a)       any and all patents, patent applications and invention disclosures Controlled by Licensor as of the Closing Date and relating to ISSs or the Programs, including, but not limited to, the patents and patent applications listed on Annex B to the Novated and Restated Technology License Agreement;
+
+(b)       any and all reissues, continuations, divisionals, continuations-in-part (but only to the extent the subject matter in such continuations-in-part has been disclosed in the patents or patent applications listed on Annex B), reexaminations, renewals, substitutes, extensions or foreign counterparts of the foregoing, whether filed prior to or after the expiration or termination of the Purchase Option; and
+
+(c)       any and all patents and patent applications that claim Licensor Enhancements or Symphony Dynamo Enhancements.
+
+“Licensor” means Dynavax.
+
+“Licensor Enhancements” means all findings, improvements, discoveries, inventions, additions, modifications, enhancements, derivative works, clinical development data, or changes to the Licensed Patent Rights, Licensed Know-How, Regulatory Files, ISSs, Products or the Programs, in each case, developed by Licensor during the Term in the course of performing Dynavax’s rights and obligations under the Amended and Restated Research & Development Agreement (in each case whether or not patentable), to the extent such items do not otherwise qualify as Symphony Dynamo Enhancements hereunder, regardless of whether such work is funded by Symphony Dynamo or Dynavax.
+
+“Lien” has the meaning set forth in Section 1.01 of the Holdings LLC Agreement.
+
+“Liquidating Event” has the meaning set forth in Section 8.01 of the Holdings LLC Agreement.
+
+“LLC Agreements” means the Initial Holdings LLC Agreement, the Holdings LLC Agreement, the Initial Investors LLC Agreement and the Investors LLC Agreement.
+
+“Loss” has the meaning set forth in each Operative Document in which it appears.
+
+ 
+
+
+
+ 
+
+12
+
+Amended and Restated Purchase Option Agreement
+
+ 
+
+
+
+ 
+
+
+
+“Management Budget Component” has the meaning set forth in Section 4.1 of the Amended and Restated Research and Development Agreement.
+
+“Management Fee” has the meaning set forth in Section 6(a) of the RRD Services Agreement.
+
+“Manager” means (i) for each LLC Agreement in which it appears, the meaning set forth in such LLC Agreement, and (ii) for each other Operative Document in which it appears, RRD.
+
+“Management Services” has the meaning set forth in Section 1(a) of the RRD Services Agreement.
+
+“Manager Event” has the meaning set forth in Section 3.01(g) of the Holdings LLC Agreement.
+
+“Material Adverse Effect” means, with respect to any Person, a material adverse effect on (i) the business, assets, property or condition (financial or otherwise) of such Person or, (ii) its ability to comply with and satisfy its respective agreements and obligations under the Operative Documents or, (iii) the enforceability of the obligations of such Person of any of the Operative Documents to which it is a party.
+
+“Material Subsidiary” means, at any time, a Subsidiary of Dynavax having assets in an amount equal to at least 5% of the amount of total consolidated assets of Dynavax and its Subsidiaries (determined as of the last day of the most recent reported fiscal quarter of Dynavax) or revenues or net income in an amount equal to at least 5% of the amount of total consolidated revenues or net income of Dynavax and its Subsidiaries for the 12-month period ending on the last day of the most recent reported fiscal quarter of Dynavax.
+
+“Medical Discontinuation Event” means (a) as specified in each Protocol, those data that, if collected in such Protocol, demonstrate that such Protocol should not be continued or (b) a series of adverse events, side effects or other undesirable outcomes that, when collected in a Protocol, would cause a reasonable FDA Sponsor to discontinue such Protocol.
+
+“Membership Interest” means (i) for each LLC Agreement in which it appears, the meaning set forth in such LLC Agreement, and (ii) for each other Operative Document in which it appears, the meaning set forth in the Holdings LLC Agreement.
+
+“NASDAQ” means the National Association of Securities Dealers Automated Quotation System.
+
+“NDA” means a New Drug Application, as defined in the regulations promulgated by the United States Food and Drug Administration, or any foreign equivalent thereof.
+
+ 
+
+
+
+ 
+
+13
+
+Amended and Restated Purchase Option Agreement
+
+ 
+
+
+
+ 
+
+
+
+“Non-Dynavax Capital Transaction” means any (i) sale or other disposition of all or part of the Symphony Dynamo Shares or all or substantially all of the operating assets of symphony Dynamo, to a Person other than Dynavax or an Affiliate of Dynavax or (ii) distribution in kind of the Symphony Dynamo Shares following the expiration of the Purchase Option.
+
+“Non-Symphony Dynamo ISS” means any ISS that is (i) first made and tested for activity by Dynavax during the Term and (ii) designed to have significant activity with a target other than TLR-9, whether or not it also acts through TLR-9.
+
+“Novated and Restated Technology License Agreement” means the Novated and Restated Technology License Agreement, dated as of the Closing Date, among Dynavax, Symphony Dynamo and Holdings.
+
+“Operative Documents” means, collectively, the Indemnification Agreement, the Holdings LLC Agreement, the Purchase Option Agreement, the Warrant Purchase Agreement, the Registration Rights Agreement, the Subscription Agreement, the Technology License Agreement, the Novated and Restated Technology License Agreement, the RRD Services Agreement, the Research and Development Agreement, the Amended and Restated Research and Development Agreement, the Confidentiality Agreement, the Funding Agreement and each other certificate and agreement executed in connection with any of the foregoing documents.
+
+“Organizational Documents” means any certificates or articles of incorporation or formation, partnership agreements, trust instruments, bylaws or other governing documents.
+
+“Partial Stock Payment” has the meaning set forth in Section 3(a)(iii) of the Purchase Option Agreement.
+
+“Party(ies)” means, for each Operative Document or other agreement in which it appears, the parties to such Operative Document or other agreement, as set forth therein. With respect to any agreement in which a provision is included therein by reference to a provision in another agreement, the term “Party” shall be read to refer to the parties to the document at hand, not the agreement that is referenced.
+
+“Payment Terms” has the meaning set forth in Section 8.2 of the Amended and Restated Research and Development Agreement.
+
+“Percentage” has the meaning set forth in Section 1.01 of the Holdings LLC Agreement.
+
+“Permitted Investments” has the meaning set forth in Section 1.01 of the Holdings LLC Agreement.
+
+ 
+
+
+
+ 
+
+13
+
+Amended and Restated Purchase Option Agreement
+
+ 
+
+
+
+ 
+
+
+
+“Permitted Lien” has the meaning set forth in Section 1.01 of the Holdings LLC Agreement.
+
+“Person” means any individual, partnership (whether general or limited), limited liability company, corporation, trust, estate, association, nominee or other entity.
+
+“Personnel” of a Party means such Party, its employees, subcontractors, consultants, representatives and agents.
+
+“Prime Rate” means the quoted “Prime Rate” at JPMorgan Chase Bank or, if such bank ceases to exist or is not quoting a base rate, prime rate reference rate or similar rate for United States dollar loans, such other major money center commercial bank in New York City selected by the Manager.
+
+“Products” means Cancer Products, Hepatitis B Products and Hepatitis C Products.
+
+“Profit” has the meaning set forth in Section 1.01 of the Holdings LLC Agreement.
+
+“Program Option” has the meaning set forth in Section 11.1(a) of the Amended and Restated Research and Development Agreement.
+
+“Program Option Closing Date” has the meaning set forth in Section 11.1(b) of the Amended and Restated Research and Development Agreement.
+
+“Program Option Exercise Date” has the meaning set forth in Section 11.1(b) of the Amended and Restated Research and Development Agreement.
+
+“Program Option Exercise Notice” has the meaning set forth in Section 11.1(b) of the Amended and Restated Research and Development Agreement.
+
+“Program Option Period” has the meaning set forth in Section 11.1(a) of the Amended and Restated Research and Development Agreement.
+
+“Programs” means Cancer Program, Hepatitis B Program and Hepatitis C Program.
+
+“Protocol” means a written protocol that meets the substantive requirements of Section 6 of the ICH Guideline for Good Clinical Practice as adopted by the FDA, effective May 9, 1997 and is included within the Development Plan or later modified or added to the Development Plan pursuant to the Amended and Restated Research and Development Agreement.
+
+“Public Companies” has the meaning set forth in Section 5(e) of the Purchase Option Agreement.
+
+ 
+
+
+
+ 
+
+15
+
+Amended and Restated Purchase Option Agreement
+
+ 
+
+
+
+ 
+
+
+
+“Purchase Option” has the meaning set forth in Section 1(a) of the Purchase Option Agreement.
+
+“Purchase Option Agreement” means this Purchase Option Agreement dated as of the Closing Date, among Dynavax, Holdings and Symphony Dynamo.
+
+“Purchase Option Closing” has the meaning set forth in Section 2(a) of the Purchase Option Agreement.
+
+“Purchase Option Closing Date” has the meaning set forth in Section 2(a) of the Purchase Option Agreement.
+
+“Purchase Option Commencement Date” has the meaning set forth in Section 1(c)(iii) of the Purchase Option Agreement.
+
+“Purchase Option Exercise Date” has the meaning set forth in Section 2(a) of the Purchase Option Agreement.
+
+“Purchase Option Exercise Notice” has the meaning set forth in Section 2(a) of the Purchase Option Agreement.
+
+“Purchase Option Interim Date” has the meaning set forth in Section 2(b)(i) of the Purchase Option Agreement.
+
+“Purchase Option Period” has the meaning set forth in Section 1(c)(iii) of the Purchase Option Agreement.
+
+“Purchase Price” has the meaning set forth in Section 2(b) of the Purchase Option Agreement.
+
+“Put Option” has the meaning set forth in Section 2A of the Purchase Option Agreement.
+
+“Put Option Exercise Notice” has the meaning set forth in Section 2A of the Purchase Option Agreement.
+
+“QA Audits” has the meaning set forth in Section 6.5 of the Amended and Restated Research and Development Agreement.
+
+“Quarterly Price” has the meaning set forth in Section 2(b)(i) of the Purchase Option Agreement.
+
+“Regents” has the meaning set forth in Section 3.1 of the Novated and Restated Technology License Agreement.
+
+“Regents Agreement” has the meaning set forth in Section 3.1 of the Novated and Restated Technology License Agreement.
+
+ 
+
+
+
+ 
+
+16
+
+Amended and Restated Purchase Option Agreement
+
+ 
+
+
+
+ 
+
+
+
+“Registration Rights Agreement” means the Registration Rights Agreement dated as of the Closing Date, between Dynavax and Holdings.
+
+“Registration Statement” has the meaning set forth in Section 1(b) of the Registration Rights Agreement.
+
+“Regulatory Authority” means the United States Food and Drug Administration, or any successor agency in the United States, or any health regulatory authority(ies) in any other country that is a counterpart to the FDA and has responsibility for granting registrations or other regulatory approval for the marketing, manufacture, storage, sale or use of drugs in such other country.
+
+“Regulatory Allocation” has the meaning set forth in Section 3.06 of the Holdings LLC Agreement.
+
+“Regulatory Files” means any IND, NDA or any other filings filed with any Regulatory Authority with respect to the Programs.
+
+“Related Oncology Products Agreement” has the meaning set forth in Section 1 1.4 of the Amended and Restated Research and Development Agreement.
+
+“Replacement Warrant(s)” has the meaning set forth in Section 7.08 of the Warrant Purchase Agreement.
+
+“Representative” of any Person means such Person’s shareholders, principals, directors, officers, employees, members, managers and/or partners.
+
+“Research and Development Agreement” means the Research and Development Agreement dated as of the Closing Date, between Dynavax and Holdings.
+
+“Rhein” has the meaning set forth in Section 11.1(a) of the Amended and Restated Research and Development Agreement.
+
+“Rhein Sale Agreement” has the meaning set forth in Section 11.2(a) of the Amended and Restated Research and Development Agreement.
+
+“RRD” means RRD International, LLC, a Delaware limited liability company.
+
+“RRD Indemnified Party” has the meaning set forth in Section 10(a) of the RRD Services Agreement.
+
+“RRD Loss” has the meaning set forth in Section 10(a) of the RRD Services Agreement.
+
+“RRD Parties” has the meaning set forth in Section 9(e) of the RRD Services Agreement.
+
+ 
+
+
+
+ 
+
+17
+
+Amended and Restated Purchase Option Agreement
+
+ 
+
+
+
+ 
+
+
+
+“RRD Personnel” has the meaning set forth in Section I(a)(ii) of the RRD Services Agreement.
+
+“RRD Services Agreement” means the RRD Services Agreement between Symphony Dynamo and RRD, dated as the Closing Date, 2006.
+
+“Schedule K-1” has the meaning set forth in Section 9.02(a) of the Holdings LLC Agreement.
+
+“Scheduled Meeting” has the meaning set forth in Paragraph 6 of Annex B of the Amended and Restated Research and Development Agreement.
+
+“Scientific Discontinuation Event” has the meaning set forth in Section 4.2(c) of the Amended and Restated Research and Development Agreement.
+
+“SCP” means Symphony Capital Partners, L.P., a Delaware limited partnership.
+
+“SD Program Option” has the meaning set forth in Section 11.2(b) of the Amended and Restated Research and Development Agreement.
+
+“SD Program Option Exercise Notice” has the meaning set forth in Section 11.2(b) of the Amended and Restated Research and Development Agreement.
+
+“SEC” means the United States Securities and Exchange Commission.
+
+“Securities Act” means the Securities Act of 1933, as amended.
+
+“Selected ISS” means any ISS testing positive for stimulation of TLR-9 selected (i) for inclusion in the Development Plan or (ii) as a backup ISS, in each case pursuant to Paragraph 12 of the Development Committee Charter. Selected ISS may include sequences that subsequent to the Closing Date are shown to act through one or more additional mechanisms in addition to stimulation of TLR-9.
+
+“Shareholder” means any Person who owns any Symphony Dynamo Shares.
+
+“Solvent” has the meaning set forth in Section 1.01 of the Holdings LLC Agreement.
+
+“SSP” means Symphony Strategic Partners, LLC, a Delaware limited liability company.
+
+“Stock Payment Date” has the meaning set forth in Section 2 of the Subscription Agreement.
+
+ 
+
+
+
+ 
+
+18
+
+Amended and Restated Purchase Option Agreement
+
+ 
+
+
+
+ 
+
+
+
+“Stock Purchase Price” has the meaning set forth in Section 2 of the Subscription Agreement.
+
+“Subcontracting Agreement” has the meaning set forth in Section 6.2 of the Amended and Restated Research and Development Agreement.
+
+“Subscription Agreement” means the Subscription Agreement between Symphony Dynamo and Holdings, dated as the Closing Date.
+
+“Subsidiary” of any Person means any corporation, partnership, joint venture, limited liability company, trust or estate of which (or in which) more than 50% of (a) the issued and outstanding capital stock having ordinary voting power to elect a majority of the board of directors of such corporation (irrespective of whether at the time capital stock of any other class or classes of such corporation shall or might have voting power upon the occurrence of any contingency); (b) the interest in the capital or profits of such partnership, joint venture or limited liability company; or (c) the beneficial interest in such trust or estate is at the time directly or indirectly owned or controlled by such Person, by such person and one or more of its other Subsidiaries or by one or more of such Person’s other Subsidiaries.
+
+“Surviving Entity” means the surviving or resulting “parent” legal entity which is surviving entity to Dynavax after giving effect to a Change of Control.
+
+“Symphony Capital” means Symphony Capital LLC, a Delaware limited liability company.
+
+“Symphony Dynamo” means Symphony Dynamo, Inc., a Delaware corporation.
+
+“Symphony Dynamo Auditors” has the meaning set forth in Section 5(b) of the RRD Services Agreement.
+
+“Symphony Dynamo Board” means the board of directors of Symphony Dynamo.
+
+“Symphony Dynamo By-laws” means the By-laws of Symphony Dynamo, as adopted by resolution of the Symphony Dynamo Board on the Closing Date.
+
+“Symphony Dynamo Charter” means the Amended and Restated Certificate of Incorporation of Symphony Dynamo, dated as of the Closing Date.
+
+“Symphony Dynamo Director Event” has the meaning set forth in Section 3.01(h)(i) of the Holdings LLC Agreement.
+
+“Symphony Dynamo Enhancements” means findings, improvements, discoveries, inventions, additions, modifications, enhancements, derivative works, clinical development data, or changes to the Licensed Intellectual Property, Regulatory Files, ISSs, Products or the Programs, made by or on behalf of Symphony Dynamo during the Term, in each case whether or not patentable.
+
+ 
+
+
+
+ 
+
+19
+
+Amended and Restated Purchase Option Agreement
+
+ 
+
+
+
+“Symphony Dynamo Equity Securities” means the Common Stock and any other stock or shares issued by Symphony Dynamo.
+
+“Symphony Dynamo Loss” has the meaning set forth in Section 10(b) of the RRD Services Agreement.
+
+“Symphony Dynamo Shares” has the meaning set forth in Section 2.02 of the Holdings LLC Agreement.
+
+“Symphony Fund(s)” means Symphony Capital Partners, L.P., a Delaware limited partnership, and Symphony Strategic Partners, LLC, a Delaware limited liability company.
+
+“Tangible Materials” means any tangible documentation, whether written or electronic, existing as of the Closing Date or during the Term, that is Controlled by the Licensor, embodying the Licensed Intellectual Property, Regulatory Files, Products or the Programs, including, but not limited to, documentation, patent applications and invention disclosures.
+
+“Tax Amount” has the meaning set forth in Section 4.02 of the Holdings LLC Agreement.
+
+“Technology License Agreement” means the Technology License Agreement, dated as of the Closing Date, between Dynavax and Holdings.
+
+“Term” has the meaning set forth in Section 4(b)(iii) of the Purchase Option Agreement, unless otherwise stated in any Operative Document.
+
+“Territory” means the world.
+
+“Third Party IP” has the meaning set forth in Section 2.11 of the Novated and Restated Technology License Agreement.
+
+“Third Party Licensor” means a third party from which Dynavax has received a license or sublicense to Licensed Intellectual Property.
+
+“Transfer” has for each Operative Document in which it appears the meaning set forth in such Operative Document.
+
+“Transferee” has, for each Operative Document in which it appears, the meaning set forth in such Operative Document.
+
+“Voluntary Bankruptcy” has the meaning set forth in Section 1.01 of the Holdings LLC Agreement.
+
+ 
+
+
+
+ 
+
+20
+
+Amended and Restated Purchase Option Agreement
+
+ 
+
+
+
+ 
+
+
+
+“Warrant(s)” means the “Warrant” as defined in Section 2.01 of the Warrant Purchase Agreement, and/or any successor certificates exercisable for Warrant Shares issued by Dynavax.
+
+“Warrant Closing” has the meaning set forth in Section 2.03 of the Warrant Purchase Agreement.
+
+“Warrant Date” has the meaning set forth in Section 2.02 of the Warrant Purchase Agreement.
+
+“Warrant Purchase Agreement” means the Warrant Purchase Agreement, dated as of the Closing Date, between Dynavax and Holdings.
+
+“Warrant Shares” has the meaning set forth in Section 2.01 of the Warrant Purchase Agreement.
+
+“Warrant Surrender Price” has the meaning set forth in Section 7.08 of the Warrant Purchase Agreement.
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+21
+
+Amended and Restated Purchase Option Agreement
+
+ 
+
+
+
+ 
+
+
+
+EXHIBIT 1
+
+FORM OF PURCHASE OPTION EXERCISE NOTICE
+
+_____________, 20__
+
+Attention: ___________________
+
+Ladies and Gentlemen:
+
+Reference is hereby made to that certain Amended and Restated Purchase Option Agreement dated as of November 9, 2009 (the “Purchase Option Agreement”) by and among Dynavax Technologies Corporation, a Delaware corporation (“Dynavax”), Symphony Dynamo Holdings LLC, a Delaware limited liability company, and Symphony Dynamo, Inc., a Delaware corporation. Capitalized terms used herein and not otherwise defined herein shall have the meanings assigned thereto in the Purchase Option Agreement.
+
+Pursuant to Section 2(a) of the Purchase Option Agreement, Dynavax hereby irrevocably notifies you that it hereby exercises the Purchase Option.
+
+Subject to the terms set forth therein, Dynavax hereby affirms the representations and warranties set forth in Section 3(a) of the Purchase Option Agreement, as of the date hereof.
+
+Dynavax estimates that the Purchase Option Closing Date will be ____________.            
+
+ 
+
+
+
+ 
+
+Very truly yours,
+
+ 
+
+ 
+
+ 
+
+DYNAVAX TECHNOLOGIES CORPORATION
+
+ 
+
+ 
+
+
+
+By: 
+
+
+
+ 
+
+ 
+
+ 
+
+Name:
+
+Title:
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+Exhibit 1 to the
+
+Purchase Option Agreement
+
+ 
+
+
+
+ 
+
+
+
+EXHIBIT 2
+
+FORM OF DYNAVAX PROMISSORY NOTE
+
+[See Attached]
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Exhibit 2 to the
+
+Purchase Option Agreement
+
+ 
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+ 
+
+EXHIBIT 3
+
+FORM OF STANDSTILL AND CORPORATE GOVERNANCE LETTER AGREEMENT
+
+[See Attached]
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Exhibit 3 to the
+
+Purchase Option Agreement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+EXHIBIT 4
+
+FORM OF WARRANT PURCHASE AGREEMENT
+
+[See Attached]
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+Exhibit 4 to the
+
+Amended and Restated Purchase Option Agreement

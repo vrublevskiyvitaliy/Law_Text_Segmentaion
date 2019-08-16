@@ -1,0 +1,1171 @@
+Exhibit 1.1
+
+PORTIONS OF SCHEDULE 4.9 TO THIS EXHIBIT, WHICH ARE INDICATED BY “[***]”, HAVE BEEN OMITTED PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION.
+
+SECURITIES INVESTMENT AND SUBSCRIPTION AGREEMENT
+
+THIS SECURITIES INVESTMENT AND SUBSCRIPTION AGREEMENT, dated as of August   , 2009 (this “Agreement”), is by and between Think Holdings AS, a Norwegian limited liability company, with corporate registration number 992 714 344 (the “Company”), and each of the parties whose names appear on the signature pages hereof. Such parties, and their permitted successors and assigns, all as identified on Exhibit A are each referred to herein as an “Investor” and, collectively, as the “Investors”.
+
+A. This Agreement contemplates the issuance by the Company to the Investors of approximately 30,000,000 shares of its Series B Convertible Preferred Stock, having a nominal value of NOK 1.00 per share (the “Series B Preferred Stock”), for a subscription price of NOK 10.00 per share.
+
+B. The issuance of the Series B Preferred Stock will be made in up to three closings, provided that (i) the initial closing shall raise no less than the NOK equivalent of USD 15,000,000 in cash, and (ii) contemporaneously with the initial closing, and in connection with the conversion of rights being issued by the Company under the Restructuring Transactions (as defined below), there will be additional issuances of up to approximately (x) 6,810,908 shares of Series B Preferred Stock, (y) 12,958,577 shares of the Company’s Series A Convertible Preferred Stock, having a nominal value of NOK 1.00 per share (the “Series A Preferred Stock”), and (z) up to 698,627 shares of the Company’s common stock, having a nominal value of NOK 1.00 per share (the “Common Stock”). Each Investor has committed to subscribe for the percentage set forth opposite its name on Exhibit A of the total number of shares of Series B Preferred Stock offered by the Company in each of the three closings. This Agreement shall not in any respect prevent the Company from raising further capital, through a share offering or otherwise.
+
+C. The terms of the Common Stock, Series A Preferred Stock and the Series B Preferred Stock are set forth in the Company’s Articles of Association, a copy of which is annexed hereto as Exhibit B (the “Articles of Association”). The terms of the Series B Preferred Stock will include, among other things, (i) a priority in liquidation that is senior to all other capital stock of the Company, including the Series A Preferred Stock, (ii) an annual cumulative cash dividend of NOK 1.00, (iii) a liquidation preference equal to two times the sum of its subscription price and accrued and unpaid dividends, (iv) two votes per share, and (v) cash redemption rights. The Series B Preferred Stock will be convertible into Common Stock. The shares of Common Stock into which Series B Preferred Stock are convertible are sometimes referred to herein as the “Conversion Shares”.
+
+D. On or prior to the earlier of (i) the third and final closing hereunder and (ii) the date on which the Company is no longer permitted to request an additional closing hereunder, the Company will, as a commitment fee, subject to obtaining the necessary corporate actions, corporate documents and corporate resolutions, issue to each Investor a warrant exercisable for Series B Preferred Stock (each, a “Series B Warrant” and collectively, the “Series B Warrants”) if the Company has failed to sell to such Investor all of the Series B Preferred Stock for which such Investor committed to subscribe. Each Series B Warrant issuable to an Investor will be exercisable for 50% of the difference between the number of shares of Series B Preferred Stock for which such Investor committed to subscribe and the number of shares actually sold by the Company to such Investor. Each Series B Warrant will have a per share exercise price of NOK 10.00, a five year term and such other terms described on Exhibit C.
+
+E. On or prior to the earlier of (i) the third and final closing hereunder and (ii) the date on which the Company is no longer permitted to request an additional closing hereunder, the Company will, subject to obtaining the necessary corporate actions, corporate documents and corporate resolutions, issue to each of (x) Vision Ridge Partners LLC (“Vision Ridge”), (y) Ener1, Inc. (“Ener1”) and (z) Novus Energy Partners LLC (together with Rebelijo AS, “Novus”) a warrant exercisable for Series B Preferred Stock for no additional consideration (each, an “ATVM Warrant”) if such Investor (Vision Ridge, Ener1 or Novus) has purchased at least the NOK equivalent of approximately USD 1,000,000 of Series B Preferred Stock hereunder. Each ATVM Warrant issuable to such Investor will be exercisable for a number of shares of Series B Preferred Stock equal to 1% of the outstanding capital (determined as of the date on which the resolution to issue the ATVM Warrants are adopted) on a fully diluted basis (such percentage calculated assuming the closing of not less than NOK 270,000,000 worth of Series B Preferred Stock with subscription price of NOK 10.00, provided that such Investor will not be permitted to exercise its ATVM Warrant unless and until the Company obtains financing through the United States Department of Energy’s Advanced Technology Vehicle Manufacturing loan program (the “ATVM Loan Program”). The ATVM Warrants will have a per share exercise price of NOK 10.00, a term of five years from the date of the resolution by the general meeting of the Company to issue the ATVM Warrants, and such other terms described on Exhibit D. The Series B Warrants and ATVM Warrants are sometimes collectively referred to herein as the “Warrants”, and the Series B Preferred Stock for which the Warrants are exercisable are sometimes referred to herein as the “Warrant Shares”.
+
+F. The issuance and sale of the Series B Preferred Stock, Conversion Shares, Warrants and Warrant Shares (collectively, the “Securities”) by the Company to U.S. Investors shall be effected in reliance upon the exemption from securities registration afforded by the provisions of Regulation D (“Regulation D”), as promulgated by the U.S. Securities and Exchange Commission under the U.S. Securities Act of 1933, as amended.
+
+G. In addition to the transactions contemplated by this Agreement, the following transactions shall occur (such transactions, the “Restructuring Transactions”):
+
+
+
+ 
+
+1.
+
+ 
+
+Not less than 67% of the existing shareholders of Think Global will enter into a declaration to exchange their shares in Think Global for Common Stock, and the equity interests of the existing shareholders that do not exchange their shares will, after giving effect to the contemplated equity issuances by Think Global to the Company, be substantially diluted;
+
+
+
+ 
+
+2.
+
+ 
+
+The convertible bondholders of Think Global will enter into a declaration to exchange their convertible bonds for Series A Preferred Stock and waive their rights under their Think Global warrants in exchange for new warrants to be issued by the Company;
+
+
+
+ 
+
+3.
+
+ 
+
+The emergency bridge lenders of Think Global will enter into a declaration to either (i) exchange their bridge loans for up to approximately 5,307,208 shares of Series B Preferred Stock, or (ii) continue as lenders under the emergency bridge with extended maturity to 31 December 2009, and waive their rights under their Think Global warrants in exchange for new Series B Warrants to be issued by the Company (provided that Richard Canny’s participation in such bridge loan of approximately USD 150,000 shall be repaid and not converted into Series B Preferred Stock, and such participation amount shall be repaid to Mr. Canny on or promptly after the first closing);
+
+
+
+ 
+
+4.
+
+ 
+
+The former shareholders of Think NA will enter into a declaration to exchange their convertible receivable against Think Global, following the settlement for the sale of their capital stock of Think NA to Think Global, in consideration for up to approximately 1,503,700 shares of Series A Preferred Stock and 1,503,700 shares of Series B Preferred Stock (the former shareholders of Think NA will, instead of Series A Preferred Stock, receive Series B Preferred Stock in the event the relevant former shareholders of Think NA participates as an investor purchasing a minimum of USD 1,500,000 worth of Series B Preferred Stock);
+
+
+
+ 
+
+5.
+
+ 
+
+Think Global and Ener1 will enter into a battery supply agreement; and
+
+
+
+ 
+
+6.
+
+ 
+
+Think Global and Valmet Automotive Inc. (“Valmet”) will enter into a manufacturing agreement.
+
+In consideration of the mutual promises made herein and other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the Company and the Investors hereby agree as follows:
+
+1. TERMINOLOGY AND USAGE.
+
+1.1 Definitions. When used herein, the terms below shall have the respective meanings indicated:
+
+“Affiliate” means, as to any Person (the “subject Person”), any other Person (a) that directly or indirectly through one or more intermediaries controls or is controlled by, or is under direct or indirect common control with, the subject Person, (b) that directly or indirectly beneficially owns or holds ten percent (10%) or more of any class of voting equity of the subject Person, or (c) ten percent (10%) or more of the voting equity of which is directly or indirectly beneficially owned or held by the subject Person. For the purposes of this definition, “control” when used with respect to any Person means the power to direct the management and policies of such Person, directly or indirectly, whether through the ownership of voting securities, through representation on such Person’s board of directors or other management committee or group, by contract or otherwise.
+
+“Board of Directors” means the Company’s Board of Directors, as constituted from time to time.
+
+“Business Day” means any day other than a Saturday, a Sunday or other day on which commercial banks located in Norway are authorized or permitted by law to be closed.
+
+“Closing Date” means the First Closing Date and each Additional Closing Date, as the context requires.
+
+“Commitment Percentage” means, with respect to a Holder, the percentage set forth opposite such Holder’s name on Exhibit A under the column titled “Commitment Percentage”. If a Holder transfers any of its Series B Preferred Stock, the Commitment Percentage of such Holder shall remain as such Holder’s sole liability.
+
+“Company Subsidiary” means Think Global, Think NA, Think Technology AS and any Person that is a Subsidiary of the Company.
+
+“Execution Date” means the date of this Agreement.
+
+“Governmental Authority” means any nation or government, any state, provincial or political subdivision thereof and any entity exercising executive, legislative, judicial, regulatory or administrative functions of or pertaining to government, including, without limitation, any stock exchange, securities market and self-regulatory organization.
+
+“Governmental Requirement” means any law, statute, code, ordinance, order, rule, regulation, judgment, decree, injunction, franchise, license or other directive or requirement of any federal, state, county, municipal, parish, provincial, foreign or other Governmental Authority or any department, commission, board, court, agency or any other instrumentality of any of them.
+
+“Holder” shall initially mean the Investors, provided that any Person that (i) subsequently holds any Securities and (ii) is also party to this Agreement shall also be deemed a Holder.
+
+“Lien” means, with respect to any property, any mortgage, pledge, hypothecation, assignment, deposit arrangement, security interest, tax lien, financing statement, pledge, charge, or other lien, charge, easement, encumbrance, preference, priority or other security agreement or preferential arrangement of any kind or nature whatsoever on or with respect to such property (including, without limitation, any conditional sale or other title retention agreement having substantially the same economic effect as any of the foregoing).
+
+“Person” means any individual, corporation, trust, association, company, partnership, joint venture, limited liability company, joint stock company, Governmental Authority or other entity.
+
+“Qualified Public Offering” means a firm commitment underwritten public offering of not less than NOK 250,000,000 in Common Stock at a per share offering price of not less than NOK 40.00 (as adjusted for stock splits, stock dividends, reverse stock splits and similar events).
+
+“Requisite Holders” means, as of a date of determination, Holders holding at least two-thirds of the aggregate number of Conversion Shares and Warrant Shares held by all Holders (determined on an “as-converted” and “as exercised” basis).
+
+“Requisite Investors” means, as of a date of determination, Holders holding at least two-thirds of the aggregate Commitment Percentage that remains undrawn as of such date.
+
+“Securities Act” means the Securities Act of 1933 (as amended, and the rules and regulations promulgated thereunder).
+
+“Shareholders Agreement” means the Shareholders Agreement to be entered into by each holder of Series B Preferred Stock (and if such holder is also a holder of Series A Preferred Stock, then such holder shall also enter into the Shareholders Agreement in its capacity as a holder of Series A Preferred Stock), contemporaneously with the First Closing, as may be amended, modified and supplemented from time to time.
+
+“Subsidiary” means, with respect to any Person, any corporation or other entity of which at least a majority of the outstanding shares of stock or other ownership interests having by the terms thereof ordinary voting power to elect a majority of the board of directors (or Persons performing similar functions) of such corporation or entity is at the time directly or indirectly owned or controlled by such Person or one or more of its Subsidiaries or by such Person and one or more of its Subsidiaries.
+
+“Termination Date” means the earlier of (i) the date on which there is no more Series B Preferred Stock or Series B Warrants outstanding and (ii) the date on which a Qualified Public Offering is resolved by the Company or a successor to the Company.
+
+“Transaction Documents” means (i) this Agreement, (ii) the Warrants, (iii) the Articles of Association, (iv) the Shareholders Agreement, and (v) all other agreements, documents and other instruments executed and delivered by or on behalf of the Company or any of its respective officers in connection with the transactions contemplated under this Agreement, provided that the parties hereto acknowledge that the Company is not a party to the Shareholders Agreement and therefore references herein to the Transaction Documents that pertain to the Company shall not be deemed to include the Shareholders Agreement.
+
+1.2 Definitional Cross-References. Each of the following additional terms shall have the meaning defined for such term in the Section or Transaction Document set forth opposite such term below:
+
+“Additional Closing” Section 2.3(a)“Additional Closing Date” Section 2.3(a)
+
+“Additional Closing Notice” Section 2.3(b)“Agreement” Preamble
+
+
+
+ 
+
+ 
+
+ 
+
+“Articles of Association”
+
+“ATVM Loan Program”
+
+“ATVM Warrants”
+
+“Common Stock”
+
+ 
+
+Recitals
+
+Recitals
+
+Recitals
+
+Recitals
+
+“Company” Preamble“Conversion Shares” Recitals
+
+“Ener1” Recitals“First Closing” Section 2.1“First Closing Date” Section 2.1“Holder Party” Section 6“Investors” Preamble
+
+“Novus” Recitals
+
+“Regulation D” Recitals“Restructuring Transactions” Recitals“Securities” Recitals
+
+“Series A Preferred Stock” Recitals“Series B Preferred Stock” Recitals
+
+“Series B Warrants” Recitals
+
+“Think Global” Recitals“Think NA” Recitals“U.S. Person” Section 3.2
+
+“Valmet” Recitals
+
+“Vision Ridge” Recitals“Warrants” Recitals“Warrant Shares” Recitals
+
+1.3 Other Definitional Provisions. All definitions contained in this Agreement are equally applicable to the singular and plural forms of the terms defined. The words “hereof”, “herein” and “hereunder” and words of similar import contained in this Agreement refer to this Agreement as a whole and not to any particular provision of this Agreement.
+
+1.4 Adjustments for Stock Splits, Reverse Stock Splits and Other Events. The number of shares to be sold, any per share sales price, conversion rate or exercise price; all as stated herein, are subject to proportional adjustments for stock splits, reverse stock splits, and similar events, as well as further adjustments that may be made under the Articles of Association and the Warrants.
+
+2. ISSUANCE AND SUBSCRIPTION OF SHARES OF SERIES B PREFERRED STOCK.
+
+2.1 First Closing. Upon the terms and subject to the satisfaction or waiver of the conditions set forth in Section 2.2, the Company agrees to issue to each Investor, and such Investor agrees to subscribe from the Company the number of shares of Series B Preferred Stock determined by such Investor’s Commitment Percentage of the total number of shares of Series B Preferred Stock being issued in the first closing, at a per share subscription price of NOK 10.00 (the “First Closing”). The First Closing shall occur on or about September, 4 2009, after the Norwegian courts have approved the creditor arrangement entered into by Think Global and its Affiliates which approval is expected to take place on or about August 31, 2009, and shall in no event occur later than September 30, 2009. The Restructuring Transactions shall be resolved at or prior to the First Closing. The date on which the First Closing occurs is hereinafter referred to as the “First Closing Date”.
+
+2.2 Conditions to the First Closing.
+
+(a) Conditions to Each Investor’s Obligations at the First Closing. Each Investor’s obligations to effect the First Closing, including, without limitation, its obligation to subscribe for Series B Preferred Stock at the First Closing, are conditioned upon the fulfillment (or waiver by such Investor in its sole and absolute discretion) of each of the following events as of the First Closing Date, and the Company shall use commercially reasonable efforts to cause each of such conditions to be satisfied:
+
+(i) the representations and warranties of the Company set forth in this Agreement shall be true and correct in all material respects as of such date as if made on such date; provided, however, that (x) any representation or warranty relating to a particular date shall only need to be true and correct in all material respects as of such particular date, and (y) if any representation or warranty is not true or correct in all material respects, (1) the Company shall have submitted a certificate to such Holder disclosing all material inaccuracies or omissions in such representation or warranty, (2) the Requisite Investors shall have deemed, in their sole and absolute discretion, the representation or warranty, as so qualified by such certificate, to be acceptable, and (3) such certificate shall be deemed an amendment under this Agreement to such representation or and warranty;
+
+(ii) the Company shall have complied with or performed in all material respects all of the agreements, obligations and conditions set forth in this Agreement and in the other Transaction Documents that are required to be complied with or performed by the Company on or before the First Closing;
+
+(iii) there shall be no injunction, restraining order or decree of any nature of any court or Governmental Authority of competent jurisdiction that is in effect that restrains or prohibits the consummation of the transactions contemplated hereby and by the other Transaction Documents;
+
+(iv) the Company shall have executed and delivered to such Investor the Transaction Documents required to be delivered by it on the First Closing; and
+
+(v) the Company shall have delivered to such Investor (x) a copy of the Company’s Articles of Association, and (y) a certificated copy of the resolutions passed by the Board of Directors authorizing all of the transactions contemplated by the Transaction Documents to which the Company is a party.
+
+(b) Conditions to the Company’s Obligations at the First Closing The Company’s obligations to effect the First Closing with an Investor are conditioned upon the fulfillment (or waiver by the Company in its sole and absolute discretion) of each of the following events as of the Closing Date:
+
+(i) the representations and warranties of such Investor set forth in this Agreement shall be true and correct in all material respects as of such date as if made on such date (except that to the extent that any such representation or warranty relates to a particular date, such representation or warranty shall be true and correct in all material respects as of that date);
+
+(ii) such Investor shall have complied with or performed all of the agreements, obligations and conditions set forth in this Agreement that are required to be complied with or performed by such Investor on or before the First Closing;
+
+(iii) there shall be no injunction, restraining order or decree of any nature of any court or Governmental Authority of competent jurisdiction that is in effect that restrains or prohibits the consummation of the transactions contemplated hereby and by the other Transaction Documents;
+
+(iv) such Investor shall have executed each Transaction Document to which it is a party and shall have delivered the same to the Company (including a duly executed application form for the Series B Preferred Stock being subscribed by it at the First Closing);
+
+(v) such Investor shall have paid to the Company (or into in escrow account established on behalf of the Company) the subscription price for the Series B Preferred Stock being subscribed by it at the First Closing, provided that Ener1 shall be permitted to subscribe for its commitment amount of the Series B Preferred Stock in two installments so long as (i) not less than 50% of its commitment for the First Closing is funded at the First Closing, and (ii) the remaining 50% of its commitment amount for the First Closing is funded on or prior to November 1, 2009 (the Investors shall vote in favor of all required corporate resolutions of the Company with respect to the issuance of the Series Preferred B Stock to Ener1 at such later stage in order to fulfill this obligation);
+
+(vi) to the extent requested by the Company, such Investor shall have delivered to the Company the information necessary to register such Investor’s Series B Preferred Stock at such Investor’s account in the Norwegian Securities Depository Verdipapirsentralen; and
+
+(vii) the Company shall have received the requisite corporate resolutions and other documents necessary for it to duly and validly issue the Series B Preferred Stock hereunder, including, without limitation, the approval of the First Closing at a general meeting of the Company’s shareholders and the confirmation by the Company’s auditor that the share capital increase has been paid in full.
+
+2.3 Additional Closings; Issuance of Warrants.
+
+(a) General. Upon the resolution approved by all of the members of the Board of Directors, the Company shall, subject to obtaining the necessary corporate actions, corporate documents and corporate resolutions, effectuate up to two additional issuances of Series B Preferred Stock in which the Investors shall have an obligation to subscribe for Series B Preferred Stock in accordance with Section 2.3 and Section 2.4 below (each such additional issuance is referred to as an “Additional Closing”). If less than all of the members of the Board of Directors approve a proposed Additional Closing, no Investor shall be under any obligation (but may elect at its sole discretion) to participate in such Additional Closing hereunder. The date on which an Additional Closing occurs is hereinafter referred to as an “Additional Closing Date”. Each Additional Closing shall be deemed to occur when the conditions to such Additional Closing specified in Section 2.4 shall have all been satisfied or waived as specified therein. The Investors shall vote in favor of all required corporate resolutions in the Company in order to issue the Series Preferred B Stock and the Warrants described in Recitals D and E in order to fulfill such Additional Closings.
+
+(b) Initiating an Additional Closing. In order to initiate an Additional Closing, the Company shall send a written request to all of the Holders (an “Additional Closing Notice”), stating the total number of shares Series B Preferred Stock to be issued and the anticipated closing date of such Additional Closing.
+
+(c) Holder Commitment for Each Additional Closing. Following delivery of an Additional Closing Notice, and upon the terms and subject to the satisfaction or waiver of the conditions set forth in Section 2.4 , the Company agrees to issue to each Holder, and such Holder agrees to subscribe from the Company, the number of shares Series B Series B Preferred Stock determined by such Holder’s Commitment Percentage of the number of shares of Series B Preferred Stock being issued in each Additional Closing at a per share subscription price of NOK 10.00, provided that no Holder shall be required to effectuate an Additional Closing (w) less than 90 days of the First Closing Date or a preceding Additional Closing Date, (x) less than 30 days from the date on which such Holder received an Additional Closing Notice, (y) if such Holder received an Additional Closing Notice at any time after the one year anniversary of the First Closing Date; or (z) that closes after the 30th day following the one year anniversary of the First Closing Date (unless such closing was delayed solely as a result of such Holder’s failure to timely satisfy the conditions required to be satisfied by such Holder under Section 2.4(b)).
+
+(d) Issuance of Warrants. On or prior to the earlier of (i) the second Additional Closing and (ii) the date on which the Company is no longer permitted to request an Additional Closing, the Company shall take all actions necessary to issue the Warrants as and to the extent described under Recitals D and E.
+
+2.4 Conditions to Each Additional Closing.
+
+(a) Conditions to Each Holder’s Obligations at an Additional Closing. Each Holder’s obligations to effect an Additional Closing, including, without limitation, its obligation to subscribe for Series B Preferred Stock at such Additional Closing, are conditioned upon the fulfillment (or waiver by such Holder in its sole and absolute discretion) of each of the conditions set forth in Section 2.2(a), provided that references to the “First Closing” and “First Closing Date” in such sections shall be deemed to mean the applicable Additional Closing and Additional Closing Date, respectively, and the Company shall use commercially reasonable efforts to cause each of such conditions to be satisfied. In addition to the foregoing, as a condition to the second Additional Closing, the Company shall have issued the Warrants to the Holders as and to the extent described under Recitals D and E.
+
+(b) Conditions to the Company’s Obligations at an Additional Closing. The Company’s obligations to effect an Additional Closing with a Holder are conditioned upon the fulfillment (or waiver by the Company in its sole and absolute discretion) of each of the following events as of the applicable Additional Closing Date:
+
+(i) the conditions set forth in Sections 2.2(b)(i) – (iv) and (vi) – (vii), provided that references to the “First Closing” and “First Closing Date” in such sections shall be deemed to mean the applicable Additional Closing and Additional Closing Date, respectively; and
+
+(ii) such Holder shall have paid to the Company the subscription price for the Series B Preferred Stock being subscribed by such Holder at such Additional Closing (provided, that Ener1 may effectuate its subscription in installments in a manner similar to the First Closing).
+
+2.5 Post-Closing Obligations. The Company shall, promptly following the First Closing and each Additional Closing, but in no event later than 7 days after the applicable closing, deliver to each Holder a certificate of incorporation from the Norwegian Register of Business Enterprises stating the new share capital of the Company, and, if requested by a Holder, promptly assist such Holder in verifying the number and type of the Company’s securities registered in such Holder’s name.
+
+2.6 Claw-Back Rights. If a Holder fails to fulfill its obligation to effectuate a Closing, and such failure is not caused by a breach by the Company of its obligations hereunder, the Company shall send written notice of such failure to such Holder. If such Holder fails to effectuate the applicable Closing within 10 Business Days of receiving such notice, such Holder shall be deemed to have breached its investment commitment hereunder, and all of its Series B Preferred Stock shall be automatically converted into Common Stock, subject to the Company obtaining the necessary corporate resolutions from its shareholders for such conversion, and such Holder shall thereafter cease to have any rights as a holder of Series B Preferred Stock.
+
+3. REPRESENTATIONS AND WARRANTIES OF EACH HOLDER.
+
+Each Holder (with respect to itself only) hereby represents and warrants to the Company and agrees with the Company that, as of the Execution Date:
+
+3.1 Authorization; Enforceability. Such Holder, if an entity, is duly and validly organized, validly existing and in good standing under the laws of its formation with the requisite corporate power and authority to subscribe for the Securities to be subscribed by it hereunder and to execute and deliver this Agreement and the other Transaction Documents to which it is a party. This Agreement constitutes, and upon execution and delivery thereof, each other Transaction Document to which such Holder is a party shall constitute, such Holder’s valid and legally binding obligation, enforceable in accordance with its terms, subject to (i) applicable bankruptcy, insolvency, fraudulent transfer, reorganization, moratorium or other similar laws of general application relating to or affecting the enforcement of creditors’ rights generally and (ii) general principles of equity.
+
+3.2 U.S. Investor. If such Holder is a U.S. Person (as defined below), such Holder (i) is an “accredited investor” as that term is defined in Rule 501 of Regulation D, (ii) was not formed or organized for the specific purpose of making an investment in the Company, and (iii) is acquiring the Securities solely for its own account and not with a present view to the public resale or distribution of all or any part thereof, except pursuant to sales that are registered under, or exempt from the registration requirements of, the Securities Act and/or sales registered under the Securities Act; provided, however, that in making such representation, such Holder does not agree to hold the Securities for any minimum or specific term and reserves the right to sell, transfer or otherwise dispose of the Securities at any time in accordance with the provisions of this Agreement and with federal and state securities laws applicable to such sale, transfer or disposition. As used herein, a “U.S. Person” means: (i) any natural person resident in the United States; (ii) any partnership or corporation organized or incorporated under the laws of the United States; (iii) any estate of which any executor or administrator is a U.S. Person; (iv) any trust of which any trustee is a U.S. Person; (v) any agency or branch of a foreign entity located in the United States; (vi) any non-discretionary account or similar account (other than an estate or trust) held by a dealer or other fiduciary for the benefit or account of a U.S. Person; (vii) any discretionary account or similar account (other than an estate or trust) held by a dealer or other fiduciary organized, incorporated, or (if an individual) resident in the United States; and (viii) any partnership or corporation if: (x) organized or incorporated under the laws of any foreign jurisdiction; and (y) formed by a U.S. Person principally for the purpose of investing in securities not registered under the Securities Act, unless it is organized or incorporated, and owned, by “accredited investors” as that term is defined in Rule 501 of Regulation D who are not natural persons, estates or trusts.
+
+3.3 Non U.S. Investor. If such Holder is a Not a U.S. Person, the sale of the Securities by the Company to such Holder will not (i) violate any Governmental Requirements applicable to such sale, and (ii) require any filing, notice, registration or any other action by the Company under any Governmental Requirements applicable to such sale, except for such filings, notices, registrations and other actions which such Holder has in writing requested the Company to make and which has been accepted by the Company.
+
+3.4 Information; Economic Risk. The Company has, prior to the date on which it is issuing Securities under this Agreement, provided to such Holder information regarding the business, operations and financial condition of the Company and has, prior to the date on which it is issuing Securities under this Agreement, granted such Holder the opportunity to ask questions of and receive answers from representatives of the Company, its officers, directors, employees and agents concerning the Company in order for such Holder to make an informed decision with respect to its investment in such Securities. Neither such information nor any other investigation conducted by such Holder or any of its representatives shall modify, amend or otherwise affect such Holder’s right to rely on the Company’s representations and warranties contained in this Agreement. Such Holder can bear the economic risk of a total loss of its investment in the Securities and has such knowledge and experience in business and financial matters so as to enable it to understand the risks of and form an investment decision with respect to its investment in the Securities.
+
+3.5 Limitations on Disposition. Such Holder acknowledges that, except as contemplated in this Agreement, the Securities have not been and are not being registered under the Securities Act (or any other Governmental Requirements that would enable the public distribution of the Securities) and may not be transferred or resold to any other Person without the requisite registration under applicable Governmental Requirements or pursuant to an exemption therefrom.
+
+3.6 Reliance on Exemptions. Such Holder understands that the Securities are being offered and sold to it in reliance upon specific exemptions from the registration requirements of certain Governmental Requirements and that the Company is relying upon the truth and accuracy of the representations and warranties of such Holder set forth in this Section 3 in order to determine the availability of such exemptions and the eligibility of such Holder to acquire the Securities. Such Holder acknowledges that it did not subscribe for the Securities based upon any advertisement in any publication of general circulation.
+
+3.7 Non-Affiliate Status. Such Holder is not an Affiliate of the Company and is not acting in association or concert with any other Person in regard to its subscription of the Securities or otherwise in respect of the Company.
+
+3.8 Fees. Such Holder has not agreed to pay any compensation or other fee, cost or related expenditure to any underwriter, broker, agent or other representative in connection with the transactions contemplated hereby.
+
+3.9 No Conflicts. The execution and performance of this Agreement and the other Transaction Documents to which such Holder is a party do not conflict in any material respect with any agreement to which such Holder is a party or is bound, any court order or judgment applicable to such Holder, or the constituent documents of such Holder.
+
+3.10 No Governmental Review. Such Holder understands that no Governmental Authority has passed on or made any recommendation or endorsement of the Securities or the fairness or suitability of an investment in the Securities nor have such authorities passed upon the accuracy of any information provided to such Holder or made any findings or determinations as to the merits of the offering of the Securities.
+
+4. REPRESENTATIONS AND WARRANTIES OF THE COMPANY. The Company hereby represents and warrants to each Holder and agrees with such Holder that, as of the Execution Date:
+
+4.1 Organization, Good Standing and Qualification. The Company is duly organized, validly existing and in good standing under the laws of Norway, and has all requisite power and authority to carry on its business as now or proposed to be conducted.
+
+4.2 Authorization; Consents. The Company has the requisite corporate power and authority to enter into and perform its obligations under the Transaction Documents, including, without limitation, the issuance of the Securities to the Holders in accordance with the terms hereof and thereof.
+
+4.3 Enforcement. This Agreement has been and, at or prior to each Closing Date, each other Transaction Document required to be delivered by the Company on such date shall be, duly executed and delivered by the Company. This Agreement constitutes and, upon the execution and delivery thereof by the Company, each other Transaction Document shall constitute, the valid and legally binding obligation of the Company, enforceable against the Company in accordance with their respective terms, subject to (i) applicable bankruptcy, insolvency, fraudulent transfer, moratorium, reorganization or other similar laws of general application relating to or affecting the enforcement of creditors’ rights generally and (ii) general principles of equity.
+
+4.4 Capitalization; Company Subsidiaries.
+
+(a) Capitalization. The capitalization of the Company as of the Execution Date, and the pro forma capitalization of the Company after giving effect to each Closing, including the number of shares issued and outstanding, the additional shares which may be issued subject to power of attorney granted to the Board of Directors (hereunder any power of attorney granted for the purpose of issuing shares pursuant to the Company’s stock compensation plan and any other equity compensation or incentive plans, and the number of shares issuable pursuant to securities (other than the Securities) payable in, exercisable, exchangeable or redeemable for or convertible into any shares of Common Stock are all set forth on Schedule 4.4(a) on an indicative basis.
+
+(b) Company Subsidiaries. Except with respect to the shares of Think Global held by its shareholders that do not agree to exchange their Think Global shares for Common Stock, which shares represent 33% or less of the outstanding capital stock of Think Global prior to the First Closing, the Company shall own all of the outstanding share capital of Think Global. Schedule 4.4(b) sets forth all of the Company Subsidiaries after giving effect to the First Closing. Except as disclosed on Schedule 4.4(b), after giving effect to the First Closing, the Company or a wholly-owned Company Subsidiary will own all of the share capital of each Company Subsidiary.
+
+4.5 Due Authorization; Valid Issuance. The Securities are duly authorized and, when issued, delivered in accordance with the terms of the Transaction Documents, shall be duly and validly issued, free and clear of any Liens imposed by or through the Company. Assuming the accuracy of each Holder’s representations contained herein, the issuance of the Securities under this Agreement shall be effected in compliance with all applicable Governmental Requirements.
+
+4.6 No Conflict. The execution, delivery and performance of this Agreement and the other Transaction Documents shall not (i) violate the Company’s articles of association or any other organizational document, or (ii) violate any Governmental Requirement applicable to the Company.
+
+4.7 Compliance with Laws; Litigation. The Company is not in violation of (and no event has occurred which, with notice or lapse of time or both, would constitute a violation under) any applicable Governmental Requirement. No material claim, investigation or proceeding is pending or, to the Company’s knowledge threatened, against the Company.
+
+4.8 Solicitation; Other Issuances of Securities. Neither the Company nor any of its Affiliates, nor any Person acting on its or their behalf, (i) has engaged in any form of general solicitation or general advertising (within the meaning of Regulation D) in connection with the offer or sale of the Securities, or (ii) has, directly or indirectly, made any offers or sales of any security or the right to purchase or subscribe for any security, or solicited any offers to buy any security or any such right, under circumstances that would require registration of the Securities under the Securities Act.
+
+4.9 Fees. Except as set forth on Schedule 4.9, neither the Company nor any Company Subsidiary is obligated to pay any brokers, finders or financial advisory fees or commissions to any underwriter, broker, agent or other representative in connection with the transactions contemplated hereby.
+
+5. COVENANTS AND AGREEMENTS OF THE COMPANY AND HOLDERS.
+
+5.1 Use of Proceeds. The Company shall use the proceeds from the subscription of Series B Preferred Stock to subscribe for Think Global share capital and for general working capital purposes. The Company shall not make any other use of proceeds without the consent of the Board of Directors.
+
+5.2 Board Composition. The Board of Directors shall initially consist of six members, with two members to be designated by Ener1, one member to be designated by Rockport Capital Partners, one member to be designated by Valmet, one member to be designated by Investinor AS, and the final member to be Mr. Reidar Langmo. The foregoing shall be embodied in the Shareholders Agreement as the obligations pursuant to this Section 5.2 apply only to the Holders.
+
+5.3 Additional Affirmative Covenants of the Company. The Company agrees that, during the period beginning on the Execution Date and ending on the Termination Date, the Company shall, and to the extent legally permitted, shall cause the Company Subsidiaries to:
+
+(a) maintain its corporate existence in good standing;
+
+(b) comply with all material Governmental Requirements applicable to the operation of its business in all material respects;
+
+(c) comply with all material agreements, documents and instruments binding on it or affecting its Properties or business, including, without limitation, all material contracts, in all material respects; and
+
+(d) maintain commercially reasonable insurance coverage (including D&O insurance) for the Company and each Company Subsidiary.
+
+5.4 Certain Negative Covenants of the Company. The Company agrees that, during the period beginning on the Execution Date and ending on the Termination Date, the Company shall not, and shall, to the extent legally permitted, not permit any Company Subsidiary to:
+
+(a) enter into any transaction or arrangement with any Affiliate, employee, officer, director or equity holder of the Company or Company Subsidiary, unless such transaction is effectuated on an arm’s length basis and approved by the independent members of the Board of Directors;
+
+(b) if the Company is permitted to redeem the Series A Preferred Stock, redeem such stock at a per share redemption price that is greater than the redemption price contemplated in the Articles of Association; or
+
+(c) materially diverge from the Company’s or any Company Subsidiary’s current operating budget as adopted and approved hereunder without the prior consent of the Board of Directors.
+
+5.5 Use of Holder’s Name. Except as may be required by applicable law and/or this Agreement, the Company shall not use, directly or indirectly, any Holder’s name or the name of any of its Affiliates in any advertisement, announcement, press release or other similar communication unless it has received the prior written consent of such Holder for the specific use contemplated or as otherwise required by applicable law or regulation.
+
+5.6 Requisite Approvals. Promptly after the date hereof, the Company shall use its reasonable best efforts to take all actions, and to obtain all consents and approvals, necessary for it to consummate the First Closing as contemplated hereunder as soon as practicable after the date hereof.
+
+6. INDEMNIFICATION OF HOLDERS.
+
+The obligations of the Company under this Section 6 shall be subject to applicable Norwegian Governmental Requirements and may not be enforceable under some or all instances. The Company shall indemnify and hold each Holder and its directors, managers, officers, shareholders, members, partners, employees and agents (each, a “Holder Party”) harmless from any and all losses, liabilities, obligations, claims, contingencies, damages, costs and expenses, including all judgments, amounts paid in settlements, court costs and reasonable attorneys’ fees and costs of investigation that any such Holder Party may suffer or incur as a result of or relating to (a) any breach of any of the representations, warranties, covenants or agreements made by the Company in any of the Transaction Documents, or (b) any action instituted against a Holder, or any of its Affiliates, by any shareholder or creditor of the Company or any of the Company Subsidiaries with respect to any of the transactions contemplated by the Transaction Documents. With respect to legal expenses and other out-of-pocket expenses that a Holder Party may reasonably incur in connection with investigating or defending an action, claim, loss or other matter covered hereunder, the Company shall reimburse such Holder Party for such expenses promptly upon request by such Holder Party. If any action shall be brought against any Holder Party in respect of which indemnity may be sought pursuant to this Agreement, such Holder Party shall promptly notify the Company in writing, and the Company shall have the right to assume the defense thereof with counsel of its own choosing. Any Holder Party shall have the right to employ separate counsel in any such action and participate in the defense thereof, but the fees and expenses of such counsel shall be at the expense of such Holder Party except to the extent that (i) the employment thereof has been specifically authorized by the Company in writing, (ii) the Company has failed after a reasonable period of time following such Holder Party’s written request that it do so, to assume such defense and to employ counsel or (iii) in such action there is, in the reasonable opinion of such separate counsel, a material conflict on any material issue between the position of the Company and the position of such Holder Party. The Company shall not be liable to any Holder Party under this Section 6 (1) for any settlement by a Holder Party effected without the Company’s prior written consent, which shall not be unreasonably withheld or delayed; or (2) to the extent, but only to the extent that a loss, claim, damage or liability is attributable to such Holder Party’s wrongful actions or omissions, or gross negligence or to such Holder Party’s breach of any of the representations, warranties, covenants or agreements made by such Holder in any of the Transaction Documents.
+
+
+
+7.
+
+ 
+
+MISCELLANEOUS.
+
+7.1 Survival. The representations, warranties, covenants and indemnities made by the parties herein and in the other Transaction Documents shall survive each Closing notwithstanding any due diligence investigation made by or on behalf of the party seeking to rely thereon.
+
+7.2 Successors and Assigns. The terms and conditions of this Agreement shall inure to the benefit of and be binding upon the respective successors and permitted assigns of the parties. Nothing in this Agreement, express or implied, is intended to confer upon any party other than the parties hereto or their respective successors and permitted assigns any rights, remedies, obligations or liabilities under or by reason of this Agreement, except as expressly provided in this Agreement. A Holder may assign its rights and obligations hereunder in connection with any private sale or transfer of Series B Preferred Stock or Warrants, but not any Conversion Shares or Warrant Shares, as long as, as a condition precedent to such transfer, the transferee executes an acknowledgment agreeing to be bound by the applicable provisions of this Agreement, in which case the term “Holder” shall be deemed to refer to such transferee as though such transferee were an original signatory hereto, and such assignment complies with applicable Governmental Requirements. The Company may not assign its rights or obligations under this Agreement.
+
+7.3 No Reliance. Each party acknowledges that (i) it has such knowledge in business and financial matters as to be fully capable of evaluating this Agreement, the other Transaction Documents and the transactions contemplated hereby and thereby, (ii) it is not relying on any advice or representation of any other party in connection with entering into this Agreement, the other Transaction Documents or such transactions (other than the representations made in this Agreement or the other Transaction Documents), (iii) it has not received from any other party any assurance or guarantee as to the merits (whether legal, regulatory, tax, financial or otherwise) of entering into this Agreement or the other Transaction Documents or the performance of its obligations hereunder and thereunder, and (iv) it has consulted with its own legal, regulatory, tax, business, investment, financial and accounting advisors to the extent that it has deemed necessary, and has entered into this Agreement and the other Transaction Documents based on its own independent judgment and, if applicable, on the advice of such advisors, and not on any view (whether written or oral) expressed by any other party.
+
+7.4 Governing Law and Jurisdiction. This Agreement shall be governed by and construed in accordance with the laws of Norway. Any dispute arising out of or in connection with this Agreement shall be finally settled by arbitration in accordance with the Norwegian Arbitration Act of 2004. The place of arbitration shall be Oslo, Norway. Unless otherwise agreed by the parties, the arbitration court shall be composed by three (3) arbitrators appointed according to the provisions in the Norwegian Arbitration Act of 2004. The language to be used in the arbitration proceedings shall be English, unless otherwise agreed. Each of the Holders agrees that any arbitration and arbitral awards shall be confidential.
+
+7.5 Counterparts. This Agreement may be executed in any number of counterparts, each of which shall be deemed an original, and all of which together shall constitute one and the same instrument. This Agreement may be executed and delivered by facsimile.
+
+7.6 Headings. The headings used in this Agreement are used for convenience only and are not to be considered in construing or interpreting this Agreement.
+
+7.7 Notices. Any notice, demand or request required or permitted to be given by the Company or a Holder pursuant to the terms of this Agreement shall be in writing and shall be deemed delivered (i) when delivered personally or by verifiable facsimile, unless such delivery is made on a day that is not a Business Day (or after 4 p.m., Central European time on a Business Day), in which case such delivery shall be deemed to be made on the next succeeding Business Day, (ii) on the next Business Day after timely delivery to an internationally recognized overnight courier service providing overnight service to the applicable address; in each case, addressed as follows:
+
+If to the Company:
+
+Think Holdings AS
+
+Martin Linges vei 17, 1367 SnarÃ¸ya, Norway
+
+Attn: The Chief Executive Officer
+
+Tel: + 47 63 85 45 00
+
+Fax: + 47 21 61 02 01
+
+and if to a Holder, to the address for such Holder as set forth opposite such Holder’s name on Exhibit A, or as shall otherwise be designated by such Holder in writing to the Company in accordance with this Section 7.7.
+
+7.8 Expenses. The Company and each Holder shall pay all costs and expenses that it incurs in connection with the negotiation, execution, delivery and performance of this Agreement or the other Transaction Documents.
+
+7.9 Failure or Delay not Waiver. No failure or delay on the part of a Holder in the exercise of any power, right or privilege hereunder shall operate as a waiver thereof, nor shall any single or partial exercise of any such power, right or privilege preclude any other or further exercise thereof or of any other right, power or privilege.
+
+7.10 Amendments; Waivers. Except as expressly provided herein, neither this Agreement nor any term hereof may be amended except pursuant to a written instrument executed by the Company and the Requisite Holders. A waiver of any provision of this Agreement that is enforceable against the Company shall be valid only if given in writing by the Company, and may be relied upon by all of the Holders. A waiver of any provision in this Agreement that is enforceable against a specific Holder shall be valid only if given in writing by such Holder. A waiver of any provision in this Agreement that is enforceable against all of the Holders shall be valid only if given in writing by the Requisite Holders. Any waiver given hereunder shall be effective only in the specific instance and for the specific purpose for which it was given.
+
+7.11 Entire Agreement. This Agreement and the other Transaction Documents constitute the entire agreement between the parties with regard to the subject matter hereof and thereof, superseding all prior agreements or understandings, whether written or oral, between or among the parties.
+
+7.12 Severability. If any provision of this Agreement becomes or is declared by a court of competent jurisdiction to be illegal, unenforceable or void, this Agreement shall continue in full force and effect without said provision; provided that in such case the parties shall negotiate in good faith to replace such provision with a new provision which is not illegal, unenforceable or void, as long as such new provision does not materially change the economic benefits of this Agreement to the parties.
+
+7.13 Attorneys’ Fees. In the event that any suit or action is instituted under or in relation to this Agreement, including without limitation to enforce any provision in this Agreement, the prevailing party in such dispute shall be entitled to recover from the losing party all fees, costs and expenses of enforcing any right of such prevailing party under or with respect to this Agreement, including without limitation, such reasonable fees and expenses of attorneys and accountants, which shall include, without limitation, all fees, costs and expenses of appeals. With respect to the Company this Section 7.13 is subject to what is permitted under applicable law.
+
+7.14 Exculpation Among Investors. Each Investor acknowledges that it is not relying upon any person, firm, or corporation, other than the Company and its officers and directors, in making its investment or decision to invest in the Company. Each Investor agrees that no Investor nor the respective controlling persons, officers, directors, partners, agents, or employees of any Investor shall be liable to any other Investor for any action heretofore or hereafter taken or omitted to be taken by any of them in connection with the Securities.
+
+[Signature Pages to Follow]
+
+IN WITNESS WHEREOF, the undersigned have executed this Agreement as of the date first-above written.
+
+THINK HOLDINGS AS
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+_______________________________ Name:
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+[INVESTORS]
+
+1
+
+Exhibit A
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Investor
+
+ 
+
+ 
+
+Notice Address
+
+ 
+
+Commitment Percentage
+
+2
+
+Exhibit B
+
+ARTICLES OF ASSOCIATION
+
+OFFICE TRANSLATION — NORWEGIAN LANGUAGE TO PREVAIL
+
+Articles of association of
+
+THINK HOLDINGS AS
+
+(Approved by the general meeting of shareholders [X 2009])
+
+
+
+ 
+
+ 
+
+§ 1 The name of the company is Think Holdings AS.
+
+
+
+ 
+
+ 
+
+§ 2 The company’s place of business is in [BÃ¦rum] municipality.
+
+
+
+ 
+
+ 
+
+§ 3 The company is a holding company whose purpose is to own and manage the ownership of interests in other companies and businesses, including, without limitation, the ownership and management of the shares and other securities issued by Think Global AS and other activities related thereto.
+
+
+
+ 
+
+ 
+
+§ 4 The right of signature for the company is vested in two directors acting jointly.
+
+
+
+ 
+
+ 
+
+§ 5 The board of directors may grant rights of procuration.
+
+
+
+ 
+
+ 
+
+§ 6 The share capital of the company is NOK [?] divided into [?] A-shares, [?] B-shares and [?] ordinary shares, each with a par value of NOK 1.
+
+
+
+ 
+
+ 
+
+§ 7 The shares of the company shall be registered in the Norwegian Securities Depository (Norwegian: Verdipapirsentralen) (VPS).
+
+
+
+ 
+
+ 
+
+§ 8 Transfer of shares in the company shall not be subject to approval by the company pursuant to the Norwegian Private Limited Liability Companies Act.
+
+
+
+ 
+
+ 
+
+§ 9 Election of the board of directors
+
+The board of directors shall be composed by six directors elected by the shareholders as further decided by the general meeting of shareholders.
+
+Of the six directors on the board, the holders of B-shares shall be entitled to nominate five of the directors, from time to time, to be elected by the shareholders, and in nominating such directors, only the holders of B-shares are entitled to vote.
+
+The remaining director shall be elected by the holders of A-shares and ordinary shares voting together as one class.
+
+
+
+ 
+
+ 
+
+§ 10 Voting rights
+
+
+
+ 
+
+ 
+
+ 
+
+Each ordinary share and each A-share carry one vote.
+
+Each B-share shall at all times carry two votes.
+
+
+
+ 
+
+ 
+
+§ 11 Resolutions by the general meeting of shareholders requiring a 2/3rds majority of the B-shares
+
+As long as the company has B-shares outstanding, the company shall not make such resolutions listed below without the affirmative vote of holders of B-shares representing not less than 2/3 of the total number of outstanding B-shares (the “Requisite B Holders”), in addition to approval requirements pursuant to applicable law:
+
+
+
+ 
+
+a)
+
+ 
+
+resolve or pay dividends or other distributions to other shares than the B-shares, save however that the company can resolve such dividends to other classes of             shares if all obligations to pay preferred dividends to the B-shares according to § 13 first paragraph have been fully settled;
+
+
+
+ 
+
+b)
+
+ 
+
+unless otherwise provided for in these articles: redeem, convert, reduce par value, purchase or in other ways acquire from the shareholders shares and other securities issued by the company;
+
+
+
+ 
+
+c)
+
+ 
+
+any resolution that amends or abolishes any provision of these articles, including a resolution to reduce the share capital;
+
+
+
+ 
+
+d)
+
+ 
+
+change the number of directors;
+
+
+
+ 
+
+e)
+
+ 
+
+merge, consolidate, amalgamate with other companies, change or exchange of             shares, splits of shares, reverse splits of shares, recapitalisation, reorganisation or other similar resolution to the effect that the number of ordinary shares, A-shares or B-shares issued by the company is changed or transferred to another or a new class of             shares or to the effect that the shares carry other rights, including ownership to other companies;
+
+
+
+ 
+
+f)
+
+ 
+
+create or issue shares in a new class that will carry better or similar rights as the B-shares.
+
+
+
+ 
+
+ 
+
+§ 12 The shareholders do not have a right of first refusal in the case of transfer of shares pursuant to the Norwegian Private Limited Liability Companies Act.
+
+§ 13 Preferred dividends to B-shares
+
+Before any dividends or other distributions are made to shares other than the B-shares, each B-share shall be entitled to receive an annual, cumulative cash dividend of NOK 1. The annual cash dividend shall be calculated on a 360 day year based on the actual number of days elapsed from the date the share was issued until the date of payment of the preferred dividend. If, according to law, the company may not declare or pay the preferred dividend in full, the amount not paid in cash shall accumulate and be paid the first following year when such payment does not conflict with law.
+
+Dividends in excess of the preferred dividend to the B-shares, in accordance with the above provisions, shall be distributed equally among the shares, including the B-shares.
+
+
+
+ 
+
+ 
+
+§ 14 Liquidation preference for B-shares and A-shares; Allocation of consideration received in a major transaction
+
+Upon liquidation or dissolution of the company, the holders of B-shares shall, before any liquidation dividends are paid to holders of other shares, receive an amount in cash for each B-share that equals two times the sum of i) NOK 10, and ii) accrued but unpaid preferred dividend according to § 13 first paragraph (“Liquidation preference B”).
+
+Upon liquidation or dissolution of the company, and subject to the prior payment in full of the Liquidation preference B, the holders of A-shares shall, before any liquidation dividends are paid to holders of ordinary shares, receive an amount in cash for each A-share that equals NOK 15 (“Liquidation preference A”).
+
+After making the distributions of the Liquidation preference B and the Liquidation preference A as stated above, any remaining amounts to be distributed to shareholders upon liquidation or dissolution of the company shall be divided equally among all shares, including the B-shares, the A-shares and the ordinary shares.
+
+For purposes of allocating the aggregate consideration to be distributable to the shareholders in connection with a sale of the company, whether such sale is structured as an asset sale, stock sale, merger or otherwise, (i) the holders of B-shares shall, before any such consideration is paid to holders of other shares, receive an amount in cash for each B-share that equals the Liquidation preference B; (ii) subject to the prior payment in full of the Liquidation preference B, the holders of A-shares shall, before any such consideration is paid to holders of ordinary shares, receive an amount in cash for each A-share that equals the Liquidation preference A; and (iii) any consideration remaining after the payment of the amounts described in the foregoing clauses (i) and (ii) shall be divided equally among all shares, including the B-shares, the A-shares and the ordinary             shares.
+
+
+
+ 
+
+ 
+
+§ 15 Upon a reduction of the share capital that involves a distribution to the shareholders, the holders of B-shares shall, before any distributions are made to holders of other shares, receive an amount that equals the sum of payment for the B-shares together with accrued but unpaid preferred dividend according to § 13 first paragraph.
+
+
+
+ 
+
+ 
+
+§ 16 Redemption upon notice from holders of B-shares
+
+After [?] 2014 [Insert five year anniversary of First Closing], the Requisite B Holders may, by written notice to the company, demand that the company redeem all B-shares through a share capital reduction against consideration in cash. Such demand for redemption is subject to the company being able, according to law, to make such distributions as the redemption entails in addition to the company being able to obtain required corporate resolutions.
+
+Such redemption shall be effected in a maximum of three tranches with a total consideration for each B-share that equals the greater of (a) two times the sum of i) NOK 10 and ii) accrued but unpaid preferred dividend according to § 13 first paragraph and (b) the fair market value of a B-share.
+
+For purposes of this definition, “fair market value” of a B-share shall be determined in good faith by the company’s board of directors, which determination shall fairly reflect, if applicable, recent sales prices by the company of its securities and such other factors that the board of directors reasonably believes to be relevant in valuing a B-share. If such determination is disputed by the Requisite B Holders, then the company shall engage an investment banking firm reasonably acceptable to the Requisite B Holders to determine the fair market value of a B-share, and such determination shall be final absent manifest error.
+
+A notice of demand for redemption from the holders of B-shares shall mention the date of the first tranche of the redemption and this date cannot be earlier than i) three business days after the date the company receives such notice of demand for redemption, or [?] 2014 [Insert five year anniversary of First Closing]. The first tranche of the redemption shall comprise a minimum of 1/3 of the B-shares and shall be made on the date set out by the holders of the B-shares in the notice of demand for redemption (not earlier however than [?] 2014) [Insert five year anniversary of First Closing]. The redemption of the remaining B-shares shall be effective on the first and second anniversary of the notice of demand for redemption, and each such tranche shall comprise a minimum of the lower of i) 1/3 of the B-shares (calculated prior to the first tranche of the redemption) or ii) the remaining B-shares. When calculating the deadlines set out herein, statutory notice periods according to law shall be added.
+
+
+
+ 
+
+ 
+
+§ 17 Redemption upon notice from holders of A-shares
+
+After [?] 2014 [Insert five year anniversary of First Closing], the holders holding 2/3rds or more of the then outstanding A-shares (the “Requisite A Holders”) may, by written notice to the company, demand that the company redeem all A-shares against consideration in cash. Such demand for redemption is subject to (i) the company being able to make distributions to the holders of B-shares as if the rights of the B-shares according to these articles had been exercised, (ii) with regard to the A-shares, that the company, according to law, being able to make such distributions as the redemption entails, and (iii) the company being able to obtain required corporate resolutions.
+
+Such redemption shall be effected in a maximum of three tranches with a total consideration for each A-share that equals the greater of (a) NOK 15 or (b) the fair market value of such A-share, provided that if the holders of B-shares have also requested redemption, the redemption of each tranche of A-shares shall be made after the corresponding tranche of B-shares have been redeemed in full.
+
+For purposes of this definition, “fair market value” of an A-share shall be determined in good faith by the company’s board of directors, which determination shall fairly reflect, if applicable, its valuation of a B-share, recent sales prices by the company of its securities and such other factors that the board of directors reasonably believes to be relevant in valuing an A-share. If such determination is disputed by the Requisite A Holders, then the company shall engage an investment banking firm reasonably acceptable to the Requisite A Holders to determine the fair market value of an A-share, and such determination shall be final absent manifest error.
+
+A notice of demand for redemption from the holders of A-shares shall mention the date of the first tranche of the redemption and this date cannot be earlier than i) three business days after the date the company receives such notice of demand for redemption, or [?] 2014 [Insert five year anniversary of First Closing]. The first tranche of the redemption shall comprise a minimum of 1/3 of the A-shares and shall be made on the date set out by the holders of the A-shares in the notice of demand for redemption (not earlier however than [?] 2014) [Insert five year anniversary of First Closing]. The redemption of the remaining A-shares shall be effective on the first and second anniversary of the notice of demand for redemption, and each such tranche shall comprise a minimum of the lower of i) 1/3 of the A-shares (calculated prior to the first tranche of the redemption) or ii) the remaining A-shares. When calculating the deadlines set out herein, statutory notice periods according to law shall be added.
+
+In the event of any conflict, other than the ranking as mentioned in the first paragraph of this § 17, between the demand of redemption from holders of A-shares and B-shares respectively, the rights of the latter shall prevail.
+
+
+
+ 
+
+ 
+
+§ 18 Holder mandated conversion of B-shares
+
+Each holder of B-shares may, at any time, by written notice to the company demand that the company redeem and convert some or all B-shares held by such holder into ordinary shares.
+
+The company shall have an obligation to initiate the redemption and conversion process within two business days following the date of receipt of notice as mentioned above.
+
+The conversion of B-shares into ordinary shares shall be effected by redeeming the B-shares being converted and a simultaneous issue by the company of a claim for payment for the             shares. The amount of such claim for payment for each B-share shall be equal to NOK 10 plus all accumulated and unpaid preferred dividends on such share. Such claim shall immediately be converted into ordinary shares for its full amount, and the subscription price for such ordinary shares to be issued shall be the conversion price then in effect. The ordinary             shares shall be issued through a private placement directed towards the holders of B-shares who have given notice of a demand for redemption and conversion.
+
+If the conversion price in effect is NOK 10, then at the election of the converting B-shareholder, each B-share shall be converted into one ordinary share, and the accumulated and unpaid preferred dividends on such share shall be payable to such B-shareholder in cash. If a conversion of B-shares hereunder would result in the issuance of a fractional ordinary share, then the number of ordinary shares issuable upon such conversion shall be rounded up to the nearest whole number of ordinary shares and against that the holder of B-shares will pay the difference in cash to the company.
+
+Conversion of B-shares is subject to the company being able, according to applicable law, to make such distributions as the redemption entails in addition to the company being able to obtain required corporate resolutions.
+
+Conversion Price
+
+The initial conversion price related to any conversion of B-shares into ordinary shares according to this § 18 shall be NOK 10 and shall be adjusted as follows (the “Conversion Price”):
+
+The Conversion Price shall be adjusted for share splits being made prior to the completion of the redemption and conversion.
+
+In the event that the company having issued new shares, or sells its own shares for a consideration being lower than the prevailing Conversion Price immediately prior to such issuance or sale (“Discount Price”), the Conversion Price shall be adjusted to an amount calculated by multiplying the Conversion Price by the following fraction:
+
+N0 + N1
+
+N0 + N2
+
+Where N0 represents the number of ordinary shares in the company immediately prior to the issuance of new (or the company’s sale of own) ordinary             shares at a Discount Price (without taking into account convertible instruments,             shares or similar being convertible into ordinary shares);
+
+Where N1 represents the number of ordinary shares which would have been issued (or sold) for the total consideration the company receives (or shall receive) if the issuance (or sale) had been completed at a price per share equal to the Conversion Price applicable immediately prior to the issuance or sale.
+
+Where N2 represents the number of ordinary shares issued or sold at a Discount Price.
+
+Notwithstanding the above, the Conversion Price shall not be adjusted to a lower amount than the prevailing par value of the company’s shares.
+
+If the company issues shares (or sells it own shares) for other consideration than cash, the value of the consideration shall be based on fair market value principles.
+
+
+
+ 
+
+ 
+
+§ 19 Automatic conversion of B-shares
+
+The Requisite B Holders may, at any time, by written notice to the company demand that the company redeems and converts all B-shares into ordinary shares.
+
+The company shall have an obligation to initiate the redemption and conversion process immediately following the date of receipt of notice as mentioned above.
+
+If the company resolves a listing of its ordinary shares on a regulated market at a value equal to or higher than NOK 250,000,000 at an offering price per ordinary share equal to or higher than NOK 40 (as adjusted for share splits and reverse splits and similar), all B-shares shall be converted into ordinary shares.
+
+The conversion of B-shares into ordinary shares, including the calculation of the number of ordinary shares to be issued upon such conversion, shall be effected according to the principles set out in § 18 and subject to the same terms.
+
+
+
+ 
+
+ 
+
+§ 20 Holder mandated conversion of A-shares
+
+Each A-share shall be convertible into one ordinary share. Each holder of A-shares may, at any time, by written notice to the company demand that the company redeem and convert some or all A-shares held by such holder into ordinary shares.
+
+The company shall have an obligation to initiate the conversion process within two business days following the date of receipt of notice as mentioned above.
+
+
+
+ 
+
+ 
+
+§ 21 Automatic conversion of A-shares
+
+If the company resolves a listing of its ordinary shares on a regulated market at a value equal to or higher than NOK 250,000,000 at an offering price per ordinary share equal to or higher than NOK 40 (as adjusted for share splits and reverse splits and similar), all A-shares shall be converted into ordinary shares.
+
+
+
+ 
+
+ 
+
+§ 22 Annual general meetings
+
+The annual general meeting of shareholders shall deal with:
+
+
+
+ 
+
+(1)
+
+ 
+
+the approval of the annual accounts, the annual report from the board of directors, including approval of dividends; and
+
+
+
+ 
+
+(2)
+
+ 
+
+other matters that shall be dealt with by the general meeting of shareholders according to law or these articles of association.
+
+3
+
+
+
+Exhibit C
+
+TERMS OF SERIES B WARRANTS
+
+
+
+ 
+
+1.
+
+ 
+
+The Company’s shareholders’ pre-emptive rights for subscription of the warrants will be set aside.
+
+
+
+ 
+
+2.
+
+ 
+
+The warrants will be issued free of charge.
+
+
+
+ 
+
+3.
+
+ 
+
+Each of the warrants will confer the right to subscribe for one share of Series B Preferred Stock.
+
+
+
+ 
+
+4.
+
+ 
+
+The subscription price for one share of Series B Preferred Stock upon exercise of the warrant will initially be NOK 10, provided that going forward, the subscription price shall at all times be equal to the conversion price of the Series B Preferred Stock as determined in accordance with the Articles of Association. The subscription price shall in no event be lower than the par value of the shares.
+
+
+
+ 
+
+5.
+
+ 
+
+The warrants may be exercised from the time the warrants are registered with the Norwegian Register of Business Enterprises and within five years from the date of the resolution by the general meeting of the Company to issue the warrants described herein.
+
+
+
+ 
+
+6.
+
+ 
+
+Exercise of the warrants will be effectuated by submission of written notice by the holder of the warrants to the Company.
+
+
+
+ 
+
+7.
+
+ 
+
+The shares issued upon the exercise of the warrants will be entitled to dividends, and such dividends shall accrue as of the date such shares are issued and shall be payable on the same dates when dividends are paid on all other share of Series B Preferred Stock. The holders of such shares upon the exercise of the warrants will be entitled to all other rights relating to Series B Preferred Stock as set forth in the Articles of Association.
+
+
+
+ 
+
+8.
+
+ 
+
+The holder of the warrants shall have the same rights as a shareholder if (i) the Company resolves to increase or reduce its share capital,(ii) there is a new resolution to issue subscription rights covered under the Norwegian Private Limited Companies Act chapter 11, or (iii) the Company undergoes a liquidation, merger, demerger, reorganization or similar transaction.
+
+4
+
+
+
+Exhibit D
+
+TERMS OF ATVM WARRANTS
+
+
+
+ 
+
+1.
+
+ 
+
+The Company’s shareholders’ pre-emptive rights for subscription of the warrants will be set aside.
+
+
+
+ 
+
+2.
+
+ 
+
+The warrants will be issued free of charge.
+
+
+
+ 
+
+3.
+
+ 
+
+Each of the warrants will confer the right to subscribe for one share of Series B Preferred Stock.
+
+
+
+ 
+
+4.
+
+ 
+
+The subscription price for one share of Series B Preferred Stock upon exercise of the warrant will initially be NOK 10, provided that going forward, the subscription price shall at all times be equal to the conversion price of the Series B Preferred Stock as determined in accordance with the Articles of Association. The subscription price shall in no event be lower than the par value of the shares.
+
+
+
+ 
+
+5.
+
+ 
+
+The warrants may be exercised from the time the warrants are registered with the Norwegian Register of Business Enterprises and within five years from the date of the resolution by the general meeting of the Company to issue the warrants described herein.
+
+
+
+ 
+
+6.
+
+ 
+
+Exercise of the warrants will be effectuated by submission of written notice by the holder of the warrants to the Company.
+
+
+
+ 
+
+7.
+
+ 
+
+The shares issued upon the exercise of the warrants will be entitled to dividends, and such dividends shall accrue as of the date such shares are issued and shall be payable on the same dates when dividends are paid on all other share of Series B Preferred Stock. The holders of such shares upon the exercise of the warrants will be entitled to all other rights relating to Series B Preferred Stock as set forth in the Articles of Association.
+
+
+
+ 
+
+8.
+
+ 
+
+The holder of the warrants shall have the same rights as a shareholder if (i) the Company resolves to increase or reduce its share capital,(ii) there is a new resolution to issue subscription rights covered under the Norwegian Private Limited Companies Act chapter 11, or (iii) the Company undergoes a liquidation, merger, demerger, reorganization or similar transaction.
+
+5
+
+
+
+Schedule 4.4(a)
+
+CAPITALIZATION
+
+Schedule 4.4(b)
+
+COMPANY SUBSIDIARIES
+
+The following companies will be subsidiaries of the Company as set out in the corporate chart below:
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Company
+
+ 
+
+Country
+
+ 
+
+Corporate registration number
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Think Global AS
+
+ 
+
+Norway
+
+ 
+
+989 710 796
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Think Technology AS
+
+ 
+
+Norway
+
+ 
+
+989 752 006
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Think North America, Inc
+
+ 
+
+United States
+
+ 
+
+[to be included]
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Chart showing Think Holding AS owning >67% of Think Global AS and Think Global owning
+
+100%
+
+of Think Technology AS and Think North America Inc.
+
+6
+
+Schedule 4.9
+
+FEES
+
+The fees set out in the table below shall be exempt from Section 4.9:
+
+CONFIDENTIAL
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name
+
+ 
+
+Fee
+
+ 
+
+Settlement
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Morgan Stanley
+
+ 
+
+[***]
+
+ 
+
+[***]
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ABG Sundal Collier ASA
+
+ 
+
+[***]
+
+ 
+
+[***]
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+7

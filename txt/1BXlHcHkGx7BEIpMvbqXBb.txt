@@ -1,0 +1,375 @@
+VOTING AGREEMENT
+
+ 
+
+This VOTING AGREEMENT, dated as of January 7, 2010 (the “Agreement”), is made by and among the undersigned stockholders (the “Conversion Stockholders”) of Solar EnerTech Corp., a Delaware corporation (the “Company”), Leo Shi Young (the Conversion Stockholders and Mr. Young each, a “Stockholder”, and collectively, the “Stockholders”) and, with respect to Sections 3, 4 and 5 only, the Company.
+
+ 
+
+RECITALS
+
+ 
+
+WHEREAS, concurrently with the execution of this Agreement, the Company and the Conversion Stockholders are entering into a Series A and Series B Conversion Agreement (the “Conversion Agreement”) and the Amendment to the Series A, Series B and Series C Warrants (the “Warrant Amendment”) pursuant to which the Company will (1) adjust the conversion price of the Series A Convertible Notes and Series B Convertible Notes (together, the “Notes”) in consideration for the conversion of all of the outstanding amounts owed under the Notes and (2) amend the warrant exercise price for the outstanding Series A, Series B and Series C Warrants to $0.15, as set forth in the Conversion Agreement and the Warrant Amendment respectively;
+
+ 
+
+WHEREAS, after giving effect to the transactions contemplated by the Conversion Agreement, each Stockholder beneficially owns (as such term is defined in Rule 13d-3 promulgated under the Securities Exchange Act of 1934, as amended, and the rules and regulations promulgated thereunder (the “Exchange Act”)) and is the owner of record of the number of shares of Common Stock, par value $0.001 per share, of the Company (“Common Stock”) set forth opposite such Stockholder’s name on Schedule I hereto (such shares of Common Stock, together with any other shares of Common Stock, sole or shared voting power over which is acquired by such Stockholder during the period from and including the date hereof through and including the date on which this Agreement is terminated in accordance with its terms, collectively, the “Voting Shares”);
+
+ 
+
+WHEREAS, as a condition to its willingness to enter into the Conversion Agreement, the Conversion Stockholders have required that Mr. Young enter into this Agreement whereby each Stockholder commits to cause the Voting Shares over which such Stockholder has sole voting power, and to use its best efforts to cause the Voting Shares over which such Stockholder has joint voting power, to be voted on the terms and subject to the conditions of this Agreement.
+
+ 
+
+NOW, THEREFORE, in consideration of the foregoing and the respective representations, warranties, covenants and agreements contained in this Agreement, and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto agree as follows:
+
+ 
+
+
+
+ 
+
+ 
+
+
+
+ 
+
+
+
+AGREEMENT
+
+ 
+
+1.           Voting.  Each Stockholder hereby agrees that, from and after the date hereof until the termination of this Agreement, at any duly called meeting of the stockholders of the Company, such Stockholder shall appear at the meeting and any adjournment or postponement thereof, in person or by proxy, or otherwise cause the Voting Shares over which such Stockholder has sole voting power (and use its best efforts to cause the Voting Shares over which such Stockholder has joint voting power) to be counted as present thereat for purposes of establishing a quorum, and such Stockholder shall vote or consent the Voting Shares over which such Stockholder has sole voting power (and cause to be voted or consented the Voting Shares over which such Stockholder has joint voting power), in person or by proxy, (a) in favor of the election of directors as set forth in Section 2 below (collectively, the “Election of Directors”), (b) in favor of any proposal to adjourn any such meeting if necessary to permit further solicitation of proxies in the event there are not sufficient votes at the time of such meeting to approve the Election of Directors, (c) against any action or agreement submitted for approval of the manner inconsistent with clauses (a), or (b) of this Section 1 or that would result in a breach of any covenant, representation or warranty or any other obligation or agreement of the Company under the Conversion Agreement or of such Stockholder under this Agreement and (d) except as otherwise agreed in writing by all Stockholders, against any action, agreement, transaction or proposal submitted for approval of the stockholders of the Company that would reasonably be expected to result in the Election of Directors not being effected or any of the conditions to the Company’s obligations under the Conversion Agreement not being fulfilled or that is intended, or would reasonably be expected, to prevent, impede, interfere with, delay or adversely affect the Election of Directors or the transactions contemplated by the Conversion Agreement and the Warrant Amendment.  To the extent permitted by applicable law, any vote by such Stockholder that is not in accordance with this Section 1 shall be considered null and void.  Such Stockholder shall not enter into any agreement or understanding with any person or entity prior to the termination of this Agreement to vote or give instructions inconsistent with the Election of Directors or clauses (a), (b), (c) or (d) of this Section 1.
+
+ 
+
+2.           Election of Directors.  On all matters relating to the election and removal of directors of the Company, the Stockholders agree to vote all Voting Shares held by them (or the holders thereof shall consent pursuant to an action by written consent of the holders of capital stock of the Company) and use its best efforts to cause the Voting Shares over which such Stockholder has joint voting power so as to elect members of the Company’s Board of Directors as follows:
+
+ 
+
+(a)          Designation of Directors. At each election of or action by written consent to elect directors, the Stockholders shall vote all of their respective Voting Shares so as to elect:
+
+ 
+
+(i)           two individuals designated by the holders of a majority of shares of the Company’s Common Stock originally issued to the Conversion Stockholders upon the conversion of the Notes;
+
+ 
+
+(ii)          Mr. Young and one individual designated by Mr. Young; and
+
+ 
+
+(iii)        one member designated by the holders of a majority of shares of the Company’s Common Stock originally issued to the Conversion Stockholders upon the conversion of the Notes, who shall have a background appropriate for service on the Company’s audit committee and, if possible, industry experience.
+
+ 
+
+
+
+ 
+
+ 
+
+
+
+ 
+
+
+
+Any vote taken to remove any director elected pursuant to this Section 2(a), or to fill any vacancy created by the resignation, removal or death of a director elected pursuant to this Section 2(a), shall also be subject to the provisions of this Section 2(a).  Upon the request of any party entitled to designate a director as provided in this Section 2(a), each Stockholder agrees to vote its Voting Shares for the removal of such director.
+
+ 
+
+(b)           No Liability for Election of Recommended Director. None of the parties hereto and no officer, director, stockholder, partner, employee or agent of any party makes any representation or warranty as to the fitness or competence of the nominee of any party hereunder to serve on the Board of Directors by virtue of such party’s execution of this Agreement or by the act of such party in voting for such nominee pursuant to this Agreement.
+
+ 
+
+3.           Legend.  Concurrently with the execution of this Agreement, there shall be imprinted or otherwise placed, on certificates representing the Voting Shares held or controlled by the Stockholders the following restrictive legend (the “Legend”):
+
+ 
+
+“THE SHARES REPRESENTED BY THIS CERTIFICATE ARE SUBJECT TO THE TERMS AND CONDITIONS OF A VOTING AGREEMENT WHICH PLACES CERTAIN RESTRICTIONS ON THE VOTING OF THE SHARES REPRESENTED HEREBY.  ANY PERSON ACCEPTING ANY INTEREST IN SUCH SHARES SHALL BE DEEMED TO AGREE TO AND SHALL BECOME BOUND BY ALL THE PROVISIONS OF SUCH AGREEMENT.  A COPY OF SUCH VOTING AGREEMENT WILL BE FURNISHED TO THE RECORD HOLDER OF THIS CERTIFICATE WITHOUT CHARGE UPON WRITTEN REQUEST TO THE COMPANY AT ITS PRINCIPAL PLACE OF BUSINESS.”
+
+ 
+
+4.           No Transfer.  The Company agrees that, during the term of this Agreement, it will not remove, and will not permit to be removed (upon registration of transfer, reissuance of otherwise), the Legend from any such certificate and will place or cause to be placed the Legend on any new certificate issued to represent Voting Shares it knows to be held or controlled by the Stockholders.  If at any time or from time to time any Stockholder holds any certificate representing shares of the Company’s capital stock not bearing the aforementioned legend, such Stockholder agrees to deliver such certificate to the Company promptly to have such legend placed on such certificate.
+
+ 
+
+5.           Successors.  The provisions of this Agreement shall be binding upon the successors in interest to any of the Voting Shares.  The Company shall not permit the transfer of any of the Voting Shares on its books or issue a new certificate representing any of the Voting Shares unless and until the person to whom such security is to be transferred shall have executed a written agreement, substantially in the form of this Agreement, pursuant to which such person becomes a party to this Agreement and agrees to be bound by all the provisions hereof as if such person were a Stockholder, as applicable.
+
+ 
+
+6.           Other Rights.  Except as provided by this Agreement, each Stockholder shall exercise the full rights of a holder of capital stock of the Company with respect to the Voting Shares.
+
+ 
+
+
+
+ 
+
+ 
+
+
+
+ 
+
+
+
+7.    	    Irrevocable Proxy.  To secure the Stockholders’ obligations to vote the Voting Shares in accordance with this Agreement, each Stockholder hereby appoints the other, or his or its designee, as such Stockholder’s true and lawful proxy and attorney, with the power to act alone and with full power of substitution, to vote all of such Stockholder’s Voting Shares as set forth in this Agreement and to execute all appropriate instruments consistent with this Agreement on behalf of such Stockholder if, and only if, such Stockholder fails to vote all of such Stockholder’s Voting Shares or execute such other instruments in accordance with the provisions of this Agreement within five (5) days of the other party’s written request for such written consent or signature.   The proxy and power granted by each Stockholder pursuant to this Section are coupled with an interest and are given to secure the performance of such party’s duties under this Agreement.  Each such proxy and power will be irrevocable for the term hereof.  The proxy and power, so long as any party hereto is an individual, will survive the death, incompetency and disability of such party or any other individual holder of the Shares and, so long as any party hereto is an entity, will survive the merger or reorganization of such party or any other entity holding any Voting Shares.
+
+ 
+
+8.           Representations and Warranties of the Stockholders.  Each Stockholder hereby represents and warrants to the other as follows:
+
+ 
+
+(a)           Corporate Existence; Authorization.  Such Stockholder represents that (i) in the case of the Conversion Stockholders, it is duly organized, validly existing and in good standing (with respect to jurisdictions that recognize such concept) under the laws of the jurisdiction of its organization or formation and has all requisite power and authority to enter into this Agreement, to carry out its obligations hereunder and to consummate the Election of Directors, and (ii), in the case of  Mr. Young, he has the capacity to enter into this Agreement, to carry out his obligations hereunder and to consummate the Election of Directors.  This Agreement has been duly and validly executed and delivered by such Stockholder and, assuming due execution and delivery by each of the other parties hereto, this Agreement constitutes a legal, valid and binding obligation of such Stockholder enforceable against such Stockholder in accordance with its terms, except as such enforceability may be limited by bankruptcy, insolvency, fraudulent transfer, reorganization, moratorium and other similar laws of general applicability relating to or affecting creditors’ rights, and to general equitable principles.
+
+ 
+
+(b)           No Conflict.  The execution and delivery of this Agreement by such Stockholder does not, and the performance of this Agreement by such Stockholder will not, (i) conflict with or violate the articles of incorporation, limited liability company agreement or equivalent organizational documents, as the case may be, of such Stockholder, (ii) conflict with or violate any law, rule or regulation applicable to such Stockholder or by which such Stockholder or any of its properties is bound, (iii) result in any breach of or constitute a default (or event that with notice or lapse of time or both would become a default) under, or impair such Stockholder’s rights or alter the rights or obligations of any third party under, or give to others any rights of termination or acceleration of, or result in the creation of a lien on any Voting Shares (other than pursuant to this Agreement) or other properties or assets of such Stockholder pursuant to, any note, bond, mortgage, indenture, agreement, lease, license, permit, franchise, concession or other instrument or obligation to which such Stockholder is a party or by which it is bound (including any trust agreement, voting agreement, shareholders’ agreement or voting trust) or (iv) violate any order, writ, injunction, judgment or decree of any governmental entity applicable to such Stockholder, except, in the case of clauses (ii), (iii) or (iv), for such conflicts, violations, breaches, defaults, impairments, alterations, terminations, accelerations or liens or rights that would not prevent or materially delay the ability of such Stockholder to carry out its obligations under, and to consummate the Election of Directors.
+
+ 
+
+
+
+ 
+
+ 
+
+
+
+ 
+
+
+
+(c)           Required Filings and Consents.  The execution and delivery of this Agreement by such Stockholder does not, and the performance of this Agreement by such Stockholder shall not, require any consent, approval, authorization or permit of, or filing with, or notification to, any governmental entity, except (i) with respect to the Conversion Stockholders, the consent of Goldman Sachs Bank USA or any of its Affiliates, successors or assigns (hereinafter collectively referred to as “Goldman Sachs”), as lender, pursuant to the Revolving Loans (Committed Loan) Loan Agreement (the “Credit Agreement”) dated December 15, 2009 between Goldman Sachs and Kaziikini, LLC (“Kaziikini”), or any of the other Loan Documents (as that term is defined in the Credit Agreement), with respect to the Trust’s Conversion Stock, which Credit Agreement is secured by that certain Guaranty, Security and Pledge Agreement made by The Quercus Trust (the “Trust”) in favor of Goldman Sachs Bank USA dated December 15, 2009 (the “Security Agreement”) and (ii) where the failure to obtain such consents, approvals, authorizations or permits, or to make such filings or notifications, would not prevent or materially delay the ability of such Stockholder to carry out its obligations under, and to consummate the Election of Directors contemplated by, this Agreement.
+
+ 
+
+(d)           Ownership of Shares.  After giving effect to the transactions contemplated by the Conversion Agreement, Goldman, Sachs & Co. shall be the record owner and the Trust shall be the beneficial owner of, and has good title to, the Voting Shares set forth opposite its name on Schedule I.  Such Stockholder (and the Trust, with respect to the Trust’s Voting Shares), together with its affiliates, if any, have sole or shared voting power, and sole or shared power of disposition, as set forth in Schedule I, with respect to all of such Voting Shares, and such Voting Shares is free and clear of all liens, other than liens in favor of one or more other Stockholders or created by this Agreement (and any rights of Goldman Sachs).  Except for such rights as the Trust has granted Goldman Sachs under the Credit Agreement, the Security Agreement  and the other Loan Documents, such Stockholder has not appointed or granted any proxy inconsistent with this Agreement, which appointment or grant is still effective, with respect to the Voting Shares, it being understood and agreed that any proxy granted by a Stockholder to one or more of the other Stockholders shall not be deemed to be inconsistent with this Agreement unless it would result in the voting of Voting Shares in a manner inconsistent with Section 1 and Section 2 of this Agreement or prevent the voting in accordance with Section 1 and Section 2 of this Agreement of Voting Shares.
+
+ 
+
+(e)           Absence of Litigation.  As of the date hereof, there is no suit, action, investigation or proceeding pending or, to the knowledge of such Stockholder, threatened against such Stockholder before or by any governmental entity that could impair the ability of the Stockholder to perform its obligations hereunder or to consummate the Election of Directors contemplated hereby on a timely basis.
+
+ 
+
+
+
+ 
+
+ 
+
+
+
+ 
+
+
+
+9.      	  Covenants of the Stockholders.  Each Stockholder hereby covenants and agrees as follows with the other that:
+
+ 
+
+(a)           Restriction on Transfer of Shares.  Except pursuant to Security Agreement, which was executed simultaneously with the Credit Agreement, a true and correct copy of which has been delivered to Mr. Young, no Stockholder shall, directly or indirectly:  (i) offer for sale, sell (including short sales), transfer, tender, pledge, encumber, assign or otherwise dispose of (including by gift), or enter into any contract, option, derivative, hedging or other arrangement or understanding (including any profit-sharing arrangement) with respect to, or consent to the offer for sale, sale, transfer, tender, pledge, encumbrance, assignment or other disposition of, any or all of the Voting Shares or any interest therein (any of the foregoing, a “Transfer”), unless the transferee agrees in writing to be bound by the terms of this Agreement, or, (ii) grant any proxies or powers of attorney (other than to an affiliate of such Stockholder that agrees in writing to be bound by the terms of this Agreement) with respect to the Voting Shares, deposit any of the Voting Shares into a voting trust or enter into any other voting arrangement (other than with an affiliate of such Stockholder that agrees in writing to be bound by the terms of this Agreement or with another Stockholder or other Stockholders) or permit to exist any other lien of any nature whatsoever with respect to the Voting Shares (other than such other liens created by or arising under this Agreement or existing by operation of law), or (iii) exercise the right to convert any shares of Preferred Stock into shares of Common Stock.
+
+ 
+
+(b)           Certain Events.  Subject to the rights of Goldman Sachs under the Credit Agreement, the Security Agreement and the other Loan Documents, such Stockholder agrees that this Agreement and the obligations hereunder shall attach to the Voting Shares and shall be binding upon any person or entity to which legal or beneficial ownership of the Voting Shares shall pass, whether by operation of law or otherwise, including without limitation the Stockholder’s administrators, successors or receivers.
+
+ 
+
+10.         Miscellaneous.
+
+ 
+
+(a)           Termination.  This Agreement shall automatically terminate upon the earlier of (i) ten (10) years from the date hereof and (ii) the date on which the Conversion Stockholders or their assignee(s) (as may be permitted under Section 10(j) below) beneficially owns less than half of the shares of the Company’s Common Stock originally received upon conversion of all of the Notes.
+
+ 
+
+(b)           Notices.  Any notices or other communications required or permitted under, or otherwise in connection with, this Agreement shall be in writing and shall be deemed to have been duly given when delivered in person or on receipt after dispatch by registered or certified mail, postage prepaid, addressed, or on receipt if transmitted by national or overnight courier, in each case to the address set forth on Schedule I hereto.
+
+ 
+
+
+
+ 
+
+ 
+
+
+
+ 
+
+
+
+(c)           Counterparts.  This Agreement may be executed in one or more counterparts, and by the different parties hereto in separate counterparts, each of which when executed shall be deemed to be an original but all of which taken together shall constitute one and the same agreement.  The exchange of a fully executed signature page to this Agreement  (in counterparts or otherwise) by facsimile or by electronic delivery in PDF format shall be sufficient to bind the parties to the terms and conditions of this Agreement.
+
+ 
+
+(d)           Expenses.  All costs and expenses (including legal fees) incurred in connection with the negotiation of this Agreement shall be paid by the party incurring such expenses.
+
+ 
+
+(e)           Delays or Omissions.  It is agreed that no delay or omission to exercise any right, power or remedy accruing to any party, upon any breach, default or noncompliance by another party under this Agreement shall impair any such right, power or remedy, nor shall it be construed to be a waiver of any such breach, default or noncompliance, or any acquiescence therein, or of or in any similar breach, default or noncompliance thereafter occurring.  It is further agreed that any waiver, permit, consent or approval of any kind or character on any party’s part of any breach, default or noncompliance under this Agreement or any waiver on such party’s part of any provisions or conditions of the Agreement must be in writing and shall be effective only to the extent specifically set forth in such writing.  All remedies, either under this Agreement by law, or otherwise afforded to any party, shall be cumulative and not alternative.
+
+ 
+
+(f)           Attorney’s Fees.  In the event that any suit or action is instituted under or in relation to this Agreement, including without limitation to enforce any provision in this Agreement, the prevailing party in such dispute shall be entitled to recover from the losing party all fees, costs and expenses of enforcing any right of such prevailing party under or with respect to this Agreement, including without limitation, such reasonable fees and expenses of attorneys and accountants, which shall include, without limitation, all fees, costs and expenses of appeals.
+
+ 
+
+(g)           Headings.  The headings contained in this Agreement are for reference purposes only and shall not affect in any way the meaning or interpretation of this Agreement.
+
+ 
+
+(h)           Severability.  If any term or other provision of this Agreement is invalid, illegal or incapable of being enforced by any rule of law or public policy, all other conditions and provisions of this Agreement shall nevertheless remain in full force and effect so long as the economic or legal substance of the Election of Directors contemplated hereby is not affected in any manner materially adverse to any party.  Upon such determination that any term or other provision is invalid, illegal or incapable of being enforced, the parties hereto shall negotiate in good faith to modify this Agreement so as to effect the original intent of the parties as closely as possible in an acceptable manner to the end that Election of Directors contemplated hereby are fulfilled to the extent possible.
+
+ 
+
+
+
+ 
+
+ 
+
+
+
+ 
+
+
+
+(i)           Entire Agreement.  This Agreement constitutes the entire agreement, and supersedes all prior and contemporaneous agreements and understandings, both written and oral, among the parties with respect to the subject matter hereof.
+
+ 
+
+(j)           Assignment.  Neither this Agreement nor any of the rights, interests or obligations hereunder shall be assigned by any of the parties hereto, in whole or in part (whether by operation of law or otherwise), without the prior written consent of the other parties, and any attempt to make any such assignment without such consent shall be null and void.  Notwithstanding the above, this Agreement may be assigned by the Conversion Stockholders if ownership of 50% or more of the Common Stock originally received upon conversion of all of the Notes is transferred to the assignee(s) (in which case the assignee(s) shall agree to be bound by all the provisions of this Agreement).  The parties hereto acknowledge and agree that Goldman Sachs (together with its successors and assigns) has a security interest in all or a portion of the Voting Shares beneficially owned by the Trust and is and shall be entitled to all of the rights and benefits of a Stockholder hereunder for any such shares beneficially owned by Trust.  Upon receipt of written notice from Goldman Sachs that an Event of Default (as that term is defined in the Security Agreement) has occurred and that the Notice Period (as that term is defined in the Credit Agreement), to the extent applicable, has expired, the Company and the other parties hereto shall comply with the written instructions and directions of Goldman Sachs with respect to the Trust’s Voting Shares and Goldman Sachs shall be entitled to vote and take all other actions with respect thereto.
+
+ 
+
+(k)           Binding Effect.  This Agreement shall be binding upon and inure solely to the benefit of each party hereto and their respective successors and assigns.
+
+ 
+
+(l)           Mutual Drafting.  This Agreement shall be construed without regard to any presumption or rule requiring construction or interpretation against the party drafting or causing this Agreement to be drafted.
+
+ 
+
+(m)           Governing Law.  This Agreement shall be governed by and construed in accordance with the laws of the State of Delaware, regardless of the laws that might otherwise govern under applicable principles of conflicts of laws thereof.
+
+ 
+
+(n)           Consent to Jurisdiction.  Each of the parties hereto hereby irrevocably and unconditionally submits, for itself and its property, to the exclusive jurisdiction of the courts of the State of Delaware in any action or proceeding arising out of or relating to this Agreement or the agreements delivered in connection herewith or the Election of Directors contemplated hereby or thereby or for recognition or enforcement of any judgment relating thereto, and each of the parties hereby irrevocably and unconditionally (i) agrees not to commence any such action or proceeding except in such court, (ii) agrees that any claim in respect of any such action or proceeding may be heard and determined in such court, (iii) waives, to the fullest extent it may legally and effectively do so, any objection which it may now or hereafter have to the laying of venue of any such action or proceeding in such court and (iv) waives, to the fullest extent permitted by laws, the defense of an inconvenient forum to the maintenance of such action or proceeding in such court.  Each of the parties hereto agrees that a final judgment in any such action or proceeding shall be conclusive and may be enforced in other jurisdictions by suit on the judgment or in any other manner provided by laws.  Each party to this Agreement irrevocably consents to service of process in the manner provided for notices in Section 10(b).  Nothing in this Agreement shall affect the right of any party to this Agreement to serve process in any other manner permitted by laws.
+
+ 
+
+
+
+ 
+
+ 
+
+
+
+ 
+
+
+
+(o)           Amendment; Waiver.  No provision of this Agreement may be waived unless in writing signed by all of the parties to this Agreement, and the waiver of any one provision of this Agreement shall not be deemed to be a waiver of any other provision.  This Agreement may be amended, supplemented or otherwise modified only by a written agreement executed by all of the parties to this Agreement.
+
+ 
+
+(p)           Stop Transfer Order.  In furtherance of this Agreement, each Stockholder shall and does hereby authorize and request that the Company instruct its transfer agent to enter a stop transfer order, consistent with the terms of this Agreement and subject to such transfers as may be permitted by the express terms hereof, with respect to all of the Voting Shares beneficially owned by such Stockholder.
+
+ 
+
+(q)           Further Assurances.  From time to time, at the other party’s request and without further consideration, each party hereto shall execute and deliver such additional documents and take all such further action as may be reasonably necessary to consummate and make effective, in the most expeditious manner practicable, the Election of Directors.
+
+ 
+
+(r)           Fiduciary Duties.  Notwithstanding anything in this Agreement to the contrary set forth herein, none of the covenants and agreements contained in this Agreement shall prevent any Stockholder from serving as an officer of the Company or a member of the Company’s Board of Directors, or from taking any action, subject to the applicable provisions of the Conversion Agreement, while acting in such capacity as an officer or a director of the Company.
+
+ 
+
+(s)           Specific Performance.  The parties hereto hereby declare that it is impossible to measure in money the damages which will accrue to a party hereto or to their heirs, personal representatives, or assigns by reason of a failure to perform any of the obligations under this Agreement and agree that the terms of this Agreement shall be specifically enforceable.  If any party hereto or his heirs, personal representatives, or assigns institutes any action or proceeding to specifically enforce the provisions hereof, any person against whom such action or proceeding is brought hereby waives the claim or defense therein that such party or such personal representative has an adequate remedy at law, and such person shall not offer in any such action or proceeding the claim or defense that such remedy at law exists.
+
+ 
+
+
+
+ 
+
+ 
+
+
+
+ 
+
+ 
+
+
+
+IN WITNESS WHEREOF, each of the parties hereto has executed this Voting Agreement as of the date first above written.
+
+ 
+
+
+
+
+
+Solar EnerTech Corp
+
+ 
+
+ 
+
+By:
+
+/s/ Leo Shi Young
+
+ 
+
+Leo Shi Young
+
+ 
+
+Chief Executive Officer and President
+
+ 
+
+CONVERSION STOCKHOLDERS:
+
+ 
+
+THE QUERCUS TRUST
+
+ 
+
+ 
+
+By:
+
+
+
+/s/ David Gelbaum
+
+Name: 
+
+David Gelbaum
+
+Title:
+
+Trustee
+
+ 
+
+ 
+
+
+
+/s/ Leo Young
+
+LEO YOUNG, individually

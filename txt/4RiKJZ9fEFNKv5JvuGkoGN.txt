@@ -1,0 +1,275 @@
+Exhibit 10.1
+
+GENTIVA HEALTH SERVICES, INC.
+
+AMENDED AND RESTATED 2004 EQUITY INCENTIVE PLAN
+
+NOTICE OF PERFORMANCE SHARE UNIT AWARD
+
+ 
+
+Name of Award Recipient:
+
+[Name]
+
+Threshold Award:
+
+[Number]
+
+Target Award:
+
+[Number]
+
+Maximum Award:
+
+[Number]
+
+Date of Grant:
+
+[Date]
+
+Performance Period:
+
+[Period]
+
+Performance Measures
+
+The Performance Period is divided into three separate periods reflecting each of the three Fiscal Years ending within the Performance Period.  Except as otherwise provided in this Notice, each Fiscal Year will cover one-third (1/3) of the Threshold, Target and Maximum Awards and the Award Recipient will earn between 0% and 150% of one-third (1/3) of the Target Award depending on the Company's performance against the following pre-established fully diluted earnings per share goals during each Fiscal Year ending within the Performance Period (with any fractional Share earned rounded up to a whole Share; provided that if the total Shares earned under this award would exceed the total Maximum Award specified at the top of this Notice because of such rounding, the fractional Share would be rounded down and forfeited):
+
+Performance Measures - Fiscal Year One (Year Ending __________)
+
+ 
+
+Threshold
+
+Target
+
+Maximum
+
+ 
+
+Fully Diluted Earnings Per Share ("EPS")
+
+50%
+
+Actual EPS for the Fiscal Year ended [____] x [___]%
+
+100%
+
+Actual EPS for the Fiscal Year ended [____] x [___]%
+
+150%
+
+Actual EPS for the Fiscal Year ended [____] x [___]%
+
+ 
+
+Performance Measures - Fiscal Year Two (Year Ending ________)
+
+ 
+
+Threshold
+
+Target
+
+Maximum
+
+ 
+
+EPS
+
+50%
+
+Fiscal Year One Actual EPS x [___]%
+
+100%
+
+Fiscal Year One Actual EPS x [___]%
+
+150%
+
+Fiscal Year One Actual EPS x [___]%
+
+ 
+
+ 
+
+Performance Measures - Fiscal Year Three (Year Ending ________)
+
+ 
+
+Threshold
+
+Target
+
+Maximum
+
+ 
+
+EPS
+
+50%
+
+Fiscal Year Two Actual EPS x [___]%
+
+100%
+
+Fiscal Year Two Actual EPS x [___]%
+
+150%
+
+Fiscal Year Two Actual EPS x [___]%
+
+Except as otherwise provided in this Notice or the Agreement, in order for the Award Recipient to earn an award for a Fiscal Year, the Threshold Performance Measure must be met or exceeded; and if the Threshold Performance Measure is not met or exceeded for a Fiscal Year, no Shares will be earned under this Agreement for such Fiscal Year and the Award Recipient's Performance Share Units granted for such Fiscal Year will be cancelled and forfeited in their entirety and without payment.
+
+The Threshold and Target performance levels (i.e., 50% and 100%) will be increased on a pro-rata basis for EPS amounts between the Threshold and Target or Target and Maximum levels, respectively, and will be rounded up to the next highest whole Share; provided that if the total Shares earned under this award would exceed the total Maximum Award specified at the top of this Notice because of such rounding, the fractional Share would be rounded down and forfeited.  For example, if the Threshold EPS amount is $[___], the Target EPS amount is $[___], and the actual EPS amount for Fiscal Year One is $[___], (i.e., between the Threshold and Target performance levels), the Performance Share Units will be deemed earned at a pro-rata performance level between Threshold and Target, or at [___]% ([___]% + [___]% [[___]% X $[___]/$[___]]).
+
+Catch-Up Opportunity
+
+If the actual EPS amount for Fiscal Year One or Two is below the Target Performance Measure, the Award Recipient will have an opportunity to earn the number of Shares equal to the difference between the Target Award and the Shares actually earned, if any, for Fiscal Year One or Two, as applicable, with any fractional Share rounded down and forfeited (referred to hereinafter as the "Catch-Up Shares").  Any Catch-up Shares from Fiscal Year One will be earned in Fiscal Year Two if the actual EPS for Fiscal Year Two equals or exceeds the actual EPS for the Fiscal Year ended [___] increased by [___]%, compounded annually.  Any Catch-Up Shares from Fiscal Year One or Two that were not previously earned will be earned in Fiscal Year Three if the actual EPS for Fiscal Year Three equals or exceeds the actual EPS for the Fiscal Year ended [___] increased by [___]%, compounded annually.  Any Catch-Up Shares earned during the Performance Period will be subject to the same vesting and delivery terms and conditions as any Shares earned in accordance with the preceding section of this Notice.
+
+Adjustments to EPS Performance Measures
+
+For purposes of the Agreement and this Notice, in determining the extent to which, if any, the EPS Performance Measures are met, the Committee shall exclude the impact of charges for restructurings, discontinued operations (including dispositions and other divestitures), extraordinary items and other unusual or non-recurring items, and the cumulative effects of accounting changes, each as defined by generally accepted accounting principles as identified in the Company's financial statements, notes to the financial statements or management's discussion or analysis.  The Committee shall not exclude the
+
+ 
+
+impact of acquisitions or any other business combinations during the Performance Period, or any other events not expressly referenced herein.
+
+By signing your name below, you accept this award and acknowledge and agree that this award is granted under and governed by the terms and conditions of Gentiva Health Services, Inc.'s Amended and Restated 2004 Equity Incentive Plan and the Performance Share Unit Award Agreement reference number 001, both of which are hereby made a part of this document.  Any capitalized terms that are not expressly defined in this Notice shall have the meanings described in the Agreement.
+
+ 
+
+AWARD RECIPIENT:
+
+GENTIVA HEALTH SERVICES, INC.
+
+ 
+
+ 
+
+__________________________________
+
+By:_______________________________
+
+[Name]
+
+Title:______________________________
+
+ 
+
+ 
+
+GENTIVA HEALTH SERVICES, INC.
+
+AMENDED AND RESTATED 2004 EQUITY INCENTIVE PLAN
+
+PERFORMANCE SHARE UNIT AWARD AGREEMENT
+
+REFERENCE 001
+
+SECTION 1.  GRANT OF PERFORMANCE SHARE UNIT AWARD.
+
+(a)  Performance Share Unit Award.  On the terms and conditions set forth in this Agreement and each Notice of Performance Share Unit Award referencing this Agreement (the "Notice"), the Company hereby grants the Award Recipient a performance grant in the form of Performance Share Units.  Each Performance Share Unit award under this Agreement shall represent a right to receive one Share of the Company's common stock, par value $.10 per share, to the extent such Performance Share Unit is earned and vested pursuant to the terms of this Agreement.  Each Notice, together with this referenced Agreement, shall be a separate Performance Share Unit award governed by the terms of this Agreement.
+
+(b)  Equity Incentive Plan and Defined Terms.  This award is granted under and subject to the terms of the Plan, which is incorporated herein by this reference.  Capitalized terms are defined in Section 7 of this Agreement.
+
+SECTION 2.  PERFORMANCE SHARE UNITS
+
+(a)  Target Award.  The Target Award means the target number of Performance Share Units covered by and subject to the terms of this Agreement as set forth in the Notice.  Subject to satisfaction of the applicable Performance Measures, the Award Recipient can earn, as specified in the Notice, between 0% and 200% of the Target Award.
+
+(b)  Performance Period.  The Performance Period means the performance period as set forth in the Notice.
+
+(c)  Performance Measures.  Subject to the provisions of this Agreement, the Company shall issue and deliver to the Award Recipient one (1) Share for each whole Performance Share Unit that is earned in accordance with the Performance Measures set forth in the Notice; provided, however, that the Committee may reduce the number of Performance Share Units earned under this Award, but in no event may the Committee increase the number of Performance Share Units earned under this Award beyond the performance levels achieved.
+
+(d)  Dividend Equivalent Rights.  If a regular cash dividend is declared on the Company's Shares during a Performance Period with respect to which an Award Recipient earns a Performance Share Unit (even if the Award Recipient earns the Performance Share Unit for such Performance Period after the date the regular cash dividend is declared), a notional account shall be maintained for the Award Recipient under this Award and shall be credited with the amount of regular dividends that would have been paid to the Award Recipient on such Performance Share Units if they had been earned and the underlying Shares had been issued to the Award Recipient immediately before the regular cash dividend had been declared; provided that, if the Notice provides that specific Performance Share Units shall be earned for specific Fiscal Years ending within the Performance Period or other separately designed Performance Periods, the
+
+ 
+
+dividend equivalent rights shall be determined separately for each Fiscal Year (or other separately designated Performance Period) so that dividend equivalent rights shall be credited with respect to Performance Share Units only for regular cash dividends declared for the Fiscal Year (or other separately designated Performance Period) for which the Performance Share Unit is earned and any regular cash dividends declared thereafter and before the related Shares are delivered to the Award Recipient. Any such dividend equivalent amounts credited to the Award Recipient's notional account hereunder shall be subject to the same terms and conditions (including, without limitation, any applicable vesting requirements, forfeiture provisions or catch-up opportunities) as the Performance Share Units with respect to which the dividend equivalent amounts were originally credited. To the extent any dividend equivalent amounts are earned and vested, the dividend equivalent amounts shall be paid in a single, lump sum payment in cash at the same time as the related Shares are delivered to the Award Recipient.
+
+SECTION 3.  SEPARATION FROM SERVICE.
+
+(a)  General Rule - Forfeiture of Award.  Except as otherwise provided in this Section 3, if the Award Recipient Separates from Service for any reason prior to the end of the Performance Period, then effective at the close of business on the date the Award Recipient Separates from Service, all of the Award Recipient's Performance Share Units covered by this Agreement (including any dividend equivalent rights credited pursuant to Section 2(d) above), whether earned or unearned, shall be automatically cancelled and forfeited in their entirety without any further obligation on the part of the Company, such that the Company shall not be obligated to issue any Shares or any other compensation to Award Recipient with respect to such cancelled and forfeited Performance Share Units.
+
+(b)  Death, Disability and Certain Involuntary Separations from Service.  If during the Performance Period (i) the Award Recipient Separates from Service as a result of the Award Recipient's Disability or death, or (ii) the Award Recipient experiences an involuntary Separation from Service by the Company on account of the Award Recipient's position being eliminated by the Company or a reduction in force by the Company affecting multiple positions, the Award Recipient shall be entitled to receive the portion of the Performance Share Units earned, if any, before such Separation from Service pursuant to Section 2(c) above.  Any Shares to which Award Recipient becomes entitled to receive pursuant to the preceding sentence will be issued and delivered to Award Recipient as soon as administratively practicable following such Separation from Service, but in no event later than March 15th of the calendar year beginning closest to the end of the Fiscal Year in which the Award Recipient Separates from Service; provided, however, that no certificate(s) for, or other evidence of ownership of, Shares shall be delivered with respect to Performance Share Units unless the Committee has certified in writing that the applicable Performance Measures set forth in the Notice and other material terms of this Agreement have been achieved.  Any delivery of shares on account of the Award Recipient's death shall be made to the Award Recipient's estate.
+
+(c)  Change of Control.  In the event that a Change in Control occurs prior to the end of the Performance Period, the Performance Share Units that have been earned for any Fiscal Year ending before such Change in Control plus any Performance Share Units at the Target Award level for any Fiscal Year ending after such Change in Control that have not been previously cancelled and forfeited shall become fully vested and payable (and the Performance Period shall thereafter be deemed to have terminated).  Any Shares to which the Award Recipient becomes entitled to receive pursuant to the preceding sentence will be issued and delivered to the Award Recipient contemporaneously with the consummation of the Change of Control.
+
+ 
+
+SECTION 4.  DELIVERY OF SHARES AND TAXES.
+
+(a)  Delivery of Shares.  Except as otherwise provided in this Agreement and subject to satisfaction of the applicable tax withholding requirements set forth in subsection (b) below, the Company shall cause stock certificate(s) or other evidence of ownership representing the number of Shares earned and vested and determined under Section 2(c) to be delivered to the Award Recipient in the calendar year beginning closest to the end of the Performance Period, but no later than March 15th of such calendar year; provided, however, that: (i) except as provided below, no certificate(s) for, or other evidence of ownership of, Shares shall be delivered with respect to Performance Share Units unless the Committee has certified in writing that the applicable Performance Measures set forth in the Notice and other material terms of this Agreement have been achieved; and (ii) the Company shall not deliver stock certificate(s) or other evidence of ownership representing Shares if the Committee determines, in its sole discretion, that the delivery of such certificate(s) or other evidence of ownership would violate the terms of the Plan, this Agreement or applicable law.
+
+(b)  Income Taxes.  The Award Recipient acknowledges that any income for federal, state or local income tax purposes that the Award Recipient is required to recognize on account of the issuance and delivery of Shares to the Award Recipient shall be subject to withholding of tax by the Company.  In accordance with administrative procedures established by the Company, the Award Recipient may elect to satisfy his or her minimum statutory withholding tax obligations, if any, on account of the issuance of Shares or settlement of this award in one or a combination of the following methods: (i) in cash or separate check made payable to the Company, or (ii) by authorizing the Company to withhold from the Shares to be issued to the Award Recipient hereunder a sufficient number of whole Shares distributable in connection with this Award equal to the applicable minimum statutory withholding tax obligation.  In the event the Award Recipient does not make such payment when requested, the Company may refuse to issue or cause to be delivered any Shares under this Agreement or any other incentive plan agreement entered into by the Award Recipient and the Company until such payment has been made or arrangements for such payment satisfactory to the Company have been made.
+
+(c)  Code Section 409A.  This Award is intended to be excepted from coverage under Code section 409A and the regulations promulgated thereunder and shall be interpreted and construed accordingly.  Notwithstanding, Award Recipient recognizes and acknowledges that Code section 409A may impose upon the Award Recipient certain taxes or interest charges for which the Award Recipient is and shall remain solely responsible.
+
+SECTION 5.  ADJUSTMENT OF SHARES.
+
+(a)  Adjustment Generally.  In the event of any corporate event or transaction (including, but not limited to, a change in the Shares of the Company or the capitalization of the Company) such as a merger, consolidation, reorganization, recapitalization, separation, stock dividend, stock split, reverse stock split, split up, spin-off, combination of Shares, exchange of Shares, dividend in kind, or other like change in capital structure (other than regular cash dividends) to shareholders of the Company, or any similar corporate event or transaction, the Committee, in its sole discretion, to prevent dilution or enlargement of the Award Recipient's rights under the Plan, shall determine whether and the extent to which it should substitute or adjust, as applicable, the number and kind of Shares.
+
+ 
+
+(b)  Modification of Award.  In the event the Committee exercises its discretion in subsection (a) above and makes a change or distribution described therein, the Committee shall modify this award to effect the adjustment permitted pursuant to subsection (a) above; provided, however, that no such modification shall materially and adversely affect the Award Recipient's rights under this award without the Award Recipient's written consent.
+
+SECTION 6.  MISCELLANEOUS PROVISIONS.
+
+(a)  No Right to Continued Service.  Nothing in the Notice, Agreement or Plan shall confer upon the Award Recipient any right to continue in service for any period of specific duration or interfere with or otherwise restrict in any way the rights of the Company (or any parent corporation or subsidiary corporation employing or retaining the Award Recipient) or of the Award Recipient, which rights are hereby expressly reserved by each, to terminate his or her service at any time and for any reason, with or without cause.
+
+(b)  Limitation of Rights and Investment Representation.  Except as otherwise provided in the Plan or this Agreement, no holder of Performance Share Units shall be, or have any of the rights or privileges of, a stockholder of the Company with respect to any Shares unless and until certificates or other evidence of ownership representing such Shares shall have been issued or reflected in such person's name.  Prior to actual receipt of the Shares under this award, the Award Recipient may not transfer any interest in the award or the underlying Shares.  The Award Recipient acknowledges and agrees that the Shares which the Award Recipient acquires pursuant to this Agreement, if any, shall not be sold, transferred, assigned, pledged or hypothecated in the absence of an effective registration statement for the Shares under the Securities Act of 1933, as amended, and applicable state securities laws or an applicable exemption from the registration requirements of the Securities Act of 1933, as amended, and any applicable state securities laws, and shall not be sold or otherwise disposed of in any manner which would constitute a violation of any applicable securities laws, whether federal or state.  Any attempt to transfer the Performance Share Units or Shares in violation of this Section 6(b) or the Plan shall render this award of Performance Share Units null and void.
+
+(c)  Notification.  Any notification required by the terms of this Agreement shall be given in writing and shall be deemed effective upon personal delivery or upon deposit with the United States Postal Service, by registered or certified mail, with postage and fees prepaid.  A notice shall be addressed to the Company at its principal executive office and to the Award Recipient at the address that he or she most recently provided to the Company.
+
+(d)  Entire Agreement.  The Notice, this Agreement and the Plan constitute the entire contract between the parties hereto with regard to the subject matter hereof.  They supersede any other agreements, representations or understandings (whether oral or written and whether express or implied) which relate to the subject matter hereof.
+
+(e)  Waiver.  No waiver of any breach or condition of this Agreement shall be deemed to be a waiver of any other or subsequent breach or condition whether of like or different nature.
+
+(f)  Successors and Assigns.  The provisions of this Agreement shall inure to the benefit of, and be binding upon, the Company and its successors and assigns and upon the Award Recipient, the Award Recipient's assigns and the legal representatives, heirs and legatees of the Award Recipient's estate, whether or not any such person shall have become a party to this Agreement and have agreed in writing to be joined herein and be bound by the terms hereof.
+
+ 
+
+(g)  Choice of Law.  This Agreement shall be governed by, and construed in accordance with, the laws of the State of Delaware (regardless of the law that might otherwise govern under applicable Delaware principles of conflict of laws).
+
+SECTION 7.  DEFINITIONS.
+
+(a)  "Agreement" shall mean this Performance Share Unit Award Agreement.
+
+(b)  "Award Recipient" shall mean the person named in the Notice.
+
+(c)  "Board of Directors (or Board)" shall mean the Board of Directors of the Company, as constituted from time to time.
+
+(d)  "Change of Control" shall have the meaning described in Section 13(d) of the Plan.
+
+(e)  "Code" shall mean the Internal Revenue Code of 1986, as amended from time to time, and the regulations promulgated thereunder.
+
+(f)  "Committee" shall mean the committee of the Board of Directors responsible for administering the Plan, as described in Section 2(a) of the Plan.
+
+(g)  "Company" shall mean Gentiva Health Services, Inc., a Delaware corporation, and any successor thereto.
+
+(h)  "Disability" shall mean that the Award Recipient is unable to engage in any substantial gainful activity by reason of any medically determinable physical or mental impairment as determined by the Committee in its sole discretion.
+
+(i)  "Employee" shall mean any individual who is a common-law employee of the Company or any subsidiary.
+
+(j)  "Exchange Act" shall mean the Securities Exchange Act of 1934, as amended.
+
+(k)  "Fiscal Year" shall mean the taxable year of the Company, which is the 52/53-week year ending on the Sunday closest to January 1.
+
+(l)  "Notice" shall have the meaning described in Section 1(a) of this Agreement.
+
+(m)  "Performance Measures" shall have the meaning described in Section 2(c) of this Agreement.
+
+(n)  "Performance Period" shall have the meaning described in Section 2(b) of this Agreement.
+
+(o)  "Performance Share Unit" shall mean the performance grant awarded pursuant to this Agreement, which shall represent the right to receive one (1) Share to the extent the Performance Share Unit is earned and vested pursuant to the terms of this Agreement.
+
+(p)  "Plan" shall mean Gentiva Health Services, Inc.'s Amended and Restated 2004 Equity Incentive Plan.
+
+ 
+
+(q)  "Separation (or Separates) from Service" shall mean the Award Recipient's death, retirement or other termination of employment or service with the employer (including all persons treated as a single employer under Code sections 414(b) and 414(c)).  For purposes hereof, the determination of controlled group members shall be made pursuant to the provisions of Code sections 414(b) and 414(c); provided that the language "at least 50 percent" shall be used instead of "at least 80 percent" each place that is appears in Code sections 1563(a)(1), (2) and (3) and Treas. Reg. section 1.414(c)-2; provided, further, where legitimate business reasons exist (within the meaning of Treas. Reg. section 1.409A-1(h)(3)), the language "at least 20 percent" shall be used instead of "at least 80 percent" in each place it appears.  Whether an Award Recipient has experienced a Separation from Service will be determined based on all of the facts and circumstances in accordance with the guidance issued under Code section 409A and, to the extent not inconsistent therewith, the terms of the Plan.
+
+(r)  "Share" shall mean one share of common stock of the Company, par value $.10.
+
+(s)  "Target Award" shall have the meaning described in Section 2(a) of this Agreement.

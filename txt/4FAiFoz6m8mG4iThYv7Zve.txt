@@ -1,0 +1,877 @@
+Exhibit 10.2
+
+
+
+STOCK PURCHASE AGREEMENT
+
+
+
+THIS STOCK PURCHASE AGREEMENT (the “Agreement”) is made this December 31, 2009 by and among DUTCH GOLD RESOURCES, INC., a publicly-owned Nevada Corporation (the “Buyer”), Rauno Perttu, Strategic Minerals Inc., a Nevada corporation, and Aultra Gold Capital Inc., a Turks and Caicos corporation  (collectively, the “Seller”).
+
+
+
+WITNESSETH
+
+
+
+WHEREAS, the Seller is the holder of Six Million Four Hundred Forty Two Thousand Five Hundred (6,442,500) issued and outstanding shares of the common stock of Aultra Gold, Inc., a publicly-owned Nevada corporation (the “Company”), with a class of Securities registered pursuant to the Securities Act of 1933, as amended, whose shares of common stock, par value $0.001 per share (the “Common Stock”) are traded on the over the counter Bulletin Board under the symbol “AGDI”; and
+
+
+
+WHEREAS, the Buyer wishes to purchase from the Seller, and the Seller wishes to sell to the Buyer, Six Million Four Hundred Forty Two Thousand Five Hundred (6,442,500) of the shares of Common Stock held by the Seller (the “Shares”) in consideration the issue of One Million Shares of common shares of Buyer;
+
+
+
+NOW THEREFORE, in consideration of the foregoing and the mutual covenants, agreements and warranties herein contained and for other good and valuable consideration, the sufficiency and receipt of which are hereby acknowledged, the parties agree as follows:
+
+
+
+ARTICLE I
+
+DEFINITIONS
+
+
+
+1.
+
+Definitions.
+
+
+
+The following terms shall have the following meanings for the purposes of this Agreement:
+
+
+
+(a)           “Affiliate” means, with respect to any specified Person,
+
+
+
+(i)        	 any other Person which, directly or indirectly, owns or controls, is under common ownership or control with, or is owned or controlled by, such specified Person;
+
+
+
+(ii)            any other Person which is a director, officer or partner or is, directly or indirectly, the beneficial owner of 10 percent or more of any class of equity securities of the specified Person or a Person described in clause (a) of this paragraph;
+
+
+
+(iii)           another Person of which the specified Person is a director, officer or partner or is, directly or indirectly, the beneficial owner of 10 percent or more of any class of equity securities; or
+
+
+
+(iv)           any relative or the spouse of the specified Person or any of the foregoing Persons.
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+(b)           “Business Day” means any day of the year other than:
+
+
+
+ 
+
+(i)
+
+any Saturday or Sunday, or
+
+
+
+ 
+
+(ii)
+
+any day which is a Legal Holiday as declared to be such by federal law.
+
+
+
+(c)        	“Closing” means the consummation(s) of the transactions contemplated herein.
+
+
+
+(d)        	“Closing Date” means the date on which the Closing occurs.
+
+
+
+(e)      	  “Contract” means any contract, lease, commitment, understanding, sales order, purchase order, agreement, indenture, mortgage, note, bond, right, warrant, instrument, plan, permit or license, whether written or oral.
+
+ 
+
+(f)       	  “Dollars” or numbers preceded by the symbol “$” means amounts in United States Dollars.
+
+
+
+(g)           “Governmental Authority” means the government of the United States or any foreign country or any state or political subdivision thereof and any entity, body or authority exercising executive, legislative, judicial, regulatory or administrative functions of or pertaining to government.
+
+
+
+(h)        	“Law” or “Laws” means any law, statute, regulation, ordinance, rule, order, decree, judgment, consent decree, settlement agreement or governmental requirement enacted, promulgated, entered into, agreed or imposed by any Governmental Authority.
+
+
+
+(i)         	“Lien” means any mortgage, lien, charge, restriction, pledge, security interest, option, lease or sublease, claim, right of any third party, easement, encroachment or encumbrance.
+
+
+
+(j)         	“Loss” or “Losses” means any and all liabilities, losses, costs, claims, damages (including consequential damages), penalties and expenses (including attorneys’ fees and expenses and costs of investigation and litigation). In the event any of the foregoing are indemnifiable hereunder, the terms “Loss” and “Losses” shall include any and all attorneys’ fees and expenses and costs of investigation and litigation incurred by the Indemnified Person in enforcing such indemnity. No Loss shall be reduced by reason of tax benefits allegedly enjoyed as a result of such Loss by an Indemnified Party.
+
+
+
+(k)            “Person” means any individual, corporation, proprietorship, firm, partnership, limited partnership, trust, association or other entity, including a government or government department, agency or instrumentality.
+
+
+
+(l)             “Parties” shall mean the Buyer and the Seller, collectively.
+
+
+
+(m)           “Securities Act” means the Securities Act of 1933, as amended.
+
+
+
+(n)           “Exchange Act” means the Securities Exchange Act of 1934, as amended.
+
+
+
+(o)           “Security” or “Securities” means any note, stock, treasury stock, bond, debenture, evidence of indebtedness, certificate of interest or participation in any profit-sharing agreement, collateral-trust certificate, reorganization certificate or subscription, transferable share, investment contract, voting-trust certificate, certificate of deposit for a security, fractional undivided interest in oil, gas, or other mineral rights, any put, call, straddle, option, or privilege on any security, certificate of deposit, or group or index of securities (including any interest therein or based on the value thereof), or any put, call, straddle, option, or privilege entered into on a national securities exchange relating to foreign currency, or, in general, any interest or instrument commonly known as a “security”, or any certificate of interest or participation in, temporary or interim certificate for, receipt for, guarantee of, or warrant or right to subscribe to or purchase, any of the foregoing.
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+(p)           “Taxes” means all taxes, charges, fees, duties, levies or other assessments, including income, gross receipts, net proceeds, ad valorem, turnover, real and personal property (tangible and intangible), sales, use, franchise, excise, value added, stamp, leasing,  lease, user, transfer, fuel, excess profits, occupational, interest equalization, windfall profits, severance, employee's income withholding, other withholding, unemployment and Social Security taxes, which are imposed by any Governmental Authority, and such term shall include any interest, penalties or additions to tax attributable thereto.
+
+
+
+ARTICLE II
+
+SALE AND PURCHASE OF SHARES
+
+
+
+2.1           Sale and Purchase of Shares.
+
+
+
+(a)           The Seller hereby agrees to sell to the Buyer the Shares, which represent approximately Sixty-Seven Percent (67%) of the issued and outstanding shares of capital stock of the Company, free and clear of all Liens, and the Buyer hereby agrees to purchase all such Shares, subject to the terms and conditions of this Agreement, in consideration for: (i) the issuance of One Million (1,000,000) newly-issued shares of the Buyer’s common stock, par value $0.001 per share (the “Purchase Shares”); and (ii) other good and valuable considerations, receipt of which is acknowledged herein (the “Purchase Price”).
+
+
+
+(b)           On the Closing Date, the Buyer shall deliver the Purchase Shares and the Indebtedness Retirement and the Seller shall deliver the Shares in their collective possession and medallion guaranteed stock powers for all the Shares to the Buyer.  The Buyer acknowledges that 24,325,000 of the pre-reverse split Shares are currently being held without permission by Randall Lanham, an attorney in California located at 28562 Oso Parkway, Suite D, Rancho Santa Margarita, California 92688
+
+ 
+
+ARTICLE III
+
+REPRESENTATIONS AND WARRANTIES OF THE SELLER
+
+
+
+3.1           Ownership of Securities.  Except as set forth herein, the Seller is the owner, beneficially and of record, of the Shares, free and clear of any adverse claim, lien, option, charge, security interest or encumbrance of any nature whatsoever (collectively, the “Liens”). The Seller is allowed to sell the Shares in a private transaction without volume limitation.
+
+
+
+3.2           Authorization to Convey the Shares.  Except as set forth herein, the Seller has full power and authority to sell, convey, assign and transfer the Shares to the Buyer and otherwise consummate the transactions contemplated by this Agreement and receive payment for the Shares as contemplated by this Agreement. The Buyer shall acquire good and marketable title to the Shares free and clear of all Liens. No authorization, approval or consent of any third party is required for the lawful execution, delivery and performance of this Agreement by the Seller.
+
+
+
+3.3           Non-contravention.  This Agreement constitutes a valid and legally binding obligation of the Seller, enforceable against it in accordance with its terms.  Neither the execution and delivery of this Agreement, nor the consummation of the transactions contemplated hereby in the manner herein provided, will constitute a violation of or default under, or conflict with, any judgment, decree, statute or regulation or any governmental authority applicable to the Seller or any contract, commitment, agreement or restriction of any kind to which the Seller is a party or by which its assets are bound.  The execution and delivery of this Agreement does not, and the consummation of the transactions described herein will not, violate applicable law, or any mortgage, lien, agreement, indenture, lease or understanding (whether oral or written) of any kind outstanding relative to the Seller.
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+3.4           Approval of Agreement. This Agreement is the legal, valid, and binding obligation of the Seller enforceable in accordance with its terms.
+
+
+
+3.5           Governmental Authorizations.  The Seller is not required to obtain authorization, approval, consent, or order of, or make a registration or filing, with, any court or other governmental body in connection with the execution and delivery by the Seller of this Agreement and the consummation by the Seller of the transactions contemplated hereby.
+
+
+
+3.6           No Conflict With Other Instruments.  The execution of this Agreement and the consummation of the transactions contemplated hereby, will not result in the breach of any term or provision of, constitute an event of default under, or require the consent or approval of any third-party pursuant to, any material contract, agreement, or instrument to which the Seller is a party.
+
+
+
+3.7           No Misrepresentations.  None of the information contained in the representations and warranties of the Seller set forth in this Agreement contains  any untrue statement of a material fact or omits to state a material fact necessary to make the statements contained herein not misleading.
+
+
+
+3.8           No Distribution.  The Shares were not (i) purchased by the Seller, for cash or service from the Company with a view to distribution or (ii) are being sold for the Company in connection with a distribution.  Furthermore, the Seller is not participating in a distribution by the Company.
+
+
+
+3.9           Financial Disclosure.  That the Financial Statements of the Company contained in its periodic filings with the Securities and Exchange Commission are true and accurate, and that there are no claims, creditors, liens or encumbrances of any kind, nature or description that are not contained on the financial statements.
+
+
+
+ARTICLE IV
+
+REPRESENTATIONS AND WARRANTIES OF THE BUYER
+
+
+
+In order to induce the Seller to enter into this Agreement, the Buyer represents and warrants to the Seller, as at the date of this Agreement and as at the Closing Date (as if such representations and warranties were remade on the Closing Date), as follows:
+
+
+
+4.1           The Buyer understands that the Shares are restricted stock, which has not been registered with the Securities and Exchange Commission, any state securities agency or any foreign securities agency, and further, the Stock has not been approved or disapproved by the Securities and Exchange Commission, any state securities agency or any foreign securities agency.
+
+
+
+4.2           The Buyer is acquiring the Shares solely for investment for his or her own account and not with a view to, or for, resale in connection with any distribution within the meaning of any federal securities act, state securities act or any other applicable federal or state laws;
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+4.3           The Buyer understands the speculative nature and risks of investments associated with the Shares, and confirms that the Shares would be suitable and consistent with his or her to bear the risks of this investment; and that there is no public market for the stock subscribed for herein.
+
+
+
+ARTICLE V
+
+COVENANTS
+
+
+
+5.1           Resignation as Officer and Director.  Rauno Perttu shall resign as an officer and director of the Company and tender his resignation from such positions effective as of the Closing Date.
+
+
+
+   5.2           Exclusivity.  The Seller shall not shall, directly or indirectly, solicit, initiate, encourage, respond favourably to, permit or condone inquiries or proposals from, or provide any Confidential Information to, or participate in any discussions or negotiations with, any person (other than the Buyer, and the respective directors, officers, employees, representatives and agents) concerning:
+
+
+
+(i)        	 any merger, sale of assets not in the ordinary course of business, acquisition, business combination, change of control or other similar transaction involving the Company, or
+
+
+
+(ii)            any purchase or other acquisition by any person of the Shares, or
+
+
+
+(iii)           any sale, or issuance by the Company of any shares of its Securities.
+
+
+
+5.3           The Seller will promptly advise the Buyer of, and communicate to the Buyer, the terms and conditions of (and the identity of the Person making), any such inquiry or proposal received.   
+
+
+
+5.4           The Seller not to Inhibit. Neither the Seller nor the Company will take any action (nor omit to take any action) which would adversely affect the ability of the Seller to sell and convey the Shares to the Buyer or adversely affect the business or business prospects of the Company.
+
+
+
+ARTICLE VI
+
+CONDITIONS PRECEDENT TO OBLIGATIONS OF THE BUYER
+
+
+
+The obligations of the Buyer under this Agreement are subject to the satisfaction or waiver by the Buyer of the following conditions precedent on or before the Closing Date unless otherwise specified:
+
+
+
+6.1           Warranties True as of Both Present Date and Closing Dates. The representations and warranties of the Seller contained herein shall have been accurate, true and correct on and as of the date of this Agreement, and shall also be accurate, true and correct on and as at the Closing Date with the same force and effect as though made by the Seller on the Closing Date.
+
+
+
+6.2           Compliance with Agreements and Covenants.  The Seller shall have performed and complied with all of its respective covenants, obligations and agreements contained in this Agreement to be performed and complied with by them on or prior to the Closing Date.
+
+
+
+6.3           Actions or Proceedings.  No action or proceeding by any Governmental Authority or other Person shall have been instituted or threatened which could enjoin, restrain or prohibit, or could result in substantial damages in respect of, any provision of this Agreement or the consummation of the transactions contemplated hereby.
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ ARTICLE VII
+
+CONDITIONS PRECEDENT TO OBLIGATIONS OF THE SELLER
+
+
+
+The obligations of the Seller under this Agreement are subject to the satisfaction or waiver by the Seller of the following conditions precedent on or before the Closing Date:
+
+
+
+7.1           Warranties True as of Both Present Date and Closing Date.  The representations and warranties of the Buyer contained herein shall have been accurate, true and correct on and as of the date of this Agreement, and shall also be accurate, true and correct on and as at the Closing Date with the same force and effect as though made by the Buyer on the Closing Date.
+
+
+
+7.2           Compliance with Agreements and Covenants. The Buyer shall have performed and complied with all of its respective covenants, obligations and agreements contained in this Agreement to be performed and complied with by it on or prior to the Closing Date. 
+
+
+
+7.3           Actions or Proceedings.  No action or proceeding by any Governmental Authority or other Person shall have been instituted or threatened which could enjoin, restrain or prohibit, or could result in substantial damages in respect of, any provision of this Agreement or the consummation of the transactions contemplated hereby.
+
+
+
+ARTICLE VIII
+
+THE CLOSING
+
+
+
+8.1           The Closing.
+
+
+
+(a)           The Closing shall be scheduled to occur at 12:00 noon at the offices of the Buyer, on or before ten days from the date first set forth above (the “Termination Date”), or on such later date as the Parties hereto shall mutually agree.
+
+
+
+(b)           The Closing, and all transactions to occur at the Closing, shall be deemed to have taken place at, and shall be effective as of, the close of business on the Closing Date.
+
+
+
+8.2           Deliveries by the Seller.
+
+
+
+At the Closing, in addition to any other documents or agreements required under this Agreement, the Seller shall deliver to the Buyer the following:
+
+
+
+(a)           Certificates evidencing the Shares, and medallion guaranteed stock powers executed in blank, with all signatures medallion guaranteed and with all necessary transfer taxes and other revenue stamps affixed and acquired at the Seller’s expense;
+
+
+
+(c)           The written resignation of Rauno Perttu;
+
+
+
+(d)           Evidence, in form satisfactory to the Buyer, that all consents and approvals have been obtained;
+
+
+
+(e)           A certificate dated as at the Closing Date of the Seller certifying as to the compliance by the Seller with Sections 6.1 and 6.2;
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+(f)           The Certificate of Incorporation or similar instruments of the Company certified by the Secretary of State or equivalent Person of the jurisdiction of incorporation of the Company, and By-laws or similar instruments of the Company, certified by the Secretary of the Company;
+
+
+
+(g)           Certificates of Good Standing for the Company from the State of Nevada;
+
+
+
+8.3           Deliveries by the Buyer. At the Closing, the Buyer shall deliver to the Seller the following:
+
+
+
+(a)           the Purchase Price;
+
+
+
+(b)           A certificate dated at the Closing Date, of an executive officer of the Buyer, certifying as to compliance by the Buyer as the case may be, with Sectios 7.1 and 7.2.
+
+
+
+ARTICLE IX
+
+TERMINATION
+
+
+
+9.1           Termination.  This Agreement may be terminated at any time on or prior to the Closing Date:
+
+
+
+(a)           By the mutual consent of the Seller and the Buyer;
+
+
+
+(b)           By the Seller or the Buyer, if the Closing shall not have taken place on or before the Termination Date; provided however, that the right to terminate this Agreement under this Section 10.1 (b) shall not be available to any Party whose wilful failure to fulfil any obligation under this Agreement has been the cause of or resulted in the failure of the Closing to occur on or before such date;
+
+
+
+(c)           By the Buyer, if there shall have been a breach of any covenant, representation or warranty or other agreement of the Seller hereunder, and such breach shall not have been remedied within ten (10) business days after receipt by the Seller of a notice in writing from the Buyer specifying the breach and requesting such be remedied; or
+
+
+
+(d)           By the Seller, if there shall have been a breach of any covenant, representation or warranty or other agreement of the Buyer hereunder, and such breach shall not have been remedied within ten (10) business days after receipt by the Buyer of notice in writing from the Seller specifying the breach and requesting such be remedied.
+
+
+
+9.2            Effect of Termination.  If this Agreement is terminated pursuant to Section 10.1, all obligations of the Parties hereunder shall terminate, except for the obligations set forth in Article X, which shall survive the termination of this Agreement, and except that no such termination shall relieve any party from liability for any prior wilful breach of this Agreement.
+
+
+
+ARTICLE X
+
+INDEMNIFICATION
+
+
+
+10.1         Seller hereby agrees to indemnify Buyer and each of its officers, agents and directors as of the date of execution of this Agreement against any loss, liability, claim, damage, or expense (including, but not limited to, any and all expense whatsoever reasonably incurred in investigating, preparing, or defending against any litigation, commenced or threatened, or any claim whatsoever), to which it or they may become subject arising out of or based on any inaccuracy appearing in or misrepresentation made in this Agreement. The indemnification provided for in this paragraph shall survive the Closing.
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+10.2         Buyer hereby agrees to indemnify Seller against any loss, liability, claim, damage, or expense (including, but not limited to, any and all expense whatsoever reasonably incurred in investigating, preparing, or defending against any litigation, commenced or threatened, or any claim whatsoever), to which it or they may become subject arising out of or based on any inaccuracy appearing in or misrepresentation made under this Agreement. The indemnification provided for in this paragraph shall survive the Closing.
+
+
+
+ARTICLE XI
+
+MISCELLANEOUS
+
+
+
+11.1         Expenses.  The Seller shall pay all expenses of the Seller and the Company (including attorneys’ fees and expenses), and the Buyer shall pay all expenses of the Buyer (including attorneys’ fees and expenses), in each case incurred in connection with this Agreement and the transactions contemplated hereby.
+
+
+
+11.2         Amendment.  This Agreement may be amended, modified or supplemented but only in writing signed by each of the Parties hereto.
+
+
+
+11.3         Notices.
+
+
+
+Any notice, request, instruction or other document required by the terms of this Agreement to be given to any other Party hereto shall be in writing and shall be given either
+
+
+
+(a)            by telephonic facsimile, in which case notice shall be presumptively deemed to have been given at the date and time displayed on the sender’s transmission confirmation receipt showing the successful receipt thereof by the recipient;
+
+
+
+(b)           by hand delivery or Federal Express or other method in which the date of delivery is recorded by the delivery service, in which case notice shall be presumptively deemed to have been given at the time that records of the delivery service indicate the writing was delivered to the addressee;
+
+
+
+(c)            by prepaid telegram, in which case notice shall be presumptively deemed to have been given at the time that the records of the telegraphic agency indicate that the telegram was telephoned or delivered to the recipient or addressee, as the case may be; or
+
+
+
+(d)        	by U.S. mail to be sent by registered or certified mail, postage prepaid, with return receipt requested, in which case notice shall be presumptively deemed to have been given forty-eight (48) hours after the letter was deposited with the United States Postal Service.
+
+
+
+11.4         Waivers.
+
+
+
+(a)           The failure of a Party hereto at any time or times to require performance of any provision hereof shall in no manner affect its right at a later time to enforce the same.
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+(b)           No waiver by a Party of any condition or of any breach of any term, covenant, representation or warranty contained in this Agreement shall be effective unless in writing, and no waiver in any one or more instances shall be deemed to be a further or continuing waiver of any such condition or breach in other instances or a waiver of any other condition or breach of any other term, covenant, representation or warranty.
+
+
+
+11.5         Counterparts.
+
+
+
+This Agreement may be executed in one or more counterparts, and by different Parties hereto in separate counterparts, each of which when so executed shall be deemed an original, but all of which together shall constitute one and the same instrument.
+
+
+
+11.6         Interpretation.
+
+
+
+(a)           The headings preceding the text of Articles and Sections included in this Agreement and the headings to Exhibits attached to this Agreement are for convenience only and shall not be deemed part of this Agreement or be given any effect in interpreting this Agreement.
+
+
+
+(b)           The use of the masculine, feminine or neuter gender herein shall not limit any provision of this Agreement. The use of the terms “including” or “include” shall in all cases herein mean “including, without limitation” or “include, without limitation”, respectively.
+
+
+
+(c)           Consummation of the transactions contemplated herein shall not be deemed a waiver of a breach of or inaccuracy in any representation, warranty or covenant or of any party's rights and remedies with regard thereto.
+
+
+
+(d)           No specific representation, warranty or covenant contained herein shall limit the generality or applicability of a more general representation, warranty or covenant contained herein.
+
+
+
+(e)           A breach of or inaccuracy in any representation, warranty or covenant shall not be affected by the fact that any more general or less general representation, warranty or covenant was not also breached or inaccurate.
+
+
+
+11.7         Assignment.
+
+
+
+(a)           This Agreement shall be binding upon and inure to the benefit of the Parties hereto and their respective estates, heirs, legal representatives, successors and assigns.
+
+
+
+(b)           No assignment of any rights or obligations hereunder may be made by the Seller or by the Company without the prior written consent of the Buyer.
+
+
+
+11.8         No Third-Party Beneficiaries.   This Agreement is solely for the benefit of the Parties hereto and, to the extent provided herein, their respective estates, heirs, successors, Affiliates, directors, officers, employees, agents and representatives, and no provision of this Agreement shall be deemed to confer upon other third parties any remedy, claim, liability, reimbursement, cause of action or other right.
+
+
+
+11.9         Publicity.  Prior to the Closing Date, except as required by Law or the rules of any stock exchange, no public announcement or other publicity regarding the transactions referred to herein shall be made by the Buyer, the Seller, the Company or any of their respective Affiliates, officers, directors, employees, representatives or agents, without the prior written agreement of the Buyer and the Seller, in any case, as to form, content, timing and manner of distribution or publication; provided, however, that nothing in this Section shall prevent such parties from discussing such transactions with those Persons whose approval, agreement or opinion, as the case may be, is required for consummation of such particular transaction or transactions.
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+11.10       Further Assurances.   Upon the reasonable request of the Buyer, the Seller will on and after the Closing Date execute and deliver to the Buyer such other documents, releases, assignments and other instruments as may be required to effectuate completely the transfer and assignment to the Buyer of, and to vest fully in the Buyer title to, the Shares, and to otherwise carry out the purposes of this Agreement.
+
+
+
+11.11       Severability.  If any provision of this Agreement shall be held invalid, illegal or unenforceable, the validity, legality or enforce ability of the other provisions hereof shall not be affected thereby, and there shall be deemed substituted for the provision at issue a valid, legal and enforceable provision as similar as possible to the provision at issue.
+
+
+
+11.12       Remedies Cumulative.   Unless otherwise specified, the remedies provided in this, Agreement shall be cumulative and shall not preclude the assertion or exercise of any other rights or remedies available by law, in equity or otherwise.
+
+
+
+11.13       Entire Understanding.  This Agreement and the Related Agreements set forth the entire agreement and understanding of the Parties hereto and supersede any and all prior agreements, arrangements and understandings among the Parties.
+
+
+
+11.14       Applicable Law; Resolution of Disputes; Venue.
+
+
+
+(a)           This Agreement shall be governed by and construed and enforced in accordance with the internal laws of the State of Nevada without giving effect to the, principles of conflicts of Law thereof.
+
+
+
+(b)           JURISDICTION AND VENUE; WAIVER OF JURY TRIAL.  This Agreement is subject to the exclusive jurisdiction of the courts of the State of Nevada and of the United States of America  without reference to conflict of law principles.  THE PARTIES HEREBY (I) AGREE NOT TO ELECT A TRIAL BY JURY OF ANY ISSUE TRIABLE OF RIGHT BY A JURY, AND (II) WAIVE ANY RIGHT TO TRIAL BY JURY TO THE FULLEST EXTENT THAT ANY SUCH RIGHT SHALL NOW OR HEREAFTER EXIST.  THIS WAIVER OF RIGHT TO TRIAL BY JURY IS SEPARATELY AND KNOWINGLY AND VOLUNTARILY GIVEN, BY EACH OF THE PARTIES HERETO.
+
+
+
+(c)           Each entity or Party involved in litigation or arbitration shall be responsible for its own costs and expenses of any litigation or arbitration proceeding, including its own attorney's fees (for any litigation, arbitration, and any appeals).
+
+
+
+ 
+
+(The rest of this page left intentionally blank.)
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+IN WITNESS WHEREOF, the Parties hereto have executed this Stock Purchase Agreement as of the date first above written.
+
+ 
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+RAUNO PERTTU
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+STRATEGIC MINERALS, INC.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+ 
+
+Name:
+
+Rauno Perttu
+
+ 
+
+Title:
+
+Chief Executive Officer
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+AULTRA GOLD, INC.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+ 
+
+Name:
+
+Rauno Perttu
+
+ 
+
+Title:
+
+Chief Executive Officer
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+DUTCH GOLD RESOURCES INC.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+ 
+
+Name:
+
+Daniel W. Hollis
+
+ 
+
+Title:
+
+Chief Executive Officer
+
+ 
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+SCHEDULE A
+
+
+
+
+
+Name
+
+Number of Shares
+
+ 
+
+ 
+
+Rauno Perttu
+
+3,510,000
+
+Strategic Minerals Inc.
+
+2,000,000
+
+Aultra Gold Capital Inc.
+
+932,500

@@ -1,0 +1,397 @@
+EXHIBIT 10.6
+
+[***] DENOTES CONFIDENTIAL MATERIALS OMITTED AND FILED
+
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION
+
+PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT
+
+EARNOUT AGREEMENT
+
+     This Earnout Agreement (this “Agreement”), is made, entered into and effective as of July 3, 2008 (the “Effective Date”), by and between Valero Refining and Marketing Company, a Delaware corporation (“Seller”) and Alon Refining Krotz Springs, Inc., a Delaware corporation (“Buyer”).
+
+WITNESSETH
+
+     WHEREAS, Buyer and Seller have entered into a Stock Purchase Agreement, dated as of May 7, 2008 (the “SPA”), and, as a condition to the consummation of the transactions contemplated by the SPA, Buyer and Seller (collectively, the “Parties”, and each individually a “Party”) are entering into this Agreement;
+
+     NOW THEREFORE, in consideration of the premises, the terms and conditions hereinafter set forth and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the Parties hereby agree as follows:
+
+
+
+1.
+
+ 
+
+DEFINED TERMS
+
+As used in this Agreement, the following terms shall have the following meanings:
+
+“Barrel” means 42 United States’ standard gallons at 60 degrees Fahrenheit.
+
+“Business Day” means a day other than Saturday, Sunday or any day on which banks located in the State of New York are authorized or obligated to close.
+
+“Daily Average Crude Price” means the average of the high and low prices for First Month WTI-Cushing as quoted in Platt’s for each day during an Earnout Year, converted to Barrels as applicable; provided that daily calculations on weekends and holidays will use prices published for the immediately preceding Friday or Business Day, respectively.
+
+“Daily Average Gasoline Price” means the average of the high and low prices for Regular Unleaded Gasoline, US Gulf Coast Pipeline, as quoted in Platt’s for each day during an Earnout Year, converted to Barrels as applicable; provided that daily calculations on weekends and holidays will use prices published for the immediately preceding Friday or Business Day, respectively.
+
+“Daily Average ULSD Price” means the average of the high and low prices for Ultra Low Sulfur Diesel, US Gulf Coast Pipeline, as quoted in Platt’s for each day during an Earnout Year, converted to Barrels as applicable; provided that daily calculations on weekends and holidays will use prices published for the immediately preceding Friday or Business Day, respectively.
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+“Earnout Year” means a 365-day period (or 366 days in case the period includes a February 29) beginning on the Effective Date, and ending on each subsequent anniversary thereof during the Term of this Agreement.
+
+“Platt’s” means Platt’s Oilgram Price Report.
+
+“Term” means three (3) years from the Effective Date, plus the amount of time required to calculate and pay the Earnout Payment for the final Earnout Year.
+
+Any other capitalized terms in this Agreement not otherwise defined above shall have the meanings as defined herein.
+
+
+
+2.
+
+ 
+
+EARNOUT PAYMENTS
+
+ 
+
+2.1
+
+ 
+
+For each of the three (3) Earnout Years during the Term of this Agreement, Buyer shall calculate and pay an earnout payment (the “Earnout Payment”), as required pursuant to the terms and conditions of this Agreement.
+
+ 
+
+2.2
+
+ 
+
+Within thirty (30) days after the expiration of each Earnout Year during the Term of this Agreement, Buyer shall calculate the amount of the Earnout Payment payable to Seller for such Earnout Year according to the formula set forth below (the “Earnout Payment Formula”):
+
+ 
+
+ 
+
+ 
+
+[***]
+
+ 
+
+2.3
+
+ 
+
+For purposes of illustration only, the following is an example of how the Earnout Payment shall be calculated (all prices are $/barrel):
+
+ 
+
+ 
+
+ 
+
+[***]
+
+ 
+
+2.4
+
+ 
+
+On the thirtieth (30th) day after the expiration of each Earnout Year during the Term of this Agreement (each, a “Notice Date”), Buyer shall transmit to Seller (pursuant to the notice provisions hereof) a statement of Buyer’s calculation of the Earnout Payment using the Earnout Payment Formula in reasonable detail such that Seller can confirm the method of calculation. Such notice shall be transmitted regardless of whether the Earnout Payment is a positive or negative amount.
+
+ 
+
+2.5
+
+ 
+
+If the Earnout Payment is a positive amount, Buyer shall pay to Seller the amount of the Earnout Payment within seven (7) days of the Notice Date for the relevant Earnout Year (each, a “Due Date”) in immediately available U.S. funds, by wire transfer to the following account:
+
+ 
+
+ 
+
+ 
+
+[***]
+
+ 
+
+ 
+
+ 
+
+or to such other U.S. Bank account as may hereafter be designated by Seller in writing. Each Earnout Payment shall be made without offset, setoff, counterclaim or deduction of
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+ 
+
+any kind. If the Earnout Payment is a negative amount, no payment shall be made by Buyer. Negative Earnout Payment amounts shall not carry forward to the following Earnout Year. If the Earnout Payment is not made within five (5) days of the relevant Due Date, then interest shall accrue on the unpaid balance thereof at the Applicable Rate (as defined in the SPA) from the day following the relevant Due Date until the Earnout Payment is made. If the Applicable Rate exceeds the highest legal interest rate, the interest rate shall be the then-current highest legal interest rate.
+
+ 
+
+2.6
+
+ 
+
+Seller shall notify Buyer of any dispute regarding Buyer’s calculation of the Earnout Payment within thirty (30) days of receipt of the notice referenced in Section 2.4 hereof.
+
+ 
+
+2.7
+
+ 
+
+If any published price that is used in the calculation of the Earnout Payment is discontinued, the Parties shall negotiate in good faith a substitute method for determining such price based upon an arms-length, third-party price for a like product duly taking into account quality and transportation differentials, with preference given to quoted average prices available from publications similar to Platt’s (including, if applicable, any successor to Platt’s).
+
+ 
+
+3.
+
+ 
+
+MISCELLANEOUS
+
+ 
+
+3.1
+
+ 
+
+Notices. Any and all notices herein prescribed shall be in writing and transmitted by personal delivery, by U.S. Postal Service as overnight or certified mail, by a nationally recognized delivery service for same day or overnight delivery or by facsimile to the respective parties as follows:
+
+Valero Refining and Marketing Company
+
+c/o Valero Energy Corporation
+
+One Valero Way
+
+San Antonio, Texas 78249
+
+Attention: Senior Vice President and General Counsel
+
+Telephone: (210) 345-2246
+
+Facsimile: (210) 345-5889
+
+Alon Refining Krotz Springs, Inc.
+
+c/o Alon USA Energy, Inc.
+
+7616 LBJ Freeway, Suite 300
+
+Dallas, Texas 75251
+
+Attention: General Counsel
+
+Telephone: (972) 367-3702
+
+Facsimile: (972) 367-3724
+
+
+
+ 
+
+ 
+
+Receipt of all notices shall be determined by date/time stamp on received, confirmed fax or receipt date on any other form of delivery.
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+3.2
+
+ 
+
+Amendment. This Agreement may be amended only by an instrument in writing executed by the Parties hereto.
+
+ 
+
+3.3
+
+ 
+
+Assignment. Seller may assign, in whole or in part, any of the rights, obligations or benefits arising under this Agreement without the consent of Buyer. Buyer shall not assign, in whole or in part, any of the rights, obligations or benefits arising under this Agreement without the prior written consent of Seller.
+
+ 
+
+3.4
+
+ 
+
+Successors Bound. This Agreement shall be binding upon and inure to the benefit of the Parties hereto and their respective successors and permitted assigns.
+
+ 
+
+3.5
+
+ 
+
+Entire Agreement. This Agreement, the exhibits and the documents specifically referred to herein and any provision of the SPA incorporated herein by reference constitute the entire agreement, understanding, representations and warranties of the Parties hereto.
+
+ 
+
+3.6
+
+ 
+
+Counterparts. This Agreement may be executed in counterparts, each of which shall be deemed an original, but all of which shall constitute one and the same instrument.
+
+ 
+
+3.7
+
+ 
+
+Choice of Law; Venue. This Agreement shall be construed, interpreted and the rights of the parties determined in accordance with the laws of the State of Texas, exclusive of its conflict of laws principles. Each of the Parties hereto agrees that it shall bring any action or proceeding in respect of any claim arising out of or related to this Agreement, whether in tort or contract or at law or in equity, exclusively in the Federal or state courts sitting in Houston, Harris County, Texas, and solely in connection with claims arising under such agreement or instrument or the transactions contained in or contemplated by such agreement or instrument, (i) irrevocably submits to the exclusive jurisdiction of such courts, (ii) waives any objection to laying venue in any such action or proceeding in such courts, (iii) waives any objection that such courts are an inconvenient forum or do not have jurisdiction over it and (iv) agrees that service of process upon it may be effected by mailing a copy thereof by registered or certified mail (or any substantially similar form of mail), postage prepaid, to it at its address specified in Section 3.1 of this Agreement.
+
+[Remainder of Page Intentionally Left Blank]
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+     IN WITNESS WHEREOF, the Parties have duly executed this Agreement effective as of the date first specified above.
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+VALERO REFINING AND MARKETING COMPANY
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ S. Eugene Edwards
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name: S. Eugene Edwards
+
+Title: Executive Vice President
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ALON REFINING KROTZ SPRINGS, INC.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Harlin R. Dean
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name: Harlin R. Dean
+
+Title: Vice President
+
+[Signature Page to Earnout Agreement]

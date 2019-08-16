@@ -1,0 +1,355 @@
+Exhibit 10.1
+
+THIRD AMENDMENT TO THE CREDIT AGREEMENT
+
+THIRD AMENDMENT, dated as of January 12, 2010 (this “Third Amendment”), to the Credit Agreement, dated as of February 28, 2007, as amended as of June 27, 2007 and May 29, 2009 (as so amended and as further amended, amended and restated, modified or supplemented from time to time, the “Credit Agreement”), among PAETEC Holding Corp., a Delaware corporation (the “Borrower”), the lenders party thereto from time to time (the “Lenders”) and Deutsche Bank Trust Company Americas (“DBTCA”), as administrative agent (in such capacity, the “Administrative Agent”).
+
+W I T N E S S E T H :
+
+WHEREAS, pursuant to the Credit Agreement, the Lenders have extended credit to the Borrower on the terms and conditions set forth therein;
+
+WHEREAS, the Borrower is issuing, concurrently with the effectiveness of this Third Amendment as provided herein, additional Senior Secured Notes the proceeds of which, inter alia, will be used by the Borrower to repay all then outstanding Term Loans, together with all accrued and unpaid interest thereon;
+
+WHEREAS, the Borrower has requested that the Lenders (determined immediately after giving effect to the repayment of all outstanding Term Loans as contemplated by the immediately preceding recital) approve certain amendments to the Credit Agreement as herein provided; and
+
+WHEREAS, the Required Lenders (determined immediately after giving effect to the repayment of all outstanding Term Loans as contemplated by the second preceding recital) have consented to amend certain provisions of the Credit Agreement on the terms and conditions contained herein.
+
+NOW, THEREFORE, the parties hereto hereby agree as follows:
+
+ARTICLE 1
+
+Definitions
+
+Section 1.1 Defined Terms.    Terms defined in the Credit Agreement and used herein shall have the meanings given to them in the Credit Agreement unless otherwise defined herein or the context otherwise requires.
+
+
+
+ARTICLE 2
+
+Amendments to Credit Agreement
+
+Section 2.1 Definitions.    Section 1.01 of the Credit Agreement is hereby amended by inserting in the appropriate alphabetical order the following new definitions:
+
+“Incremental Term Loan Commitment Amount” shall mean the remainder of (x) $125,000,000 minus (y) the aggregate principal amount (or the aggregate face amount if issued at a discount) of all Senior Secured Notes issued from and after the Third Amendment Effective Date (including all such Senior Secured Notes issued on the Third Amendment Effective Date) in excess of $240,231,666.28 (other than Senior Secured Notes described in clause (b) or (c) of the definition thereof).
+
+“Senior Secured Notes Indenture” shall mean the Indenture, dated as of June 29, 2009, among the Borrower, certain of its Subsidiaries, as guarantors, and The Bank of New York Mellon, as trustee, as the same may have been, and as the same may be, amended, modified or supplemented from time to time in accordance with the terms hereof and thereof.
+
+“Third Amendment” shall mean the Third Amendment to this Agreement, dated as of January 12, 2010.
+
+“Third Amendment Effective Date” shall have the meaning provided in the Third Amendment.
+
+Section 2.2 Incremental Term Loan Commitments.    Section 2.14(a) of the Credit Agreement is hereby amended by:
+
+(i) deleting sub-clause (iv) thereof in its entirety and replacing it with the following new sub-clause (iv):
+
+“(iv) the aggregate amount of all Incremental Term Loan Commitments permitted to be provided (and the aggregate amount of all Incremental Term Loans permitted to be made) pursuant to this Section 2.14(a) from and after the Third Amendment Effective Date shall not exceed the Incremental Term Loan Commitment Amount,”; and
+
+(ii) deleting the text of sub-clause (vi)(II) thereof in its entirety other than the word “and” at the end thereof and renumbering sub-clause (vi)(III) thereof as sub-clause (vi)(II).
+
+Section 2.3 Mandatory Repayments.
+
+(i) Section 5.02(c) of the Credit Agreement is hereby amended by deleting the reference to “Second Amendment Effective Date” appearing therein and replacing it with a reference to “Third Amendment Effective Date”; and
+
+ 
+
+- 2 -
+
+
+
+(ii) Section 5.02(g) of the Credit Agreement is hereby amended by inserting the following text at the end of the first sentence of said Section:
+
+“; provided, however, no reduction of the Total Revolving Loan Commitment shall be required and no application of proceeds to reduce the Total Revolving Loan Commitment shall be required, in either case, pursuant to the immediately preceding clause (ii) with Net Cash Proceeds from the issuance of Senior Secured Notes until such time as the Incremental Term Loan Commitment Amount has been reduced to zero and any cash received by the Borrower or any of its Subsidiaries from such issuance may be retained by such Person”.
+
+Section 2.4 Indebtedness.    Section 10.04(xx) of the Credit Agreement is hereby amended by:
+
+(i) deleting the text of clause (III) thereof and inserting the following text in lieu thereof:
+
+“100% of the Net Cash Proceeds therefrom (other than the Net Cash Proceeds from the issuance of any Senior Secured Notes described in clause (c) of the definition thereof which shall not be subject to this clause (III)) are applied on the date of receipt thereof as, and to the extent, set forth in Section 5.02(c)”;
+
+(ii) inserting the following text as a new clause (VI) thereof immediately following clause (V) thereof:
+
+“,(VI) the aggregate principal amount (or the aggregate face amount if issued at a discount) of all Senior Secured Notes issued from and after the Third Amendment Effective Date (excluding any such Senior Secured Notes described in clause (b) or (c) of the definition thereof, but including all such Senior Secured Notes issued on the Third Amendment Effective Date) shall not exceed the remainder of (x) $365,231,666.28 minus (y) the aggregate principal amount of all Incremental Term Loans incurred hereunder from and after the Third Amendment Effective Date”; and
+
+(iii) deleting the text of existing clause (VI) thereof and inserting the following new clause (VII) in lieu thereof:
+
+“and (VII) the Borrower shall have furnished to the Administrative Agent a certificate from an Authorized Officer certifying as to compliance with the requirements of preceding clauses (I), (III), and in the case of any issuance of any Senior Secured Notes described in clause (a) or (c) of the definition thereof, preceding clauses (IV), (V) and (VI) and containing the calculations (in reasonable detail) required by preceding clauses (V) and (VI)”.
+
+ 
+
+- 3 -
+
+
+
+ARTICLE 3
+
+Miscellaneous
+
+Section 3.1 Conditions to Effectiveness.    This Third Amendment shall become effective on the date (the “Third Amendment Effective Date”) on which:
+
+(a)    Third Amendment.    The Administrative Agent shall have executed and delivered this Third Amendment and the Administrative Agent shall have received this Third Amendment, executed and delivered by a duly authorized officer of each of the Borrower and the Required Lenders (determined immediately after giving effect to the issuance of the Senior Secured Notes on the Third Amendment Effective Date and the application of a portion of the proceeds thereof to repay in full all then outstanding Term Loans, together with all accrued and unpaid interest thereon).
+
+(b)    Issuance of Senior Secured Notes and Repayment of Loans.    The Borrower shall have issued on the Third Amendment Effective Date additional Senior Secured Notes such that the Net Cash Proceeds therefrom are sufficient to repay (and the Borrower shall have used at least a portion of such Net Cash Proceeds to repay) in full all outstanding Term Loans on the Third Amendment Effective Date, together with all accrued and unpaid interest thereon.
+
+(c)    Fees and Expenses.    To the extent that White & Case LLP delivers an invoice to the Borrower at least two (2) Business Days prior to the date on which the additional Senior Secured Notes referenced in Section 3.1(b) are to be issued, the Borrower shall have paid to White & Case LLP all fees, costs and expenses reflected in such invoice.
+
+Section 3.2 Representation and Warranties.    After giving effect to the amendments contained herein, on the Third Amendment Effective Date the Borrower hereby (i) represents and warrants that no Default or Event of Default has occurred and is continuing under the Credit Agreement and (ii) confirms that the representations and warranties set forth in Section 8 of the Credit Agreement are true and correct in all material respects on and as of the Third Amendment Effective Date with the same effect as though made on and as of the Third Amendment Effective Date, except to the extent such representations and warranties expressly relate to an earlier date (in which case such representations and warranties were true and correct in all material respects as of such earlier date).
+
+Section 3.3 Continuing Effect; No Other Waivers or Amendments.    This Third Amendment shall not constitute an amendment or waiver of or consent to any provision of the Credit Agreement and the other Credit Documents except as expressly stated herein and shall not be construed as an amendment, waiver or consent to any action on the part of the Borrower or any Subsidiary of the Borrower that would require an amendment, waiver or consent of the Administrative Agent or the Lenders except as expressly stated herein. Except as expressly amended hereby, the provisions of the Credit Agreement and the other Credit Documents are and shall remain in full force and effect in accordance with their terms.
+
+Section 3.4 Counterparts.    This Third Amendment may be executed in any number of separate counterparts by the parties hereto (including by telecopy or via electronic mail), each of which counterparts when so executed shall be an original, but all the counterparts shall together constitute one and the same instrument.
+
+Section 3.5 References to Credit Agreement.    From and after the Third Amendment Effective Date, all references in the Credit Agreement and each of the other Credit Documents to the Credit Agreement shall be deemed to be references to the Credit Agreement, as modified hereby.
+
+ 
+
+- 4 -
+
+
+
+Section 3.6 Payment of Fees and Expenses.    The Borrower agrees to pay or reimburse the Administrative Agent for all of its reasonable out-of-pocket costs and reasonable expenses incurred in connection with this Third Amendment, any other documents prepared in connection herewith and the transactions contemplated hereby, including, without limitation, the reasonable fees, charges and disbursements of counsel to the Administrative Agent.
+
+Section 3.7 GOVERNING LAW.    THIS THIRD AMENDMENT AND THE RIGHTS AND OBLIGATIONS OF THE PARTIES UNDER THIS THIRD AMENDMENT SHALL BE GOVERNED BY, AND CONSTRUED AND INTERPRETED IN ACCORDANCE WITH, THE LAWS OF THE STATE OF NEW YORK.
+
+Section 3.8 Notice of Voluntary Prepayment.    The Lenders hereby agree that with respect to any voluntary prepayment of Revolving Loans on the Third Amendment Effective Date and notwithstanding anything to the contrary contained in Section 5.01(a) of the Credit Agreement, the Borrower may give the Administrative Agent same day written notice (or telephonic notice promptly confirmed in writing) of such voluntary prepayment of Revolving Loans prior to 12:00 Noon (New York City time) at the Notice Office on the date of such prepayment.
+
+* * *
+
+ 
+
+- 5 -
+
+
+
+IN WITNESS WHEREOF, the parties hereto have caused this Third Amendment to be executed and delivered by their respective duly authorized officers as of the date first above written.
+
+ 
+
+
+
+
+
+
+
+
+
+PAETEC HOLDING CORP.
+
+
+
+
+
+By:
+
+ 
+
+/s/ Keith M. Wilson
+
+
+
+ 
+
+Name: Keith M. Wilson
+
+
+
+ 
+
+Title: EVP of Finance & CFO
+
+ 
+
+- 6 -
+
+
+
+
+
+
+
+
+
+
+
+DEUTSCHE BANK TRUST COMPANY AMERICAS, as Administrative Agent and as a Lender
+
+
+
+
+
+By:
+
+ 
+
+/s/ Anca Trifan
+
+
+
+ 
+
+Name: Anca Trifan
+
+
+
+ 
+
+Title: Director
+
+
+
+
+
+By:
+
+ 
+
+/s/ Dusan Lazarov
+
+
+
+ 
+
+Name: Dusan Lazarov
+
+
+
+ 
+
+Title: Vice President
+
+ 
+
+- 7 -
+
+
+
+
+
+
+
+
+
+
+
+SIGNATURE PAGE TO THE THIRD AMENDMENT TO CREDIT AGREEMENT, DATED AS OF THE DATE FIRST REFERENCED ABOVE, AMONG PAETEC HOLDING CORP., VARIOUS LENDERS AND DEUTSCHE BANK TRUST COMPANY AMERICAS, AS ADMINISTRATIVE AGENT
+
+
+
+NAME OF INSTITUTION:
+
+
+
+Bank of America, N.A.
+
+
+
+
+
+By:
+
+ 
+
+/s/ Mark Short
+
+
+
+ 
+
+Name: Mark Short
+
+
+
+ 
+
+Title: Vice President
+
+ 
+
+- 8 -
+
+
+
+
+
+
+
+
+
+
+
+SIGNATURE PAGE TO THE THIRD AMENDMENT TO CREDIT AGREEMENT, DATED AS OF THE DATE FIRST REFERENCED ABOVE, AMONG PAETEC HOLDING CORP., VARIOUS LENDERS AND DEUTSCHE BANK TRUST COMPANY AMERICAS, AS ADMINISTRATIVE AGENT
+
+
+
+NAME OF INSTITUTION:
+
+
+
+CIT Bank
+
+
+
+
+
+By:
+
+ 
+
+/s/ Benjamin Haslam
+
+
+
+ 
+
+Name: Benjamin Haslam
+
+
+
+ 
+
+Title: Authorized Signatory
+
+ 
+
+- 9 -
+
+
+
+
+
+
+
+
+
+
+
+SIGNATURE PAGE TO THE THIRD AMENDMENT TO CREDIT AGREEMENT, DATED AS OF THE DATE FIRST REFERENCED ABOVE, AMONG PAETEC HOLDING CORP., VARIOUS LENDERS AND DEUTSCHE BANK TRUST COMPANY AMERICAS, AS ADMINISTRATIVE AGENT
+
+
+
+WACHOVIA BANK, NATIONAL ASSOCIATION:
+
+
+
+
+
+By:
+
+ 
+
+/s/ Tray Jones
+
+
+
+ 
+
+Name: Tray Jones
+
+
+
+ 
+
+Title: Vice President
+
+ 
+
+- 10 -

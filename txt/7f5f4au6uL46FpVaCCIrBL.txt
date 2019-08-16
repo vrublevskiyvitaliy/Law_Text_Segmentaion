@@ -1,0 +1,849 @@
+Exhibit 1.1
+
+2,850,000 Units
+
+CYCLACEL PHARMACEUTICALS, INC.
+
+PLACEMENT AGENT AGREEMENT
+
+January 11, 2010
+
+ROTH Capital Partners, LLC
+
+24 Corporate Plaza
+
+Newport Beach, CA 92660
+
+Dear Sirs:
+
+1. INTRODUCTION. Cyclacel Pharmaceuticals, Inc., a Delaware corporation (the “Company”), proposes to issue and sell to the purchasers, pursuant to the terms and conditions of this Placement Agent Agreement (this “Agreement”) and the Subscription Agreements in the form of Exhibit A attached hereto (the “Subscription Agreements”) entered into with the purchasers identified therein (each a “Purchaser” and collectively, the “Purchasers”), up to an aggregate of 2,850,000 units (the “Units”) with each Unit consisting of (i) one share of common stock, $0.001 par value per share (the “Common Stock”) of the Company and (ii) one warrant to purchase 0.25 of one share of Common Stock (a “Warrant” and, collectively, the “Warrants”). The terms and conditions of the Warrants are set forth in the form of Exhibit B attached hereto. The Units will not be issued or certificated. The Shares and Warrants are immediately separable and will be issued separately. The Company hereby confirms its agreement with ROTH Capital Partners, LLC (the “Placement Agent”) to act as Placement Agent in accordance with the terms and conditions hereof.
+
+2. AGREEMENT TO ACT AS PLACEMENT AGENT; PLACEMENT OF SECURITIES. On the basis of the representations, warranties and agreements of the Company herein contained, and subject to all the terms and conditions of this Agreement:
+
+(a) The Company hereby authorizes the Placement Agent to act as its exclusive agent to solicit offers for the purchase of all or part of the Units from the Company in connection with the proposed offering of the Units (the “Offering”). Until the Closing Date (as defined in Section 4 hereof) or earlier upon termination of this Agreement pursuant to Section 9 the Company shall not, without the prior written consent of the Placement Agent, solicit or accept offers to purchase Units otherwise than through the Placement Agent.
+
+(b) The Company hereby acknowledges that the Placement Agent has agreed, as agent of the Company, to use its best efforts to solicit offers to purchase the Units from the Company on the terms and subject to the conditions set forth in the Prospectus (as defined below). The Placement Agent shall use commercially reasonable efforts to assist the Company in obtaining performance by each Purchaser whose offer to purchase Units has been solicited by the Placement Agent and accepted by the Company, but the Placement Agent shall not, except as otherwise provided in this Agreement, be obligated to disclose the identity of any potential purchaser or have any liability to the Company in the event any such purchase is not consummated for any reason. Under no circumstances will the Placement Agent be obligated to underwrite or purchase any Units for its own account and, in soliciting purchases of Units, the Placement Agent shall act solely as the Company’s agent and not as principal.
+
+ 
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+(c) Subject to the provisions of this Section 2, offers for the purchase of Units may be solicited by the Placement Agent as agent for the Company at such times and in such amounts as the Placement Agent deems advisable. The Placement Agent shall communicate to the Company, orally or in writing, each reasonable offer to purchase Units received by it as agent of the Company. The Company shall have the sole right to accept offers to purchase the Units and may reject any such offer, in whole or in part. The Placement Agent shall have the right, in its discretion reasonably exercised, without notice to the Company, to reject any offer to purchase Units received by it, in whole or in part, and any such rejection shall not be deemed a breach of this Agreement.
+
+(d) The Units are being sold to the Purchasers at a price of $2.51 per Unit. The purchases of the Units by the Purchasers shall be evidenced by the execution of Subscription Agreements by each of the Purchasers and the Company.
+
+(e) As compensation for services rendered, on the Closing Date (as defined in Section 4 hereof), the Company shall pay to the Placement Agent by wire transfer of immediately available funds to an account or accounts designated by the Placement Agent, an aggregate amount equal to five percent (5.0%) of the gross proceeds received by the Company (the “Placement Fee”) from the sale of the Units on such Closing Date.
+
+(f) No Units which the Company has agreed to sell pursuant to this Agreement and the Subscription Agreements shall be deemed to have been purchased and paid for, or sold by the Company, until such Units shall have been delivered to the Purchaser thereof against payment by such Purchaser. If the Company shall default in its obligations to deliver Units to a Purchaser whose offer it has accepted, the Company shall indemnify and hold the Placement Agent harmless against any loss, claim, damage or expense arising from or as a result of such default by the Company in accordance with the procedures set forth in Section 8(c) herein.
+
+3. REPRESENTATIONS AND WARRANTIES OF THE COMPANY. The Company represents and warrants to, and agrees with, the Placement Agent and the Purchasers that:
+
+(a) The Company has prepared and filed in conformity with the requirements of the Securities Act of 1933, as amended (the “Securities Act”), and published rules and regulations thereunder (the “Rules and Regulations”) adopted by the Securities and Exchange Commission (the “Commission”), a “shelf Registration Statement (as hereinafter defined) on Form S-3 (File No. 333-140034), which became effective as of February 12, 2007 (the “Effective Date”), including a base prospectus relating to the securities registered pursuant to such Registration Statement (the “Base Prospectus”), and such amendments and supplements thereto as may have been required to the date of this Agreement. The term “Registration Statement” as used in this Agreement means the registration statement (including all exhibits, financial schedules and all documents and information deemed to be a part of the Registration Statement pursuant to Rule 430A under the Rules and
+
+ 
+
+2
+
+
+
+
+
+ 
+
+
+
+
+
+Regulations), as amended and/or supplemented to the date of this Agreement, including the Base Prospectus. The Registration Statement is effective under the Securities Act and no stop order preventing or suspending the effectiveness of the Registration Statement or suspending or preventing the use of the Prospectus has been issued by the Commission and no proceedings for that purpose have been instituted or, to the knowledge of the Company, are threatened by the Commission. The Company, if required by the Rules and Regulations of the Commission, will file the Prospectus (as defined below), with the Commission pursuant to Rule 424(b) under the Rules and Regulations. The term “Prospectus,” as used in this Agreement means the Prospectus, in the form in which it is to be filed with the Commission pursuant to Rule 424(b) under the Rules and Regulations, or, if the Prospectus is not to be filed with the Commission pursuant to Rule 424(b), the Prospectus in the form included as part of the Registration Statement as of the Effective Date, except that if any revised prospectus or prospectus supplement shall be provided to the Placement Agent by the Company for use in connection with the offering and sale of the Units which differs from the Prospectus (whether or not such revised prospectus or prospectus supplement is required to be filed by the Company pursuant to Rule 424(b) under the Rules and Regulations), the term “Prospectus” shall refer to such revised prospectus or prospectus supplement, as the case may be, from and after the time it is first provided to the Placement Agent for such use. Any preliminary prospectus or prospectus subject to completion included in the Registration Statement or filed with the Commission pursuant to Rule 424 under the Rules and Regulations is hereafter called a “Preliminary Prospectus.” Any reference herein to the Registration Statement, any Preliminary Prospectus or the Prospectus shall be deemed to refer to and include the documents incorporated by reference therein pursuant to Item 12 of Form S-3 which were filed under the Securities Exchange Act of 1934, as amended (the “Exchange Act”), on or before the last to occur of the Effective Date, the date of the Preliminary Prospectus, or the date of the Prospectus, and any reference herein to the terms “amend,” “amendment,” or “supplement” with respect to the Registration Statement, any Preliminary Prospectus or the Prospectus shall be deemed to refer to and include (i) the filing of any document under the Exchange Act after the Effective Date, the date of such Preliminary Prospectus or the date of the Prospectus, as the case may be, which is incorporated by reference and (ii) any such document so filed. If the Company has filed an abbreviated registration statement to register additional securities pursuant to Rule 462(b) under the Rules (the “462(b) Registration Statement”), then any reference herein to the Registration Statement shall also be deemed to include such 462(b) Registration Statement.
+
+(b) As of the Applicable Time (as defined below) and as of the Closing Date, neither (i) any General Use Free Writing Prospectus (as defined below) issued at or prior to the Applicable Time, and the Pricing Prospectus (as defined below) and the information included on Schedule A hereto, all considered together (collectively, the “General Disclosure Package”), (ii) any individual Limited Use Free Writing Prospectus (as defined below), nor (iii) the bona fide electronic road show (as defined in Rule 433(h)(5) under the Rules and Regulations), if any, that has been made available without restriction to any person, when considered together with the General Disclosure Package, included or will include, any untrue statement of a material fact or omitted or as of the Closing Date will omit, to state a material fact necessary in order to make the
+
+ 
+
+3
+
+
+
+
+
+ 
+
+
+
+
+
+statements therein, in the light of the circumstances under which they were made, not misleading; provided, however, that the Company makes no representations or warranties as to information contained in or omitted from any Issuer Free Writing Prospectus, in reliance upon, and in conformity with, written information furnished to the Company by the Placement Agent specifically for inclusion therein, which information the parties hereto agree is limited to the Placement Agent’s Information (as defined in Section 17). As used in this paragraph (b) and elsewhere in this Agreement:
+
+“Applicable Time” means 12:01 A.M., New York time, on the date of this Agreement.
+
+“General Use Free Writing Prospectus” means any Issuer Free Writing Prospectus that is identified on Schedule A to this Agreement.
+
+“Issuer Free Writing Prospectus” means any “issuer free writing prospectus,” as defined in Rule 433 under the Rules and Regulations relating to the Units in the form filed or required to be filed with the Commission or, if not required to be filed, in the form retained in the Company’s records pursuant to Rule 433(g) under the Rules and Regulations.
+
+“Limited Use Free Writing Prospectuses” means any Issuer Free Writing Prospectus that is not a General Use Free Writing Prospectus.
+
+“Pricing Prospectus” means the Preliminary Prospectus, if any, and the Base Prospectus, each as amended and supplemented immediately prior to the Applicable Time, including any document incorporated by reference therein and any prospectus supplement deemed to be a part thereof.
+
+(c) No order preventing or suspending the use of any Preliminary Prospectus, any Issuer Free Writing Prospectus or the Prospectus relating to the Offering has been issued by the Commission, and no proceeding for that purpose or pursuant to Section 8A of the Securities Act has been instituted or threatened by the Commission, and each Preliminary Prospectus (if any), at the time of filing thereof, conformed in all material respects to the requirements of the Securities Act and the Rules and Regulations, and did not contain an untrue statement of a material fact or omit to state a material fact required to be stated therein or necessary to make the statements therein, in the light of the circumstances under which they were made, not misleading; provided, however, that the Company makes no representations or warranties as to information contained in or omitted from any Preliminary Prospectus, in reliance upon, and in conformity with, written information furnished to the Company by the Placement Agent specifically for inclusion therein, which information the parties hereto agree is limited to the Placement Agent’s Information (as defined in Section 17).
+
+(d) At the time the Registration Statement became or becomes effective, at the date of this Agreement and at the Closing Date, the Registration Statement conformed and will conform in all material respects to the requirements of the Securities Act and the Rules and Regulations and did not and will not contain any untrue statement of a material fact or omit to state any material fact required to be stated therein or necessary to make the statements therein not misleading; the Prospectus, at the time the Prospectus was issued and at the Closing Date, conformed and will conform in all material respects to the requirements of the Securities Act and the Rules and Regulations and did not and will not contain an untrue
+
+ 
+
+4
+
+
+
+
+
+ 
+
+
+
+
+
+statement of a material fact or omit to state a material fact necessary in order to make the statements therein, in light of the circumstances under which they were made, not misleading; provided, however, that the foregoing representations and warranties in this paragraph (d) shall not apply to information contained in or omitted from the Registration Statement or the Prospectus in reliance upon, and in conformity with, written information furnished to the Company by the Placement Agent specifically for inclusion therein, which information the parties hereto agree is limited to the Placement Agent’s Information (as defined in Section 17).
+
+(e) Each Issuer Free Writing Prospectus, if any, as of its issue date and at all subsequent times through the completion of the public offer and sale of the Units or until any earlier date that the Company notified or notifies the Placement Agent as described in Section 5(e), did not, does not and will not include any information that conflicted, conflicts or will conflict with the information contained in the Registration Statement, Pricing Prospectus or the Prospectus, including any document incorporated by reference therein and any prospectus supplement deemed to be a part thereof that has not been superseded or modified, or includes an untrue statement of a material fact or omitted or would omit to state a material fact required to be stated therein or necessary in order to make the statements therein, in the light of the circumstances prevailing at the subsequent time, not misleading. The foregoing sentence does not apply to statements in or omissions from any Issuer Free Writing Prospectus in reliance upon, and in conformity with, written information furnished to the Company by the Placement Agent specifically for inclusion therein, which information the parties hereto agree is limited to the Placement Agent’s Information (as defined in Section 17).
+
+(f) The documents incorporated by reference in the Prospectus, when they became effective or were filed with the Commission, as the case may be, conformed in all material respects to the requirements of the Securities Act or the Exchange Act, as applicable, and the rules and regulations of the Commission thereunder and none of such documents contained any untrue statement of a material fact or omitted to state any material fact required to be stated therein or necessary to make the statements therein, in light of the circumstances under which they were made, not misleading; and any further documents so filed and incorporated by reference in the Prospectus, when such documents become effective or are filed with the Commission, as the case may be, will conform in all material respects to the requirements of the Securities Act or the Exchange Act, as applicable, and the rules and regulations of the Commission thereunder and will not contain any untrue statement of a material fact or omit to state any material fact required to be stated therein or necessary to make the statements therein, in light of the circumstances under which they were made, not misleading.
+
+(g) The Company has not, directly or indirectly, distributed and will not distribute any offering material in connection with the Offering other than any Preliminary Prospectus, the Prospectus and other materials, if any, permitted under the Securities Act and consistent with Section 5(b) below. The Company is not an “ineligible issuer” in connection with the offering pursuant to Rules 164, 405 and 433 under the Securities Act. The Company will file with the Commission all Issuer Free Writing Prospectuses (other than a “road show,” as defined in Rule 433(d)(8) under the Rules and Regulations), if any, in the time and manner required under Rules 163(b)(2) and 433(d) under the Rules and Regulations.
+
+ 
+
+5
+
+
+
+
+
+ 
+
+
+
+
+
+(h) The Company and each Subsidiary (as defined below) has been duly organized and is validly existing as a corporation in good standing (or the foreign equivalent thereof) under the laws of each of their respective jurisdictions of organization. The Company and each Subsidiary is duly qualified to do business and is in good standing as a foreign corporation in each jurisdiction in which its ownership or lease of property or the conduct of its business requires such qualification and has all power and authority necessary to own or hold its properties and to conduct the business in which it is engaged, except where the failure to so qualify or have such power or authority (i) would not have, singularly or in the aggregate, a material adverse effect on the condition (financial or otherwise), results of operations, assets or business or prospects of the Company or any Subsidiary, taken as a whole, or (ii) impair in any material respect the ability of the Company to perform its obligations under this Agreement or to consummate any transactions contemplated by the Agreement, the General Disclosure Package or the Prospectus (any such effect as described in clauses (i) or (ii), a “Material Adverse Effect”). The Company owns or controls, directly or indirectly, only the following corporations, partnerships, limited liability partnerships, limited liability companies, associations or other entities: Cyclacel Limited, a private limited company organized under the laws of England and Wales, and ALIGN Pharmaceuticals, LLC (each, a “Subsidiary”).
+
+(i) The Company has the full right, power and authority to enter into this Agreement, the Warrants and each of the Subscription Agreements and to perform and to discharge its obligations hereunder and thereunder; and each of this Agreement, the Warrants and each of the Subscription Agreements have been duly authorized, executed and delivered by the Company, and constitutes a valid and binding obligation of the Company enforceable in accordance with its terms, except as may be limited by bankruptcy, insolvency, reorganization or other similar laws affecting the enforcement of creditors’ rights generally and by general principles of equity.
+
+(j) The shares of Common Stock and Warrants to be issued and sold by the Company to the Purchasers hereunder and under the Subscription Agreements and the shares of Common Stock issuable upon the exercise of the Warrants (the “Warrant Shares”) have been duly authorized and the Common Stock, when issued and delivered against payment therefor as provided herein and in the Subscription Agreements and the Warrant Shares, when issued and delivered against payment therefore as provided in the Warrants, will be validly issued, fully paid and non-assessable and free of any preemptive or similar rights and will conform to the description thereof contained in the General Disclosure Package and the Prospectus.
+
+ 
+
+6
+
+
+
+
+
+ 
+
+
+
+
+
+(k) The Company has an authorized capitalization as set forth in the Pricing Prospectus, and all of the issued shares of capital stock of the Company have been duly authorized and validly issued, are fully paid and non-assessable, have been issued in all material respects in compliance with United States federal and state securities laws, and conform to the description thereof contained in the General Disclosure Package and the Prospectus. As of December 31, 2009, there were 26,107,973 shares of Common Stock issued and outstanding, 2,046,813 shares of Preferred Stock, par value $0.001 of the Company, issued and outstanding and 11,318,803 shares of Common Stock were issuable upon the exercise of all options, warrants and convertible securities outstanding as of such date. Since such date, the Company has not issued any securities, other than Common Stock of the Company issued pursuant to the exercise of stock options previously outstanding under the Company’s stock option plans or the issuance of restricted Common Stock pursuant to employee stock purchase plans. All of the Company’s options, warrants and other rights to purchase or exchange any securities for shares of the Company’s capital stock have been duly authorized and validly issued and were issued in all material respects in compliance with United States federal and state securities laws. None of the outstanding shares of Common Stock was issued in violation of any preemptive rights, rights of first refusal or other similar rights to subscribe for or purchase securities of the Company. There are no authorized or outstanding shares of capital stock, options, warrants, preemptive rights, rights of first refusal or other rights to purchase, or equity or debt securities convertible into or exchangeable or exercisable for, any capital stock of the Company or any of its subsidiaries other than those described above or accurately described in the General Disclosure Package. The description of the Company’s stock option, stock bonus and other stock plans or arrangements, and the options or other rights granted thereunder, as described in the General Disclosure Package and the Prospectus, accurately and fairly present the information required to be shown with respect to such plans, arrangements, options and rights.
+
+(l) All the outstanding shares of capital stock of each Subsidiary have been duly authorized and validly issued, are fully paid and non-assessable and, except to the extent set forth in the General Disclosure Package or the Prospectus, are owned by the Company directly or indirectly through one or more wholly-owned subsidiaries, free and clear of any claim, lien, encumbrance, security interest, restriction upon voting or transfer or any other claim of any third party.
+
+(m) The execution, delivery and performance of this Agreement, the Subscription Agreements and the Warrants by the Company, the issue and sale of the Units by the Company and the consummation of the transactions contemplated hereby and thereby will not (with or without notice or lapse of time or both) (i) conflict with or result in a breach or violation of any of the terms or provisions of, constitute a default or Debt Repayment Triggering Event (as defined below) under, give rise to any right of termination or other right or the cancellation or acceleration of any right or obligation or loss of a benefit under, or give rise to the creation or imposition of any lien, encumbrance, security interest, claim or charge upon any property or assets of the Company or any Subsidiary pursuant to, any indenture, mortgage, deed of trust, loan agreement or other agreement or instrument to which the Company or any Subsidiary is a party or by which the Company or any Subsidiary is bound or to which any of the property or assets of the Company or any Subsidiary is subject; (ii) result in any violation of the provisions of the charter or by-laws (or analogous governing instruments, as applicable) of the Company or any Subsidiary; or, (iii) to the Company’s knowledge, result in the violation of any law, statute, rule, regulation, judgment, order or decree of any court or governmental agency or body, domestic or foreign, having jurisdiction over the Company or any Subsidiary or any of their properties or assets, except with respect to clauses (i) and (iii), any breaches, violations or defaults which, singularly or in the aggregate, would not have a Material Adverse Effect. A “Debt Repayment Triggering Event” means any event or condition that gives, or with the giving of notice or lapse of time would give the holder of any note, debenture or other evidence of indebtedness (or any person acting on such holder’s behalf) the right to require the repurchase, redemption or repayment of all or a portion of such indebtedness by the Company or any Subsidiary.
+
+ 
+
+7
+
+
+
+
+
+ 
+
+
+
+
+
+(n) Except for the registration of the securities offered in the Offering under the Securities Act and such consents, approvals, authorizations, registrations or qualifications as may be required under the Exchange Act and applicable state or foreign securities laws, the Financial Industry Regulatory Authority (“FINRA”) and the Nasdaq Global Market (“Nasdaq GM”) in connection with the offering and sale of the Units by the Company, no consent, approval, authorization or order of, or filing, qualification or registration with, any court or governmental agency or body, foreign or domestic, which has not been made, obtained or taken and is not in full force and effect, is required for the execution, delivery and performance of this Agreement, the Subscription Agreements and the Warrants by the Company, the offer or sale of the Units or the consummation of the transactions contemplated hereby or thereby.
+
+(o) Ernst & Young LLP, who have certified certain financial statements and related schedules included or incorporated by reference in the Registration Statement, the General Disclosure Package and the Prospectus, and have audited the Company’s internal control over financial reporting and management’s assessment thereof, is an independent registered public accounting firm as required by the Securities Act and the Rules and Regulations and the Public Company Accounting Oversight Board (United States) (the “PCAOB”). Except as pre-approved in accordance with the requirements set forth in Section 10A of the Exchange Act, Ernst & Young LLP has not been engaged by the Company to perform any “prohibited activities” (as defined in Section 10A of the Exchange Act).
+
+(p) The financial statements, together with the related notes and schedules, included or incorporated by reference in the General Disclosure Package, the Prospectus and in the Registration Statement fairly present in all material respects the financial position and the results of operations and changes in financial position of the Company and its consolidated subsidiaries and other consolidated entities at the respective dates or for the respective periods therein specified. Such statements and related notes and schedules have been prepared in accordance with the generally accepted accounting principles in the United States (“GAAP”) applied on a consistent basis throughout the periods involved except as may be set forth in the related notes included or incorporated by reference in the General Disclosure Package. The financial statements, together with the related notes and schedules, included or incorporated by reference in the General Disclosure Package and the Prospectus comply in all material respects with the Securities Act, the Exchange Act, and the Rules and Regulations and the rules and regulations under the Exchange Act. No other financial statements or supporting schedules or exhibits are required by the Securities Act or the Rules and Regulations to be described, or included or incorporated by reference in the Registration Statement, the General Disclosure Package or the Prospectus. There is no pro forma or as adjusted financial information which is required to be included in the Registration Statement, the General Disclosure Package, or the Prospectus or a document incorporated by reference therein in accordance with the Securities Act and the Rules and Regulations which has not been included or incorporated as so required. The pro forma and pro forma as adjusted financial information and the related notes included or incorporated by reference in the Registration Statement, the General Disclosure Package and the Prospectus have been properly compiled and prepared in accordance with the applicable requirements of the Securities Act and the Rules and Regulations and present fairly the information shown therein, and the assumptions used in the preparation thereof are reasonable and the adjustments used therein are appropriate to give effect to the transactions and circumstances referred to therein.
+
+ 
+
+8
+
+
+
+
+
+ 
+
+
+
+
+
+(q) Neither the Company nor any Subsidiary has sustained, since the date of the latest audited financial statements included or incorporated by reference in the General Disclosure Package, any material loss or interference with its business from fire, explosion, flood or other calamity, whether or not covered by insurance, or from any labor dispute or court or governmental action, order or decree, otherwise than as set forth or contemplated in the General Disclosure Package; and, since such date, there has not been any change in the capital stock or long-term debt of the Company or any Subsidiary or any material adverse changes, or any development involving a prospective material adverse change, in or affecting the business, assets, management, financial position, prospects, stockholders’ equity or results of operations of the Company or any Subsidiary, otherwise than as set forth or contemplated in the General Disclosure Package.
+
+(r) Except as set forth in the General Disclosure Package, there is no legal or governmental action, suit, claim or proceeding pending to which the Company or any Subsidiary is a party or of which any property or assets of the Company or any Subsidiary is the subject which is required to be described in the Registration Statement, the General Disclosure Package or the Prospectus or a document incorporated by reference therein and is not described therein, or which, singularly or in the aggregate, if determined adversely to the Company or any Subsidiary could have a Material Adverse Effect or prevent the consummation of the transactions contemplated hereby; and to the best of the Company’s knowledge, no such proceedings are threatened or contemplated by governmental authorities or threatened by others.
+
+(s) Except as set forth in the General Disclosure Package, neither the Company nor any Subsidiary is in (i) violation of its charter or by-laws (or analogous governing instrument, as applicable), (ii) default in any respect, and no event has occurred which, with notice or lapse of time or both, would constitute such a default, in the due performance or observance of any term, covenant or condition contained in any indenture, mortgage, deed of trust, loan agreement, lease or other agreement or instrument to which it is a party or by which it is bound or to which any of its property or assets is subject or (iii) to the Company’s knowledge, violation of any law, ordinance, governmental rule, regulation or court order, decree or judgment to which it or its property or assets is subject except, in the case of clauses (ii) and (iii) of this paragraph(s), for any violations or defaults which, singularly or in the aggregate, would not have a Material Adverse Effect.
+
+(t) The Company and each Subsidiary possesses all licenses, certificates, authorizations and permits issued by, and have made all declarations and filings with, the appropriate local, state, federal or foreign regulatory agencies or bodies which are necessary or desirable for the ownership of its properties or the conduct of their respective businesses as described in the General Disclosure Package and the Prospectus (collectively, the “Governmental Permits”) except where any failures to possess or make the same, singularly or in the aggregate, would not have a Material Adverse Effect. The Company and each Subsidiary is in compliance with all such Governmental Permits, and all such Governmental Permits are valid and in full force and effect, except where any non-compliance or the validity or failure to be in full force and effect would not, singularly or in the aggregate, have a Material Adverse Effect. To the Company’s knowledge, all such Governmental Permits are free and clear of any restriction or condition that are in addition to, or materially different from those normally applicable to similar licenses, certificates, authorizations and permits. Neither the Company nor any Subsidiary has received notification of any revocation or modification (or proceedings related thereto) of any such Governmental Permit and, to the Company’s knowledge, there is no reason to believe that any such Governmental Permit will not be renewed.
+
+ 
+
+9
+
+
+
+
+
+ 
+
+
+
+
+
+(u) Neither the Company nor any Subsidiary is or, after giving effect to the offering of the Units and the application of the proceeds thereof as described in the General Disclosure Package and the Prospectus, will become an “investment company” within the meaning of the Investment Company Act of 1940, as amended, and the rules and regulations of the Commission thereunder.
+
+(v) Neither the Company nor any Subsidiary, nor to the Company’s knowledge, any of the Company’s and any Subsidiary’s officers, directors or affiliates has taken or will take, directly or indirectly, any action designed or intended to stabilize or manipulate the price of any security of the Company, or which caused or resulted in, or which might in the future reasonably be expected to cause or result in, stabilization or manipulation of the price of any security of the Company.
+
+(w) To the best of the Company’s knowledge, the Company and each Subsidiary owns or possesses the right to use all patents, trademarks, trademark registrations, service marks, service mark registrations, trade names, copyrights, licenses, inventions, software, databases, know-how, Internet domain names, trade secrets and other unpatented and/or unpatentable proprietary or confidential information, systems or procedures, and other intellectual property (collectively, “Intellectual Property”) necessary to carry on their respective businesses as currently conducted, and as proposed to be conducted and described in the General Disclosure Package and the Prospectus, and the Company is not aware of any claim to the contrary or any challenge by any other person to the rights of the Company or any Subsidiary with respect to the foregoing except for those that could not have a Material Adverse Effect. The Intellectual Property licenses described in the General Disclosure Package and the Prospectus are valid, binding upon, and enforceable by or against the parties thereto in accordance to its terms. The Company and each Subsidiary has complied in all material respects with, and is not in breach nor has received any asserted or threatened claim of breach of, any Intellectual Property license, and the Company has no knowledge of any breach or anticipated breach by any other person to any Intellectual Property license. To the best of the Company’s knowledge, the Company’s and each Subsidiary’s business as now conducted and as proposed to be conducted does not and will not infringe or conflict with any valid patents, trademarks, service marks, trade names, copyrights, trade secrets, licenses or other Intellectual Property or franchise right of any person, except for any such acts that would not have a Material Adverse Effect. No claim has been made against the Company or any Subsidiary alleging the infringement by the Company or any Subsidiary of any patent, trademark, service mark, trade name, copyright, trade secret, license in or
+
+ 
+
+10
+
+
+
+
+
+ 
+
+
+
+
+
+other intellectual property right or franchise right of any person. The Company and each Subsidiary has taken all reasonable steps to protect, maintain and safeguard its rights in all Intellectual Property, including the execution of appropriate nondisclosure and confidentiality agreements. The consummation of the transactions contemplated by this Agreement will not result in the loss or impairment of or payment of any additional amounts with respect to, nor require the consent of any other person in respect of, each of the Company’s and each Subsidiary’s right to own, use, or hold for use any of the Intellectual Property as owned, used or held for use in the conduct of its business as currently conducted. The Company and each Subsidiary has at all times complied in all material respects with all applicable laws relating to privacy, data protection, and the collection and use of personal information collected, used, or held for use by the Company or any Subsidiary in the conduct of the Company’s or any Subsidiary’s business. No claims have been asserted or threatened against the Company or any Subsidiary alleging a violation of any person’s privacy or personal information or data rights and the consummation of the transactions contemplated hereby will not breach or otherwise cause any violation of any law related to privacy, data protection, or the collection and use of personal information collected, used, or held for use by the Company or any Subsidiary in the conduct of the Company’s or any Subsidiary’s business. The Company and each Subsidiary takes reasonable measures to ensure that such information is protected against unauthorized access, use, modification, or other misuse.
+
+(x) The Company and each Subsidiary has good and marketable title in fee simple to, or have valid rights to lease or otherwise use, all items of real or personal property which are material to the business of the Company and any Subsidiary, free and clear of all liens, encumbrances, security interests, claims and defects that do not, singularly or in the aggregate, materially affect the value of such property and do not interfere with the use made and proposed to be made of such property by the Company or any Subsidiary; and all of the leases and subleases material to the business of the Company or any Subsidiary, and under which the Company or any Subsidiary holds properties described in the General Disclosure Package and the Prospectus, are in full force and effect, and neither the Company nor any Subsidiary has received any notice of any material claim of any sort that has been asserted by anyone adverse to the rights of the Company or any Subsidiary under any of the leases or subleases mentioned above, or affecting or questioning the rights of the Company or any Subsidiary to the continued possession of the leased or subleased premises under any such lease or sublease.
+
+(y) No organized labor disturbance by the employees of the Company or any Subsidiary exists or, to the best of the Company’s knowledge, is imminent, and the Company has no actual knowledge of any existing or imminent labor disturbance by the employees of any of its or any Subsidiary’s principal suppliers, manufacturers, customers or contractors, that could reasonably be expected, singularly or in the aggregate, to have a Material Adverse Effect. The Company is not aware that any key employee or significant group of employees of the Company or any Subsidiary plans to terminate employment with the Company or any Subsidiary.
+
+ 
+
+11
+
+
+
+
+
+ 
+
+
+
+
+
+(z) No “prohibited transaction” (as defined in Section 406 of the Employee Retirement Income Security Act of 1974, as amended, including the regulations and published interpretations thereunder (“ERISA”), or Section 4975 of the Internal Revenue Code of 1986, as amended from time to time (the “Code”)) or “accumulated funding deficiency” (as defined in Section 302 of ERISA) or any of the events set forth in Section 4043(b) of ERISA (other than events with respect to which the thirty (30)-day notice requirement under Section 4043 of ERISA has been waived) has occurred or could reasonably be expected to occur with respect to any employee benefit plan of the Company or any Subsidiary which could, singularly or in the aggregate, have a Material Adverse Effect. Each employee benefit plan of the Company or any Subsidiary is in compliance in all material respects with applicable law, including ERISA and the Code. The Company and each Subsidiary has not incurred and could not reasonably be expected to incur liability under Title IV of ERISA with respect to the termination of, or withdrawal from, any pension plan (as defined in ERISA). Each pension plan for which the Company or any Subsidiary would have any liability that is intended to be qualified under Section 401(a) of the Code is so qualified, and nothing has occurred, whether by action or by failure to act, which could, singularly or in the aggregate, cause the loss of such qualification to the extent such loss would have a Material Adverse Effect.
+
+(aa) To the best of the Company’s knowledge, the Company and each Subsidiary is in compliance with all foreign, federal, state and local rules, laws and regulations relating to the use, treatment, storage and disposal of hazardous or toxic substances or waste and protection of health and safety or the environment which are applicable to its businesses (“Environmental Laws”), except where the failure to comply would not, singularly or in the aggregate, have a Material Adverse Effect. There has been no storage, generation, transportation, handling, treatment, disposal, discharge, emission, or other release of any kind of toxic or other wastes or other hazardous substances regulated by Environmental Laws (“Hazardous Substances”) by or caused by the Company or any Subsidiary (or, to the Company’s knowledge and without independent investigation, any other entity for whose acts or omissions the Company or any Subsidiary is or may otherwise be liable) upon any of the property now or previously owned or leased by the Company or any Subsidiary, or upon any other property, in violation of any law, statute, ordinance, rule, regulation, order, judgment, decree or permit or which would, under any law, statute, ordinance, rule (including rule of common law), regulation, order, judgment, decree or permit, give rise to any liability, except for any violation or liability which would not have, singularly or in the aggregate with all such violations and liabilities, a Material Adverse Effect; to the Company’s actual knowledge and without independent investigation, there has been no disposal, discharge, emission or other release onto property now leased by the Company or any Subsidiary or into the environment surrounding such property of any Hazardous Substance, except for any such disposal, discharge, emission, or other release in violation of Environmental Laws which would not have, singularly or in the aggregate with all such discharges and other releases, a Material Adverse Effect.
+
+ 
+
+12
+
+
+
+
+
+ 
+
+
+
+
+
+(bb) The Company and each Subsidiary (i) has timely filed (or filed an extension to file) all necessary federal, state, local and foreign tax returns, and all such filed returns were true, complete and correct, (ii) has paid all federal, state, local and foreign taxes, assessments, governmental or other charges due and payable for which it is liable, including, without limitation, all sales and use taxes and all taxes which the Company or any Subsidiary is obligated to withhold from amounts owing to employees, creditors and third parties, and (iii) does not have any tax deficiency or claims outstanding or assessed or, to the best of its knowledge, proposed against any of them, except those, in each of the cases described in clauses (i), (ii) and (iii) of this paragraph (bb), that would not, singularly or in the aggregate, have a Material Adverse Effect. The Company and each Subsidiary has not engaged in any transaction which is a corporate tax shelter or which could be characterized as such by the Internal Revenue Service or any other taxing authority. The accruals and reserves on the books and records of the Company in respect of tax liabilities for any taxable period not yet finally determined are adequate to meet any assessments and related liabilities for any such period, and since December 31, 2008, the Company and each Subsidiary has not incurred any liability for taxes other than in the ordinary course.
+
+(cc) The Company and each Subsidiary carries, or is covered by, insurance provided by recognized, financially sound and reputable institutions with policies in such amounts and covering such risks as is adequate for the conduct of their respective businesses and the value of its properties and as is customary for companies engaged in similar businesses in similar industries. The Company has no reason to believe that it or any Subsidiary will not be able (i) to renew its existing insurance coverage as and when such policies expire or (ii) to obtain comparable coverage from similar institutions as may be necessary or appropriate to conduct their respective businesses as now conducted and at a cost that would not result in a Material Adverse Effect. Neither the Company nor any Subsidiary has been denied any insurance coverage that it has sought or for which it has applied.
+
+(dd) The Company and each Subsidiary maintains a system of internal accounting and other controls sufficient to provide reasonable assurances that (i) transactions are executed in accordance with management’s general or specific authorizations; (ii) transactions are recorded as necessary to permit preparation of financial statements in conformity with GAAP and to maintain accountability for assets; (iii) access to assets is permitted only in accordance with management’s general or specific authorization; and (iv) the recorded accountability for assets is compared with existing assets at reasonable intervals and appropriate action is taken with respect to any differences. Except as described in the General Disclosure Package, since the end of the Company’s most recent audited fiscal year, there as been (A) no material weakness in the Company’s internal control over financial reporting (whether or not remediated) and (B) no change in the Company’s internal control over financial reporting that has materially affected, or is reasonably likely to materially affect, the Company’s internal control over financial reporting.
+
+(ee) The minute books of the Company and each Subsidiary have been made available to the Placement Agent and counsel for the Placement Agent, and such books (i) contain a complete summary in all material respects of all meetings and actions of the board of directors (including each board committee) and shareholders of the Company and each Subsidiary (or analogous governing bodies and interest holders, as applicable), since February 1, 2007 through the date of the latest meeting and action, and (ii) accurately, in all material respects, reflect all transactions referred to in such minutes.
+
+ 
+
+13
+
+
+
+
+
+ 
+
+
+
+
+
+(ff) There is no franchise, lease, contract, agreement or document required by the Securities Act or by the Rules and Regulations to be described in the General Disclosure Package and in the Prospectus or a document incorporated by reference therein or to be filed as an exhibit to the Registration Statement or a document incorporated by reference therein which is not described or filed therein as required; and all descriptions of any such franchises, leases, contracts, agreements or documents contained in the Registration Statement or in a document incorporated by reference therein are accurate and complete descriptions of such documents in all material respects. Other than as described in the General Disclosure Package, no such franchise, lease, contract or agreement has been suspended or terminated for convenience or default by the Company or any Subsidiary or any of the other parties thereto, and neither the Company nor any Subsidiary has received notice nor does the Company have any other knowledge of any such pending or threatened suspension or termination, except for such pending or threatened suspensions or terminations that would not reasonably be expected to, singularly or in the aggregate, have a Material Adverse Effect.
+
+(gg) No relationship, direct or indirect, exists between or among the Company and any Subsidiary on the one hand, and the directors, officers, stockholders (or analogous interest holders), customers or suppliers of the Company or any Subsidiary or any of their affiliates on the other hand, which is required to be described in the General Disclosure Package and the Prospectus or a document incorporated by reference therein and which is not so described.
+
+(hh) No person or entity has the right to require registration of shares of Common Stock or other securities of the Company or any Subsidiary because of the filing or effectiveness of the Registration Statement or otherwise, except for persons and entities who have expressly waived such right in writing or who have been given timely and proper written notice and have failed to exercise such right within the time or times required under the terms and conditions of such right. Except as described in the General Disclosure Package, there are no persons with registration rights or similar rights to have any securities registered by the Company or any Subsidiary under the Securities Act.
+
+(ii) Neither the Company nor any Subsidiary owns any “margin securities” as that term is defined in Regulation U of the Board of Governors of the Federal Reserve System (the “Federal Reserve Board”), and none of the proceeds of the sale of the Units will be used, directly or indirectly, for the purpose of purchasing or carrying any margin security, for the purpose of reducing or retiring any indebtedness which was originally incurred to purchase or carry any margin security or for any other purpose which might cause any of the Units to be considered a “purpose credit” within the meanings of Regulation T, U or X of the Federal Reserve Board.
+
+(jj) Except for this Agreement, neither the Company nor any Subsidiary is a party to any contract, agreement or understanding with any person that would give rise to a valid claim against the Company or the Placement Agent for a brokerage commission, finder’s fee or like payment in connection with the offering and sale of the Units or any transaction contemplated by this Agreement, the Registration Statement, the General Disclosure Package or the Prospectus.
+
+ 
+
+14
+
+
+
+
+
+ 
+
+
+
+
+
+(kk) No forward-looking statement (within the meaning of Section 27A of the Securities Act and Section 21E of the Exchange Act) contained in either the General Disclosure Package or the Prospectus has been made or reaffirmed without a reasonable basis or has been disclosed other than in good faith.
+
+(ll) The Company is subject to and in compliance in all material respects with the reporting requirements of Section 13 or Section 15(d) of the Exchange Act. The Common Stock is registered pursuant to Section 12(b) of the Exchange Act and is listed on the Nasdaq GM, and the Company has taken no action designed to, or reasonably likely to have the effect of, terminating the registration of the Common Stock under the Exchange Act or delisting the Common Stock from the Nasdaq Stock Market, nor, except asset forth in the General Disclosure Package, has the Company received any notification that the Commission, the Nasdaq GM or FINRA is contemplating terminating such registration or listing. The Company has obtained or will have obtained, or has made or will have made, as applicable, all necessary consents, approvals, authorizations or orders of, or filing, notification or registration with, the Nasdaq GM is required for the listing and trading of the shares of Common Stock on the Nasdaq GM.
+
+(mm) The Company is in material compliance with all applicable provisions of the Sarbanes-Oxley Act of 2002 and all rules and regulations promulgated thereunder or implementing the provisions thereof (the “Sarbanes-Oxley Act”).
+
+(nn) Except as set forth in the General Disclosure Package, the Company is in material compliance with all applicable corporate governance requirements set forth in the Nasdaq Global Marketplace Rules.
+
+(oo) Neither the Company nor any Subsidiary, nor, to the best of the Company’s knowledge, any employee or agent of the Company or any Subsidiary, has made any contribution or other payment to any official of, or candidate for, any federal, state, local or foreign office in violation of any law (including the Foreign Corrupt Practices Act of 1977, as amended) or of the character required to be disclosed in the Registration Statement, the General Disclosure Package or the Prospectus or a document incorporated by reference therein.
+
+(pp) There are no transactions, arrangements or other relationships between and/or among the Company or any Subsidiary, any of their affiliates (as such term is defined in Rule 405 of the Securities Act) and any unconsolidated entity, including, but not limited to, any structured finance, special purpose or limited purpose entity that could reasonably be expected to materially affect the Company’s or any Subsidiary’s liquidity or the availability of or requirements for their capital resources required to be described in the General Disclosure Package and the Prospectus or a document incorporated by reference therein which have not been described as required.
+
+(qq) There are no outstanding loans, advances (except normal advances for business expenses in the ordinary course of business) or guarantees or indebtedness by the Company to or for the benefit of any of the officers or directors of the Company or any of their respective family members, except as disclosed in the Registration Statement, the General Disclosure Package and the Prospectus.
+
+ 
+
+15
+
+
+
+
+
+ 
+
+
+
+
+
+(rr) The statistical and market related data included in the Registration Statement, the General Disclosure Package and the Prospectus are based on or derived from sources that the Company believes to be reliable and accurate, and such data agree with the sources from which they are derived.
+
+(ss) The operations of the Company and each Subsidiary are and have been conducted at all times in compliance with applicable financial recordkeeping and reporting requirements of the Currency and Foreign Transactions Reporting Act of 1970, as amended, applicable money laundering statutes and applicable rules and regulations thereunder (collectively, the “Money Laundering Laws”), and no action, suit or proceeding by or before any court or governmental agency, authority or body or any arbitrator involving the Company or any Subsidiary with respect to the Money Laundering Laws is pending, or to the best knowledge of the Company, threatened.
+
+(tt) Neither the Company nor any Subsidiary nor, to the knowledge of the Company, any director, officer, agent, employee or affiliate of the Company or any Subsidiary is currently subject to any U.S. sanctions administered by the Office of Foreign Assets Control of the U.S. Treasury Department (“OFAC”); and the Company will not directly or indirectly use the proceeds of the offering, or lend, contribute or otherwise make available such proceeds to any Subsidiary, joint venture partner or other person or entity, for the purpose of financing the activities of any person currently subject to any U.S. sanctions administered by OFAC.
+
+(uu) Neither the Company, nor any Subsidiary, nor any of their affiliates (within the meaning of NASD Conduct Rule 2720(b)(1)(a)) directly or indirectly controls, is controlled by, or is under common control with, or is an associated person (within the meaning of Article I, Section l(ee) of the By-laws of FINRA) of, any member firm of FINRA.
+
+(vv) No approval of the shareholders of the Company under the rules and regulations of Nasdaq (including Rule 5635(d) of the Nasdaq Global Marketplace Rules) is required for the Company to issue and deliver to the Purchasers the Units.
+
+(ww) Any certificate signed by or on behalf of the Company and delivered to the Placement Agent or to counsel for the Placement Agent shall be deemed to be a representation and warranty by the Company to the Placement Agent and the Purchasers as to the matters covered thereby.
+
+4. THE CLOSING. The time and date of closing and delivery of the documents required to be delivered to the Placement Agent pursuant to Sections 5 and 7 hereof shall be at 11:00 A.M., New York time, on January 13, 2010 (the “Closing Date”) at the office of Mintz, Levin, Cohn, Ferris, Glovsky and Popeo, P.C., The Chrysler Center, 666 Third Avenue, New York, New York 10017.
+
+ 
+
+16
+
+
+
+
+
+ 
+
+
+
+
+
+5. FURTHER AGREEMENTS OF THE COMPANY. The Company agrees with the Placement Agent and the Purchasers:
+
+(a) To prepare the Rule 462(b) Registration Statement, if necessary, in a form approved by the Placement Agent and file such Rule 462(b) Registration Statement with the Commission on the date hereof; to prepare the Prospectus in a form approved by the Placement Agent containing information previously omitted at the time of effectiveness of the Registration Statement in reliance on rules 430A, 430B and 430C and to file such Prospectus pursuant to Rule 424(b) under the Rules and Regulations not later than the second (2nd)business day following the execution and delivery of this Agreement or, if applicable, such earlier time as may be required by Rule 430A under the Rules and Regulations; to notify the Placement Agent immediately of the Company’s intention to file or prepare any supplement or amendment to any Registration Statement or to the Prospectus and to make no amendment or supplement to the Registration Statement, the General Disclosure Package or to the Prospectus to which the Placement Agent shall reasonably object by notice to the Company after a reasonable period to review; to advise the Placement Agent, promptly after it receives notice thereof, of the time when any amendment to any Registration Statement has been filed or becomes effective or any supplement to the General Disclosure Package or the Prospectus or any amended Prospectus has been filed and to furnish the Placement Agent copies thereof; to file promptly all material required to be filed by the Company with the Commission pursuant to Rule 433(d) or 163(b)(2), as the case may be; to file promptly all reports and any definitive proxy or information statements required to be filed by the Company with the Commission pursuant to Section 13(a), 13(c), 14 or 15(d) of the Exchange Act subsequent to the date of the Prospectus and for so long as the delivery of a prospectus (or in lieu thereof, the notice referred to in Rule 173(a) under the Rules and Regulations) is required in connection with the offering or sale of the Units; to advise the Placement Agent, promptly after it receives notice thereof, of the issuance by the Commission of any stop order or of any order preventing or suspending the use of any Preliminary Prospectus, any Issuer Free Writing Prospectus or the Prospectus, of the suspension of the qualification of the Units for offering or sale in any jurisdiction, of the initiation or threatening of any proceeding for any such purpose, or of any request by the Commission for the amending or supplementing of the Registration Statement, the General Disclosure Package or the Prospectus or for additional information; and, in the event of the issuance of any stop order or of any order preventing or suspending the use of any Preliminary Prospectus, any Issuer Free Writing Prospectus or the Prospectus or suspending any such qualification, and promptly to use its best efforts to obtain the withdrawal of such order.
+
+(b) The Company represents and agrees that, unless it obtains the prior consent of the Placement Agent, it has not made and will not, make any offer relating to the Units that would constitute a “free writing prospectus” as defined in Rule 405 under the Rules and Regulations unless the prior written consent of the Placement Agent has been received (each, a “Permitted Free Writing Prospectus”); provided that the prior written consent of the Placement Agent hereto shall be deemed to have been given in respect of the Issuer Free Writing Prospectus[es] included in Schedule A hereto. The Company represents that it has treated and agrees that it will treat each Permitted Free Writing Prospectus as an Issuer Free Writing Prospectus, comply with the requirements of Rules 164 and 433 under the Rules and Regulations applicable to any Issuer Free Writing Prospectus, including the requirements relating to timely filing with the Commission, legending and record keeping and will not take any action that would result in the Placement Agent or the Company being required to file with the Commission pursuant to Rule 433(d) under the Rules and Regulations a free writing prospectus prepared by or on behalf of the Placement Agent that the Placement Agent otherwise would not have been required to file thereunder.
+
+ 
+
+17
+
+
+
+
+
+ 
+
+
+
+
+
+(c) If at any time when a Prospectus relating to the Units is required to be delivered under the Securities Act, any event occurs or condition exists as a result of which the Prospectus, as then amended or supplemented, would include any untrue statement of a material fact or omit to state a material fact necessary in order to make the statements therein, in light of the circumstances under which they were made, not misleading, or the Registration Statement, as then amended or supplemented, would include any untrue statement of a material fact or omit to state a material fact necessary to make the statements therein not misleading, or if for any other reason it is necessary at any time to amend or supplement any Registration Statement or the Prospectus to comply with the Securities Act or the Exchange Act, the Company will promptly notify the Placement Agent, and upon the Placement Agent’s request, the Company will promptly prepare and file with the Commission, at the Company’s expense, an amendment to the Registration Statement or an amendment or supplement to the Prospectus that corrects such statement or omission or effects such compliance and will deliver to the Placement Agent, without charge, such number of copies thereof as the Placement Agent may reasonably request. The Company consents to the use of the Prospectus or any amendment or supplement thereto by the Placement Agent.
+
+(d) If the General Disclosure Package is being used to solicit offers to buy the Units at a time when the Prospectus is not yet available to prospective purchasers and any event shall occur as a result of which, in the judgment of the Company or in the reasonable opinion of the Placement Agent, it becomes necessary to amend or supplement the General Disclosure Package in order to make the statements therein, in the light of the circumstances then prevailing, not misleading, or to make the statements therein not conflict with the information contained or incorporated by reference in the Registration Statement then on file and not superseded or modified, or if it is necessary at any time to amend or supplement the General Disclosure Package to comply with any law, the Company promptly will either (i) prepare, file with the Commission (if required) and furnish to the Placement Agent and any dealers an appropriate amendment or supplement to the General Disclosure Package or (ii) prepare and file with the Commission an appropriate filing under the Exchange Act which shall be incorporated by reference in the General Disclosure Package so that the General Disclosure Package as so amended or supplemented will not, in the light of the circumstances then prevailing, be misleading or conflict with the Registration Statement then on file, or so that the General Disclosure Package will comply with law.
+
+(e) If at any time following issuance of an Issuer Free Writing Prospectus there occurred or occurs an event or development as a result of which such Issuer Free Writing Prospectus conflicted or will conflict with the information contained in the Registration Statement, Pricing Prospectus or Prospectus, including any document incorporated by reference therein and any prospectus supplement deemed to be a part thereof and not superseded or modified or included or would include an untrue statement of a material fact or omitted or would omit to state a material fact required to be stated therein or necessary in order to make the statements therein, in the light of the circumstances prevailing at the subsequent time, not misleading, the Company has promptly notified or will promptly notify the Placement Agent so that any use of the Issuer Free Writing Prospectus may cease until it is amended or supplemented and has promptly amended or will promptly amend or supplement, at its own expense, such Issuer Free Writing Prospectus to eliminate or correct such conflict, untrue statement or omission. The foregoing sentence does not apply to statements in or omissions from any Issuer Free Writing Prospectus in reliance upon, and in conformity with, written information furnished to the Company by the Placement Agent specifically for inclusion therein, which information the parties hereto agree is limited to the Placement Agent’s Information (as defined in Section 17).
+
+ 
+
+18
+
+
+
+
+
+ 
+
+
+
+
+
+(f) To the extent not available on the Commission’s EDGAR system or any successor system, to furnish promptly to the Placement Agent and to counsel for the Placement Agent a signed copy of the Registration Statement as originally filed with the Commission, and of each amendment thereto filed with the Commission, including all consents and exhibits filed therewith.
+
+(g) To the extent not available on the Commission’s EDGAR system or any successor system, to deliver promptly to the Placement Agent in New York City such number of the following documents as the Placement Agent shall reasonably request: (i) conformed copies of the Registration Statement as originally filed with the Commission (in each case excluding exhibits), (ii) each Preliminary Prospectus, (iii) any Issuer Free Writing Prospectus, (iv) the Prospectus (the delivery of the documents referred to in clauses (i), (ii), (iii) and (iv) of this paragraph (g) to be made not later than 10:00 A.M., New York time, on the business day following the execution and delivery of this Agreement), (v) conformed copies of any amendment to the Registration Statement (excluding exhibits), (vi) any amendment or supplement to the General Disclosure Package or the Prospectus (the delivery of the documents referred to in clauses (v) and (vi) of this paragraph (g) to be made not later than 10:00 A.M., New York City time, on the business day following the date of such amendment or supplement) and (vii) any document incorporated by reference in the General Disclosure Package or the Prospectus (excluding exhibits thereto) (the delivery of the documents referred to in clause (vi) of this paragraph (g) to be made not later than 10:00 A.M., New York City time, on the business day following the date of such document).
+
+(h) To make generally available to its shareholders as soon as practicable, but in any event not later than eighteen (18) months after the effective date of each Registration Statement (as defined in Rule 158(c) under the Rules and Regulations), an earnings statement of the Company and any Subsidiary (which need not be audited) complying with Section 11(a) of the Securities Act and the Rules and Regulations (including, at the option of the Company, Rule 158); and to furnish to its shareholders as soon as practicable after the end of each fiscal year an annual report (including a balance sheet and statements of income, shareholders’ equity and cash flows of the Company and its consolidated subsidiaries certified by independent public accountants) and as soon as possible after each of the first three fiscal quarters of each fiscal year (beginning with the first fiscal quarter after the effective date of such Registration Statement), consolidated summary financial information of the Company and its subsidiaries for such quarter in reasonable detail.
+
+ 
+
+19
+
+
+
+
+
+ 
+
+
+
+
+
+(i) To take promptly from time to time such actions as the Placement Agent may reasonably request to qualify the Units for offering and sale under the securities or Blue Sky laws of such jurisdictions (domestic or foreign) as the Placement Agent may designate and to continue such qualifications in effect, and to comply with such laws, for so long as required to permit the offer and sale of Units in such jurisdictions; provided that the Company shall not be obligated to qualify as foreign corporations in any jurisdiction in which they are not so qualified or to file a general consent to service of process in any jurisdiction.
+
+(j) To the extent not available on the Commission’s EDGAR system or any successor system, during the period of two (2) years from the date hereof, to deliver to the Placement Agent, (i) as soon as they are available, copies of all reports or other communications furnished to shareholders (other than reports, proxy statements and other information that is electronically filed with the Commission via EDGAR or any successor system), and (ii) as soon as they are available, copies of any reports and financial statements furnished or filed with the Commission or any national securities exchange or automatic quotation system on which the Company’s securities are listed or quoted.
+
+(k) That the Company will not, for a period of thirty (30) days from the date of the Prospectus, (the “Lock-Up Period”) without the prior written consent of the Placement Agent, directly or indirectly offer, sell, assign, transfer, pledge, contract to sell, or otherwise dispose of, any shares of Common Stock or any securities convertible into or exercisable or exchangeable for Common Stock, other than: (i) the Company’s sale of the Units hereunder; (ii) the issuance of restricted Common Stock or options to acquire Common Stock pursuant to the Company’s employee benefit plans, qualified stock option plans or other employee compensation plans as such plans are in existence on the date hereof and described in the Prospectus; (iii) the issuance of Common Stock pursuant to the valid exercises of options, warrants or rights outstanding on the date hereof; (iv) the issuance of Common Stock pursuant to the valid exercises of the Warrants; (v) the issuance of Common Stock under its committed equity financing facility with Kingsbridge Capital Limited (or any amendments thereto) at any time after the tenth business day following the date hereof; and (vi) the sale and issuance of remaining securities covered by the Registration Statement. The Company will cause each executive officer, director, shareholder, optionholder and warrantholder listed in Schedule B to furnish to the Placement Agent, prior to the Closing Date, a letter, substantially in the form of Exhibit C hereto, pursuant to which each such person shall agree, among other things, not to directly or indirectly offer, sell, assign, transfer, pledge, contract to sell, or otherwise dispose of, any shares of Common Stock or any securities convertible into or exercisable or exchangeable for Common Stock, not to engage in any swap or other agreement or arrangement that transfers, in whole or in part, directly or indirectly, the economic risk of ownership of Common Stock or any such securities and not to engage in any short selling of any Common Stock or any such securities, during the Lock-Up Period, without the prior written consent of the Placement Agent. The Company also agrees that during such period, the Company will not file any registration statement, preliminary prospectus or prospectus, or any amendment or supplement thereto, under the Securities Act for any such transaction or which registers, or offers for sale, Common Stock or any securities convertible into or exercisable or exchangeable for Common Stock, except for a registration statement on Form S-8 relating to employee benefit plans. The Company hereby agrees that (i) if it issues an earnings release or material news, or if a material event relating to the Company occurs, during the last seventeen (17) days of the Lock-Up Period, or (ii) if prior to the expiration of the Lock-Up Period, the Company announces that it will release earnings results during the sixteen (16)-day period beginning on the last day of the Lock-Up Period, the restrictions imposed by this paragraph (k) or the letter shall continue to apply until the expiration of the eighteen (18)-day period beginning on the issuance of the earnings release or the occurrence of the material news or material event.
+
+ 
+
+20
+
+
+
+
+
+ 
+
+
+
+
+
+(l) To supply the Placement Agent with copies of all correspondence to and from, and all documents issued to and by, the Commission in connection with the registration of the Units under the Securities Act or the Registration Statement, any Preliminary Prospectus or the Prospectus, or any amendment or supplement thereto or document incorporated by reference therein.
+
+(m) Prior to the Closing Date, to furnish to the Placement Agent, as soon as they have been prepared, copies of any unaudited interim consolidated financial statements of the Company for any periods subsequent to the periods covered by the financial statements appearing in the Registration Statement and the Prospectus.
+
+(n) Prior to the Closing Date, not to issue any press release or other communication directly or indirectly or hold any press conference with respect to the Company, its condition, financial or otherwise, or earnings, business affairs or business prospects (except for routine oral marketing communications in the ordinary course of business and consistent with the past practices of the Company and of which the Placement Agent is notified), without the prior written consent of the Placement Agent, unless in the judgment of the Company and its counsel, and after notification to the Placement Agent, such press release or communication is required by law or the rules of the Nasdaq Stock Market.
+
+(o) Until the Placement Agent shall have notified the Company of the completion of the offering of the Units, that the Company will not, and will cause its affiliated purchasers (as defined in Regulation M under the Exchange Act) not to, either alone or with one or more other persons, bid for or purchase, for any account in which it or any of its affiliated purchasers has a beneficial interest, any Units, or attempt to induce any person to purchase any Units; and not to, and to cause its affiliated purchasers not to, make bids or purchase for the purpose of creating actual, or apparent, active trading in or of raising the price of the Units.
+
+(p) Not to take any action prior to the Closing Date which would require the Prospectus to be amended or supplemented pursuant to Section 5.
+
+(q) To at all times comply in all material respects with all applicable provisions of the Sarbanes-Oxley Act in effect from time to time.
+
+(r) To apply the net proceeds from the sale of the Units as set forth in the Registration Statement, the General Disclosure Package and the Prospectus under the heading “Use of Proceeds.”
+
+(s) To use its best efforts to effect, list and maintain, subject to notice of issuance, the Common Stock on the Nasdaq Stock Market.
+
+ 
+
+21
+
+
+
+
+
+ 
+
+
+
+
+
+(t) To use its best efforts to assist the Placement Agent with any filings with FINRA and obtaining clearance from FINRA as to the amount of compensation allowable or payable to the Placement Agent.
+
+(u) To use its best efforts to do and perform all things required to be done or performed under this Agreement by the Company prior to the Closing Date and to satisfy all conditions precedent to the delivery of the Units.
+
+6. PAYMENT OF EXPENSES. The Company agrees to pay, or reimburse if paid by the Placement Agent, whether or not the transactions contemplated hereby are consummated or this Agreement is terminated: (a) the costs incident to the authorization, issuance, sale, preparation and delivery of the Units to the Purchasers and any taxes payable in that connection; (b) the costs incident to the Registration of the Units under the Securities Act; (c) the costs incident to the preparation, printing and distribution of the Registration Statement, the Base Prospectus, any Preliminary Prospectus, any Issuer Free Writing Prospectus, the General Disclosure Package, the Prospectus, any amendments, supplements and exhibits thereto or any document incorporated by reference therein and the costs of printing, reproducing and distributing any transaction document by mail, telex or other means of communications; (d) the fees and expenses (including related fees and expenses of counsel for the Placement Agent, if any) incurred in connection with securing any required review by FINRA of the terms of the sale of the Units and any filings made with FINRA; (e) any applicable listing, quotation or other fees; (f) the fees and expenses (including related fees and expenses of counsel to the Placement Agent) of qualifying the Units under the securities laws of the several jurisdictions as provided in Section 5(i) and of preparing, printing and distributing wrappers, Blue Sky Memoranda and Legal Investment Surveys; (g) the cost of preparing and printing stock certificates; (h) all fees and expenses of the registrar and transfer agent of the Units; (i) the reasonable and documented fees, disbursements and expenses of counsel to the Placement Agent not to exceed, along with any fees and expenses incurred in connection with (d) above by counsel to the Placement Agent, $40,000 and (j) all other costs and expenses incident to the offering of the Units or the performance of the obligations of the Company under this Agreement (including, without limitation, the fees and expenses of the Company’s counsel and the Company’s independent accountants and the travel and other reasonable documented expenses incurred by Company personnel in connection with any “road show” including, without limitation, any expenses advanced by the Placement Agent on the Company’s behalf (which will be promptly reimbursed)); provided that, except to the extent otherwise provided in this Section 6 and in Sections 8 and 10, the Placement Agent shall pay its own costs and expenses. In no event will the total amount of compensation paid to the Placement Agent and other securities brokers and dealers upon completion of this Offering exceed 8.0% of the gross proceeds of the Offering.
+
+ 
+
+22
+
+
+
+
+
+ 
+
+
+
+
+
+7. CONDITIONS TO THE OBLIGATIONS OF THE PLACEMENT AGENT AND THE PURCHASERS, AND THE SALE OF THE UNITS. The respective obligations of the Placement Agent hereunder and the Purchasers under the Subscription Agreements, and the Closing of the sale of the Units, are subject to the accuracy, when made and as of the Applicable Time and on the Closing Date, of the representations and warranties of the Company contained herein, to the accuracy of the statements of the Company made in any certificates pursuant to the provisions hereof, to the performance by the Company of its obligations hereunder, and to each of the following additional terms and conditions:
+
+(a) No stop order suspending the effectiveness of the Registration Statement or any part thereof, preventing or suspending the use of any Base Prospectus, any Preliminary Prospectus, the Prospectus or any Permitted Free Writing Prospectus or any part thereof shall have been issued and no proceedings for that purpose or pursuant to Section 8A under the Securities Act shall have been initiated or threatened by the Commission, and all requests for additional information on the part of the Commission (to be included or incorporated by reference in the Registration Statement or the Prospectus or otherwise) shall have been complied with to the reasonable satisfaction of the Placement Agent; the Rule 462(b) Registration Statement, if any, each Issuer Free Writing Prospectus, if any, and the Prospectus shall have been filed with the Commission within the applicable time period prescribed for such filing by, and in compliance with, the Rules and Regulations and in accordance with Section 5(a). and the Rule 462(b) Registration Statement, if any, shall have become effective immediately upon its filing with the Commission; and FINRA shall have raised no objection to the fairness and reasonableness of the terms of this Agreement or the transactions contemplated hereby.
+
+(b) The Placement Agent shall not have discovered and disclosed to the Company on or prior to the Closing Date that the Registration Statement or any amendment or supplement thereto contains an untrue statement of a fact which, in the opinion of counsel for the Placement Agent, is material or omits to state any fact which, in the opinion of such counsel, is material and is required to be stated therein or is necessary to make the statements therein not misleading, or that the General Disclosure Package, any Issuer Free Writing Prospectus or the Prospectus or any amendment or supplement thereto contains an untrue statement of fact which, in the opinion of such counsel, is material or omits to state any fact which, in the opinion of such counsel, is material and is necessary in order to make the statements, in the light of the circumstances in which they were made, not misleading.
+
+(c) All corporate proceedings and other legal matters incident to the authorization, form and validity of each of this Agreement, the Subscription Agreements, the Units, the Registration Statement, the General Disclosure Package, each Issuer Free Writing Prospectus, if any, and the Prospectus and all other legal matters relating to this Agreement and the transactions contemplated hereby shall be reasonably satisfactory in all material respects to counsel for the Placement Agent, and the Company shall have furnished to such counsel all documents and information that they may reasonably request to enable them to pass upon such matters.
+
+ 
+
+23
+
+
+
+
+
+ 
+
+
+
+
+
+(d) Mintz, Levin, Cohn, Ferris, Glovsky and Popeo, P.C. shall have furnished to the Placement Agent, such counsel’s written opinion and negative assurances statement, as counsel to the Company, addressed to the Placement Agent and dated the Closing Date, in the form and substance reasonably satisfactory to the Placement Agent.
+
+(e) [reserved]
+
+(f) The Placement Agent shall have received from Ernst & Young LLP, a letter, addressed to the Placement Agent, executed and dated the Closing Date, in form and substance satisfactory to the Placement Agent (i) confirming that they are an independent registered accounting firm with respect to the Company and any Subsidiary within the meaning of the Securities Act and the Rules and Regulations and PCAOB and (ii) stating the conclusions and findings of such firm, of the type ordinarily included in accountants’ “comfort letters” to underwriters, with respect to the financial statements and certain financial information contained or incorporated by reference in the Registration Statement, the General Disclosure Package and the Prospectus.
+
+(g) [reserved]
+
+(h) The Company shall have furnished to the Placement Agent a certificate, dated the Closing Date, of its Chief Executive Officer, its President or a Vice President and its Chief Financial Officer stating that (i) such officers have carefully examined the Registration Statement, the General Disclosure Package, any Permitted Free Writing Prospectus and the Prospectus and, in their opinion, the Registration Statement and each amendment thereto, at the Applicable Time and as of the date of this Agreement and as of the Closing Date did not include any untrue statement of a material fact and did not omit to state a material fact required to be stated therein or necessary to make the statements therein not misleading, and the General Disclosure Package, as of the Applicable Time and as of the Closing Date, any Permitted Free Writing Prospectus as of its date and as of the Closing Date, the Prospectus and each amendment or supplement thereto, as of the respective date thereof and as of the Closing Date, did not include any untrue statement of a material fact and did not omit to state a material fact necessary in order to make the statements therein, in the light of the circumstances in which they were made, not misleading, (ii) since the effective date of the Initial Registration Statement, no event has occurred which should have been set forth in a supplement or amendment to the Registration Statement, the General Disclosure Package or the Prospectus, (iii) to the best of their knowledge after reasonable investigation, as of the Closing Date, the representations and warranties of the Company in this Agreement are true and correct and the Company has complied with all agreements and satisfied all conditions on its part to be performed or satisfied hereunder at or prior to the Closing Date, and (iv) there has not been, subsequent to the date of the most recent audited financial statements included or incorporated by reference in the General Disclosure Package, any material adverse change in the financial position or results of operations of the Company or any Subsidiary, or any change or development that, singularly or in the aggregate, would involve a material adverse change or a prospective material adverse change, in or affecting the condition (financial or otherwise), results of operations, business, assets or prospects of the Company or any Subsidiary, except as set forth in the Prospectus.
+
+ 
+
+24
+
+
+
+
+
+ 
+
+
+
+
+
+(i) Since the date of the latest audited financial statements included in the General Disclosure Package or incorporated by reference in the General Disclosure Package as of the date hereof, (i) neither the Company nor any Subsidiary shall have sustained any loss or interference with its business from fire, explosion, flood or other calamity, whether or not covered by insurance, or from any labor dispute or court or governmental action, order or decree, otherwise than as set forth in the General Disclosure Package, and (ii) there shall not have been any change in the capital stock or long-term debt of the Company or any Subsidiary, or any change, or any development involving a prospective change, in or affecting the business, management, financial position, stockholders’ equity or results of operations of the Company, otherwise than as set forth in the General Disclosure Package, the effect of which, in any such case described in clause (i) or (ii) of this paragraph (1). is, in the judgment of the Placement Agent, so material and adverse as to make it impracticable or inadvisable to proceed with the sale or delivery of the Units on the terms and in the manner contemplated in the General Disclosure Package.
+
+(j) No action shall have been taken and no law, statute, rule, regulation or order shall have been enacted, adopted or issued by any governmental agency or body which would prevent the issuance or sale of the Units or materially and adversely affect or potentially materially and adversely affect the business or operations of the Company or any Subsidiary; and no injunction, restraining order or order of any other nature by any federal or state court of competent jurisdiction shall have been issued which would prevent the issuance or sale of the Units or materially and adversely affect or potentially materially and adversely affect the business or operations of the Company or any Subsidiary.
+
+(k) Subsequent to the execution and delivery of this Agreement there shall not have occurred any of the following: (i) trading in securities generally on the New York Stock Exchange, Nasdaq GM or the American Stock Exchange or in the over-the-counter market, or trading in any securities of the Company on any exchange or in the over-the-counter market, shall have been suspended or materially limited, or minimum or maximum prices or maximum range for prices shall have been established on any such exchange or such market by the Commission, by such exchange or market or by any other regulatory body or governmental authority having jurisdiction, (ii) a banking moratorium shall have been declared by Federal or state authorities or a material disruption has occurred in commercial banking or securities settlement or clearance services in the United States, (iii) the United States shall have become engaged in hostilities, or the subject of an act of terrorism, or there shall have been an outbreak of or escalation in hostilities involving the United States, or there shall have been a declaration of a national emergency or war by the United States or (iv) there shall have occurred such a material adverse change in general economic, political or financial conditions (or the effect of international conditions on the financial markets in the United States shall be such) as to make it, in the judgment of the Placement Agent, impracticable or inadvisable to proceed with the sale or delivery of the Units on the terms and in the manner contemplated in the General Disclosure Package and the Prospectus.
+
+(l) The Nasdaq GM shall have approved the Common Stock for inclusion therein, subject only to official notice of issuance.
+
+(m) The Placement Agent shall have received the written agreements, substantially in the form of Exhibit C hereto, of the executive officers, directors, shareholders, optionholders and warrantholders of the Company listed in Schedule B to this Agreement.
+
+ 
+
+25
+
+
+
+
+
+ 
+
+
+
+
+
+(n) The Company shall have entered into Subscription Agreements with each of the Purchasers and such agreements shall be in full force and effect.
+
+(o) [reserved]
+
+(p) FINRA shall have raised no objection as to the amount of compensation allowable or payable to the Placement Agent as described in the Pricing Prospectus.
+
+(q) Prior to the Closing Date, the Company shall have furnished to the Placement Agent such further information, opinions, certificates, letters or documents as the Placement Agent shall have reasonably requested.
+
+All opinions, letters, evidence and certificates mentioned above or elsewhere in this Agreement shall be deemed to be in compliance with the provisions hereof only if they are in form and substance reasonably satisfactory to counsel for the Placement Agent.
+
+8. INDEMNIFICATION AND CONTRIBUTION.
+
+(a) The Company shall indemnify and hold harmless the Placement Agent, its affiliates and each of its and their respective directors, officers, members, employees, representatives and agents and its affiliates, and each of its and their respective directors, officers, members, employees, representatives and agents and each person, if any, who controls the Placement Agent within the meaning of Section 15 of the Securities Act of or Section 20 of the Exchange Act (collectively the “Placement Agent Indemnified Parties,” and each a “Placement Agent Indemnified Party”) against any loss, claim, damage, expense or liability whatsoever (or any action, investigation or proceeding in respect thereof), joint or several, to which such Placement Agent Indemnified Party may become subject, under the Securities Act or otherwise, insofar as such loss, claim, damage, expense, liability, action, investigation or proceeding arises out of or is based upon (A) any untrue statement or alleged untrue statement of a material fact contained in any Preliminary Prospectus, any Issuer Free Writing Prospectus, any ”issuer information” filed or required to be filed pursuant to Rule 433(d) under the Rules and Regulations, any Registration Statement or the Prospectus, or in any amendment or supplement thereto or document incorporated by reference therein, (B) the omission or alleged omission to state in any Preliminary Prospectus, any Issuer Free Writing Prospectus, any “issuer information” filed or required to be filed pursuant to Rule 433(d) under the Rules and Regulations, any Registration Statement or the Prospectus, or in any amendment or supplement thereto or document incorporated by reference therein, a material fact required to be stated therein or necessary to make the statements therein not misleading, or (C) any breach of the representations and warranties of the Company contained herein or failure of the Company to perform its obligations hereunder or pursuant to any law, any act or failure to act, or any alleged act or failure to act, by the Placement Agent in connection with, or relating in any manner to, the Units or the Offering, and which is included as part of or referred to in any loss, claim, damage, expense, liability, action, investigation or proceeding arising out of or based upon matters covered by subclause (A), (B) or (C) above of this Section 8(a) (provided that the Company shall not be liable in the case of any matter covered by this subclause (C) to the extent that it is determined in a final judgment by a court of
+
+ 
+
+26
+
+
+
+
+
+ 
+
+
+
+
+
+competent jurisdiction that such loss, claim, damage, expense or liability resulted directly from any such act or failure to act undertaken or omitted to be taken by the Placement Agent through its gross negligence or willful misconduct), and shall reimburse the Placement Agent Indemnified Party promptly upon demand for any legal fees or other expenses reasonably incurred by that Placement Agent Indemnified Party in connection with investigating, or preparing to defend, or defending against, or appearing as a third party witness in respect of, or otherwise incurred in connection with, any such loss, claim, damage, expense, liability, action, investigation or proceeding, as such fees and expenses are incurred; provided, however, that the Company shall not be liable in any such case to the extent that any such loss, claim, damage, expense or liability arises out of or is based upon an untrue statement or alleged untrue statement in, or omission or alleged omission from any Preliminary Prospectus, any Registration Statement or the Prospectus, or any such amendment or supplement thereto, or any Issuer Free Writing Prospectus made in reliance upon and in conformity with written information furnished to the Company by the Placement Agent specifically for use therein, which information the parties hereto agree is limited to the Placement Agent’s Information (as defined in Section 17).  This indemnity agreement is not exclusive and will be in addition to any liability, which the Company might otherwise have and shall not limit any rights or remedies which may otherwise be available at law or in equity to the Placement Agent Indemnified Party.
+
+(b) The Placement Agent shall indemnify and hold harmless the Company and its directors, its officers who signed the Registration Statement and each person, if any, who controls the Company within the meaning of Section 15 of the Securities Act or Section 20 of the Exchange Act (collectively the “Company Indemnified Parties” and each a “Company Indemnified Party”) against any loss, claim, damage, expense or liability whatsoever (or any action, investigation or proceeding in respect thereof), joint or several, to which such Company Indemnified Party may become subject, under the Securities Act or otherwise, insofar as such loss, claim, damage, expense, liability, action, investigation or proceeding arises out of or is based upon (i) any untrue statement or alleged untrue statement of a material fact contained in any Preliminary Prospectus, any Issuer Free Writing Prospectus, any “issuer information” filed or required to be filed pursuant to Rule 433(d) under the Rules and Regulations, any Registration Statement or the Prospectus, or in any amendment or supplement thereto, or (ii) the omission or alleged omission to state in any Preliminary Prospectus, any Issuer Free Writing Prospectus, any “issuer information” filed or required to be filed pursuant to Rule 433(d) under the Rules and Regulations, any Registration Statement or the Prospectus, or in any amendment or supplement thereto, a material fact required to be stated therein or necessary to make the statements therein not misleading, but in each case only to the extent that the untrue statement or alleged untrue statement or omission or alleged omission was made in reliance upon and in conformity with written information furnished to the Company by the Placement Agent specifically for use therein, which information the parties hereto agree is limited to the Placement Agent’s Information as defined in Section 17 and shall reimburse the Company for any legal or other expenses reasonably incurred by such party in connection with investigating or preparing to defend or defending against or appearing as third party witness in connection with any such loss, claim, damage, liability, action, investigation or proceeding, as such fees and expenses are incurred. Notwithstanding the provisions of this Section 8(b) in no event shall any indemnity by the Placement Agent under this Section 8(b) exceed the total compensation received by the Placement Agent in accordance with Section 2.5.
+
+ 
+
+27
+
+
+
+
+
+ 
+
+
+
+
+
+(c) Promptly after receipt by an indemnified party under this Section 8 of notice of the commencement of any action, the indemnified party shall, if a claim in respect thereof is to be made against an indemnifying party under this Section 8 notify such indemnifying party in writing of the commencement of that action; provided, however, that the failure to notify the indemnifying party shall not relieve it from any liability which it may have under this Section 8 except to the extent it has been materially prejudiced by such failure; and, provided, further, that the failure to notify an indemnifying party shall not relieve it from any liability which it may have to an indemnified party otherwise than under this Section 8. If any such action shall be brought against an indemnified party, and it shall notify the indemnifying party thereof, the indemnifying party shall be entitled to participate therein and, to the extent that it wishes, jointly with any other similarly notified indemnifying party, to assume the defense of such action with counsel reasonably satisfactory to the indemnified party (which counsel shall not, except with the written consent of the indemnified party, be counsel to the indemnifying party). After notice from the indemnifying party to the indemnified party of its election to assume the defense of such action, except as provided herein, the indemnifying party shall not be liable to the indemnified party under Section 8 for any legal or other expenses subsequently incurred by the indemnified party in connection with the defense of such action other than reasonable costs of investigation; provided, however, that any indemnified party shall have the right to employ separate counsel in any such action and to participate in the defense of such action but the fees and expenses of such counsel (other than reasonable costs of investigation) shall be at the expense of such indemnified party unless (i) the employment thereof has been specifically authorized in writing by the Company in the case of a claim for indemnification under Section 8(a) or Section 2.6 or the Placement Agent in the case of a claim for indemnification under Section 8(b). (ii) such indemnified party shall have been advised by its counsel that there may be one or more legal defenses available to it which are different from or additional to those available to the indemnifying party, or (iii) the indemnifying party has failed to assume the defense of such action and employ counsel reasonably satisfactory to the indemnified party within a reasonable period of time after notice of the commencement of the action or the indemnifying party does not diligently defend the action after assumption of the defense, in which case, if such indemnified party notifies the indemnifying party in writing that it elects to employ separate counsel at the expense of the indemnifying party, the indemnifying party shall not have the right to assume the defense of (or, in the case of a failure to diligently defend the action after assumption of the defense, to continue to defend) such action on behalf of such indemnified party and the indemnifying party shall be responsible for legal or other expenses subsequently incurred by such indemnified party in connection with the defense of such action; provided, however, that the indemnifying party shall not, in connection with any one such action or separate but substantially similar or related actions in the same jurisdiction arising out of the same general allegations or circumstances, be liable for the reasonable fees and expenses of more than one separate firm of attorneys at any time for all such indemnified parties (in addition to any local counsel), which firm shall be designated in writing by the Placement Agent if the indemnified parties under this Section 8 consist of any Placement Agent Indemnified Party or by the Company if the indemnified parties under
+
+ 
+
+28
+
+
+
+
+
+ 
+
+
+
+
+
+this Section 8 consist of any Company Indemnified Parties. Subject to this Section 8(c), the amount payable by an indemnifying party under Section 8 shall include, but not be limited to, (x) reasonable legal fees and expenses of counsel to the indemnified party and any other expenses in investigating, or preparing to defend or defending against, or appearing as a third party witness in respect of, or otherwise incurred in connection with, any action, investigation, proceeding or claim, and (y) all amounts paid in settlement of any of the foregoing. No indemnifying party shall, without the prior written consent of the indemnified parties, settle or compromise or consent to the entry of judgment with respect to any pending or threatened action or any claim whatsoever, in respect of which indemnification or contribution could be sought under this Section 8 (whether or not the indemnified parties are actual or potential parties thereto), unless such settlement, compromise or consent (i) includes an unconditional release of each indemnified party in form and substance reasonably satisfactory to such indemnified party from all liability arising out of such action or claim and (ii) does not include a statement as to or an admission of fault, culpability or a failure to act by or on behalf of any indemnified party. Subject to the provisions of the following sentence, no indemnifying party shall be liable for settlement of any pending or threatened action or any claim whatsoever that is effected without its written consent (which consent shall not be unreasonably withheld or delayed), but if settled with its written consent, if its consent has been unreasonably withheld or delayed or if there be a judgment for the plaintiff in any such matter, the indemnifying party agrees to indemnify and hold harmless any indemnified party from and against any loss or liability by reason of such settlement or judgment. In addition, if at any time an indemnified party shall have requested that an indemnifying party reimburse the indemnified party for fees and expenses of counsel, such indemnifying party agrees that it shall be liable for any settlement of the nature contemplated herein effected without its written consent if (i) such settlement is entered into more than forty-five (45) days after receipt by such indemnifying party of the request for reimbursement, (ii) such indemnifying party shall have received notice of the terms of such settlement at least thirty (30) days prior to such settlement being entered into and (iii) such indemnifying party shall not have reimbursed such indemnified party in accordance with such request prior to the date of such settlement.
+
+(d) If the indemnification provided for in this Section 8 is unavailable or insufficient to hold harmless an indemnified party under Section 8(a) or Section 8(b), then each indemnifying party shall, in lieu of indemnifying such indemnified party, contribute to the amount paid, payable or otherwise incurred by such indemnified party as a result of such loss, claim, damage, expense or liability (or any action, investigation or proceeding in respect thereof), as incurred, (i) in such proportion as shall be appropriate to reflect the relative benefits received by the Company on the one hand and the Placement Agent on the other hand from the offering of the Units, or (ii) if the allocation provided by clause (i) of this Section 8(d) is not permitted by applicable law, in such proportion as is appropriate to reflect not only the relative benefits referred to in clause (i) of this Section 8(d) but also the relative fault of the Company on the one hand and the Placement Agent on the other with respect to the statements, omissions, acts or failures to act which resulted in such loss, claim, damage, expense or liability (or any action, investigation or proceeding in respect thereof) as well as any other relevant equitable considerations. The relative benefits received by the Company on the one hand and the Placement Agent on the other with respect to such offering shall be deemed to be in the same proportion as the total net proceeds from the offering of the Units purchased under this Agreement (before deducting expenses) received by the Company bear to the total
+
+ 
+
+29
+
+
+
+
+
+ 
+
+
+
+
+
+Placement Fee received by the Placement Agent in connection with the Offering, in each case as set forth in the table on the cover page of the Prospectus. The relative fault of the Company on the one hand and the Placement Agent on the other shall be determined by reference to, among other things, whether the untrue or alleged untrue statement of a material fact or the omission or alleged omission to state a material fact relates to information supplied by the Company on the one hand or the Placement Agent on the other, the intent of the parties and their relative knowledge, access to information and opportunity to correct or prevent such untrue statement, omission, act or failure to act; provided that the parties hereto agree that the written information furnished to the Company by the Placement Agent for use in any Preliminary Prospectus, any Registration Statement or the Prospectus, or in any amendment or supplement thereto, consists solely of the Placement Agent’s Information as defined in Section 17. The Company and the Placement Agent agree that it would not be just and equitable if contributions pursuant to this Section 8(d) were to be determined by pro rata allocation or by any other method of allocation that does not take into account the equitable considerations referred to herein. The amount paid or payable by an indemnified party as a result of the loss, claim, damage, expense, liability, action, investigation or proceeding referred to above in this Section 8(d) shall be deemed to include, for purposes of this Section 8(d). any legal or other expenses reasonably incurred by such indemnified party in connection with investigating, preparing to defend or defending against or appearing as a third party witness in respect of, or otherwise incurred in connection with, any such loss, claim, damage, expense, liability, action, investigation or proceeding. Notwithstanding the provisions of this Section 8(d), the Placement Agent shall not be required to contribute any amount in excess of the total compensation received by the Placement Agent in accordance with Section 2.5 less the amount of any damages which the Placement Agent has otherwise paid or become liable to pay by reason of any untrue or alleged untrue statement, omission or alleged omission, act or alleged act or failure to act or alleged failure to act. No person guilty of fraudulent misrepresentation (within the meaning of Section 11(f) of the Securities Act) shall be entitled to contribution from any person who was not guilty of such fraudulent misrepresentation.
+
+9. TERMINATION. The obligations of the Placement Agent and the Purchasers hereunder and under the Subscription Agreements may be terminated by the Placement Agent, in its absolute discretion by notice given to the Company prior to delivery of and payment for the Units if, prior to that time, any of the events described in Sections 7(1), 7(m) or 7(n) have occurred or if the Purchasers shall decline to purchase the Units for any reason permitted under this Agreement or the Subscription Agreements.
+
+10. REIMBURSEMENT OF PLACEMENT AGENT’S EXPENSES. Notwithstanding anything to the contrary in this Agreement, if (a) this Agreement shall have been terminated pursuant to Section 9, (b) the Company shall fail to tender the Units for delivery to the Purchasers for any reason not permitted under this Agreement, (c) the Purchasers shall decline to purchase the Units for any reason permitted under this Agreement or (d) the sale of the Units is not consummated because any condition to the obligations of the Purchasers or the Placement Agent set forth herein is not satisfied or because of the refusal, inability or failure on the part of the Company to perform any agreement herein or to satisfy any condition or to comply with the provisions hereof, then in addition to the payment of amounts in accordance with Section 6 the Company shall reimburse the Placement Agent for the reasonable documented and accountable fees and expenses of the Placement Agent’s counsel and for such other out-of-pocket expenses as shall have been reasonably incurred by them in connection with this Agreement and the proposed purchase of the Units, and upon demand the Company shall pay the full amount thereof to the Placement Agent.
+
+ 
+
+30
+
+
+
+
+
+ 
+
+
+
+
+
+11. ABSENCE OF FIDUCIARY RELATIONSHIP. The Company acknowledges and agrees that:
+
+(a) the Placement Agent’s responsibility to the Company is solely contractual in nature, the Placement Agent has been retained solely to act as Placement Agent in connection with the Offering and no fiduciary, advisory or agency relationship between the Company and the Placement Agent has been created in respect of any of the transactions contemplated by this Agreement, irrespective of whether the Placement Agent has advised or is advising the Company on other matters;
+
+(b) the price of the Units set forth in this Agreement was established by the Company following discussions and arms-length negotiations with the Placement Agent, and the Company is capable of evaluating and understanding, and understands and accepts, the terms, risks and conditions of the transactions contemplated by this Agreement;
+
+(c) it has been advised that the Placement Agent and its affiliates are engaged in a broad range of transactions which may involve interests that differ from those of the Company and that the Placement Agent has no obligation to disclose such interests and transactions to the Company by virtue of any fiduciary, advisory or agency relationship; and
+
+(d) it waives, to the fullest extent permitted by law, any claims it may have against the Placement Agent for breach of fiduciary duty or alleged breach of fiduciary duty and agrees that the Placement Agent shall have no liability (whether direct or indirect) to the Company in respect of such a fiduciary duty claim or to any person asserting a fiduciary duty claim on behalf of or in right of the Company, including stockholders, employees or creditors of the Company.
+
+ 
+
+31
+
+
+
+
+
+ 
+
+
+
+
+
+12. SUCCESSORS; PERSONS ENTITLED TO BENEFIT OF AGREEMENT. This Agreement shall inure to the benefit of and be binding upon the Placement Agent, the Company, and their respective successors and assigns. This Agreement shall also inure to the benefit of the Purchasers, and each of their respective successors and assigns, which shall be third party beneficiaries hereof. Nothing expressed or mentioned in this Agreement is intended or shall be construed to give any person, other than the persons mentioned in the preceding sentences, any legal or equitable right, remedy or claim under or in respect of this Agreement, or any provisions herein contained, this Agreement and all conditions and provisions hereof being intended to be and being for the sole and exclusive benefit of such persons and for the benefit of no other person; except that the representations, warranties, covenants, agreements and indemnities of the Company contained in this Agreement shall also be for the benefit of the Placement Agent Indemnified Parties and the indemnities of the  Placement Agent shall be for the benefit of the Company Indemnified Parties. It is understood that the Placement Agent’s responsibility to the Company is solely contractual in nature and the Placement Agent does not owe the Company, or any other party, any fiduciary duty as a result of this Agreement.
+
+13. SURVIVAL OF INDEMNITIES, REPRESENTATIONS, WARRANTIES, ETC. The respective indemnities, covenants, agreements, representations, warranties and other statements of the Company and the Placement Agent, as set forth in this Agreement or made by them respectively, pursuant to this Agreement, shall remain in full force and effect, regardless of any investigation made by or on behalf of the Placement Agent, the Company, the Purchasers or any person controlling any of them and shall survive delivery of and payment for the Units. Notwithstanding any termination of this Agreement, including without limitation any termination pursuant to Sections 9 or 10, the indemnity and contribution agreements contained in Section 8 and the covenants, representations, warranties set forth in this Agreement shall not terminate and shall remain in full force and effect at all times.
+
+14. NOTICES. All statements, requests, notices and agreements hereunder shall be in writing, and:
+
+(a) if to the Placement Agent, shall be delivered or sent by mail, telex, facsimile transmission or overnight courier to Roth Capital Partners, LLC, 24 Corporate Plaza, Newport Beach, California 92660, Attention: Aaron Gurewitz, Fax: (949) 720-7227, with a copy (which shall not constitute notice) to: Lowenstein Sandler PC, 1251 Avenue of the Americas, New York, NY 10020, Attention: John D. Hogoboom, Esq., Fax (973) 597-2400; and
+
+(b) if to the Company, shall be delivered or sent by mail, telex, facsimile transmission or overnight courier to Cyclacel Pharmaceuticals, Inc., 200 Connell Drive, Suite 1500, Berkeley Heights, NJ 07922, Attention: President and Chief Executive Officer, Fax: (866) 271-3466, with a copy (which shall not constitute notice) to: Mintz, Levin, Cohn, Ferris, Glovsky & Popeo, P.C., Chrysler Center, 666 Third Avenue, New York, NY 10017, Attention Joel I. Papernik, Esq., Fax: (212) 983-3115.
+
+Any such statements, requests, notices or agreements shall take effect at the time of receipt thereof, except that any such statement, request, notice or agreement delivered or sent by email shall take effect at the time of confirmation of receipt thereof by the recipient thereof.
+
+ 
+
+32
+
+
+
+
+
+ 
+
+
+
+
+
+15. DEFINITION OF CERTAIN TERMS. For purposes of this Agreement, “business day” means any day on which the New York Stock Exchange, Inc. is open for trading.
+
+16. GOVERNING LAW, AGENT FOR SERVICE AND JURISDICTION. This Agreement shall be governed by and construed in accordance with the laws of the State of New York, including without limitation Section 5-1401 of the New York General Obligations Law. No legal proceeding may be commenced, prosecuted or continued in any court other than the courts of the State of New York located in the City and County of New York or in the United States District Court for the Southern District of New York, which courts shall have jurisdiction over the adjudication of such matters, and the Company and the Placement Agent each hereby consent to the jurisdiction of such courts and personal service with respect thereto. The Company and the Placement Agent each hereby consent to personal jurisdiction, service and venue in any court in which any legal proceeding arising out of or in any way relating to this Agreement is brought by any third party against the Company or the Placement Agent. The Company and the Placement Agent each hereby waive all right to trial by jury in any legal proceeding (whether based upon contract, tort or otherwise) in any way arising out of or relating to this Agreement. The Company agrees that a final judgment in any such legal proceeding brought in any such court shall be conclusive and binding upon the Company and the Placement Agent and may be enforced in any other courts in the jurisdiction of which the Company is or may be subject, by suit upon such judgment.
+
+17. PLACEMENT AGENT’S INFORMATION. The parties hereto acknowledge and agree that, for all purposes of this Agreement, the Placement Agent’s Information consists solely of the following information in the Prospectus: (i) the last paragraph on the front cover page concerning the terms of the offering by the Placement Agent; and (ii) the statements concerning the Placement Agent contained in the first paragraph under the heading ”Plan of Distribution.”
+
+18. PARTIAL UNENFORCEABILITY. The invalidity or unenforceability of any section, paragraph, clause or provision of this Agreement shall not affect the validity or enforceability of any other section, paragraph, clause or provision hereof. If any section, paragraph, clause or provision of this Agreement is for any reason determined to be invalid or unenforceable, there shall be deemed to be made such minor changes (and only such minor changes) as are necessary to make it valid and enforceable.
+
+19. GENERAL. This Agreement constitutes the entire agreement of the parties to this Agreement and supersedes all prior written or oral and all contemporaneous oral agreements, understandings and negotiations with respect to the subject matter hereof. In this Agreement, the masculine, feminine and neuter genders and the singular and the plural include one another. The Section headings in this Agreement are for the convenience of the parties only and will not affect the construction or interpretation of this Agreement. This Agreement may be amended or modified, and the observance of any term of this Agreement may be waived, only by a writing signed by the Company and the Placement Agent.
+
+20. COUNTERPARTS. This Agreement may be signed in any number of counterparts, each of which shall be an original, with the same effect as if the signatures thereto and hereto were upon the same instrument and such signatures may be delivered by facsimile.
+
+ 
+
+33
+
+
+
+
+
+ 
+
+
+
+
+
+If the foregoing is in accordance with your understanding of the agreement between the Company and the Placement Agent, kindly indicate your acceptance in the space provided for that purpose below.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Very truly yours,
+
+
+
+CYCLACEL PHARMACEUTICALS, INC. 
+
+ 
+
+ 
+
+By:  
+
+/s/ Spiro Rombotis  
+
+ 
+
+ 
+
+ 
+
+Name:  
+
+Spiro Rombotis 
+
+ 
+
+ 
+
+ 
+
+Title:  
+
+President & CEO 
+
+ 
+
+ 
+
+Accepted as of the date first above written:
+
+ROTH CAPITAL MARKETS, LLC
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Aaron Gurewitz
+
+ 
+
+Name: Aaron Gurewitz
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:   Head of Equity Capital Markets
+
+ 
+
+ 
+
+ 
+
+34

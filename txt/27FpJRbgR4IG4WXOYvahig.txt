@@ -1,0 +1,193 @@
+Exhibit 99.1
+
+INDEMNIFICATION AND REIMBURSEMENT AGREEMENT
+
+THIS INDEMNIFICATION AND REIMBURSEMENT AGREEMENT (the “Agreement”) is made as of this 10th day of January, 2010, by and between Lighting Science Group Corporation, a Delaware corporation (the “Company”), and Pegasus Partners IV, L.P., a Delaware limited partnership (“Pegasus IV”, together with its affiliates, including, without limitation, LED Holdings, LLC, the “Indemnitee”).
+
+RECITALS
+
+WHEREAS, the Company entered into a convertible note agreement, dated August 27, 2009, with Pegasus IV, pursuant to which Pegasus IV agreed to convert the amounts owed thereunder into a certain number units, each consisting of one share of Series D Preferred Stock and that portion of a warrant representing the right to purchase one share of common stock (a “Unit”), as set forth therein;
+
+WHEREAS, the Company is distributing, at no charge to each holder of its common stock, 6% Convertible Preferred Stock, Series B Preferred Stock and warrants to purchase its common stock, subscription rights to purchase up to an aggregate of 25,268,193 Units as set forth in the Registration Statement (defined below) (the “Rights Offering”).
+
+WHEREAS, in consideration of the foregoing, the Company has agreed to enter into this Agreement and to comply with its terms, as specifically set forth herein;
+
+NOW, THEREFORE, in consideration of the foregoing recitals, the mutual terms and conditions herein contained, and other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto agree as follows:
+
+SECTION 1. Definitions.
+
+(a) “Commission” means the U.S. Securities and Exchange Commission.
+
+(b) “Prospectus” means the prospectus in the form first used by the Company in connection with the Rights Offering after the Registration Statement is declared effective, and any amendment or supplement thereto.
+
+(c) The term “Registration Statement” means the registration statement, including a prospectus, relating to the Rights Offering, filed with the Commission on Form S-1 (File No. 333-162966), as amended at the time it becomes effective and any post-effective amendments thereto.
+
+SECTION 2. Indemnification.
+
+(a) Indemnification of the Indemnitee. The Company agrees to indemnify and hold harmless the Indemnitee as follows:
+
+(i) against any and all loss, liability, claim, damage and expense (including reasonable attorneys’ fees) whatsoever, as incurred, arising out of any untrue statement or
+
+ 
+
+1
+
+
+
+alleged untrue statement of a material fact contained in the Registration Statement, or arising out of any untrue statement or alleged untrue statement of a material fact included in the Prospectus, or caused by the omission or alleged omission therefrom of a material fact necessary to make the statements therein, in the light of the circumstances under which they were made, not misleading;
+
+(ii) against any and all loss, liability, claim, damage and expense (including reasonable attorneys’ fees) whatsoever, as incurred, to the extent of the aggregate amount paid in settlement of any litigation, suit, action, proceeding (including any proceeding or investigation by any governmental agency or body), claim or demand (a “Proceeding”), commenced or threatened, based upon: (A) any untrue statement or alleged untrue statement of a material fact contained in the Registration Statement or the Prospectus or (B) omission or alleged omission therefrom of a material fact necessary to make the statements therein, in the light of the circumstances under which they were made, not misleading; provided, that (subject to Section 2(d) below) any such settlement is effected with the written consent of the Company; and
+
+(iii) against any and all expenses (including reasonable attorneys’ fees) whatsoever, as incurred, reasonably incurred in investigating, preparing or defending against any Proceeding, commenced or threatened, based upon: (A) any untrue statement or alleged untrue statement of a material fact contained in the Registration Statement or the Prospectus or (B) omission or alleged omission therefrom of a material fact necessary to make the statements therein, in the light of the circumstances under which they were made, not misleading, to the extent that any such expense is not paid under Section 2(a)(i) or 2(a)(ii) above;
+
+(b) Actions against Parties; Notification. The Indemnitee shall give notice as promptly as reasonably practicable to the Company of any Proceeding brought or asserted against the Indemnitee in respect of which indemnity may be sought hereunder, but failure to so notify the Company shall not relieve the Company from any liability hereunder to the extent the Company is not materially prejudiced as a result thereof and in any event shall not relieve the Company from any liability which it may have otherwise than on account of this Agreement. If any such Proceeding shall be brought or asserted against the Indemnitee and it shall have notified the Company thereof, the Indemnitee shall be entitled to select the counsel to the Indemnitee with the reasonable consent of the Company. In addition, the Indemnitee may participate at its own expense in the defense of any such Proceeding; provided, that counsel to the Indemnitee shall not (except with the consent of the Company) also be counsel to the Company. In no event shall the Company be liable for reasonable fees and expenses of more than one counsel (in addition to any local counsel) separate from its own counsel for the Indemnitee in connection with any one Proceeding or separate but similar or related Proceedings in the same jurisdiction arising out of the same general allegations or circumstances. Without the Indemnitee’s prior written consent which shall not be unreasonably withheld, the Company shall not settle or compromise or consent to the entry of any judgment with respect to any Proceeding, commenced or threatened, in respect of which indemnification or contribution could be sought under this Section 2 or Section 3 hereof (whether or not the Indemnitee is an actual or potential party thereto), unless such settlement, compromise or consent (i) includes an unconditional release of the Indemnitee from all liability arising out of such Proceeding and (ii) does not include a
+
+ 
+
+2
+
+
+
+statement as to or an admission of fault, culpability or a failure to act by or on behalf of the Indemnitee.
+
+(c) Settlement without Consent if Failure to Reimburse. If at any time the Indemnitee shall have requested the Company reimburse the Indemnitee for reasonable fees and expenses of counsel, the Company agrees that it shall be liable for any settlement of the nature contemplated by Section 2(a) effected without its written consent if (i) such settlement is entered into more than 45 days after receipt by the Company of the aforesaid request, (ii) the Company shall have received notice of the terms of such settlement at least 30 days prior to such settlement being entered into and (iii) the Company shall not have reimbursed the Indemnitee in accordance with such request prior to the date of such settlement.
+
+(d) Other Agreements with Respect to Indemnification. The provisions of this Section shall not affect any agreement that the Company may have with respect to indemnification.
+
+SECTION 3. Contribution. If the indemnification provided for in Section 2 hereof is for any reason unavailable to or insufficient to hold harmless the Indemnitee in respect of any losses, liabilities, claims, damages or expenses referred to therein, then the Company shall provide reimbursement to the Indemnitee for the aggregate amount of such losses, liabilities, claims, damages and expenses incurred by the Indemnitee. The aggregate amount of losses, liabilities, claims, damages and expenses incurred by the Indemnitee and referred to in this Section 3 shall be deemed to include any legal or other expenses reasonably incurred by the Indemnitee in investigating, preparing for or defending against any Proceeding brought or asserted against the Indemnitee in respect of which indemnity may otherwise be sought under Section 2 hereof but for any reason is unavailable or insufficient.
+
+SECTION 4. Miscellaneous Provisions.
+
+(a) Binding Effect. This Agreement shall be binding upon and inure to the benefit of and be enforceable by the parties hereto and their respective successors and assigns, including any direct or indirect successor by purchase, merger, consolidation or otherwise to all or substantially all of the business and/or assets of a party hereto. The Company shall require and cause any successor (whether direct or indirect by purchase, merger, consolidation, or otherwise) to all, substantially all or a substantial part, of the business and/or assets of the Company, by written agreement in form and substance satisfactory to the Indemnitee, expressly to assume and agree to perform this Agreement in the same manner and to the same extent that the Company would be required to perform if no such succession had taken place.
+
+(b) Amendment. No supplement, modification or amendment of this Agreement shall be binding unless executed in writing by the parties hereto.
+
+(c) Waiver. No waiver of any of the provisions of this Agreement shall operate as a waiver of any other provisions hereof (whether or not similar), nor shall such waiver constitute a continuing waiver. Except as specifically provided herein, no failure to exercise or any delay in exercising any right or remedy hereunder shall constitute a waiver thereof.
+
+(d) Subrogation. In the event of payment under this Agreement, the Company shall be subrogated to the extent of such payment to all of the rights of recovery of the Indemnitee, who
+
+ 
+
+3
+
+
+
+shall execute all documents required and shall do everything that may be reasonably necessary to secure such rights, including the execution of such documents reasonably necessary to enable the Company to bring suit, action, proceeding, claim or demand to enforce such rights effectively, and all of the Indemnitee’s reasonable expenses related thereto will be borne by the Company.
+
+(e) Severability. If any provision of this Agreement or portion thereof shall be held by a court of competent jurisdiction to be invalid, void or otherwise unenforceable, the remaining provisions shall remain enforceable to the fullest extent permitted by law. Furthermore, to the fullest extent possible, the provisions of this Agreement (including, without limitation, each provision of this Agreement containing any portion held to be invalid, void or otherwise unenforceable, that is not itself invalid, void or unenforceable) shall be construed so as to give effect to the intent manifested by the portion held invalid, void or unenforceable.
+
+(f) Governing Law; Consent to Jurisdiction. This Agreement shall be governed by and construed in accordance with the laws of the State of New York without giving effect to principles of conflicts of law. The parties hereto irrevocably submit to the exclusive jurisdiction of courts of the State of New York and acknowledge that such courts shall have exclusive jurisdiction over all disputes or claims arising out of or relating to this Agreement.
+
+(g) Counterparts. This Agreement may be executed in counterparts, each of which shall be deemed an original, but all of which shall constitute the same instrument.
+
+(h) Entire Agreement. This Agreement represents the entire agreement and understanding between the parties hereto with respect to the subject matter hereof and supersede all prior agreements and understandings relating to such subject matter.
+
+[Remainder of page intentionally left blank;
+
+signatures appear on the next page]
+
+ 
+
+4
+
+
+
+IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be duly executed as of the day and year first above written.
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LIGHTING SCIENCE GROUP
+
+CORPORATION
+
+ 
+
+
+
+ 
+
+PEGASUS PARTNERS IV, L.P.
+
+ 
+
+/s/ John D. Mitchell, Jr.
+
+Name: John D. Mitchell, Jr.
+
+Title: Corporate Secretary
+
+ 
+
+
+
+ 
+
+By: Pegasus Investors IV, L.P., its general partner
+
+ 
+
+By: Pegasus Investors IV GP, L.L.C., its general partner
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+By:
+
+ 
+
+/s/ Steven Wacaster
+
+
+
+
+
+ 
+
+
+
+ 
+
+Name
+
+ 
+
+Steven Wacaster
+
+
+
+ 
+
+
+
+ 
+
+Title:
+
+ 
+
+VP
+
+ 
+
+5

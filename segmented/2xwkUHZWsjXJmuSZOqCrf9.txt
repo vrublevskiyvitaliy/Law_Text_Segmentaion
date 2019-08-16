@@ -1,0 +1,860 @@
+**********************
+Exhibit10.2
+**********************
+FIRST AMENDMENT TO CREDIT AGREEMENT AND LOAN DOCUMENTS
+**********************
+THIS FIRST AMENDMENT TO CREDIT AGREEMENT AND LOAN DOCUMENTS (this  Amendment ) is made as of the 30th day of June, 2008 by and between SUMMER INFANT, INC. , a Delaware corporation ( SI Holdings ), SUMMER INFANT (USA), INC. , a Rhode Island corporation ( SI USA ), KIDDOPOTAMUS& COMPANY , a Delaware corporation ( Kiddopotamus ), , SUMMER INFANT EUROPE LIMITED , a private company limited by shares organized under the laws of England and Wales with registered number 04322137 ( SI Europe ), SUMMER INFANT ASIA LIMITED , a Hong Kong corporation ( SI Asia ), and SUMMER INFANT CANADA, LIMITED , a corporation organized under the laws of the Province of New Brunswick, Canada ( SI Canada , and collectively with SI Holdings, SI USA, Kiddopotamus, SI Europe and SI Asia, the  Original Borrowers  and each individually an  Original Borrower ), certain Lenders identified on the signature pageshereto (collectively, the  Lenders  and each individually, a  Lender ), and BANK OF AMERICA, N.A.
+, a national banking association, as Administrative Agent (in such capacity, the  Agent ).
+**********************
+RECITALS:
+**********************
+WHEREAS, the Lenders, BANK OF AMERICA, N.A., a national banking association, as Swing Line Lender (the  Swing Line Lender ) and L/C Issuer (the  L/C Issuer ), the Agent and the Original Borrowers are parties to a certain Credit Agreement dated as of April10, 2008, as supplemented by a Joinder and Security Agreement dated as of April18, 2008, by and among the Lenders, the Agent, the Original Borrowers and Kiddo Acquisition Co.,Inc., a Rhode Island corporation (as supplemented, the  Credit Agreement ), which Credit Agreement is incorporated herein by reference and made a part hereof (capitalized terms used herein that are not otherwise defined herein shall have the meanings set forth in the Credit Agreement); and
+**********************
+WHEREAS, the Original Borrowers have applied to the Lenders, the Swing Line Lender, the L/C Issuer and the Agent (collectively, the  Lender Parties ) to make certain amendments to the Credit Agreement and certain other Loan Documents; and
+**********************
+WHEREAS, on or about June30, 2008, the Lender Parties agreed to effect such amendments subject to the execution and delivery of an amendment in form and substance satisfactory to the Lender Parties to evidence such amendments; and
+**********************
+WHEREAS, the Lender Parties and the Original Borrowers desire to amend the Credit Agreement in the manner set forth below.
+**********************
+NOW, THEREFORE, for good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto hereby agree as follows:
+**********************
+1.
+The parties hereto hereby agree that SI Europe, SI Asia and SI Canada shall be and are hereby released as Borrowers under the Credit Agreement and the Notes, and as Grantors under the Guaranty and Security Agreement of the Original Borrowers in favor of the Agent for the benefit of the Lenders and other Lender Parties dated as of April10, 2008 (the  Security Agreement ).
+Accordingly, the terms  Borrower ,  Borrowers ,  Loan Party  and  Loan Parties  appearing in the Credit Agreement and the Notes, and the terms  Grantor  and  Grantors  appearing
+**********************
+in the Security Agreement, are hereby amended to delete all references to SI Europe, SI Asia and SI Canada.
+Nothing contained herein is intended to modify, release or discharge any of the obligations, indebtedness or liabilities of SI Holdings, SI USA or Kiddopotamus under the Credit Agreement, the Notes, the Security Agreement or any other Loan Documents, and SI Holdings, SI USA and Kiddopotamus (collectively, the  Borrowers ) shall remain obligated under each of the Credit Agreement, the Notes, the Security Agreement and all other Loan Documents, and shall remain jointly and severally liable for the payment and performance of all Obligations.
+**********************
+2.
+The following definitions of Applicable Rate, Borrowing Base Availability,  Letter of Credit  and  Pledging Borrowers  set forth in Section1.01 of the Credit Agreement are hereby amended to read in their entirety as follows
+**********************
+Applicable Rate means, from time to time, the following percentages per annum, based upon the Funded Debt to EBITDA Ratio (the  Financial Covenant ) as set forth in the most recent Compliance Certificate received by Agent pursuant to Section6.02(b):
+**********************
+Applicable Rate
+**********************
+Pricing Level
+**********************
+Funded Debt to EBITDA Ratio
+**********************
+Applicable Rate for Eurodollar Rate Loans and Letters of Credit
+**********************
+Applicable Rate For Base Rate Loans
+**********************
+1.
+**********************
+<2.75:1.00
+**********************
+1.50%
+**********************
+-0-
+**********************
+2.
+**********************
+>2.75:1.00 but<3.25:1.00
+**********************
+1.75%
+**********************
+0.25%
+**********************
+3.
+**********************
+>3.25:1.00
+**********************
+2.00%
+**********************
+0.50%
+**********************
+Any increase or decrease in the Applicable Rate resulting from a change in the Financial Covenant shall become effective as of the first Business Day of the month immediately following the date a Compliance Certificate is delivered pursuant to Section6.02(b); provided , however , that if a Compliance Certificate is not delivered when due in accordance with such Section, then Pricing Level 3 shall apply as of the first Business Day of the month following the date such Compliance Certificate was required to have been delivered.
+The Applicable Rate in effect from the Closing Date through June30, 2008 shall be determined based upon Pricing Level 3.
+**********************
+Notwithstanding anything to the contrary contained in this definition, (i)the determination of the Applicable Rate for any period shall be subject to the provisions of Section2.10(b); and (ii)at any time the Borrowers Funded Debt to EBITDA ratio exceeds 3.25:1.00 and the Aggregate Commitments are calculated using the Overadvance Amount, the Applicable Rate set forth in this definition shall increase by one quarter of one percent (0.25%) for the longer of (A)ninety (90) days from the date that the Aggregate Commitments began to be calculated using the Overadvance Amount; or (B)the delivery of a Borrowing Base Certificate which shows that such overadvance has been eliminated.
+**********************
+Borrowing Base Availability means an amount which shall not exceed the aggregate Dollar Equivalent of (i)eighty-five percent (85%) of Total Eligible Toys R Us
+**********************
+2
+**********************
+Receivables outstanding from time to time, plus (ii)eighty-five percent (85%) of Total Eligible Target Receivables outstanding from time to time, plus (iii)eighty percent (80%) of Eligible Domestic Receivables outstanding from time to time; plus (iv)sixty percent (60%) of the value of Eligible Domestic Inventory; plus (v)fifty-five percent (55%) of the value of Intransit Inventory; provided , however , the amount available for Loans against Eligible Domestic Inventory and Intransit Inventory shall not exceed the lesser of (A)fifty percent (50%) of Borrowing Base Availability under (i)through (v)above, and (B)Twenty-Three Million Dollars ($23,000,000).
+**********************
+Letter of Credit means any standby letter of credit and any commercial letter of credit issued hereunder.
+**********************
+Pledging Borrowers means, collectively, SI Holdings, SI USA, Kiddopotamus and any future Borrower that pledges Collateral for the Obligations pursuant to a first-priority perfected security interest.
+**********************
+3.
+The definitions of Eligible Foreign Inventory and Eligible Foreign Receivable set forth in Section1.01 of the Credit Agreement are hereby deleted from the Credit Agreement in their entirety.
+**********************
+4.
+ExhibitF to the Credit Agreement is hereby amended to read in its entirety in the form of Annex A attached hereto and made in part hereof.
+**********************
+5.
+The Borrowers and the Agent shall execute such agreements and documents as the Agent shall reasonably require in order to limit the security interests granted by the Borrowers in the capital stock of SI Asia, SI Europe and SI Canada to a pledge of not more than sixty-five percent (65%) of the capital stock of each of such subsidiaries held by the Borrowers, and the Borrowers shall execute and deliver to the Agent such additional agreements as the Agent shall reasonably request from time to time to grant and perfect such security interests in such portion of the capital stock of each of such subsidiaries.
+Except for the modification set forth in the preceding sentence, all other security interests granted by the Borrowers in and to the Collateral described in the Security Agreement shall remain in full force and effect and are in all respects hereby ratified and affirmed by the Borrowers.
+**********************
+6.
+The Borrowers shall pay all reasonable expenses incurred by the Agent in the drafting, negotiation and closing of the documents and transactions contemplated hereby, including the reasonable fees and disbursements of the Agents counsel.
+**********************
+7.
+All references to the Credit Agreement in the Note and the Security Documents shall be deemed to refer to the Credit Agreement, as amended by this Amendment and any other amendments which may be executed.
+All references in the Loan Documents to the Notes shall be deemed to refer to the Notes, as amended by this Amendment.
+This Amendment shall constitute a Loan Document as defined in the Credit Agreement.
+**********************
+8.
+The Borrowers hereby warrant that all of the representations and warranties contained in ArticleIII of the Credit Agreement are true and correct as of the date hereof and that no Event of Default has occurred and is continuing or would result by the execution of this Amendment
+**********************
+3
+**********************
+or would constitute such an Event of Default but for the requirement that notice be given or time elapse or both.
+**********************
+9.
+This Amendment may be executed in several counterparts, each of which when executed and delivered is an original, but all of which together shall constitute one instrument.
+In making proof of this Amendment, it shall not be necessary to produce or account for more than one such counterpart executed by the party against whom enforcement of this Amendment is sought.
+**********************
+10.
+Except as modified and amended hereby, the Credit Agreement shall remain in full force and effect and is in all other respects ratified and confirmed by the Borrowers, the Lenders and the Agent.
+**********************
+(The next pageis the signature page.)
+**********************
+4
+**********************
+IN WITNESS WHEREOF, the parties hereto have caused this Amendment to be duly executed as of the day and year first above written.
+**********************
+BANK OF AMERICA, N.A., as Administrative Agent
+**********************
+By:
+**********************
+/s/ Brenda Little
+**********************
+Brenda H. Little, Vice President
+**********************
+BANK OF AMERICA, N.A., as a Lender, Swing Line Lender and L/C Issuer
+**********************
+By:
+**********************
+/s/ David Angell
+**********************
+David J. Angell, Senior Vice President
+**********************
+RSB CITIZENS, NATIONAL ASSOCIATION, as a Lender
+**********************
+By:
+**********************
+/s/ Robert Kent
+**********************
+Name: Robert R. Kent
+**********************
+Title: Senior Vice President
+**********************
+BANK RHODE ISLAND, as a Lender
+**********************
+By:
+**********************
+/s/ Peter J. Difilippo
+**********************
+Name: Peter J. Difilippo
+**********************
+Title: Senior Vice President
+**********************
+BORROWERS:
+**********************
+SUMMER INFANT (USA), INC.
+**********************
+By:
+**********************
+/s/ Jason Macari
+**********************
+Jason P. Macari, President
+**********************
+SUMMER INFANT, INC.
+**********************
+By:
+**********************
+/s/ Jason Macari
+**********************
+Jason P. Macari, President
+**********************
+KIDDOPOTAMUS& COMPANY
+**********************
+By:
+**********************
+/s/ Jason Macari
+**********************
+Title:
+**********************
+Acknowledged and Agreed:
+**********************
+SUMMER INFANT EUROPE LIMITED
+**********************
+By:
+**********************
+/s/ Jason Macari
+**********************
+Jason P. Macari, President
+**********************
+SUMMER INFANT ASIA LIMITED
+**********************
+By:
+**********************
+/s/ Jason Macari
+**********************
+Jason P. Macari, President
+**********************
+SUMMER INFANT CANADA LIMITED
+**********************
+By:
+**********************
+/s/ Jason Macari
+**********************
+Jason P. Macari, President
+**********************
+ANNEX A
+**********************
+EXHIBIT F
+**********************
+FORMOF BORROWING BASE CERTIFICATE
+**********************
+SUMMER INFANT
+**********************
+MONTH-END COLLATERAL REPORT AND BORROWING CERTIFICATE
+**********************
+For the Month-ending
+**********************
+REVOLVING FACILITY
+**********************
+DOMESTIC ACCOUNTS RECEIVABLE(Excluding Target/Toys R Us)
+**********************
+1.)
+**********************
+End of Month Balance
+**********************
+$
+**********************
+2.)
+**********************
+Ineligible Accounts Receivable, Determined without Duplication
+**********************
+$
+**********************
+3.)
+**********************
+Net Eligible Accounts Receivable
+**********************
+$
+**********************
+ELIGIBLE TARGET RECEIVABLES
+**********************
+4.)
+**********************
+End of Month Balance
+**********************
+$
+**********************
+5.)
+**********************
+Ineligible Accounts Receivable, Determined without Duplication
+**********************
+$
+**********************
+6.)
+**********************
+Net Eligible Accounts Receivable
+**********************
+$
+**********************
+7.)
+**********************
+Total Eligible Target Receivables (98% of Line 6)
+**********************
+$
+**********************
+ELIGIBLE TOYS R US RECEIVABLES
+**********************
+8.)
+**********************
+End of Month Balance
+**********************
+$
+**********************
+9.)
+**********************
+Ineligible Accounts Receivable, Determined without Duplication
+**********************
+$
+**********************
+10.)
+**********************
+Net Eligible Accounts Receivable
+**********************
+$
+**********************
+11.)
+**********************
+Total Eligible Toys R Us Receivables (86% of Line 10)
+**********************
+$
+**********************
+DOMESTIC INVENTORY
+**********************
+12.)
+**********************
+Month Ending Inventory Balance
+**********************
+$
+**********************
+13.)
+**********************
+Less: Ineligible Domestic Inventory
+**********************
+$
+**********************
+14.)
+**********************
+Eligible Inventory
+**********************
+$
+**********************
+IN-TRANSIT INVENTORY
+**********************
+15.)
+**********************
+Month Ending Inventory Balance
+**********************
+$
+**********************
+16.)
+**********************
+Less: Ineligible In-Transit Inventory
+**********************
+$
+**********************
+17.)
+**********************
+Eligible In-Transit Inventory
+**********************
+$
+**********************
+BORROWING BASE
+**********************
+18.)
+**********************
+a)
+**********************
+Domestic Accounts Receivable (80% of Line 3)
+**********************
+$
+**********************
+b)
+**********************
+Target Receivables (85% of Line 7)
+**********************
+$
+**********************
+c)
+**********************
+Toys R Us Receivables (85% of Line 11)
+**********************
+$
+**********************
+d)
+**********************
+Domestic Inventory (60% of Line 14)
+**********************
+$
+**********************
+e)
+**********************
+Intransit Inventory (55% of Line 17)
+**********************
+$
+**********************
+19.)
+**********************
+Inventory Availability (Lesser of Lines 18d + 18e OR $23,000,000)
+**********************
+$
+**********************
+20.)
+**********************
+Gross Availability (Lines 18a + 18b + 18c + 19)
+**********************
+$
+**********************
+21.)
+**********************
+Lesser of Line 20 or $46,000,000 (Line Limit)
+**********************
+$
+**********************
+LOAN DETAIL
+**********************
+Prime Rate
+**********************
+$
+**********************
+LIBOR
+**********************
+$
+**********************
+Other
+**********************
+$
+**********************
+22.)
+**********************
+Total Loans Outstanding at Month-End
+**********************
+$
+**********************
+23.)
+**********************
+Net Borrowing Base Availability (Line 21 minus Line 22)
+**********************
+$
+**********************
+The undersigned represents and warrants that:
+**********************
+(A) The information provided above and in the accompanying supporting documentation is true and correct, and complies fully with the conditions, terms and covenants of the Credit Agreement dated April10, 2008 as amended to the date (the Agreement) between the undersigned and Bank of America (the Bank).
+**********************
+(B) Since the date of the last financial statement or certification furnished to the Bank.
+**********************
+(i) There has been no material adverse change in the financial condition or operations of the undersigned, and
+**********************
+(ii) There is no event which is, or with notice or lapse of time or both would be, a default under the Agreement
+**********************
+Summer Infant,Inc.
+**********************
+By:
+**********************
+Print Name:
+**********************
+Title:
+**********************
+Date:
+**********************
+Exhibit10.2
+**********************
+FIRST AMENDMENT TO CREDIT AGREEMENT AND LOAN DOCUMENTS
+**********************
+THIS FIRST AMENDMENT TO CREDIT AGREEMENT AND LOAN DOCUMENTS (this  Amendment ) is made as of the 30th day of June, 2008 by and between SUMMER INFANT, INC. , a Delaware corporation ( SI Holdings ), SUMMER INFANT (USA), INC. , a Rhode Island corporation ( SI USA ), KIDDOPOTAMUS& COMPANY , a Delaware corporation ( Kiddopotamus ), , SUMMER INFANT EUROPE LIMITED , a private company limited by shares organized under the laws of England and Wales with registered number 04322137 ( SI Europe ), SUMMER INFANT ASIA LIMITED , a Hong Kong corporation ( SI Asia ), and SUMMER INFANT CANADA, LIMITED , a corporation organized under the laws of the Province of New Brunswick, Canada ( SI Canada , and collectively with SI Holdings, SI USA, Kiddopotamus, SI Europe and SI Asia, the  Original Borrowers  and each individually an  Original Borrower ), certain Lenders identified on the signature pageshereto (collectively, the  Lenders  and each individually, a  Lender ), and BANK OF AMERICA, N.A.
+, a national banking association, as Administrative Agent (in such capacity, the  Agent ).
+**********************
+RECITALS:
+**********************
+WHEREAS, the Lenders, BANK OF AMERICA, N.A., a national banking association, as Swing Line Lender (the  Swing Line Lender ) and L/C Issuer (the  L/C Issuer ), the Agent and the Original Borrowers are parties to a certain Credit Agreement dated as of April10, 2008, as supplemented by a Joinder and Security Agreement dated as of April18, 2008, by and among the Lenders, the Agent, the Original Borrowers and Kiddo Acquisition Co.,Inc., a Rhode Island corporation (as supplemented, the  Credit Agreement ), which Credit Agreement is incorporated herein by reference and made a part hereof (capitalized terms used herein that are not otherwise defined herein shall have the meanings set forth in the Credit Agreement); and
+**********************
+WHEREAS, the Original Borrowers have applied to the Lenders, the Swing Line Lender, the L/C Issuer and the Agent (collectively, the  Lender Parties ) to make certain amendments to the Credit Agreement and certain other Loan Documents; and
+**********************
+WHEREAS, on or about June30, 2008, the Lender Parties agreed to effect such amendments subject to the execution and delivery of an amendment in form and substance satisfactory to the Lender Parties to evidence such amendments; and
+**********************
+WHEREAS, the Lender Parties and the Original Borrowers desire to amend the Credit Agreement in the manner set forth below.
+**********************
+NOW, THEREFORE, for good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto hereby agree as follows:
+**********************
+1.
+The parties hereto hereby agree that SI Europe, SI Asia and SI Canada shall be and are hereby released as Borrowers under the Credit Agreement and the Notes, and as Grantors under the Guaranty and Security Agreement of the Original Borrowers in favor of the Agent for the benefit of the Lenders and other Lender Parties dated as of April10, 2008 (the  Security Agreement ).
+Accordingly, the terms  Borrower ,  Borrowers ,  Loan Party  and  Loan Parties  appearing in the Credit Agreement and the Notes, and the terms  Grantor  and  Grantors  appearing
+**********************
+in the Security Agreement, are hereby amended to delete all references to SI Europe, SI Asia and SI Canada.
+Nothing contained herein is intended to modify, release or discharge any of the obligations, indebtedness or liabilities of SI Holdings, SI USA or Kiddopotamus under the Credit Agreement, the Notes, the Security Agreement or any other Loan Documents, and SI Holdings, SI USA and Kiddopotamus (collectively, the  Borrowers ) shall remain obligated under each of the Credit Agreement, the Notes, the Security Agreement and all other Loan Documents, and shall remain jointly and severally liable for the payment and performance of all Obligations.
+**********************
+2.
+The following definitions of Applicable Rate, Borrowing Base Availability,  Letter of Credit  and  Pledging Borrowers  set forth in Section1.01 of the Credit Agreement are hereby amended to read in their entirety as follows
+**********************
+Applicable Rate means, from time to time, the following percentages per annum, based upon the Funded Debt to EBITDA Ratio (the  Financial Covenant ) as set forth in the most recent Compliance Certificate received by Agent pursuant to Section6.02(b):
+**********************
+Applicable Rate
+**********************
+Pricing Level
+**********************
+Funded Debt to EBITDA Ratio
+**********************
+Applicable Rate for Eurodollar Rate Loans and Letters of Credit
+**********************
+Applicable Rate For Base Rate Loans
+**********************
+1.
+**********************
+<2.75:1.00
+**********************
+1.50%
+**********************
+-0-
+**********************
+2.
+**********************
+>2.75:1.00 but<3.25:1.00
+**********************
+1.75%
+**********************
+0.25%
+**********************
+3.
+**********************
+>3.25:1.00
+**********************
+2.00%
+**********************
+0.50%
+**********************
+Any increase or decrease in the Applicable Rate resulting from a change in the Financial Covenant shall become effective as of the first Business Day of the month immediately following the date a Compliance Certificate is delivered pursuant to Section6.02(b); provided , however , that if a Compliance Certificate is not delivered when due in accordance with such Section, then Pricing Level 3 shall apply as of the first Business Day of the month following the date such Compliance Certificate was required to have been delivered.
+The Applicable Rate in effect from the Closing Date through June30, 2008 shall be determined based upon Pricing Level 3.
+**********************
+Notwithstanding anything to the contrary contained in this definition, (i)the determination of the Applicable Rate for any period shall be subject to the provisions of Section2.10(b); and (ii)at any time the Borrowers Funded Debt to EBITDA ratio exceeds 3.25:1.00 and the Aggregate Commitments are calculated using the Overadvance Amount, the Applicable Rate set forth in this definition shall increase by one quarter of one percent (0.25%) for the longer of (A)ninety (90) days from the date that the Aggregate Commitments began to be calculated using the Overadvance Amount; or (B)the delivery of a Borrowing Base Certificate which shows that such overadvance has been eliminated.
+**********************
+Borrowing Base Availability means an amount which shall not exceed the aggregate Dollar Equivalent of (i)eighty-five percent (85%) of Total Eligible Toys R Us
+**********************
+2
+**********************
+Receivables outstanding from time to time, plus (ii)eighty-five percent (85%) of Total Eligible Target Receivables outstanding from time to time, plus (iii)eighty percent (80%) of Eligible Domestic Receivables outstanding from time to time; plus (iv)sixty percent (60%) of the value of Eligible Domestic Inventory; plus (v)fifty-five percent (55%) of the value of Intransit Inventory; provided , however , the amount available for Loans against Eligible Domestic Inventory and Intransit Inventory shall not exceed the lesser of (A)fifty percent (50%) of Borrowing Base Availability under (i)through (v)above, and (B)Twenty-Three Million Dollars ($23,000,000).
+**********************
+Letter of Credit means any standby letter of credit and any commercial letter of credit issued hereunder.
+**********************
+Pledging Borrowers means, collectively, SI Holdings, SI USA, Kiddopotamus and any future Borrower that pledges Collateral for the Obligations pursuant to a first-priority perfected security interest.
+**********************
+3.
+The definitions of Eligible Foreign Inventory and Eligible Foreign Receivable set forth in Section1.01 of the Credit Agreement are hereby deleted from the Credit Agreement in their entirety.
+**********************
+4.
+ExhibitF to the Credit Agreement is hereby amended to read in its entirety in the form of Annex A attached hereto and made in part hereof.
+**********************
+5.
+The Borrowers and the Agent shall execute such agreements and documents as the Agent shall reasonably require in order to limit the security interests granted by the Borrowers in the capital stock of SI Asia, SI Europe and SI Canada to a pledge of not more than sixty-five percent (65%) of the capital stock of each of such subsidiaries held by the Borrowers, and the Borrowers shall execute and deliver to the Agent such additional agreements as the Agent shall reasonably request from time to time to grant and perfect such security interests in such portion of the capital stock of each of such subsidiaries.
+Except for the modification set forth in the preceding sentence, all other security interests granted by the Borrowers in and to the Collateral described in the Security Agreement shall remain in full force and effect and are in all respects hereby ratified and affirmed by the Borrowers.
+**********************
+6.
+The Borrowers shall pay all reasonable expenses incurred by the Agent in the drafting, negotiation and closing of the documents and transactions contemplated hereby, including the reasonable fees and disbursements of the Agents counsel.
+**********************
+7.
+All references to the Credit Agreement in the Note and the Security Documents shall be deemed to refer to the Credit Agreement, as amended by this Amendment and any other amendments which may be executed.
+All references in the Loan Documents to the Notes shall be deemed to refer to the Notes, as amended by this Amendment.
+This Amendment shall constitute a Loan Document as defined in the Credit Agreement.
+**********************
+8.
+The Borrowers hereby warrant that all of the representations and warranties contained in ArticleIII of the Credit Agreement are true and correct as of the date hereof and that no Event of Default has occurred and is continuing or would result by the execution of this Amendment
+**********************
+3
+**********************
+or would constitute such an Event of Default but for the requirement that notice be given or time elapse or both.
+**********************
+9.
+This Amendment may be executed in several counterparts, each of which when executed and delivered is an original, but all of which together shall constitute one instrument.
+In making proof of this Amendment, it shall not be necessary to produce or account for more than one such counterpart executed by the party against whom enforcement of this Amendment is sought.
+**********************
+10.
+Except as modified and amended hereby, the Credit Agreement shall remain in full force and effect and is in all other respects ratified and confirmed by the Borrowers, the Lenders and the Agent.
+**********************
+(The next pageis the signature page.)
+**********************
+4
+**********************
+IN WITNESS WHEREOF, the parties hereto have caused this Amendment to be duly executed as of the day and year first above written.
+**********************
+BANK OF AMERICA, N.A., as Administrative Agent
+**********************
+By:
+**********************
+/s/ Brenda Little
+**********************
+Brenda H. Little, Vice President
+**********************
+BANK OF AMERICA, N.A., as a Lender, Swing Line Lender and L/C Issuer
+**********************
+By:
+**********************
+/s/ David Angell
+**********************
+David J. Angell, Senior Vice President
+**********************
+RSB CITIZENS, NATIONAL ASSOCIATION, as a Lender
+**********************
+By:
+**********************
+/s/ Robert Kent
+**********************
+Name: Robert R. Kent
+**********************
+Title: Senior Vice President
+**********************
+BANK RHODE ISLAND, as a Lender
+**********************
+By:
+**********************
+/s/ Peter J. Difilippo
+**********************
+Name: Peter J. Difilippo
+**********************
+Title: Senior Vice President
+**********************
+BORROWERS:
+**********************
+SUMMER INFANT (USA), INC.
+**********************
+By:
+**********************
+/s/ Jason Macari
+**********************
+Jason P. Macari, President
+**********************
+SUMMER INFANT, INC.
+**********************
+By:
+**********************
+/s/ Jason Macari
+**********************
+Jason P. Macari, President
+**********************
+KIDDOPOTAMUS& COMPANY
+**********************
+By:
+**********************
+/s/ Jason Macari
+**********************
+Title:
+**********************
+Acknowledged and Agreed:
+**********************
+SUMMER INFANT EUROPE LIMITED
+**********************
+By:
+**********************
+/s/ Jason Macari
+**********************
+Jason P. Macari, President
+**********************
+SUMMER INFANT ASIA LIMITED
+**********************
+By:
+**********************
+/s/ Jason Macari
+**********************
+Jason P. Macari, President
+**********************
+SUMMER INFANT CANADA LIMITED
+**********************
+By:
+**********************
+/s/ Jason Macari
+**********************
+Jason P. Macari, President
+**********************
+ANNEX A
+**********************
+EXHIBIT F
+**********************
+FORMOF BORROWING BASE CERTIFICATE
+**********************
+SUMMER INFANT
+**********************
+MONTH-END COLLATERAL REPORT AND BORROWING CERTIFICATE
+**********************
+For the Month-ending
+**********************
+REVOLVING FACILITY
+**********************
+DOMESTIC ACCOUNTS RECEIVABLE(Excluding Target/Toys R Us)
+**********************
+1.)
+**********************
+End of Month Balance
+**********************
+$
+**********************
+2.)
+**********************
+Ineligible Accounts Receivable, Determined without Duplication
+**********************
+$
+**********************
+3.)
+**********************
+Net Eligible Accounts Receivable
+**********************
+$
+**********************
+ELIGIBLE TARGET RECEIVABLES
+**********************
+4.)
+**********************
+End of Month Balance
+**********************
+$
+**********************
+5.)
+**********************
+Ineligible Accounts Receivable, Determined without Duplication
+**********************
+$
+**********************
+6.)
+**********************
+Net Eligible Accounts Receivable
+**********************
+$
+**********************
+7.)
+**********************
+Total Eligible Target Receivables (98% of Line 6)
+**********************
+$
+**********************
+ELIGIBLE TOYS R US RECEIVABLES
+**********************
+8.)
+**********************
+End of Month Balance
+**********************
+$
+**********************
+9.)
+**********************
+Ineligible Accounts Receivable, Determined without Duplication
+**********************
+$
+**********************
+10.)
+**********************
+Net Eligible Accounts Receivable
+**********************
+$
+**********************
+11.)
+**********************
+Total Eligible Toys R Us Receivables (86% of Line 10)
+**********************
+$
+**********************
+DOMESTIC INVENTORY
+**********************
+12.)
+**********************
+Month Ending Inventory Balance
+**********************
+$
+**********************
+13.)
+**********************
+Less: Ineligible Domestic Inventory
+**********************
+$
+**********************
+14.)
+**********************
+Eligible Inventory
+**********************
+$
+**********************
+IN-TRANSIT INVENTORY
+**********************
+15.)
+**********************
+Month Ending Inventory Balance
+**********************
+$
+**********************
+16.)
+**********************
+Less: Ineligible In-Transit Inventory
+**********************
+$
+**********************
+17.)
+**********************
+Eligible In-Transit Inventory
+**********************
+$
+**********************
+BORROWING BASE
+**********************
+18.)
+**********************
+a)
+**********************
+Domestic Accounts Receivable (80% of Line 3)
+**********************
+$
+**********************
+b)
+**********************
+Target Receivables (85% of Line 7)
+**********************
+$
+**********************
+c)
+**********************
+Toys R Us Receivables (85% of Line 11)
+**********************
+$
+**********************
+d)
+**********************
+Domestic Inventory (60% of Line 14)
+**********************
+$
+**********************
+e)
+**********************
+Intransit Inventory (55% of Line 17)
+**********************
+$
+**********************
+19.)
+**********************
+Inventory Availability (Lesser of Lines 18d + 18e OR $23,000,000)
+**********************
+$
+**********************
+20.)
+**********************
+Gross Availability (Lines 18a + 18b + 18c + 19)
+**********************
+$
+**********************
+21.)
+**********************
+Lesser of Line 20 or $46,000,000 (Line Limit)
+**********************
+$
+**********************
+LOAN DETAIL
+**********************
+Prime Rate
+**********************
+$
+**********************
+LIBOR
+**********************
+$
+**********************
+Other
+**********************
+$
+**********************
+22.)
+**********************
+Total Loans Outstanding at Month-End
+**********************
+$
+**********************
+23.)
+**********************
+Net Borrowing Base Availability (Line 21 minus Line 22)
+**********************
+$
+**********************
+The undersigned represents and warrants that:
+**********************
+(A) The information provided above and in the accompanying supporting documentation is true and correct, and complies fully with the conditions, terms and covenants of the Credit Agreement dated April10, 2008 as amended to the date (the Agreement) between the undersigned and Bank of America (the Bank).
+**********************
+(B) Since the date of the last financial statement or certification furnished to the Bank.
+**********************
+(i) There has been no material adverse change in the financial condition or operations of the undersigned, and
+**********************
+(ii) There is no event which is, or with notice or lapse of time or both would be, a default under the Agreement
+**********************
+Summer Infant,Inc.
+**********************
+By:
+**********************
+Print Name:
+**********************
+Title:
+**********************
+Date:

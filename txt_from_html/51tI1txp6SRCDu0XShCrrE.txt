@@ -1,0 +1,664 @@
+
+
+
+
+
+ 
+
+DYNEGY
+HOLDINGS INC.
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+SIXTH
+SUPPLEMENTAL INDENTURE
+
+ 
+
+Dated
+as of December 30, 2009
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+to
+the
+
+ 
+
+
+
+ 
+
+INDENTURE
+
+ 
+
+
+
+ 
+
+Originally
+dated as of September 26, 1996,
+
+ 
+
+as
+amended and restated
+
+ 
+
+on
+March 23, 1998
+
+ 
+
+and
+March 14, 2001
+
+ 
+
+
+
+ 
+
+between
+
+ 
+
+
+
+ 
+
+DYNEGY
+HOLDINGS INC.
+
+ 
+
+
+
+ 
+
+and
+
+ 
+
+WILMINGTON
+TRUST COMPANY
+
+ 
+
+(as
+successor to
+
+ 
+
+JPMorgan
+Chase Bank, N.A.,
+
+ 
+
+successor
+to Bank One Trust Company,
+
+ 
+
+National
+Association),
+
+ 
+
+as
+the Trustee
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Table of
+Contents
+
+ 
+
+Page
+
+ 
+
+ 
+
+ARTICLE
+I
+
+ 
+
+ 
+
+AMENDMENTS
+
+ 
+
+SECTION
+      1.1
+
+Amendment
+      to Section 1.01
+
+2
+
+SECTION
+      1.2
+
+Amemdment
+      to Section 7.04
+
+2
+
+SECTION
+      1.3
+
+Amendment
+      to Section 8.01
+
+2
+
+SECTION
+      1.4
+
+Amendment
+      to Section 10.05
+
+2
+
+SECTION
+      1.5
+
+Amendment
+      to Section 10.06
+
+2
+
+SECTION
+      1.6
+
+Conforming
+      Amendments
+
+2
+
+SECTION
+      1.7
+
+Applicability
+
+2
+
+ 
+
+ARTICLE
+II
+
+ 
+
+ 
+
+MISCELLANEOUS
+
+SECTION
+      2.1
+
+Ratification;
+      Conflict
+
+2
+
+SECTION
+      2.2
+
+Conflict
+      with the Trust Indenture Act
+
+3
+
+SECTION
+      2.3
+
+Certain
+      Defined Terms
+
+3
+
+SECTION
+      2.4
+
+Counterparts
+
+3
+
+SECTION
+      2.5
+
+Governing
+      Law
+
+3
+
+SECTION
+      2.6
+
+Effect
+      of Headings and Table of Contents
+
+3
+
+SECTION
+      2.7
+
+Benefits
+      under Sixth Supplemental Indenture, etc.
+
+3
+
+SECTION
+      2.8
+
+Severability
+
+3
+
+SECTION
+      2.9
+
+Successors
+
+3
+
+
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+SIXTH
+SUPPLEMENTAL INDENTURE, dated as of December 30, 2009 (this “Sixth Supplemental
+Indenture”), to the indenture dated September 26, 1996, as amended and
+restated as of March 23, 1998, as amended and restated as of March 14, 2001 (the
+“Amended and Restated
+Indenture”), as supplemented by a first supplemental indenture dated as
+of July 25, 2003 (the “First Supplemental
+Indenture”), as supplemented by a second supplemental indenture dated as
+of April 12, 2006 (the “Second Supplemental
+Indenture”), as supplemented by a Third Supplemental Indenture dated as
+of May 24, 2007 (the “Third Supplemental
+Indenture”), as supplemented by a Fourth Supplemental Indenture dated as
+of May 24, 2007 (the “Fourth Supplemental
+Indenture”), and as supplemented by a Fifth Supplemental Indenture dated
+as of December 1, 2009 (the “Fifth Supplemental
+Indenture” and, together with the Amended and Restated Indenture, the
+First Supplemental Indenture, the Second Supplemental Indenture, the Third
+Supplemental Indenture, the Fourth Supplemental Indenture, and the Fifth
+Supplemental Indenture, the “Original Indenture”)
+between Dynegy Holdings Inc., a Delaware corporation (the “Company”), and
+Wilmington Trust Company (as successor to JP Morgan Chase Bank, N.A., successor
+to Bank One Trust Company, National Association, the “Trustee”).
+
+ 
+
+RECITALS
+
+ 
+
+WHEREAS,
+there is currently outstanding under the Original Indenture an aggregate
+principal amount of $500,000,000 of the Company’s 6.875% Senior Notes due 2011,
+CUSIP 26816LAD4 and $500,000,000 of the 8.750% Senior Notes due 2012, CUSIP
+26816LAG7 (collectively,
+the “Securities” and each
+a “series” of Securities);
+
+ 
+
+WHEREAS,
+Section 9.02 of the Original Indenture provides that the Company, when
+authorized by Board Resolution, and the Trustee may (subject to certain
+exceptions), with the written consent of the holders of a majority in principal
+amount of a particular series of Securities Outstanding (the “Requisite Consents”),
+amend or supplement the Original Indenture with respect to such series, for the
+purpose of adding any provisions to or changing in any manner or eliminating any
+of the provisions of the Original Indenture or modifying in any manner the
+rights of Holders of Securities of such series;
+
+ 
+
+WHEREAS,
+the Company has received the Requisite Consents to amend the Original Indenture
+with respect to each such series of the Securities as set forth herein (the
+“Amendments”)
+and has delivered an Officers’ Certificate to the Trustee so certifying;
+and
+
+ 
+
+WHEREAS,
+the Company has been authorized by a resolution of its board of directors to
+enter into this Sixth Supplemental Indenture.
+
+ 
+
+AGREEMENT
+
+ 
+
+NOW,
+THEREFORE, for and in consideration of the premises and the covenants and
+agreements contained herein, and for other good and valuable consideration the
+receipt and sufficiency of which is hereby acknowledged, the parties hereto
+agree as follows:
+
+ 
+
+
+
+ARTICLE
+I
+
+ 
+
+AMENDMENTS
+
+ 
+
+SECTION
+1.1   Amendment to Section
+1.01.  The
+provisions of Section 1.01 of the Original Indenture are hereby amended by
+deleting, in their entirety, those terms, and the respective meanings assigned
+thereto, that are referred to solely in the provisions of those sections and
+subsections of the Original Indenture (other than Section 1.01) that will be
+amended by deleting the text of such section or subsection, as the case may be,
+in its entirety (and inserting in lieu thereof the phrase “[intentionally
+omitted]”), as a result of the execution of this Sixth Supplemental
+Indenture.
+
+ 
+
+SECTION
+1.2   Amendment to Section
+7.04.  The
+provisions of Section 7.04 of the Original Indenture are hereby amended by
+deleting the text of such section in its entirety and inserting in lieu thereof
+the phrase “[intentionally omitted].”
+
+ 
+
+SECTION
+1.3   Amendment to Section
+8.01.  Subsection
+(2) of Section 8.01 is hereby amended by deleting the text of such subsection in
+its entirety and inserting in lieu thereof the phrase “[intentionally
+omitted].”
+
+ 
+
+SECTION
+1.4   Amendment to Section
+10.05.  The
+provisions of Section 10.05 of the Original Indenture are hereby amended by
+deleting the text of such section in its entirety and inserting in lieu thereof
+the phrase “[intentionally omitted].”
+
+ 
+
+SECTION
+1.5   Amendment to Section
+10.06.  The
+provisions of Section 10.06 of the Original Indenture are hereby amended by
+deleting the text of such section in its entirety and inserting in lieu thereof
+the phrase “[intentionally omitted].”
+
+ 
+
+SECTION
+1.6   Conforming
+Amendments.  The
+form of Security and the outstanding Securities are hereby amended to make any
+and all changes that correspond to the amendments to the Original Indenture set
+forth in Sections
+1.1, 1.2, 1.3, 1.4 and 1.5 of this Sixth
+Supplemental Indenture.
+
+ 
+
+SECTION
+1.7   Applicability.  The
+provisions of this Article I shall apply
+only to the Securities.
+
+ 
+
+ARTICLE
+II
+
+ 
+
+MISCELLANEOUS
+
+ 
+
+SECTION
+2.1   Ratification;
+Conflict.  Upon execution and delivery of this Sixth
+Supplemental Indenture, the Original Indenture shall be modified and amended in
+accordance with this Sixth Supplemental Indenture, and all the terms and
+conditions of both shall be read together as though they constitute one
+instrument, except that, in case of conflict, the provisions of this Sixth
+Supplemental Indenture will control. The Original Indenture, as modified and
+amended by this Sixth Supplemental Indenture, is hereby ratified and confirmed
+in all respects and shall bind every holder of Securities. In case of conflict
+between the terms and conditions contained in the Securities and those contained
+in the Original Indenture, as modified and amended by this Sixth Supplemental
+Indenture, the provisions of the Original Indenture, as modified and amended by
+this Sixth Supplemental Indenture, shall control.
+
+ 
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+SECTION
+2.2   Conflict with the Trust
+Indenture Act.  If any provision of this Sixth Supplemental
+Indenture limits, qualifies or conflicts with any provision of the Trust
+Indenture Act of 1939 (the “TIA”) that is
+required under the TIA to be part of and govern any provision of this Sixth
+Supplemental Indenture, the provision of the TIA shall control. If any provision
+of this Sixth Supplemental Indenture modifies or excludes any provision of the
+TIA that may be so modified or excluded, the provision of the TIA shall be
+deemed to apply to the Original Indenture as so modified or to be excluded by
+this Sixth Supplemental Indenture.
+
+ 
+
+SECTION
+2.3   Certain Defined
+Terms.  Capitalized
+terms used herein and not otherwise defined herein shall have the respective
+meanings ascribed thereto in the Original Indenture.
+
+ 
+
+SECTION
+2.4   Counterparts.  This
+Sixth Supplemental Indenture may be executed in any number of counterparts, each
+of which when so executed shall be deemed to be an original, but all such
+counterparts shall together constitute one and the same instrument.
+
+ 
+
+SECTION
+2.5   Governing
+Law.  THIS
+SIXTH SUPPLEMENTAL INDENTURE AND THE SECURITIES SHALL BE GOVERNED BY AND
+CONSTRUED IN ACCORDANCE WITH THE LAWS OF THE STATE OF NEW YORK, WITHOUT REGARD
+TO PRINCIPLES OF CONFLICTS OF LAWS.
+
+ 
+
+SECTION
+2.6   Effect of Headings and Table
+of Contents.  The
+article and section headings herein and the table of contents are for
+convenience only and shall not affect the construction hereof.
+
+ 
+
+SECTION
+2.7   Benefits under Sixth
+Supplemental Indenture, etc..  Nothing
+in this Sixth Supplemental Indenture or the Securities, express or implied,
+shall give to any Person, other than the parties hereto and thereto and their
+successors hereunder and thereunder and the holders of the Securities, any
+benefit of any legal or equitable right, remedy or claim under the Original
+Indenture, this Sixth Supplemental Indenture or the Securities.
+
+ 
+
+SECTION
+2.8   Severability.  In
+case any provision in this Sixth Supplemental Indenture shall be invalid,
+illegal or unenforceable, the validity, legality and enforceability of the
+remaining provisions shall not in any way be affected or impaired
+thereby.
+
+ 
+
+SECTION
+2.9   Successors.  All
+agreements of the Company in this Sixth Supplemental Indenture shall bind their
+respective successors. All agreements of the Trustee in this Sixth Supplemental
+Indenture shall bind its successors.
+
+ 
+
+[Signature Page
+Follows]
+
+ 
+
+ 
+
+IN
+WITNESS WHEREOF, the parties have caused this Sixth Supplemental Indenture to be
+duly executed by their respective officers thereunto duly authorized as of the
+date first above written.
+
+ 
+
+
+
+DYNEGY
+HOLDINGS INC.
+
+ 
+
+By:                                                                
+
+Name:
+­                                                                
+
+ 
+
+Title: 
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+WILMINGTON
+TRUST COMPANY, as trustee
+
+ 
+
+By:                                                                
+
+Name:
+­                                                                
+
+ 
+
+Title:                                                                   
+
+ 
+
+
+
+[Signature
+Page to Sixth Supplemental Indenture]
+

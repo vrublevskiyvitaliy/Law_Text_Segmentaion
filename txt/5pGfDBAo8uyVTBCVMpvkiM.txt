@@ -1,0 +1,1673 @@
+Exhibit 4.2
+
+REGISTRATION RIGHTS AGREEMENT
+
+by and among
+
+PAETEC Holding Corp.
+
+the subsidiaries of PAETEC Holding Corp. parties hereto
+
+and
+
+Banc of America Securities LLC
+
+Deutsche Bank Securities Inc.
+
+Credit Suisse Securities (USA) LLC
+
+Wells Fargo Securities, LLC
+
+Dated as of January 12, 2010
+
+
+
+This Registration Rights Agreement (this “Agreement”) is made and entered into as of January 12, 2010, by and among PAETEC Holding Corp., a Delaware corporation (the “Company”), the subsidiaries of the Company listed on the signature pages hereto (collectively, the “Note Guarantors”), Banc of America Securities LLC, Deutsche Bank Securities Inc., Credit Suisse Securities (USA) LLC and Wells Fargo Securities, LLC (collectively, the “Initial Purchasers”), each of whom has agreed to purchase, pursuant to the Purchase Agreement dated January 7, 2010 among the Company, the Note Guarantors and the Initial Purchasers (the “Purchase Agreement”), $300,000,000 aggregate principal amount of 8 7/8% Senior Secured Notes due 2017 (the “New Notes”) issued by the Company and guaranteed (the “New Guarantees”) by the Note Guarantors. The New Notes and the New Guarantees are herein collectively referred to as the “New Securities.”
+
+This Agreement is made for the benefit of the Initial Purchasers and for the benefit of the holders from time to time of the New Securities. In order to induce the Initial Purchasers to purchase the New Securities, the Company and the Note Guarantors have agreed to provide the registration rights set forth in this Agreement. The execution and delivery of this Agreement is a condition to the obligations of the Initial Purchasers set forth in Section 5 of the Purchase Agreement.
+
+The parties hereby agree as follows:
+
+SECTION 1.    Definitions.    As used in this Agreement, the following capitalized terms shall have the following meanings:
+
+Additional Interest:    Any additional interest payable with respect to the New Notes due to an interest rate increase pursuant to Section 5 hereof.
+
+Advice:    As defined in Section 6(c) hereof.
+
+Agreement:    As defined in the preamble hereto.
+
+Applicable Period:    As defined in Section 3(c) hereof.
+
+Blackout Period:    As defined in Section 4(a) hereof.
+
+Broker-Dealer:    Any broker or dealer registered under the Exchange Act.
+
+Business Day:    Any day other than a Saturday, Sunday or U.S. federal holiday or a day on which banking institutions or trust companies located in New York, New York are authorized or obligated to be closed.
+
+Commission:    The U.S. Securities and Exchange Commission.
+
+Company:    As defined in the preamble hereto.
+
+controlling person:    As defined in Section 8(a) hereof.
+
+
+
+Consummate:    A registered Exchange Offer shall be deemed “Consummated” for purposes of this Agreement upon the occurrence of (i) the filing and effectiveness under the Securities Act of the Exchange Offer Registration Statement relating to the Exchange Securities to be issued in the Exchange Offer, (ii) the maintenance of such Registration Statement continuously effective and the keeping of the Exchange Offer open for a period not less than the minimum period required pursuant to Section 3(b) hereof, and (iii) the delivery by the Company to the Registrar under the Indenture of Exchange Securities in the same aggregate principal amount as the aggregate principal amount of New Securities that were tendered by Holders thereof pursuant to the Exchange Offer.
+
+Exchange Act:    The Securities Exchange Act of 1934, as amended.
+
+Exchange Offer:    The registration by the Company under the Securities Act of the Exchange Securities pursuant to a Registration Statement pursuant to which the Company offers the Holders of all outstanding Transfer Restricted Securities the opportunity to exchange all such outstanding Transfer Restricted Securities held by such Holders for Exchange Securities in an aggregate principal amount equal to the aggregate principal amount of the Transfer Restricted Securities tendered in such exchange offer by such Holders.
+
+Exchange Offer Effectiveness Target Date:    As defined in Section 5 hereof.
+
+Exchange Offer Registration Statement:    The Registration Statement relating to the Exchange Offer, including the related Prospectus.
+
+Exchange Securities:    The 8 7/8% Senior Secured Notes due 2017 under the same Indenture as the New Notes and the New Guarantees, to be issued to Holders in exchange for Transfer Restricted Securities pursuant to this Agreement.
+
+FINRA:    Financial Industry Regulatory Authority, Inc.
+
+Free Writing Prospectus:    Any free writing prospectus, as such term is defined in Rule 405 under the Securities Act, relating to any portion of the New Securities and the Exchange Securities.
+
+Holders:    As defined in Section 2(b) hereof.
+
+Indemnified Holder:    As defined in Section 8(a) hereof.
+
+Indenture:    The Indenture, dated as of June 29, 2009 (as amended or supplemented to the date hereof), by and between the Company, the Note Guarantors and The Bank of New York Mellon, as trustee (the “Trustee”), pursuant to which the New Notes and the Exchange Securities are to be issued.
+
+Initial Purchasers:    As defined in the preamble hereto.
+
+Issue Date:    January 12, 2010.
+
+New Guarantees:    As defined in the preamble hereto.
+
+ 
+
+2
+
+
+
+New Notes:    As defined in the preamble hereto.
+
+New Securities:    As defined in the preamble hereto.
+
+Note Guarantors:    As defined in the preamble hereto.
+
+Person:    An individual, partnership, corporation, trust or unincorporated organization, or a government or agency or political subdivision thereof.
+
+Prospectus:    The prospectus included in a Registration Statement, as amended or supplemented by any prospectus supplement and by all other amendments thereto, including post-effective amendments, and all material incorporated by reference into such Prospectus.
+
+Purchase Agreement:    As defined in the preamble hereto.
+
+Registration Default:    As defined in Section 5 hereof.
+
+Registration Statement:    Any registration statement of the Company relating to (a) an offering of Exchange Securities pursuant to an Exchange Offer or (b) the registration for resale of Transfer Restricted Securities pursuant to the Shelf Registration Statement, which is filed pursuant to the provisions of this Agreement, in each case, including the Prospectus included therein, all amendments and supplements thereto (including post-effective amendments) and all exhibits and material incorporated by reference therein.
+
+Securities:    As defined in the Indenture.
+
+Securities Act:    The Securities Act of 1933, as amended.
+
+Shelf Filing Deadline:    As defined in Section 4(a) hereof.
+
+Shelf Registration Effectiveness Target Date:    As defined in Section 5 hereof.
+
+Shelf Registration Statement:    As defined in Section 4(a) hereof.
+
+Transfer Restricted Securities:    Each New Security, until the earliest to occur of (a) the date on which such New Security is exchanged in the Exchange Offer for an Exchange Security entitled to be resold to the public by the Holder thereof without complying with the prospectus delivery requirements of the Securities Act, (b) the date on which such New Security has been effectively registered under the Securities Act and disposed of in accordance with a Shelf Registration Statement and (c) the date on which such New Security is distributed to the public pursuant to Rule 144 under the Securities Act or by a Broker-Dealer pursuant to the “Plan of Distribution” contemplated by the Exchange Offer Registration Statement (including delivery of the Prospectus contained therein).
+
+Trust Indenture Act:    The Trust Indenture Act of 1939, as amended.
+
+ 
+
+3
+
+
+
+Underwritten Registration or Underwritten Offering:    A registration of securities under the Securities Act pursuant to a Shelf Registration Statement in which securities of the Company are sold to an underwriter for reoffering to the public.
+
+SECTION 2.    Securities Subject to this Agreement.
+
+(a)    Transfer Restricted Securities. The securities entitled to the benefits of this Agreement are the Transfer Restricted Securities.
+
+(b)    Holders of Transfer Restricted Securities. A Person is deemed to be a holder of Transfer Restricted Securities (each, a “Holder”) whenever such Person owns Transfer Restricted Securities.
+
+SECTION 3.    Registered Exchange Offer.
+
+(a)    Unless the Exchange Offer shall not be permissible under applicable law or Commission policy, each of the Company and each Note Guarantor shall use its commercially reasonable efforts (i) to cause the Exchange Offer Registration Statement to be filed with the Commission, (ii) to cause such Registration Statement to become effective in no event later than 180 days after the Issue Date (or if such 180th day is not a Business Day, the next succeeding Business Day), (iii) in connection with the foregoing, (A) to file all pre-effective amendments to such Registration Statement as may be necessary in order to cause such Registration Statement to become effective, (B)to file, if applicable, a post-effective amendment to such Registration Statement pursuant to Rule 430A under the Securities Act and (C) to cause all necessary filings in connection with the registration and qualification of the Exchange Securities to be made under the state securities or blue sky laws of such jurisdictions as are necessary to permit Consummation of the Exchange Offer and (iv) upon the effectiveness of such Registration Statement, to commence the Exchange Offer. The Exchange Offer Registration Statement shall be on the appropriate form permitting registration of the Exchange Securities to be offered in exchange for the Transfer Restricted Securities and to permit resales of Exchange Securities held by Broker-Dealers as contemplated by Section 3(c) hereof.
+
+(b)    The Company and the Note Guarantors shall use their commercially reasonable efforts to cause the Exchange Offer Registration Statement to be effective continuously and shall keep the Exchange Offer open for a period of not less than the minimum period required under applicable federal and state securities laws to Consummate the Exchange Offer; provided, however, that in no event shall such period be less than 20 Business Days after the date notice of the Exchange Offer is mailed to the Holders. The Company shall cause the Exchange Offer to comply with all applicable federal and state securities laws. The Company shall use its commercially reasonable efforts to cause the Exchange Offer to be Consummated on the earliest practicable date after the Exchange Offer Registration Statement has become effective, but in no event later than 30 Business Days after the date notice of the Exchange Offer is required to be mailed to the Holders.
+
+(c)    The Company shall indicate in a “Plan of Distribution” section contained in the Prospectus forming a part of the Exchange Offer Registration Statement that any Broker-Dealer who holds New Securities that are Transfer Restricted Securities and that were acquired for its
+
+ 
+
+4
+
+
+
+own account as a result of market-making activities or other trading activities (other than Transfer Restricted Securities acquired directly from the Company) may exchange such New Securities pursuant to the Exchange Offer; however, such Broker-Dealer may be deemed to be an “underwriter” within the meaning of the Securities Act and must, therefore, deliver a prospectus meeting the requirements of the Securities Act in connection with any resales of the Exchange Securities received by such Broker-Dealer in the Exchange Offer, which prospectus delivery requirement may be satisfied by the delivery by such Broker-Dealer of the Prospectus contained in the Exchange Offer Registration Statement. Such “Plan of Distribution” section shall also contain all other information with respect to such resales by Broker-Dealers that the Commission may require in order to permit such resales pursuant thereto, but such “Plan of Distribution” shall not name any such Broker-Dealer or disclose the amount of New Securities held by any such Broker-Dealer except to the extent required by the Commission.
+
+Each of the Company and each Note Guarantor shall use its commercially reasonable efforts to keep the Exchange Offer Registration Statement continuously effective, supplemented and amended as required by the provisions of Section 6(c) hereof to the extent necessary to ensure that it is available for resales of Exchange Securities held by Broker-Dealers, and to ensure that it conforms with the requirements of this Agreement, the Securities Act and the policies, rules and regulations of the Commission as announced from time to time, for a period ending on the earlier of (i) 180 days from the date on which the Exchange Offer Registration Statement is declared effective and (ii) the date on which a Broker-Dealer is no longer required to deliver a prospectus in connection with market-making or other trading activities (the “Applicable Period”).
+
+The Company shall provide sufficient copies of the latest version of such Prospectus to Broker-Dealers promptly upon request at any time during the Applicable Period in order to facilitate such resales.
+
+SECTION 4.    Shelf Registration.
+
+(a)    Shelf Registration. If with respect to the New Notes: (i) the Company and the Note Guarantors are not permitted to Consummate the Exchange Offer because the Exchange Offer is not permitted by applicable law or Commission policy, (ii) for any reason the Exchange Offer is not Consummated within 30 Business Days after the date notice of the Exchange Offer is required to be mailed to the Holders, or (iii) with respect to any Holder of Transfer Restricted Securities (A) such Holder is prohibited by applicable law or Commission policy from participating in the Exchange Offer, or (B) such Holder may not resell the Exchange Securities acquired by it in the Exchange Offer to the public without delivering a prospectus (other than by reason of such Holder’s status as an affiliate of the Company) and the Prospectus contained in the Exchange Offer Registration Statement is not appropriate or available for such resales by such Holder, or (C) such Holder is a Broker-Dealer and holds New Securities acquired directly from the Company or one of its affiliates, then, upon such Holder’s request prior to the 20th day following Consummation of the Exchange Offer, the Company and the Note Guarantors shall, with respect to the New Notes:
+
+(x)    use their commercially reasonable efforts to cause to be filed a shelf registration statement pursuant to Rule 415 under the Securities Act, which
+
+ 
+
+5
+
+
+
+may be an amendment to the Exchange Offer Registration Statement (in either event, the “Shelf Registration Statement”) on or prior to 90 days after such filing obligation arises (or if such 90th day is not a Business Day, the next succeeding Business Day) (such date being the “Shelf Filing Deadline”), which Shelf Registration Statement shall provide for resales of all Transfer Restricted Securities the Holders of which shall have provided the information required pursuant to Section 4(b) hereof; and
+
+(y)    use their commercially reasonable efforts to cause such Shelf Registration Statement to be declared effective by the Commission, and in any event on or before the 180th day after the obligation to file such Shelf Registration Statement arises (or if such 180th day is not a Business Day, the next succeeding Business Day).
+
+Subject to the next paragraph, each of the Company and each Note Guarantor shall use its commercially reasonable efforts to keep such Shelf Registration Statement continuously effective, supplemented and amended as required by the provisions of Sections 6(b) and (c) hereof to the extent necessary to ensure that it is available for resales of New Securities by the Holders of Transfer Restricted Securities entitled to the benefit of this Section 4(a), and to ensure that it conforms with the requirements of this Agreement, the Securities Act and the policies, rules and regulations of the Commission as announced from time to time, for a period of at least two years following the effective date of such Shelf Registration Statement (or shorter period that will terminate when all the New Securities covered by such Shelf Registration Statement have been sold pursuant to such Shelf Registration Statement). During the period during which the Company is required to maintain an effective Shelf Registration Statement pursuant to this Agreement, the Company will, prior to the expiration of that Shelf Registration Statement, file, and use its commercially reasonable efforts to cause to be declared effective (unless it becomes effective automatically upon filing) within a period that avoids any interruption in the ability of Holders of Securities covered by the expiring Shelf Registration Statement to make registered dispositions, a new registration statement relating to the Securities, which shall be deemed a “Shelf Registration Statement” for purposes of this Agreement.
+
+Notwithstanding anything to the contrary contained in this Agreement, the Company may suspend use of the Prospectus included in any Shelf Registration Statement in the event that and for a period of time (a “Blackout Period”) not to exceed an aggregate of 90 days in any calendar year if the Company notifies the Holder to suspend use (on one or more occasions) of such Prospectus because of the occurrence of any material event or development with respect to the Company that, in the reasonable judgment of the Company, would be detrimental to the Company if so disclosed or would otherwise materially adversely affect a financing, acquisition, disposition, merger or other material transaction; provided, however, that in no event shall the Company be required to disclose the business purpose for such suspension.
+
+(b)    Provision by Holders of Certain Information in Connection with the Shelf Registration Statement. No Holder of Transfer Restricted Securities may include any of its Transfer Restricted Securities in any Shelf Registration Statement pursuant to this Agreement unless and until such Holder furnishes to the Company in writing, within 20 Business Days after receipt of a request therefor, such information as the Company may reasonably request for use in
+
+ 
+
+6
+
+
+
+connection with any Shelf Registration Statement or Prospectus or preliminary Prospectus included therein or amendment or supplement thereto or Free Writing Prospectus. No Holder of Transfer Restricted Securities shall be entitled to Additional Interest pursuant to Section 5 unless and until such Holder shall have provided the Company all such reasonably requested information. Each Holder as to which any Shelf Registration Statement is being effected agrees to furnish promptly to the Company all information required to be disclosed in order to make the information previously furnished to the Company by such Holder not materially misleading.
+
+SECTION 5.    Additional Interest.    If (i) the Exchange Offer Registration Statement has not been declared effective by the Commission on or prior to 180 days after the Issue Date (the “Exchange Offer Effectiveness Target Date”), (ii) in the event the Company and the Note Guarantors are required to file a Shelf Registration Statement pursuant to Section 4(a) hereof, the Shelf Registration Statement has not been declared effective by the Commission (or become automatically effective) on or prior to 180 days after the obligation to file a Shelf Registration Statement arises (the “Shelf Registration Effectiveness Target Date”), (iii) the Exchange Offer has not been Consummated within 30 Business Days after the Exchange Offer Effectiveness Target Date with respect to an Exchange Offer Registration Statement that has been declared effective by the Commission, or (iv) any Shelf Registration Statement required by this Agreement is filed and declared effective but shall thereafter cease to be effective or fail to be usable for its intended purpose without being succeeded immediately by a post-effective amendment to such Shelf Registration Statement that cures such failure and that is itself immediately declared or becomes automatically effective (other than during a Blackout Period) (each such event referred to in clauses (i) through (iv), a “Registration Default”), the Company and the Note Guarantors hereby agree that the interest rate borne by the affected series of Transfer Restricted Securities shall be increased by 0.25% per annum during the 90-day period immediately following the occurrence of any Registration Default and shall increase by 0.25% per annum at the end of each subsequent 90-day period, but in no event shall such increase exceed 1.00% per annum. Immediately upon the earlier of (y) the cure of all Registration Defaults relating to any particular Transfer Restricted Securities and (z) the date on which such Transfer Restricted Securities cease to be Transfer Restricted Securities, the interest rate borne by the relevant Transfer Restricted Securities will be reduced to the original interest rate borne by such Transfer Restricted Securities; provided, however, that, if after any such reduction in interest rate, a different Registration Default occurs, the interest rate borne by the relevant Transfer Restricted Securities shall again be increased pursuant to the foregoing provisions.
+
+Notwithstanding the foregoing, (i) the amount of Additional Interest payable shall not increase because more than one Registration Default has occurred and is pending, and (ii) Additional Interest shall be payable for Registration Defaults related to a failure of the Company and the Note Guarantors to obtain a Shelf Registration Statement by the Shelf Registration Statement Effectiveness Target Date only to those Holders who sought to have their Transfer Restricted Securities registered pursuant to the first paragraph of Section 4(a) hereof.
+
+All obligations of the Company and the Note Guarantors set forth in the first paragraph of this Section 5 that are outstanding with respect to any Transfer Restricted Security at the time such security ceases to be a Transfer Restricted Security shall survive until such time as all such obligations with respect to such security shall have been satisfied in full.
+
+ 
+
+7
+
+
+
+SECTION 6.    Registration Procedures.
+
+(a)    Exchange Offer Registration Statement.    In connection with the Exchange Offer, the Company and the Note Guarantors shall comply with all of the provisions of Section 6(c) hereof, shall use their commercially reasonable efforts to consummate such Exchange Offer, and shall comply with all of the following provisions:
+
+(i)    As a condition to its participation in the Exchange Offer pursuant to the terms of this Agreement, each Holder of Transfer Restricted Securities shall furnish, upon the request of the Company, prior to the Consummation thereof, a written representation to the Company (which may be contained in the letter of transmittal contemplated by the Exchange Offer Registration Statement) to the effect that (A) it is not an affiliate of the Company, (B) it is not engaged in, and does not intend to engage in, and has no arrangement or understanding with any Person to participate in, a distribution of the Exchange Securities to be issued in the Exchange Offer, (C) it is acquiring the Exchange Securities in its ordinary course of business and (D) it is not prohibited by any law or policy of the Commission from participating in the Exchange Offer. In addition, all such Holders of Transfer Restricted Securities shall otherwise cooperate in the Company’s preparations for the Exchange Offer.
+
+(b)    Shelf Registration Statement.    In connection with the Shelf Registration Statement, each of the Company and each Note Guarantor shall comply with all the provisions of Section 4(a) and Section 6(c) hereof.
+
+(c)    General Provisions.    In connection with any Registration Statement and any Prospectus required by this Agreement to permit the sale or resale of Transfer Restricted Securities and any Free Writing Prospectus (including, without limitation, any Registration Statement and the related Prospectus required to permit resales of New Securities by Broker-Dealers and any Free Writing Prospectus related thereto), each of the Company and each Note Guarantor shall:
+
+(i)    use its commercially reasonable efforts to keep such Registration Statement continuously effective (subject to the third paragraph of Section 4(a)) during the period required by this Agreement and provide all requisite financial statements (including, if required by the Securities Act or any regulation thereunder, financial statements of the Note Guarantors for the period specified in Section 3 or 4 hereof, as applicable); upon the occurrence of any event that would cause any such Registration Statement or the Prospectus contained therein (A) to contain a material misstatement or omission or (B) not to be effective and usable for exchange or resale of Transfer Restricted Securities during the period required by this Agreement, the Company shall file promptly an appropriate supplement to such Prospectus or amendment to such Registration Statement, in the case of clause (A), correcting any such misstatement or omission, and, in the case of either clause (A) or (B), use its commercially reasonable efforts to cause such amendment to be declared effective (unless automatically declared effective) and such Registration Statement and the related Prospectus to become usable for their intended purpose(s) as soon as practicable thereafter;
+
+(ii)    prepare and file with the Commission such amendments and post-effective amendments to the applicable Registration Statement as may be necessary to keep the
+
+ 
+
+8
+
+
+
+Registration Statement effective for the applicable period set forth in Section 3 or 4 hereof, as applicable, or such shorter period as will terminate when all Transfer Restricted Securities covered by such Registration Statement have been exchanged or sold; cause the Prospectus to be supplemented by any required Prospectus supplement, and as so supplemented to be filed pursuant to Rule 424 under the Securities Act, and to comply fully with the applicable provisions of Rules 424 and 430A under the Securities Act in a timely manner; and comply with the provisions of the Securities Act with respect to the disposition of all securities covered by such Registration Statement during the applicable period in accordance with the intended method or methods of distribution by the sellers thereof set forth in such Registration Statement or supplement to the Prospectus;
+
+(iii)    if (1) a Shelf Registration Statement is filed pursuant to Section 4 hereof, or (2) a Prospectus contained in an Exchange Offer Registration Statement filed pursuant to Section 3 hereof is required to be delivered under the Securities Act by any Broker-Dealer who seeks to sell Exchange Notes during the Applicable Period relating thereto, the Company shall promptly advise the underwriter(s), if any, and selling Holders named in any Shelf Registration Statement or each such Broker-Dealer, as the case may be, and, if requested by such Persons, to confirm such advice in writing, (A) when the Prospectus, any Prospectus supplement, any post-effective amendment or any Free Writing Prospectus has been filed, and, with respect to any Shelf Registration Statement or any post-effective amendment thereto, when the same has become effective, (B) of any request by the Commission for amendments to the Registration Statement or amendments or supplements to the Prospectus or for additional information relating thereto, (C) of the issuance by the Commission of any stop order suspending the effectiveness of the Shelf Registration Statement under the Securities Act, of the suspension by any state securities commission of the qualification of the Transfer Restricted Securities for offering or sale in any jurisdiction, or the initiation of any proceeding for any of the preceding purposes, of the issuance by the Commission of a notification of objection to the use of the form on which the Shelf Registration Statement has been filed, or of the happening of any event that causes the Company to become an “ineligible issuer,” as defined in Rule 405 under the Securities Act, and (D) of the existence of any fact or the happening of any event that makes any statement of a material fact made in the Registration Statement, the Prospectus, any amendment or supplement thereto or any document incorporated by reference therein untrue, or that requires the making of any additions to or changes in the Registration Statement or the Prospectus in order to make the statements therein not misleading; and if at any time the Commission shall issue any stop order suspending the effectiveness of the Registration Statement or a notification of objection to the use of the form on which the Registration Statement has been filed or if any state securities commission or other regulatory authority shall issue an order suspending the qualification or exemption from qualification of the Transfer Restricted Securities under state securities or blue sky laws, each of the Company and each Note Guarantor shall use its commercially reasonable efforts to obtain the withdrawal or lifting of such order at the earliest practicable time;
+
+(iv)(A)(1)    furnish without charge to each of the Initial Purchasers that has requested such copies, each selling Holder named in any Shelf Registration Statement that has requested such copies, if any, and each of the underwriter(s), if any, before filing with the Commission, copies of any Shelf Registration Statement or any Prospectus included therein or any amendments or supplements to any such Shelf Registration Statement or Prospectus (including all documents incorporated by reference after the initial filing of such Shelf
+
+ 
+
+9
+
+
+
+Registration Statement), which documents will be subject to the review and comment of such requesting Holders and underwriter(s) in connection with such sale, if any, for a period of at least five Business Days, and (2) not file any such Shelf Registration Statement or Prospectus or any amendment or supplement to any such Shelf Registration Statement or Prospectus (including all such documents incorporated by reference) to which an Initial Purchaser of Transfer Restricted Securities covered by such Shelf Registration Statement or the underwriter(s), if any, shall reasonably object in writing within five Business Days after the receipt thereof (such objection to be deemed timely made upon confirmation of telecopy transmission within such period), with the objection of an Initial Purchaser or underwriter, if any, being deemed to be reasonable if such Shelf Registration Statement, amendment, Prospectus or supplement, as applicable, as proposed to be filed, contains a material misstatement or omission;
+
+(B) (1)    furnish without charge to each of the Initial Purchasers before filing with the Commission, a copy of any Free Writing Prospectus, which will be subject to the consent of the Initial Purchasers, and (2) not file any such Free Writing Prospectus to which the Initial Purchasers of Transfer Restricted Securities covered by such Shelf Registration Statement have not consented (such consent not to be unreasonably withheld, conditioned or delayed);
+
+(v)    promptly prior to the filing of any document that is to be incorporated by reference into a Shelf Registration Statement or Prospectus, provide copies of such document to each of the Initial Purchasers that has requested such documents, each selling Holder named in any Shelf Registration Statement that has requested such documents, if any, and to the underwriter(s), if any, and make the Company’s representatives available for discussion of such document and other customary due diligence matters, subject to customary confidentiality agreements, and include such information in such document prior to the filing thereof as such selling Holders or underwriter(s), if any, reasonably may request;
+
+(vi)    make available, subject to customary confidentiality agreements, at reasonable times for inspection by the Initial Purchasers, the managing underwriter(s), if any, participating in any disposition pursuant to such Shelf Registration Statement and any attorney or accountant retained by such Initial Purchasers or any of the underwriter(s), all financial and other records, pertinent corporate documents and properties of each of the Company and the Note Guarantors, and cause the Company’s and the Note Guarantors’ officers, directors and employees to supply all information, in each case as shall be reasonably necessary to enable any such Holder, underwriter, attorney or accountant to exercise any applicable responsibilities in connection with such Shelf Registration Statement or any post-effective amendment thereto subsequent to the filing thereof and prior to its effectiveness and to participate in meetings with investors to the extent reasonably requested by the managing underwriter(s), if any;
+
+(vii)    if requested by any selling Holders named in any Shelf Registration Statement or the underwriter(s), if any, promptly incorporate in such Shelf Registration Statement or Prospectus, pursuant to a supplement or post-effective amendment if necessary, such information as such selling Holders and underwriter(s), if any, may reasonably request to have included therein, including, without limitation, information relating to the “Plan of Distribution” of the Transfer Restricted Securities, information with respect to the principal amount of Transfer Restricted Securities being sold to such underwriter(s), the purchase price
+
+ 
+
+10
+
+
+
+being paid therefor and any other terms of the offering of the Transfer Restricted Securities to be sold in such offering; and make all required filings of such Prospectus supplement or post-effective amendment as soon as practicable after the Company is notified of the matters to be incorporated in such Prospectus supplement or post-effective amendment;
+
+(viii)    use commercially reasonable efforts to cause the Transfer Restricted Securities covered by the Shelf Registration Statement to be rated with the appropriate rating agencies, if so requested by the Holders of a majority in aggregate principal amount of Securities covered thereby or the underwriter(s), if any;
+
+(ix)    upon request, furnish to each Initial Purchaser, each selling Holder and each of the underwriter(s), if any, without charge, at least one copy of the Shelf Registration Statement, as first filed with the Commission, and of each amendment thereto, excluding documents incorporated by reference therein and all exhibits that are publicly available;
+
+(x)    deliver to each selling Holder, Broker-Dealer and each of the underwriter(s), if any, without charge, as many copies of the Prospectus (including each preliminary prospectus) and any amendment or supplement thereto as such Persons reasonably may request, each of the Company and each Note Guarantor hereby consenting to the use of the Prospectus and any amendment or supplement thereto by each of the selling Holders, Broker-Dealers and each of the underwriter(s), if any, in connection with the offering and the sale of the Transfer Restricted Securities covered by, or the sale by Broker-Dealers of the Exchange Securities pursuant to, the Prospectus or any amendment or supplement thereto;
+
+(xi)    take all such other commercially reasonable actions in connection therewith in order to expedite or facilitate the disposition of the Transfer Restricted Securities pursuant to any Shelf Registration Statement, all to such extent as may be reasonably requested by any Holder of Transfer Restricted Securities or underwriter in connection with any sale or resale pursuant to any Shelf Registration Statement; in the case of an Underwritten Registration, each of the Company and the Note Guarantors shall:
+
+(A)    enter into such agreements (including a customary underwriting agreement), and make such customary representations and warranties as may be reasonably requested by the Holders of the Transfer Restricted Securities;
+
+(B)    furnish to each Initial Purchaser, each selling Holder and each underwriter, if any, in such substance and scope as they may reasonably request and as are customarily made by issuers to underwriters in primary underwritten offerings, upon the date of the effectiveness of the Shelf Registration Statement:
+
+(1)    a certificate, dated the date of effectiveness of the Shelf Registration Statement, as the case may be, signed by (y) the President or any Vice President and (z) a principal financial or accounting officer of each of the Company and the Note Guarantors, confirming, as of the date thereof, such customary matters as such parties may reasonably request;
+
+(2)    if requested by selling Holders of a majority in aggregate principal amount of the Transfer Restricted Securities covered by the Shelf Registration
+
+ 
+
+11
+
+
+
+Statement, an opinion, dated the date of effectiveness of the Shelf Registration Statement, as the case may be, of counsel for the Company and the Note Guarantors, covering such customary matters as such parties may reasonably request, and in any event including a statement to the effect that such counsel has participated in conferences with officers and other representatives of the Company and the Note Guarantors, representatives of the independent public accountants for the Company and the Note Guarantors, representatives of the underwriter(s), if any, and counsel to the underwriter(s), if any, in connection with the preparation of such Shelf Registration Statement and the related Prospectus and have considered the matters required to be stated therein and the statements contained therein, although such counsel has not independently verified the accuracy, completeness or fairness of such statements; and that such counsel advises that, on the basis of the foregoing, no facts came to such counsel’s attention that caused such counsel to believe that the applicable Shelf Registration Statement, (A) at the date of the opinion and at the time such Shelf Registration Statement or any post-effective amendment thereto became effective and (B) at the applicable time identified by such Holders or managing underwriters, contained an untrue statement of a material fact or omitted to state a material fact required to be stated therein or necessary to make the statements therein, in the light of the circumstances under which they were made, not misleading, or that the Prospectus contained in such Shelf Registration Statement as of its date contained an untrue statement of a material fact or omitted to state a material fact necessary in order to make the statements therein, in the light of the circumstances under which they were made, not misleading, and without limiting the foregoing, such counsel may state further that such counsel assumes no responsibility for, and has not independently verified, the accuracy, completeness or fairness of the financial statements, notes and schedules and other financial data included in any Registration Statement contemplated by this Agreement or the related Prospectus; and
+
+(3)    use commercially reasonable efforts to obtain a customary comfort letter from the Company’s independent accountants, in the customary form and covering matters of the type customarily requested to be covered in comfort letters by underwriters in connection with primary underwritten offerings;
+
+(C)    set forth in full or incorporate by reference in the underwriting agreement, if any, the indemnification provisions and procedures of Section 8 hereof with respect to all parties to be indemnified pursuant to said Section; and
+
+(D)    deliver such other documents and certificates as may be reasonably requested by such parties to evidence compliance with Section 6(c)(xi)(A) hereof and with any customary conditions contained in the underwriting agreement or other agreement entered into by the Company or any of the Note Guarantors pursuant to this Section 6(c)(xi), if any;
+
+(xii)    prior to any public offering of Transfer Restricted Securities, cooperate with the selling Holders, the underwriter(s), if any, and their respective counsel in connection
+
+ 
+
+12
+
+
+
+with the registration and qualification of the Transfer Restricted Securities under the state securities or blue sky laws of such jurisdictions as the selling Holders or underwriter(s), if any, may request and do any and all other acts or things necessary or advisable to enable the disposition in such jurisdictions of the Transfer Restricted Securities covered by the Shelf Registration Statement; provided, however, that none of the Company or the Note Guarantors shall be required to register or qualify as a foreign corporation where it is not then so qualified or to take any action that would subject it to the service of process in suits or to taxation, other than as to matters and transactions relating to the Shelf Registration Statement, in any jurisdiction where it is not then so subject;
+
+(xiii)    subject to the terms of the Indenture, cooperate with the selling Holders and the underwriter(s), if any, to facilitate the timely preparation and delivery of certificates representing Transfer Restricted Securities to be sold and not bearing any restrictive legends; and enable such Transfer Restricted Securities to be in such denominations and registered in such names as the Holders or the underwriter(s), if any, may request at least two Business Days prior to any sale of Transfer Restricted Securities made by such Holders or underwriter(s);
+
+(xiv)    use its commercially reasonable efforts to cause the Transfer Restricted Securities covered by the Shelf Registration Statement to be registered with or approved by such other governmental agencies or authorities as may be necessary to enable the seller or sellers thereof or the underwriter(s), if any, to consummate the disposition of such Transfer Restricted Securities, subject to the proviso contained in Section 6(c)(xii) hereof;
+
+(xv)    if any fact or event contemplated by Section 6(c)(iii)(D) hereof shall exist or have occurred, prepare a supplement or post-effective amendment to the Registration Statement or related Prospectus or any document incorporated therein by reference or file any other required document so that, as thereafter delivered to the purchasers of Transfer Restricted Securities, the Prospectus will not contain an untrue statement of a material fact or omit to state any material fact necessary in order to make the statements therein, in the light of the circumstances under which they were made, not misleading;
+
+(xvi)    provide a CUSIP number for all Securities not later than the effective date of the Registration Statement covering such Securities and provide the Trustee under the Indenture with printed certificates for such Securities which are in a form eligible for deposit with The Depository Trust Company and take all other action necessary to ensure that all such Securities are eligible for deposit with The Depository Trust Company;
+
+(xvii)    cooperate and assist in any filings required to be made with FINRA and in the performance of any due diligence investigation by any underwriter (including any “qualified independent underwriter”) that is required to be retained in accordance with the rules and regulations of FINRA;
+
+(xviii)    otherwise use its commercially reasonable efforts to comply with all applicable rules and regulations of the Commission, and make generally available to its security holders, as soon as practicable, a consolidated earning statement meeting the requirements of Rule 158 (which need not be audited) for the twelve-month period (A) commencing at the end of any fiscal quarter in which Transfer Restricted Securities are sold to underwriters in an
+
+ 
+
+13
+
+
+
+Underwritten Offering or (B) if not sold to underwriters in such an offering, beginning with the first month of the Company’s first fiscal quarter commencing after the effective date of the Shelf Registration Statement; and
+
+(xix)    cause the Indenture to be qualified under the Trust Indenture Act not later than the effective date of the first Registration Statement required by this Agreement, and, in connection therewith, cooperate with the Trustee and the Holders of Securities to effect such changes to the Indenture as may be required for such Indenture to be so qualified in accordance with the terms of the Trust Indenture Act; and to execute, and to use its commercially reasonable efforts to cause the Trustee to execute, all documents that may be required to effect such changes and all other forms and documents required to be filed with the Commission to enable such Indenture to be so qualified in a timely manner.
+
+Each Holder agrees by acquisition of a Transfer Restricted Security that, upon receipt of any notice from the Company of the existence of any fact of the kind described in Section 6(c)(iii)(D) hereof, such Holder will forthwith discontinue disposition of Transfer Restricted Securities pursuant to the applicable Registration Statement until such Holder’s receipt of the copies of the supplemented or amended Prospectus contemplated by Section 6(c)(xv) hereof, or until it is advised in writing (the “Advice”) by the Company that the use of the Prospectus may be resumed, and has received copies of any additional or supplemental filings that are incorporated by reference in the Prospectus. If so directed by the Company, each Holder will deliver to the Company (at the Company’s expense) all copies, other than permanent file copies then in such Holder’s possession, of the Prospectus covering such Transfer Restricted Securities that was current at the time of receipt of such notice. In the event the Company shall give any such notice, the time period regarding the effectiveness of such Registration Statement set forth in Section 3 or 4 hereof, as applicable, shall be extended by the number of days during the period from and including the date of the giving of such notice pursuant to Section 6(c)(iii)(D) hereof to and including the date when each selling Holder covered by such Registration Statement shall have received the copies of the supplemented or amended Prospectus contemplated by Section 6(c)(xv) hereof or shall have received the Advice.
+
+SECTION 7.    Registration Expenses.
+
+(a)    All expenses incident to the Company’s and the Note Guarantors’ performance of or compliance with this Agreement will be borne by the Company and the Note Guarantors, jointly and severally, regardless of whether a Registration Statement becomes effective, including, without limitation: (i) all registration and filing fees and expenses (including filings made by any Initial Purchaser or Holder with FINRA (and, if applicable, the reasonable fees and expenses of any “qualified independent underwriter,” and one counsel to such person, that may be required by the rules and regulations of FINRA)); (ii) all fees and expenses of qualifying the Securities under state securities or blue sky laws, including all filing fees and the reasonable fees and disbursements of one counsel to the Holders of Transfer Restricted Securities registered pursuant to any Shelf Registration Statement in connection with such qualification and with any blue sky survey or any supplement thereto; (iii) all expenses of printing (including printing certificates for the Exchange Securities to be issued in the Exchange Offer and printing of Prospectuses), messenger and delivery services and telephone; (iv) all reasonable fees and disbursements of counsel for the Company and the Note Guarantors and, subject to Section 7(b)
+
+ 
+
+14
+
+
+
+hereof, one counsel to the Holders of Transfer Restricted Securities registered pursuant to any Shelf Registration Statement; (v) all application and filing fees in connection with listing the Exchange Securities on a securities exchange or automated quotation system pursuant to the requirements thereof; and (vi) all fees and disbursements of independent certified public accountants of the Company and the Note Guarantors (including the expenses of any special audit and comfort letters required by or incident to such performance).
+
+Each of the Company and each Note Guarantor will, in any event, bear its internal expenses (including, without limitation, all salaries and expenses of its officers and employees performing legal or accounting duties), the expenses of any annual audit and the fees and expenses of any Person, including special experts, retained by the Company or the Note Guarantors.
+
+(b)    In connection with a Shelf Registration Statement required by this Agreement, the Company and the Note Guarantors, jointly and severally, will reimburse Holders of Transfer Restricted Securities being resold pursuant to the “Plan of Distribution” contained in the Shelf Registration Statement for the reasonable fees and disbursements of not more than one counsel as may be chosen by the Holders of a majority in principal amount of the Transfer Restricted Securities for whose benefit such Shelf Registration Statement is being prepared.
+
+SECTION 8.    Indemnification.
+
+(a)    The Company and the Note Guarantors, jointly and severally, agree to indemnify and hold harmless (i) the Initial Purchasers, (ii) each Holder, (iii) each Person, if any, who controls (within the meaning of Section 15 of the Securities Act or Section 20 of the Exchange Act) any Holder or Initial Purchaser (any of the Persons referred to in this clause (iii) being hereinafter referred to as a “controlling person”) and (iv) the respective officers, directors, partners, employees, representatives and agents of any Holder, Initial Purchaser or any controlling person (any Person referred to in clause (i), (ii), (iii) or (iv) may hereinafter be referred to as an “Indemnified Holder”), from and against any and all losses, claims, damages, liabilities, judgments, actions and expenses (including, without limitation, and as incurred, reimbursement of all reasonable costs of investigating, preparing, pursuing, settling, compromising, paying or defending any claim or action, or any investigation or proceeding by any governmental agency or body, commenced or threatened, including the reasonable fees and expenses of counsel to any Indemnified Holder), joint or several, directly or indirectly caused by, related to, based upon, arising out of or in connection with any untrue statement or alleged untrue statement of a material fact contained in any Registration Statement, Prospectus (or any amendment or supplement thereto) or Free Writing Prospectus, in all cases including any documents incorporated by reference therein, or any omission or alleged omission to state therein a material fact required to be stated therein or necessary to make the statements therein not misleading (in the case of any Prospectus or Free Writing Prospectus, in the light of the circumstances under which they were made), except insofar as such losses, claims, damages, liabilities or expenses are caused by an untrue statement or omission or alleged untrue statement or omission that is made in reliance upon and in conformity with information relating to any of the Holders furnished in writing to the Company by any of the Holders expressly for use therein. This indemnity agreement shall be in addition to any liability that the Company or any of the Note Guarantors may otherwise have.
+
+ 
+
+15
+
+
+
+In case any action or proceeding (including any governmental or regulatory investigation or proceeding) shall be brought or asserted against any of the Indemnified Holders with respect to which indemnity may be sought against the Company or the Note Guarantors, such Indemnified Holder (or the Indemnified Holder controlled by such controlling person) shall promptly notify the Company and the Note Guarantors in writing; provided, however, that the failure to give such notice shall not relieve any of the Company or the Note Guarantors of its obligations pursuant to this Agreement. Such Indemnified Holder shall have the right to employ its own counsel in any such action and the fees and expenses of such counsel shall be paid, as incurred, by the Company and the Note Guarantors (regardless of whether it is ultimately determined that an Indemnified Holder is not entitled to indemnification hereunder). The Company and the Note Guarantors shall not, in connection with any one such action or proceeding or separate but substantially similar or related actions or proceedings in the same jurisdiction arising out of the same general allegations or circumstances, be liable for the reasonable fees and expenses of more than one separate firm of attorneys (in addition to any local counsel) at any time for such Indemnified Holders, which firm shall be designated by the Holders. The Company and the Note Guarantors shall be liable for any settlement of any such action or proceeding effected with the Company’s and the Note Guarantors’ prior written consent, which consent shall not be withheld unreasonably, and each of the Company and each Note Guarantor agrees to indemnify and hold harmless any Indemnified Holder from and against any loss, claim, damage, liability or expense by reason of any settlement of any action effected with the written consent of the Company and the Note Guarantors. The Company and the Note Guarantors shall not, without the prior written consent of each Indemnified Holder, settle or compromise or consent to the entry of judgment in or otherwise seek to terminate any pending or threatened action, claim, litigation or proceeding in respect of which indemnification or contribution may be sought hereunder (whether or not any Indemnified Holder is a party thereto), unless such settlement, compromise, consent or termination includes an unconditional release of each Indemnified Holder from all liability arising out of such action, claim, litigation or proceeding and does not include a statement as to or an admission of fault, culpability or a failure to act by or on behalf of any Indemnified Holder.
+
+(b)    Each Holder of Transfer Restricted Securities agrees, severally and not jointly, to indemnify and hold harmless the Company, the Note Guarantors, the Initial Purchasers and the other Holders of Transfer Restricted Securities and their respective directors, officers of the Company and the Note Guarantors who sign a Registration Statement, and any Person controlling (within the meaning of Section 15 of the Securities Act or Section 20 of the Exchange Act) the Company, any of the Note Guarantors, the Initial Purchasers or the other Holders of Transferred Restricted Securities and the respective officers, directors, partners, employees, representatives and agents of each such Person, to the same extent as the foregoing indemnity from the Company and the Note Guarantors to each of the Indemnified Holders, but only with respect to claims and actions based on the statements or omissions, or alleged untrue statements or omissions relating to such Holder furnished in writing by such Holder expressly for use in any Shelf Registration Statement; provided, however, that no such Holder shall be liable for any claims hereunder in excess of the amount of net proceeds received by such Holder from the sale of Transfer Restricted Securities pursuant to any such Registration Statement. In case any action or proceeding shall be brought against the Company, the Note Guarantors, the Initial Purchasers or the other Holders of Transfer Restricted Securities or their respective directors or officers or any such controlling person in respect of which indemnity may be sought against a
+
+ 
+
+16
+
+
+
+Holder of Transfer Restricted Securities, such Holder shall have the rights and duties given the Company, the Note Guarantors, the Initial Purchasers and the other Holders of Transfer Restricted Securities by the preceding paragraph, and the Company, the Note Guarantors, the Initial Purchasers, the other Holders of Transfer Restricted Securities, their respective directors and officers and such controlling person shall have the rights and duties given to each Holder by the preceding paragraph.
+
+(c)    If the indemnification provided for in this Section 8 is unavailable to an indemnified party under Section 8(a) or (b) hereof (other than by reason of exceptions provided in those Sections) in respect of any losses, claims, damages, liabilities, judgments, actions or expenses referred to therein, then each applicable indemnifying party, in lieu of indemnifying such indemnified party, shall contribute to the amount paid or payable by such indemnified party as a result of such losses, claims, damages, liabilities or expenses in such proportion as is appropriate to reflect the relative fault of the Company and the Note Guarantors, on the one hand, and the Indemnified Holders and the Initial Purchasers, on the other hand, in connection with the statements or omissions which resulted in such losses, claims, damages, liabilities or expenses, as well as any other relevant equitable considerations. The relative fault of the Company and the Note Guarantors, on the one hand, and of the Indemnified Holders and the Initial Purchasers, on the other hand, shall be determined by reference to, among other things, whether the untrue or alleged untrue statement of a material fact or the omission or alleged omission to state a material fact relates to information supplied by the Company or any of the Note Guarantors, on the one hand, or the Indemnified Holders and the Initial Purchasers, on the other hand, and the parties’ relative intent, knowledge, access to information and opportunity to correct or prevent such statement or omission.
+
+The Company, the Note Guarantors, the Initial Purchasers and each Holder of Transfer Restricted Securities agree that it would not be just and equitable if contribution pursuant to this Section 8(c) were determined by pro rata allocation (even if the Holders were treated as one entity for such purpose) or by any other method of allocation which does not take account of the equitable considerations referred to in the immediately preceding paragraph. The amount paid or payable by an indemnified party as a result of the losses, claims, damages, liabilities or expenses referred to in the immediately preceding paragraph shall be deemed to include, subject to the limitations set forth above, any legal or other expenses reasonably incurred by such indemnified party in connection with investigating or defending any such action or claim.
+
+Notwithstanding the provisions of this Section 8, no Initial Purchaser (or its related Indemnified Holders) shall be required to contribute any amount in excess of the amount by which the total discount received by such Initial Purchaser with respect to the New Securities exceeds the amount of any damages which such Initial Purchaser has otherwise been required to pay by reason of such untrue or alleged untrue statement or omission or alleged omission. No Person guilty of fraudulent misrepresentation (within the meaning of Section 11(f) of the Securities Act) shall be entitled to contribution from any Person who was not guilty of such fraudulent misrepresentation. The Holders’ obligations to contribute pursuant to this Section 8(c) are several in proportion to the respective principal amount of New Securities held by each of the Holders hereunder and not joint.
+
+ 
+
+17
+
+
+
+SECTION 9.    Participation in Underwritten Registrations.    No Holder may participate in any Underwritten Registration hereunder unless such Holder (a) agrees to sell such Holder’s Transfer Restricted Securities on the basis provided in any underwriting arrangements approved by the Persons entitled hereunder to approve such arrangements and (b) completes and executes all reasonable questionnaires, powers of attorney, indemnities, underwriting agreements, lock-up letters and other documents required under the terms of such underwriting arrangements.
+
+SECTION 10.    Selection of Underwriters.    The Holders of Transfer Restricted Securities who hold at least 25% in aggregate principal amount of the Transfer Restricted Securities covered by the Shelf Registration Statement who desire to do so may sell such Transfer Restricted Securities in an Underwritten Offering; provided, that each Holder shall pay all underwriting discounts and commissions and transfer taxes, if any, relating to the sale or disposition of such Holder’s Transfer Restricted Securities pursuant to the Shelf Registration Statement. In any such Underwritten Offering, the investment banker(s) and managing underwriter(s) that will administer such offering will be selected by the Holders of a majority in aggregate principal amount of the Transfer Restricted Securities included in such offering; provided, however, that such investment banker(s) and managing underwriter(s) must be reasonably satisfactory to the Company.
+
+SECTION 11.    Miscellaneous.
+
+(a)    Remedies.    Each of the Company and each Note Guarantor hereby agrees that monetary damages would not be adequate compensation for any loss incurred by reason of a breach by it of the provisions of this Agreement and hereby agrees to waive the defense in any action for specific performance that a remedy at law would be adequate.
+
+(b)    No Inconsistent Agreements.    Each of the Company and the Note Guarantors will not on or after the date of this Agreement enter into any agreement with respect to its securities that conflicts with the provisions hereof.
+
+(c)    Adjustments Affecting the Securities.    The Company will not effect any change, or permit any change to occur, in each case, with respect to the terms of the Securities that would materially and adversely affect the ability of the Holders to Consummate any Exchange Offer.
+
+(d)    Amendments and Waivers.    The provisions of this Agreement may not be amended, modified or supplemented, and waivers or consents to or departures from the provisions hereof may not be given unless the Company has (i) in the case of Section 5 hereof and this Section 11(d)(i), obtained the written consent of Holders of all outstanding Transfer Restricted Securities and (ii) in the case of all other provisions hereof, obtained the written consent of Holders of a majority in aggregate principal amount of the outstanding Transfer Restricted Securities (excluding any Transfer Restricted Securities held by the Company or their Affiliates, as such term is defined in the Indenture). Notwithstanding the foregoing, a waiver or consent to departure from the provisions hereof that relates exclusively to the rights of Holders whose securities are being tendered pursuant to the Exchange Offer and that does not affect directly or indirectly the rights of other Holders whose securities are not being tendered pursuant to such Exchange Offer may be given by the Holders of a majority in aggregate principal amount of Transfer Restricted Securities being so tendered; provided, however, that, with respect to any
+
+ 
+
+18
+
+
+
+matter that directly or indirectly affects the rights of any Initial Purchaser hereunder, the Company shall obtain the written consent of each such Initial Purchaser with respect to which such amendment, qualification, supplement, waiver, consent or departure is to be effective.
+
+(e)    Notices.    All notices and other communications provided for or permitted hereunder shall be made in writing by hand-delivery, first-class mail (registered or certified, return receipt requested), telex, telecopier, or air courier guaranteeing overnight delivery:
+
+(i)    if to a Holder, at the address set forth on the records of the Registrar under the Indenture, with a copy to the Registrar under the Indenture; and
+
+(ii)    if to the Company or the Note Guarantors:
+
+PAETEC Holding Corp.
+
+One PAETEC Plaza
+
+600 Willowbrook Office Park
+
+Fairport, NY 14450
+
+Attention: General Counsel
+
+With a copy to:
+
+Hogan & Hartson LLP
+
+555 Thirteenth Street, N.W.
+
+Washington, D.C. 20004
+
+Attention: Richard J. Parrino, Esq.
+
+All such notices and communications shall be deemed to have been duly given: at the time delivered by hand, if personally delivered; five Business Days after being deposited in the mail, postage prepaid, if mailed; when answered back, if telexed; when receipt acknowledged, if telecopied; and on the next Business Day, if timely delivered to an air courier guaranteeing overnight delivery.
+
+Copies of all such notices, demands or other communications shall be concurrently delivered by the Person giving the same to the Trustee at the address specified in the Indenture.
+
+(f)    Successors and Assigns.    This Agreement shall inure to the benefit of and be binding upon the successors and assigns of each of the parties, including, without limitation, and without the need for an express assignment, subsequent Holders of Transfer Restricted Securities; provided, however, that this Agreement shall not inure to the benefit of or be binding upon a successor or assign of a Holder unless and to the extent such successor or assign acquired Transfer Restricted Securities from such Holder.
+
+(g)    Counterparts.    This Agreement may be executed in any number of counterparts and by the parties hereto in separate counterparts, each of which when so executed shall be deemed to be an original and all of which taken together shall constitute one and the same agreement.
+
+ 
+
+19
+
+
+
+(h)    Headings.    The headings in this Agreement are for convenience of reference only and shall not limit or otherwise affect the meaning hereof.
+
+(i)    Governing Law.    THIS AGREEMENT SHALL BE GOVERNED BY AND CONSTRUED IN ACCORDANCE WITH THE LAWS OF THE STATE OF NEW YORK APPLICABLE TO AGREEMENTS MADE AND TO BE PERFORMED IN NEW YORK STATE.
+
+(j)    Severability.    In the event that any one or more of the provisions contained herein, or the application thereof in any circumstance, is held invalid, illegal or unenforceable, the validity, legality and enforceability of any such provision in every other respect and of the remaining provisions contained herein shall not be affected or impaired thereby.
+
+(k)    Entire Agreement.    This Agreement is intended by the parties as a final expression of their agreement and intended to be a complete and exclusive statement of the agreement and understanding of the parties hereto in respect of the subject matter contained herein. There are no restrictions, promises, warranties or undertakings, other than those set forth or referred to herein with respect to the registration rights granted by the Company and the Note Guarantors with respect to the Transfer Restricted Securities. This Agreement supersedes all prior agreements and understandings between the parties with respect to such subject matter.
+
+[Signature Pages Follow]
+
+ 
+
+20
+
+
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first written above.
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAETEC HOLDING CORP.
+
+
+
+
+
+By:
+
+ 
+
+/s/ Keith M. Wilson
+
+
+
+ 
+
+Name:
+
+ 
+
+Keith M. Wilson
+
+
+
+ 
+
+Title:
+
+ 
+
+Executive Vice President and
+
+Chief Financial Officer
+
+
+
+GUARANTORS:
+
+
+
+US LEC CORP.
+
+
+
+
+
+By:
+
+ 
+
+/s/ Keith M. Wilson
+
+
+
+ 
+
+Name:
+
+ 
+
+Keith M. Wilson
+
+
+
+ 
+
+Title:
+
+ 
+
+Executive Vice President and
+
+Chief Financial Officer
+
+
+
+PAETEC CORP.
+
+
+
+
+
+By:
+
+ 
+
+/s/ Keith M. Wilson
+
+
+
+ 
+
+Name:
+
+ 
+
+Keith M. Wilson
+
+
+
+ 
+
+Title:
+
+ 
+
+Executive Vice President and
+
+Chief Financial Officer
+
+
+
+US LEC COMMUNICATIONS INC.
+
+
+
+
+
+By:
+
+ 
+
+/s/ Keith M. Wilson
+
+
+
+ 
+
+Name:
+
+ 
+
+Keith M. Wilson
+
+
+
+ 
+
+Title:
+
+ 
+
+Executive Vice President and
+
+Chief Financial Officer
+
+
+
+US LEC OF NORTH CAROLINA INC.
+
+
+
+
+
+By:
+
+ 
+
+/s/ Keith M. Wilson
+
+
+
+ 
+
+Name:
+
+ 
+
+Keith M. Wilson
+
+
+
+ 
+
+Title:
+
+ 
+
+Executive Vice President and
+
+Chief Financial Officer
+
+ 
+
+21
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+US LEC OF ALABAMA LLC
+
+
+
+
+
+By:
+
+ 
+
+/s/ Keith M. Wilson
+
+
+
+ 
+
+Name:
+
+ 
+
+Keith M. Wilson
+
+
+
+ 
+
+Title:
+
+ 
+
+Executive Vice President and
+
+Chief Financial Officer
+
+
+
+US LEC OF FLORIDA LLC
+
+
+
+
+
+By:
+
+ 
+
+/s/ Keith M. Wilson
+
+
+
+ 
+
+Name:
+
+ 
+
+Keith M. Wilson
+
+
+
+ 
+
+Title:
+
+ 
+
+Executive Vice President and
+
+Chief Financial Officer
+
+
+
+US LEC OF GEORGIA LLC
+
+
+
+
+
+By:
+
+ 
+
+/s/ Keith M. Wilson
+
+
+
+ 
+
+Name:
+
+ 
+
+Keith M. Wilson
+
+
+
+ 
+
+Title:
+
+ 
+
+Executive Vice President and
+
+Chief Financial Officer
+
+
+
+US LEC OF TENNESSEE INC.
+
+
+
+
+
+By:
+
+ 
+
+/s/ Keith M. Wilson
+
+
+
+ 
+
+Name:
+
+ 
+
+Keith M. Wilson
+
+
+
+ 
+
+Title:
+
+ 
+
+Executive Vice President and
+
+Chief Financial Officer
+
+
+
+US LEC OF SOUTH CAROLINA LLC
+
+
+
+
+
+By:
+
+ 
+
+/s/ Keith M. Wilson
+
+
+
+ 
+
+Name:
+
+ 
+
+Keith M. Wilson
+
+
+
+ 
+
+Title:
+
+ 
+
+Executive Vice President and
+
+Chief Financial Officer
+
+
+
+PAETEC ITEL, L.L.C.
+
+
+
+
+
+By:
+
+ 
+
+/s/ Keith M. Wilson
+
+
+
+ 
+
+Name:
+
+ 
+
+Keith M. Wilson
+
+
+
+ 
+
+Title:
+
+ 
+
+Executive Vice President and
+
+Chief Financial Officer
+
+ 
+
+22
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAETEC INTEGRATED SOLUTIONS GROUP, INC.
+
+
+
+
+
+By:
+
+ 
+
+/s/ Keith M. Wilson
+
+
+
+ 
+
+Name:
+
+ 
+
+Keith M. Wilson
+
+
+
+ 
+
+Title:
+
+ 
+
+Executive Vice President and
+
+Chief Financial Officer
+
+
+
+PAETEC SOFTWARE CORP.
+
+
+
+
+
+By:
+
+ 
+
+/s/ Keith M. Wilson
+
+
+
+ 
+
+Name:
+
+ 
+
+Keith M. Wilson
+
+
+
+ 
+
+Title:
+
+ 
+
+Executive Vice President and
+
+Chief Financial Officer
+
+
+
+PAETEC COMMUNICATIONS, INC.
+
+
+
+
+
+By:
+
+ 
+
+/s/ Keith M. Wilson
+
+
+
+ 
+
+Name:
+
+ 
+
+Keith M. Wilson
+
+
+
+ 
+
+Title:
+
+ 
+
+Executive Vice President and
+
+Chief Financial Officer
+
+
+
+PAETEC COMMUNICATIONS OF VIRGINIA, INC.
+
+
+
+
+
+By:
+
+ 
+
+/s/ Keith M. Wilson
+
+
+
+ 
+
+Name:
+
+ 
+
+Keith M. Wilson
+
+
+
+ 
+
+Title:
+
+ 
+
+Executive Vice President and
+
+Chief Financial Officer
+
+
+
+US LEC OF MARYLAND LLC
+
+
+
+
+
+By:
+
+ 
+
+/s/ Keith M. Wilson
+
+
+
+ 
+
+Name:
+
+ 
+
+Keith M. Wilson
+
+
+
+ 
+
+Title:
+
+ 
+
+Executive Vice President and
+
+Chief Financial Officer
+
+ 
+
+23
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+US LEC OF VIRGINIA L.L.C.
+
+
+
+
+
+By:
+
+ 
+
+/s/ Keith M. Wilson
+
+
+
+ 
+
+Name:
+
+ 
+
+Keith M. Wilson
+
+
+
+ 
+
+Title:
+
+ 
+
+Executive Vice President and
+
+Chief Financial Officer
+
+
+
+US LEC OF PENNSYLVANIA LLC
+
+
+
+
+
+By:
+
+ 
+
+/s/ Keith M. Wilson
+
+
+
+ 
+
+Name:
+
+ 
+
+Keith M. Wilson
+
+
+
+ 
+
+Title:
+
+ 
+
+Executive Vice President and
+
+Chief Financial Officer
+
+
+
+ALLWORX CORP.
+
+
+
+
+
+By:
+
+ 
+
+/s/ Keith M. Wilson
+
+
+
+ 
+
+Name:
+
+ 
+
+Keith M. Wilson
+
+
+
+ 
+
+Title:
+
+ 
+
+Executive Vice President and
+
+Chief Financial Officer
+
+
+
+MPX, INC.
+
+
+
+
+
+By:
+
+ 
+
+/s/ Keith M. Wilson
+
+
+
+ 
+
+Name:
+
+ 
+
+Keith M. Wilson
+
+
+
+ 
+
+Title:
+
+ 
+
+Executive Vice President and
+
+Chief Financial Officer
+
+
+
+TECHNOLOGY RESOURCE SOLUTIONS, INC.
+
+
+
+
+
+By:
+
+ 
+
+/s/ Keith M. Wilson
+
+
+
+ 
+
+Name:
+
+ 
+
+Keith M. Wilson
+
+
+
+ 
+
+Title:
+
+ 
+
+Executive Vice President and
+
+Chief Financial Officer
+
+ 
+
+24
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MCLEODUSA INCORPORATED
+
+
+
+
+
+By:
+
+ 
+
+/s/ Keith M. Wilson
+
+
+
+ 
+
+Name:
+
+ 
+
+Keith M. Wilson
+
+
+
+ 
+
+Title:
+
+ 
+
+Executive Vice President and
+
+Chief Financial Officer
+
+
+
+MCLEODUSA HOLDINGS, INC.
+
+
+
+
+
+By:
+
+ 
+
+/s/ Keith M. Wilson
+
+
+
+ 
+
+Name:
+
+ 
+
+Keith M. Wilson
+
+
+
+ 
+
+Title:
+
+ 
+
+Executive Vice President and
+
+Chief Financial Officer
+
+
+
+MCLEODUSA INFORMATION SERVICES, INC.
+
+
+
+
+
+By:
+
+ 
+
+/s/ Keith M. Wilson
+
+
+
+ 
+
+Name:
+
+ 
+
+Keith M. Wilson
+
+
+
+ 
+
+Title:
+
+ 
+
+Executive Vice President and
+
+Chief Financial Officer
+
+
+
+MCLEODUSA TELECOMMUNICATIONS SERVICES, INC.
+
+
+
+
+
+By:
+
+ 
+
+/s/ Keith M. Wilson
+
+
+
+ 
+
+Name:
+
+ 
+
+Keith M. Wilson
+
+
+
+ 
+
+Title:
+
+ 
+
+Executive Vice President and
+
+Chief Financial Officer
+
+
+
+MCLEODUSA PURCHASING, L.L.C.
+
+
+
+
+
+By:
+
+ 
+
+/s/ Keith M. Wilson
+
+
+
+ 
+
+Name:
+
+ 
+
+Keith M. Wilson
+
+
+
+ 
+
+Title:
+
+ 
+
+Executive Vice President and
+
+Chief Financial Officer
+
+ 
+
+25
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CONFIRMED AND ACCEPTED,
+
+as of the date first above written:
+
+
+
+BANC OF AMERICA SECURITIES LLC
+
+
+
+
+
+By:
+
+ 
+
+/s/ John Rote
+
+
+
+ 
+
+Name:
+
+ 
+
+John Rote
+
+
+
+ 
+
+Title:
+
+ 
+
+Managing Director
+
+ 
+
+26
+
+
+
+
+
+
+
+
+
+
+
+DEUTSCHE BANK SECURITIES INC.
+
+
+
+
+
+By:
+
+ 
+
+/s/ Prem Parameswaran
+
+
+
+ 
+
+Authorized Signatory
+
+
+
+ 
+
+Prem Parameswaran - Managing Director
+
+
+
+
+
+By:
+
+ 
+
+/s/ Harlan Wakoff
+
+
+
+ 
+
+Authorized Signatory
+
+
+
+ 
+
+Harlan Wakoff - Managing Director
+
+ 
+
+27
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CREDIT SUISSE SECURITIES (USA) LLC
+
+
+
+
+
+By:
+
+ 
+
+/s/ Jeb Slowik
+
+
+
+ 
+
+Name:
+
+ 
+
+Jeb Slowik
+
+
+
+ 
+
+Title:
+
+ 
+
+Director
+
+ 
+
+28
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+WELLS FARGO SECURITIES, LLC
+
+
+
+
+
+By:
+
+ 
+
+/s/ Marc A. Birenbaum
+
+
+
+ 
+
+Name:
+
+ 
+
+Marc A. Birenbaum
+
+
+
+ 
+
+Title:
+
+ 
+
+Managing Director
+
+ 
+
+29

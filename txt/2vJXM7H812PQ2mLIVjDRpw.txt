@@ -1,0 +1,1087 @@
+Exhibit 4.21
+
+ 
+
+CONFORMED COPY
+
+ 
+
+ 
+
+AMENDMENT AGREEMENT
+
+ 
+
+ 
+
+Dated 27 November, 2009
+
+ 
+
+ 
+
+for
+
+ 
+
+ 
+
+LUXOTTICA U.S. HOLDINGS CORP.
+
+ 
+
+as Borrower
+
+ 
+
+ 
+
+arranged by
+
+BANC OF AMERICA SECURITIES LIMITED
+
+ 
+
+ 
+
+with
+
+ 
+
+ 
+
+BANC OF AMERICA SECURITIES LIMITED
+
+acting as Agent
+
+ 
+
+ 
+
+RELATING TO A BRIDGE FACILITY AGREEMENT DATED
+
+ 
+
+12 OCTOBER 2007 (as amended and supplemented from time to time and, in particular, on 29 April 2008 and on the date hereof)
+
+ 
+
+ 
+
+
+
+ 
+
+Ref: DM/LL
+
+ 
+
+Studio Legale Associato
+
+ 
+
+in association with Linklaters LLP
+
+ 
+
+
+
+
+
+ 
+
+CONTENTS
+
+ 
+
+CLAUSE
+
+ 
+
+ 
+
+PAGE
+
+ 
+
+ 
+
+ 
+
+ 
+
+1.
+
+Definitions and interpretation
+
+ 
+
+1
+
+2.
+
+Conditions precedent
+
+ 
+
+3
+
+3.
+
+Representations
+
+ 
+
+3
+
+4.
+
+Amendment
+
+ 
+
+4
+
+5.
+
+Transaction expenses
+
+ 
+
+4
+
+6.
+
+Fees
+
+ 
+
+4
+
+7.
+
+Miscellaneous
+
+ 
+
+4
+
+8.
+
+Governing law
+
+ 
+
+4
+
+ 
+
+THE SCHEDULES
+
+ 
+
+SCHEDULE
+
+ 
+
+PAGE
+
+ 
+
+ 
+
+ 
+
+SCHEDULE 1 The Parties
+
+ 
+
+5
+
+SCHEDULE 2 Conditions precedent
+
+ 
+
+7
+
+SCHEDULE 3 Amendments to Original Facility Agreement
+
+ 
+
+8
+
+ 
+
+i
+
+
+
+
+
+ 
+
+THIS AGREEMENT is dated 27 November, 2009 and made in London, England between:
+
+ 
+
+(1)         LUXOTTICA GROUP S.p.A. (the “Company”);
+
+ 
+
+(2)         LUXOTTICA U.S. HOLDINGS CORP. as borrower (the “Borrower”);
+
+ 
+
+(3)         LUXOTTICA GROUP S.p.A. and LUXOTTICA S.r.l., as original guarantors (the “Original Guarantors”);
+
+ 
+
+(4)         BANC OF AMERICA SECURITIES LIMITED as exclusive bookrunner and mandated lead arranger (the “Arranger”);
+
+ 
+
+(5)         BANK OF AMERICA, N.A. as underwriter (the “Underwriter”);
+
+ 
+
+(6)         THE FINANCIAL INSTITUTION listed in Part II of Schedule 1 as Lender (the “Lender”); and
+
+ 
+
+(7)         BANC OF AMERICA SECURITIES LIMITED, as agent of the other Finance Parties (the “Agent”).
+
+ 
+
+WHEREAS:
+
+ 
+
+(A)        As contemplated and referred to in the Prepayment Waiver Request and in the Prepayment Notice (each term as defined below), it is the intention of the Borrower to prepay in full on 30 November 2009 the Commitment of UniCredito Italiano S.p.A. — New York Branch thus reducing the Total Commitments from U.S.$150,000,000 to U.S.$75,000,000. It is intended that, upon the prepayment in full on 30 November 2009 the Commitment of UniCredito Italiano S.p.A. — New York Branch, UniCredito Italiano S.p.A. — New York Branch and its Affiliates which are currently parties to the Original Facility Agreement will cease to be parties to the Original Facility Agreement in all and any relevant capacities and, in particular: (i) Bayerische Hypo- und Vereinsbank AG, Milan Branch will cease to be an Arranger; (ii) UniCredito Italiano S.p.A., New York Branch will cease to be a New Underwriter; and (iii) UniCredito Italiano S.p.A., New York Branch will cease to be a New Lender;
+
+ 
+
+(B)         as set out in Clause 4.1 (Amendments) below, this Agreement will become effective as of the Effective Date and, in particular, only after the full prepayment of the Commitment of UniCredito Italiano S.p.A. — New York Branch; and
+
+ 
+
+(C)         in light of the above, this Agreement is entered into only among the Company, the Borrower, the Original Guarantors, Bank of America, N.A. and Banc of America Securities Limited, considering that, as of the Effective Date, these entities will be the only Finance Parties under the Original Facility Agreement.
+
+ 
+
+IT IS AGREED as follows:
+
+ 
+
+1.           DEFINITIONS AND INTERPRETATION
+
+ 
+
+1.1         Definitions
+
+ 
+
+In this Agreement:
+
+ 
+
+“Amended Agreement” means the Original Facility Agreement, as amended by this Agreement.
+
+ 
+
+“Amendment Fee” means a fee of 0.30 per cent. flat on the aggregate Extended Facility Amount.
+
+ 
+
+“Effective Date” means:
+
+ 
+
+1
+
+
+
+
+
+ 
+
+(a)             with respect to the amendments listed in Schedule 3 (Amendments to Original Facility Agreement) of this Agreement (other than those amendments set out in paragraphs 7 and 8 of that schedule), the date on which the Commitment of Unicredito Italiano S.p.A. — New York Branch is prepaid in full and, consequently, the Total Commitments are reduced from U.S.$150,000,000 to U.S.$75,000,000 following the prepayment by the Borrower contemplated in the Prepayment Waiver Request and the Prepayment Notice; and
+
+ 
+
+(b)             only with respect to the amendments listed paragraphs 7 and 8 of Schedule 3 (Amendments to Original Facility Agreement) of this Agreement, the date that the Borrower delivers to the Agent its first set of consolidated financial statements accompanied by an independent auditors’ report in the form agreed under the amendment agreement in relation to the US$ 1.5 Facility Agreement dated October 12, 2007.
+
+ 
+
+“Extended Facility Amount” means the amount equal to U.S.$75,000,000 on the Effective Date.
+
+ 
+
+“First Amendment and Transfer Agreement” means the amendment and transfer agreement entered into on 29 April, 2008 between, inter alios, the Company, the Borrower, the Original Guarantors, the Arrangers, the Existing Underwriters, the New Underwriters, the Existing Lenders, the New Lenders and the Agent named in it in relation to the Original Facility Agreement, pursuant to which, upon the condition of the reduction of the Total Commitments from U.S.$500,000,000 to U.S.$150,000,000: (i) the Existing Lenders transferred their Commitments, rights and obligations under the Original Facility Agreement to the New Lenders, (ii) the Existing Underwriters transferred their rights and obligations under Original Facility Agreement to the New Underwriters, and (iii) certain terms and conditions of the Original Facility Agreement were amended.
+
+ 
+
+“Original Facility Agreement” means the U.S.$500,000,000 bridge facility agreement dated 12 October 2007 between the Company, the Borrower, the Original Guarantors, the Agent, the Arrangers named in it and Bank of America, N.A. and Bayerische Hypo- und Vereinsbank AG, New York Branch (part of UniCredit Markets and Investment Banking) as Lender as amended and supplemented by, respectively, the First Amendment and Transfer Agreement and the Prepayment Waiver Request.
+
+ 
+
+“Party” means a party to this Agreement.
+
+ 
+
+“Prepayment Notice” means the prepayment notice dated 23 November, 2009 from the Borrower to the Agent pursuant to which the Borrower irrevocably undertakes to make the voluntary prepayment of U.S.$75,000,000 (plus interest, fees and expenses, if any) to prepay in full the Commitment of Unicredito Italiano S.p.A., New York branch under the Original Facility Agreement.
+
+ 
+
+“Prepayment Waiver Request” means (i) the waiver request dated 23 November, 2009 from the Borrower and the Original Guarantors to the Agent; and (ii) the consent to waiver request letter dated 26 November, 2009 from the Agent (also on behalf of the Majority Lenders) pursuant to which (A) certain terms and conditions of the Original Facility Agreement have been waived in order, inter alia, to allow the voluntary prepayment of the participation of Unicredito Italiano
+
+ 
+
+2
+
+
+
+
+
+ 
+
+S.p.A., New York branch only, notwithstanding the pro-rata provisions under the Original Facility Agreement (as amended by the First Amendment and Transfer Agreement); and (B) it has been acknowledged that, upon voluntary prepayment of the Commitment of Unicredito Italiano S.p.A., New York branch, Unicredito Italiano S.p.A., New York branch and its Affiliates which were at that time parties to the Bridge Facility Agreement will cease to be parties to the Bridge Facility Agreement in all and any relevant capacities.
+
+ 
+
+1.2         Incorporation of defined terms
+
+ 
+
+(a)         Unless a contrary indication appears, terms defined in the Original Facility Agreement have the same meaning in this Agreement.
+
+ 
+
+(b)         The principles of construction set out in the Original Facility Agreement shall have effect as if set out in this Agreement.
+
+ 
+
+1.3         Clauses
+
+ 
+
+In this Agreement any reference to a “Clause” or a “Schedule” is, unless the context otherwise requires, a reference to a Clause or Schedule to this Agreement.
+
+ 
+
+1.4         Third Party Rights
+
+ 
+
+A person who is not a Party has no right under the Contracts (Rights of Third Parties) Act 1999 to enforce or to enjoy the benefit of any term of this Agreement.
+
+ 
+
+1.5         Designation
+
+ 
+
+In accordance with the Original Facility Agreement, each of the Company and the Agent designate this Agreement as a Finance Document.
+
+ 
+
+2.           CONDITIONS PRECEDENT
+
+ 
+
+The provisions of Clause 4 (Amendment) shall be effective only if (i) the date referred to in paragraph (a) of the definition of Effective Date occurs on or prior to 30 November 2009, and (ii) on or prior to the date referred to in paragraph (a) of the definition of Effective Date, or such other date as the Company and the Agent may agree, the Agent has received all the documents and other evidence listed in SCHEDULE 2 (Conditions precedent) in form and substance satisfactory to the Agent (acting reasonably). The Agent shall notify the Company and the Lender promptly upon being so satisfied.
+
+ 
+
+3.           REPRESENTATIONS
+
+ 
+
+Each Obligor makes the Repeating Representations by reference to the facts and circumstances then existing:
+
+ 
+
+(a)            on the date of this Agreement; and
+
+ 
+
+(b)           on the Effective Date,
+
+ 
+
+but as if references in Clause 18 (Representations) of the Original Facility Agreement to “the Finance Documents” were instead to this Agreement and, on the Effective Date, to this Agreement and the Amended Agreement.
+
+ 
+
+3
+
+
+
+
+
+ 
+
+4.           AMENDMENT
+
+ 
+
+4.1         Amendment
+
+ 
+
+Subject to Clause 2 (Conditions Precedent) with effect from the Effective Date the Original Facility Agreement shall be amended as set out in SCHEDULE 3 (Amendments to Original Facility Agreement).
+
+ 
+
+4.2         Continuing obligations
+
+ 
+
+The provisions of the Original Facility Agreement and the other Finance Documents (including, without limitation, the guarantee and indemnity of each Original Guarantor) shall, save as amended by this Agreement, continue in full force and effect.
+
+ 
+
+4.3         Guarantees
+
+ 
+
+With respect to the guarantee granted by any Original Guarantor incorporated in Italy pursuant to the Original Facility Agreement, and without prejudice to the continuing validity and effectiveness of any such guarantee, the Parties acknowledge that any amendment made under this Agreement shall not result under Italian law in a novazione of (or have an effetto novativo on) the Original Facility Agreement.
+
+ 
+
+5.           TRANSACTION EXPENSES
+
+ 
+
+The Borrower shall within five Business Days of demand reimburse the Agent for the amount of all costs and expenses (including pre-agreed legal fees) reasonably incurred by the Agent in connection with the negotiation, preparation, printing and execution of this Agreement and any other documents referred to in this Agreement.
+
+ 
+
+6.           FEES
+
+ 
+
+(a)         On the date referred to in paragraph (a) of the definition of Effective Date, the Borrower shall pay to the Agent (for the account of the Lender) the Amendment Fee.
+
+ 
+
+(b)         Without prejudice to any other provision of this Agreement, if the date referred to in paragraph (a) of the definition of Effective Date has not occurred on or prior to 30 November, 2009 this Agreement will not become effective and, consequently, the Amendment Fee will not be payable.
+
+ 
+
+7.           MISCELLANEOUS
+
+ 
+
+7.1         Incorporation of terms
+
+ 
+
+The provisions of Clause 31 (Notices) and Clause 39 (Enforcement) of the Original Facility Agreement shall be incorporated into this Agreement as if set out in full in this Agreement and as if references in those clauses to “this Agreement” and “any Finance Document” are references to this Agreement.
+
+ 
+
+7.2         Counterparts
+
+ 
+
+This Agreement may be executed in any number of counterparts, and this has the same effect as if the signatures on the counterparts were on a single copy of this Agreement.
+
+ 
+
+8.           GOVERNING LAW
+
+ 
+
+This Agreement is governed by English law.
+
+ 
+
+This Agreement has been entered into on the date stated at the beginning of this Agreement.
+
+ 
+
+4
+
+
+
+
+
+ 
+
+SCHEDULE 1
+
+ 
+
+THE PARTIES
+
+ 
+
+PART I
+
+ 
+
+THE OBLIGORS
+
+ 
+
+
+
+Name of Borrower
+
+ 
+
+Registration number (or equivalent, if any)
+
+ 
+
+ 
+
+ 
+
+Luxottica U.S. Holdings Corp.
+
+ 
+
+Not applicable
+
+ 
+
+
+
+Name of Original Guarantor
+
+ 
+
+Registration number (or equivalent, if any)
+
+ 
+
+ 
+
+ 
+
+Luxottica Group S.p.A.
+
+ 
+
+00891030272
+
+ 
+
+ 
+
+ 
+
+Luxottica S.r.l.
+
+ 
+
+00064820251
+
+ 
+
+5
+
+
+
+
+
+ 
+
+PART II
+
+ 
+
+THE LENDER
+
+ 
+
+Name of Lender
+
+ 
+
+Notice details
+
+ 
+
+Account details
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Bank of America, N.A.
+
+ 
+
+On record with Agent
+
+ 
+
+On record with Agent
+
+ 
+
+6
+
+
+
+ 
+
+SCHEDULE 2
+
+ 
+
+CONDITIONS PRECEDENT
+
+ 
+
+1.           Obligors
+
+ 
+
+(a)         A certificate of each Obligor certifying that its constitutional documents previously delivered to the Agent for the purposes of the Original Facility Agreement have not been amended and remain in full force and effect (or, if such constitutional documents have been amended since delivery to the Agent for the purposes of the Original Facility Agreement, a copy of such documents in their amended form).
+
+ 
+
+(b)         A copy of a resolution of the board of directors of each Obligor:
+
+ 
+
+(i)             approving the terms of, and the transactions contemplated by, this Agreement and resolving that it execute this Agreement;
+
+ 
+
+(ii)            authorising a specified person or persons to execute this Agreement on its behalf; and
+
+ 
+
+(iii)           authorising a specified person or persons, on its behalf, to sign and/or despatch all documents and notices to be signed and/or despatched by it under or in connection with this Agreement.
+
+ 
+
+(c)         A specimen of the signature of each person authorised by the resolution referred to in paragraph (b) above, where not already held by the Agent.
+
+ 
+
+(d)         A certificate of an authorised signatory of the relevant Obligor certifying that each copy document relating to it specified in this SCHEDULE 2 is correct, complete and in full force and effect as at a date no earlier than the date of this Agreement.
+
+ 
+
+2.           Other documents and evidence
+
+ 
+
+(a)         Evidence that the prepayment contemplated in the Prepayment Notice has been made.
+
+ 
+
+(b)         A copy of the duly executed (i) Prepayment Waiver Letter and (ii) Prepayment Notice.
+
+ 
+
+(c)         Evidence that the fees, costs and expenses then due from the Borrower on or prior to the Effective Date pursuant to Clause 5 (Transaction expenses) and Clause 6 (Fees) have been paid or will be paid on or prior to the Effective Date.
+
+ 
+
+7
+
+
+
+
+
+ 
+
+SCHEDULE 3
+
+ 
+
+AMENDMENTS TO ORIGINAL FACILITY AGREEMENT
+
+ 
+
+1.           On the cover page of the Original Facility Agreement, delete the reference to “U.S.$150,000,000” and replace with “U.S.$75,000,000”.
+
+ 
+
+2.           In Clause 1.1 (Definitions) of the Original Facility Agreement, delete the definition of “Margin” and replace with the following:
+
+ 
+
+“ “Margin” means 1.90 per cent. per annum.”
+
+ 
+
+3.           In Clause 1.1 (Definitions) of the Original Facility Agreement, delete the definition of “Termination Date” and replace with the following:
+
+ 
+
+“ “Termination Date” means the date falling 24 months after the Second Effective Date.”
+
+ 
+
+4.           In Clause 1.1 (Definitions) of the Original Facility Agreement, delete the definition of “Total Commitments” and replace with the following:
+
+ 
+
+“ “Total Commitments” means the aggregate amount of the Commitments, being U.S.$75,000,000
+
+ 
+
+5.           In Clause 1.1 (Definitions) of the Original Facility Agreement, insert a definition of “Second Effective Date” as follows:
+
+ 
+
+“ “Second Effective Date” means the date that the Borrower reduces the Total Commitments from U.S.$150,000,000 to U.S.$75,000,000
+
+ 
+
+6.           Delete Clause 6.1 (Repayment Loans) of the Original Facility Agreement and replace with the following:
+
+ 
+
+“6.1          Repayment Loans
+
+ 
+
+The Borrower shall repay:
+
+ 
+
+(a)           an amount equal to US.$25,000,000, on the date falling on the first anniversary after the Second Effective Date; and
+
+ 
+
+(b)           any other outstanding Loan made to it, on the Termination Date.”
+
+ 
+
+7.           Delete paragraph 18.11.1 of Clause 18.11 (Financial statements) of the Original Facility Agreement and replace with the following:
+
+ 
+
+8
+
+
+
+
+
+ 
+
+“The most recent audited Consolidated Financial Statements (in the case of the Company) and consolidated financial statements accompanied by an independent auditors’ report in the form agreed under the amendment agreement in relation to the US$ 1.5 Facility Agreement dated October 12, 2007(in case of the Borrower) delivered to the Agent were prepared in accordance with GAAP consistently applied.
+
+ 
+
+8.           Delete paragraph 18.11.2 of Clause 18.11 (Financial statements) of the Original Facility Agreement and replace with the following:
+
+ 
+
+“The most recent audited Consolidated Financial Statements (in the case of the Company) and consolidated financial statements accompanied by an independent auditors’ report in the form agreed under the amendment agreement in relation to the US$ 1.5 Facility Agreement dated October 12, 2007 (in the case of the Borrower), delivered to the Agent in each case fairly represent the consolidated financial condition and operations of the relevant company or the Group in the case of the Company during the relevant financial year.”
+
+ 
+
+9.           Delete paragraph 19.1.2 of Clause 19.1 (Financial statements) of the Original Facility Agreement and replace with the following:
+
+ 
+
+“The Borrower shall supply or procure the supply to the Agent (in sufficient copies for all the Lenders) as soon as practicable after they become available, but in any event within 150 days of each of its financial years its consolidated financial statements accompanied by an independent auditors’ report in the form agreed under the amendment agreement in relation to the US$ 1.5 Facility Agreement dated October 12, 2007.”
+
+ 
+
+10.         Delete the table in Part 2 (the Lenders) of Schedule 1 (The Parties) of the Original Facility Agreement and replace it with the table below:
+
+ 
+
+Name of Lender
+
+ 
+
+Commitment
+
+(in U.S.$)
+
+ 
+
+ 
+
+ 
+
+Bank of America, N.A.
+
+ 
+
+75,000,000
+
+ 
+
+ 
+
+ 
+
+Total
+
+ 
+
+U.S.$75,000,000
+
+ 
+
+11.         In Schedules 3 (Requests), 5 (Form of Transfer Certificate), 6 (Form of Compliance Certificate) and 12 (Additional Guarantors) of the Original Facility Agreement, delete all references to “U.S.$150,000,000” and replace with “U.S.$75,000,000”.
+
+ 
+
+9
+
+
+
+
+
+ 
+
+SIGNATURES
+
+ 
+
+The Company
+
+ 
+
+LUXOTTICA GROUP S.p.A.
+
+ 
+
+ 
+
+ 
+
+/s/ ENRICO CAVATORTA
+
+ 
+
+By: E. Cavatorta
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+The Borrower
+
+ 
+
+LUXOTTICA U.S. HOLDINGS CORP.
+
+ 
+
+ 
+
+ 
+
+/s/ ENRICO CAVATORTA
+
+ 
+
+By: E. Cavatorta
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+The Original Guarantors
+
+ 
+
+LUXOTTICA GROUP S.p.A.
+
+ 
+
+ 
+
+ 
+
+/s/ ENRICO CAVATORTA
+
+ 
+
+By: E. Cavatorta
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+LUXOTTICA S.r.l.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+/s/ ENRICO CAVATORTA
+
+ 
+
+By: E. Cavatorta
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+The Arranger
+
+ 
+
+BANC OF AMERICA SECURITIES LIMITED
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+/s/ MAURO MAIOLI
+
+ 
+
+By: Mauro Maioli
+
+ 
+
+ 
+
+10
+
+
+
+
+
+ 
+
+The Underwriter
+
+ 
+
+BANK OF AMERICA, N.A.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+/s/ MAURO MAIOLI
+
+ 
+
+By: Mauro Maioli
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+The Lender
+
+ 
+
+BANK OF AMERICA, N.A.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+/s/ MAURO MAIOLI
+
+ 
+
+By: Mauro Maioli
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+The Agent
+
+ 
+
+BANC OF AMERICA SECURITIES LIMITED
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+/s/ MAURO MAIOLI
+
+ 
+
+By: Mauro Maioli
+
+ 
+
+ 
+
+11

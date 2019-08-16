@@ -1,0 +1,621 @@
+Exhibit 10.2
+
+FIRST AMENDMENT TO
+
+SECOND AMENDED AND RESTATED CREDIT AGREEMENT
+
+This FIRST AMENDMENT TO SECOND AMENDED AND RESTATED CREDIT AGREEMENT (this “Amendment”) dated as of November 20, 2009, is made by and among ALLSCRIPTS-MISYS HEALTHCARE SOLUTIONS, INC. (F/K/A ALLSCRIPTS HEALTHCARE SOLUTIONS, INC.), a Delaware corporation (the “Company”); ALLSCRIPTSMISYS, LLC, a North Carolina limited liability company (F/K/A MISYS HEALTHCARE SYSTEMS, LLC), the LENDERS party hereto, and JPMORGAN CHASE BANK, N.A. (“JPMC”), as Administrative Agent for the Lenders.
+
+WHEREAS, the Company, AllscriptsMisys, LLC, a North Carolina limited liability company f/k/a Misys Healthcare Systems, Inc., Allscripts, LLC, a Delaware limited liability company, A4 Health Systems, Inc., a North Carolina corporation, A4 Realty, LLC, a North Carolina limited liability company, and Extended Care Information Network, Inc., a Delaware corporation, and JPMC and Fifth Third Bank, as Lenders, and JPMC as Administrative Agent, are party to that certain Second Amended and Restated Credit Agreement dated as of February 10, 2009 (the “Credit Agreement”);
+
+WHEREAS, AllscriptsMisys, LLC, a North Carolina limited liability company (together with the Company, the “Borrowers”) is the successor by merger to each of Allscripts, LLC, a Delaware limited liability company, A4 Health Systems, Inc., a North Carolina corporation, A4 Realty, LLC, a North Carolina limited liability company, and Extended Care Information Network, Inc., a Delaware corporation;
+
+WHEREAS, the Borrowers have requested that the Lenders and the Administrative Agent amend the Credit Agreement to increase the aggregate Revolving Commitments of the Lenders thereunder from $125,000,000 to $150,000,000, and in connection therewith to add U.S. Bank, National Association as an additional Lender thereunder;
+
+NOW, THEREFORE, in consideration of the mutual covenants and agreements herein contained and of the loans, extensions of credit and commitments herein referred to, the parties hereto agree as follows:
+
+ARTICLE I
+
+Definitions
+
+SECTION 1.1. Use of Defined Terms. Unless otherwise defined herein or the context otherwise requires, terms for which meanings are provided in the Credit Agreement shall have such meanings when used in this Amendment.
+
+ARTICLE II
+
+Amendments
+
+SECTION 2.1. New Lender. The term “Lenders” as used in the Credit Agreement shall mean and include the Lenders currently party to the Credit Agreement and, from and after the Effective Date, U.S. Bank, National Association (the “New Lender”), with Commitments as set
+
+
+
+forth on Schedule 1 hereto. The New Lender agrees to be bound by the terms and conditions set forth in the Credit Agreement as if it were an original signatory thereto. From and after the Effective Date, the New Lender shall have the rights of a Lender under the Credit Agreement as if it were an original signatory thereto, including all rights with respect to applicable fees accrued on and after the Effective Date.
+
+SECTION 2.2. Increase in Commitments. Pursuant to Section 2.20 of the Credit Agreement, the Company has requested that from and after the Effective Date the aggregate Revolving Commitments of the Lenders be increased to $150,000,000, with such amount being allocated to the Lenders (including the New Lender) as set forth on Schedule 1 hereto. Accordingly, the Revolving Commitments of the Lenders set forth on Schedule 1 hereto are hereby amended in their entirety and as so amended shall be as set forth on such Schedule 1. If any Revolving Loans are outstanding under the Credit Agreement as of the Effective Date, each of the Borrowers irrevocably authorizes and directs the Lenders (including the New Lender) to make (nonratably if necessary, but otherwise subject to the terms of the Credit Agreement) Revolving Loans in an amount sufficient to (and each of the Borrowers hereby irrevocably authorizes and directs the Lenders to apply such Revolving Loans to) pay and discharge the Revolving Loans of the Lenders (nonratably if necessary, but otherwise subject to the terms of the Credit Agreement) such that the percentage of each Lender’s outstanding Revolving Loans immediately after the effectiveness of this Amendment is equal to the percentage of each Lender’s Revolving Commitment immediately after the effectiveness of this Amendment. Such purchases and sales shall be arranged through the Administrative Agent and each Lender (including the New Lender) hereby agrees to execute such further instruments and documents, if any, as the Administrative Agent may reasonably request in connection therewith. Notwithstanding anything to the contrary herein, each of JPMorgan Chase Bank, N.A. and Fifth Third Bank agree to waive any claim for loss, cost or expenses under Section 2.14 of the Credit Agreement arising solely by reason of such reallocation of Revolving Loans on the Effective Date.
+
+SECTION 2.3. Schedule 1. Schedule 1 to the Credit Agreement is hereby deleted and replaced in its entirety by Schedule 1 attached hereto.
+
+ARTICLE III
+
+Representations and Warranties
+
+SECTION 3.1. Representations and Warranties. In order to induce the Lenders (including the New Lender) and the Administrative Agent to enter into this Amendment, the Borrowers hereby represent and warrant to the Lenders (including the New Lender) and the Administrative Agent as of the date hereof and as of the Effective Date, as follows:
+
+(a) Credit Agreement Representations. The representations and warranties of the Company and the Borrowers set forth in the Credit Agreement are true and correct as of the date of this Agreement and as of the Effective Date, except to the extent such representations and warranties specifically refer to an earlier date, in which case they are true and correct as of such earlier date.
+
+ 
+
+2
+
+
+
+(b) Mergers and Name Change. Allscripts, LLC, a Delaware limited liability company, A4 Health Systems, Inc., a North Carolina corporation, A4 Realty, LLC, a North Carolina limited liability company, and Extended Care Information Network, Inc., a Delaware corporation, have been duly and validly merged with and into Misys Healthcare Systems, LLC, a North Carolina limited liability company, in accordance in all respects with the laws of the State of Delaware and the State of North Carolina, and Misys Healthcare Systems, LLC, a North Carolina limited liability company, has changed its name to AllscriptsMisys, LLC.
+
+(c) Due Authorization, Non-Contravention, etc. The execution, delivery and performance by the Borrowers of this Amendment are within each such party’s powers, have been duly authorized by all necessary corporate action, and do not: (i) contravene the constituent documents of any Borrower; (ii) violate any applicable law or regulation or any order of any Governmental Authority, the violation of which would reasonably be expected to have a Material Adverse Effect, (iii) violate or result in the default under any material indenture, agreement or other instrument binding upon the Borrowers or any other Loan Party or their assets, or give rise to a right thereunder to require any payment to be made by the Borrowers or any other Loan Party, or (iv) result in the creation or imposition of any Lien on any asset of the Borrowers or any other Loan Party, except for Liens created under the Loan Documents, Permitted Encumbrances and Liens permitted under Section 6.02 of the Credit Agreement.
+
+(d) Government Approval, Regulation, etc. No authorization or approval or other action by, and no notice to or filing with, any governmental authority or regulatory body or other Person is required for the due execution, delivery or performance by any Borrower of this Amendment, except as have been obtained or made and are in full force and effect or the failure to obtain would not reasonably be expected to have a Material Adverse Effect.
+
+(e) Validity, etc. This Amendment constitutes the legal, valid and binding obligation of each Borrower enforceable in accordance with its terms, subject to applicable bankruptcy, insolvency, reorganization, moratorium or other laws affecting creditors’ rights generally and subject to general principles of equity, regardless of whether considered in a proceeding in equity or at law.
+
+(f) No Default. No Event of Default or Default has occurred and is continuing, or will result from the execution and delivery of this Amendment.
+
+ARTICLE IV
+
+Conditions Precedent
+
+SECTION 4.1. Effectiveness. This Amendment shall become effective as of the opening of business on November 20, 2009 (the “Effective Date”) subject to satisfaction of the following conditions:
+
+(a) The Administrative Agent (or its counsel) shall have received from each party hereto counterparts of this Amendment duly executed on behalf of such party.
+
+(b) The Administrative Agent (or its counsel) shall have received from the Borrowers an original of a replacement Revolving Note for each Lender (including the New Lender) in the
+
+ 
+
+3
+
+
+
+form attached hereto as Exhibit A hereto reflecting such Lender’s new Revolving Commitment hereunder, in each case duly executed on behalf of the Borrowers.
+
+(c) The Administrative Agent shall have received written opinion letters (addressed to the Administrative Agent and the Lenders and dated the Effective Date) of counsel for the Borrowers, in form and substance satisfactory to the Administrative Agent in all reasonable respects, similar as is relevant to the opinion letters delivered pursuant to Section 4.01(d) of the Credit Agreement.
+
+(d) The Administrative Agent shall have received such documents and certificates as the Administrative Agent or its counsel shall reasonably request relating to the organization, existence and good standing of each Borrower, the authorization of this Amendment and the replacement Revolving Notes hereunder, and any other legal matters relating to the Company, the Borrowers, or this Amendment or the replacement Revolving Notes hereunder, all in form and substance satisfactory in all reasonable respects to the Administrative Agent and its counsel.
+
+(e) The Administrative Agent shall have received a certificate, dated the Effective Date and signed by an appropriate officer or other responsible party acceptable to Administrative Agent on behalf of each of the Borrowers, confirming that (i) the representations and warranties of the Borrowers set forth in the Loan Documents are true and correct on and as of the Effective Date; and (ii) as of the Effective Date, no Event of Default or Default has occurred and is continuing.
+
+(f) The Company shall have provided to the Administrative Agent evidence from the Secretary of State of Delaware and the Secretary of State of North Carolina that Allscripts, LLC, a Delaware limited liability company, A4 Health Systems, Inc., a North Carolina corporation, A4 Realty, LLC, a North Carolina limited liability company, and Extended Care Information Network, INC., a Delaware corporation, shall have merged with and into Misys Healthcare Systems, LLC, a North Carolina limited liability company, and that Misys Healthcare Systems, LLC, a North Carolina limited liability company, shall have changed its name to AllscriptsMisys, LLC.
+
+(g) The Administrative Agent shall have received all fees and other amounts due and payable on or prior to the Effective Date, including, to the extent invoiced, reimbursement or payment of all out-of-pocket expenses (including fees, charges and disbursements of counsel) required to be reimbursed or paid by Borrowers hereunder or under the Credit Agreement.
+
+ARTICLE V
+
+Miscellaneous Provisions
+
+SECTION 5.1. Ratification of and References to the Credit Agreement. Except for the amendments expressly set forth above, the Credit Agreement and each other Loan Document is hereby ratified, approved and confirmed in each and every respect. Reference to this specific Amendment need not be made in the Credit Agreement, the Notes, or any other instrument or document executed in connection therewith, or in any certificate, letter or communication issued or made pursuant to or with respect to the Credit Agreement, any reference in any of such items to the Credit Agreement being sufficient to refer to the Credit Agreement as amended hereby.
+
+ 
+
+4
+
+
+
+SECTION 5.2. Headings. The various headings of this Amendment are for convenience of reference only, are not part of this Amendment and shall not affect the construction of, or be taken into consideration in interpreting, this Amendment.
+
+SECTION 5.3. Execution in Counterparts. This Amendment may be executed in counterparts (and by different parties hereto on different counterparts), each of which shall constitute an original, but all of which when taken together shall constitute a single agreement.
+
+SECTION 5.4. No Other Amendments. Except for the amendments expressly set forth above, the text of the Credit Agreement and the other Loan Documents shall remain unchanged and in full force and effect, and the Lenders and the Administrative Agent expressly reserve the right to require strict compliance with the terms of the Credit Agreement and the other Loan Documents.
+
+SECTION 5.5. Costs and Expenses. The Company agrees to pay on demand all reasonable out-of-pocket expenses of or incurred by the Administrative Agent and its Affiliates in connection with this Amendment, including the reasonable fees, charges and disbursements of counsel for the Administrative Agent (whether or not the transactions contemplated hereby shall be consummated).
+
+SECTION 5.6. Governing Law. This Amendment shall be governed by and construed in accordance with the laws of the State of Illinois.
+
+[Signature Pages Follow]
+
+ 
+
+5
+
+
+
+IN WITNESS WHEREOF, the parties hereto have caused this Amendment to be duly executed by their respective authorized officers in Chicago, Illinois as of the day and year first above written.
+
+ 
+
+
+
+
+
+
+
+
+
+BORROWERS:
+
+
+
+ALLSCRIPTS-MISYS HEALTHCARE SOLUTIONS, INC.
+
+(F/K/A ALLSCRIPTS HEALTHCARE SOLUTIONS, INC.),
+
+a Delaware corporation
+
+
+
+
+
+By:
+
+ 
+
+
+
+
+
+Name:
+
+ 
+
+William J Davis
+
+
+
+Title:
+
+ 
+
+CFO
+
+
+
+
+
+ALLSCRIPTSMISYS, LLC,
+
+(F/K/A MISYS HEALTHCARE SYSTEMS, LLC, and successor by merger to ALLSCRIPTS, LLC, a Delaware limited liability company, A4 HEALTH SYSTEMS, INC., a North Carolina corporation, A4 REALTY, LLC, a North Carolina limited liability company, and EXTENDED CARE INFORMATION NETWORK, INC., a Delaware corporation),
+
+a North Carolina limited liability company
+
+
+
+
+
+By:
+
+ 
+
+
+
+
+
+Name:
+
+ 
+
+William J Davis
+
+
+
+Title:
+
+ 
+
+CFO
+
+
+
+[Signature Page Continues]
+
+ 
+
+Signature Page to First Amendment to Second Amended and Restated Credit Agreement
+
+6
+
+
+
+
+
+
+
+
+
+
+
+JPMORGAN CHASE BANK, N.A., as Administrative Agent,
+
+Issuing Bank and Swingline Lender
+
+
+
+
+
+By:
+
+ 
+
+
+
+
+
+Name:
+
+ 
+
+Carl W Jordan
+
+
+
+Title:
+
+ 
+
+Senior Vice President
+
+
+
+
+
+LENDERS:
+
+
+
+JPMORGAN CHASE BANK, N.A.
+
+
+
+
+
+By:
+
+ 
+
+
+
+
+
+Name:
+
+ 
+
+Carl W Jordan
+
+
+
+Title:
+
+ 
+
+Senior Vice President
+
+
+
+
+
+FIFTH THIRD BANK, an Ohio Banking Corporation
+
+
+
+
+
+By:
+
+ 
+
+
+
+
+
+Name:
+
+ 
+
+Nathaniel E. Sher
+
+
+
+Title:
+
+ 
+
+Vice President
+
+
+
+
+
+U.S. BANK, NATIONAL ASSOCIATION
+
+
+
+
+
+By:
+
+ 
+
+
+
+
+
+Name:
+
+ 
+
+Christopher T. Kordes
+
+
+
+Title:
+
+ 
+
+Senior Vice President
+
+
+
+ 
+
+Signature Page to First Amendment to Second Amended and Restated Credit Agreement (continued)
+
+7
+
+
+
+SCHEDULE 1 – REVOLVING COMMITMENT SCHEDULE
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lender
+
+
+
+  
+
+Revolving Commitment
+
+  
+
+Percentages
+
+ 
+
+JPMorgan Chase Bank, N.A.
+
+  
+
+$
+
+60,000,000
+
+  
+
+40.0000000
+
+% 
+
+Fifth Third Bank
+
+  
+
+$
+
+40,000,000
+
+  
+
+26.6666667
+
+% 
+
+U.S. Bank, National Association
+
+  
+
+$
+
+50,000,000
+
+  
+
+33.3333333
+
+% 
+
+
+
+
+
+
+
+Total
+
+  
+
+$
+
+150,000,000
+
+  
+
+100.0000000
+
+% 
+
+
+
+EXHIBIT A
+
+Form of Replacement Revolving Note
+
+[attached]
+
+
+
+REVOLVING LOAN NOTE
+
+ 
+
+
+
+
+
+
+
+$    ,000,000.00
+
+  
+
+November 20, 2009
+
+Chicago, Illinois
+
+  
+
+
+
+FOR VALUE RECEIVED, ALLSCRIPTS-MISYS HEALTHCARE SOLUTIONS, INC. (F/K/A ALLSCRIPTS HEALTHCARE SOLUTIONS, INC.), a Delaware corporation (the “Company”), and ALLSCRIPTSMISYS, LLC, a North Carolina limited liability company (F/K/A MISYS HEALTHCARE SYSTEMS, LLC, and successor by merger to ALLSCRIPTS, LLC, a Delaware limited liability company, A4 HEALTH SYSTEMS, INC., a North Carolina corporation, A4 REALTY, LLC, a North Carolina limited liability company, and EXTENDED CARE INFORMATION NETWORK, INC., a Delaware corporation) (together with the Company and their respective successors, herein collectively called “Makers”), jointly and severally promise to pay to the order of                      (“Payee”), at the office of JPMorgan Chase Bank, N.A., as Administrative Agent, in Chicago, Illinois, in immediately available funds and in lawful money of the United States of America, the principal sum of              Million and No/100 Dollars ($    ,000,000.00) (or the unpaid balance of all principal advanced against this note, if that amount is less), together with interest on the unpaid principal balance of this note from time to time outstanding at the rate or rates provided in that certain Second Amended and Restated Credit Agreement dated as of February 10, 2009, as amended by the First Amendment thereto dated as of November 20, 2009, among Makers, certain Lenders (including the Payee) and JPMorgan Chase Bank, N.A., as Administrative Agent (such Second Amended and Restated Credit Agreement, as amended by such First Amendment, and as subsequently amended, supplemented, restated or replaced from time to time, the “Credit Agreement”). Any term defined in the Credit Agreement which is used in this note and which is not otherwise defined in this note shall have the meaning ascribed to it in the Credit Agreement.
+
+1. Credit Agreement; Advances. This note has been issued pursuant to the terms of the Credit Agreement, and is one of the Revolving Notes referred to in the Credit Agreement. Advances against this note by Payee or other holder hereof shall be governed by the terms and provisions of the Credit Agreement. Reference is hereby made to the Credit Agreement for all purposes. Payee is entitled to the benefits of the Credit Agreement. The unpaid principal balance of this note at any time shall be the total of all amounts lent or advanced against this note less the amount of all payments or permitted prepayments made on this note and by or for the account of Makers. All loans and advances and all payments and permitted prepayments made hereon may be endorsed by the holder of this note on a schedule which may be attached hereto (and thereby made a part hereof for all purposes) or otherwise recorded in the holder’s records; provided, that any failure to make notation of (a) any advance shall not cancel, limit or otherwise affect Makers’ obligations or any holder’s rights with respect to that advance, or (b) any payment or permitted prepayment of principal shall not cancel, limit or otherwise affect Makers’ entitlement to credit for that payment as of the date received by the holder.
+
+2. Mandatory Payments of Principal and Interest.
+
+(a) Accrued and unpaid interest on the unpaid principal balance of this note shall be due and payable as provided in the Credit Agreement.
+
+
+
+(b) On the Maturity Date, the entire unpaid principal balance of this note and all accrued and unpaid interest on the unpaid principal balance of this note shall be finally due and payable.
+
+(c) The Credit Agreement provides for required prepayments of the indebtedness evidenced hereby upon terms and conditions specified therein.
+
+3. Default. The Credit Agreement provides for the acceleration of the maturity of this note and other rights and remedies upon the occurrence of certain events specified therein.
+
+4. Waivers by Makers and Others. Except to the extent, if any, that notice of default is expressly required herein or in any of the other Loan Documents, each Maker and any and all co-makers, endorsers, guarantors and sureties severally waive notice (including, but not limited to, notice of intent to accelerate and notice of acceleration, notice of protest and notice of dishonor), presentment for payment, protest, diligence in collecting and the filing of suit for the purpose of fixing liability and consent that the time of payment hereof may be extended and re-extended from time to time without notice to any of them. Each such Person agrees that his, her or its liability on or with respect to this note shall not be affected by any release of or change in any guaranty at any time existing or by the partial or complete unenforceability of any guaranty or other surety obligation, in each case in whole or in part, with or without notice and before or after maturity.
+
+5. Paragraph Headings. Paragraph headings appearing in this note are for convenient reference only and shall not be used to interpret or limit the meaning of any provision of this note.
+
+6. Choice of Law. THIS NOTE SHALL BE GOVERNED BY AND CONSTRUED IN ACCORDANCE WITH THE APPLICABLE LAWS OF THE STATE OF ILLINOIS AND THE UNITED STATES OF AMERICA FROM TIME TO TIME IN EFFECT.
+
+7. Successors and Assigns. This note and all the covenants and agreements contained herein shall be binding upon, and shall inure to the benefit of, the respective legal representatives, heirs, successors and permitted assigns of Makers and Payee.
+
+8. Records of Payments. The records of Payee shall be prima facie evidence of the amounts owing on this note (absent manifest error).
+
+9. Severability. If any provision of this note is held to be illegal, invalid or unenforceable under present or future laws, the legality, validity and enforceability of the remaining provisions of this note shall not be affected thereby, and this note shall be liberally construed so as to carry out the intent of the parties to it.
+
+10. Revolving Credit. Subject to the terms and provisions of the Credit Agreement, Makers may use all or any part of the credit provided to be evidenced by this note at any time before the Maturity Date. Makers may borrow, repay and reborrow hereunder, and except as set forth in the Credit Agreement there is no limitation on the number of advances made hereunder.
+
+ 
+
+2
+
+
+
+11. Joint and Several Obligations. Each of the Makers shall be jointly and severally liable hereunder regardless of which of the Makers actually receives the proceeds of any indebtedness evidenced hereby, or the manner in which the Makers, the Administrative Agent or any of the Lenders account therefor in their respective books and records. Each Maker’s obligations and liabilities with respect to the indebtedness evidenced hereby, and each Maker’s obligations and liabilities arising as a result of the joint and several liability of the Makers hereunder, shall be primary and distinct obligations of such Maker. The joint and several liability of each Maker hereunder shall be impaired or released by (i) any failure of the Payee, the Administrative Agent, any Issuing Bank or any other Lender, or any successors or assigns thereof, to assert any claim or demand or to exercise or enforce any right, power or remedy against any other Maker, any other Loan Party, any other Person, any collateral security or otherwise; (ii) any extension or renewal for any period (whether or not longer than the original period) or exchange of any of the indebtedness evidenced hereby or the release or compromise of any obligation of any nature of any Person with respect thereto; (iii) any surrender, release or exchange of all or any part of any collateral now or hereafter securing payment, performance and/or observance of any of the indebtedness evidenced hereby or the compromise or extension or renewal for any period (whether or not longer than the original period) of any obligations of any nature of any Person with respect to any such property; (iv) any action or inaction on the part of the Payee, the Administrative Agent, any Issuing Bank or any other Lender, or any other event or condition with respect to any other Maker, including any such action or inaction or other event or condition, which might otherwise constitute a defense available to, or a discharge of, such other Maker, or a guarantor or surety of or for any or all of the indebtedness evidenced hereby; and (v) any other act, matter or thing (other than payment or performance of the indebtedness evidenced hereby) which would or might, in the absence of this provision, operate to release, discharge or otherwise prejudicially affect the obligations of such or any other Maker.
+
+12. Replacement Revolving Note. This note together with certain other notes issued by the Makers to the other Lenders as of the date hereof constitute a renewal and restatement of, and replacement and substitution for, certain Revolving Notes in the aggregate principal amount of $125,000,000 dated as of February 10, 2009 previously issued by the Makers under the terms of the Credit Agreement (the “Prior Notes”). The indebtedness evidenced by the Prior Notes is continuing indebtedness evidenced by this note and the other notes issued by the Makers to the other Lenders as of the date hereof, and nothing herein or therein shall be deemed to constitute a payment, settlement or novation of the prior indebtedness, or to release or otherwise adversely affect the rights of the Administrative Agent, the Payee or any other Lender with respect to any Maker or any other Loan Party.
+
+[SIGNATURE PAGE TO FOLLOW]
+
+ 
+
+3
+
+
+
+
+
+
+
+
+
+
+
+ALLSCRIPTS-MISYS HEALTHCARE SOLUTIONS, INC.
+
+(F/K/A ALLSCRIPTS HEALTHCARE SOLUTIONS, INC.),
+
+a Delaware corporation
+
+
+
+
+
+By:
+
+ 
+
+ 
+
+
+
+Name:
+
+ 
+
+ 
+
+
+
+Title:
+
+ 
+
+ 
+
+
+
+
+
+ALLSCRIPTSMISYS, LLC,
+
+(F/K/A MISYS HEALTHCARE SYSTEMS, LLC, and successor by merger to ALLSCRIPTS, LLC, a Delaware limited liability company, A4 HEALTH SYSTEMS, INC., a North Carolina corporation, A4 REALTY, LLC, a North Carolina limited liability company, and EXTENDED CARE INFORMATION NETWORK, INC., a Delaware corporation),
+
+a North Carolina limited liability company
+
+
+
+
+
+
+
+By:
+
+ 
+
+ 
+
+
+
+Name:
+
+ 
+
+ 
+
+
+
+Title:
+
+ 
+
+ 
+
+
+
+Signature Page to Revolving Loan Note
+
+ 
+
+4

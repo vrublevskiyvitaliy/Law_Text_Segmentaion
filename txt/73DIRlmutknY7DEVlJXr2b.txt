@@ -1,0 +1,387 @@
+Exhibit 10(a)
+
+WD-40 COMPANY
+
+2007 STOCK INCENTIVE PLAN
+
+PERFORMANCE SHARE UNIT AWARD AGREEMENT
+
+Pursuant to your Performance Share Unit Award Grant Notice and Acceptance (“Grant Notice”) and this Performance Share Unit Award Agreement (“Agreement”), WD-40 Company, a Delaware corporation, (the “Company”) has awarded to you Performance Shares (referred to herein as Performance Share Units or “PSUs”) under the WD-40 Company 2007 Stock Incentive Plan (the “Plan”) with respect to the “Target Number” of shares of the Company’s Common Stock indicated in your Grant Notice. Defined terms not explicitly defined in this Agreement but defined in the Plan shall have the same definitions as in the Plan.
+
+The details of your PSUs are as follows:
+
+1. Number of Shares. The number of Shares to be issued to you upon payment of your PSUs (your “PSU Shares”) as referenced in your Grant Notice will be determined under the performance vesting provisions in Paragraph 3 of this Agreement equal to a percentage (the “Applicable Percentage”) of the Target Number of PSU Shares set forth in your Grant Notice. The Target Number of PSU Shares may be adjusted from time to time upon changes in capitalization of the Company pursuant to Section 18 of the Plan.
+
+2. No Payment of Dividend Equivalents. Dividend Equivalents are not payable with respect to your PSUs. Upon issuance of your PSU Shares at the time of vesting or otherwise as provided for herein, you will then be entitled to receive dividends as and when declared upon the Shares by the Company.
+
+3. Performance Vesting. Your PSUs vest following a performance measurement period of two full fiscal years ending as of the Company’s fiscal year end for the first full fiscal year following the Date of Grant (the “Measurement Year”). Following the conclusion of the Measurement Year, the Committee shall meet, either at its regularly scheduled quarterly meeting or at a special meeting of the Committee called prior to the Company’s release of its annual earnings for the Measurement Year, to certify achievement of the performance measures set forth on Exhibit A attached hereto and the vesting of your PSUs and the Applicable Percentage of the Target Number of PSU Shares to be issued to you. Except as otherwise provided for herein, unless, prior to the effective date of the termination of your employment with the Company or a Subsidiary for any reason, including death, resignation or termination by the Company or Subsidiary (“Termination of Employment”), the Committee has certified the performance vesting of your PSUs, all of your PSUs shall be forfeited.
+
+4. Delivery of Shares upon Performance Vesting. The settlement date for delivery of your PSU Shares following certification of vesting by the Committee as provided for in Paragraph 3 above, will be the date that is the 3rd business day following the Company’s public release of its annual earnings for the Measurement Year (the “Settlement Date”). Upon settlement of your PSUs, the Applicable Percentage of the Target Number of PSU Shares shall be paid in Shares. Subject to the provisions of Paragraphs 6 and 9 of this Agreement, the PSU Shares shall be issued and delivered to you or to your designated Beneficiary (as hereinafter defined) on the Settlement Date. Issuance of the PSU Shares may not be accelerated, deferred or otherwise claimed by you for any reason or at any time other than upon the Settlement Date or otherwise as provided for herein.
+
+ 
+
+1
+
+
+
+5. Change of Control Vesting. The provisions of Section 19 of the Plan shall not apply to your PSUs in the event of a Change of Control of the Company, but your Change of Control Severance Agreement with the Company (“Severance Agreement”), including Section 5 thereof, shall apply to your PSUs. For purposes of this Agreement, Change of Control shall have the meaning given to the term in your Severance Agreement, as it may be amended with respect to such term from time to time. In the event of a Change of Control prior to the end of the Measurement Year, the performance vesting provisions shall be eliminated and your PSUs shall, instead, vest with an Applicable Percentage of one hundred percent (100%) as of the earlier of the Settlement Date or the termination of your employment following the Change of Control under circumstances that would give rise to payment of the Change in Control Severance Amount (as defined in your Severance Agreement). If the performance vesting provisions of this Agreement have been eliminated as provided for herein, your PSUs shall be treated as equivalent Restricted Stock Units having a Period of Restriction ending on the Settlement Date, subject to the terms and conditions of Section 5 of your Change of Control Severance Agreement. If a Change of Control occurs after the end of the Measurement Year, but before the Committee has certified achievement of the performance goals, and you were employed by the Company on the date of the Change of Control, you will have the right, on the Settlement Date, to receive your vested PSU Shares or the dollar value equivalent thereof, at the Company’s option, based on audited financial statements that include the Company’s financial results required for purposes of determining the relative achievement of the performance goals. For purposes of the preceding sentence, the Settlement Date shall be deemed to be the date 3 business days following the date on which the company that survives the Change of Control publicly or privately issues audited financial statements that include results of the Company’s Measurement Year, but in no event shall the Settlement Date be later than ninety (90) days following the end of the Measurement Year. In the event your PSUs are vested upon termination of your employment pursuant to this Paragraph 5 following a Change of Control prior to the end of the Measurement Year, subject to the provisions of Paragraphs 6 and 9 of this Agreement, the Target Number of PSU Shares set forth in your Grant Notice shall be issued to you as of a date that is thirty (30) days following the effective date the termination of your employment.
+
+6. Securities Law Compliance. Notwithstanding anything to the contrary contained herein, your PSU Shares may not be issued unless the PSU Shares are then registered under the Securities Act of 1933, as amended (the “Securities Act”) or, if such Shares are not then so registered, the Committee or the Board has determined that such issuance would be exempt from the registration requirements of the Securities Act. The issuance of your PSU Shares must also comply with other applicable laws and regulations governing your PSU Shares, and the issuance of your PSU Shares may be delayed if the Committee or the Board determines that such issuance would not be in material compliance with such laws and regulations.
+
+7. Transferability. Your PSUs are not transferable, except by will or by the laws of descent and distribution. Notwithstanding the foregoing, by delivering written notice to the Company, in a form satisfactory to the Company, you may designate a third party (your “Beneficiary”) who, in the event of your death, shall then be entitled to receive the PSU Shares payable as of the date of your death, in any.
+
+8. Agreement Not a Service Contract or Obligation to Continue Service. This Agreement is not an employment or service contract, and nothing in this Agreement shall be deemed to create in any way whatsoever any obligation on your part to continue in the service of the Company or Subsidiary as an employee for any period of time. In addition, nothing in this Agreement shall obligate the Company or a Subsidiary to continue your employment for any period of time.
+
+ 
+
+2
+
+
+
+9. Withholding of PSU Shares to Cover Tax Withholding Obligations.
+
+(a) At the time of issuance of your PSU Shares, to the extent required by law or applicable regulation, the Company shall withhold from the PSU Shares otherwise issuable to you, a number of whole Shares having a Fair Market Value as of the Settlement Date equal to of the minimum amount of taxes required to be withheld by law. The Fair Market Value of the withheld whole number of PSU Shares that is in excess of the minimum amount of taxes required to be withheld shall be added to the deposit for your U.S. federal income tax withholding or, if you are an international taxpayer, such amount shall be added to the largest deposit of withheld tax required to be made by the Company on your behalf.
+
+(b) Your PSU Shares may not be issued unless the tax withholding obligations of the Company, if any, are satisfied. Accordingly, the PSU Shares may not be issued within the time specified in Paragraphs 4 and 5 above and the Company shall have no obligation to issue a certificate for such Shares until such tax withholding obligations are satisfied or otherwise provided for.
+
+10. Notices. Any notices provided for in the Plan or this Agreement shall be given in writing and shall be deemed effectively given upon receipt or, in the case of notices delivered by mail by the Company to you, five (5) days after deposit in the United States mail, postage prepaid, addressed to you at the last address you provided to the Company.
+
+11. Governing Plan Document. This Agreement is subject to all the provisions of the Plan, the provisions of which are incorporated by reference in this Agreement. This Agreement is further subject to all interpretations, amendments, rules and regulations which may from time to time be promulgated and adopted pursuant to the Plan. Except as specifically provided for herein, in the event of any conflict between the provisions of this Agreement and those of the Plan, the provisions of the Plan shall control.
+
+END OF PERFORMANCE SHARE UNIT AGREEMENT
+
+(Refer to PSU Award Grant Notice and Acceptance for Specific Grant Information)
+
+ 
+
+3
+
+
+
+EXHIBIT A
+
+PERFORMANCE VESTING
+
+Subject to Section 5 of the Performance Share Unit Award Agreement, the PSUs shall vest with respect to the Applicable Percentage of the Target Number of PSU Shares set forth in the following table based on relative achievement of two equally weighted performance measures, “Aggregate Revenue Growth” and “Gross Margin”, over the Company’s two fiscal years ending with the Measurement Year:
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Aggregate Revenue
+
+Growth
+
+
+
+  
+
+Gross Margin
+
+
+
+  
+
+Applicable
+
+Percentage
+
+
+
+> 25%
+
+  
+
+> 55%
+
+  
+
+150%
+
+    25%
+
+  
+
+    55%
+
+  
+
+150%
+
+    20%
+
+  
+
+    50%
+
+  
+
+100%
+
+    15%
+
+  
+
+    45%
+
+  
+
+50%
+
+< 15%
+
+  
+
+< 45%
+
+  
+
+0%
+
+In order to determine the Applicable Percentage of the Target Number of PSU Shares to be delivered upon achievement of the performance measures, the Applicable Percentage is determined independently for each performance measure and the two Applicable Percentages so determined are given equal weight by taking the simple average of the two amounts.
+
+For each performance measure, the Applicable Percentage will be determined on a straight line sliding scale from the minimum 50% Applicable Percentage achievement level to the maximum 150% Applicable Percentage achievement level. For purposes of determining relative achievement, actual results are to be rounded to the nearest tenth of one percent and rounded upward from the midpoint. For example, if Aggregate Revenue Growth for the two year performance measurement period is 14.94%, the Applicable Percentage for Aggregate Revenue Growth would be 0%; and if Gross Margin for the two year performance measurement period is 51.25%, the Applicable Percentage for Gross Margin would be 113%; and the average of the two resulting percentages would give rise to an Applicable Percentage of 56.5% for the Target Number of PSU Shares. The number of PSU Shares to be issued on the Settlement Date is to be rounded to the nearest whole share and rounded upward from the midpoint.
+
+“Aggregate Revenue Growth” is defined and shall be determined as follows: Aggregate average annual percentage growth in world-wide consolidated net sales (revenues) for the full two-fiscal year performance period of the award as compared to the world-wide consolidated net sales (revenues) for the fiscal year (“base year”) immediately preceding the two-fiscal year performance period. Revenues for the full two-fiscal year performance period are to be measured by translation of all consolidated reporting entities’ actual local currency revenues (as determined in accordance with the Company’s then applicable Generally Accepted Accounting Principles, currently U.S. GAAP) into U.S. dollars at the base year average foreign currency exchange rate applicable to each such entity.
+
+ 
+
+ 
+
+•
+
+ 
+
+Example: for awards granted during FY2010, the full two-fiscal year performance period covers the period September 1, 2009 – August 31, 2011 (FYs 2010 & 2011). Total aggregate world-wide consolidated revenues for this full two-fiscal year performance period are divided by two to determine the
+
+ 
+
+i
+
+
+
+
+
+ 
+
+aggregate average annual world-wide consolidated revenues for the two-fiscal year performance period; this resulting aggregate average annual world-wide consolidated revenue amount for the two-fiscal year performance period is to be compared to aggregate world-wide consolidated revenues for the FY2009 base year for purposes of calculating the aggregate average annual percentage growth in the aggregate FY2010 and FY2011 world-wide consolidated revenues over the FY2009 base year world-wide consolidated revenues. FY2010 and FY2011 world-wide consolidated revenues are to be measured by translation of all consolidated reporting entities’ actual local currency revenues (as determined in accordance with the Company’s then applicable Generally Accepted Accounting Principles, currently U.S. GAAP) into U.S. dollars at the FY2009 average foreign currency exchange rate applicable to each such entity.
+
+“Gross Margin” is defined and shall be determined as follows: Aggregate world-wide consolidated gross profit for the full two-fiscal year performance period of the award as a percentage of aggregate world-wide consolidated net sales (revenues) for the full two-fiscal year performance period. Gross profit and revenues for the full two-fiscal year performance period are to be measured by translation of all consolidated reporting entities’ actual local currency gross profits and revenues (as determined in accordance with the Company’s then applicable Generally Accepted Accounting Principles, currently U.S. GAAP) at the actual foreign currency exchange rate applicable to each such entity for the period, as reported.
+
+ 
+
+ii
+
+
+
+WD-40 COMPANY
+
+PERFORMANCE SHARE UNIT AWARD GRANT NOTICE AND ACCEPTANCE
+
+(WD-40 Company 2007 Stock Incentive Plan)
+
+WD-40 Company (the “Company”), pursuant to the WD-40 Company 2007 Stock Incentive Plan (the “Plan”), hereby grants to you as the Award Recipient, an award for Performance Share Units (“PSUs”) with respect to the number of shares of the Company’s Common Stock set forth below. This award of PSUs is subject to all of the terms and conditions as set forth herein and in the Performance Share Unit Award Agreement (the “PSU Award Agreement”) and the Plan, each of which is incorporated herein by this reference. By your execution of this PSU Award Grant Notice and Acceptance, you acknowledge prior receipt of a copy of the Plan or delivery of a copy of the Plan together with this PSU Award Grant Notice and Acceptance.
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+Award Recipient:
+
+  
+
+ 
+
+
+
+
+
+ 
+
+Date of Grant:
+
+  
+
+ 
+
+
+
+
+
+ 
+
+Performance Period:
+
+  
+
+Two (2) Year Performance Vesting
+
+
+
+
+
+ 
+
+Target Number of Shares:
+
+  
+
+ 
+
+
+
+Additional Terms/Acknowledgements: The undersigned Award Recipient acknowledges receipt of, and understands and agrees to, this PSU Award Grant Notice and Acceptance, the PSU Award Agreement and the Plan. Award Recipient further acknowledges that as of the Date of Grant, this PSU Award Grant Notice and Acceptance, the PSU Award Agreement and the Plan set forth the entire understanding between Award Recipient and the Company regarding the acquisition of stock in the Company with respect to the PSUs described herein and they supersede all prior oral and written agreements with respect thereto.
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+WD-40 COMPANY
+
+ 
+
+
+
+ 
+
+AWARD RECIPIENT:
+
+
+
+
+
+
+
+
+
+By:
+
+ 
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+ 
+
+
+
+
+
+ 
+
+Signature            
+
+ 
+
+
+
+ 
+
+Signature            
+
+
+
+
+
+
+
+
+
+
+
+Title:
+
+ 
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+Date:
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Date:
+
+ 
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ATTACHMENT: PSU Award Agreement

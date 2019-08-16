@@ -1,0 +1,191 @@
+Exhibit 10.10
+
+AMENDMENT TO
+
+LOAN AND SECURITY AGREEMENT
+
+     This Amendment to Loan and Security Agreement (the “Amendment”) is entered into and is effective this 20th day of March, 2007 by and between BlueCrest Venture Finance Master Fund Limited (“Lender”), as assignee of Ritchie Capital Finance, LLC (“Original Lender”) and Ritchie Debt Acquisition Fund, Ltd. (“Initial Assignee”), and SPS Commerce, Inc. (“Borrower”).
+
+RECITALS
+
+      A. Original Lender provided one or more credit facilities or arrangements to Borrower pursuant to that certain Loan and Security Agreement by and between Original Lender and Borrower, dated as of February 3, 2006 (the “Loan Agreement”), which Loan Agreement had been assigned by Original Lender to Original Assignee, as of May 5, 2006, and which was then assigned to Lender as of December 18, 2006.
+
+     B. In connection with the Loan Agreement, Borrower has granted to Lender a first priority security interest in the Collateral. Capitalized terms used herein and not otherwise defined shall have the meanings ascribed to them in the Loan Agreement.
+
+     C. Lender and Borrower now desire to enter into an addition equipment loan transaction (the “Additional Equipment Loan”) which shall be subject to the terms and conditions of the Loan Agreement, except as modified hereby, and which will be secured by the Collateral.
+
+     NOW, THEREFORE, in consideration of the promises and other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged by each of the parties hereto, the parties hereto agree as follows:
+
+1. Additional Equipment Loan.
+
+     (a) Section 2.1 of the Loan Agreement shall be amended to add a new section (d) as follows:
+
+(d) Additional Equipment Loan. Subject to Section 2.5, Lender shall loan to Borrower from time to time on or prior to December 31, 2007, one or more equipment loans (the “Additional Equipment Loan”) pursuant to the terms and conditions hereof, in an aggregate amount not to exceed One Million Two Hundred Fifty Thousand Dollars ($1,250,000.00), the proceeds of which shall be used to purchase Equipment. This is not a revolving line of credit and Borrower may not repay and re-borrow the amounts advanced or to be advanced under this Section 2.1 (d). Each Additional Equipment Loan shall be made on notice (substantially in the form of Exhibit C hereto and setting forth a schedule describing in detail the Equipment against which an advance is to be made hereunder) given by Borrower to Lender no later than 9:00 a.m. (prevailing Chicago time) not less than three (3) Business Days prior to the date of such proposed borrowing. Each Additional Equipment Loan shall be repaid in thirty-six (36) equal monthly scheduled installments of principal and interest (paid in arrears), such payments to be made on the first Business Day of each month commencing on the first Business Day of the month following the date of such Additional Equipment Loan borrowing (the “Initial Additional Equipment Loan Payment Date”); provided, however, that if the Initial Additional Equipment Loan Payment Date is not at least 15 days after the date the Additional
+
+1
+
+
+
+
+
+ 
+
+
+
+
+
+Equipment Loan is made, such payments shall commence on the first Business Day of the immediately succeeding month and Borrower shall make one interest only payment on the Initial Additional Equipment Loan Payment Date.
+
+     (b) The Additional Equipment Loan shall be considered a “Loan” for all purposes of the Loan Agreement and the obligations of Borrower thereunder shall be included in the definition of “Borrower’s Liabilities” thereunder. Any note(s) delivered by Borrower to Lender in connection with the Additional Equipment Loan shall be included in the definition of “Other Agreements” for all purposes of the Loan Agreement.
+
+     (c) Section 3.1 of the Loan Agreement shall be amended to add the following sentence after the word “select.” in line 13 thereof:
+
+“Each Additional Equipment Loan shall bear interest payable monthly in arrears on the first Business Day of each month, calculated on a 360 day year comprised of twelve (12) thirty day months at a per annum rate equal to the Loan Interest Rate specified in the related note, which rate shall be the sum of (i) 720 basis points plus (ii) the greater of (a) 4.84% or (b) the yield on Three-Year U.S. Treasury Notes on the date of such advance, as reported in the Federal Reserve Statistical Release H-15 or in such other publication as Lender may reasonably select.”
+
+     (d) The first sentence of Section 3.4 of the Loan Agreement shall be amended in its entirety as follows:
+
+“Provided that an “Event of Default” (hereinafter defined) does not exist, the application of payments received by Lender pursuant to this Loan Agreement shall be applied first to any and all late charges, fees and expenses then due and payable hereunder; second to interest then due and payable hereunder; third to the principal of the Term Loan then due and payable, fourth pro rata to the principal of the Equipment Loan and the Additional Equipment Loan then due and payable, and finally to the principal of the Revolving Advances then outstanding.”
+
+     (e) The last sentence of Section 4.3(b) of the Loan Agreement shall be amended in its entirety as follows:
+
+“A notice of termination or reduction given hereunder may be conditioned upon the closing by Borrower of any other transaction; provided, however, that Borrower shall pay Lender a fee of $500 in the event of the failure of Borrower to terminate or reduce the unused portion of the Revolving Commitment by the amount contained in such notice on the date specified therein; and provided, further, that only one such payment shall be due under Section 4.3 in the event of a concurrent failure to terminate or reduce the Revolving Commitment and prepay, in whole or part, the Term Loan, the Equipment Loan or the Additional Equipment Loan, as specified in a notice from Borrower.”
+
+     (f) Section 4.3(c) of the Loan Agreement shall be amended in its entirety as follows:
+
+“(c) Borrower may, upon at least twenty (20) Business Days’ prior written notice to Lender (stating the proposed date of prepayment and the principal
+
+2
+
+
+
+
+
+ 
+
+
+
+
+
+amount of the Term Loan, the Equipment Loan or the Additional Equipment Loan to be prepaid), prepay the outstanding principal amount of the Term Loan, the Equipment Loan or the Additional Equipment Loan then outstanding in whole, or in part (but any such partial payment shall equal at least 20% of the aggregate principal amount outstanding of the Term Loan, the Equipment Loan and the Additional Equipment Loan), by paying to Lender, in immediately available funds, an amount equal to the sum of (i) the principal amount of the Term Loan, the Equipment Loan and the Additional Equipment Loan contained in the foregoing notice, (ii) all accrued and unpaid interest on the amounts of the Term Loan, the Equipment Loan and the Additional Equipment Loan to be repaid through the date of prepayment, and (iii) (A) in the event that such prepayment is made on or prior to the first anniversary of the date of this Loan Agreement (in the case of prepayment of the Term Loan or the Equipment Loan) or the first anniversary of the date of the Amendment to the Loan and Security Agreement pursuant to which Lender agreed to make the Additional Equipment Loan (in the case of prepayment of the Additional Equipment Loan), a prepayment premium equal to 2.5% of the principal amount being prepaid, or (B) in the event that such prepayments is made on or prior to the second anniversary of the date of this Loan Agreement (in the case of prepayment of the Term Loan or the Equipment Loan) or the second anniversary of the date of the Amendment to the Loan and Security Agreement pursuant to which Lender agreed to make the Additional Equipment Loan (in the case of prepayment of the Additional Equipment Loan), a prepayment premium equal to 1.5% of the principal amount being prepaid, or (C) in the event that such prepayments is made on or prior to the third anniversary of the date of this Loan Agreement (in the case of prepayment of the Term Loan or the Equipment Loan) or the third anniversary of the date of the Amendment to the Loan and Security Agreement pursuant to which Lender agreed to make the Additional Equipment Loan (in the case of prepayment of the Additional Equipment Loan), a prepayment premium equal to .75% of the principal amount being prepaid; provided, however, that no prepayment penalty shall be payable hereunder to the extent that (i) the Term Loan, the Equipment Loan or the Additional Equipment Loan is prepaid, in whole or in part, out of the proceeds of an initial public offering, or (ii) the Term Loan, the Equipment Loan and the Additional Equipment Loan are prepaid in whole in connection with any merger, sale or other business disposition. A notice of prepayment given hereunder may be conditioned upon the closing by Borrower of any other transaction; provided, however, that Borrower shall pay Lender a fee of $500 in the event of the failure of Borrower to pay the amount contained in such notice on the prepayment date specified therein; and provided, further, that only one such payment shall be due under Section 4.3 in the event of a concurrent failure to terminate or reduce the Revolving Commitment and prepay, in whole or part the Term Loan, the Equipment Loan or the Additional Equipment Loan, as specified in a notice from Borrower.”
+
+2. Acknowledgement by Borrower. Borrower acknowledges that to the best of its knowledge, as of the date hereof, there are no Events of Default that have occurred and which are continuing under the Loan Agreement.
+
+3. Due Diligence Fee. Lender acknowledges that Borrower has heretofore paid to Lender a due diligence fee in the amount of $5,000 to cover all costs and expenses incurred by Lender in connection
+
+3
+
+
+
+
+
+ 
+
+
+
+
+
+with the preparation and negotiation of, and the consummation of the transactions contemplated by, this Amendment to the Loan Agreement, and Borrower has no obligation to reimburse Lender therefor to the extent such costs and expenses exceed the amount of such fee.
+
+4. Governing Law. This Amendment shall be governed by and construed in accordance with the laws of the State of Illinois (without giving effect to its laws of conflicts) and to the extent applicable, federal law.
+
+5. Effect of Amendment. Except as expressly modified hereby, the terms and conditions of the Loan Agreement remain in full force and effect.
+
+     IN WITNESS WHEREOF, this Agreement has been duly executed and delivered by the parties hereto as of the date first above written.
+
+BLUECREST VENTURE FINANCE MASTER FUND LIMITED
+
+By: BlueCrest Capital Management L.P.
+
+(acting through its general partner BlueCrest Capital Management Limited)
+
+in its capacity as investment manager to and for and on behalf of
+
+BlueCrest Venture Finance Master Fund Limited
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Paul Dehadray
+
+ 
+
+ 
+
+ 
+
+Name: Paul Dehadray
+
+ 
+
+ 
+
+Title: General Counsel
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+SPS COMMERCE, INC.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Thomas C. Velin
+
+ 
+
+ 
+
+ 
+
+Name: Thomas C. Velin
+
+ 
+
+ 
+
+Title: CFO
+
+ 
+
+ 
+
+4

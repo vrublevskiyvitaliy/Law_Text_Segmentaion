@@ -1,0 +1,2572 @@
+**********************
+Exhibit 10.13
+**********************
+RULES OF THE
+**********************
+WILLIS GROUP HOLDINGS
+**********************
+SHARESAVE PLAN 2001 FOR THE UNITED KINGDOM
+**********************
+AS AMENDED AND RESTATED ON DECEMBER 30, 2009 BY WILLIS GROUP HOLDINGS LIMITED AND AS AMENDED AND RESTATED AND ASSUMED BY WILLIS GROUP HOLDINGS PUBLIC LIMITED COMPANY ON DECEMBER 31, 2009
+**********************
+A SUB-PLAN TO THE WILLIS GROUP HOLDINGS 2001 SHARE PURCHASE AND OPTION PLAN AS AMENDED AND RESTATED ON DECEMBER 30, 2009 BY WILLIS GROUP HOLDINGS LIMITED AND AS AMENDED AND RESTATED AND ASSUMED BY WILLIS GROUP HOLDINGS PUBLIC LIMITED COMPANY ON DECEMBER 31, 2009
+**********************
+HMRC Ref: [SRS2633/RF]
+**********************
+CONTENTS
+**********************
+1.
+**********************
+DEFINITIONS
+**********************
+1
+**********************
+2.
+**********************
+APPLICATION FOR OPTIONS
+**********************
+5
+**********************
+3.
+**********************
+SCALING DOWN
+**********************
+6
+**********************
+4.
+**********************
+GRANT OF OPTIONS
+**********************
+7
+**********************
+5.
+**********************
+NUMBER OF SHARES IN RESPECT OF WHICH OPTIONS MAY BE GRANTED
+**********************
+8
+**********************
+6.
+**********************
+RIGHTS OF EXERCISE AND LAPSE OF OPTIONS
+**********************
+8
+**********************
+7.
+**********************
+TAKE-OVER, RECONSTRUCTIONS AND AMALGAMATION, AND LIQUIDATION
+**********************
+10
+**********************
+8.
+**********************
+MANNER OF EXERCISE
+**********************
+13
+**********************
+9.
+**********************
+ISSUE OR TRANSFER OF SHARES
+**********************
+14
+**********************
+10.
+**********************
+ADJUSTMENTS
+**********************
+14
+**********************
+11.
+**********************
+ADMINISTRATION
+**********************
+15
+**********************
+12.
+**********************
+ALTERATIONS
+**********************
+15
+**********************
+13.
+**********************
+GENERAL
+**********************
+16
+**********************
+Rules of the Willis Group Holdings Sharesave Plan 2001
+**********************
+1.
+Definitions
+**********************
+1.1
+**********************
+In this Plan, the following words and expressions shall bear, unless the context otherwise requires, the meanings set out below:
+**********************
+Appropriate Period
+**********************
+the meaning given by paragraph 38(3) of Schedule3;
+**********************
+Associated Company
+**********************
+the meaning given in paragraph 47 of Schedule 3 by virtue of section 187(2) of the Income and Corporation Taxes Act 1988;
+**********************
+the Board
+**********************
+the board of directors of the Company, or a duly authorised committee of the board;
+**********************
+Bonus Date
+**********************
+the date on which the bonus becomes payable under the Sharesave Contract made in connection with an Option being, in the case of a 3year contract, the date of completion of 36monthly contributions, in the case of a 5year contract, the date of completion of 60 monthly contributions and, in the case of a 7 year contract, the second anniversary of the date of completion of 60monthly contributions;
+**********************
+Business Day
+**********************
+a day on which the New York Stock Exchange is open for business;
+**********************
+Close Company
+**********************
+a close company as defined in Section989 of the Income Tax Act 2007 as varied by paragraph 11(4) of Schedule3;
+**********************
+the Company
+**********************
+Willis Group Holdings Public Limited Company, a company incorporated in Ireland under registered number 475616;
+**********************
+Constitution
+**********************
+the constitutional documents of the Company consisting of the Memorandum and Articles of Association from time to time;
+**********************
+Control
+**********************
+the meaning given by section 719 of ITEPA 2003;
+**********************
+Date of Grant
+**********************
+the date on which the Board resolves to grant an Option;
+**********************
+1
+**********************
+Date of Invitation
+**********************
+the date on which the Board issues applications to Eligible Employees for Options;
+**********************
+Eligible Employee
+**********************
+any individual who:
+**********************
+(a)
+**********************
+(i)
+**********************
+is a full time director who works at least 25 hours a week (excluding meal breaks) or is an employee of one or more Participating Companies; and
+**********************
+(ii)
+**********************
+has such qualifying period of continuous service (being a period commencing not earlier than five years prior to the Date of Grant) as the Board may determine from time to time; and
+**********************
+(iii)
+**********************
+is subject to income tax under section 15 of ITEPA; or
+**********************
+(b)
+**********************
+is a full time director who works at least 25 hours a week (excluding meal breaks) or an employee and is nominated by the Board either individually or as a member of a category of such full time directors or employees;
+**********************
+Exercise Price
+**********************
+the amount payable in relation to the exercise of an Option, whether in whole or in part, being an amount equal to the relevant Option Price multiplied by the number of Shares in respect of which the Option is exercised;
+**********************
+HMRC
+**********************
+Her Majestys Revenue and Customs;
+**********************
+ITEPA 2003
+**********************
+Income Tax (Earnings and Pensions) Act 2003;
+**********************
+Key Feature
+**********************
+a provision of the Plan which is necessary in order to meet the requirements of Schedule3;
+**********************
+2
+**********************
+Market Value
+**********************
+in relation to a Share:
+**********************
+(a)
+**********************
+if and for so long as Shares are listed upon the New York Stock Exchange the closing price of the Shares as quoted in the Wall Street Journal on the Business Day relevant date immediately preceding the Date of Invitation;
+**********************
+(b)
+**********************
+and where (a)does not apply its market value as determined in accordance with Part VIII of the Taxation of Chargeable Gains Act 1992 and agreed in advance with the Shares Valuation Division of HMRC;
+**********************
+Material Interest
+**********************
+the meaning given by paragraphs 11 to 16 of Schedule3;
+**********************
+Maximum Contribution
+**********************
+the lesser of:
+**********************
+(a)
+**********************
+such maximum monthly contribution as may be permitted pursuant to paragraph 25(3) of Schedule3; or
+**********************
+(b)
+**********************
+such maximum monthly contribution as may be determined from time to time by the Board;
+**********************
+Member of a Consortium
+**********************
+the meaning given by paragraph 48(2) of Schedule3;
+**********************
+Monthly Contributions
+**********************
+monthly contributions agreed to be paid by a Participant under the Sharesave Contract made in connection with his Option;
+**********************
+Option
+**********************
+a right to acquire Shares under the Plan which is either subsisting or (where the context so admits or requires) is proposed to be granted;
+**********************
+Option Price
+**********************
+the price per Share, as determined by the Board, at which an Eligible Employee may acquire Shares upon the exercise of an Option being a price not less than:
+**********************
+(a)
+**********************
+80 per cent of the Market Value of the Shares on the Business Day immediately preceding the relevant date; and
+**********************
+(b)
+**********************
+if the Shares are to be subscribed, their nominal value,
+**********************
+but subject to any adjustment pursuant to Rule 10;
+**********************
+3
+**********************
+Ordinary Shares
+**********************
+the ordinary shares of the Company, nominal value US$0.000115;
+**********************
+Participant
+**********************
+a full time director or employee, or former director or employee, to whom an Option has been granted or (where the context so admits or requires) the personal representatives of any such person;
+**********************
+Participating Company
+**********************
+(a)
+**********************
+the Company; and
+**********************
+(b)
+**********************
+any other company which at the Date of Grant is under the Control of the Company and is for the time being designated by the Board as a Participating Company;
+**********************
+Rate of Exchange
+**********************
+the closing mid-point spot rate of sterling against the US dollar as quoted in the Financial Times for the Business Day in relation to which the Market Value is set;
+**********************
+Repayment
+**********************
+in relation to a Sharesave Contract, the aggregate of the Monthly Contributions which the Participant has made and any bonus due at the Bonus Date;
+**********************
+Schedule3
+**********************
+Schedule3 of ITEPA 2003;
+**********************
+Sharesave Contract
+**********************
+a contract under a certified contractual savings Plan (within the meaning of section 703 of the Income Tax (Trading and Other Income) Act 2005) approved by HMRC for the purposes of Schedule3;
+**********************
+the Plan
+**********************
+the Willis Group Holdings Sharesave Plan 2001 for the United Kingdom, as amended and restated on December 30, 2009 by Willis Group Holdings Limited and as amended and restated and assumed by Willis Group Holdings Public Limited Company on December 31, 2009, a sub-plan to the Willis Group Holdings 2001 Share Purchase and Option Plan, as amended and restated on December30, 2009 by Willis Group Holdings Limited and as amended and restated and assumed by Willis Group Holdings Public Limited Company on December31, 2009;
+**********************
+Share
+**********************
+An Ordinary Share of Willis Group Holdings Public Limited Company which satisfies the conditions specified in paragraphs 17 to 22 (inclusive)of Schedule3 at the Date of Grant and date of exercise;
+**********************
+Specified Age
+**********************
+65years of age;
+**********************
+4
+**********************
+Subsidiary
+**********************
+the meaning given by sections 1159 and Schedule6 of the Companies Act 2006;
+**********************
+Tax Liability
+**********************
+A Participants liability to account for any tax, primary national insurance, employees social security or similar levies in respect of the exercise of the Option, where the Participants employer or former employer is liable to make a payment to the appropriate authorities on account of that liability including for the avoidance of doubt any liability arising after the termination of the Participants employment and which may arise or be incurred in any jurisdiction whatsoever
+**********************
+Trustee
+**********************
+The trustee or trustees for the time being of the Trinity Employees Share Ownership Plan Trust.
+**********************
+1.2
+**********************
+In the Plan where the context so admits or requires the singular includes the plural and the masculine includes the feminine and vice versa; references to any statutory provisions shall include any modification or re-enactment.
+**********************
+1.3
+**********************
+Headings shall be ignored in construing these Rules.
+**********************
+2.
+Application for Options
+**********************
+2.1
+**********************
+The Board may invite applications for Options from Eligible Employees on broadly similar terms at any time.
+**********************
+2.2
+**********************
+Any invitation to apply for Options shall be in writing and shall include details of:
+**********************
+(a)
+**********************
+eligibility;
+**********************
+(b)
+**********************
+the sterling Option Price or the mechanism by which the sterling Option Price will be notified to Eligible Employees (which, for the avoidance of doubt, may be different in respect of 3, 5 and/or 7year Sharesave Contracts);
+**********************
+(c)
+**********************
+the Maximum Contribution payable;
+**********************
+(d)
+**********************
+whether the Eligible Employees may elect for a 3, 5 or 7year Sharesave Contract;
+**********************
+(e)
+**********************
+any restriction on the amount of bonus payable under the Sharesave Contract which may be used in the exercise of the Option;
+**********************
+(f)
+**********************
+the date by which applications made pursuant to Rule2.3 must be received (being neither earlier than 14days nor later than 25days after the Date of Invitation),
+**********************
+5
+**********************
+and the Board may determine and include in the invitations details of the maximum number of Shares over which applications for Options are to be invited.
+**********************
+2.3
+**********************
+Applications for Options must incorporate or be accompanied by a proposal for a Sharesave Contract.
+If application is made for more than one Option, each Option must incorporate or be accompanied by a proposal for a Sharesave Contract.
+**********************
+2.4
+**********************
+An application for an Option shall be in writing in such form as the Board may from time to time prescribe save that it shall provide for the applicant to state:
+**********************
+(a)
+**********************
+the Monthly Contributions (being a multiple of 1 and not less than 5) which he wishes to make under the Sharesave Contract to be made in connection with the Option for which application is made;
+**********************
+(b)
+**********************
+that his proposed Monthly Contributions (when taken together with any monthly contributions he makes under any other Sharesave Contract) will not exceed the Maximum Contribution;
+**********************
+(c)
+**********************
+if Eligible Employees may elect for a 3, 5 or 7year Sharesave Contract, his election in that respect.
+**********************
+2.5
+**********************
+Each application for an Option shall provide that, in the event of excess applications, each application shall be deemed to have been modified or withdrawn in accordance with the steps taken by the Board to scale down applications pursuant to Rule3.
+**********************
+2.6
+**********************
+Proposals for a Sharesave Contract shall be limited to such building society or bank as the Board may designate.
+**********************
+2.7
+**********************
+Each application shall be deemed to be for a specified number of whole Options over the number of Shares which will be acquired at the sterling Option Price with the Repayment under the Sharesave Contract entered into in connection with the Option.
+**********************
+3.
+Scaling Down
+**********************
+3.1
+**********************
+If valid applications are received for a total number of Shares in excess of any maximum number of Shares determined by the Board pursuant to Rule2.2, or any limitation under Rule5, the Board shall scale down applications by taking, at its absolute discretion, any one or more of the following steps until the number of Shares available equals or exceeds such total number of Shares applied for:
+**********************
+(a)
+**********************
+by treating any elections for the maximum bonus (being that bonus receivable if savings are made under a 7year contract) as elections for the standard bonus (being that bonus receivable if savings are made under a 5 year contract) and then, so far as necessary, by reducing the proposed Monthly Contributions pro-rata to the excess over such
+**********************
+6
+**********************
+amount as the Board shall determine for this purpose being not less than 5 and then, so far as necessary; or
+**********************
+(b)
+**********************
+by treating each election for a bonus as an election for no bonus and then, so far as necessary, by reducing the proposed Monthly Contributions pro rata to the excess over such amount as the Board shall determine for this purpose being not less than 5 and then, so far as necessary; or
+**********************
+(c)
+**********************
+by reducing the proposed Monthly Contributions pro rata to the excess over such amount as the Board shall determine for this purpose being not less than 5 and then, so far as necessary.
+**********************
+3.2
+**********************
+If the number of Shares available is insufficient to enable an Option based on Monthly Contributions of 5 a month to be granted to each Eligible Employee making a valid application, the Board may, as an alternative to selecting by lot, determine in its absolute discretion that no Options shall be granted.
+**********************
+3.3
+**********************
+If the Board so determines, the provisions in Rule3.1(a), (b)and (c)may be modified or applied in any manner as may be agreed in advance with HMRC.
+**********************
+3.4
+**********************
+If, in applying the scaling down provisions contained in this Rule3, Options cannot be granted within the 30day period referred to in Rule4.2 below, the Board may extend that period by twelve days regardless of the expiry of the relevant period set out in Rule2.1.
+**********************
+4.
+Grant of Options
+**********************
+4.1
+**********************
+No Option shall be granted to any person if:
+**********************
+(a)
+**********************
+at the Date of Grant that person shall have ceased to be an Eligible Employee; or
+**********************
+(b)
+**********************
+that person has, or has had at any time within the twelve month period preceding the Date of Grant, a Material Interest in the issued ordinary share capital of a Close Company or a company which has Control of the Close Company or is a Member of a Consortium which owns the Close Company.
+**********************
+4.2
+**********************
+The Board may determine when Options shall be granted save that no Option may be granted more than 30days after the earliest date by reference to which Market Value of the Shares subject to that Option has been calculated.
+**********************
+4.3
+**********************
+The Company shall issue to each Participant an option certificate in such form (not inconsistent with the provisions of the Plan) as the Board may from time to time prescribe.
+Each such certificate shall specify the Date of Grant of the Option, the number and class of Shares over which the Option is granted, the Option Price and the Bonus Date.
+**********************
+7
+**********************
+4.4
+**********************
+Except as otherwise provided in these Rules, every Option shall be personal to the Participant to whom it is granted and shall not be transferable.
+**********************
+4.5
+**********************
+No amount shall be paid in respect of the grant of an Option.
+**********************
+4.6
+**********************
+Options shall be granted in sterling and accordingly, the Company shall bear any risk in respect of the relevant Rate of Exchange.
+**********************
+5.
+Number of Shares in respect of which Options may be granted
+**********************
+5.1
+**********************
+Individual Limits
+**********************
+No Eligible Employee shall be granted an Option to the extent it would at the proposed Date of Grant cause the aggregate amount of his contributions under all Sharesave Contracts to exceed the Maximum Contribution.
+**********************
+5.2
+**********************
+The number of Options over shares that an Eligible Employee may be granted will be specified at the Date of Grant.
+**********************
+6.
+Rights of exercise and lapse of Options
+**********************
+6.1 (a)
+**********************
+Save as provided in Rules6.2, 6.3, 6.4 and Rule7, an Option shall not be exercised earlier than the Bonus Date under the Sharesave Contract entered into in connection with the Option.
+**********************
+(b)
+**********************
+Save as provided in Rule6.2, an Option shall not be exercised later than six months after the Bonus Date under the Sharesave Contract entered into in connection with the Option.
+**********************
+(c)
+**********************
+Save as provided in Rules6.2, 6.3 and 6.6, an Option may only be exercised by a Participant whilst he is a director or employee of a Participating Company.
+**********************
+(d)
+**********************
+An Option may not be exercised by a Participant if he has, or has had at any time within the twelve month period preceding the date of exercise, a Material Interest in the issued ordinary share capital of a Close Company or a company which has Control of a related Close Company or is a Member of a Consortium which owns a related Close Company, nor may an Option be exercised by the personal representatives of a deceased Participant if the Participant had such a Material Interest at the date of his death.
+**********************
+(e)
+**********************
+An Option may only be exercised at a time when the Shares which may thereby be acquired satisfy the conditions of paragraphs 17 to 22 of Schedule3.
+**********************
+6.2
+**********************
+An Option may be exercised by the personal representatives of a deceased Participant to the extent of the Repayments due under the Sharesave Contract at the date of death:
+**********************
+8
+**********************
+(a)
+**********************
+within twelve months following the date of his death if such death occurs before the Bonus Date;
+**********************
+(b)
+**********************
+within twelve months following the Bonus Date in the event of his death within six months after the Bonus Date.
+**********************
+6.3
+**********************
+An Option may, to the extent of the Repayment due under the Sharesave Contract at the date of cessation, be exercised by a Participant within six months following his ceasing to hold the office or employment by virtue of which he is eligible to participate in the Plan by reason of:
+**********************
+(a)
+**********************
+injury, disability, redundancy within the meaning of the Employment Rights Act 1996, or retirement on reaching the Specified Age or any other age at which he is bound to retire in accordance with the terms of his contract of employment; or
+**********************
+(b)
+**********************
+his office or employment being in a company of which the Company ceases to have Control; or
+**********************
+(c)
+**********************
+the transfer of his contract of employment (which relates to a business or part of a business) to a person who is neither an Associated Company nor a company of which the Company has Control; or
+**********************
+(d)
+**********************
+retirement at any age at which he is entitled to retire in accordance with the terms of his contract of employment (other than at the Specified Age or any age at which he is bound to retire), early retirement with the agreement of the employer, or pregnancy, but in each case only if such cessation of office or employment is more than three years after the Date of Grant.
+**********************
+For the purposes of the Plan, a woman who leaves employment due to pregnancy will be regarded as having left the employment on the day on which she indicates that she does not intend to return to work.
+In the absence of such indication she will be regarded as having left employment on the last day on which she is entitled to return to work under the Employment Rights Act 1996 or, if later, any other date specified in the terms of her employment.
+**********************
+6.4
+**********************
+An Option may, to the extent of the Repayment due under the Sharesave Contract at the date of reaching the Specified Age, be exercised by a Participant within six months following the date he reaches the Specified Age if he continues after that date to hold the office or employment by virtue of which he is eligible to participate in the Plan.
+**********************
+6.5
+**********************
+No person shall be treated for the purposes of Rule6.3 as ceasing to hold an office or employment by virtue of which that person is eligible to participate in the Plan until that person ceases to hold any office or employment in the Company or any Associated Company or any company of which the company has Control.
+**********************
+6.6
+**********************
+If a Participant ceases to be a director or employee of a Participating Company, but on the Bonus Date is an employee or director of an Associated
+**********************
+9
+**********************
+Company or a company of which the Company has Control, he may exercise his Option within six months of that date.
+**********************
+6.7
+**********************
+An Option granted to a Participant shall lapse upon the occurrence of the earliest of the following:
+**********************
+(a)
+**********************
+subject to (b)below, six months after the Bonus Date under the Sharesave Contract entered into in connection with the Option;
+**********************
+(b)
+**********************
+where the Participant dies before the Bonus Date, twelve months after the date of death, and where the Participant dies in the period of six months after the Bonus Date, twelve months after the Bonus Date;
+**********************
+(c)
+**********************
+the expiry of any of the six month periods specified in Rule 6.3 (a)to (d), save that if at the time any of such applicable periods expire, time is running under the twelve month periods specified in Rule6.2, the Option shall not lapse by reason of this Rule6.7 until the expiry of the relevant twelve month period in Rule6.2;
+**********************
+(d)
+**********************
+the expiry of any of the periods specified in Rules7.1 to 7.5, save where an Option is released in consideration of the grant of a New Option over New Shares in the Acquiring Company (during the Appropriate Period) pursuant to Rule7.6;
+**********************
+(e)
+**********************
+the Participant ceasing to hold any office or employment with a Participating Company or any Associated Company howsoever that cessation occurs whether lawful or unlawful for any reason other than those specified in Rule 6.3 or as a result of his death;
+**********************
+(f)
+**********************
+subject to Rule7.5, the passing of an effective resolution, or the making of an order by the court, for the winding-up of the Company;
+**********************
+(g)
+**********************
+the Participant being deprived (otherwise than on death) of the legal or beneficial ownership of the Option by operation of law, or doing anything or omitting to do anything which causes him to be so deprived or become bankrupt; and
+**********************
+(h)
+**********************
+before an Option has become capable of being exercised, the Participant giving notice that he intends to stop paying Monthly Contributions, or being deemed under the terms of the Sharesave Contract to have given such notice by making an application for Repayment of the Monthly Contributions.
+**********************
+7.Take-over, reconstructions and amalgamation, and liquidation
+**********************
+7.1
+**********************
+If any person obtains Control of the Company as a result of making a general offer to acquire Shares which is either unconditional or is made on a condition such that if it is satisfied the person making the offer will have Control of the Company, an Option may be exercised within six months of the time when the person making the offer has obtained Control of the
+**********************
+10
+**********************
+Company and any condition subject to which the offer is made has been satisfied or waived.
+**********************
+7.2
+**********************
+For the purpose of Rule7.1 a person shall be deemed to have obtained Control of the Company if he and others acting in concert with him have together obtained Control of it.
+**********************
+7.3
+**********************
+If any person becomes bound or entitled to acquire Shares under the Companies Acts 1963  2006 of Ireland pursuant to provisions that are accepted by HMRC as being closely comparable to sections 979 to 982 of the UK Companies Act 2006 (or any other legislation which HMRC accepts as equivalent to such sections), an Option may be exercised at any time when that person remains so bound or entitled.
+**********************
+7.4
+**********************
+If, under Companies Acts 1963  2006 of Ireland pursuant to provisions that are accepted by HMRC as being closely comparable to Part26 of the UK Companies Act 2006 (or any other legislation which HMRC accepts as equivalent to such sections), the court sanctions a compromise or arrangement proposed for the purposes of, or in connection with, a Plan for the reconstruction of the Company or its amalgamation with any other company or companies, an Option may be exercised within six months of the court sanctioning the compromise or arrangement.
+**********************
+7.5
+**********************
+If a resolution for the voluntary winding-up of the Company is passed, an Option may be exercised within two months from the date of the passing of the resolution.
+**********************
+7.6
+**********************
+If any company (the Acquiring Company):
+**********************
+(a)
+**********************
+obtains Control of the Company as a result of making:
+**********************
+(i)
+**********************
+a general offer to acquire the whole of the issued ordinary share capital of the Company which is made on a condition such that if it is satisfied the Acquiring Company will have Control of the Company; or
+**********************
+(ii)
+**********************
+a general offer to acquire all the shares in the Company which are of the same class as the Shares which may be acquired by the exercise of Options,
+**********************
+in either case ignoring any Shares which are already owned by it or a member of the same group of companies; or
+**********************
+(b)
+**********************
+obtains Control of the Company in pursuance of a compromise or arrangement sanctioned by the court under the Companies Acts 1963  2006 of Ireland pursuant to provisions that are accepted by HMRC as being closely comparable to Part26 of the UK Companies Act 2006 (or any other legislation which HMRC accepts as equivalent to such sections); or
+**********************
+(c)
+**********************
+becomes bound or entitled to acquire Shares under the Companies Acts 1963  2006 of Ireland pursuant to provisions that are accepted
+**********************
+11
+**********************
+by HMRC as being closely comparable to sections 979 to 982 of the UK Companies Act 2006 (or any other legislation which HMRC accepts as equivalent to such sections),
+**********************
+any Participant may at any time within the Appropriate Period, by agreement with the Acquiring Company, release within a reasonable period of time any Option granted under the Plan which has not lapsed (the Old Option) in consideration of the grant to him of an option (the New Option) which (for the purposes of paragraph 39 of Schedule3) is equivalent to the Old Option but relates to shares in a different company (whether the Acquiring Company itself or some other company falling with in paragraph 18(b) or (c)of Schedule3), the New Option shall for all other purposes of the Scheme be treated as having been acquired at the same time as the Old Option.
+**********************
+Where any New Options are granted pursuant to this Rule, references in these Rules in relation to the New Options shall where appropriate be construed as if reference to the Company and to the Shares were references to the Acquiring Company, or as the case may be, to the other company to whose shares the New Options relate and to shares in that company, but references to Participating Companies shall continue to be construed as if references to the Company were references to Willis Group Holdings Public Limited Company.
+An exchange of Options pursuant to this Rule7 shall not alter the fact that this Plan remains that of Willis Group Holdings Public Limited Company as the original scheme organiser.
+**********************
+7.7
+**********************
+The New Option shall not be regarded for the purposes of Rule7.6 as equivalent to the Old Option unless the conditions set out in paragraph 39 of Schedule3 are satisfied, but so that the provisions of the Plan shall be construed as if:
+**********************
+(a)
+**********************
+the New Option were granted under the Plan at the same time as the Old Option;
+**********************
+(b)
+**********************
+Rule12.1 were omitted.
+**********************
+7.8
+**********************
+Notwithstanding Rules7.1, 7.3 and 7.4 above, if an Acquiring Company has obtained Control of the Company or has become entitled and bound as mentioned in Rules 7.3 and/or 7.4 and:
+**********************
+(a)
+**********************
+the shareholders of the Acquiring Company immediately after it has obtained Control are substantially the same as the shareholders of the Company immediately before the Acquiring Company obtained control, then the obtaining of Control amounts to a merger with the Company; and
+**********************
+(b)
+**********************
+the Acquiring Company consents to an exchange of Options under this Rule7.8,
+**********************
+all Options are exchanged during the period set out in paragraph 38(3) of Schedule3 and the provisions of Rule7.6 above shall apply.
+No Options are exercisable if this Rule applies.
+**********************
+12
+**********************
+7.9
+**********************
+Where, in accordance with Rules7.6 and/or 7.8, Old Options are released and New Options are granted, the New Options shall not be exercisable in accordance with Rules7.1, 7.3 and 7.4 by virtue of the event by reason of which the New Options were granted.
+**********************
+7.10
+**********************
+The exercise of an Option pursuant to the preceding provisions of this Rule7 shall be subject to the provisions of Rule8 below.
+**********************
+8.Manner of exercise
+**********************
+8.1
+**********************
+An Option may only be exercised during the periods specified in Rules6 and 7, and only with monies not exceeding the amount of the Repayment under the Sharesave Contract entered into in connection therewith as at the date of such exercise.
+For this purpose, no account shall be taken of such part (if any) of the Repayment of any Monthly Contribution, the due date for the payment of which under the Sharesave Contract arises after the date of the Repayment.
+**********************
+8.2
+**********************
+Exercise shall be by the delivery to the Secretary of the Company or its duly appointed agent, of an option certificate covering the Shares over which the Option is to be exercised, with the notice of exercise in the prescribed form duly completed and signed by the Participant (or by his duly authorised agent or personal representative) together with any remittance for the Exercise Price payable, or authority to the Company to withdraw and apply monies equal to the Exercise Price payable, or authority to the Company to withdraw and apply monies from the Sharesave Contract equal to the Exercise Price to acquire the Shares over which the Option is to be exercised.
+The effective date of exercise shall be the date of delivery of the notice of exercise.
+**********************
+8.3
+**********************
+If the Company or a Participating Company is obliged to account for any Tax Liability for which the Participant in question is liable in respect of the Option and neither the Company or any other Participating Company is able to withhold the appropriate amount from that Participants remuneration, or alternatively, if the Company has not received a payment from the Participant in satisfaction of the whole Tax Liability then the Company shall be entitled to discharge such Tax Liability as has not been so satisfied by selling, with the consent in writing of the Participant, such number of Shares in respect of which the Option has been validly exercised as are required to satisfy the remaining Tax Liability and transfer the balance of the Shares to the Participant.
+**********************
+8.4
+**********************
+All payments made on the exercise of an option granted under this Plan shall be paid to the Company as agent for the Trustee PROVIDED THAT if at any time of exercise the Board and the Trustee agree or have so agreed then such payments shall be made to the Company as principal.
+**********************
+13
+**********************
+9.Issue or transfer of Shares
+**********************
+9.1
+**********************
+Shares to be issued pursuant to the exercise of an Option shall be allotted within 28days following the effective date of exercise of the Option.
+**********************
+9.2
+**********************
+The Board shall procure the transfer of Shares to be transferred pursuant to the exercise of an Option within 28days following the effective date of exercise of the Option.
+**********************
+9.3
+**********************
+Shares to be issued pursuant to the Plan will rank pari passu in all respects with the Shares then in issue, except that they will not rank for any rights attaching to shares by reference to a record date preceding the date of exercise.
+**********************
+9.4
+**********************
+Shares to be transferred pursuant to the Plan will be transferred free of all liens, charges and encumbrances and together with all rights attaching thereto, except they will not rank for any rights attaching to Shares by reference to a record date preceding the date of exercise.
+**********************
+10.Adjustments
+**********************
+10.1
+**********************
+The number of Shares over which an Option is granted and the Option Price thereof shall be adjusted in such manner as the Board shall determine following any capitalisation issue, rights issue, subdivision, consolidation or reduction of share capital of the Company or any other variation of share capital to the intent that (as nearly as may be without involving fractions of a Share or an Option Price calculated to more than two decimal places) the Exercise Price payable in respect of an Option shall not be either materially changed nor increased beyond the expected Repayment under the Sharesave Contract at the appropriate Bonus Date, provided that:
+**********************
+(a)
+**********************
+no adjustment made pursuant to this Rule10.1 shall be made without the prior approval of HMRC so long as the approval of the Plan is to be maintained);
+**********************
+(b)
+**********************
+the Option Price for a Share is not reduced below its nominal value; and
+**********************
+(c)
+**********************
+following the adjustment the Shares continue to satisfy the conditions specified in paragraphs 17 to 22 of Schedule3.
+**********************
+10.2
+**********************
+The Board may take such steps as it may consider necessary to notify Participants of any adjustments made under this Rule10 and to call in, cancel, endorse, issue or reissue an Option certificate consequent upon such adjustment.
+**********************
+14
+**********************
+11.Administration
+**********************
+11.1
+**********************
+Any notice or other communication made under, or in connection with, the Plan may be given by personal delivery, by electronic means or by post, in the case of a company to its registered office and in the case of an individual to his last known address, or, where he is a director or employee of the Company or an Associated Company, either to his last known postal or electronic address or to the address of the place of business at which he performs the whole or substantially the whole of the duties of his office or employment.
+Where a notice or other communication is given by first-class post, it shall be deemed to have been received 48 hours after it was put into the post properly addressed and stamped.
+Where a notice or other communication is sent electronically, it shall be deemed to have been received 24 hours after being sent.
+**********************
+11.2
+**********************
+The Company may distribute to Participants copies of any notice or document normally sent by the Company to the holders of Shares.
+**********************
+11.3
+**********************
+If any option certificate shall be worn out, defaced or lost, it may be replaced on such evidence being provided as the Board may require.
+**********************
+11.4
+**********************
+The Company shall at all times procure that sufficient Shares are available for transfer to satisfy all Options under which Shares may be acquired.
+**********************
+11.5
+**********************
+The decision of the Board in any dispute relating to an Option or the due exercise thereof or any other matter in respect of the Plan shall be final and conclusive.
+**********************
+11.6
+**********************
+The costs of introducing and administering the Plan shall be borne by the Company.
+**********************
+12.Alterations
+**********************
+12.1
+**********************
+Subject to the provisions of this Rule12, the Board may at any time alter or add to all or any of the provisions of the Plan in any respect except that, if the approved status of the Plan is to be maintained, no such alteration or addition to a Key Feature shall take effect until approved by HMRC.
+**********************
+12.2
+**********************
+No alteration or addition shall be made under Rule12.1 which would abrogate or adversely affect the subsisting rights of a Participant, unless it is made:
+**********************
+(i)
+**********************
+with the consent in writing of such number of Participants as hold Options to acquire not less than 75 per cent of the Shares which would be issued or transferred if all Options granted and subsisting were exercised in respect of the maximum number of Shares the subject thereof; or
+**********************
+15
+**********************
+(ii)
+**********************
+by a resolution at a meeting of Participants passed by not less than 75 per cent of the Participants who attend and vote either in person or by proxy,
+**********************
+and for the purposes of this Rule12.4 the Participants shall be treated as the holders of a separate class of share capital and the provisions of the Constitution of the Company relating to class meetings shall apply mutatis mutandis.
+**********************
+12.3
+**********************
+Rule12.2 shall not apply to any alteration or addition which:
+**********************
+(i)
+**********************
+is necessary or desirable in order to obtain or maintain HMRC approval of the Plan under Schedule3 or any other enactment, or to comply with or take account of the provisions of any proposed or existing legislation or law, to take advantage of any changes to the legislation or law, to take account of any of the events mentioned in Rule10, or to obtain or maintain favourable taxation treatment of the Company, any Participating Company or any Participant; and
+**********************
+(ii)
+**********************
+does not affect a Key Feature.
+**********************
+13.General
+**********************
+13.1
+**********************
+The Plan shall terminate upon the tenth anniversary of its original adoption by the Board.
+Termination of the Plan shall be without prejudice to the subsisting rights of Participants.
+**********************
+13.2
+**********************
+The Company and any Subsidiary of the Company may provide money to the trustees of any trust or any other person to enable them or him to acquire Shares to be held for the purposes of the Plan, or enter into any guarantee or indemnity for these purposes.
+**********************
+13.3
+**********************
+The rights and obligations of any individual under the terms of his office or employment with the Company, a Participating Company, a Subsidiary of the Company, or an Associated Company shall not be affected by his participation in the Plan or any right which he may have to participate therein, and an individual who participates therein shall waive all and any rights to compensation or damages in consequence of the termination of his office or employment with any such company for any reason whatsoever, howsoever that termination occurs, whether lawful or unlawful, insofar as those rights arise, or may arise, from his ceasing to have rights under or be entitled to exercise any Option under the Plan as a result of such termination, or from the loss or diminution in value of such rights or entitlements.
+**********************
+13.4
+**********************
+Notwithstanding any other provision of the Plan the Board may amend or add to the provisions of the Plan and the terms of Options as they consider necessary or desirable to take account of or to mitigate or to comply with relevant overseas taxation, securities or exchange control laws provided that the terms of Options granted under this Plan to such overseas Eligible
+**********************
+16
+**********************
+Employees are not more favourable than the terms of Options granted to other Eligible Employees.
+**********************
+13.5
+**********************
+These Rules shall be governed by and construed in accordance with English law.
+**********************
+17
+**********************
+Exhibit 10.13
+**********************
+RULES OF THE
+**********************
+WILLIS GROUP HOLDINGS
+**********************
+SHARESAVE PLAN 2001 FOR THE UNITED KINGDOM
+**********************
+AS AMENDED AND RESTATED ON DECEMBER 30, 2009 BY WILLIS GROUP HOLDINGS LIMITED AND AS AMENDED AND RESTATED AND ASSUMED BY WILLIS GROUP HOLDINGS PUBLIC LIMITED COMPANY ON DECEMBER 31, 2009
+**********************
+A SUB-PLAN TO THE WILLIS GROUP HOLDINGS 2001 SHARE PURCHASE AND OPTION PLAN AS AMENDED AND RESTATED ON DECEMBER 30, 2009 BY WILLIS GROUP HOLDINGS LIMITED AND AS AMENDED AND RESTATED AND ASSUMED BY WILLIS GROUP HOLDINGS PUBLIC LIMITED COMPANY ON DECEMBER 31, 2009
+**********************
+HMRC Ref: [SRS2633/RF]
+**********************
+Exhibit 10.13
+**********************
+RULES OF THE
+**********************
+WILLIS GROUP HOLDINGS
+**********************
+SHARESAVE PLAN 2001 FOR THE UNITED KINGDOM
+**********************
+AS AMENDED AND RESTATED ON DECEMBER 30, 2009 BY WILLIS GROUP HOLDINGS LIMITED AND AS AMENDED AND RESTATED AND ASSUMED BY WILLIS GROUP HOLDINGS PUBLIC LIMITED COMPANY ON DECEMBER 31, 2009
+**********************
+A SUB-PLAN TO THE WILLIS GROUP HOLDINGS 2001 SHARE PURCHASE AND OPTION PLAN AS AMENDED AND RESTATED ON DECEMBER 30, 2009 BY WILLIS GROUP HOLDINGS LIMITED AND AS AMENDED AND RESTATED AND ASSUMED BY WILLIS GROUP HOLDINGS PUBLIC LIMITED COMPANY ON DECEMBER 31, 2009
+**********************
+HMRC Ref: [SRS2633/RF]
+**********************
+CONTENTS
+**********************
+1.
+**********************
+DEFINITIONS
+**********************
+1
+**********************
+2.
+**********************
+APPLICATION FOR OPTIONS
+**********************
+5
+**********************
+3.
+**********************
+SCALING DOWN
+**********************
+6
+**********************
+4.
+**********************
+GRANT OF OPTIONS
+**********************
+7
+**********************
+5.
+**********************
+NUMBER OF SHARES IN RESPECT OF WHICH OPTIONS MAY BE GRANTED
+**********************
+8
+**********************
+6.
+**********************
+RIGHTS OF EXERCISE AND LAPSE OF OPTIONS
+**********************
+8
+**********************
+7.
+**********************
+TAKE-OVER, RECONSTRUCTIONS AND AMALGAMATION, AND LIQUIDATION
+**********************
+10
+**********************
+8.
+**********************
+MANNER OF EXERCISE
+**********************
+13
+**********************
+9.
+**********************
+ISSUE OR TRANSFER OF SHARES
+**********************
+14
+**********************
+10.
+**********************
+ADJUSTMENTS
+**********************
+14
+**********************
+11.
+**********************
+ADMINISTRATION
+**********************
+15
+**********************
+12.
+**********************
+ALTERATIONS
+**********************
+15
+**********************
+13.
+**********************
+GENERAL
+**********************
+16
+**********************
+CONTENTS
+**********************
+1.
+**********************
+DEFINITIONS
+**********************
+1
+**********************
+2.
+**********************
+APPLICATION FOR OPTIONS
+**********************
+5
+**********************
+3.
+**********************
+SCALING DOWN
+**********************
+6
+**********************
+4.
+**********************
+GRANT OF OPTIONS
+**********************
+7
+**********************
+5.
+**********************
+NUMBER OF SHARES IN RESPECT OF WHICH OPTIONS MAY BE GRANTED
+**********************
+8
+**********************
+6.
+**********************
+RIGHTS OF EXERCISE AND LAPSE OF OPTIONS
+**********************
+8
+**********************
+7.
+**********************
+TAKE-OVER, RECONSTRUCTIONS AND AMALGAMATION, AND LIQUIDATION
+**********************
+10
+**********************
+8.
+**********************
+MANNER OF EXERCISE
+**********************
+13
+**********************
+9.
+**********************
+ISSUE OR TRANSFER OF SHARES
+**********************
+14
+**********************
+10.
+**********************
+ADJUSTMENTS
+**********************
+14
+**********************
+11.
+**********************
+ADMINISTRATION
+**********************
+15
+**********************
+12.
+**********************
+ALTERATIONS
+**********************
+15
+**********************
+13.
+**********************
+GENERAL
+**********************
+16
+**********************
+1.
+**********************
+2.
+**********************
+3.
+**********************
+4.
+**********************
+5.
+**********************
+6.
+**********************
+7.
+**********************
+8.
+**********************
+9.
+**********************
+10.
+**********************
+11.
+**********************
+12.
+**********************
+13.
+**********************
+Rules of the Willis Group Holdings Sharesave Plan 2001
+**********************
+1.
+Definitions
+**********************
+1.1
+**********************
+In this Plan, the following words and expressions shall bear, unless the context otherwise requires, the meanings set out below:
+**********************
+Appropriate Period
+**********************
+the meaning given by paragraph 38(3) of Schedule3;
+**********************
+Associated Company
+**********************
+the meaning given in paragraph 47 of Schedule 3 by virtue of section 187(2) of the Income and Corporation Taxes Act 1988;
+**********************
+the Board
+**********************
+the board of directors of the Company, or a duly authorised committee of the board;
+**********************
+Bonus Date
+**********************
+the date on which the bonus becomes payable under the Sharesave Contract made in connection with an Option being, in the case of a 3year contract, the date of completion of 36monthly contributions, in the case of a 5year contract, the date of completion of 60 monthly contributions and, in the case of a 7 year contract, the second anniversary of the date of completion of 60monthly contributions;
+**********************
+Business Day
+**********************
+a day on which the New York Stock Exchange is open for business;
+**********************
+Close Company
+**********************
+a close company as defined in Section989 of the Income Tax Act 2007 as varied by paragraph 11(4) of Schedule3;
+**********************
+the Company
+**********************
+Willis Group Holdings Public Limited Company, a company incorporated in Ireland under registered number 475616;
+**********************
+Constitution
+**********************
+the constitutional documents of the Company consisting of the Memorandum and Articles of Association from time to time;
+**********************
+Control
+**********************
+the meaning given by section 719 of ITEPA 2003;
+**********************
+Date of Grant
+**********************
+the date on which the Board resolves to grant an Option;
+**********************
+1
+**********************
+Rules of the Willis Group Holdings Sharesave Plan 2001
+**********************
+1.
+Definitions
+**********************
+1.1
+**********************
+In this Plan, the following words and expressions shall bear, unless the context otherwise requires, the meanings set out below:
+**********************
+Appropriate Period
+**********************
+the meaning given by paragraph 38(3) of Schedule3;
+**********************
+Associated Company
+**********************
+the meaning given in paragraph 47 of Schedule 3 by virtue of section 187(2) of the Income and Corporation Taxes Act 1988;
+**********************
+the Board
+**********************
+the board of directors of the Company, or a duly authorised committee of the board;
+**********************
+Bonus Date
+**********************
+the date on which the bonus becomes payable under the Sharesave Contract made in connection with an Option being, in the case of a 3year contract, the date of completion of 36monthly contributions, in the case of a 5year contract, the date of completion of 60 monthly contributions and, in the case of a 7 year contract, the second anniversary of the date of completion of 60monthly contributions;
+**********************
+Business Day
+**********************
+a day on which the New York Stock Exchange is open for business;
+**********************
+Close Company
+**********************
+a close company as defined in Section989 of the Income Tax Act 2007 as varied by paragraph 11(4) of Schedule3;
+**********************
+the Company
+**********************
+Willis Group Holdings Public Limited Company, a company incorporated in Ireland under registered number 475616;
+**********************
+Constitution
+**********************
+the constitutional documents of the Company consisting of the Memorandum and Articles of Association from time to time;
+**********************
+Control
+**********************
+the meaning given by section 719 of ITEPA 2003;
+**********************
+Date of Grant
+**********************
+the date on which the Board resolves to grant an Option;
+**********************
+Appropriate Period
+**********************
+Associated Company
+**********************
+the Board
+**********************
+Bonus Date
+**********************
+Business Day
+**********************
+Close Company
+**********************
+the Company
+**********************
+Constitution
+**********************
+Control
+**********************
+Date of Grant
+**********************
+Date of Invitation
+**********************
+the date on which the Board issues applications to Eligible Employees for Options;
+**********************
+Eligible Employee
+**********************
+any individual who:
+**********************
+(a)
+**********************
+(i)
+**********************
+is a full time director who works at least 25 hours a week (excluding meal breaks) or is an employee of one or more Participating Companies; and
+**********************
+(ii)
+**********************
+has such qualifying period of continuous service (being a period commencing not earlier than five years prior to the Date of Grant) as the Board may determine from time to time; and
+**********************
+(iii)
+**********************
+is subject to income tax under section 15 of ITEPA; or
+**********************
+(b)
+**********************
+is a full time director who works at least 25 hours a week (excluding meal breaks) or an employee and is nominated by the Board either individually or as a member of a category of such full time directors or employees;
+**********************
+Exercise Price
+**********************
+the amount payable in relation to the exercise of an Option, whether in whole or in part, being an amount equal to the relevant Option Price multiplied by the number of Shares in respect of which the Option is exercised;
+**********************
+HMRC
+**********************
+Her Majestys Revenue and Customs;
+**********************
+ITEPA 2003
+**********************
+Income Tax (Earnings and Pensions) Act 2003;
+**********************
+Key Feature
+**********************
+a provision of the Plan which is necessary in order to meet the requirements of Schedule3;
+**********************
+2
+**********************
+Date of Invitation
+**********************
+the date on which the Board issues applications to Eligible Employees for Options;
+**********************
+Eligible Employee
+**********************
+any individual who:
+**********************
+Date of Invitation
+**********************
+Eligible Employee
+**********************
+(a)
+**********************
+(i)
+**********************
+is a full time director who works at least 25 hours a week (excluding meal breaks) or is an employee of one or more Participating Companies; and
+**********************
+(ii)
+**********************
+has such qualifying period of continuous service (being a period commencing not earlier than five years prior to the Date of Grant) as the Board may determine from time to time; and
+**********************
+(iii)
+**********************
+is subject to income tax under section 15 of ITEPA; or
+**********************
+(b)
+**********************
+is a full time director who works at least 25 hours a week (excluding meal breaks) or an employee and is nominated by the Board either individually or as a member of a category of such full time directors or employees;
+**********************
+Exercise Price
+**********************
+the amount payable in relation to the exercise of an Option, whether in whole or in part, being an amount equal to the relevant Option Price multiplied by the number of Shares in respect of which the Option is exercised;
+**********************
+HMRC
+**********************
+Her Majestys Revenue and Customs;
+**********************
+ITEPA 2003
+**********************
+Income Tax (Earnings and Pensions) Act 2003;
+**********************
+Key Feature
+**********************
+a provision of the Plan which is necessary in order to meet the requirements of Schedule3;
+**********************
+Exercise Price
+**********************
+HMRC
+**********************
+ITEPA 2003
+**********************
+Key Feature
+**********************
+Market Value
+**********************
+in relation to a Share:
+**********************
+(a)
+**********************
+if and for so long as Shares are listed upon the New York Stock Exchange the closing price of the Shares as quoted in the Wall Street Journal on the Business Day relevant date immediately preceding the Date of Invitation;
+**********************
+(b)
+**********************
+and where (a)does not apply its market value as determined in accordance with Part VIII of the Taxation of Chargeable Gains Act 1992 and agreed in advance with the Shares Valuation Division of HMRC;
+**********************
+Material Interest
+**********************
+the meaning given by paragraphs 11 to 16 of Schedule3;
+**********************
+Maximum Contribution
+**********************
+the lesser of:
+**********************
+(a)
+**********************
+such maximum monthly contribution as may be permitted pursuant to paragraph 25(3) of Schedule3; or
+**********************
+(b)
+**********************
+such maximum monthly contribution as may be determined from time to time by the Board;
+**********************
+Member of a Consortium
+**********************
+the meaning given by paragraph 48(2) of Schedule3;
+**********************
+Monthly Contributions
+**********************
+monthly contributions agreed to be paid by a Participant under the Sharesave Contract made in connection with his Option;
+**********************
+Option
+**********************
+a right to acquire Shares under the Plan which is either subsisting or (where the context so admits or requires) is proposed to be granted;
+**********************
+Option Price
+**********************
+the price per Share, as determined by the Board, at which an Eligible Employee may acquire Shares upon the exercise of an Option being a price not less than:
+**********************
+(a)
+**********************
+80 per cent of the Market Value of the Shares on the Business Day immediately preceding the relevant date; and
+**********************
+(b)
+**********************
+if the Shares are to be subscribed, their nominal value,
+**********************
+but subject to any adjustment pursuant to Rule 10;
+**********************
+3
+**********************
+Market Value
+**********************
+in relation to a Share:
+**********************
+Market Value
+**********************
+(a)
+**********************
+if and for so long as Shares are listed upon the New York Stock Exchange the closing price of the Shares as quoted in the Wall Street Journal on the Business Day relevant date immediately preceding the Date of Invitation;
+**********************
+(b)
+**********************
+and where (a)does not apply its market value as determined in accordance with Part VIII of the Taxation of Chargeable Gains Act 1992 and agreed in advance with the Shares Valuation Division of HMRC;
+**********************
+Material Interest
+**********************
+the meaning given by paragraphs 11 to 16 of Schedule3;
+**********************
+Maximum Contribution
+**********************
+the lesser of:
+**********************
+Material Interest
+**********************
+Maximum Contribution
+**********************
+(a)
+**********************
+such maximum monthly contribution as may be permitted pursuant to paragraph 25(3) of Schedule3; or
+**********************
+(b)
+**********************
+such maximum monthly contribution as may be determined from time to time by the Board;
+**********************
+Member of a Consortium
+**********************
+the meaning given by paragraph 48(2) of Schedule3;
+**********************
+Monthly Contributions
+**********************
+monthly contributions agreed to be paid by a Participant under the Sharesave Contract made in connection with his Option;
+**********************
+Option
+**********************
+a right to acquire Shares under the Plan which is either subsisting or (where the context so admits or requires) is proposed to be granted;
+**********************
+Option Price
+**********************
+the price per Share, as determined by the Board, at which an Eligible Employee may acquire Shares upon the exercise of an Option being a price not less than:
+**********************
+Member of a Consortium
+**********************
+Monthly Contributions
+**********************
+Option
+**********************
+Option Price
+**********************
+(a)
+**********************
+80 per cent of the Market Value of the Shares on the Business Day immediately preceding the relevant date; and
+**********************
+(b)
+**********************
+if the Shares are to be subscribed, their nominal value,
+**********************
+but subject to any adjustment pursuant to Rule 10;
+**********************
+Ordinary Shares
+**********************
+the ordinary shares of the Company, nominal value US$0.000115;
+**********************
+Participant
+**********************
+a full time director or employee, or former director or employee, to whom an Option has been granted or (where the context so admits or requires) the personal representatives of any such person;
+**********************
+Participating Company
+**********************
+(a)
+**********************
+the Company; and
+**********************
+(b)
+**********************
+any other company which at the Date of Grant is under the Control of the Company and is for the time being designated by the Board as a Participating Company;
+**********************
+Rate of Exchange
+**********************
+the closing mid-point spot rate of sterling against the US dollar as quoted in the Financial Times for the Business Day in relation to which the Market Value is set;
+**********************
+Repayment
+**********************
+in relation to a Sharesave Contract, the aggregate of the Monthly Contributions which the Participant has made and any bonus due at the Bonus Date;
+**********************
+Schedule3
+**********************
+Schedule3 of ITEPA 2003;
+**********************
+Sharesave Contract
+**********************
+a contract under a certified contractual savings Plan (within the meaning of section 703 of the Income Tax (Trading and Other Income) Act 2005) approved by HMRC for the purposes of Schedule3;
+**********************
+the Plan
+**********************
+the Willis Group Holdings Sharesave Plan 2001 for the United Kingdom, as amended and restated on December 30, 2009 by Willis Group Holdings Limited and as amended and restated and assumed by Willis Group Holdings Public Limited Company on December 31, 2009, a sub-plan to the Willis Group Holdings 2001 Share Purchase and Option Plan, as amended and restated on December30, 2009 by Willis Group Holdings Limited and as amended and restated and assumed by Willis Group Holdings Public Limited Company on December31, 2009;
+**********************
+Share
+**********************
+An Ordinary Share of Willis Group Holdings Public Limited Company which satisfies the conditions specified in paragraphs 17 to 22 (inclusive)of Schedule3 at the Date of Grant and date of exercise;
+**********************
+Specified Age
+**********************
+65years of age;
+**********************
+4
+**********************
+Ordinary Shares
+**********************
+the ordinary shares of the Company, nominal value US$0.000115;
+**********************
+Participant
+**********************
+a full time director or employee, or former director or employee, to whom an Option has been granted or (where the context so admits or requires) the personal representatives of any such person;
+**********************
+Ordinary Shares
+**********************
+Participant
+**********************
+Participating Company
+**********************
+(a)
+**********************
+the Company; and
+**********************
+(b)
+**********************
+any other company which at the Date of Grant is under the Control of the Company and is for the time being designated by the Board as a Participating Company;
+**********************
+Participating Company
+**********************
+Rate of Exchange
+**********************
+the closing mid-point spot rate of sterling against the US dollar as quoted in the Financial Times for the Business Day in relation to which the Market Value is set;
+**********************
+Repayment
+**********************
+in relation to a Sharesave Contract, the aggregate of the Monthly Contributions which the Participant has made and any bonus due at the Bonus Date;
+**********************
+Schedule3
+**********************
+Schedule3 of ITEPA 2003;
+**********************
+Sharesave Contract
+**********************
+a contract under a certified contractual savings Plan (within the meaning of section 703 of the Income Tax (Trading and Other Income) Act 2005) approved by HMRC for the purposes of Schedule3;
+**********************
+the Plan
+**********************
+the Willis Group Holdings Sharesave Plan 2001 for the United Kingdom, as amended and restated on December 30, 2009 by Willis Group Holdings Limited and as amended and restated and assumed by Willis Group Holdings Public Limited Company on December 31, 2009, a sub-plan to the Willis Group Holdings 2001 Share Purchase and Option Plan, as amended and restated on December30, 2009 by Willis Group Holdings Limited and as amended and restated and assumed by Willis Group Holdings Public Limited Company on December31, 2009;
+**********************
+Share
+**********************
+An Ordinary Share of Willis Group Holdings Public Limited Company which satisfies the conditions specified in paragraphs 17 to 22 (inclusive)of Schedule3 at the Date of Grant and date of exercise;
+**********************
+Specified Age
+**********************
+65years of age;
+**********************
+Rate of Exchange
+**********************
+Repayment
+**********************
+Schedule3
+**********************
+Sharesave Contract
+**********************
+the Plan
+**********************
+Share
+**********************
+Specified Age
+**********************
+Subsidiary
+**********************
+the meaning given by sections 1159 and Schedule6 of the Companies Act 2006;
+**********************
+Tax Liability
+**********************
+A Participants liability to account for any tax, primary national insurance, employees social security or similar levies in respect of the exercise of the Option, where the Participants employer or former employer is liable to make a payment to the appropriate authorities on account of that liability including for the avoidance of doubt any liability arising after the termination of the Participants employment and which may arise or be incurred in any jurisdiction whatsoever
+**********************
+Trustee
+**********************
+The trustee or trustees for the time being of the Trinity Employees Share Ownership Plan Trust.
+**********************
+1.2
+**********************
+In the Plan where the context so admits or requires the singular includes the plural and the masculine includes the feminine and vice versa; references to any statutory provisions shall include any modification or re-enactment.
+**********************
+1.3
+**********************
+Headings shall be ignored in construing these Rules.
+**********************
+2.
+Application for Options
+**********************
+2.1
+**********************
+The Board may invite applications for Options from Eligible Employees on broadly similar terms at any time.
+**********************
+2.2
+**********************
+Any invitation to apply for Options shall be in writing and shall include details of:
+**********************
+(a)
+**********************
+eligibility;
+**********************
+(b)
+**********************
+the sterling Option Price or the mechanism by which the sterling Option Price will be notified to Eligible Employees (which, for the avoidance of doubt, may be different in respect of 3, 5 and/or 7year Sharesave Contracts);
+**********************
+(c)
+**********************
+the Maximum Contribution payable;
+**********************
+(d)
+**********************
+whether the Eligible Employees may elect for a 3, 5 or 7year Sharesave Contract;
+**********************
+(e)
+**********************
+any restriction on the amount of bonus payable under the Sharesave Contract which may be used in the exercise of the Option;
+**********************
+(f)
+**********************
+the date by which applications made pursuant to Rule2.3 must be received (being neither earlier than 14days nor later than 25days after the Date of Invitation),
+**********************
+5
+**********************
+Subsidiary
+**********************
+the meaning given by sections 1159 and Schedule6 of the Companies Act 2006;
+**********************
+Tax Liability
+**********************
+A Participants liability to account for any tax, primary national insurance, employees social security or similar levies in respect of the exercise of the Option, where the Participants employer or former employer is liable to make a payment to the appropriate authorities on account of that liability including for the avoidance of doubt any liability arising after the termination of the Participants employment and which may arise or be incurred in any jurisdiction whatsoever
+**********************
+Trustee
+**********************
+The trustee or trustees for the time being of the Trinity Employees Share Ownership Plan Trust.
+**********************
+Subsidiary
+**********************
+Tax Liability
+**********************
+Trustee
+**********************
+1.2
+**********************
+In the Plan where the context so admits or requires the singular includes the plural and the masculine includes the feminine and vice versa; references to any statutory provisions shall include any modification or re-enactment.
+**********************
+1.3
+**********************
+Headings shall be ignored in construing these Rules.
+**********************
+2.
+Application for Options
+**********************
+2.1
+**********************
+The Board may invite applications for Options from Eligible Employees on broadly similar terms at any time.
+**********************
+2.2
+**********************
+Any invitation to apply for Options shall be in writing and shall include details of:
+**********************
+(a)
+**********************
+eligibility;
+**********************
+(b)
+**********************
+the sterling Option Price or the mechanism by which the sterling Option Price will be notified to Eligible Employees (which, for the avoidance of doubt, may be different in respect of 3, 5 and/or 7year Sharesave Contracts);
+**********************
+(c)
+**********************
+the Maximum Contribution payable;
+**********************
+(d)
+**********************
+whether the Eligible Employees may elect for a 3, 5 or 7year Sharesave Contract;
+**********************
+(e)
+**********************
+any restriction on the amount of bonus payable under the Sharesave Contract which may be used in the exercise of the Option;
+**********************
+(f)
+**********************
+the date by which applications made pursuant to Rule2.3 must be received (being neither earlier than 14days nor later than 25days after the Date of Invitation),
+**********************
+and the Board may determine and include in the invitations details of the maximum number of Shares over which applications for Options are to be invited.
+**********************
+2.3
+**********************
+Applications for Options must incorporate or be accompanied by a proposal for a Sharesave Contract.
+If application is made for more than one Option, each Option must incorporate or be accompanied by a proposal for a Sharesave Contract.
+**********************
+2.4
+**********************
+An application for an Option shall be in writing in such form as the Board may from time to time prescribe save that it shall provide for the applicant to state:
+**********************
+(a)
+**********************
+the Monthly Contributions (being a multiple of 1 and not less than 5) which he wishes to make under the Sharesave Contract to be made in connection with the Option for which application is made;
+**********************
+(b)
+**********************
+that his proposed Monthly Contributions (when taken together with any monthly contributions he makes under any other Sharesave Contract) will not exceed the Maximum Contribution;
+**********************
+(c)
+**********************
+if Eligible Employees may elect for a 3, 5 or 7year Sharesave Contract, his election in that respect.
+**********************
+2.5
+**********************
+Each application for an Option shall provide that, in the event of excess applications, each application shall be deemed to have been modified or withdrawn in accordance with the steps taken by the Board to scale down applications pursuant to Rule3.
+**********************
+2.6
+**********************
+Proposals for a Sharesave Contract shall be limited to such building society or bank as the Board may designate.
+**********************
+2.7
+**********************
+Each application shall be deemed to be for a specified number of whole Options over the number of Shares which will be acquired at the sterling Option Price with the Repayment under the Sharesave Contract entered into in connection with the Option.
+**********************
+3.
+Scaling Down
+**********************
+3.1
+**********************
+If valid applications are received for a total number of Shares in excess of any maximum number of Shares determined by the Board pursuant to Rule2.2, or any limitation under Rule5, the Board shall scale down applications by taking, at its absolute discretion, any one or more of the following steps until the number of Shares available equals or exceeds such total number of Shares applied for:
+**********************
+(a)
+**********************
+by treating any elections for the maximum bonus (being that bonus receivable if savings are made under a 7year contract) as elections for the standard bonus (being that bonus receivable if savings are made under a 5 year contract) and then, so far as necessary, by reducing the proposed Monthly Contributions pro-rata to the excess over such
+**********************
+6
+**********************
+and the Board may determine and include in the invitations details of the maximum number of Shares over which applications for Options are to be invited.
+**********************
+2.3
+**********************
+Applications for Options must incorporate or be accompanied by a proposal for a Sharesave Contract.
+If application is made for more than one Option, each Option must incorporate or be accompanied by a proposal for a Sharesave Contract.
+**********************
+2.4
+**********************
+An application for an Option shall be in writing in such form as the Board may from time to time prescribe save that it shall provide for the applicant to state:
+**********************
+(a)
+**********************
+the Monthly Contributions (being a multiple of 1 and not less than 5) which he wishes to make under the Sharesave Contract to be made in connection with the Option for which application is made;
+**********************
+(b)
+**********************
+that his proposed Monthly Contributions (when taken together with any monthly contributions he makes under any other Sharesave Contract) will not exceed the Maximum Contribution;
+**********************
+(c)
+**********************
+if Eligible Employees may elect for a 3, 5 or 7year Sharesave Contract, his election in that respect.
+**********************
+2.5
+**********************
+Each application for an Option shall provide that, in the event of excess applications, each application shall be deemed to have been modified or withdrawn in accordance with the steps taken by the Board to scale down applications pursuant to Rule3.
+**********************
+2.6
+**********************
+Proposals for a Sharesave Contract shall be limited to such building society or bank as the Board may designate.
+**********************
+2.7
+**********************
+Each application shall be deemed to be for a specified number of whole Options over the number of Shares which will be acquired at the sterling Option Price with the Repayment under the Sharesave Contract entered into in connection with the Option.
+**********************
+3.
+Scaling Down
+**********************
+3.1
+**********************
+If valid applications are received for a total number of Shares in excess of any maximum number of Shares determined by the Board pursuant to Rule2.2, or any limitation under Rule5, the Board shall scale down applications by taking, at its absolute discretion, any one or more of the following steps until the number of Shares available equals or exceeds such total number of Shares applied for:
+**********************
+(a)
+**********************
+by treating any elections for the maximum bonus (being that bonus receivable if savings are made under a 7year contract) as elections for the standard bonus (being that bonus receivable if savings are made under a 5 year contract) and then, so far as necessary, by reducing the proposed Monthly Contributions pro-rata to the excess over such
+**********************
+amount as the Board shall determine for this purpose being not less than 5 and then, so far as necessary; or
+**********************
+(b)
+**********************
+by treating each election for a bonus as an election for no bonus and then, so far as necessary, by reducing the proposed Monthly Contributions pro rata to the excess over such amount as the Board shall determine for this purpose being not less than 5 and then, so far as necessary; or
+**********************
+(c)
+**********************
+by reducing the proposed Monthly Contributions pro rata to the excess over such amount as the Board shall determine for this purpose being not less than 5 and then, so far as necessary.
+**********************
+3.2
+**********************
+If the number of Shares available is insufficient to enable an Option based on Monthly Contributions of 5 a month to be granted to each Eligible Employee making a valid application, the Board may, as an alternative to selecting by lot, determine in its absolute discretion that no Options shall be granted.
+**********************
+3.3
+**********************
+If the Board so determines, the provisions in Rule3.1(a), (b)and (c)may be modified or applied in any manner as may be agreed in advance with HMRC.
+**********************
+3.4
+**********************
+If, in applying the scaling down provisions contained in this Rule3, Options cannot be granted within the 30day period referred to in Rule4.2 below, the Board may extend that period by twelve days regardless of the expiry of the relevant period set out in Rule2.1.
+**********************
+4.
+Grant of Options
+**********************
+4.1
+**********************
+No Option shall be granted to any person if:
+**********************
+(a)
+**********************
+at the Date of Grant that person shall have ceased to be an Eligible Employee; or
+**********************
+(b)
+**********************
+that person has, or has had at any time within the twelve month period preceding the Date of Grant, a Material Interest in the issued ordinary share capital of a Close Company or a company which has Control of the Close Company or is a Member of a Consortium which owns the Close Company.
+**********************
+4.2
+**********************
+The Board may determine when Options shall be granted save that no Option may be granted more than 30days after the earliest date by reference to which Market Value of the Shares subject to that Option has been calculated.
+**********************
+4.3
+**********************
+The Company shall issue to each Participant an option certificate in such form (not inconsistent with the provisions of the Plan) as the Board may from time to time prescribe.
+Each such certificate shall specify the Date of Grant of the Option, the number and class of Shares over which the Option is granted, the Option Price and the Bonus Date.
+**********************
+7
+**********************
+amount as the Board shall determine for this purpose being not less than 5 and then, so far as necessary; or
+**********************
+(b)
+**********************
+by treating each election for a bonus as an election for no bonus and then, so far as necessary, by reducing the proposed Monthly Contributions pro rata to the excess over such amount as the Board shall determine for this purpose being not less than 5 and then, so far as necessary; or
+**********************
+(c)
+**********************
+by reducing the proposed Monthly Contributions pro rata to the excess over such amount as the Board shall determine for this purpose being not less than 5 and then, so far as necessary.
+**********************
+3.2
+**********************
+If the number of Shares available is insufficient to enable an Option based on Monthly Contributions of 5 a month to be granted to each Eligible Employee making a valid application, the Board may, as an alternative to selecting by lot, determine in its absolute discretion that no Options shall be granted.
+**********************
+3.3
+**********************
+If the Board so determines, the provisions in Rule3.1(a), (b)and (c)may be modified or applied in any manner as may be agreed in advance with HMRC.
+**********************
+3.4
+**********************
+If, in applying the scaling down provisions contained in this Rule3, Options cannot be granted within the 30day period referred to in Rule4.2 below, the Board may extend that period by twelve days regardless of the expiry of the relevant period set out in Rule2.1.
+**********************
+4.
+Grant of Options
+**********************
+4.1
+**********************
+No Option shall be granted to any person if:
+**********************
+(a)
+**********************
+at the Date of Grant that person shall have ceased to be an Eligible Employee; or
+**********************
+(b)
+**********************
+that person has, or has had at any time within the twelve month period preceding the Date of Grant, a Material Interest in the issued ordinary share capital of a Close Company or a company which has Control of the Close Company or is a Member of a Consortium which owns the Close Company.
+**********************
+4.2
+**********************
+The Board may determine when Options shall be granted save that no Option may be granted more than 30days after the earliest date by reference to which Market Value of the Shares subject to that Option has been calculated.
+**********************
+4.3
+**********************
+The Company shall issue to each Participant an option certificate in such form (not inconsistent with the provisions of the Plan) as the Board may from time to time prescribe.
+Each such certificate shall specify the Date of Grant of the Option, the number and class of Shares over which the Option is granted, the Option Price and the Bonus Date.
+**********************
+4.4
+**********************
+Except as otherwise provided in these Rules, every Option shall be personal to the Participant to whom it is granted and shall not be transferable.
+**********************
+4.5
+**********************
+No amount shall be paid in respect of the grant of an Option.
+**********************
+4.6
+**********************
+Options shall be granted in sterling and accordingly, the Company shall bear any risk in respect of the relevant Rate of Exchange.
+**********************
+5.
+Number of Shares in respect of which Options may be granted
+**********************
+5.1
+**********************
+Individual Limits
+**********************
+No Eligible Employee shall be granted an Option to the extent it would at the proposed Date of Grant cause the aggregate amount of his contributions under all Sharesave Contracts to exceed the Maximum Contribution.
+**********************
+5.2
+**********************
+The number of Options over shares that an Eligible Employee may be granted will be specified at the Date of Grant.
+**********************
+6.
+Rights of exercise and lapse of Options
+**********************
+6.1 (a)
+**********************
+Save as provided in Rules6.2, 6.3, 6.4 and Rule7, an Option shall not be exercised earlier than the Bonus Date under the Sharesave Contract entered into in connection with the Option.
+**********************
+(b)
+**********************
+Save as provided in Rule6.2, an Option shall not be exercised later than six months after the Bonus Date under the Sharesave Contract entered into in connection with the Option.
+**********************
+(c)
+**********************
+Save as provided in Rules6.2, 6.3 and 6.6, an Option may only be exercised by a Participant whilst he is a director or employee of a Participating Company.
+**********************
+(d)
+**********************
+An Option may not be exercised by a Participant if he has, or has had at any time within the twelve month period preceding the date of exercise, a Material Interest in the issued ordinary share capital of a Close Company or a company which has Control of a related Close Company or is a Member of a Consortium which owns a related Close Company, nor may an Option be exercised by the personal representatives of a deceased Participant if the Participant had such a Material Interest at the date of his death.
+**********************
+(e)
+**********************
+An Option may only be exercised at a time when the Shares which may thereby be acquired satisfy the conditions of paragraphs 17 to 22 of Schedule3.
+**********************
+6.2
+**********************
+An Option may be exercised by the personal representatives of a deceased Participant to the extent of the Repayments due under the Sharesave Contract at the date of death:
+**********************
+8
+**********************
+4.4
+**********************
+Except as otherwise provided in these Rules, every Option shall be personal to the Participant to whom it is granted and shall not be transferable.
+**********************
+4.5
+**********************
+No amount shall be paid in respect of the grant of an Option.
+**********************
+4.6
+**********************
+Options shall be granted in sterling and accordingly, the Company shall bear any risk in respect of the relevant Rate of Exchange.
+**********************
+5.
+Number of Shares in respect of which Options may be granted
+**********************
+5.1
+**********************
+Individual Limits
+**********************
+No Eligible Employee shall be granted an Option to the extent it would at the proposed Date of Grant cause the aggregate amount of his contributions under all Sharesave Contracts to exceed the Maximum Contribution.
+**********************
+5.2
+**********************
+The number of Options over shares that an Eligible Employee may be granted will be specified at the Date of Grant.
+**********************
+6.
+Rights of exercise and lapse of Options
+**********************
+6.1 (a)
+**********************
+Save as provided in Rules6.2, 6.3, 6.4 and Rule7, an Option shall not be exercised earlier than the Bonus Date under the Sharesave Contract entered into in connection with the Option.
+**********************
+(b)
+**********************
+Save as provided in Rule6.2, an Option shall not be exercised later than six months after the Bonus Date under the Sharesave Contract entered into in connection with the Option.
+**********************
+(c)
+**********************
+Save as provided in Rules6.2, 6.3 and 6.6, an Option may only be exercised by a Participant whilst he is a director or employee of a Participating Company.
+**********************
+(d)
+**********************
+An Option may not be exercised by a Participant if he has, or has had at any time within the twelve month period preceding the date of exercise, a Material Interest in the issued ordinary share capital of a Close Company or a company which has Control of a related Close Company or is a Member of a Consortium which owns a related Close Company, nor may an Option be exercised by the personal representatives of a deceased Participant if the Participant had such a Material Interest at the date of his death.
+**********************
+(e)
+**********************
+An Option may only be exercised at a time when the Shares which may thereby be acquired satisfy the conditions of paragraphs 17 to 22 of Schedule3.
+**********************
+6.2
+**********************
+An Option may be exercised by the personal representatives of a deceased Participant to the extent of the Repayments due under the Sharesave Contract at the date of death:
+**********************
+(a)
+**********************
+within twelve months following the date of his death if such death occurs before the Bonus Date;
+**********************
+(b)
+**********************
+within twelve months following the Bonus Date in the event of his death within six months after the Bonus Date.
+**********************
+6.3
+**********************
+An Option may, to the extent of the Repayment due under the Sharesave Contract at the date of cessation, be exercised by a Participant within six months following his ceasing to hold the office or employment by virtue of which he is eligible to participate in the Plan by reason of:
+**********************
+(a)
+**********************
+injury, disability, redundancy within the meaning of the Employment Rights Act 1996, or retirement on reaching the Specified Age or any other age at which he is bound to retire in accordance with the terms of his contract of employment; or
+**********************
+(b)
+**********************
+his office or employment being in a company of which the Company ceases to have Control; or
+**********************
+(c)
+**********************
+the transfer of his contract of employment (which relates to a business or part of a business) to a person who is neither an Associated Company nor a company of which the Company has Control; or
+**********************
+(d)
+**********************
+retirement at any age at which he is entitled to retire in accordance with the terms of his contract of employment (other than at the Specified Age or any age at which he is bound to retire), early retirement with the agreement of the employer, or pregnancy, but in each case only if such cessation of office or employment is more than three years after the Date of Grant.
+**********************
+For the purposes of the Plan, a woman who leaves employment due to pregnancy will be regarded as having left the employment on the day on which she indicates that she does not intend to return to work.
+In the absence of such indication she will be regarded as having left employment on the last day on which she is entitled to return to work under the Employment Rights Act 1996 or, if later, any other date specified in the terms of her employment.
+**********************
+6.4
+**********************
+An Option may, to the extent of the Repayment due under the Sharesave Contract at the date of reaching the Specified Age, be exercised by a Participant within six months following the date he reaches the Specified Age if he continues after that date to hold the office or employment by virtue of which he is eligible to participate in the Plan.
+**********************
+6.5
+**********************
+No person shall be treated for the purposes of Rule6.3 as ceasing to hold an office or employment by virtue of which that person is eligible to participate in the Plan until that person ceases to hold any office or employment in the Company or any Associated Company or any company of which the company has Control.
+**********************
+6.6
+**********************
+If a Participant ceases to be a director or employee of a Participating Company, but on the Bonus Date is an employee or director of an Associated
+**********************
+9
+**********************
+(a)
+**********************
+within twelve months following the date of his death if such death occurs before the Bonus Date;
+**********************
+(b)
+**********************
+within twelve months following the Bonus Date in the event of his death within six months after the Bonus Date.
+**********************
+6.3
+**********************
+An Option may, to the extent of the Repayment due under the Sharesave Contract at the date of cessation, be exercised by a Participant within six months following his ceasing to hold the office or employment by virtue of which he is eligible to participate in the Plan by reason of:
+**********************
+(a)
+**********************
+injury, disability, redundancy within the meaning of the Employment Rights Act 1996, or retirement on reaching the Specified Age or any other age at which he is bound to retire in accordance with the terms of his contract of employment; or
+**********************
+(b)
+**********************
+his office or employment being in a company of which the Company ceases to have Control; or
+**********************
+(c)
+**********************
+the transfer of his contract of employment (which relates to a business or part of a business) to a person who is neither an Associated Company nor a company of which the Company has Control; or
+**********************
+(d)
+**********************
+retirement at any age at which he is entitled to retire in accordance with the terms of his contract of employment (other than at the Specified Age or any age at which he is bound to retire), early retirement with the agreement of the employer, or pregnancy, but in each case only if such cessation of office or employment is more than three years after the Date of Grant.
+**********************
+For the purposes of the Plan, a woman who leaves employment due to pregnancy will be regarded as having left the employment on the day on which she indicates that she does not intend to return to work.
+In the absence of such indication she will be regarded as having left employment on the last day on which she is entitled to return to work under the Employment Rights Act 1996 or, if later, any other date specified in the terms of her employment.
+**********************
+6.4
+**********************
+An Option may, to the extent of the Repayment due under the Sharesave Contract at the date of reaching the Specified Age, be exercised by a Participant within six months following the date he reaches the Specified Age if he continues after that date to hold the office or employment by virtue of which he is eligible to participate in the Plan.
+**********************
+6.5
+**********************
+No person shall be treated for the purposes of Rule6.3 as ceasing to hold an office or employment by virtue of which that person is eligible to participate in the Plan until that person ceases to hold any office or employment in the Company or any Associated Company or any company of which the company has Control.
+**********************
+6.6
+**********************
+If a Participant ceases to be a director or employee of a Participating Company, but on the Bonus Date is an employee or director of an Associated
+**********************
+Company or a company of which the Company has Control, he may exercise his Option within six months of that date.
+**********************
+6.7
+**********************
+An Option granted to a Participant shall lapse upon the occurrence of the earliest of the following:
+**********************
+(a)
+**********************
+subject to (b)below, six months after the Bonus Date under the Sharesave Contract entered into in connection with the Option;
+**********************
+(b)
+**********************
+where the Participant dies before the Bonus Date, twelve months after the date of death, and where the Participant dies in the period of six months after the Bonus Date, twelve months after the Bonus Date;
+**********************
+(c)
+**********************
+the expiry of any of the six month periods specified in Rule 6.3 (a)to (d), save that if at the time any of such applicable periods expire, time is running under the twelve month periods specified in Rule6.2, the Option shall not lapse by reason of this Rule6.7 until the expiry of the relevant twelve month period in Rule6.2;
+**********************
+(d)
+**********************
+the expiry of any of the periods specified in Rules7.1 to 7.5, save where an Option is released in consideration of the grant of a New Option over New Shares in the Acquiring Company (during the Appropriate Period) pursuant to Rule7.6;
+**********************
+(e)
+**********************
+the Participant ceasing to hold any office or employment with a Participating Company or any Associated Company howsoever that cessation occurs whether lawful or unlawful for any reason other than those specified in Rule 6.3 or as a result of his death;
+**********************
+(f)
+**********************
+subject to Rule7.5, the passing of an effective resolution, or the making of an order by the court, for the winding-up of the Company;
+**********************
+(g)
+**********************
+the Participant being deprived (otherwise than on death) of the legal or beneficial ownership of the Option by operation of law, or doing anything or omitting to do anything which causes him to be so deprived or become bankrupt; and
+**********************
+(h)
+**********************
+before an Option has become capable of being exercised, the Participant giving notice that he intends to stop paying Monthly Contributions, or being deemed under the terms of the Sharesave Contract to have given such notice by making an application for Repayment of the Monthly Contributions.
+**********************
+7.Take-over, reconstructions and amalgamation, and liquidation
+**********************
+7.1
+**********************
+If any person obtains Control of the Company as a result of making a general offer to acquire Shares which is either unconditional or is made on a condition such that if it is satisfied the person making the offer will have Control of the Company, an Option may be exercised within six months of the time when the person making the offer has obtained Control of the
+**********************
+10
+**********************
+Company or a company of which the Company has Control, he may exercise his Option within six months of that date.
+**********************
+6.7
+**********************
+An Option granted to a Participant shall lapse upon the occurrence of the earliest of the following:
+**********************
+(a)
+**********************
+subject to (b)below, six months after the Bonus Date under the Sharesave Contract entered into in connection with the Option;
+**********************
+(b)
+**********************
+where the Participant dies before the Bonus Date, twelve months after the date of death, and where the Participant dies in the period of six months after the Bonus Date, twelve months after the Bonus Date;
+**********************
+(c)
+**********************
+the expiry of any of the six month periods specified in Rule 6.3 (a)to (d), save that if at the time any of such applicable periods expire, time is running under the twelve month periods specified in Rule6.2, the Option shall not lapse by reason of this Rule6.7 until the expiry of the relevant twelve month period in Rule6.2;
+**********************
+(d)
+**********************
+the expiry of any of the periods specified in Rules7.1 to 7.5, save where an Option is released in consideration of the grant of a New Option over New Shares in the Acquiring Company (during the Appropriate Period) pursuant to Rule7.6;
+**********************
+(e)
+**********************
+the Participant ceasing to hold any office or employment with a Participating Company or any Associated Company howsoever that cessation occurs whether lawful or unlawful for any reason other than those specified in Rule 6.3 or as a result of his death;
+**********************
+(f)
+**********************
+subject to Rule7.5, the passing of an effective resolution, or the making of an order by the court, for the winding-up of the Company;
+**********************
+(g)
+**********************
+the Participant being deprived (otherwise than on death) of the legal or beneficial ownership of the Option by operation of law, or doing anything or omitting to do anything which causes him to be so deprived or become bankrupt; and
+**********************
+(h)
+**********************
+before an Option has become capable of being exercised, the Participant giving notice that he intends to stop paying Monthly Contributions, or being deemed under the terms of the Sharesave Contract to have given such notice by making an application for Repayment of the Monthly Contributions.
+**********************
+7.Take-over, reconstructions and amalgamation, and liquidation
+**********************
+7.1
+**********************
+If any person obtains Control of the Company as a result of making a general offer to acquire Shares which is either unconditional or is made on a condition such that if it is satisfied the person making the offer will have Control of the Company, an Option may be exercised within six months of the time when the person making the offer has obtained Control of the
+**********************
+Company and any condition subject to which the offer is made has been satisfied or waived.
+**********************
+7.2
+**********************
+For the purpose of Rule7.1 a person shall be deemed to have obtained Control of the Company if he and others acting in concert with him have together obtained Control of it.
+**********************
+7.3
+**********************
+If any person becomes bound or entitled to acquire Shares under the Companies Acts 1963  2006 of Ireland pursuant to provisions that are accepted by HMRC as being closely comparable to sections 979 to 982 of the UK Companies Act 2006 (or any other legislation which HMRC accepts as equivalent to such sections), an Option may be exercised at any time when that person remains so bound or entitled.
+**********************
+7.4
+**********************
+If, under Companies Acts 1963  2006 of Ireland pursuant to provisions that are accepted by HMRC as being closely comparable to Part26 of the UK Companies Act 2006 (or any other legislation which HMRC accepts as equivalent to such sections), the court sanctions a compromise or arrangement proposed for the purposes of, or in connection with, a Plan for the reconstruction of the Company or its amalgamation with any other company or companies, an Option may be exercised within six months of the court sanctioning the compromise or arrangement.
+**********************
+7.5
+**********************
+If a resolution for the voluntary winding-up of the Company is passed, an Option may be exercised within two months from the date of the passing of the resolution.
+**********************
+7.6
+**********************
+If any company (the Acquiring Company):
+**********************
+(a)
+**********************
+obtains Control of the Company as a result of making:
+**********************
+(i)
+**********************
+a general offer to acquire the whole of the issued ordinary share capital of the Company which is made on a condition such that if it is satisfied the Acquiring Company will have Control of the Company; or
+**********************
+(ii)
+**********************
+a general offer to acquire all the shares in the Company which are of the same class as the Shares which may be acquired by the exercise of Options,
+**********************
+in either case ignoring any Shares which are already owned by it or a member of the same group of companies; or
+**********************
+(b)
+**********************
+obtains Control of the Company in pursuance of a compromise or arrangement sanctioned by the court under the Companies Acts 1963  2006 of Ireland pursuant to provisions that are accepted by HMRC as being closely comparable to Part26 of the UK Companies Act 2006 (or any other legislation which HMRC accepts as equivalent to such sections); or
+**********************
+(c)
+**********************
+becomes bound or entitled to acquire Shares under the Companies Acts 1963  2006 of Ireland pursuant to provisions that are accepted
+**********************
+11
+**********************
+Company and any condition subject to which the offer is made has been satisfied or waived.
+**********************
+7.2
+**********************
+For the purpose of Rule7.1 a person shall be deemed to have obtained Control of the Company if he and others acting in concert with him have together obtained Control of it.
+**********************
+7.3
+**********************
+If any person becomes bound or entitled to acquire Shares under the Companies Acts 1963  2006 of Ireland pursuant to provisions that are accepted by HMRC as being closely comparable to sections 979 to 982 of the UK Companies Act 2006 (or any other legislation which HMRC accepts as equivalent to such sections), an Option may be exercised at any time when that person remains so bound or entitled.
+**********************
+7.4
+**********************
+If, under Companies Acts 1963  2006 of Ireland pursuant to provisions that are accepted by HMRC as being closely comparable to Part26 of the UK Companies Act 2006 (or any other legislation which HMRC accepts as equivalent to such sections), the court sanctions a compromise or arrangement proposed for the purposes of, or in connection with, a Plan for the reconstruction of the Company or its amalgamation with any other company or companies, an Option may be exercised within six months of the court sanctioning the compromise or arrangement.
+**********************
+7.5
+**********************
+If a resolution for the voluntary winding-up of the Company is passed, an Option may be exercised within two months from the date of the passing of the resolution.
+**********************
+7.6
+**********************
+If any company (the Acquiring Company):
+**********************
+(a)
+**********************
+obtains Control of the Company as a result of making:
+**********************
+(i)
+**********************
+a general offer to acquire the whole of the issued ordinary share capital of the Company which is made on a condition such that if it is satisfied the Acquiring Company will have Control of the Company; or
+**********************
+(ii)
+**********************
+a general offer to acquire all the shares in the Company which are of the same class as the Shares which may be acquired by the exercise of Options,
+**********************
+in either case ignoring any Shares which are already owned by it or a member of the same group of companies; or
+**********************
+(b)
+**********************
+obtains Control of the Company in pursuance of a compromise or arrangement sanctioned by the court under the Companies Acts 1963  2006 of Ireland pursuant to provisions that are accepted by HMRC as being closely comparable to Part26 of the UK Companies Act 2006 (or any other legislation which HMRC accepts as equivalent to such sections); or
+**********************
+(c)
+**********************
+becomes bound or entitled to acquire Shares under the Companies Acts 1963  2006 of Ireland pursuant to provisions that are accepted
+**********************
+by HMRC as being closely comparable to sections 979 to 982 of the UK Companies Act 2006 (or any other legislation which HMRC accepts as equivalent to such sections),
+**********************
+any Participant may at any time within the Appropriate Period, by agreement with the Acquiring Company, release within a reasonable period of time any Option granted under the Plan which has not lapsed (the Old Option) in consideration of the grant to him of an option (the New Option) which (for the purposes of paragraph 39 of Schedule3) is equivalent to the Old Option but relates to shares in a different company (whether the Acquiring Company itself or some other company falling with in paragraph 18(b) or (c)of Schedule3), the New Option shall for all other purposes of the Scheme be treated as having been acquired at the same time as the Old Option.
+**********************
+Where any New Options are granted pursuant to this Rule, references in these Rules in relation to the New Options shall where appropriate be construed as if reference to the Company and to the Shares were references to the Acquiring Company, or as the case may be, to the other company to whose shares the New Options relate and to shares in that company, but references to Participating Companies shall continue to be construed as if references to the Company were references to Willis Group Holdings Public Limited Company.
+An exchange of Options pursuant to this Rule7 shall not alter the fact that this Plan remains that of Willis Group Holdings Public Limited Company as the original scheme organiser.
+**********************
+7.7
+**********************
+The New Option shall not be regarded for the purposes of Rule7.6 as equivalent to the Old Option unless the conditions set out in paragraph 39 of Schedule3 are satisfied, but so that the provisions of the Plan shall be construed as if:
+**********************
+(a)
+**********************
+the New Option were granted under the Plan at the same time as the Old Option;
+**********************
+(b)
+**********************
+Rule12.1 were omitted.
+**********************
+7.8
+**********************
+Notwithstanding Rules7.1, 7.3 and 7.4 above, if an Acquiring Company has obtained Control of the Company or has become entitled and bound as mentioned in Rules 7.3 and/or 7.4 and:
+**********************
+(a)
+**********************
+the shareholders of the Acquiring Company immediately after it has obtained Control are substantially the same as the shareholders of the Company immediately before the Acquiring Company obtained control, then the obtaining of Control amounts to a merger with the Company; and
+**********************
+(b)
+**********************
+the Acquiring Company consents to an exchange of Options under this Rule7.8,
+**********************
+all Options are exchanged during the period set out in paragraph 38(3) of Schedule3 and the provisions of Rule7.6 above shall apply.
+No Options are exercisable if this Rule applies.
+**********************
+12
+**********************
+by HMRC as being closely comparable to sections 979 to 982 of the UK Companies Act 2006 (or any other legislation which HMRC accepts as equivalent to such sections),
+**********************
+any Participant may at any time within the Appropriate Period, by agreement with the Acquiring Company, release within a reasonable period of time any Option granted under the Plan which has not lapsed (the Old Option) in consideration of the grant to him of an option (the New Option) which (for the purposes of paragraph 39 of Schedule3) is equivalent to the Old Option but relates to shares in a different company (whether the Acquiring Company itself or some other company falling with in paragraph 18(b) or (c)of Schedule3), the New Option shall for all other purposes of the Scheme be treated as having been acquired at the same time as the Old Option.
+**********************
+Where any New Options are granted pursuant to this Rule, references in these Rules in relation to the New Options shall where appropriate be construed as if reference to the Company and to the Shares were references to the Acquiring Company, or as the case may be, to the other company to whose shares the New Options relate and to shares in that company, but references to Participating Companies shall continue to be construed as if references to the Company were references to Willis Group Holdings Public Limited Company.
+An exchange of Options pursuant to this Rule7 shall not alter the fact that this Plan remains that of Willis Group Holdings Public Limited Company as the original scheme organiser.
+**********************
+7.7
+**********************
+The New Option shall not be regarded for the purposes of Rule7.6 as equivalent to the Old Option unless the conditions set out in paragraph 39 of Schedule3 are satisfied, but so that the provisions of the Plan shall be construed as if:
+**********************
+(a)
+**********************
+the New Option were granted under the Plan at the same time as the Old Option;
+**********************
+(b)
+**********************
+Rule12.1 were omitted.
+**********************
+7.8
+**********************
+Notwithstanding Rules7.1, 7.3 and 7.4 above, if an Acquiring Company has obtained Control of the Company or has become entitled and bound as mentioned in Rules 7.3 and/or 7.4 and:
+**********************
+(a)
+**********************
+the shareholders of the Acquiring Company immediately after it has obtained Control are substantially the same as the shareholders of the Company immediately before the Acquiring Company obtained control, then the obtaining of Control amounts to a merger with the Company; and
+**********************
+(b)
+**********************
+the Acquiring Company consents to an exchange of Options under this Rule7.8,
+**********************
+all Options are exchanged during the period set out in paragraph 38(3) of Schedule3 and the provisions of Rule7.6 above shall apply.
+No Options are exercisable if this Rule applies.
+**********************
+7.9
+**********************
+Where, in accordance with Rules7.6 and/or 7.8, Old Options are released and New Options are granted, the New Options shall not be exercisable in accordance with Rules7.1, 7.3 and 7.4 by virtue of the event by reason of which the New Options were granted.
+**********************
+7.10
+**********************
+The exercise of an Option pursuant to the preceding provisions of this Rule7 shall be subject to the provisions of Rule8 below.
+**********************
+8.Manner of exercise
+**********************
+8.1
+**********************
+An Option may only be exercised during the periods specified in Rules6 and 7, and only with monies not exceeding the amount of the Repayment under the Sharesave Contract entered into in connection therewith as at the date of such exercise.
+For this purpose, no account shall be taken of such part (if any) of the Repayment of any Monthly Contribution, the due date for the payment of which under the Sharesave Contract arises after the date of the Repayment.
+**********************
+8.2
+**********************
+Exercise shall be by the delivery to the Secretary of the Company or its duly appointed agent, of an option certificate covering the Shares over which the Option is to be exercised, with the notice of exercise in the prescribed form duly completed and signed by the Participant (or by his duly authorised agent or personal representative) together with any remittance for the Exercise Price payable, or authority to the Company to withdraw and apply monies equal to the Exercise Price payable, or authority to the Company to withdraw and apply monies from the Sharesave Contract equal to the Exercise Price to acquire the Shares over which the Option is to be exercised.
+The effective date of exercise shall be the date of delivery of the notice of exercise.
+**********************
+8.3
+**********************
+If the Company or a Participating Company is obliged to account for any Tax Liability for which the Participant in question is liable in respect of the Option and neither the Company or any other Participating Company is able to withhold the appropriate amount from that Participants remuneration, or alternatively, if the Company has not received a payment from the Participant in satisfaction of the whole Tax Liability then the Company shall be entitled to discharge such Tax Liability as has not been so satisfied by selling, with the consent in writing of the Participant, such number of Shares in respect of which the Option has been validly exercised as are required to satisfy the remaining Tax Liability and transfer the balance of the Shares to the Participant.
+**********************
+8.4
+**********************
+All payments made on the exercise of an option granted under this Plan shall be paid to the Company as agent for the Trustee PROVIDED THAT if at any time of exercise the Board and the Trustee agree or have so agreed then such payments shall be made to the Company as principal.
+**********************
+13
+**********************
+7.9
+**********************
+Where, in accordance with Rules7.6 and/or 7.8, Old Options are released and New Options are granted, the New Options shall not be exercisable in accordance with Rules7.1, 7.3 and 7.4 by virtue of the event by reason of which the New Options were granted.
+**********************
+7.10
+**********************
+The exercise of an Option pursuant to the preceding provisions of this Rule7 shall be subject to the provisions of Rule8 below.
+**********************
+8.Manner of exercise
+**********************
+8.1
+**********************
+An Option may only be exercised during the periods specified in Rules6 and 7, and only with monies not exceeding the amount of the Repayment under the Sharesave Contract entered into in connection therewith as at the date of such exercise.
+For this purpose, no account shall be taken of such part (if any) of the Repayment of any Monthly Contribution, the due date for the payment of which under the Sharesave Contract arises after the date of the Repayment.
+**********************
+8.2
+**********************
+Exercise shall be by the delivery to the Secretary of the Company or its duly appointed agent, of an option certificate covering the Shares over which the Option is to be exercised, with the notice of exercise in the prescribed form duly completed and signed by the Participant (or by his duly authorised agent or personal representative) together with any remittance for the Exercise Price payable, or authority to the Company to withdraw and apply monies equal to the Exercise Price payable, or authority to the Company to withdraw and apply monies from the Sharesave Contract equal to the Exercise Price to acquire the Shares over which the Option is to be exercised.
+The effective date of exercise shall be the date of delivery of the notice of exercise.
+**********************
+8.3
+**********************
+If the Company or a Participating Company is obliged to account for any Tax Liability for which the Participant in question is liable in respect of the Option and neither the Company or any other Participating Company is able to withhold the appropriate amount from that Participants remuneration, or alternatively, if the Company has not received a payment from the Participant in satisfaction of the whole Tax Liability then the Company shall be entitled to discharge such Tax Liability as has not been so satisfied by selling, with the consent in writing of the Participant, such number of Shares in respect of which the Option has been validly exercised as are required to satisfy the remaining Tax Liability and transfer the balance of the Shares to the Participant.
+**********************
+8.4
+**********************
+All payments made on the exercise of an option granted under this Plan shall be paid to the Company as agent for the Trustee PROVIDED THAT if at any time of exercise the Board and the Trustee agree or have so agreed then such payments shall be made to the Company as principal.
+**********************
+9.Issue or transfer of Shares
+**********************
+9.1
+**********************
+Shares to be issued pursuant to the exercise of an Option shall be allotted within 28days following the effective date of exercise of the Option.
+**********************
+9.2
+**********************
+The Board shall procure the transfer of Shares to be transferred pursuant to the exercise of an Option within 28days following the effective date of exercise of the Option.
+**********************
+9.3
+**********************
+Shares to be issued pursuant to the Plan will rank pari passu in all respects with the Shares then in issue, except that they will not rank for any rights attaching to shares by reference to a record date preceding the date of exercise.
+**********************
+9.4
+**********************
+Shares to be transferred pursuant to the Plan will be transferred free of all liens, charges and encumbrances and together with all rights attaching thereto, except they will not rank for any rights attaching to Shares by reference to a record date preceding the date of exercise.
+**********************
+10.Adjustments
+**********************
+10.1
+**********************
+The number of Shares over which an Option is granted and the Option Price thereof shall be adjusted in such manner as the Board shall determine following any capitalisation issue, rights issue, subdivision, consolidation or reduction of share capital of the Company or any other variation of share capital to the intent that (as nearly as may be without involving fractions of a Share or an Option Price calculated to more than two decimal places) the Exercise Price payable in respect of an Option shall not be either materially changed nor increased beyond the expected Repayment under the Sharesave Contract at the appropriate Bonus Date, provided that:
+**********************
+(a)
+**********************
+no adjustment made pursuant to this Rule10.1 shall be made without the prior approval of HMRC so long as the approval of the Plan is to be maintained);
+**********************
+(b)
+**********************
+the Option Price for a Share is not reduced below its nominal value; and
+**********************
+(c)
+**********************
+following the adjustment the Shares continue to satisfy the conditions specified in paragraphs 17 to 22 of Schedule3.
+**********************
+10.2
+**********************
+The Board may take such steps as it may consider necessary to notify Participants of any adjustments made under this Rule10 and to call in, cancel, endorse, issue or reissue an Option certificate consequent upon such adjustment.
+**********************
+14
+**********************
+9.Issue or transfer of Shares
+**********************
+9.1
+**********************
+Shares to be issued pursuant to the exercise of an Option shall be allotted within 28days following the effective date of exercise of the Option.
+**********************
+9.2
+**********************
+The Board shall procure the transfer of Shares to be transferred pursuant to the exercise of an Option within 28days following the effective date of exercise of the Option.
+**********************
+9.3
+**********************
+Shares to be issued pursuant to the Plan will rank pari passu in all respects with the Shares then in issue, except that they will not rank for any rights attaching to shares by reference to a record date preceding the date of exercise.
+**********************
+9.4
+**********************
+Shares to be transferred pursuant to the Plan will be transferred free of all liens, charges and encumbrances and together with all rights attaching thereto, except they will not rank for any rights attaching to Shares by reference to a record date preceding the date of exercise.
+**********************
+10.Adjustments
+**********************
+10.1
+**********************
+The number of Shares over which an Option is granted and the Option Price thereof shall be adjusted in such manner as the Board shall determine following any capitalisation issue, rights issue, subdivision, consolidation or reduction of share capital of the Company or any other variation of share capital to the intent that (as nearly as may be without involving fractions of a Share or an Option Price calculated to more than two decimal places) the Exercise Price payable in respect of an Option shall not be either materially changed nor increased beyond the expected Repayment under the Sharesave Contract at the appropriate Bonus Date, provided that:
+**********************
+(a)
+**********************
+no adjustment made pursuant to this Rule10.1 shall be made without the prior approval of HMRC so long as the approval of the Plan is to be maintained);
+**********************
+(b)
+**********************
+the Option Price for a Share is not reduced below its nominal value; and
+**********************
+(c)
+**********************
+following the adjustment the Shares continue to satisfy the conditions specified in paragraphs 17 to 22 of Schedule3.
+**********************
+10.2
+**********************
+The Board may take such steps as it may consider necessary to notify Participants of any adjustments made under this Rule10 and to call in, cancel, endorse, issue or reissue an Option certificate consequent upon such adjustment.
+**********************
+11.Administration
+**********************
+11.1
+**********************
+Any notice or other communication made under, or in connection with, the Plan may be given by personal delivery, by electronic means or by post, in the case of a company to its registered office and in the case of an individual to his last known address, or, where he is a director or employee of the Company or an Associated Company, either to his last known postal or electronic address or to the address of the place of business at which he performs the whole or substantially the whole of the duties of his office or employment.
+Where a notice or other communication is given by first-class post, it shall be deemed to have been received 48 hours after it was put into the post properly addressed and stamped.
+Where a notice or other communication is sent electronically, it shall be deemed to have been received 24 hours after being sent.
+**********************
+11.2
+**********************
+The Company may distribute to Participants copies of any notice or document normally sent by the Company to the holders of Shares.
+**********************
+11.3
+**********************
+If any option certificate shall be worn out, defaced or lost, it may be replaced on such evidence being provided as the Board may require.
+**********************
+11.4
+**********************
+The Company shall at all times procure that sufficient Shares are available for transfer to satisfy all Options under which Shares may be acquired.
+**********************
+11.5
+**********************
+The decision of the Board in any dispute relating to an Option or the due exercise thereof or any other matter in respect of the Plan shall be final and conclusive.
+**********************
+11.6
+**********************
+The costs of introducing and administering the Plan shall be borne by the Company.
+**********************
+12.Alterations
+**********************
+12.1
+**********************
+Subject to the provisions of this Rule12, the Board may at any time alter or add to all or any of the provisions of the Plan in any respect except that, if the approved status of the Plan is to be maintained, no such alteration or addition to a Key Feature shall take effect until approved by HMRC.
+**********************
+12.2
+**********************
+No alteration or addition shall be made under Rule12.1 which would abrogate or adversely affect the subsisting rights of a Participant, unless it is made:
+**********************
+(i)
+**********************
+with the consent in writing of such number of Participants as hold Options to acquire not less than 75 per cent of the Shares which would be issued or transferred if all Options granted and subsisting were exercised in respect of the maximum number of Shares the subject thereof; or
+**********************
+15
+**********************
+11.Administration
+**********************
+11.1
+**********************
+Any notice or other communication made under, or in connection with, the Plan may be given by personal delivery, by electronic means or by post, in the case of a company to its registered office and in the case of an individual to his last known address, or, where he is a director or employee of the Company or an Associated Company, either to his last known postal or electronic address or to the address of the place of business at which he performs the whole or substantially the whole of the duties of his office or employment.
+Where a notice or other communication is given by first-class post, it shall be deemed to have been received 48 hours after it was put into the post properly addressed and stamped.
+Where a notice or other communication is sent electronically, it shall be deemed to have been received 24 hours after being sent.
+**********************
+11.2
+**********************
+The Company may distribute to Participants copies of any notice or document normally sent by the Company to the holders of Shares.
+**********************
+11.3
+**********************
+If any option certificate shall be worn out, defaced or lost, it may be replaced on such evidence being provided as the Board may require.
+**********************
+11.4
+**********************
+The Company shall at all times procure that sufficient Shares are available for transfer to satisfy all Options under which Shares may be acquired.
+**********************
+11.5
+**********************
+The decision of the Board in any dispute relating to an Option or the due exercise thereof or any other matter in respect of the Plan shall be final and conclusive.
+**********************
+11.6
+**********************
+The costs of introducing and administering the Plan shall be borne by the Company.
+**********************
+12.Alterations
+**********************
+12.1
+**********************
+Subject to the provisions of this Rule12, the Board may at any time alter or add to all or any of the provisions of the Plan in any respect except that, if the approved status of the Plan is to be maintained, no such alteration or addition to a Key Feature shall take effect until approved by HMRC.
+**********************
+12.2
+**********************
+No alteration or addition shall be made under Rule12.1 which would abrogate or adversely affect the subsisting rights of a Participant, unless it is made:
+**********************
+(i)
+**********************
+with the consent in writing of such number of Participants as hold Options to acquire not less than 75 per cent of the Shares which would be issued or transferred if all Options granted and subsisting were exercised in respect of the maximum number of Shares the subject thereof; or
+**********************
+(ii)
+**********************
+by a resolution at a meeting of Participants passed by not less than 75 per cent of the Participants who attend and vote either in person or by proxy,
+**********************
+and for the purposes of this Rule12.4 the Participants shall be treated as the holders of a separate class of share capital and the provisions of the Constitution of the Company relating to class meetings shall apply mutatis mutandis.
+**********************
+12.3
+**********************
+Rule12.2 shall not apply to any alteration or addition which:
+**********************
+(i)
+**********************
+is necessary or desirable in order to obtain or maintain HMRC approval of the Plan under Schedule3 or any other enactment, or to comply with or take account of the provisions of any proposed or existing legislation or law, to take advantage of any changes to the legislation or law, to take account of any of the events mentioned in Rule10, or to obtain or maintain favourable taxation treatment of the Company, any Participating Company or any Participant; and
+**********************
+(ii)
+**********************
+does not affect a Key Feature.
+**********************
+13.General
+**********************
+13.1
+**********************
+The Plan shall terminate upon the tenth anniversary of its original adoption by the Board.
+Termination of the Plan shall be without prejudice to the subsisting rights of Participants.
+**********************
+13.2
+**********************
+The Company and any Subsidiary of the Company may provide money to the trustees of any trust or any other person to enable them or him to acquire Shares to be held for the purposes of the Plan, or enter into any guarantee or indemnity for these purposes.
+**********************
+13.3
+**********************
+The rights and obligations of any individual under the terms of his office or employment with the Company, a Participating Company, a Subsidiary of the Company, or an Associated Company shall not be affected by his participation in the Plan or any right which he may have to participate therein, and an individual who participates therein shall waive all and any rights to compensation or damages in consequence of the termination of his office or employment with any such company for any reason whatsoever, howsoever that termination occurs, whether lawful or unlawful, insofar as those rights arise, or may arise, from his ceasing to have rights under or be entitled to exercise any Option under the Plan as a result of such termination, or from the loss or diminution in value of such rights or entitlements.
+**********************
+13.4
+**********************
+Notwithstanding any other provision of the Plan the Board may amend or add to the provisions of the Plan and the terms of Options as they consider necessary or desirable to take account of or to mitigate or to comply with relevant overseas taxation, securities or exchange control laws provided that the terms of Options granted under this Plan to such overseas Eligible
+**********************
+16
+**********************
+(ii)
+**********************
+by a resolution at a meeting of Participants passed by not less than 75 per cent of the Participants who attend and vote either in person or by proxy,
+**********************
+and for the purposes of this Rule12.4 the Participants shall be treated as the holders of a separate class of share capital and the provisions of the Constitution of the Company relating to class meetings shall apply mutatis mutandis.
+**********************
+12.3
+**********************
+Rule12.2 shall not apply to any alteration or addition which:
+**********************
+(i)
+**********************
+is necessary or desirable in order to obtain or maintain HMRC approval of the Plan under Schedule3 or any other enactment, or to comply with or take account of the provisions of any proposed or existing legislation or law, to take advantage of any changes to the legislation or law, to take account of any of the events mentioned in Rule10, or to obtain or maintain favourable taxation treatment of the Company, any Participating Company or any Participant; and
+**********************
+(ii)
+**********************
+does not affect a Key Feature.
+**********************
+13.General
+**********************
+13.1
+**********************
+The Plan shall terminate upon the tenth anniversary of its original adoption by the Board.
+Termination of the Plan shall be without prejudice to the subsisting rights of Participants.
+**********************
+13.2
+**********************
+The Company and any Subsidiary of the Company may provide money to the trustees of any trust or any other person to enable them or him to acquire Shares to be held for the purposes of the Plan, or enter into any guarantee or indemnity for these purposes.
+**********************
+13.3
+**********************
+The rights and obligations of any individual under the terms of his office or employment with the Company, a Participating Company, a Subsidiary of the Company, or an Associated Company shall not be affected by his participation in the Plan or any right which he may have to participate therein, and an individual who participates therein shall waive all and any rights to compensation or damages in consequence of the termination of his office or employment with any such company for any reason whatsoever, howsoever that termination occurs, whether lawful or unlawful, insofar as those rights arise, or may arise, from his ceasing to have rights under or be entitled to exercise any Option under the Plan as a result of such termination, or from the loss or diminution in value of such rights or entitlements.
+**********************
+13.4
+**********************
+Notwithstanding any other provision of the Plan the Board may amend or add to the provisions of the Plan and the terms of Options as they consider necessary or desirable to take account of or to mitigate or to comply with relevant overseas taxation, securities or exchange control laws provided that the terms of Options granted under this Plan to such overseas Eligible
+**********************
+Employees are not more favourable than the terms of Options granted to other Eligible Employees.
+**********************
+13.5
+**********************
+These Rules shall be governed by and construed in accordance with English law.
+**********************
+17
+**********************
+Employees are not more favourable than the terms of Options granted to other Eligible Employees.
+**********************
+13.5
+**********************
+These Rules shall be governed by and construed in accordance with English law.

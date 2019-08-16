@@ -1,0 +1,1739 @@
+Exhibit 10.2
+
+
+
+ 
+
+AMENDED AND RESTATED SECURITY AGREEMENT
+
+ 
+
+This AMENDED AND RESTATED SECURITY AGREEMENT (this “Agreement”) is dated as of December 28, 2009 and entered into by THE TALBOTS, INC., a corporation duly organized and validly existing under the laws of the State of Delaware (the “Borrower”) and each domestic Subsidiary of the Borrower listed on the signature pages hereto (the “Subsidiary Guarantors” and, together with the Borrower and each other entity that may become a party hereto as an Additional Grantor after the date hereof in accordance with Section 20 hereof a “Grantor” and, collectively the “Grantors”) in favor of AEON CO., LTD., a corporation organized and existing under the laws of Japan, as Lender under the Credit Agreement referred to below (the “Lender” and, together with its successors and assigns, “Secured Party”).
+
+ 
+
+PRELIMINARY STATEMENTS
+
+ 
+
+A.           Pursuant to the Secured Revolving Loan Agreement, dated as of April 10, 2009 (as amended, modified and supplemented, the “Existing Credit Agreement”), between the Borrower and the Lender, the Lender made certain extensions of credit and other financial accommodations, subject to the terms and conditions set forth in the Existing Credit Agreement, to the Borrower.
+
+ 
+
+B.           The Subsidiary Guarantors entered into and delivered the Guaranty Agreement, dated April 10, 2009 (as amended, modified and supplemented, the “Existing Guaranty”), in favor of Secured Party, pursuant to which each Subsidiary Guarantor guarantied the prompt payment and performance when due of all obligations of the Borrower under the Existing Credit Agreement and each other Loan Document (as defined thereunder).
+
+ 
+
+C.           The Grantors and the Secured Party entered into that certain Security Agreement, dated as of April 10, 2009 (as amended, modified and supplemented, the “Existing Security Agreement”), pursuant to which the Grantors granted a continuing Lien and security interest to the Secured Party in the collateral described therein to secure obligations of the Grantors under the Existing Credit Agreement and the Existing Guaranty.
+
+ 
+
+D.           The Borrower and the Lender have entered into the Amended and Restated Secured Revolving Loan Agreement, dated as of December 28, 2009 (as amended, restated, amended and restated, supplemented or otherwise modified from time to time, the “Credit Agreement”; the terms defined therein and not otherwise defined herein being used herein as therein defined), which amended and restated the Existing Credit Agreement.
+
+ 
+
+E.           In connection with the amendment and restatement of the Existing Credit Agreement pursuant to the Amended and Restated Credit Agreement, the Guarantors entered into that certain Reaffirmation Agreement to Guaranty (the “Reaffirmation”), dated as of December 28, 2009, in favor of the Lender, pursuant to which, among other things, each Guarantor reaffirmed its obligations under the Guaranty and affirmed that such obligations apply to the Amended and Restated Credit Agreement (the Existing Guaranty, as reaffirmed by the Reaffirmation, and as the same may be further reaffirmed, amended, restated, amended and restated, supplemented, replaced or otherwise modified from time to time, the “Guaranty”).
+
+ 
+
+F.           In order to induce the Lender to enter into the Credit Agreement and the other Loan Documents and in order to induce the Lenders to continue to make the extensions of credit as provided for in the Credit Agreement, the Grantors have agreed to amend and restate the Existing Security Agreement as provided herein.
+
+ 
+
+
+
+
+
+1
+
+
+
+ 
+
+G.           It is the intent of the parties hereto that this Agreement amend and restate in its entirety the Existing Security Agreement as provided for herein.
+
+ 
+
+NOW, THEREFORE, in consideration of the agreements set forth herein and in the Credit Agreement and in order to induce Lender to make Revolving Loans and other extensions of credit under the Credit Agreement, each Grantor hereby agrees with Secured Party as follows:
+
+ 
+
+SECTION 1.
+
+Grant of Security.
+
+ 
+
+Each Grantor hereby assigns to Secured Party, and hereby grants to Secured Party a security interest in, all of such Grantor’s right, title and interest in and to all of the personal property of such Grantor, in each case whether now or hereafter existing, whether tangible or intangible, whether now owned or hereafter acquired, wherever the same may be located and whether or not subject to the Uniform Commercial Code as it exists on the date of this Agreement, or as it may hereafter be amended in the State of New York, including the following (the “Collateral”):
+
+ 
+
+(a)         all Accounts;
+
+ 
+
+(b)         all Chattel Paper;
+
+ 
+
+(c)         all Money and all Deposit Accounts, together with all amounts on deposit from time to time in such Deposit Accounts;
+
+ 
+
+(d)         all Documents;
+
+ 
+
+(e)         all General Intangibles, including all intellectual property, Payment Intangibles and Software;
+
+ 
+
+(f)          all Goods, including Inventory, Equipment and Fixtures;
+
+ 
+
+(g)         all Instruments;
+
+ 
+
+(h)         all Investment Property;
+
+ 
+
+(i)          all Letter-of-Credit Rights and other Supporting Obligations;
+
+ 
+
+(j)          all Records;
+
+ 
+
+(k)         all Commercial Tort Claims, including those set forth on Schedule 1 annexed hereto; and
+
+ 
+
+(l)          all Proceeds and Accessions with respect to any of the foregoing Collateral.;
+
+ 
+
+provided, however, that (A) “Collateral” shall not include (i) any Excluded Property (provided, further, that if and when any property shall cease to be Excluded Property (and otherwise constitutes Collateral at such time), such property shall be deemed at all times from and after the date hereof to constitute Collateral) nor (ii) any Equity Interest in Talbots Classics National Bank or Talbots Charitable Foundation, Inc. and (B) in the case of Equity Interests in any foreign Subsidiary, the Collateral shall be limited to 100% of the non-voting Equity Interests (if any) and 66% of the voting Equity Interests in such foreign Subsidiary.
+
+ 
+
+
+
+
+
+2
+
+
+
+ 
+
+Each category of Collateral set forth above shall have the meaning set forth in the UCC (to the extent such term is defined in the UCC), it being the intention of Grantors that the description of the Collateral set forth above be construed to include the broadest possible range of assets.
+
+ 
+
+SECTION 2.
+
+Security for Obligations.
+
+ 
+
+This Agreement secures, and the Collateral is collateral security for, the prompt payment or performance in full when due, whether at stated maturity, by required prepayment, declaration, acceleration, demand or otherwise, of all Secured Obligations of each Grantor.
+
+ 
+
+SECTION 3.
+
+Grantors Remain Liable.
+
+ 
+
+Anything contained herein to the contrary notwithstanding, (a) each Grantor shall remain liable under any contracts and agreements included in the Collateral, to the extent set forth therein, to perform all of its duties and obligations thereunder to the same extent as if this Agreement had not been executed, (b) the exercise by Secured Party of any of its rights hereunder shall not release any Grantor from any of its duties or obligations under the contracts and agreements included in the Collateral, and (c) Secured Party shall not have any obligation or liability under any contracts, licenses, and agreements included in the Collateral by reason of this Agreement, nor shall Secured Party be obligated to perform any of the obligations or duties of any Grantor thereunder or to take any action to collect or enforce any claim for payment assigned hereunder.
+
+ 
+
+SECTION 4.
+
+Representations and Warranties.
+
+ 
+
+Each Grantor represents and warrants as follows:
+
+ 
+
+(a)           Perfection.  The security interests in the Collateral granted to Secured Party hereunder constitute valid security interests in the Collateral, securing the payment of the Secured Obligations.  Upon (i) the filing of UCC financing statements naming each Grantor as “debtor”, naming Secured Party as “secured party” and describing the Collateral in the filing offices with respect to such Grantor set forth on Schedule 2 annexed hereto, (ii) in the case of the Securities Collateral consisting of certificated Securities or evidenced by Instruments, in addition to filing of such UCC financing statements, delivery of the certificates representing such certificated Securities and delivery of such Instruments to Secured Party, in each case duly endorsed or accompanied by duly executed instruments of assignment or transfer in blank, (iii) in the case of the Intellectual Property Collateral constituting Copyrights, Copyright Registrations and Copyright Rights, in addition to the filing of such UCC financing statements, the recordation of a grant with the applicable Copyright Office, (iv) in the case of Equipment that is covered by a certificate of title, the filing with the registrar of motor vehicles or other appropriate authority in the applicable jurisdiction of an application requesting the notation of the security interest created hereunder on such certificate of title, and (v), in the case of any Deposit Account and any Investment Property constituting a Security Entitlement, Securities Account, Commodity Contract or Commodity Account, the execution and delivery to Secured Party of an agreement providing for control by Secured Party thereof, the security interests in the Collateral granted to Secured Party will constitute perfected security interests therein prior to all other Liens (except for Liens expressly permitted under the Credit Agreement to be prior to the Liens in favor of the Secured Party), and all filings and other actions (to the extent within the control of the Grantors) necessary to perfect and protect such security interests have been, or promptly after the date hereof will be, duly made or taken.
+
+ 
+
+(b)           Office Locations; Type and Jurisdiction of Organization; Locations of Equipment and Inventory.  Such Grantor’s name as it appears in official filings in the jurisdiction of its organization, type of organization (i.e. corporation, limited partnership, etc.), jurisdiction of organization, principal place of business, chief executive office, office where such Grantor keeps its Records regarding the Accounts, Intellectual Property and originals of Chattel Paper, and organization number provided by the applicable Government Authority of the jurisdiction of organization are set forth on Schedule 3 annexed hereto (as supplemented by the Grantors from time to time in writing to the Secured Party referencing such Schedule in connection with the addition of Additional Grantors or in connection with changes to a Grantor’s jurisdiction of organization permitted under the Loan documents).  All of the Equipment and Inventory is located at the places set forth on Schedule 4 annexed hereto, except for Inventory which, in the ordinary course of business, is (x) in transit either (i) from a supplier to a Grantor, (ii) between the locations set forth on Schedule 4 annexed hereto, (iii) to customers of a Grantor or (y) is located in other retail stores or warehouses of the Borrower or its Subsidiaries to the extent such Grantor has previously identified such location in a written supplement to Schedule 4 to this Agreement delivered to the Secured Party.
+
+ 
+
+
+
+
+
+3
+
+
+
+ 
+
+(c)           Names.  No Grantor (or predecessor by merger or otherwise of such Grantor) has, within the five year period preceding the date hereof, or, in the case of an Additional Grantor, the date of the applicable Counterpart, had a different name from the name of such Grantor listed on the signature pages hereof, except the names set forth on Schedule 5 annexed hereto.
+
+ 
+
+(d)           Delivery of Certain Collateral.  All certificates or Instruments (excluding checks) evidencing, comprising or representing the Collateral with a face value in excess of $500,000 have been delivered to Secured Party duly endorsed or accompanied by duly executed instruments of transfer or assignment in blank.
+
+ 
+
+(e)           Securities Collateral.  Schedule 6 annexed hereto (as supplemented by the Grantors from time to time in writing to the Secured Party referencing such Schedule) sets forth all Equity Interests in any Subsidiary which constitutes Collateral owned by each Grantor, and the percentage ownership in each issuer thereof;
+
+ 
+
+(f)           Intellectual Property Collateral.  A true and complete list of all Trademark Registrations and applications for any Trademark owned, held (whether pursuant to a license or otherwise) or used by such Grantor, in whole or in part, that is material to the business of such Grantor is set forth on Schedule 7 annexed hereto (as supplemented by the Grantors from time to time in writing to the Secured Party referencing such Schedule); a true and complete list of all Patents owned, held (whether pursuant to a license or otherwise) or used by such Grantor, in whole or in part, that is material to the business of such Grantor is set forth on Schedule 8 annexed hereto (as supplemented by the Grantors from time to time in writing to the Secured Party referencing such Schedule); a true and complete list of all Copyright Registrations and applications for Copyright Registrations held (whether pursuant to a license or otherwise) by such Grantor, in whole or in part, that is material to the business of such Grantor is set forth on Schedule 9 annexed hereto (as supplemented by the Grantors from time to time in writing to the Secured Party referencing such Schedule).
+
+ 
+
+(g)           Deposit Accounts, Securities Accounts, Commodity Accounts.  Annexed hereto as (x) Schedule 10(a) (as supplemented by the Grantors from time to time in writing to the Secured Party referencing such Schedule), is a true and complete list of all Deposit Account and Securities Account owned by the Borrower and the other Grantors that are used (i) in connection with any Grantor’s revolving credit card business (including, without limitation, the Talbots credit card) or (ii) to receive amounts due to any Grantor from any third party credit card processor, and, in each case, indicates the name and address of, and appropriate contact at, the institution or intermediary at which the account is held and the account number thereof and (y) Schedule 10(b) (as supplemented by the Grantors from time to time in writing to the Secured Party referencing such Schedule) lists is a true and complete list of all Deposit Accounts, Securities Accounts and Commodity Accounts owned by each Grantor other than those listed under Schedule 10(a), and, in each case of Schedule 10(a) and 10(b), indicating the name and address of, and appropriate contact at, the institution or intermediary at which the account is held and the account number thereof.
+
+ 
+
+
+
+
+
+4
+
+
+
+ 
+
+(h)            Chattel Paper.  Such Grantor has no interest in any Chattel Paper with a face value in excess of $500,000, except as set forth in Schedule 11 annexed hereto (as supplemented by the Grantors from time to time in writing to the Secured Party referencing such Schedule).
+
+ 
+
+(i)             Letter-of-Credit Rights.  Such Grantor has no interest in any Letter-of-Credit Rights, except as set forth on Schedule 12 annexed hereto (as supplemented by the Grantors from time to time in writing to the Secured Party referencing such Schedule).
+
+ 
+
+(j)             Documents.  No negotiable Documents with a face value in excess of $500,000 are outstanding with respect to any of the Inventory, except as set forth on Schedule 13 annexed hereto (as supplemented by the Grantors from time to time in writing to the Secured Party referencing such Schedule).
+
+ 
+
+(k)            Credit Card Receivables.  Each Credit Card Receivable and all records, papers and documents relating thereto (i) are genuine and correct and in all material respects what they purport to be, (ii) represent the legal, valid and binding obligation of the account debtor, except as such enforceability may be limited by bankruptcy, insolvency, reorganization, moratorium or similar laws relating to or limiting creditors’ rights generally or by equitable principles relating to enforceability, evidencing obligations unpaid and owed by such account debtor, arising out of the performance of labor or services or the sale, lease, license, assignment or other disposition and delivery of the goods or other property listed therein or out of an advance of a loan, (iii) are in all material respects in compliance and conform with all applicable material federal, state and local laws and applicable laws of any relevant foreign jurisdiction and (iv) are not evidenced by a judgment, Instrument or Chattel Paper.
+
+ 
+
+(l)             Eligible Credit Card Receivables.   Schedule 14 annexed hereto, is a true and accurate calculation of (i) all the Credit Card Receivables of the Grantors on a consolidated basis for the month ended November 30, 2009 and (ii) the percentage of such Credit Card Receivables that constitute Eligible Credit Card Receivables.
+
+ 
+
+(m)           Credit Card Processors.  Schedule 15 annexed hereto (as supplemented by the Grantors from time to time in writing to the Secured Party referencing such Schedule), is a true and complete list of all Persons providing credit card processing services to the Borrower or any of its Subsidiaries, including the name and address of, and appropriate contact at, such Person, the name of the Borrower or Subsidiaries to which such services are provided and the merchant account number relating to such services.
+
+ 
+
+The representations and warranties as to the information set forth in Schedules referred to herein are made as to each Grantor (other than Additional Grantors) as of the date hereof and as to each Additional Grantor as of the date of the applicable Counterpart, and, in respect of any supplement to any Schedule provided in accordance with this Agreement or notice delivered pursuant to Section 22 hereof, such representations and warranties are made as of the date of such supplement or notice.
+
+
+
+
+
+
+
+5
+
+
+
+ 
+
+SECTION 5.
+
+Further Assurances.
+
+ 
+
+(a)      Generally.  Each Grantor agrees that from time to time, at the expense of Grantors, such Grantor will promptly execute and deliver all further instruments and documents, and take all further action, that may be necessary or desirable, or that Secured Party may reasonably request, in order to perfect and protect any security interest granted or purported to be granted hereby or to enable Secured Party to exercise and enforce its rights and remedies hereunder and under the Credit Agreement with respect to any Collateral.  Without limiting the generality of the foregoing, each Grantor will:  (i) notify Secured Party in writing of receipt by such Grantor of any interest in Chattel Paper with a face amount in excess of $500,000 and at the request of Secured Party, mark conspicuously each item of Chattel Paper and each of its records pertaining to the Collateral, with a legend, in form and substance satisfactory to Secured Party, indicating that such Collateral is subject to the security interest granted hereby, (ii) deliver to Secured Party all promissory notes and other Instruments, in each case with a face amount in excess of $500,000, and, at the request of Secured Party, all original counterparts of such Chattel Paper, duly endorsed and accompanied by duly executed instruments of transfer or assignment, all in form and substance satisfactory to Secured Party, (iii) (A) execute (if necessary) and file such financing or continuation statements, or amendments thereto, (B) execute and deliver, and cause to be executed and delivered, agreements establishing that Secured Party has control of Deposit Accounts and Investment Property of such Grantor, (C) deliver such documents, instruments, notices (including, without limitation, Credit Card Notifications and demand deposit account notifications satisfactory to the Secured Party), records and consents, and take such other actions, necessary to establish that secured party has control over electronic Chattel Paper and Letter-of-Credit Rights of such Grantor and (D) deliver such other instruments or notices, in each case, as may be necessary, or as Secured Party may reasonably request, in order to perfect and preserve the security interests granted or purported to be granted hereby, (iv) furnish to Secured Party from time to time statements and schedules further identifying and describing the Collateral and such other reports in connection with the Collateral as Secured Party may reasonably request, all in reasonable detail, (v) at any reasonable time, upon request by Secured Party, exhibit the Collateral to and allow inspection of the Collateral by Secured Party, or any agent designated by Secured Party, (viii) at Secured Party’s request, appear in and defend any action or proceeding that may affect such Grantor’s title to or Secured Party’s security interest in all or any part of the Collateral, and (ix) use commercially reasonable efforts to obtain any necessary consents of third parties to the creation and perfection of a security interest in favor of Secured Party with respect to any Collateral.  Each Grantor hereby authorizes Secured Party to file one or more financing or continuation statements, and amendments thereto, relative to all or any part of the Collateral (including any financing statement indicating that it covers “all assets” or “all personal property” of such Grantor) without the signature of any Grantor.
+
+ 
+
+(b)      Securities Collateral.  Without limiting the generality of the foregoing Section 5(a), each Grantor agrees that it will promptly (and in any event within five Business Days) upon obtaining any additional (i) Equity Interests in any Subsidiary which constitutes Collateral or (ii) Instruments or other evidences of Indebtedness issued by any Grantor with a face amount in excess of $500,000, notify the Secured Party of such additional Equity Interests or Instruments, deliver any certificates evidencing such Equity Interests or any such Instruments to the Secured Party, deliver a supplement to Schedule 6 to the Secured Party and, to the extent requested by the Secured Party, execute and deliver to Secured Party a supplement to this agreement, duly executed by such Grantor, in respect of such additional Equity Interests or additional Instruments; provided, that the failure of any Grantor to execute a supplement with respect to any additional Equity Interests or additional Instruments shall not impair the security interest of Secured Party therein or otherwise adversely affect the rights and remedies of Secured Party hereunder with respect thereto.
+
+ 
+
+(c)      Intellectual Property Collateral.  Each Grantor shall promptly notify Secured Party in writing of any rights to any material Intellectual Property Collateral acquired by such Grantor after the date hereof and promptly deliver a supplement to Schedules 7, 8 and 9 as applicable reflecting such additional Intellectual Property Collateral.
+
+ 
+
+(d)      Commercial Tort Claims.  Grantors have no Commercial Tort Claims as of the date hereof, except as set forth on Schedule 1 annexed hereto.  In the event that a Grantor shall at any time after the date hereof have any Commercial Tort Claims in excess of $500,000, such Grantor shall promptly notify Secured Party thereof in writing, which notice shall (i) set forth in reasonable detail the basis for and nature of such Commercial Tort Claim and (ii) constitute an amendment to this Agreement by which such Commercial Tort Claim shall constitute part of the Collateral.
+
+ 
+
+
+
+
+
+6
+
+
+
+ 
+
+SECTION 6.
+
+Certain Covenants of Grantors.
+
+ 
+
+ Each Grantor shall:
+
+ 
+
+(a)        not use or permit any Collateral to be used unlawfully or in violation of any provision of this Agreement or any applicable statute, regulation or ordinance or any policy of insurance covering the Collateral;
+
+ 
+
+(b)       give Secured Party at least 30 days’ prior written notice of (i) any change in such Grantor’s name, identity or corporate structure and (ii) any reincorporation, reorganization or other action that results in a change of the jurisdiction of organization of such Grantor;
+
+ 
+
+(c)        keep and maintain materially complete and accurate records of the Collateral and all parts thereof, in a manner consistent with prudent business practice, including, without limitation, records of all payments received, all credits granted thereon, all merchandise returned, all fees and service charges charged in connection therewith and all other documentation relating thereto;
+
+ 
+
+(d)        not (i) rescind or cancel any indebtedness constituting Credit Card Receivables or modify any term thereof or make any adjustment with respect thereto, (ii) extend or renew any such indebtedness or (iii) settle any dispute, claim, suit or legal proceeding relating thereto, except, in each case, in the ordinary course of business consistent with prudent business practice or with the written consent of the Secured Party;
+
+ 
+
+(e)        not sell, assign or otherwise transfer any Credit Card Receivables or interest therein without the written consent of the Secured Party, except in connection with a disposition permitted under the Credit Agreement;
+
+ 
+
+(f)    	 not permit the aggregate amount of Credit Card Receivables that constitute Eligible Credit Card Receivables of the Grantors to fall below $121 million of all Credit Card Receivables of the Grantors;
+
+ 
+
+(g)        promptly upon the request of the Secured Party, execute and deliver a Credit Card Notification to each Credit Card Processor (with a certified copy to the Secured Party);
+
+ 
+
+(h)        promptly upon the establishment of any credit card processing service agreement with any credit card processor that is not listed on Schedule 15 hereto (as previously supplemented), provide the Secured Party an update to Schedule 15 hereto to include each such credit card processor;
+
+ 
+
+
+
+
+
+7
+
+
+
+ 
+
+(i)         Except as otherwise provided in this subsection (i), continue to collect, at its own expense, all amounts due or to become due to such Grantor under the Credit Card Receivables.  In connection with such collections, each Grantor may take (and, upon the occurrence and during the continuance of an Event of Default at Secured Party’s direction, shall take) such action as such Grantor or Secured Party may deem necessary or advisable to enforce collection of amounts due or to become due under the Credit Card Receivables; provided, however, that Secured Party shall have the right at any time, upon the occurrence and during the continuation of an Event of Default upon written notice to such Grantor of its intention to do so, to (i) notify the account debtors or obligors under any Credit Card Receivable of the assignment of such Credit Card Receivable to Secured Party and to direct such account debtors or obligors to make payment of all amounts due or to become due to such Grantor thereunder directly to Secured Party, (ii) notify each Person maintaining a lockbox, demand deposit account or similar arrangement to which account debtors or obligors under any Credit Card Receivable have been directed to make payment to remit all amounts representing collections on checks and other payment items from time to time sent to or deposited in such lockbox or other arrangement directly to Secured Party, (iii) enforce collection of any such Credit Card Receivables at the expense of Grantors, and (iv) adjust, settle or compromise the amount or payment thereof, in the same manner and to the same extent as such Grantor might have done.  After receipt by such Grantor of the notice from Secured Party referred to in the proviso to the preceding sentence, (A) all amounts and proceeds (including checks and other Instruments) received by such Grantor in respect of the Credit Card Receivables shall be received in trust for the benefit of Secured Party hereunder, shall be segregated from other funds of such Grantor and shall be forthwith paid over or delivered to Secured Party in the same form as so received (with any necessary endorsement) to be held as cash Collateral and applied as provided by Section 16 hereof, and (B) such Grantor shall not, without the written consent of Secured Party, adjust, settle or compromise the amount or payment of any Account, or release wholly or partly any account debtor or obligor thereof, or allow any credit or discount thereon;
+
+ 
+
+(j)         concurrently with the establishment of any Deposit Account or Securities Account by the Borrower or any of its Subsidiaries (x) provide the Secured Party with the information required under Schedule 10 hereto for each such Deposit Account or Securities Account, (y) other than with respect to any Excluded Deposit Account, upon the request of the Secured Party, promptly execute and deliver, agreements granting a security interest to the Secured Party in each such Deposit Account or Securities Account and establishing that Secured Party has control of each such Deposit Account or Securities Account, reasonably requested by and in form and substance reasonably satisfactory to the Secured Party and (z) other than with respect to any Excluded Deposit Account, to the extent such Deposit Account or Securities Account is owned by a Subsidiary of the Borrower that is not a Grantor, upon the request of the Secured Party, promptly cause such Subsidiary to become a party to (1) the Guaranty by executing a Guaranty Agreement Supplement in the form provided in the Guaranty and (2) this Agreement in accordance with Section 20 hereof;
+
+ 
+
+(k)        not terminate, sell, assign or otherwise transfer any Credit Card Deposit Account or interest therein without (i) the written consent of the Secured Party or (ii) in connection with a disposition permitted under the Credit Agreement; and
+
+ 
+
+(l)         deposit all proceeds of any Credit Card Receivables into a Credit Card Deposit Account (provided that until such time as an Event of Default has occurred and is continuing, this provisions shall not restrict the Borrower and its Subsidiaries from transferring such proceeds to other accounts or otherwise disposing of such proceeds, in each case, to the extent and in the manner permitted under the Credit Agreement and the other Loan Documents).
+
+ 
+
+SECTION 7.
+
+Special Covenants With Respect to Equipment and Inventory.
+
+ 
+
+(a)        Each Grantor shall, if any Inventory is in possession or control of any of such Grantor’s agents or processors, if the aggregate book value of all such Inventory exceeds $500,000, and in any event upon the occurrence of an Event of Default, instruct such agent or processor to hold all such Inventory for the account of Secured Party and subject to the instructions of Secured Party; and
+
+ 
+
+(b)        if any Inventory with an aggregate book value in excess of $500,000 (or, in the case of Inventory located in retail stores, in excess of $1,000,000) is located on premises leased by such Grantor, use commercially reasonable efforts to deliver to Secured Party a fully executed landlord waiver, subordination or collateral access agreement, in form and substance reasonably satisfactory to Secured Party, executed by the landlord of any such premises leased or occupied by a Grantor in favor of Secured Party.
+
+ 
+
+
+
+
+
+8
+
+
+
+ 
+
+SECTION 8.     Special Covenants with respect to Accounts.
+
+ 
+
+Except as otherwise provided in this Section 8, each Grantor shall continue to collect, at its own expense, all amounts due or to become due to such Grantor under the Accounts.  In connection with such collections, each Grantor may take (and, upon the occurrence and during the continuance of an Event of Default at Secured Party’s direction, shall take) such action as such Grantor or Secured Party may deem necessary or advisable to enforce collection of amounts due or to become due under the Accounts; provided, however, that Secured Party shall have the right at any time, upon the occurrence and during the continuation of an Event of Default, to (i) notify the account debtors or obligors under any Accounts of the assignment of such Accounts to Secured Party and to direct such account debtors or obligors to make payment of all amounts due or to become due to such Grantor thereunder directly to Secured Party, (ii) notify each Person maintaining a lockbox or similar arrangement to which account debtors or obligors under any Accounts have been directed to make payment to remit all amounts representing collections on checks and other payment items from time to time sent to or deposited in such lockbox or other arrangement directly to Secured Party, (iii) enforce collection of any such Accounts at the expense of Grantors, and (iv) adjust, settle or compromise the amount or payment thereof, in the same manner and to the same extent as such Grantor might have done.  Upon the occurrence and during the continuation of an Event of Default and upon receipt by any Grantor of notice from Secured Party, (A) all amounts and proceeds (including checks and other Instruments) received by such Grantor in respect of the Accounts shall be received in trust for the benefit of Secured Party hereunder, shall be segregated from other funds of such Grantor and shall be forthwith paid over or delivered to Secured Party in the same form as so received (with any necessary endorsement) to be held as cash Collateral and applied as provided by Section 16 hereof, and (B) such Grantor shall not, without the written consent of Secured Party, adjust, settle or compromise the amount or payment of any Account, or release wholly or partly any account debtor or obligor thereof, or allow any credit or discount thereon
+
+ 
+
+SECTION 9.     Special Covenants With Respect to the Securities Collateral.
+
+ 
+
+(a)            Form of Securities Collateral.  Secured Party shall have the right at any time to exchange certificates or instruments representing or evidencing Securities Collateral for certificates or instruments of smaller or larger denominations.  If any Securities Collateral is not a security pursuant to Section 8-103 of the UCC, no Grantor shall take any action that, under such Section, converts such Securities Collateral into a security without causing the issuer thereof to issue to it certificates or instruments evidencing such Securities Collateral, which it shall promptly deliver to Secured Party.
+
+ 
+
+(b)            Covenants.  Each Grantor shall (i) not, except as expressly permitted by the Credit Agreement, permit any issuer of Pledged Subsidiary Equity to merge or consolidate unless all the outstanding Equity Interests of the surviving or resulting Person are, upon such merger or consolidation, pledged and become Collateral hereunder and no cash, securities or other property is distributed in respect of the outstanding Equity Interests of any other constituent corporation; (ii) cause each issuer of Pledged Subsidiary Equity not to issue Equity Interests in addition to or in substitution for the Pledged Subsidiary Equity issued by such issuer, except to such Grantor; (iii) upon its acquisition (directly or indirectly) of any Pledged Subsidiary Equity, comply with Section 5(b); (iv) upon its issuance of any and all Instruments or other evidences of additional Indebtedness with a face amount in excess of $500,000, comply with Section 5(b); (v) promptly deliver to Secured Party all written notices received by it with respect to the Securities Collateral; (vi) at its expense (A) perform and comply in all material respects with all terms and provisions of any agreement related to the Securities Collateral required to be performed or complied with by it, (B) maintain all such agreements in full force and effect and (C) enforce all such agreements in accordance with their terms; and (vii), at the request of Secured Party, promptly execute and deliver to Secured Party an agreement providing for control by Secured Party of all Security Entitlements, Securities Accounts, Commodity Contracts and Commodity Accounts of such Grantor.
+
+ 
+
+
+
+
+
+9
+
+
+
+ 
+
+(c)            Voting and Distributions.  So long as the Lender shall have given notice of its intent to exercise such rights at any time an Event of Default shall have occurred and be continuing, (i) each Grantor shall be entitled to exercise any and all voting and other consensual rights pertaining to the Securities Collateral or any part thereof for any purpose not prohibited by the terms of this Agreement or the Credit Agreement; provided, no Grantor shall exercise or refrain from exercising any such right if Secured Party shall have notified such Grantor that, in Secured Party’s reasonable judgment, such action would have a material adverse effect on the value of the Securities Collateral or any part thereof; and (ii) each Grantor shall be entitled to receive and retain any and all dividends, other distributions, principal and interest paid in respect of the Securities Collateral.
+
+ 
+
+Upon the occurrence and during the continuation of an Event of Default, (x) upon written notice from Secured Party to any Grantor, all rights of such Grantor to exercise the voting and other consensual rights which it would otherwise be entitled to exercise pursuant hereto shall cease, and all such rights shall thereupon become vested in Secured Party who shall thereupon have the sole right to exercise such voting and other consensual rights; (y) except as otherwise specified in the Credit Agreement, all rights of such Grantor to receive the dividends, other distributions, principal and interest payments which it would otherwise be authorized to receive and retain pursuant hereto shall cease, and all such rights shall thereupon become vested in Secured Party who shall thereupon have the sole right to receive and hold as Collateral such dividends, other distributions, principal and interest payments; and (z) all dividends, principal, interest payments and other distributions which are received by such Grantor contrary to the provisions of clause (y) above shall be received in trust for the benefit of Secured Party, shall be segregated from other funds of such Grantor and shall forthwith be paid over to Secured Party as Collateral in the same form as so received (with any necessary endorsements).
+
+ 
+
+In order to permit Secured Party to exercise the voting and other consensual rights which it may be entitled to exercise pursuant hereto and to receive all dividends and other distributions which it may be entitled to receive hereunder, (I) each Grantor shall promptly execute and deliver (or cause to be executed and delivered) to Secured Party all such proxies, dividend payment orders and other instruments as Secured Party may from time to time reasonably request, and (II) without limiting the effect of clause (I) above, each Grantor hereby grants to Secured Party an irrevocable proxy to vote the Pledged Equity and to exercise all other rights, powers, privileges and remedies to which a holder of the Pledged Equity would be entitled (including giving or withholding written consents of holders of Equity Interests, calling special meetings of holders of Equity Interests and voting at such meetings), which proxy shall be effective, automatically and without the necessity of any action (including any transfer of any Pledged Equity on the record books of the issuer thereof) by any other Person (including the issuer of the Pledged Equity or any officer or agent thereof), upon the occurrence of an Event of Default and which proxy shall only terminate upon the payment in full of the Secured Obligations, the cure of such Event of Default or waiver thereof as evidenced by a writing executed by Secured Party.
+
+ 
+
+SECTION 10.
+
+Special Covenants With Respect to the Intellectual Property Collateral.
+
+ 
+
+(a)           Except as otherwise provided in this Section 10, each Grantor shall continue to collect, at its own expense, all amounts due or to become due to such Grantor in respect of the Intellectual Property Collateral or any portion thereof.  In connection with such collections, each Grantor may take (and, after the occurrence and during the continuance of any Event of Default at Secured Party’s reasonable direction, shall take) such action as such Grantor or Secured Party may deem reasonably necessary or advisable to enforce collection of such amounts; provided, Secured Party shall have the right at any time, upon the occurrence and during the continuation of an Event of Default, to notify the obligors with respect to any such amounts of the existence of the security interest created hereby and to direct such obligors to make payment of all such amounts directly to Secured Party, and, upon such notification and at the expense of such Grantor, to enforce collection of any such amounts and to adjust, settle or compromise the amount or payment thereof, in the same manner and to the same extent as such Grantor might have done.  Upon the occurrence and during the continuation of an Event of Default and upon receipt by any Grantor of notice from Secured Party, (i) all amounts and proceeds (including checks and Instruments) received by each Grantor in respect of amounts due to such Grantor in respect of the Intellectual Property Collateral or any portion thereof shall be received in trust for the benefit of Secured Party hereunder, shall be segregated from other funds of such Grantor and shall be forthwith paid over or delivered to Secured Party in the same form as so received (with any necessary endorsement) to be held as cash Collateral and applied as provided by Section 16 hereof, and (ii) such Grantor shall not adjust, settle or compromise the amount or payment of any such amount or release wholly or partly any obligor with respect thereto or allow any credit or discount thereon.
+
+ 
+
+
+
+
+
+10
+
+
+
+ 
+
+(b)           Except as provided herein, each Grantor shall have the right to commence and prosecute in its own name, as real party in interest, for its own benefit and at its own expense, such suits, proceedings or other actions for infringement, unfair competition, dilution, misappropriation or other damage, or reexamination or reissue proceedings as are necessary to protect the Intellectual Property Collateral.
+
+ 
+
+(c)           In addition to, and not by way of limitation of, the granting of a security interest in the Collateral pursuant hereto, each Grantor, effective upon the occurrence and during the continuance of an Event of Default, hereby assigns, transfers and conveys to Secured Party the nonexclusive right and license to use all Trademarks, tradenames, Copyrights, Patents or technical processes (including, without limitation, the Intellectual Property Collateral) owned or used by such Grantor that relate to the Collateral, together with any goodwill associated therewith, all to the extent necessary to enable Secured Party to realize on the Collateral in accordance with this Agreement and to enable any transferee or assignee of the Collateral to enjoy the benefits of the Collateral.  This right shall inure to the benefit of all successors, assigns and transferees of Secured Party and its successors, assigns and transferees, whether by voluntary conveyance, operation of law, assignment, transfer, foreclosure, deed in lieu of foreclosure or otherwise.  Such right and license shall be granted free of charge, without requirement that any monetary payment whatsoever be made to such Grantor.
+
+ 
+
+ 
+
+SECTION 11.
+
+Secured Party Appointed Attorney-in-Fact.
+
+ 
+
+Each Grantor hereby irrevocably appoints Secured Party as such Grantor’s attorney-in-fact, with full authority in the place and stead of such Grantor and in the name of such Grantor, Secured Party or otherwise, from time to time in Secured Party’s discretion to take any action and to execute any instrument that Secured Party may deem necessary or advisable to accomplish the purposes of this Agreement, including, without limitation:
+
+ 
+
+(a)               upon the occurrence and during the continuance of an Event of Default, to obtain and adjust insurance required to be maintained by such Grantor or paid to Secured Party pursuant to the Credit Agreement;
+
+ 
+
+(b)               upon the occurrence and during the continuance of an Event of Default, to ask for, demand, collect, sue for, recover, compound, receive and give acquittance and receipts for moneys due and to become due under or in respect of any of the Collateral;
+
+ 
+
+
+
+
+
+11
+
+
+
+ 
+
+(c)               upon the occurrence and during the continuance of an Event of Default, to receive, endorse and collect any drafts or other Instruments, Documents, Chattel Paper and other documents in connection with clauses (a) and (b) above;
+
+ 
+
+(d)               upon the occurrence and during the continuance of an Event of Default, to file any claims or take any action or institute any proceedings that Secured Party may deem necessary or desirable for the collection of any of the Collateral or otherwise to enforce or protect the rights of Secured Party with respect to any of the Collateral;
+
+ 
+
+(e)               to pay or discharge taxes or Liens (other than taxes not required to be discharged pursuant to the Credit Agreement and Liens permitted under this Agreement or the Credit Agreement) levied or placed upon or threatened against the Collateral, the legality or validity thereof and the amounts necessary to discharge the same to be determined by Secured Party in its sole discretion, any such payments made by Secured Party to become obligations of such Grantor to Secured Party, due and payable immediately without demand;
+
+ 
+
+(f)               upon the occurrence and during the continuance of an Event of Default, to sign and endorse any invoices, freight or express bills, bills of lading, storage or warehouse receipts, drafts against debtors, assignments, verifications and notices in connection with Accounts and other documents relating to the Collateral;
+
+ 
+
+(g)               upon the occurrence and during the continuance of an Event of Default, generally to sell, transfer, pledge, make any agreement with respect to or otherwise deal with any of the Collateral as fully and completely as though Secured Party were the absolute owner thereof for all purposes, and to do, at Secured Party’s option and Grantors’ expense, at any time or from time to time, all acts and things that Secured Party deems necessary to protect, preserve or realize upon the Collateral and Secured Party’s security interest therein in order to effect the intent of this Agreement, all as fully and effectively as such Grantor might do; and
+
+ 
+
+(h)               upon the occurrence and during the continuance of an Event of Default, (i) endorse and collect any cash proceeds of the Collateral and apply the proceeds of any Collateral to the Secured Obligations, (ii) demand payment or enforce payment of the Credit Card Receivables in the name of the Secured Party, any nominee of the Secured Party or any Grantor and to endorse any and all checks, drafts and other instruments for the payment of money relating to the Credit Card Receivables, (iii) sign any Grantor’s name on any invoice or bill of lading relating to the Credit Card Receivables, drafts against any Account Debtor of such Grantor and assignments and verifications of receivables, (iv) exercise all of any Grantor’s rights and remedies with respect to the collection of the Credit Card Receivables, (v) settle, adjust or compromise any legal proceeding brought to collect any Credit Card Receivables, (vi) prepare, file and sign any Grantor’s name on a proof of claim in bankruptcy or similar document against any Account Debtor of such Grantor, (vii) prepare, file and sign any Grantor’s name on any notice of Lien, assignment or satisfaction of Lien or similar document in connection with the Credit Card Receivables and (viii) change the address for delivery of mail addressed to any Grantor to such address as the Secured Party may designate to receive, open and dispose of all mail addressed to such Grantor.
+
+ 
+
+All acts of said attorney-in-fact are hereby ratified and approved by the Grantors.  The powers conferred on the Secured Party under this Section 11 are solely to protect the Secured Party’s interests in the Collateral and shall not impose any duty upon the Secured Party to exercise any such powers.
+
+ 
+
+
+
+
+
+12
+
+
+
+ 
+
+SECTION 12.
+
+Secured Party May Perform.
+
+ 
+
+If any Grantor fails to perform any agreement contained herein, Secured Party may itself perform, or cause performance of, such agreement, and the expenses of Secured Party incurred in connection therewith shall be payable by Grantors under Section 17(b).
+
+ 
+
+SECTION 13.
+
+Standard of Care.
+
+ 
+
+The powers conferred on Secured Party hereunder are solely to protect its interest in the Collateral and shall not impose any duty upon it to exercise any such powers.  Except for the exercise of reasonable care in the custody of any Collateral in its possession and the accounting for moneys actually received by it hereunder, Secured Party shall have no duty as to any Collateral or as to the taking of any necessary steps to preserve rights against prior parties or any other rights pertaining to any Collateral.  Secured Party shall be deemed to have exercised reasonable care in the custody and preservation of Collateral in its possession if such Collateral is accorded treatment substantially equal to that which Secured Party accords its own property.
+
+ 
+
+SECTION 14.
+
+Remedies.
+
+ 
+
+(a)        Generally.  If any Event of Default shall have occurred and be continuing, Secured Party may, subject to Section 19 hereof,  exercise in respect of the Collateral, in addition to all other rights and remedies provided for herein or otherwise available to it, all the rights and remedies of a secured party on default under the UCC (whether or not the UCC applies to the affected Collateral), and also may (i) require each Grantor to, and each Grantor hereby agrees that it will at its expense and upon request of Secured Party forthwith, assemble all or part of the Collateral and all documentation related thereto as directed by Secured Party and make it available to Secured Party at a place to be designated by Secured Party that is reasonably convenient to both parties, (ii) enter onto the property where any Collateral or any documentation related thereto is located and take possession thereof with or without judicial process, (iii) prior to the disposition of the Collateral, store, process, repair or recondition the Collateral or otherwise prepare the Collateral for disposition in any manner to the extent Secured Party deems appropriate, (iv) take possession of any Grantor’s premises or place custodians in exclusive control thereof, remain on such premises and use the same and any of such Grantor’s equipment for the purpose of completing any work in process, taking any actions described in the preceding clause (iii) and collecting any Secured Obligation, (v) without notice except as specified below, sell the Collateral or any part thereof in one or more parcels at public or private sale, at any of Secured Party’s offices or elsewhere, for cash, on credit or for future delivery, at such time or times and at such price or prices and upon such other terms as Secured Party may deem commercially reasonable, (vi) exercise dominion and control over, provide instructions directing the disposition of funds, instruments, securities and other property in and refuse to permit further withdrawals from any Deposit Account maintained with Secured Party or any Lender and provide instructions directing the disposition of funds in Deposit Accounts not maintained with Secured Party or any Lender and (vii) provide entitlement orders with respect to Security Entitlements and other Investment Property constituting a part of the Collateral and, without notice to any Grantor, transfer to or register in the name of Secured Party or any of its nominees any or all of the Securities Collateral.  Secured Party or any Lender may be the purchaser of any or all of the Collateral at any such sale and Secured Party, as agent for and representative of Lenders (but not any Lender  in its individual capacity unless all the Lenders shall otherwise agree in writing), shall be entitled, for the purpose of bidding and making settlement or payment of the purchase price for all or any portion of the Collateral sold at any such public sale, to use and apply any of the Secured Obligations as a credit on account of the purchase price for any Collateral payable by Secured Party at such sale.  Each purchaser at any such sale shall hold the property sold absolutely free from any claim or right on the part of any Grantor, and each Grantor hereby waives (to the extent permitted by applicable law) all rights of redemption, stay and/or appraisal which it now has or may at any time in the future have under any rule of law or statute now existing or hereafter enacted.  Each Grantor agrees
+
+ 
+
+
+
+
+
+13
+
+
+
+ 
+
+that, to the extent notice of sale shall be required by law, at least ten days’ notice to such Grantor of the time and place of any public sale or the time after which any private sale is to be made shall constitute reasonable notification.  Secured Party shall not be obligated to make any sale of Collateral regardless of notice of sale having been given.  Secured Party may adjourn any public or private sale from time to time by announcement at the time and place fixed therefor, and such sale may, without further notice, be made at the time and place to which it was so adjourned.  Each Grantor hereby waives any claims against Secured Party arising by reason of the fact that the price at which any Collateral may have been sold at such a private sale was less than the price which might have been obtained at a public sale, even if Secured Party accepts the first offer received and does not offer such Collateral to more than one offeree.  If the proceeds of any sale or other disposition of the Collateral are insufficient to pay all the Secured Obligations, Grantors shall be jointly and severally liable for the deficiency and the fees of any attorneys employed by Secured Party to collect such deficiency.  Each Grantor further agrees that a breach of any of the covenants contained in this Section 14 will cause irreparable injury to Secured Party, that Secured Party has no adequate remedy at law in respect of such breach and, as a consequence, that each and every covenant contained in this Section shall be specifically enforceable against such Grantor, and each Grantor hereby waives and agrees not to assert any defenses against an action for specific performance of such covenants except for a defense that no default has occurred giving rise to the Secured Obligations becoming due and payable prior to their stated maturities.
+
+ 
+
+(b)        Securities Collateral.  Each Grantor recognizes that, by reason of certain prohibitions contained in the Securities Act and applicable state securities laws, Secured Party may be compelled, with respect to any sale of all or any part of the Securities Collateral conducted without prior registration or qualification of such Securities Collateral under the Securities Act and/or such state securities laws, to limit purchasers to those who will agree, among other things, to acquire the Securities Collateral for their own account, for investment and not with a view to the distribution or resale thereof.  Each Grantor acknowledges that any such private placement may be at prices and on terms less favorable than those obtainable through a sale without such restrictions (including an offering made pursuant to a registration statement under the Securities Act) and, notwithstanding such circumstances, each Grantor agrees that any such private placement shall not be deemed, in and of itself, to be commercially unreasonable and that Secured Party shall have no obligation to delay the sale of any Securities Collateral for the period of time necessary to permit the issuer thereof to register it for a form of sale requiring registration under the Securities Act or under applicable state securities laws, even if such issuer would, or should, agree to so register it.  If Secured Party determines to exercise its right to sell any or all of the Securities Collateral, upon written request, each Grantor shall and shall cause each issuer of any Securities Collateral to be sold hereunder from time to time to furnish to Secured Party all such information as Secured Party may request in order to determine the amount of Securities Collateral which may be sold by Secured Party in exempt transactions under the Securities Act and the rules and regulations of the Securities and Exchange Commission thereunder, as the same are from time to time in effect.
+
+ 
+
+SECTION 15.
+
+Additional Remedies for Intellectual Property Collateral.
+
+ 
+
+(a)        Anything contained herein to the contrary notwithstanding, upon the occurrence and during the continuation of an Event of Default, (i) Secured Party shall have the right (but not the obligation) to bring suit, in the name of any Grantor, Secured Party or otherwise, to enforce any Intellectual Property Collateral, in which event each Grantor shall, at the request of Secured Party, do any and all lawful acts and execute any and all documents required by Secured Party in aid of such enforcement and each Grantor shall promptly, upon demand, reimburse and indemnify Secured Party as provided in Section 7 of the Credit Agreement and Section 17 hereof, as applicable, in connection with the exercise of its rights under this Section 15, and, to the extent that Secured Party shall elect not to bring suit to enforce any Intellectual Property Collateral as provided in this Section, each Grantor agrees to use all reasonable measures, whether by action, suit, proceeding or otherwise, to prevent the infringement of any of the Intellectual Property Collateral by others and for that purpose agrees to use its commercially reasonable judgment in
+
+ 
+
+
+
+
+
+14
+
+
+
+ 
+
+maintaining any action, suit or proceeding against any Person so infringing reasonably necessary to prevent such infringement; (ii) upon written demand from Secured Party, each Grantor shall execute and deliver to Secured Party an assignment or assignments of the Intellectual Property Collateral and such other documents as are necessary or appropriate to carry out the intent and purposes of this Agreement; (iii) each Grantor agrees that such an assignment and/or recording shall be applied to reduce the Secured Obligations outstanding only to the extent that Secured Party (or any Lender) receives cash proceeds in respect of the sale of, or other realization upon, the Intellectual Property Collateral; and (iv) within five Business Days after written notice from Secured Party, each Grantor shall make available to Secured Party, to the extent within such Grantor’s power and authority, such personnel in such Grantor’s employ as Secured Party may reasonably designate, by name, title or job responsibility, to permit such Grantor to continue, directly or indirectly, to produce, advertise and sell the products and services sold or delivered by such Grantor under or in connection with the Trademarks, Trademark Registrations and Trademark Rights, such persons to be available to perform their prior functions on Secured Party’s behalf and to be compensated by Secured Party at such Grantor’s expense on a per diem, pro-rata basis consistent with the salary and benefit structure applicable to each as of the date of such Event of Default.
+
+ 
+
+(b)        If (i) an Event of Default shall have occurred and, by reason of cure, waiver, modification, amendment or otherwise, no longer be continuing, (ii) no other Event of Default shall have occurred and be continuing, (iii) an assignment to Secured Party of any rights, title and interests in and to the Intellectual Property Collateral shall have been previously made, and (iv) the Secured Obligations shall not have become immediately due and payable, upon the written request of any Grantor, Secured Party shall promptly execute and deliver to such Grantor such assignments as may be necessary to reassign to such Grantor any such rights, title and interests as may have been assigned to Secured Party as aforesaid, subject to any disposition thereof that may have been made by Secured Party; provided, after giving effect to such reassignment, Secured Party’s security interest granted pursuant hereto, as well as all other rights and remedies of Secured Party granted hereunder, shall continue to be in full force and effect; and provided further, the rights, title and interests so reassigned shall be free and clear of all Liens other than Liens (if any) encumbering such rights, title and interest at the time of their assignment to Secured Party and Permitted Encumbrances.
+
+ 
+
+SECTION 16.
+
+Application of Proceeds.
+
+ 
+
+Except as expressly provided elsewhere in this Agreement, all proceeds received by Secured Party in respect of any sale of, collection from, or other realization upon all or any part of the Collateral shall be applied in the following order of priority:
+
+ 
+
+FIRST:  To the payment of all costs and expenses of such sale, collection or other realization, including reasonable compensation to Secured Party and its agents, advisors and counsel, and all other expenses, liabilities and advances made or incurred by Secured Party in connection therewith, and all amounts for which Secured Party is entitled to indemnification hereunder and all advances made by Secured Party hereunder for the account of Grantors, and to the payment of all costs and expenses paid or incurred by Secured Party in connection with the exercise of any right or remedy hereunder;
+
+ 
+
+SECOND:  To the payment of all other Secured Obligations (for the ratable benefit of the holders thereof); and
+
+ 
+
+THIRD:  To the payment to or upon the order of the Borrower, or to whosoever may be lawfully entitled to receive the same or as a court of competent jurisdiction may direct, of any surplus then remaining from such proceeds.
+
+ 
+
+
+
+
+
+15
+
+
+
+ 
+
+SECTION 17.
+
+Indemnity and Expenses.
+
+ 
+
+(a)        Grantors jointly and severally agree to indemnify Secured Party and each Lender  from and against any and all claims, losses and liabilities in any way relating to, growing out of or resulting from this Agreement and the transactions contemplated hereby (including, without limitation, enforcement of this Agreement), except to the extent such claims, losses or liabilities result solely from Secured Party’s or such Lender’s gross negligence or willful misconduct as determined by a final non-appealable judgment of a court of competent jurisdiction.
+
+ 
+
+(b)        Grantors jointly and severally agree to pay to Secured Party upon demand the amount of any and all costs and expenses in accordance with subsection 7.1 of the Credit Agreement.
+
+ 
+
+(c)        The obligations of Grantors in this Section 17 shall survive the termination of this Agreement and the discharge of Grantors’ other obligations under this Agreement, the Credit Agreement and the other Loan Documents.
+
+ 
+
+SECTION 18.
+
+Continuing Security Interest; Transfer of Loans; Termination and Release.
+
+ 
+
+(a)        This Agreement shall create a continuing security interest in the Collateral and shall (i) remain in full force and effect until the indefeasible payment in full in immediately available funds of the principal, interest and all other amounts under this Credit Agreement and under any other Loan Document and the termination of this Credit Agreement and each other Loan Document and the cancellation or termination of the Revolving Loan Commitments, (ii) be binding upon Grantors and their respective successors and assigns, and (iii) inure, together with the rights and remedies of Secured Party hereunder, to the benefit of Secured Party and its successors, transferees and assigns.
+
+ 
+
+        (b)        Upon the indefeasible payment in full of all Secured Obligations in immediately available funds and the cancellation or termination of the Revolving Loan Commitments, the security interest granted hereby in the Collateral shall automatically terminate and all rights to the Collateral shall revert to the applicable Grantors.  Upon the sale, lease, transfer or other disposition of any item of Collateral (including, without limitation, as a result of (x) the sale or other transfer or disposition of the Subsidiary that owns such Collateral other than to a Person that is, or is required to be, a Grantor or Additional Grantor or (y) the merger, consolidation, amalgamation or dissolution of the Subsidiary that owns such Collateral other than a merger, consolidation or amalgamation with or a Person that is, or is required to be, a Grantor or Additional Grantor), in each case, in accordance with the terms of the Loan Documents, the security interest granted hereby in such item of Collateral shall automatically terminate and all rights to such item of Collateral shall revert to the applicable Grantors.  Upon any such release described in this Section 18(b), the Secured Party, at the Borrower’s expense, shall execute and deliver to such Grantor such documents in form and substance reasonably satisfactory to Secured Party (and without recourse to or warranty by the Secured Party) as may be reasonably requested to evidence such release of such Collateral from the assignment and security interest granted hereunder.
+
+ 
+
+SECTION 19.
+
+Secured Party as Agent.
+
+ 
+
+     Secured Party has been appointed to act as Secured Party hereunder by Lenders.  Secured Party shall be obligated, and shall have the right hereunder, to make demands, to give notices, to exercise or refrain from exercising any rights, and to take or refrain from taking any action (including, without limitation, the release or substitution of Collateral), solely in accordance with this Agreement and the Credit Agreement; provided that Secured Party shall exercise, or refrain from exercising, any remedies provided for in Sections 14 and 15 hereof in accordance with the instructions of the Lenders.
+
+ 
+
+
+
+
+
+16
+
+
+
+ 
+
+SECTION 20.
+
+Additional Grantors.
+
+ 
+
+     The initial Grantors hereunder shall be the Borrower and such of the Subsidiaries of the Borrower as are signatories hereto on the date hereof.  From time to time subsequent to the date hereof, additional Subsidiaries of the Borrower may become Additional Grantors, by executing a Counterpart.  Upon delivery of any such Counterpart to Secured Party, notice of which is hereby waived by Grantors, each such Additional Grantor shall be a Grantor and shall be as fully a party hereto as if such Additional Grantor were an original signatory hereto.  Each Grantor expressly agrees that its obligations arising hereunder shall not be affected or diminished by the addition or release of any other Grantor hereunder, nor by any election of Secured Party not to cause any Subsidiary of the Borrower to become an Additional Grantor hereunder.  This Agreement shall be fully effective as to any Grantor that is or becomes a party hereto regardless of whether any other Person becomes or fails to become or ceases to be a Grantor hereunder.
+
+ 
+
+SECTION 21.
+
+Amendments; Etc.
+
+ 
+
+     No amendment, modification, termination or waiver of any provision of this Agreement, and no consent to any departure by any Grantor therefrom, shall in any event be effective unless the same shall be in writing and signed by Secured Party and, in the case of any such amendment or modification, by Grantors; provided this Agreement may be modified by the execution of a Counterpart by an Additional Grantor in accordance with Section 20 hereof and Grantors hereby waive any requirement of notice of or consent to any such amendment.  Any such waiver or consent shall be effective only in the specific instance and for the specific purpose for which it was given.
+
+ 
+
+SECTION 22.
+
+Notices.
+
+ 
+
+     Any notice or other communication herein required or permitted to be given shall be in writing and shall be personally delivered, transmitted by postage prepaid registered or certified mail or by overnight mail, or transmitted by telephonic facsimile ("FAX") and electronic mail ("EMAIL") to the parties.  For the purposes hereof, the address of (i) each Grantor shall be as set forth under such party’s name on the signature pages hereof or, if none, as provided for in Section 8.6 of the Credit Agreement for notices to the Borrower and (ii) Secured Party as provided for in Section 8.6 of the Credit Agreement for notices to the Lender, or, in each case, such other address as shall be designated by such party in a written notice delivered to the other parties hereto from time to time.
+
+ 
+
+SECTION 23.
+
+Failure or Indulgence Not Waiver; Remedies Cumulative.
+
+ 
+
+     No failure or delay on the part of Secured Party in the exercise of any power, right or privilege hereunder shall impair such power, right or privilege or be construed to be a waiver of any default or acquiescence therein, nor shall any single or partial exercise of any such power, right or privilege preclude any other or further exercise thereof or of any other power, right or privilege.  All rights and remedies existing under this Agreement are cumulative to, and not exclusive of, any rights or remedies otherwise available.
+
+ 
+
+SECTION 24.
+
+Severability.
+
+ 
+
+     In case any provision in or obligation under this Agreement shall be invalid, illegal or unenforceable in any jurisdiction, the validity, legality and enforceability of the remaining provisions or obligations, or of such provision or obligation in any other jurisdiction, shall not in any way be affected or impaired thereby.
+
+ 
+
+
+
+
+
+17
+
+
+
+ 
+
+SECTION 25.
+
+Headings.
+
+ 
+
+     Section and subsection headings in this Agreement are included herein for convenience of reference only and shall not constitute a part of this Agreement for any other purpose or be given any substantive effect.
+
+ 
+
+SECTION 26.
+
+Governing Law; Rules of Construction.
+
+ 
+
+     THIS AGREEMENT AND THE RIGHTS AND OBLIGATIONS OF THE PARTIES HEREUNDER SHALL BE GOVERNED BY AND INTERPRETED IN ACCORDANCE WITH THE LAW OF THE STATE OF NEW YORK WITHOUT REGARD TO THE PRINCIPLES OF CONFLICTS OF LAWS THEREOF EXCEPT TO THE EXTENT THAT THE UCC PROVIDES THAT THE PERFECTION OF THE SECURITY INTEREST HEREUNDER, OR REMEDIES HEREUNDER, IN RESPECT OF ANY PARTICULAR COLLATERAL ARE GOVERNED BY THE LAWS OF A JURISDICTION OTHER THAN THE STATE OF NEW YORK, IN WHICH CASE THE LAWS OF SUCH JURISDICTION SHALL GOVERN WITH RESPECT TO THE PERFECTION OF THE SECURITY INTEREST IN, OR THE REMEDIES WITH RESPECT TO, SUCH PARTICULAR COLLATERAL.  The rules of construction set forth in Section 1 of the Credit Agreement shall be applicable to this Agreement mutatis mutandis.
+
+ 
+
+SECTION 27.
+
+Consent to Jurisdiction and Service of Process.
+
+ 
+
+(a)           Each Grantor hereby irrevocably agrees that any legal action or proceedings against it with respect to this Agreement may be brought in any court of the State of New York or any Federal Court of the United States of America located in the City or State of New York, or both, as the Secured Party may elect, and by execution and delivery of this Agreement each Grantor hereby submits to and accepts with regard to any such action or proceeding service of process by the mailing of copies thereof by registered or certified airmail, postage prepaid, to such Grantor pursuant to Section 22.
+
+ 
+
+(b)           Each Grantor hereby irrevocably waives any objection which it may now or hereafter have to the laying of the venue of any suit, action or proceeding arising out of or relating to this Agreement in the State of New York and hereby further irrevocably waives any claim that the State of New York is not a convenient forum for any such suit, action or proceeding.
+
+ 
+
+(c)           To the extent that any Grantor has or hereafter may acquire any immunity from jurisdiction of any court or from any legal process (whether through service or notice, attachment prior to judgment, attachment in aid of execution, execution or otherwise) with respect to itself or its property, each Grantor hereby irrevocably waives such immunity in respect of its obligations under this Agreement.
+
+ 
+
+SECTION 28.
+
+Waiver of Jury Trial.
+
+ 
+
+EACH GRANTOR HEREBY WAIVES ANY RIGHT IT MAY HAVE TO A JURY TRIAL IN CONNECTION WITH ANY ACTION RELATED TO THIS AGREEMENT, ANY NOTE EXECUTED PURSUANT HERETO OR ANY OTHER LOAN DOCUMENT.
+
+ 
+
+SECTION 29.
+
+Counterparts.
+
+ 
+
+This Agreement may be executed in one or more counterparts and by different parties hereto in separate counterparts, each of which when so executed and delivered shall be deemed an original, but all such counterparts together shall constitute but one and the same instrument; signature pages may be detached from multiple separate counterparts and attached to a single counterpart so that all signature pages are physically attached to the same document.
+
+ 
+
+
+
+
+
+18
+
+
+
+ 
+
+SECTION 30.
+
+Amendment and Restatement.
+
+ 
+
+This Agreement amends and restates the Existing Security Agreement.  All rights, benefits, indebtedness, interests, liabilities and obligations of the parties to the Existing Security Agreement and the agreements, documents and instruments executed and delivered in connection with the Existing Security Agreement (collectively, the “Existing Security Documents”) are hereby renewed, amended, restated and superseded in their entirety according to the terms and provisions set forth in this Agreement and the other Loan Documents.  This Agreement does not constitute, nor shall it result in, a waiver of, or release, discharge or forgiveness of, any amount payable pursuant to the Existing Security Documents or any indebtedness, liabilities or obligations of the Grantors thereunder, all of which are renewed and continued and are hereafter payable and to be performed in accordance with this Agreement and the other Loan Documents.  Neither this Agreement nor any of the other Loan Documents extinguishes the indebtedness or liabilities outstanding in connection with the Existing Security Documents, nor do they constitute a novation with respect thereto.
+
+ 
+
+SECTION 31.
+
+Definitions.
+
+ 
+
+(a)               Each capitalized term utilized in this Agreement that is not defined in the Credit Agreement or in this Agreement, but that is defined in the UCC, including the categories of Collateral listed in Section 1 hereof, shall have the meaning set forth in Articles 1, 8 or 9 of the UCC.
+
+ 
+
+(b)               In addition, the following terms used in this Agreement shall have the following meanings:
+
+ 
+
+“Additional Grantor” means a Subsidiary of Borrower that becomes a party hereto after the date hereof as an additional Grantor by executing a Counterpart.
+
+ 
+
+“Beneficiary” means Administrative Agent and each Lender.
+
+ 
+
+“Collateral” has the meaning set forth in Section 1 hereof.
+
+ 
+
+“Copyright Registrations” means all copyright registrations issued to any Grantor and applications for copyright registration that have been or may hereafter be issued or applied for thereon in the United States and any state thereof and in foreign countries (including, without limitation, the registrations set forth on Schedule 9 annexed hereto, as the same may be amended pursuant hereto from time to time).
+
+ 
+
+“Copyright Rights” means all common law and other rights in and to the Copyrights in the United States and any state thereof and in foreign countries including all copyright licenses (but with respect to such copyright licenses, only to the extent permitted by such licensing arrangements), the right (but not the obligation) to renew and extend Copyright Registrations and any such rights and to register works protectable by copyright and the right (but not the obligation) to sue in the name of any Grantor or in the name of Secured Party or Lenders for past, present and future infringements of the Copyrights and any such rights.
+
+ 
+
+“Copyright Office” shall mean the United States Copyright Office or any successor office or agency thereto.
+
+ 
+
+“Copyrights” means all items under copyright in various published and unpublished works of authorship including, without limitation, computer programs, computer data bases, other computer software layouts, trade dress, drawings, designs, writings, and formulas (including, without limitation, the works set forth on Schedule 9 annexed hereto, as the same may be amended pursuant hereto from time to time).
+
+ 
+
+
+
+
+
+19
+
+
+
+ 
+
+“Counterpart” means a counterpart to this Agreement entered into by a Subsidiary of Borrower pursuant to Section 20 hereof.
+
+ 
+
+“Credit Agreement” has the meaning set forth in the Preliminary Statements of this Agreement.
+
+ 
+
+“Credit Card Deposit Accounts” means, collectively, each of those Deposit Accounts and Securities Accounts listed on Schedule 10(a) hereto (as supplemented from time to time).
+
+ 
+
+“Credit Card Notification” means a notification to a Credit Card Processor in substantially the form of Exhibit A attached hereto or otherwise in form and substance reasonably acceptable to the Secured Party.
+
+ 
+
+“Credit Card Processor” means each provider of credit card processing services listed on Schedule 15 hereto, as supplemented from time to time.
+
+ 
+
+“Credit Card Receivables” means:
+
+ 
+
+(a)           all rights to payment for a monetary obligation, whether or not earned by performance, arising out of the use of a credit or charge card or information contained on or for the use with the card (including, without limitation, (i) any such obligation of (x) any credit card holder, charge card holder or any other Person or Persons directly obligated to make payments with respect to the use of such credit or charge card or information contained on or for the use with the card and (y) any third party credit card processor obligated to make payments to any Grantor in connection with the use of a credit or charge card or information contained on or for the use with the card and (ii) any periodic finance charges, annual membership fees, annual service charges, late fees, return check fees, account protection fees and all other similar fees and charges whether or not such rights constitute an Account under the UCC);
+
+ 
+
+(b)           all Money, Instruments, Investment Property and other property collected on, distributed or distributable in respect of any of the foregoing;
+
+ 
+
+(c)           all amounts received pursuant to the payment of benefits under any credit life insurance policies, credit disability or unemployment insurance policies covering any obligor with respect to the Accounts described in clause (a) above of such obligor; and
+
+ 
+
+(d)           all books, documents, instruments and records (including electronic records) evidencing or relating to the foregoing.
+
+ 
+
+“Eligible Credit Card Receivables” means, as of any date of determination, Credit Card Receivables due to one or more Grantors from (i) any Person directly obligated to make payments with respect to the use of a credit card or charge card owned and serviced by a Grantor or (ii) a major Credit Card Processor (including, but not limited to, VISA, Mastercard, American Express, Diners Club and DiscoverCard), in each case, as arise in the ordinary course of business of such Grantor and which have been earned by performance and that are not excluded as ineligible by virtue of one or more of the following criteria.  None of the following shall be deemed to be Eligible Credit Card Receivables:
+
+ 
+
+any Credit Card Receivable that:
+
+ 
+
+(a)           is not payable in Dollars;
+
+ 
+
+
+
+
+
+20
+
+
+
+ 
+
+(b)           has an obligor who has not provided, as his/her/its most recent billing address, an address located in the United States or its territories, possessions or military bases;
+
+ 
+
+(c)           has an obligor who has been identified by any Grantor or any Credit Card Processor as being currently involved in a voluntary or involuntary bankruptcy proceeding;
+
+ 
+
+(d)           has been identified as an account with respect to which (i) the related card, if any, has been lost or stolen or (ii) the related account number has been stolen;
+
+ 
+
+(e)           has been identified by any Grantor or any Credit Card Processor or the relevant obligor as having been incurred as a result of fraud or theft;
+
+ 
+
+(f)        	is past due for more than sixty (60) days from the applicable statement date, or for such longer period(s) as may be approved by the Secured Party in its sole discretion;
+
+ 
+
+(g)           conflicts, in any material respect, with any requirements of law applicable to the institution which owned such Credit Card Receivable at the time of its creation or is not owing pursuant to a cardholder agreement which complies in all material respects with all requirements of law applicable to the Borrower and its Subsidiaries;
+
+ 
+
+(h)           is subject to any material consents, licenses, approvals or authorizations of, or registrations or declarations with, any Governmental Authority required to be obtained, effected or given in connection with the creation of such Credit Card Receivable or the execution, delivery and performance by any Grantor of the cardholder agreement pursuant to which such Credit Card Receivable was created, other than those that have been duly obtained, effected or given and are in full force and effect as of such date of determination;
+
+ 
+
+(i)       	 a Grantor does not have good, valid and marketable title thereto, free and clear of any Lien (other than Liens granted to the Secured Party pursuant to this Agreement and Permitted Liens having priority by operation of applicable law over the Lien of the Secured Party);
+
+ 
+
+(j)     	   are not subject to a valid first priority (except as provided in clause (i) above) perfected security interest therein (and in the proceeds thereof) in favor of the Secured Party;
+
+ 
+
+(k)           are not the legal, valid and binding payment obligation of the obligor thereon, enforceable against such obligor in accordance with its terms, except as such enforceability may be limited by applicable bankruptcy, insolvency, reorganization, moratorium or other similar laws, now or hereafter in effect, affecting the enforcement of creditors’ rights in general and except as such enforceability may be limited by general principles of equity (whether considered in a suit at law or in equity);
+
+ 
+
+(l)      	  has been waived or modified other than as permitted in accordance with the terms of the underlying credit card agreement and which waiver or modification is reflected in the records of the Grantor owning such Credit Card Receivable;
+
+ 
+
+(m)           are disputed, or with respect to which a claim, counterclaim, offset or chargeback (other than chargebacks in the ordinary course by the credit card processors) has been asserted, by the related credit card processor (but only to the extent of such dispute, counterclaim, offset or chargeback);
+
+ 
+
+
+
+
+
+21
+
+
+
+ 
+
+(n)           at the time of determination, the Grantor owning such Credit Card Receivable has not satisfied all of its material obligations required to be satisfied by such time with respect thereto;
+
+ 
+
+(o)           are due from any credit card processors (other than Visa, Mastercard, American Express, Diners Club and DiscoverCard) which the Secured Party determines to be unlikely to be collected; or
+
+ 
+
+(p)           does not constitute an "account" under and as defined in Article 9 of the UCC.
+
+ 
+
+“Equity Interests” means all shares of stock, partnership interests, interests in Joint Ventures, limited liability company interests and all other equity interests in a Person, whether such stock or interests are classified as Investment Property or General Intangibles under the UCC.
+
+ 
+
+“Event of Default” means any Event of Default as defined in the Credit Agreement.
+
+ 
+
+“Excluded Deposit Accounts” means (a) deposit accounts or securities accounts used exclusively for payroll, pension or other employee benefits of the Borrower or any of its Subsidiaries and (b) deposit accounts or securities accounts of any Grantor with aggregate balances of less than $200,000 for all such accounts referenced in this clause (b).
+
+ 
+
+“Excluded Property” means, collectively, any permit, lease, license, contract, instrument or other agreement held by any Grantor that prohibits or requires the consent of any Person as a condition to the creation by such Grantor of a Lien thereon, or any permit, lease, license contract or other agreement held by any Grantor to the extent that any law applicable thereto prohibits the creation of a Lien thereon, but only, in each case, to the extent, and for so long as, such prohibition is not terminated or rendered unenforceable or otherwise deemed ineffective by the UCC; provided, however, “Excluded Property” shall not include any Proceeds, substitutions or replacements of Excluded Property (unless such Proceeds, substitutions or replacements would constitute Excluded Property).
+
+ 
+
+“Intellectual Property Collateral” means, with respect to any Grantor all right, title and interest (including rights acquired pursuant to a license or otherwise but only to the extent permitted by agreements governing such license or other use) in and to all
+
+ 
+
+(a)           Copyrights, Copyright Registrations and Copyright Rights, including, without limitation, each of the Copyrights, rights, titles and interests in and to the Copyrights, all derivative works and other works protectable by copyright, which are presently, or in the future may be, owned, created (as a work for hire for the benefit of such Grantor), authored (as a work for hire for the benefit of such Grantor), or acquired by such Grantor, in whole or in part, and all Copyright Rights with respect thereto and all Copyright Registrations therefor, heretofore or hereafter granted or applied for, and all renewals and extensions thereof, throughout the world;
+
+ 
+
+(b)           Patents;
+
+ 
+
+(c)           Trademarks, Trademark Registrations, the Trademark Rights and goodwill of such Grantor’s business symbolized by the Trademarks and associated therewith;
+
+ 
+
+
+
+
+
+22
+
+
+
+ 
+
+(d)           all trade secrets, trade secret rights, know-how, customer lists, processes of production, ideas, confidential business information, techniques, processes, formulas, and all other proprietary information; and
+
+ 
+
+(e)           all proceeds thereof (such as, by way of example and not by limitation, license royalties and proceeds of infringement suits).
+
+ 
+
+“IP Filing Office” means the Copyright Office or the Patent and Trademark Office, as applicable.
+
+ 
+
+“Patents” means all patents and patent applications and rights and interests in patents and patent applications under any domestic or foreign law that are presently, or in the future may be, owned or held by a Grantor and all patents and patent applications and rights, title and interests in patents and patent applications under any domestic or foreign law that are presently, or in the future may be, owned by such Grantor in whole or in part (including, without limitation, the patents and patent applications set forth on Schedule 8 annexed hereto), all rights (but not obligations) corresponding thereto to sue for past, present and future infringements and all re-issues, divisions, continuations, renewals, extensions and continuations-in-part thereof.
+
+ 
+
+“Patent and Trademark Office” shall mean the United States Patent and Trademark Office or any successor office or agency thereto.
+
+ 
+
+“Pledged Debt” means the Indebtedness from time to time owed to a Grantor and issued by the obligors named therein, the Instruments and certificates evidencing such Indebtedness and all interest, cash or other property received, receivable or otherwise distributed in respect of or exchanged therefor.
+
+ 
+
+“Pledged Equity” means all Equity Interests now or hereafter owned by a Grantor, including all securities convertible into, and rights, warrants, options and other rights to purchase or otherwise acquire, any of the foregoing, including those owned on the date hereof and set forth on Schedule 6 annexed hereto, the certificates or other instruments representing any of the foregoing and any interest of such Grantor in the entries on the books of any securities intermediary pertaining thereto and all distributions, dividends and other property received, receivable or otherwise distributed in respect of or exchanged therefor, but excluding any Equity Interests of Foreign Subsidiaries to the extent a security interest in such Equity Interests could reasonably be expected to result in material adverse Tax consequences to Borrower.
+
+ 
+
+“Pledged Subsidiary Debt” means Pledged Debt owed to a Grantor by any obligor that is, or becomes, a direct or indirect Subsidiary of such Grantor, of which such Grantor is a direct or indirect Subsidiary or that controls, is controlled by or under common control with such Grantor.
+
+ 
+
+“Pledged Subsidiary Equity” means Pledged Equity in a Person that is, or becomes a direct Subsidiary of a Grantor.
+
+ 
+
+“Secured Obligations” means:
+
+ 
+
+(a)           with respect to Borrower, all obligations and liabilities of every nature of Borrower now or hereafter existing under or arising out of or in connection with the Credit Agreement and the other Loan Documents; and
+
+ 
+
+(b)           with respect to each Subsidiary Guarantors and each Additional Grantor, all obligations and liabilities of every nature of such Subsidiary Guarantor and Additional Guarantor now or hereafter existing under or arising out of or in connection with the Guaranty (including, without limitation, the “Obligations” (as defined in the Guaranty).
+
+ 
+
+
+
+
+
+23
+
+
+
+ 
+
+in each case together with all extensions or renewals thereof, whether for principal, interest, fees, expenses, indemnities or otherwise, whether voluntary or involuntary, direct or indirect, absolute or contingent, liquidated or unliquidated, whether or not jointly owed with others, and whether or not from time to time decreased or extinguished and later increased, created or incurred, and all or any portion of such obligations or liabilities that are paid, to the extent all or any part of such payment is avoided or recovered directly or indirectly from any Secured Party as a preference, fraudulent transfer or otherwise, and all obligations of every nature of Grantors now or hereafter existing under this Agreement (including, without limitation, interest and other amounts that, but for the filing of a petition in bankruptcy with respect to the Borrower or any other Grantor, would accrue on such obligations, whether or not a claim is allowed against the Borrower or such Grantor for such amounts in the related bankruptcy proceeding).
+
+ 
+
+“Securities Act” means the Securities Act of 1933, as amended from time to time, and any successor statute.
+
+ 
+
+“Securities Collateral” means, with respect to any Grantor, the Pledged Equity, the Pledged Debt and any other Investment Property in which such Grantor has an interest.
+
+ 
+
+“Trademark Registrations” means all registrations that have been or may hereafter be issued or applied for thereon in the United States and any state thereof and in foreign countries (including, without limitation, the registrations and applications set forth on Schedule 7 annexed hereto).
+
+ 
+
+“Trademark Rights” means all common law and other rights (but in no event any of the obligations) in and to the Trademarks in the United States and any state thereof and in foreign countries.
+
+ 
+
+“Trademarks” means all trademarks, service marks, designs, logos, indicia, tradenames, trade dress, corporate names, company names, business names, fictitious business names, trade styles and/or other source and/or business identifiers and applications pertaining thereto, owned by a Grantor, or hereafter adopted and used, in its business (including, without limitation, the trademarks specifically set forth on Schedule 7 annexed hereto).
+
+ 
+
+“UCC” means the Uniform Commercial Code, as it exists on the date of this Agreement or as it may hereafter be amended, in the State of New York.
+
+ 
+
+[Remainder of page intentionally left blank]
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+24
+
+
+
+ 
+
+IN WITNESS WHEREOF, Grantors and Secured Party have caused this Agreement to be duly executed and delivered by their respective officers thereunto duly authorized as of the date first written above.
+
+ 
+
+GRANTORS:
+
+
+
+ 
+
+
+
+
+
+ 
+
+THE TALBOTS, INC.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Richard T. O’Connell, Jr.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:  Richard T. O’Connell, Jr.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:  Secretary
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+TALBOTS CLASSICS, INC.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By: 
+
+ 
+
+/s/ Richard T. O’Connell, Jr.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name: Richard T. O’Connell, Jr.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title: Secretary
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+ 
+
+THE TALBOTS GROUP, LIMITED PARTNERSHIP
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:  The Talbots, Inc., its sole general partner 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Richard T. O’Connell, Jr.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name: Richard T. O’Connell, Jr.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title: Secretary
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+TALBOTS IMPORT, LLC
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By: 
+
+ 
+
+/s/ Richard T. O’Connell, Jr.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name: Richard T. O’Connell, Jr.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title: Secretary
+
+ 
+
+ 
+
+
+
+
+
+ 
+
+TALBOTS INTERNATIONAL RETAILING LIMITED, INC.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By: 
+
+ 
+
+/s/ Richard T. O’Connell, Jr.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name: Richard T. O’Connell, Jr.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title: Secretary
+
+ 
+
+ 
+
+
+
+
+
+ 
+
+TALBOTS CLASSICS FINANCE COMPANY, INC.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Richard T. O’Connell, Jr.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name: Richard T. O’Connell, Jr.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title: Secretary
+
+ 
+
+ 
+
+
+
+
+
+
+
+[Amended And Restated Security Agreement]
+
+
+
+ 
+
+
+
+ 
+
+TALBOTS (U.K.) RETAILING LIMITED
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By: 
+
+ 
+
+/s/ Richard T. O’Connell, Jr.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name: Richard T. O’Connell, Jr.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title: Secretary
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+ 
+
+TALBOTS (CANADA), INC.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By: 
+
+ 
+
+/s/ Richard T. O’Connell, Jr.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name: Richard T. O’Connell, Jr.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title: Secretary
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+[Amended And Restated Security Agreement]
+
+
+
+
+
+
+
+ SECURED PARTY:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+AEON CO., LTD.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By: 
+
+ 
+
+/s/ Masaaki Toyoshima
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name: Masaaki Toyoshima
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title: Vice President & Chief Financial Officer
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Signed in:	
+
+1-5-1, Nakase, Mihama-ku, Chiba-shi, Chiba
+
+ 
+
+ 
+
+ 
+
+ 
+
+261-8515 JAPAN
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+[Amended And Restated Security Agreement]

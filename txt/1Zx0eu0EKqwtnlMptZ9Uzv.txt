@@ -1,0 +1,307 @@
+Exhibit 10.15
+
+OPTION AGREEMENT
+
+Dear                     :
+
+           Pursuant to the applicable Cablevision Systems Corporation 2006 Employee Stock Plan, on                      (the “Grant Date”), you were granted options to purchase shares of Cablevision Systems Corporation (“Cablevision”). In conjunction with the spin-off of Madison Square Garden, Inc. (the “Company”) from Cablevision on        	           (the “Distribution Date”), and pursuant to the Company’s 2010 Employee Stock Plan (the “Plan”), you are receiving the award described in this Option Agreement (the “Agreement”) of nonqualified stock options (the “Options”) to purchase                      shares of Madison Square Garden, Inc. Class A common stock (the “Class A Common Stock”) at a price of $           per share.
+
+          Capitalized terms used but not defined in this Agreement have the meanings given to them in the Plan. The Options are granted subject to the terms and conditions set forth below:
+
+          1. Vesting. The Options are immediately exercisable.
+
+          2. Exercise. You may exercise the Options by giving written notice to the Secretary of the Company, or by following such procedures as established by the Company, specifying the number of shares of Class A Common Stock as to which the Options are being exercised (the “Exercise Notice”), together with a copy of this Agreement. Unless the Company chooses to settle such exercise in cash, shares of Class A Common Stock, or a combination thereof pursuant to Paragraph 3, you will be required to deliver to the Company, or such person as the Company may designate, within such time period as the Company may require, payment in full of the exercise price due on account of such exercise. You may pay the exercise price by cash, by certified check, by surrendering shares of Class A Common Stock or by any combination thereof. Class A Common Stock used to pay the exercise price pursuant to this Paragraph 2 will be valued at the Fair Market Value as of the day preceding the date of exercise.
+
+          3. Option Spread. Upon receipt of the Exercise Notice, the Company may elect, in lieu of issuing shares of Class A Common Stock, to settle the exercise covered by such notice by paying you an amount equal to the product obtained by multiplying (i) the excess of the Fair Market Value of one (1) share of Class A Common Stock on the date of exercise over the per share exercise price of the Options (the “Option Spread”) by (ii) the number of shares of Class A Common Stock specified in the Exercise Notice. The amount payable to you in these circumstances may be paid by the Company either in cash or in shares of Class A Common Stock having a Fair Market Value equal to the Option Spread, or a combination thereof, as the Company shall determine. Class A Common Stock used to pay the Option Spread pursuant to this Paragraph 3 will be valued at the Fair Market Value as of the day the Exercise Notice is received by the Company.
+
+          4. Expiration. The Options will terminate automatically and without further notice on                     , or at any of the following dates, if earlier:
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+(A)
+
+ 
+
+one hundred and eighty (180) days following the date upon which you are no longer employed by either the MSG Group or the Cablevision Group (each as defined below), unless you cease to be an employee by reason of (x) you terminating your employment for any reason, (y) death, Disability (as defined below) or Retirement (as defined below) with your Employer’s consent or (z) termination from your Employer for Cause (as defined below); provided, that for purposes of this Section 4(A), you shall be deemed to cease to be an employee of the MSG Group or the Cablevision Group if you transfer between the MSG Group and the Cablevision Group at a time when the Company and Cablevision are not considered Affiliates;
+
+ 
+
+ 
+
+(B)
+
+ 
+
+ninety (90) days following the date upon which you are no longer employed by either the MSG Group or the Cablevision Group due to you terminating your employment for any reason; provided, that for purposes of this Section 4(B), you shall be deemed to cease to be an employee of any of the MSG Group or the Cablevision Group if you transfer between the MSG Group and the Cablevision Group at a time when the Company and Cablevision are not considered Affiliates;
+
+ 
+
+ 
+
+(C)
+
+ 
+
+three (3) years following the date upon which you are no longer employed by either the MSG Group or the Cablevision Group, if such cessation is the result of death, Disability or Retirement; or
+
+ 
+
+ 
+
+(D)
+
+ 
+
+the date upon which your employment with your Employer is terminated for Cause.
+
+          Notwithstanding the first sentence of this Paragraph 4, in the event of your death during the period that your Options are exercisable, whether death occurs before or after you cease employment, the Options that are exercisable at the time of your death shall remain exercisable by your estate or beneficiary until the earlier of the third (3rd) anniversary of your death and                   .
+
+          For purposes of this Agreement, the “Cablevision Group” means Cablevision Systems Corporation and any of its subsidiaries and Affiliates, other than Madison Square Garden, Inc. and its subsidiaries. The “MSG Group” means Madison Square Garden, Inc. and any of its subsidiaries and Affiliates, other than Cablevision Systems Corporation and its subsidiaries.
+
+          For purposes of this Agreement, “Cause” means, as determined by the compensation committee of your Employer, your (i) commission of an act of fraud, embezzlement, misappropriation, willful misconduct, gross negligence or breach of fiduciary duty against your Employer or any of its Affiliates, or (ii) commission of any act or omission that results in a conviction, plea of no contest, plea of nolo contendere, or imposition of unadjudicated probation for any crime involving moral turpitude or any felony.
+
+-2-
+
+
+
+
+
+ 
+
+
+
+
+
+          For purposes of this Agreement, “Disability” means your inability to perform for six (6) continuous months substantially all the essential duties of your occupation, as determined by the compensation committee of your Employer.
+
+          For purposes of this Agreement, if you are employed by the Cablevision Group, your “Employer” means Cablevision Systems Corporation; if you are employed by the MSG Group, your “Employer” means Madison Square Garden, Inc.; and if you are employed by both the Cablevision Group and the MSG Group, your “Employer” shall mean Cablevision Systems Corporation.
+
+          For purposes of this Agreement, “Retirement” means the voluntary termination by you of your employment with your Employer at such time as (i) you have attained at least the age of fifty-five (55) and (ii) you have been employed by the MSG Group or the Cablevision Group for at least five (5) years in the aggregate, provided that your Employer, may nevertheless decide, in its sole discretion, not to treat your termination of employment as a “Retirement” hereunder. Treatment of your termination of employment as a “Retirement” hereunder shall be further subject to your execution (and the effectiveness) of a retirement agreement to your Employer’s satisfaction, including, without limitation (to the extent desired by your Employer), non-compete, non-disparagement, non-solicitation, confidentiality and further cooperation obligations/restrictions on you as well as a general release by you of your Employer. The above definition of “Retirement” is solely for purposes of this Agreement and shall not, in any way, create or imply any obligations of the MSG Group or the Cablevision Group (under any other agreement or otherwise) with respect to any such termination of your employment.
+
+          5. Change of Control/Going Private Transaction. As set forth in Appendix 1 attached hereto, the Options may be affected in the event of a Change of Control or a going private transaction (each as defined in Appendix 1 attached hereto).
+
+          6. Tax Representations and Tax Withholding. You hereby acknowledge that you have reviewed with your own tax advisors the federal, state and local tax consequences of exercising the Options and receiving shares of Class A Common Stock and cash. You hereby represent to the MSG Group and the Cablevision Group that you are relying solely on such advisors and not on any statements or representations of the Company, Cablevision or any of their respective Affiliates or agents.
+
+          If, in connection with the exercise of the Options, your Employer is required to withhold any amounts by reason of any federal, state or local tax, such withholding shall be effected in accordance with Section 16 of the Plan.
+
+          7. Section 409A. It is the intent that payments under this Agreement are exempt from Section 409A of the Internal Revenue Code of 1986, as amended (the “Code”), and that the Agreement be administered and interpreted accordingly. To the extent necessary to give effect to this intent, in the case of any conflict or potential inconsistency between the provisions of the Plan and this Section 7 of the Agreement, the provisions of Section 7 of this Agreement shall govern. Notwithstanding anything to the contrary contained in this Agreement, if and to the extent that any payment or benefit under this Agreement is determined by your Employer to constitute “non-qualified deferred compensation” subject to Section 409A of the Code (“Section
+
+-3-
+
+
+
+
+
+ 
+
+
+
+
+
+409A”) and is payable to you by reason of your termination of employment, then (a) such payment or benefit shall be made or provided to you only upon a “separation from service” as defined for purposes of Section 409A under applicable regulations and (b) if you are a “specified employee” (within the meaning of Section 409A and as determined by your Employer), such payment or benefit shall not be made or provided before the date that is six months after the date of your separation from service (or your earlier death). Any amount not paid in respect of the six month period specified in the preceding sentence will be paid to you in a lump sum after the expiration of such six month period. Any such payment or benefit shall be treated as a separate payment for purposes of Section 409A to the extent Section 409A applies to such payments.
+
+          8. Transfer Restrictions. You may not transfer, assign, pledge or otherwise encumber the Options, other than to the extent provided in the Plan.
+
+          9. Non-Qualification as ISO. The Options are not intended to qualify as “incentive stock options” within the meaning of Section 422A of the Code.
+
+          10. Securities Law Acknowledgments. You hereby acknowledge and confirm to the MSG Group and the Cablevision Group that (i) you are aware that the shares of Class A Common Stock are publicly-traded securities and (ii) the shares of Class A Common Stock issuable upon exercise of the Options may not be sold or otherwise transferred unless such sale or transfer is registered under the Securities Act of 1933, as amended, and the securities laws of any applicable state or other jurisdiction, or is exempt from such registration.
+
+          11. Governing Law. This Agreement shall be deemed to be made under, and in all respects shall be interpreted, construed and governed by and in accordance with, the laws of the State of New York.
+
+          12. Jurisdiction and Venue. You hereby irrevocably submit to the jurisdiction of the courts of the State of New York and the Federal courts of the United States of America located in the Southern District and Eastern District of the State of New York in respect of the interpretation and enforcement of the provisions of this Agreement, and hereby waive, and agree not to assert, as a defense that you are not subject thereto or that the venue thereof may not be appropriate. You hereby agree that mailing of process or other papers in connection with any such action or proceeding in any manner as may be permitted by law shall be valid and sufficient service thereof.
+
+          13. Right of Offset. You hereby agree that the Company shall have the right to offset against its obligation to deliver shares of Class A Common Stock, cash or other property under this Agreement to the extent that it does not constitute “non-qualified deferred compensation” pursuant to Section 409A, any outstanding amounts of whatever nature that you then owe to the Company or a subsidiary of the Company.
+
+          14. The Committee. For purposes of this Agreement, the term “Committee” means the Compensation Committee of the Board of Directors of the Company or any replacement committee established under, and as more fully defined in, the Plan.
+
+-4-
+
+
+
+
+
+ 
+
+
+
+
+
+          15. Committee Discretion. The Committee has full discretion with respect to any actions to be taken or determinations to be made in connection with this Agreement, and its determinations shall be final, binding and conclusive.
+
+          16. Amendment. The Committee reserves the right at any time to amend the terms and conditions set forth in this Agreement, except that the Committee shall not make any amendment or revision in a manner unfavorable to you (other than if immaterial), without your consent. No consent shall be required for amendments made pursuant to Section 12 of the Plan, except that, for purposes of Section 19 of the Plan, Section 5 and Appendix 1 of this Agreement are deemed to be “terms of an Award Agreement expressly referring to an Adjustment Event.” Any amendment of this Agreement shall be in writing and signed by an authorized member of the Committee or a person or persons designated by the Committee.
+
+          17. Options Subject to the Plan. The Options granted by this Agreement are subject to the Plan.
+
+          18. Entire Agreement. Except for any employment agreement between you and the MSG Group or the Cablevision Group in effect as of the Distribution Date (as such employment agreement may be modified, renewed or replaced, provided that such modification, renewal or replacement shall not extend the time any Options may be exercised or accelerate the vesting of any Options beyond the time provided herein or in such original employment agreement), this Agreement and the Plan constitute the entire understanding and agreement of you and the Company with respect to the Options covered hereby and supersede all prior understandings and agreements. Except as provided in this Agreement, in the event of a conflict among the documents with respect to the terms and conditions of the Options covered hereby, the documents will be accorded the following order of authority: the terms and conditions of the Plan will have highest authority followed by the terms and conditions of your employment agreement, if any, followed by the terms and conditions of this Agreement.
+
+          19. Successors and Assigns. The terms and conditions of this Agreement shall be binding upon, and shall inure to the benefit of, the Company and its successors and assigns.
+
+          20. Waiver. No waiver by the Company at any time of any breach by you of, or compliance with, any term or condition of this Agreement or the Plan to be performed by you shall be deemed a waiver of the same, any similar or any dissimilar term or condition at the same or at any prior or subsequent time.
+
+          21. Severability. The terms or conditions of this Agreement shall be deemed severable and the invalidity or unenforceability of any term or condition hereof shall not affect the validity or enforceability of the other terms and conditions set forth herein.
+
+          22. Exclusion from Compensation Calculation. By acceptance of this Agreement, you shall be considered in agreement that all shares of Class A Common Stock and cash received upon each exercise of the Options shall be considered special incentive compensation and will be exempt from inclusion as “wages” or “salary” in pension, retirement, life insurance and other employee benefits arrangements of your Employer, except as determined otherwise by your Employer. In addition, each of your beneficiaries shall be deemed to be in
+
+-5-
+
+
+
+
+
+ 
+
+
+
+
+
+agreement that all such shares of Class A Common Stock and cash be exempt from inclusion in “wages” or “salary” for purposes of calculating benefits of any life insurance coverage sponsored by your Employer.
+
+          23. No Right to Continued Employment. Nothing contained in this Agreement or the Plan shall be construed to confer on you any right to continue in the employ of the MSG Group or the Cablevision Group, as applicable, or derogate from the right of the MSG Group or the Cablevision Group, as applicable, to retire, request the resignation of, or discharge you, at any time, with or without cause.
+
+          24. Headings. The headings in this Agreement are for purposes of convenience only and are not intended to define or limit the construction of the terms and conditions of this Agreement.
+
+          25. Effective Date. Upon execution by you, this Agreement shall be effective from and as of the Distribution Date.
+
+          26. Signatures. Execution of this Agreement by the Company may be in the form of an electronic or similar signature and such signature shall be treated as an original signature for all purposes.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+MADISON SQUARE GARDEN, INC. 
+
+ 
+
+ 
+
+By:  
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:  
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:  
+
+ 
+
+ 
+
+ 
+
+          By your electronic signature, you (i) acknowledge that a complete copy of the Plan and an executed original of this Agreement have been made available to you and (ii) agree to all of the terms and conditions set forth in the Plan and this Agreement.
+
+-6-
+
+
+
+
+
+ 
+
+
+
+
+
+APPENDIX 1
+
+TO
+
+STOCK OPTION AWARD AGREEMENT
+
+     1. In the event of a “Change of Control” or a “going private transaction” with respect to the Company, as defined below, your entitlement to exercise the Options shall be as follows:
+
+          a. If the Company or the “Surviving Entity,” as defined below, has shares of common stock (or partnership units) traded on a national stock exchange or on the over-the-counter market as reported on NASDAQ, the Committee shall, to the extent that the Options have not been exercised and have not expired (the “Outstanding Options”), no later than the effective date of the transaction which results in a Change of Control or going private transaction with respect to the Company either (A) convert your rights in the Outstanding Options into a right to receive an amount of cash equal to (i) the number of common shares subject or relating to the Outstanding Options multiplied by (ii) the excess of (x) the “offer price per share,” the “acquisition price per share” or the “merger price per share,” each as defined below, whichever of such amounts is applicable, over (y) the exercise price of the shares subject or relating to the Outstanding Options, or (B) arrange to have the Surviving Entity grant to you in substitution for your Outstanding Options an award of options for shares of common stock (or partnership units) of the Surviving Entity on the same terms with a value equivalent to the Outstanding Options and which will, in the good faith determination of the Committee, provide you with an equivalent profit potential.
+
+          b. If the Company or the Surviving Entity does not have shares of common stock (or partnership units) traded on a national stock exchange or on the over-the-counter market as reported on NASDAQ, the Committee shall convert your rights in the Outstanding Options into a right to receive an amount of cash equal to the amount calculated as per Section 1(A) above.
+
+          c. The cash award provided in Section 1(a) or 1(b) shall become payable to you, and the substitute options of the Surviving Entity provided in Section 1(a) will become exercisable (1) with respect to the Outstanding Options that were not exercisable on the effective date of the Change of Control or going private transaction with respect to the Company, as the case may be, at the earlier of (a) the date on which the Outstanding Options would otherwise have become exercisable hereunder had they continued in effect, or (b) if immediately prior to termination you were a MSG Employee, the date on which (i) your employment with the MSG Group or the Surviving Entity is terminated by the MSG Group or the Surviving Entity other than for Cause, if such termination occurs within three (3) years of the Change of Control or going private transaction with respect to the Company, (ii) your employment with the MSG Group or the Surviving Entity is terminated by you for “good reason,” as defined below, if such termination occurs within three (3) years of the Change of Control or going private transaction with respect to the Company or (iii) your employment with the MSG Group or the Surviving Entity is terminated by you for any reason at least six (6) months, but not more than nine (9) months after
+
+-7-
+
+
+
+
+
+ 
+
+
+
+
+
+the effective date of the Change of Control or going private transaction with respect to the Company; provided that clause (iii) herein shall not apply in the event that your rights in the Outstanding Options are converted into a right to receive an amount of cash in accordance with Section 1(a), or (2) with respect to the Outstanding Options that were exercisable on the effective date of the Change of Control or going private transaction with respect to the Company, as the case may be, the substitute options shall become exercisable immediately and the cash awards shall become payable promptly. The amount payable in cash shall be payable together with interest from the effective date of the Change of Control or going private transaction with respect to the Company until the date of payment at (a) the weighted average cost of capital of the Company immediately prior to the effectiveness of the Change of Control or going private transaction with respect to the Company, or (b) if the Company (or the Surviving Entity) sets aside the funds in a trust or other funding arrangement, the actual earnings of such trust or other funding arrangement.
+
+     2. As used herein,
+
+     “Acquisition price per share” shall mean the greater of (i) the highest price per share stated on the Schedule 13D or any amendment thereto filed by the holder of twenty percent (20%) or more of the Company’s voting power which gives rise to the Change of Control or going private transaction with respect to the Company, and (ii) the highest fair market value per share of common stock during the ninety-day period ending on the date of such Change of Control or going private transaction with respect to the Company.
+
+     “Change of Control” means the acquisition, in a transaction or a series of related transactions, by any person or group, other than Charles F. Dolan or members of the immediate family of Charles F. Dolan or trusts for the benefit of Charles F. Dolan or his immediate family (or an entity or entities controlled by any of them) or any employee benefit plan sponsored or maintained by the Company, of the power to direct the management of the Company or substantially all its assets (as constituted immediately prior to such transaction or transactions).
+
+     “Going private transaction” means a transaction involving the purchase of Company securities described in Rule 13e-3 to the Securities and Exchange Act of 1934.
+
+     “Good reason” means
+
+     (i) without your express written consent any reduction in your base salary or bonus potential, or any material impairment or material adverse change in your working conditions (as the same may from time to time have been improved or, with your written consent, otherwise altered, in each case, after the Distribution Date) at any time after or within ninety (90) days prior to the Change of Control, including, without limitation, any material reduction of your other compensation, executive perquisites or other employee benefits (measured, where applicable, by level or participation or percentage of award under any plans of the Company), or material impairment or material adverse change of your level of responsibility, authority, autonomy or title, or to your scope of duties;
+
+-8-
+
+
+
+
+
+ 
+
+
+
+
+
+     (ii) any failure by your Employer to comply with any of the provisions of this Agreement, other than an insubstantial or inadvertent failure remedied by your Employer promptly after receipt of notice thereof given by you;
+
+     (iii) your Employer’s requiring you to be based at any office or location more than thirty-five (35) miles from your location immediately prior to such event except for travel reasonably required in the performance of your responsibilities; or
+
+     (iv) any failure by the Company to obtain the assumption and agreement to perform this Agreement by a successor as contemplated by Section 1.
+
+     “Merger price per share” shall mean, in the case of a merger, consolidation, sale, exchange or other disposition of assets that results in a Change of Control or going private transaction with respect to the Company (a “Merger”), the greater of (i) the fixed or formula price for the acquisition of shares of common stock occurring pursuant to the Merger, and (ii) the highest fair market value per share of common stock during the ninety-day period ending on the date of such Change of Control or going private transaction with respect to the Company. Any securities or property which are part or all of the consideration paid for shares of common stock pursuant to the Merger shall be valued in determining the merger price per share at the higher of (A) the valuation placed on such securities or property by the Company, person or other entity which is a party with the Company to the Merger, or (B) the valuation placed on such securities or property by the Committee.
+
+     “MSG Employee” means any individual who is employed by the MSG Group.
+
+     “Offer price per share” shall mean, in the case of a tender offer or exchange offer which results in a Change of Control or going private transaction with respect to the Company (an “Offer”), the greater of (i) the highest price per share of common stock paid pursuant to the Offer, or (ii) the highest fair market value per share of common stock during the ninety-day period ending on the date of a Change of Control or going private transaction with respect to the Company. Any securities or property which are part or all of the consideration paid for shares of common stock in the Offer shall be valued in determining the Offer Price per share at the higher of (A) the valuation placed on such securities or property by the Company, person or other entity making such offer or (B) the valuation placed on such securities or property by the Committee.
+
+     “Surviving Entity” means the entity that owns, directly or indirectly, after consummation of any transaction, substantially all of the Company’s assets (as constituted immediately prior to such transaction). If any such entity is at least majority-owned, directly or indirectly, by any entity (a “parent entity”) which has shares of common stock (or partnership units) traded on a national stock exchange or the over-the-counter market, as reported on NASDAQ, then such parent entity shall be deemed to be the Surviving Entity provided that it there shall be more than one such parent entity, the parent entity closest to ownership of the Company’s assets shall be deemed to be the Surviving Entity.
+
+-9-

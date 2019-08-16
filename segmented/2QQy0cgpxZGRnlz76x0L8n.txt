@@ -1,0 +1,1955 @@
+**********************
+Exhibit10.15
+**********************
+THE WILLIS GROUP HOLDINGS
+**********************
+INTERNATIONAL SHARESAVE PLAN AS AMENDED AND RESTATED ON DECEMBER 30, 2009 BY WILLIS GROUP HOLDINGS LIMITED AND AS AMENDED AND RESTATED AND ASSUMED BY WILLIS GROUP HOLDINGS PUBLIC LIMITED COMPANY ON DECEMBER 31, 2009
+**********************
+A SUB-PLAN TO THE WILLIS GROUP HOLDINGS 2001 SHARE PURCHASE AND OPTION PLAN AS AMENDED AND RESTATED ON DECEMBER 30, 2009 BY WILLIS GROUP HOLDINGS LIMITED AND AS AMENDED AND RESTATED AND ASSUMED BY WILLIS GROUP HOLDINGS PUBLIC LIMITED COMPANY ON DECEMBER 31, 2009
+**********************
+CONTENTS
+**********************
+Rule
+**********************
+Page
+**********************
+1.
+**********************
+Definitions And Interpretation
+**********************
+1
+**********************
+2.
+**********************
+Invitations And Applications
+**********************
+2
+**********************
+3.
+**********************
+Grant Of Options
+**********************
+3
+**********************
+4.
+**********************
+Limits
+**********************
+4
+**********************
+5.
+**********************
+Exercise Of Options
+**********************
+5
+**********************
+6.
+**********************
+Takeover, Reconstruction And Winding Up
+**********************
+7
+**********************
+7.
+**********************
+Adjustment Of Options
+**********************
+10
+**********************
+8.
+**********************
+Alterations
+**********************
+10
+**********************
+9.
+**********************
+Cash Equivalent
+**********************
+10
+**********************
+10.
+**********************
+Miscellaneous
+**********************
+11
+**********************
+SCHEDULE
+**********************
+1.
+**********************
+DEFINITIONS AND INTERPRETATION
+**********************
+1.1
+**********************
+In this Plan, unless the context otherwise requires:
+**********************
+Act means the Taxes Consolidation Act 1997;
+**********************
+Associated Company means an associated company within the meaning given to that expression by paragraph 1(1) of Schedule12A of the Act;
+**********************
+Assumed Rate of Interest means a notional fixed rate of interest which, unless otherwise determined by the Board before the date on which any invitation is given, shall be a rate of interest (or, as the case may be, the number of bonus contributions) which would be payable on a certified contractual savings contract taken out under the UK SAYE Plan at that time and which shall in no event exceed the rate of interest (or, as the case may be, the number of bonus contributions) payable on such a certified contractual savings contract;
+**********************
+the Board means the board of directors of the Company or a committee appointed by them;
+**********************
+the Company means Willis Group Holdings Public Limited Company, a company incorporated under the laws of Ireland under registered number 475616;
+**********************
+Dollar Exchange Rate in relation to an amount of money in US dollars shall be calculated by reference to the closing mid-point spot rate of exchange as quoted by the Financial Times for the day in question (as printed on the first business day following the day in question) or from such reasonable source as the Board may select from time to time;
+**********************
+Eligible Employee means an employee or director of a Participating Company and having such qualifying period of service as the Board may determine from time to time;
+**********************
+the Grant Date shall mean the date on which an option is granted in accordance with Rule 3.1;
+**********************
+Group Member means the Company or any Subsidiary or any Associated Company or any other company nominated by the Board for this purpose;
+**********************
+Maturity Date a date determined by the Board prior to grant and falling not more than 7 years from the Grant Date;
+**********************
+Participant means a person who holds an option granted under this Plan;
+**********************
+Participating Company means the Company or any Subsidiary of the Company;
+**********************
+the Plan means this Plan, being the Willis Group Holdings Limited International Sharesave Plan as amended and restated on December30, 2009 by Willis Group Holdings Limited and as amended and restated and assumed by Willis Group Holdings Public Limited Company on December31, 2009, a sub-plan to the Willis Group Holdings 2001 Share Purchase and Option Plan, as amended and restated on December30, 2009 by Willis Group Holdings Limited and as amended and restated and assumed by Willis Group Holdings Public Limited Company on December31, 2009;
+**********************
+1
+**********************
+Savings Body means a person nominated by the Board to whom contributions are payable under the terms of a Savings Contract;
+**********************
+Savings Contract means a commitment by an Eligible Employee to make a savings contribution with such party, for such period (being no greater than 7years) and on such terms as the Board may specify for time to time for Eligible Employees employed in the country concerned.
+**********************
+Savings Contract Repayment means in respect of a Savings Contract on any particular day, the aggregate of the savings contributions the Participant has undertaken to make by the day in question and notional interest on such savings contributions at the Assumed Rate of Interest;
+**********************
+Savings Period means the period over which the Participant commits to making savings contributions under the Savings Contract starting at the beginning of the first day of the month for which the first contribution is due and ending on the last day of the month for which the final contribution is due
+**********************
+Schedule3 means Schedule3 of the U.K. Income Tax (Earnings and Pensions) Act 2003;
+**********************
+Shares means the ordinary shares of the Company, nominal value US$0.000115;
+**********************
+Special Schedule means a schedule to this Plan (if any) adopted by the Board in relation to the grant of options in a particular jurisdiction;
+**********************
+Specified Percentage is 80 per cent.
+or such other percentage as may be by the Board;
+**********************
+Sterling Exchange Rate in relation to an amount of money in sterling shall be calculated by reference to the closing mid-point spot rate of exchange as quoted by the Financial Times for the day in question (as printed on the first business day following the day in question) or from such reasonable source as the Board may determine from time to time;
+**********************
+Subsidiary means a body corporate which is a subsidiary of the Company within the meaning of section 155 of the Irish Companies Act 1963;
+**********************
+the UK SAYE Plan means the Willis Group Holdings Sharesave Plan 2001 for the United Kingdom, as amended and restated on December30, 2009 by Willis Group Holdings Limited and as amended and restated and assumed by Willis Group Holdings Public Limited Company on December31, 2009, a sub-plan to the Willis Group Holdings 2001 Share Purchase and Option Plan, as amended and restated on December30, 2009 by Willis Group Holdings Limited and as amended and restated and assumed by Willis Group Holdings Public Limited Company on December31, 2009;
+**********************
+1.2
+**********************
+Any reference in this Plan to any enactment includes a reference to that enactment as from time to time modified, extended or re-enacted.
+**********************
+2.
+**********************
+INVITATIONS AND APPLICATIONS
+**********************
+2.1
+**********************
+An invitation to apply for an option may be given by the Board to any Eligible Employee at such time as the Board may determine within the period during which awards may be
+**********************
+2
+**********************
+granted under the Companys 2001 Share Purchase and Option Plan which expires on 3 May2011.
+**********************
+2.2
+**********************
+Each invitation shall include details of:
+**********************
+(a)
+**********************
+eligibility;
+**********************
+(b)
+**********************
+the price payable per Share on the exercise of an option or the mechanism by which the price payable per share will be calculated and notified to Eligible Employees;
+**********************
+(c)
+**********************
+the terms of the Savings Contract;
+**********************
+(d)
+**********************
+the date by which applications made pursuant to Rule2.3 must be received,
+**********************
+and the Board may determine and include in the invitations details of the maximum number of Shares over which applications for options are to be invited.
+**********************
+2.3
+**********************
+The Board must make available an application in such form as the Board may from time to time prescribe and which:-
+**********************
+includes a proposal for a Savings Contract with a Savings Body chosen by the Board;
+**********************
+allows the Eligible Employee to state how much he wishes to save each month;
+**********************
+authorises the Eligible Employees employer to deduct the monthly savings contributions from his pay and to pay them to the Savings Body; and
+**********************
+authorises the Board to amend the forms if applications have to be scaled down.
+**********************
+3.
+**********************
+GRANT OF OPTIONS
+**********************
+3.1
+**********************
+The Board may grant an option to any Eligible Employee who has submitted a valid application to acquire Shares in the Company upon the terms set out in this Plan and for this purpose, unless the Board determines otherwise, an option to acquire includes an option to purchase and an option to subscribe.
+**********************
+3.2
+**********************
+The number of Shares in respect of which an option may be granted to any individual shall be the maximum number which can be paid for, at the price determined under Rule3.5 below, with monies equal to the amount of the Savings Contract Repayment due on the Maturity Date under the Savings Contract to be made in connection with the option and if necessary converted into US dollars at the Dollar Exchange Rate on the dealing day by reference to which the share price is determined.
+**********************
+3.3
+**********************
+For the purposes of 3.2 above, the Savings Contract Repayment on the Maturity Date shall be taken as including interest at the Assumed Rate of Interest unless the Board shall have determined, in relation to every option to be granted on the day in question, that it shall be taken as not including such interest.
+**********************
+3.4
+**********************
+The amount of the monthly contribution under the Savings Contract to be made in connection with an option granted to an individual shall, subject to Rule4 below, be the amount which the individual shall have specified in his application for the option that he
+**********************
+3
+**********************
+is willing to pay or, if lower, the maximum permitted amount, that is to say, the maximum amount which:
+**********************
+3.4.1
+**********************
+when aggregated with the amount of his monthly contributions under any other Savings Contract linked to this Plan or to any other savings-related share option plan adopted by the Company, does not exceed the local currency equivalent of 250 but exceeds a minimum of the equivalent 5 (and for this purpose the local currency equivalent shall be calculated using the Sterling Exchange Rate on the dealing day by reference to which the exercise price is determined) or such other maximum or minimum amounts as may for the time being be permitted by the Board;
+**********************
+3.4.2
+**********************
+does not exceed the maximum amount for the time being permitted under the terms of the Savings Contract; and
+**********************
+3.4.3
+**********************
+when aggregated with the amount of his monthly contributions under any other Savings Contract linked to this Plan, does not exceed any maximum amount determined by the Board.
+**********************
+3.5
+**********************
+The price at which Shares may be acquired by the exercise of options granted on any day shall be determined by the Board, provided that:
+**********************
+3.5.1
+**********************
+if shares of the same class as those Shares are listed on the New York Stock Exchange, the price shall not be less than the Specified Percentage of the closing price of the Shares quoted in the Wall Street Journal on such dealing day as the Board may choose provided that such day shall fall prior to the date on which applications for options must be received by the Company;
+**********************
+3.5.2
+**********************
+and where 3.5.1 does not apply the price shall not be less than the Specified Percentage of the market value of the Shares determined in accordance with PartVIII of the UK Taxation of Chargeable Gains Act 1992;
+**********************
+3.5.3
+**********************
+the price may be set in US dollars or in any local currency equivalent specified by the Board (and for this purpose the local currency equivalent shall be calculated using the Dollar Exchange Rate on the dealing day by reference to which the share price is determined);
+**********************
+3.6
+**********************
+An option granted to any person:
+**********************
+3.6.1
+**********************
+shall not, except as provided in Rule5.3, be capable of being transferred by him; and
+**********************
+3.6.2
+**********************
+shall lapse forthwith if he is adjudged bankrupt.
+**********************
+4.
+**********************
+LIMITS
+**********************
+4.1
+**********************
+No options shall be granted to acquire a number of Shares which exceeds any number determined by the Board for this purpose.
+**********************
+4.2
+**********************
+If the grant of options on any day would but for this Rule4.2 cause the limit in Rule4.1 above to be exceeded, the Board shall scale down applications by reducing the monthly contributions stated in applications for options in a manner which the Board considers
+**********************
+4
+**********************
+fair and reasonable or adopt such other provision for scaling down the number of Shares available so far as is necessary to ensure that such limit is not exceeded.
+**********************
+4.3
+**********************
+If the applications, as scaled down, are still for more Shares than are available, the Board may decide no options will be granted on that occasion.
+**********************
+5.
+**********************
+EXERCISE OF OPTIONS
+**********************
+5.1
+**********************
+The exercise of any option granted under this Plan shall be effected in the form and manner prescribed by the Board, but to the extent that the actual savings made together with any interest earned in respect of such savings are not sufficient to acquire the total number of Shares in respect of which the option is exercisable (due to exchange rate movements, the amount of interest received being less than interest receivable at the Assumed Rate of Interest or missed savings contributions up to but not exceeding six monthly contributions), the Participant may, if he so wishes, use funds separately provided by him to make up this shortfall in order that the number of Shares in respect of which the option is exercisable may be acquired.
+**********************
+5.2
+**********************
+Subject to Rules5.3, 5.4, 5.6 and 6, an option granted under this Plan shall not be capable of being exercised before the Maturity Date.
+**********************
+5.3
+**********************
+Subject to Rule5.8:
+**********************
+5.3.1
+**********************
+if any Participant dies before the Maturity Date, any option granted to him may (and must, if at all) be exercised by his personal representatives within 12months after the date of his death provided that the total number of Shares which may be acquired on exercise of the option shall not exceed the number of Shares which can be acquired with the actual savings made together with any interest earned on the date of death; and
+**********************
+5.3.2
+**********************
+if he dies on or within 6months after the Maturity Date, any option granted to him may (and must, if at all) be exercised by his personal representatives within 12 months after the Maturity Date provided that the total number of Shares which may be acquired on exercise of the option shall not exceed the number of Shares which can be acquired with the actual savings made together with any interest earned on the date of death;
+**********************
+provided in either case that his death occurs at a time when he either holds the office or employment by virtue of which he is eligible to participate in this Plan or is entitled to exercise the option by virtue of Rule5.4.
+**********************
+5.4
+**********************
+Subject to Rule5.8, if any Participant ceases to hold the office or employment by virtue of which he is eligible to participate in this Plan (otherwise than by reason of his death), the following provisions apply in relation to any option granted to him:
+**********************
+5.4.1
+**********************
+if he so ceases by reason of injury, disability, redundancy, or retirement on reaching the age of 65 or any other age at which he is bound to retire in accordance with the terms of his contract of employment, the option may (and subject to Rule6.3 must, if at all) be exercised within 6months of his so ceasing provided that the total number of Shares which may be acquired on exercise of the option shall not exceed the number of Shares which can be
+**********************
+5
+**********************
+acquired with the actual savings made together with any interest earned on the date of his ceasing employment;
+**********************
+5.4.2
+**********************
+if he so ceases by reason only that the office or employment is in a company of which the Company ceases to have control, or relates to a business or part of a business which is transferred to a person who is neither an Associated Company of the Company nor a company of which the Company has control, the option may (and subject to Rule5.3 must, if at all) be exercised within 6months of his so ceasing provided that the total number of Shares which may be acquired on exercise of the option shall not exceed the number of Shares which can be acquired with the actual savings made together with any interest earned on the date of his ceasing employment;
+**********************
+5.4.3
+**********************
+if he so ceases by reason of retirement at any age at which he is entitled to retire in accordance with the terms of his contract of employment (other than at 65 or any age at which he is bound to retire), early retirement with the agreement of the employer, or pregnancy, but in each case only if such cessation of office or employment is more than three years after the Grant Date, the option may (and subject to Rule6.3 must if at all) be exercised within 6months of his so ceasing provided that the total number of shares which may be acquired on exercise of the option shall not exceed the number of Shares which can be acquired with the actual savings made together with any interest earned on the date of his ceasing employment;
+**********************
+5.4.4
+**********************
+if he so ceases for any other reason the option may not be exercised at all.
+**********************
+For the purposes of the Plan, a woman who leaves employment due to pregnancy will be regarded as having left the employment on the day on which she indicates that she does not intend to return to work.
+In the absence of such indication she will be regarded as having left employment on the last day on which she is entitled to return to work, or if later, any other date specified in the terms of her employment.
+**********************
+5.5
+**********************
+Subject to Rule5.8, if, at the Maturity Date, a Participant holds an office or employment with a company which is not a Participating Company but which is an Associated Company or a company of which the Company has control, any option granted to him may (and subject to Rule 5.3 must, if at all) be exercised within 6months of the Maturity Date.
+**********************
+5.6
+**********************
+Subject to Rule5.8, where any Participant continues to hold the office or employment by virtue of which he is eligible to participate in this Plan after the date on which he reaches the age of 65, he may exercise any option within 6months of that date to the extent of the Savings Contract Repayment on the date on which he reaches 65.
+**********************
+5.7
+**********************
+Subject to Rule5.3, an option shall not be capable of being exercised later than 6months after the Maturity Date.
+**********************
+5.8
+**********************
+Where, before an option has become capable of being exercised, the Participant gives notice that he intends to stop paying monthly contributions under the Savings Contract made in connection with the option, or is deemed under its terms to have given such
+**********************
+6
+**********************
+notice, or makes an application for repayment of the monthly contributions paid under it, the option may not be exercised at all.
+**********************
+5.9
+**********************
+A Participant shall not be treated for the purposes of Rules5.3 and 5.4 as ceasing to hold the office or employment by virtue of which he is eligible to participate in this Plan until he ceases to hold an office or employment in the Company or any Associated Company or company of which the Company has control.
+**********************
+5.10
+**********************
+A Participant shall not be eligible to exercise an option at any time unless, subject to Rules5.3, 5.4 and 5.5, he is at that time a director or employee of a Participating Company.
+**********************
+5.11
+**********************
+An option shall not be capable of being exercised more than once.
+**********************
+5.12
+**********************
+An option may not be exercised unless:
+**********************
+5.12.1
+**********************
+the Board consider that the issue or transfer of Shares pursuant to such exercise would be lawful in all relevant jurisdictions; and
+**********************
+5.12.2
+**********************
+in a case where, if the option were exercised, a Group Member would be obliged to (or would suffer a disadvantage if it were not to) account for any tax (in any jurisdiction) for which the person in question would be liable by virtue of the exercise of the option and/or for any social security contributions that would be recoverable from the person in question (together, the Tax Liability), that person has either:
+**********************
+(a)
+**********************
+made a payment to the Group Member of an amount at least equal to the Companys estimate of the Tax Liability;
+**********************
+(b)
+**********************
+entered into arrangements acceptable to that or another Group Member to secure that such a payment is made (whether by authorising the sale of some or all of the Shares on his behalf and the payment to the Group Member of the relevant amount out of the proceeds of sale or otherwise); or
+**********************
+(c)
+**********************
+the Group Member and the person in question have agreed that the Tax Liability otherwise recoverable from him shall be waived.
+**********************
+5.13
+**********************
+Within 30days after an option has been exercised by any person, the Board shall allot to him (or a nominee for him) or, as appropriate, procure the transfer to him (or a nominee for him) of the number of Shares in respect of which the option has been exercised, provided that the Board considers that the issue or transfer of those Shares.
+**********************
+5.14
+**********************
+All Shares allotted under this Plan shall rank equally in all respects with Shares of the same class then in issue except for any rights attaching to such Shares by reference to a record date before the date of the allotment.
+**********************
+6.
+**********************
+TAKEOVER, RECONSTRUCTION AND WINDING UP
+**********************
+6.1
+**********************
+If any person obtains control of the Company as a result of making a general offer to acquire Shares in the Company, or having obtained control makes such an offer, subject to Rules5.3, 5.4, 5.7, 5.8 and 6.5, any option may be exercised within 6months after that
+**********************
+7
+**********************
+person has obtained control provided that the total number of Shares which may be acquired on exercise of the option shall not exceed the number of Shares which can be acquired with the actual savings made together with any interest earned on the day of exercise.
+**********************
+6.2
+**********************
+For the purposes of Rule6.1, a change of control shall mean: (a)the acquisition of ownership, directly or indirectly, beneficially or of record, by any Person or group (within the meaning of the U.S. Securities Exchange Act of 1934 as amended (the Exchange Act), and the rules of the U.S. Securities and Exchange Commission there under as in effect on the date hereof) of the ordinary shares of the Company representing more than 50% of the aggregate voting power represented by the issued and outstanding ordinary shares of the Company; or (b) occupation of a majority of the seats (other than vacant seats) on the Board by Persons who were neither (i)nominated by the Companys Board nor (ii)appointed by directors so nominated.
+For the avoidance of doubt, a transaction shall not constitute a change of control (i)if effected for the purpose of changing the place of incorporation or form of organisation of the ultimate parent entity of the Willis group of companies (including where the Company is succeeded by an issuer incorporated under the laws of another state, country or foreign government for such purpose and whether or not the Company remains in existence following such transaction) and (ii)where all or substantially all of the Person(s) who are the beneficial owners of the outstanding voting securities of the Company immediately prior to such transaction will beneficially own, directly or indirectly, all or substantially all of the combined voting power of the outstanding voting securities entitled to vote generally in the election of directors of the ultimate parent entity resulting from such transaction in substantially the same proportions as their ownership, immediately prior to such transaction, of such outstanding securities of the Company.
+The Board, in its sole discretion, may make an appropriate and equitable adjustment to the ordinary shares underlying an option to take into account such transaction, including to substitute or provide for the issuance of ordinary shares of the resulting ultimate parent entity in lieu of ordinary shares of the Company.
+Person, as used herein, shall have the meaning found in Sections 13(d) and 14(d) of the Exchange Act.
+**********************
+6.3
+**********************
+If under section 201 of the Irish Companies Act 1963 (or any other equivalent legislation) the court sanctions a compromise or arrangement proposed for the purposes of, or in connection with, a scheme for the reconstruction of the Company or its amalgamation with any other company or companies, subject to Rules5.3, 5.4, 5.7 and 5.8, any option may be exercised within six months of the court sanctioning the compromise or arrangement, provided that the total number of Shares which may be acquired on exercise of the option shall not exceed the number of Shares which can be acquired with the actual savings made together with any interest earned on the day of exercise, but to the extent that it is not exercised within that period shall (notwithstanding any other provision of this Plan) lapse on expiration of that period.
+**********************
+6.4
+**********************
+If a resolution for the voluntary winding-up of the Company is passed, subject to Rules5.3, 5.4, 5.7 and 5.8, any option may be exercised within two months from the date of the passing of the resolution, provided that the total number of Shares which may be acquired on exercise of the option shall not exceed the number of Shares which can be acquired with the actual savings made together with any interest earned on the day of
+**********************
+8
+**********************
+exercise, but to the extent that it is not exercised within that period shall (notwithstanding any other provision of this Plan) lapse on expiration of that period.
+**********************
+6.5
+**********************
+If any person becomes bound or entitled to acquire Shares under section 204 of the Irish Companies Act 1963 (or any other equivalent legislation) subject to Rules5.3, 5.4, 5.5, 5.6, 5.7, and 5.8, any option may be exercised at any time when that person remains so bound or entitled provided that the total number of Shares which may be acquired on exercise of the option shall not exceed the number of Shares which can be acquired with the actual savings made together with any interest earned on the day of exercise, but to the extent that it is not exercised within that period shall (notwithstanding any other provision of this Plan) lapse on the expiration of that period.
+**********************
+6.6
+**********************
+If any company (the Acquiring Company):
+**********************
+6.6.1
+**********************
+obtains control of the Company as a result of making-
+**********************
+(a)
+**********************
+a general offer to acquire the whole of the issued common share capital of the Company which is made on a condition such that if it is satisfied the acquiring company will have control of the Company, or
+**********************
+(b)
+**********************
+a general offer to acquire all the Shares in the Company which are of the same class as the Shares which may be acquired by the exercise of options granted under this Plan, or
+**********************
+6.6.2
+**********************
+obtains control of the Company in pursuance of a compromise or arrangement sanctioned by the court under section 201 of the Irish Companies Act 1963 (or under any other equivalent legislation), or
+**********************
+6.6.3
+**********************
+becomes bound or entitled to acquire Shares in the Company under section 204 of the Irish Companies Act 1963 (or under any other equivalent legislation),
+**********************
+any Participant may at any time within the appropriate period (which expression shall be construed in accordance with paragraph 38(3) of Schedule3 for the purposes of the UK SAYE Plan), by agreement with the Acquiring Company, release any option which has not lapsed (the old option) in consideration of the grant to him of an option (the new option) which (for the purposes of that paragraph) is equivalent to the old option but relates to Shares in a different company.
+**********************
+6.7
+**********************
+The provisions of this Plan shall for this purpose be construed as if:
+**********************
+6.7.1
+**********************
+the new option were an option granted under this Plan at the same time as the old option;
+**********************
+6.7.2
+**********************
+except for the purposes of the definitions of Participating Company and Subsidiary in Rules1.1, 5.4.2, 5.5 and 5.9, the expression the Company were defined as a company whose Shares may be acquired by the exercise of options granted under this Plan;
+**********************
+6.7.3
+**********************
+the Savings Contract made in connection with the old option had been made in connection with the new option; and
+**********************
+9
+**********************
+6.7.4
+**********************
+the Maturity Date in relation to the new option were the same as that in relation to the old option.
+**********************
+7.
+**********************
+ADJUSTMENT OF OPTIONS
+**********************
+7.1
+**********************
+In the event of any variation of the share capital of the Company, the Board may make such adjustments as it considers appropriate under Rule7.2.
+**********************
+7.2
+**********************
+An adjustment made under this Rule shall be to one or more of the following:
+**********************
+7.2.1
+**********************
+the number of Shares in respect of which any option may be exercised;
+**********************
+7.2.2
+**********************
+the price at which Shares may be acquired by the exercise of any option;
+**********************
+7.2.3
+**********************
+where any option has been exercised but no Shares have been allotted or transferred pursuant to the exercise, the number of Shares which may be allotted or transferred and the price at which they may be acquired.
+**********************
+8.
+**********************
+ALTERATIONS
+**********************
+8.1
+**********************
+Subject to Rule8.2 below the Board may at any time alter or add to all or any of the provisions of the Plan.
+**********************
+8.2
+**********************
+No alteration or addition shall be made under Rule8.1 which would abrogate or adversely affect the subsisting rights of a Participant, unless it is made:
+**********************
+(i)
+**********************
+with the consent in writing of such number of Participants as hold options to acquire not less than 75 per cent of the Shares which would be issued or transferred if all options granted and subsisting were exercised in respect of the maximum of Shares the subject thereof; or
+**********************
+(ii)
+**********************
+by a resolution at a meeting of Participants passed by not less than 75 per cent of the Participants who attend and vote either in person or by proxy,
+**********************
+and for the purposes of this Rule8.2 the Participants shall be treated as the holders of a separate class of share capital and the provisions of the Constitution of the Company relating to class meetings shall apply mutatis mutandis.
+**********************
+8.3
+**********************
+Rule8.2 shall not apply to any alteration or addition which:
+**********************
+(i)
+**********************
+is necessary or desirable in order to comply with or take account of the provisions of any proposed or existing legislation or law, to take advantage of any changes to the legislation or law, to take account of any of the events mentioned in Rule7, or to obtain or maintain favourable taxation treatment of the Company, any Subsidiary or any Participant; and
+**********************
+(ii)
+**********************
+does not affect the basic principles of the Plan, the calculation of the price payable per share under an option or the limit in Rule4.
+**********************
+9.
+**********************
+CASH EQUIVALENT
+**********************
+9.1
+**********************
+Where an option granted under the Plan has been exercised by any person in respect of any number of Shares, and those Shares have not yet been allotted or transferred to him in accordance with Rule5.13 above, the Board may determine that, in substitution for his
+**********************
+10
+**********************
+right to acquire such number of those Shares as the Board may decide (but in full and final satisfaction of his said right), he shall be paid a sum equal to the cash equivalent of that number of Shares.
+**********************
+9.2
+**********************
+For the purposes of this Rule, the cash equivalent of any Shares is the amount by which the Boards opinion of the market value of those Shares on the business day prior to the date on which the option was exercised (or, if at the relevant time Shares of the same class as those Shares were listed on the New York Stock Exchange, the closing price of Shares of that class on the dealing day prior to that date) exceeds the price (or the dollar equivalent of the price calculated using the Dollar Exchange Rate on the relevant dealing day) at which those Shares may be acquired by the exercise of that option.
+**********************
+9.3
+**********************
+Subject to Rule9.4 below, as soon as reasonably practicable after a determination has been made under Rule9.1 above that a person shall be paid a sum in substitution for his right to acquire any number of Shares:-
+**********************
+9.3.1
+**********************
+the Company shall pay to him or procure the payment to him of that sum in cash in such currency and by such method as the Board shall in its absolute discretion determine, and
+**********************
+9.3.2
+**********************
+if he has already paid the Company for those Shares, the Company shall return to him the amount so paid by him.
+**********************
+9.4
+**********************
+If the Board in its discretion so decides:-
+**********************
+9.4.1
+**********************
+the whole or part of the sum payable under Rule9.3.1 above shall, instead of being paid to the person in question in cash, be applied on his behalf in subscribing for Shares in the Company at a price equal to the market value (or, as the case may be, the closing price) by reference to which the cash equivalent is calculated, or in purchasing such Shares, or partly in one way and partly in the other, and
+**********************
+9.4.2
+**********************
+the Company shall allot to him (or a nominee for him) or procure the transfer to him (or a nominee for him) of the Shares so subscribed for or purchased.
+**********************
+9.5
+**********************
+There shall be made from any payment under this Rule such deductions (on account of tax, dealing expenses, exchange rate costs or similar liabilities) as may be required by law or as the Board may reasonably consider to be necessary or desirable.
+**********************
+10.
+**********************
+MISCELLANEOUS
+**********************
+10.1
+**********************
+The rights and obligations of any individual under the terms of his office or employment with the Company or a Subsidiary shall not be affected by his participation in this Plan or any right which he may have to participate in it, and an individual who participates in it shall waive all and any rights to compensation or damages in consequence of the termination of his office or employment for any reason whatsoever insofar as those rights arise or may arise from his ceasing to have rights under or be entitled to exercise any option as a result of such termination.
+**********************
+11
+**********************
+10.2
+**********************
+In the event of any dispute or disagreement as to the interpretation of this Plan, or as to any question or right arising from or related to this Plan, the decision of the Board shall be final and binding upon all persons.
+**********************
+10.3
+**********************
+Any notice or other communication under or in connection with this Plan may be given by such method as the Board may determine to be appropriate which may include but shall not be limited to:-
+**********************
+10.3.1
+**********************
+personal delivery or by sending it by post, in the case of a company to its registered office, and in the case of an individual to his last known address, or, where he is a director or employee of the Company or a Subsidiary, either to his last known home address or to the address of the place of business at which he performs the whole or substantially the whole of the duties of his office or employment;
+**********************
+10.3.2
+**********************
+electronic communication by e-mail or intranet; or
+**********************
+10.3.3
+**********************
+affixing notices in staff areas of the employees place of work.
+**********************
+10.4
+**********************
+Unless the Board determines otherwise, any notice of exercise shall take effect only when received by the Company.
+**********************
+10.5
+**********************
+The Board may, at any time, establish such Special Schedules to this Plan to take account or advantage of local tax, exchange control or securities laws in any other country as the Board may, in its discretion, decide.
+**********************
+10.6
+**********************
+This Plan and all the options granted under it shall be governed by and construed in accordance with the law of Ireland.
+**********************
+12
+**********************
+WILLIS GROUP HOLDINGS
+**********************
+INTERNATIONAL SHARESAVE PLAN AS AMENDED AND RESTATED ON DECEMBER 30, 2009 BY WILLIS GROUP HOLDINGS LIMITED AND AS AMENDED AND RESTATED AND ASSUMED BY WILLIS GROUP HOLDINGS PUBLIC LIMITED COMPANY ON DECEMBER 31, 2009
+**********************
+A SUB-PLAN TO THE WILLIS GROUP HOLDINGS 2001 SHARE PURCHASE AND OPTION PLAN AS AMENDED AND RESTATED ON DECEMBER 30, 2009 BY WILLIS GROUP HOLDINGS LIMITED AND AS AMENDED AND RESTATED AND ASSUMED BY WILLIS GROUP HOLDINGS PUBLIC LIMITED COMPANY ON DECEMBER 31, 2009
+**********************
+SPECIAL SCHEDULE
+**********************
+The Board may, in its absolute discretion, apply any of the provisions of this Schedule when granting options under the Plan.
+**********************
+1.
+**********************
+Australia
+**********************
+1.1
+**********************
+An option granted in accordance with Rule3.1 shall be an option to subscribe for new issue shares and may not be satisfied by pre-existing shares.
+**********************
+1.2
+**********************
+Notwithstanding Rules5.3 and 5.4, an option cannot be exercised by an Australian Participant before 12months from the date that the Company was first listed on the New York Stock Exchange.
+**********************
+2.
+**********************
+Brazil
+**********************
+2.1
+**********************
+Notwithstanding Rules5.3, 5.4, 5.5, 5.6 and 6, if a Participant, who is tax resident in Brazil, ceases to hold the office or employment by virtue of which he is eligible to participate in the Plan (including by reason of his death) before the Maturity Date, he will not be entitled to exercise his option, his option will be cancelled and the proceeds of his Savings Contract will be returned to him.
+**********************
+3.
+**********************
+Mexico
+**********************
+In the case of an option granted to a Participant who is tax resident in Mexico, the price at which Shares may be acquired by the exercise of such option shall be determined by the Board provided that it shall not be less than the higher of the price determined in accordance with Rule3.5 of the Plan and if shares of the same class as those Shares are listed on the New York Stock Exchange, the closing price of the Shares quoted in the Wall Street Journal on the dealing day immediately preceding the date on which invitations are issued to employees in accordance with Rule2.1 of the Plan.
+**********************
+13
+**********************
+Exhibit10.15
+**********************
+THE WILLIS GROUP HOLDINGS
+**********************
+INTERNATIONAL SHARESAVE PLAN AS AMENDED AND RESTATED ON DECEMBER 30, 2009 BY WILLIS GROUP HOLDINGS LIMITED AND AS AMENDED AND RESTATED AND ASSUMED BY WILLIS GROUP HOLDINGS PUBLIC LIMITED COMPANY ON DECEMBER 31, 2009
+**********************
+A SUB-PLAN TO THE WILLIS GROUP HOLDINGS 2001 SHARE PURCHASE AND OPTION PLAN AS AMENDED AND RESTATED ON DECEMBER 30, 2009 BY WILLIS GROUP HOLDINGS LIMITED AND AS AMENDED AND RESTATED AND ASSUMED BY WILLIS GROUP HOLDINGS PUBLIC LIMITED COMPANY ON DECEMBER 31, 2009
+**********************
+Exhibit10.15
+**********************
+THE WILLIS GROUP HOLDINGS
+**********************
+INTERNATIONAL SHARESAVE PLAN AS AMENDED AND RESTATED ON DECEMBER 30, 2009 BY WILLIS GROUP HOLDINGS LIMITED AND AS AMENDED AND RESTATED AND ASSUMED BY WILLIS GROUP HOLDINGS PUBLIC LIMITED COMPANY ON DECEMBER 31, 2009
+**********************
+A SUB-PLAN TO THE WILLIS GROUP HOLDINGS 2001 SHARE PURCHASE AND OPTION PLAN AS AMENDED AND RESTATED ON DECEMBER 30, 2009 BY WILLIS GROUP HOLDINGS LIMITED AND AS AMENDED AND RESTATED AND ASSUMED BY WILLIS GROUP HOLDINGS PUBLIC LIMITED COMPANY ON DECEMBER 31, 2009
+**********************
+CONTENTS
+**********************
+Rule
+**********************
+Page
+**********************
+1.
+**********************
+Definitions And Interpretation
+**********************
+1
+**********************
+2.
+**********************
+Invitations And Applications
+**********************
+2
+**********************
+3.
+**********************
+Grant Of Options
+**********************
+3
+**********************
+4.
+**********************
+Limits
+**********************
+4
+**********************
+5.
+**********************
+Exercise Of Options
+**********************
+5
+**********************
+6.
+**********************
+Takeover, Reconstruction And Winding Up
+**********************
+7
+**********************
+7.
+**********************
+Adjustment Of Options
+**********************
+10
+**********************
+8.
+**********************
+Alterations
+**********************
+10
+**********************
+9.
+**********************
+Cash Equivalent
+**********************
+10
+**********************
+10.
+**********************
+Miscellaneous
+**********************
+11
+**********************
+SCHEDULE
+**********************
+CONTENTS
+**********************
+Rule
+**********************
+Page
+**********************
+1.
+**********************
+Definitions And Interpretation
+**********************
+1
+**********************
+2.
+**********************
+Invitations And Applications
+**********************
+2
+**********************
+3.
+**********************
+Grant Of Options
+**********************
+3
+**********************
+4.
+**********************
+Limits
+**********************
+4
+**********************
+5.
+**********************
+Exercise Of Options
+**********************
+5
+**********************
+6.
+**********************
+Takeover, Reconstruction And Winding Up
+**********************
+7
+**********************
+7.
+**********************
+Adjustment Of Options
+**********************
+10
+**********************
+8.
+**********************
+Alterations
+**********************
+10
+**********************
+9.
+**********************
+Cash Equivalent
+**********************
+10
+**********************
+10.
+**********************
+Miscellaneous
+**********************
+11
+**********************
+1.
+**********************
+2.
+**********************
+3.
+**********************
+4.
+**********************
+5.
+**********************
+6.
+**********************
+7.
+**********************
+8.
+**********************
+9.
+**********************
+10.
+**********************
+SCHEDULE
+**********************
+SCHEDULE
+**********************
+1.
+**********************
+DEFINITIONS AND INTERPRETATION
+**********************
+1.1
+**********************
+In this Plan, unless the context otherwise requires:
+**********************
+Act means the Taxes Consolidation Act 1997;
+**********************
+Associated Company means an associated company within the meaning given to that expression by paragraph 1(1) of Schedule12A of the Act;
+**********************
+Assumed Rate of Interest means a notional fixed rate of interest which, unless otherwise determined by the Board before the date on which any invitation is given, shall be a rate of interest (or, as the case may be, the number of bonus contributions) which would be payable on a certified contractual savings contract taken out under the UK SAYE Plan at that time and which shall in no event exceed the rate of interest (or, as the case may be, the number of bonus contributions) payable on such a certified contractual savings contract;
+**********************
+the Board means the board of directors of the Company or a committee appointed by them;
+**********************
+the Company means Willis Group Holdings Public Limited Company, a company incorporated under the laws of Ireland under registered number 475616;
+**********************
+Dollar Exchange Rate in relation to an amount of money in US dollars shall be calculated by reference to the closing mid-point spot rate of exchange as quoted by the Financial Times for the day in question (as printed on the first business day following the day in question) or from such reasonable source as the Board may select from time to time;
+**********************
+Eligible Employee means an employee or director of a Participating Company and having such qualifying period of service as the Board may determine from time to time;
+**********************
+the Grant Date shall mean the date on which an option is granted in accordance with Rule 3.1;
+**********************
+Group Member means the Company or any Subsidiary or any Associated Company or any other company nominated by the Board for this purpose;
+**********************
+Maturity Date a date determined by the Board prior to grant and falling not more than 7 years from the Grant Date;
+**********************
+Participant means a person who holds an option granted under this Plan;
+**********************
+Participating Company means the Company or any Subsidiary of the Company;
+**********************
+the Plan means this Plan, being the Willis Group Holdings Limited International Sharesave Plan as amended and restated on December30, 2009 by Willis Group Holdings Limited and as amended and restated and assumed by Willis Group Holdings Public Limited Company on December31, 2009, a sub-plan to the Willis Group Holdings 2001 Share Purchase and Option Plan, as amended and restated on December30, 2009 by Willis Group Holdings Limited and as amended and restated and assumed by Willis Group Holdings Public Limited Company on December31, 2009;
+**********************
+1
+**********************
+1.
+**********************
+DEFINITIONS AND INTERPRETATION
+**********************
+1.1
+**********************
+In this Plan, unless the context otherwise requires:
+**********************
+Act means the Taxes Consolidation Act 1997;
+**********************
+Associated Company means an associated company within the meaning given to that expression by paragraph 1(1) of Schedule12A of the Act;
+**********************
+Assumed Rate of Interest means a notional fixed rate of interest which, unless otherwise determined by the Board before the date on which any invitation is given, shall be a rate of interest (or, as the case may be, the number of bonus contributions) which would be payable on a certified contractual savings contract taken out under the UK SAYE Plan at that time and which shall in no event exceed the rate of interest (or, as the case may be, the number of bonus contributions) payable on such a certified contractual savings contract;
+**********************
+the Board means the board of directors of the Company or a committee appointed by them;
+**********************
+the Company means Willis Group Holdings Public Limited Company, a company incorporated under the laws of Ireland under registered number 475616;
+**********************
+Dollar Exchange Rate in relation to an amount of money in US dollars shall be calculated by reference to the closing mid-point spot rate of exchange as quoted by the Financial Times for the day in question (as printed on the first business day following the day in question) or from such reasonable source as the Board may select from time to time;
+**********************
+Eligible Employee means an employee or director of a Participating Company and having such qualifying period of service as the Board may determine from time to time;
+**********************
+the Grant Date shall mean the date on which an option is granted in accordance with Rule 3.1;
+**********************
+Group Member means the Company or any Subsidiary or any Associated Company or any other company nominated by the Board for this purpose;
+**********************
+Maturity Date a date determined by the Board prior to grant and falling not more than 7 years from the Grant Date;
+**********************
+Participant means a person who holds an option granted under this Plan;
+**********************
+Participating Company means the Company or any Subsidiary of the Company;
+**********************
+the Plan means this Plan, being the Willis Group Holdings Limited International Sharesave Plan as amended and restated on December30, 2009 by Willis Group Holdings Limited and as amended and restated and assumed by Willis Group Holdings Public Limited Company on December31, 2009, a sub-plan to the Willis Group Holdings 2001 Share Purchase and Option Plan, as amended and restated on December30, 2009 by Willis Group Holdings Limited and as amended and restated and assumed by Willis Group Holdings Public Limited Company on December31, 2009;
+**********************
+Savings Body means a person nominated by the Board to whom contributions are payable under the terms of a Savings Contract;
+**********************
+Savings Contract means a commitment by an Eligible Employee to make a savings contribution with such party, for such period (being no greater than 7years) and on such terms as the Board may specify for time to time for Eligible Employees employed in the country concerned.
+**********************
+Savings Contract Repayment means in respect of a Savings Contract on any particular day, the aggregate of the savings contributions the Participant has undertaken to make by the day in question and notional interest on such savings contributions at the Assumed Rate of Interest;
+**********************
+Savings Period means the period over which the Participant commits to making savings contributions under the Savings Contract starting at the beginning of the first day of the month for which the first contribution is due and ending on the last day of the month for which the final contribution is due
+**********************
+Schedule3 means Schedule3 of the U.K. Income Tax (Earnings and Pensions) Act 2003;
+**********************
+Shares means the ordinary shares of the Company, nominal value US$0.000115;
+**********************
+Special Schedule means a schedule to this Plan (if any) adopted by the Board in relation to the grant of options in a particular jurisdiction;
+**********************
+Specified Percentage is 80 per cent.
+or such other percentage as may be by the Board;
+**********************
+Sterling Exchange Rate in relation to an amount of money in sterling shall be calculated by reference to the closing mid-point spot rate of exchange as quoted by the Financial Times for the day in question (as printed on the first business day following the day in question) or from such reasonable source as the Board may determine from time to time;
+**********************
+Subsidiary means a body corporate which is a subsidiary of the Company within the meaning of section 155 of the Irish Companies Act 1963;
+**********************
+the UK SAYE Plan means the Willis Group Holdings Sharesave Plan 2001 for the United Kingdom, as amended and restated on December30, 2009 by Willis Group Holdings Limited and as amended and restated and assumed by Willis Group Holdings Public Limited Company on December31, 2009, a sub-plan to the Willis Group Holdings 2001 Share Purchase and Option Plan, as amended and restated on December30, 2009 by Willis Group Holdings Limited and as amended and restated and assumed by Willis Group Holdings Public Limited Company on December31, 2009;
+**********************
+1.2
+**********************
+Any reference in this Plan to any enactment includes a reference to that enactment as from time to time modified, extended or re-enacted.
+**********************
+2.
+**********************
+INVITATIONS AND APPLICATIONS
+**********************
+2.1
+**********************
+An invitation to apply for an option may be given by the Board to any Eligible Employee at such time as the Board may determine within the period during which awards may be
+**********************
+2
+**********************
+Savings Body means a person nominated by the Board to whom contributions are payable under the terms of a Savings Contract;
+**********************
+Savings Contract means a commitment by an Eligible Employee to make a savings contribution with such party, for such period (being no greater than 7years) and on such terms as the Board may specify for time to time for Eligible Employees employed in the country concerned.
+**********************
+Savings Contract Repayment means in respect of a Savings Contract on any particular day, the aggregate of the savings contributions the Participant has undertaken to make by the day in question and notional interest on such savings contributions at the Assumed Rate of Interest;
+**********************
+Savings Period means the period over which the Participant commits to making savings contributions under the Savings Contract starting at the beginning of the first day of the month for which the first contribution is due and ending on the last day of the month for which the final contribution is due
+**********************
+Schedule3 means Schedule3 of the U.K. Income Tax (Earnings and Pensions) Act 2003;
+**********************
+Shares means the ordinary shares of the Company, nominal value US$0.000115;
+**********************
+Special Schedule means a schedule to this Plan (if any) adopted by the Board in relation to the grant of options in a particular jurisdiction;
+**********************
+Specified Percentage is 80 per cent.
+or such other percentage as may be by the Board;
+**********************
+Sterling Exchange Rate in relation to an amount of money in sterling shall be calculated by reference to the closing mid-point spot rate of exchange as quoted by the Financial Times for the day in question (as printed on the first business day following the day in question) or from such reasonable source as the Board may determine from time to time;
+**********************
+Subsidiary means a body corporate which is a subsidiary of the Company within the meaning of section 155 of the Irish Companies Act 1963;
+**********************
+the UK SAYE Plan means the Willis Group Holdings Sharesave Plan 2001 for the United Kingdom, as amended and restated on December30, 2009 by Willis Group Holdings Limited and as amended and restated and assumed by Willis Group Holdings Public Limited Company on December31, 2009, a sub-plan to the Willis Group Holdings 2001 Share Purchase and Option Plan, as amended and restated on December30, 2009 by Willis Group Holdings Limited and as amended and restated and assumed by Willis Group Holdings Public Limited Company on December31, 2009;
+**********************
+1.2
+**********************
+Any reference in this Plan to any enactment includes a reference to that enactment as from time to time modified, extended or re-enacted.
+**********************
+2.
+**********************
+INVITATIONS AND APPLICATIONS
+**********************
+2.1
+**********************
+An invitation to apply for an option may be given by the Board to any Eligible Employee at such time as the Board may determine within the period during which awards may be
+**********************
+granted under the Companys 2001 Share Purchase and Option Plan which expires on 3 May2011.
+**********************
+2.2
+**********************
+Each invitation shall include details of:
+**********************
+(a)
+**********************
+eligibility;
+**********************
+(b)
+**********************
+the price payable per Share on the exercise of an option or the mechanism by which the price payable per share will be calculated and notified to Eligible Employees;
+**********************
+(c)
+**********************
+the terms of the Savings Contract;
+**********************
+(d)
+**********************
+the date by which applications made pursuant to Rule2.3 must be received,
+**********************
+and the Board may determine and include in the invitations details of the maximum number of Shares over which applications for options are to be invited.
+**********************
+2.3
+**********************
+The Board must make available an application in such form as the Board may from time to time prescribe and which:-
+**********************
+includes a proposal for a Savings Contract with a Savings Body chosen by the Board;
+**********************
+allows the Eligible Employee to state how much he wishes to save each month;
+**********************
+authorises the Eligible Employees employer to deduct the monthly savings contributions from his pay and to pay them to the Savings Body; and
+**********************
+authorises the Board to amend the forms if applications have to be scaled down.
+**********************
+3.
+**********************
+GRANT OF OPTIONS
+**********************
+3.1
+**********************
+The Board may grant an option to any Eligible Employee who has submitted a valid application to acquire Shares in the Company upon the terms set out in this Plan and for this purpose, unless the Board determines otherwise, an option to acquire includes an option to purchase and an option to subscribe.
+**********************
+3.2
+**********************
+The number of Shares in respect of which an option may be granted to any individual shall be the maximum number which can be paid for, at the price determined under Rule3.5 below, with monies equal to the amount of the Savings Contract Repayment due on the Maturity Date under the Savings Contract to be made in connection with the option and if necessary converted into US dollars at the Dollar Exchange Rate on the dealing day by reference to which the share price is determined.
+**********************
+3.3
+**********************
+For the purposes of 3.2 above, the Savings Contract Repayment on the Maturity Date shall be taken as including interest at the Assumed Rate of Interest unless the Board shall have determined, in relation to every option to be granted on the day in question, that it shall be taken as not including such interest.
+**********************
+3.4
+**********************
+The amount of the monthly contribution under the Savings Contract to be made in connection with an option granted to an individual shall, subject to Rule4 below, be the amount which the individual shall have specified in his application for the option that he
+**********************
+3
+**********************
+granted under the Companys 2001 Share Purchase and Option Plan which expires on 3 May2011.
+**********************
+2.2
+**********************
+Each invitation shall include details of:
+**********************
+(a)
+**********************
+eligibility;
+**********************
+(b)
+**********************
+the price payable per Share on the exercise of an option or the mechanism by which the price payable per share will be calculated and notified to Eligible Employees;
+**********************
+(c)
+**********************
+the terms of the Savings Contract;
+**********************
+(d)
+**********************
+the date by which applications made pursuant to Rule2.3 must be received,
+**********************
+and the Board may determine and include in the invitations details of the maximum number of Shares over which applications for options are to be invited.
+**********************
+2.3
+**********************
+The Board must make available an application in such form as the Board may from time to time prescribe and which:-
+**********************
+includes a proposal for a Savings Contract with a Savings Body chosen by the Board;
+**********************
+allows the Eligible Employee to state how much he wishes to save each month;
+**********************
+authorises the Eligible Employees employer to deduct the monthly savings contributions from his pay and to pay them to the Savings Body; and
+**********************
+authorises the Board to amend the forms if applications have to be scaled down.
+**********************
+3.
+**********************
+GRANT OF OPTIONS
+**********************
+3.1
+**********************
+The Board may grant an option to any Eligible Employee who has submitted a valid application to acquire Shares in the Company upon the terms set out in this Plan and for this purpose, unless the Board determines otherwise, an option to acquire includes an option to purchase and an option to subscribe.
+**********************
+3.2
+**********************
+The number of Shares in respect of which an option may be granted to any individual shall be the maximum number which can be paid for, at the price determined under Rule3.5 below, with monies equal to the amount of the Savings Contract Repayment due on the Maturity Date under the Savings Contract to be made in connection with the option and if necessary converted into US dollars at the Dollar Exchange Rate on the dealing day by reference to which the share price is determined.
+**********************
+3.3
+**********************
+For the purposes of 3.2 above, the Savings Contract Repayment on the Maturity Date shall be taken as including interest at the Assumed Rate of Interest unless the Board shall have determined, in relation to every option to be granted on the day in question, that it shall be taken as not including such interest.
+**********************
+3.4
+**********************
+The amount of the monthly contribution under the Savings Contract to be made in connection with an option granted to an individual shall, subject to Rule4 below, be the amount which the individual shall have specified in his application for the option that he
+**********************
+is willing to pay or, if lower, the maximum permitted amount, that is to say, the maximum amount which:
+**********************
+3.4.1
+**********************
+when aggregated with the amount of his monthly contributions under any other Savings Contract linked to this Plan or to any other savings-related share option plan adopted by the Company, does not exceed the local currency equivalent of 250 but exceeds a minimum of the equivalent 5 (and for this purpose the local currency equivalent shall be calculated using the Sterling Exchange Rate on the dealing day by reference to which the exercise price is determined) or such other maximum or minimum amounts as may for the time being be permitted by the Board;
+**********************
+3.4.2
+**********************
+does not exceed the maximum amount for the time being permitted under the terms of the Savings Contract; and
+**********************
+3.4.3
+**********************
+when aggregated with the amount of his monthly contributions under any other Savings Contract linked to this Plan, does not exceed any maximum amount determined by the Board.
+**********************
+3.5
+**********************
+The price at which Shares may be acquired by the exercise of options granted on any day shall be determined by the Board, provided that:
+**********************
+3.5.1
+**********************
+if shares of the same class as those Shares are listed on the New York Stock Exchange, the price shall not be less than the Specified Percentage of the closing price of the Shares quoted in the Wall Street Journal on such dealing day as the Board may choose provided that such day shall fall prior to the date on which applications for options must be received by the Company;
+**********************
+3.5.2
+**********************
+and where 3.5.1 does not apply the price shall not be less than the Specified Percentage of the market value of the Shares determined in accordance with PartVIII of the UK Taxation of Chargeable Gains Act 1992;
+**********************
+3.5.3
+**********************
+the price may be set in US dollars or in any local currency equivalent specified by the Board (and for this purpose the local currency equivalent shall be calculated using the Dollar Exchange Rate on the dealing day by reference to which the share price is determined);
+**********************
+3.6
+**********************
+An option granted to any person:
+**********************
+3.6.1
+**********************
+shall not, except as provided in Rule5.3, be capable of being transferred by him; and
+**********************
+3.6.2
+**********************
+shall lapse forthwith if he is adjudged bankrupt.
+**********************
+4.
+**********************
+LIMITS
+**********************
+4.1
+**********************
+No options shall be granted to acquire a number of Shares which exceeds any number determined by the Board for this purpose.
+**********************
+4.2
+**********************
+If the grant of options on any day would but for this Rule4.2 cause the limit in Rule4.1 above to be exceeded, the Board shall scale down applications by reducing the monthly contributions stated in applications for options in a manner which the Board considers
+**********************
+4
+**********************
+is willing to pay or, if lower, the maximum permitted amount, that is to say, the maximum amount which:
+**********************
+3.4.1
+**********************
+when aggregated with the amount of his monthly contributions under any other Savings Contract linked to this Plan or to any other savings-related share option plan adopted by the Company, does not exceed the local currency equivalent of 250 but exceeds a minimum of the equivalent 5 (and for this purpose the local currency equivalent shall be calculated using the Sterling Exchange Rate on the dealing day by reference to which the exercise price is determined) or such other maximum or minimum amounts as may for the time being be permitted by the Board;
+**********************
+3.4.2
+**********************
+does not exceed the maximum amount for the time being permitted under the terms of the Savings Contract; and
+**********************
+3.4.3
+**********************
+when aggregated with the amount of his monthly contributions under any other Savings Contract linked to this Plan, does not exceed any maximum amount determined by the Board.
+**********************
+3.5
+**********************
+The price at which Shares may be acquired by the exercise of options granted on any day shall be determined by the Board, provided that:
+**********************
+3.5.1
+**********************
+if shares of the same class as those Shares are listed on the New York Stock Exchange, the price shall not be less than the Specified Percentage of the closing price of the Shares quoted in the Wall Street Journal on such dealing day as the Board may choose provided that such day shall fall prior to the date on which applications for options must be received by the Company;
+**********************
+3.5.2
+**********************
+and where 3.5.1 does not apply the price shall not be less than the Specified Percentage of the market value of the Shares determined in accordance with PartVIII of the UK Taxation of Chargeable Gains Act 1992;
+**********************
+3.5.3
+**********************
+the price may be set in US dollars or in any local currency equivalent specified by the Board (and for this purpose the local currency equivalent shall be calculated using the Dollar Exchange Rate on the dealing day by reference to which the share price is determined);
+**********************
+3.6
+**********************
+An option granted to any person:
+**********************
+3.6.1
+**********************
+shall not, except as provided in Rule5.3, be capable of being transferred by him; and
+**********************
+3.6.2
+**********************
+shall lapse forthwith if he is adjudged bankrupt.
+**********************
+4.
+**********************
+LIMITS
+**********************
+4.1
+**********************
+No options shall be granted to acquire a number of Shares which exceeds any number determined by the Board for this purpose.
+**********************
+4.2
+**********************
+If the grant of options on any day would but for this Rule4.2 cause the limit in Rule4.1 above to be exceeded, the Board shall scale down applications by reducing the monthly contributions stated in applications for options in a manner which the Board considers
+**********************
+fair and reasonable or adopt such other provision for scaling down the number of Shares available so far as is necessary to ensure that such limit is not exceeded.
+**********************
+4.3
+**********************
+If the applications, as scaled down, are still for more Shares than are available, the Board may decide no options will be granted on that occasion.
+**********************
+5.
+**********************
+EXERCISE OF OPTIONS
+**********************
+5.1
+**********************
+The exercise of any option granted under this Plan shall be effected in the form and manner prescribed by the Board, but to the extent that the actual savings made together with any interest earned in respect of such savings are not sufficient to acquire the total number of Shares in respect of which the option is exercisable (due to exchange rate movements, the amount of interest received being less than interest receivable at the Assumed Rate of Interest or missed savings contributions up to but not exceeding six monthly contributions), the Participant may, if he so wishes, use funds separately provided by him to make up this shortfall in order that the number of Shares in respect of which the option is exercisable may be acquired.
+**********************
+5.2
+**********************
+Subject to Rules5.3, 5.4, 5.6 and 6, an option granted under this Plan shall not be capable of being exercised before the Maturity Date.
+**********************
+5.3
+**********************
+Subject to Rule5.8:
+**********************
+5.3.1
+**********************
+if any Participant dies before the Maturity Date, any option granted to him may (and must, if at all) be exercised by his personal representatives within 12months after the date of his death provided that the total number of Shares which may be acquired on exercise of the option shall not exceed the number of Shares which can be acquired with the actual savings made together with any interest earned on the date of death; and
+**********************
+5.3.2
+**********************
+if he dies on or within 6months after the Maturity Date, any option granted to him may (and must, if at all) be exercised by his personal representatives within 12 months after the Maturity Date provided that the total number of Shares which may be acquired on exercise of the option shall not exceed the number of Shares which can be acquired with the actual savings made together with any interest earned on the date of death;
+**********************
+provided in either case that his death occurs at a time when he either holds the office or employment by virtue of which he is eligible to participate in this Plan or is entitled to exercise the option by virtue of Rule5.4.
+**********************
+5.4
+**********************
+Subject to Rule5.8, if any Participant ceases to hold the office or employment by virtue of which he is eligible to participate in this Plan (otherwise than by reason of his death), the following provisions apply in relation to any option granted to him:
+**********************
+5.4.1
+**********************
+if he so ceases by reason of injury, disability, redundancy, or retirement on reaching the age of 65 or any other age at which he is bound to retire in accordance with the terms of his contract of employment, the option may (and subject to Rule6.3 must, if at all) be exercised within 6months of his so ceasing provided that the total number of Shares which may be acquired on exercise of the option shall not exceed the number of Shares which can be
+**********************
+5
+**********************
+fair and reasonable or adopt such other provision for scaling down the number of Shares available so far as is necessary to ensure that such limit is not exceeded.
+**********************
+4.3
+**********************
+If the applications, as scaled down, are still for more Shares than are available, the Board may decide no options will be granted on that occasion.
+**********************
+5.
+**********************
+EXERCISE OF OPTIONS
+**********************
+5.1
+**********************
+The exercise of any option granted under this Plan shall be effected in the form and manner prescribed by the Board, but to the extent that the actual savings made together with any interest earned in respect of such savings are not sufficient to acquire the total number of Shares in respect of which the option is exercisable (due to exchange rate movements, the amount of interest received being less than interest receivable at the Assumed Rate of Interest or missed savings contributions up to but not exceeding six monthly contributions), the Participant may, if he so wishes, use funds separately provided by him to make up this shortfall in order that the number of Shares in respect of which the option is exercisable may be acquired.
+**********************
+5.2
+**********************
+Subject to Rules5.3, 5.4, 5.6 and 6, an option granted under this Plan shall not be capable of being exercised before the Maturity Date.
+**********************
+5.3
+**********************
+Subject to Rule5.8:
+**********************
+5.3.1
+**********************
+if any Participant dies before the Maturity Date, any option granted to him may (and must, if at all) be exercised by his personal representatives within 12months after the date of his death provided that the total number of Shares which may be acquired on exercise of the option shall not exceed the number of Shares which can be acquired with the actual savings made together with any interest earned on the date of death; and
+**********************
+5.3.2
+**********************
+if he dies on or within 6months after the Maturity Date, any option granted to him may (and must, if at all) be exercised by his personal representatives within 12 months after the Maturity Date provided that the total number of Shares which may be acquired on exercise of the option shall not exceed the number of Shares which can be acquired with the actual savings made together with any interest earned on the date of death;
+**********************
+provided in either case that his death occurs at a time when he either holds the office or employment by virtue of which he is eligible to participate in this Plan or is entitled to exercise the option by virtue of Rule5.4.
+**********************
+5.4
+**********************
+Subject to Rule5.8, if any Participant ceases to hold the office or employment by virtue of which he is eligible to participate in this Plan (otherwise than by reason of his death), the following provisions apply in relation to any option granted to him:
+**********************
+5.4.1
+**********************
+if he so ceases by reason of injury, disability, redundancy, or retirement on reaching the age of 65 or any other age at which he is bound to retire in accordance with the terms of his contract of employment, the option may (and subject to Rule6.3 must, if at all) be exercised within 6months of his so ceasing provided that the total number of Shares which may be acquired on exercise of the option shall not exceed the number of Shares which can be
+**********************
+acquired with the actual savings made together with any interest earned on the date of his ceasing employment;
+**********************
+5.4.2
+**********************
+if he so ceases by reason only that the office or employment is in a company of which the Company ceases to have control, or relates to a business or part of a business which is transferred to a person who is neither an Associated Company of the Company nor a company of which the Company has control, the option may (and subject to Rule5.3 must, if at all) be exercised within 6months of his so ceasing provided that the total number of Shares which may be acquired on exercise of the option shall not exceed the number of Shares which can be acquired with the actual savings made together with any interest earned on the date of his ceasing employment;
+**********************
+5.4.3
+**********************
+if he so ceases by reason of retirement at any age at which he is entitled to retire in accordance with the terms of his contract of employment (other than at 65 or any age at which he is bound to retire), early retirement with the agreement of the employer, or pregnancy, but in each case only if such cessation of office or employment is more than three years after the Grant Date, the option may (and subject to Rule6.3 must if at all) be exercised within 6months of his so ceasing provided that the total number of shares which may be acquired on exercise of the option shall not exceed the number of Shares which can be acquired with the actual savings made together with any interest earned on the date of his ceasing employment;
+**********************
+5.4.4
+**********************
+if he so ceases for any other reason the option may not be exercised at all.
+**********************
+For the purposes of the Plan, a woman who leaves employment due to pregnancy will be regarded as having left the employment on the day on which she indicates that she does not intend to return to work.
+In the absence of such indication she will be regarded as having left employment on the last day on which she is entitled to return to work, or if later, any other date specified in the terms of her employment.
+**********************
+5.5
+**********************
+Subject to Rule5.8, if, at the Maturity Date, a Participant holds an office or employment with a company which is not a Participating Company but which is an Associated Company or a company of which the Company has control, any option granted to him may (and subject to Rule 5.3 must, if at all) be exercised within 6months of the Maturity Date.
+**********************
+5.6
+**********************
+Subject to Rule5.8, where any Participant continues to hold the office or employment by virtue of which he is eligible to participate in this Plan after the date on which he reaches the age of 65, he may exercise any option within 6months of that date to the extent of the Savings Contract Repayment on the date on which he reaches 65.
+**********************
+5.7
+**********************
+Subject to Rule5.3, an option shall not be capable of being exercised later than 6months after the Maturity Date.
+**********************
+5.8
+**********************
+Where, before an option has become capable of being exercised, the Participant gives notice that he intends to stop paying monthly contributions under the Savings Contract made in connection with the option, or is deemed under its terms to have given such
+**********************
+6
+**********************
+acquired with the actual savings made together with any interest earned on the date of his ceasing employment;
+**********************
+5.4.2
+**********************
+if he so ceases by reason only that the office or employment is in a company of which the Company ceases to have control, or relates to a business or part of a business which is transferred to a person who is neither an Associated Company of the Company nor a company of which the Company has control, the option may (and subject to Rule5.3 must, if at all) be exercised within 6months of his so ceasing provided that the total number of Shares which may be acquired on exercise of the option shall not exceed the number of Shares which can be acquired with the actual savings made together with any interest earned on the date of his ceasing employment;
+**********************
+5.4.3
+**********************
+if he so ceases by reason of retirement at any age at which he is entitled to retire in accordance with the terms of his contract of employment (other than at 65 or any age at which he is bound to retire), early retirement with the agreement of the employer, or pregnancy, but in each case only if such cessation of office or employment is more than three years after the Grant Date, the option may (and subject to Rule6.3 must if at all) be exercised within 6months of his so ceasing provided that the total number of shares which may be acquired on exercise of the option shall not exceed the number of Shares which can be acquired with the actual savings made together with any interest earned on the date of his ceasing employment;
+**********************
+5.4.4
+**********************
+if he so ceases for any other reason the option may not be exercised at all.
+**********************
+For the purposes of the Plan, a woman who leaves employment due to pregnancy will be regarded as having left the employment on the day on which she indicates that she does not intend to return to work.
+In the absence of such indication she will be regarded as having left employment on the last day on which she is entitled to return to work, or if later, any other date specified in the terms of her employment.
+**********************
+5.5
+**********************
+Subject to Rule5.8, if, at the Maturity Date, a Participant holds an office or employment with a company which is not a Participating Company but which is an Associated Company or a company of which the Company has control, any option granted to him may (and subject to Rule 5.3 must, if at all) be exercised within 6months of the Maturity Date.
+**********************
+5.6
+**********************
+Subject to Rule5.8, where any Participant continues to hold the office or employment by virtue of which he is eligible to participate in this Plan after the date on which he reaches the age of 65, he may exercise any option within 6months of that date to the extent of the Savings Contract Repayment on the date on which he reaches 65.
+**********************
+5.7
+**********************
+Subject to Rule5.3, an option shall not be capable of being exercised later than 6months after the Maturity Date.
+**********************
+5.8
+**********************
+Where, before an option has become capable of being exercised, the Participant gives notice that he intends to stop paying monthly contributions under the Savings Contract made in connection with the option, or is deemed under its terms to have given such
+**********************
+notice, or makes an application for repayment of the monthly contributions paid under it, the option may not be exercised at all.
+**********************
+5.9
+**********************
+A Participant shall not be treated for the purposes of Rules5.3 and 5.4 as ceasing to hold the office or employment by virtue of which he is eligible to participate in this Plan until he ceases to hold an office or employment in the Company or any Associated Company or company of which the Company has control.
+**********************
+5.10
+**********************
+A Participant shall not be eligible to exercise an option at any time unless, subject to Rules5.3, 5.4 and 5.5, he is at that time a director or employee of a Participating Company.
+**********************
+5.11
+**********************
+An option shall not be capable of being exercised more than once.
+**********************
+5.12
+**********************
+An option may not be exercised unless:
+**********************
+5.12.1
+**********************
+the Board consider that the issue or transfer of Shares pursuant to such exercise would be lawful in all relevant jurisdictions; and
+**********************
+5.12.2
+**********************
+in a case where, if the option were exercised, a Group Member would be obliged to (or would suffer a disadvantage if it were not to) account for any tax (in any jurisdiction) for which the person in question would be liable by virtue of the exercise of the option and/or for any social security contributions that would be recoverable from the person in question (together, the Tax Liability), that person has either:
+**********************
+(a)
+**********************
+made a payment to the Group Member of an amount at least equal to the Companys estimate of the Tax Liability;
+**********************
+(b)
+**********************
+entered into arrangements acceptable to that or another Group Member to secure that such a payment is made (whether by authorising the sale of some or all of the Shares on his behalf and the payment to the Group Member of the relevant amount out of the proceeds of sale or otherwise); or
+**********************
+(c)
+**********************
+the Group Member and the person in question have agreed that the Tax Liability otherwise recoverable from him shall be waived.
+**********************
+5.13
+**********************
+Within 30days after an option has been exercised by any person, the Board shall allot to him (or a nominee for him) or, as appropriate, procure the transfer to him (or a nominee for him) of the number of Shares in respect of which the option has been exercised, provided that the Board considers that the issue or transfer of those Shares.
+**********************
+5.14
+**********************
+All Shares allotted under this Plan shall rank equally in all respects with Shares of the same class then in issue except for any rights attaching to such Shares by reference to a record date before the date of the allotment.
+**********************
+6.
+**********************
+TAKEOVER, RECONSTRUCTION AND WINDING UP
+**********************
+6.1
+**********************
+If any person obtains control of the Company as a result of making a general offer to acquire Shares in the Company, or having obtained control makes such an offer, subject to Rules5.3, 5.4, 5.7, 5.8 and 6.5, any option may be exercised within 6months after that
+**********************
+7
+**********************
+notice, or makes an application for repayment of the monthly contributions paid under it, the option may not be exercised at all.
+**********************
+5.9
+**********************
+A Participant shall not be treated for the purposes of Rules5.3 and 5.4 as ceasing to hold the office or employment by virtue of which he is eligible to participate in this Plan until he ceases to hold an office or employment in the Company or any Associated Company or company of which the Company has control.
+**********************
+5.10
+**********************
+A Participant shall not be eligible to exercise an option at any time unless, subject to Rules5.3, 5.4 and 5.5, he is at that time a director or employee of a Participating Company.
+**********************
+5.11
+**********************
+An option shall not be capable of being exercised more than once.
+**********************
+5.12
+**********************
+An option may not be exercised unless:
+**********************
+5.12.1
+**********************
+the Board consider that the issue or transfer of Shares pursuant to such exercise would be lawful in all relevant jurisdictions; and
+**********************
+5.12.2
+**********************
+in a case where, if the option were exercised, a Group Member would be obliged to (or would suffer a disadvantage if it were not to) account for any tax (in any jurisdiction) for which the person in question would be liable by virtue of the exercise of the option and/or for any social security contributions that would be recoverable from the person in question (together, the Tax Liability), that person has either:
+**********************
+(a)
+**********************
+made a payment to the Group Member of an amount at least equal to the Companys estimate of the Tax Liability;
+**********************
+(b)
+**********************
+entered into arrangements acceptable to that or another Group Member to secure that such a payment is made (whether by authorising the sale of some or all of the Shares on his behalf and the payment to the Group Member of the relevant amount out of the proceeds of sale or otherwise); or
+**********************
+(c)
+**********************
+the Group Member and the person in question have agreed that the Tax Liability otherwise recoverable from him shall be waived.
+**********************
+5.13
+**********************
+Within 30days after an option has been exercised by any person, the Board shall allot to him (or a nominee for him) or, as appropriate, procure the transfer to him (or a nominee for him) of the number of Shares in respect of which the option has been exercised, provided that the Board considers that the issue or transfer of those Shares.
+**********************
+5.14
+**********************
+All Shares allotted under this Plan shall rank equally in all respects with Shares of the same class then in issue except for any rights attaching to such Shares by reference to a record date before the date of the allotment.
+**********************
+6.
+**********************
+TAKEOVER, RECONSTRUCTION AND WINDING UP
+**********************
+6.1
+**********************
+If any person obtains control of the Company as a result of making a general offer to acquire Shares in the Company, or having obtained control makes such an offer, subject to Rules5.3, 5.4, 5.7, 5.8 and 6.5, any option may be exercised within 6months after that
+**********************
+person has obtained control provided that the total number of Shares which may be acquired on exercise of the option shall not exceed the number of Shares which can be acquired with the actual savings made together with any interest earned on the day of exercise.
+**********************
+6.2
+**********************
+For the purposes of Rule6.1, a change of control shall mean: (a)the acquisition of ownership, directly or indirectly, beneficially or of record, by any Person or group (within the meaning of the U.S. Securities Exchange Act of 1934 as amended (the Exchange Act), and the rules of the U.S. Securities and Exchange Commission there under as in effect on the date hereof) of the ordinary shares of the Company representing more than 50% of the aggregate voting power represented by the issued and outstanding ordinary shares of the Company; or (b) occupation of a majority of the seats (other than vacant seats) on the Board by Persons who were neither (i)nominated by the Companys Board nor (ii)appointed by directors so nominated.
+For the avoidance of doubt, a transaction shall not constitute a change of control (i)if effected for the purpose of changing the place of incorporation or form of organisation of the ultimate parent entity of the Willis group of companies (including where the Company is succeeded by an issuer incorporated under the laws of another state, country or foreign government for such purpose and whether or not the Company remains in existence following such transaction) and (ii)where all or substantially all of the Person(s) who are the beneficial owners of the outstanding voting securities of the Company immediately prior to such transaction will beneficially own, directly or indirectly, all or substantially all of the combined voting power of the outstanding voting securities entitled to vote generally in the election of directors of the ultimate parent entity resulting from such transaction in substantially the same proportions as their ownership, immediately prior to such transaction, of such outstanding securities of the Company.
+The Board, in its sole discretion, may make an appropriate and equitable adjustment to the ordinary shares underlying an option to take into account such transaction, including to substitute or provide for the issuance of ordinary shares of the resulting ultimate parent entity in lieu of ordinary shares of the Company.
+Person, as used herein, shall have the meaning found in Sections 13(d) and 14(d) of the Exchange Act.
+**********************
+6.3
+**********************
+If under section 201 of the Irish Companies Act 1963 (or any other equivalent legislation) the court sanctions a compromise or arrangement proposed for the purposes of, or in connection with, a scheme for the reconstruction of the Company or its amalgamation with any other company or companies, subject to Rules5.3, 5.4, 5.7 and 5.8, any option may be exercised within six months of the court sanctioning the compromise or arrangement, provided that the total number of Shares which may be acquired on exercise of the option shall not exceed the number of Shares which can be acquired with the actual savings made together with any interest earned on the day of exercise, but to the extent that it is not exercised within that period shall (notwithstanding any other provision of this Plan) lapse on expiration of that period.
+**********************
+6.4
+**********************
+If a resolution for the voluntary winding-up of the Company is passed, subject to Rules5.3, 5.4, 5.7 and 5.8, any option may be exercised within two months from the date of the passing of the resolution, provided that the total number of Shares which may be acquired on exercise of the option shall not exceed the number of Shares which can be acquired with the actual savings made together with any interest earned on the day of
+**********************
+8
+**********************
+person has obtained control provided that the total number of Shares which may be acquired on exercise of the option shall not exceed the number of Shares which can be acquired with the actual savings made together with any interest earned on the day of exercise.
+**********************
+6.2
+**********************
+For the purposes of Rule6.1, a change of control shall mean: (a)the acquisition of ownership, directly or indirectly, beneficially or of record, by any Person or group (within the meaning of the U.S. Securities Exchange Act of 1934 as amended (the Exchange Act), and the rules of the U.S. Securities and Exchange Commission there under as in effect on the date hereof) of the ordinary shares of the Company representing more than 50% of the aggregate voting power represented by the issued and outstanding ordinary shares of the Company; or (b) occupation of a majority of the seats (other than vacant seats) on the Board by Persons who were neither (i)nominated by the Companys Board nor (ii)appointed by directors so nominated.
+For the avoidance of doubt, a transaction shall not constitute a change of control (i)if effected for the purpose of changing the place of incorporation or form of organisation of the ultimate parent entity of the Willis group of companies (including where the Company is succeeded by an issuer incorporated under the laws of another state, country or foreign government for such purpose and whether or not the Company remains in existence following such transaction) and (ii)where all or substantially all of the Person(s) who are the beneficial owners of the outstanding voting securities of the Company immediately prior to such transaction will beneficially own, directly or indirectly, all or substantially all of the combined voting power of the outstanding voting securities entitled to vote generally in the election of directors of the ultimate parent entity resulting from such transaction in substantially the same proportions as their ownership, immediately prior to such transaction, of such outstanding securities of the Company.
+The Board, in its sole discretion, may make an appropriate and equitable adjustment to the ordinary shares underlying an option to take into account such transaction, including to substitute or provide for the issuance of ordinary shares of the resulting ultimate parent entity in lieu of ordinary shares of the Company.
+Person, as used herein, shall have the meaning found in Sections 13(d) and 14(d) of the Exchange Act.
+**********************
+6.3
+**********************
+If under section 201 of the Irish Companies Act 1963 (or any other equivalent legislation) the court sanctions a compromise or arrangement proposed for the purposes of, or in connection with, a scheme for the reconstruction of the Company or its amalgamation with any other company or companies, subject to Rules5.3, 5.4, 5.7 and 5.8, any option may be exercised within six months of the court sanctioning the compromise or arrangement, provided that the total number of Shares which may be acquired on exercise of the option shall not exceed the number of Shares which can be acquired with the actual savings made together with any interest earned on the day of exercise, but to the extent that it is not exercised within that period shall (notwithstanding any other provision of this Plan) lapse on expiration of that period.
+**********************
+6.4
+**********************
+If a resolution for the voluntary winding-up of the Company is passed, subject to Rules5.3, 5.4, 5.7 and 5.8, any option may be exercised within two months from the date of the passing of the resolution, provided that the total number of Shares which may be acquired on exercise of the option shall not exceed the number of Shares which can be acquired with the actual savings made together with any interest earned on the day of
+**********************
+exercise, but to the extent that it is not exercised within that period shall (notwithstanding any other provision of this Plan) lapse on expiration of that period.
+**********************
+6.5
+**********************
+If any person becomes bound or entitled to acquire Shares under section 204 of the Irish Companies Act 1963 (or any other equivalent legislation) subject to Rules5.3, 5.4, 5.5, 5.6, 5.7, and 5.8, any option may be exercised at any time when that person remains so bound or entitled provided that the total number of Shares which may be acquired on exercise of the option shall not exceed the number of Shares which can be acquired with the actual savings made together with any interest earned on the day of exercise, but to the extent that it is not exercised within that period shall (notwithstanding any other provision of this Plan) lapse on the expiration of that period.
+**********************
+6.6
+**********************
+If any company (the Acquiring Company):
+**********************
+6.6.1
+**********************
+obtains control of the Company as a result of making-
+**********************
+(a)
+**********************
+a general offer to acquire the whole of the issued common share capital of the Company which is made on a condition such that if it is satisfied the acquiring company will have control of the Company, or
+**********************
+(b)
+**********************
+a general offer to acquire all the Shares in the Company which are of the same class as the Shares which may be acquired by the exercise of options granted under this Plan, or
+**********************
+6.6.2
+**********************
+obtains control of the Company in pursuance of a compromise or arrangement sanctioned by the court under section 201 of the Irish Companies Act 1963 (or under any other equivalent legislation), or
+**********************
+6.6.3
+**********************
+becomes bound or entitled to acquire Shares in the Company under section 204 of the Irish Companies Act 1963 (or under any other equivalent legislation),
+**********************
+any Participant may at any time within the appropriate period (which expression shall be construed in accordance with paragraph 38(3) of Schedule3 for the purposes of the UK SAYE Plan), by agreement with the Acquiring Company, release any option which has not lapsed (the old option) in consideration of the grant to him of an option (the new option) which (for the purposes of that paragraph) is equivalent to the old option but relates to Shares in a different company.
+**********************
+6.7
+**********************
+The provisions of this Plan shall for this purpose be construed as if:
+**********************
+6.7.1
+**********************
+the new option were an option granted under this Plan at the same time as the old option;
+**********************
+6.7.2
+**********************
+except for the purposes of the definitions of Participating Company and Subsidiary in Rules1.1, 5.4.2, 5.5 and 5.9, the expression the Company were defined as a company whose Shares may be acquired by the exercise of options granted under this Plan;
+**********************
+6.7.3
+**********************
+the Savings Contract made in connection with the old option had been made in connection with the new option; and
+**********************
+9
+**********************
+exercise, but to the extent that it is not exercised within that period shall (notwithstanding any other provision of this Plan) lapse on expiration of that period.
+**********************
+6.5
+**********************
+If any person becomes bound or entitled to acquire Shares under section 204 of the Irish Companies Act 1963 (or any other equivalent legislation) subject to Rules5.3, 5.4, 5.5, 5.6, 5.7, and 5.8, any option may be exercised at any time when that person remains so bound or entitled provided that the total number of Shares which may be acquired on exercise of the option shall not exceed the number of Shares which can be acquired with the actual savings made together with any interest earned on the day of exercise, but to the extent that it is not exercised within that period shall (notwithstanding any other provision of this Plan) lapse on the expiration of that period.
+**********************
+6.6
+**********************
+If any company (the Acquiring Company):
+**********************
+6.6.1
+**********************
+obtains control of the Company as a result of making-
+**********************
+(a)
+**********************
+a general offer to acquire the whole of the issued common share capital of the Company which is made on a condition such that if it is satisfied the acquiring company will have control of the Company, or
+**********************
+(b)
+**********************
+a general offer to acquire all the Shares in the Company which are of the same class as the Shares which may be acquired by the exercise of options granted under this Plan, or
+**********************
+6.6.2
+**********************
+obtains control of the Company in pursuance of a compromise or arrangement sanctioned by the court under section 201 of the Irish Companies Act 1963 (or under any other equivalent legislation), or
+**********************
+6.6.3
+**********************
+becomes bound or entitled to acquire Shares in the Company under section 204 of the Irish Companies Act 1963 (or under any other equivalent legislation),
+**********************
+any Participant may at any time within the appropriate period (which expression shall be construed in accordance with paragraph 38(3) of Schedule3 for the purposes of the UK SAYE Plan), by agreement with the Acquiring Company, release any option which has not lapsed (the old option) in consideration of the grant to him of an option (the new option) which (for the purposes of that paragraph) is equivalent to the old option but relates to Shares in a different company.
+**********************
+6.7
+**********************
+The provisions of this Plan shall for this purpose be construed as if:
+**********************
+6.7.1
+**********************
+the new option were an option granted under this Plan at the same time as the old option;
+**********************
+6.7.2
+**********************
+except for the purposes of the definitions of Participating Company and Subsidiary in Rules1.1, 5.4.2, 5.5 and 5.9, the expression the Company were defined as a company whose Shares may be acquired by the exercise of options granted under this Plan;
+**********************
+6.7.3
+**********************
+the Savings Contract made in connection with the old option had been made in connection with the new option; and
+**********************
+6.7.4
+**********************
+the Maturity Date in relation to the new option were the same as that in relation to the old option.
+**********************
+7.
+**********************
+ADJUSTMENT OF OPTIONS
+**********************
+7.1
+**********************
+In the event of any variation of the share capital of the Company, the Board may make such adjustments as it considers appropriate under Rule7.2.
+**********************
+7.2
+**********************
+An adjustment made under this Rule shall be to one or more of the following:
+**********************
+7.2.1
+**********************
+the number of Shares in respect of which any option may be exercised;
+**********************
+7.2.2
+**********************
+the price at which Shares may be acquired by the exercise of any option;
+**********************
+7.2.3
+**********************
+where any option has been exercised but no Shares have been allotted or transferred pursuant to the exercise, the number of Shares which may be allotted or transferred and the price at which they may be acquired.
+**********************
+8.
+**********************
+ALTERATIONS
+**********************
+8.1
+**********************
+Subject to Rule8.2 below the Board may at any time alter or add to all or any of the provisions of the Plan.
+**********************
+8.2
+**********************
+No alteration or addition shall be made under Rule8.1 which would abrogate or adversely affect the subsisting rights of a Participant, unless it is made:
+**********************
+(i)
+**********************
+with the consent in writing of such number of Participants as hold options to acquire not less than 75 per cent of the Shares which would be issued or transferred if all options granted and subsisting were exercised in respect of the maximum of Shares the subject thereof; or
+**********************
+(ii)
+**********************
+by a resolution at a meeting of Participants passed by not less than 75 per cent of the Participants who attend and vote either in person or by proxy,
+**********************
+and for the purposes of this Rule8.2 the Participants shall be treated as the holders of a separate class of share capital and the provisions of the Constitution of the Company relating to class meetings shall apply mutatis mutandis.
+**********************
+8.3
+**********************
+Rule8.2 shall not apply to any alteration or addition which:
+**********************
+(i)
+**********************
+is necessary or desirable in order to comply with or take account of the provisions of any proposed or existing legislation or law, to take advantage of any changes to the legislation or law, to take account of any of the events mentioned in Rule7, or to obtain or maintain favourable taxation treatment of the Company, any Subsidiary or any Participant; and
+**********************
+(ii)
+**********************
+does not affect the basic principles of the Plan, the calculation of the price payable per share under an option or the limit in Rule4.
+**********************
+9.
+**********************
+CASH EQUIVALENT
+**********************
+9.1
+**********************
+Where an option granted under the Plan has been exercised by any person in respect of any number of Shares, and those Shares have not yet been allotted or transferred to him in accordance with Rule5.13 above, the Board may determine that, in substitution for his
+**********************
+10
+**********************
+6.7.4
+**********************
+the Maturity Date in relation to the new option were the same as that in relation to the old option.
+**********************
+7.
+**********************
+ADJUSTMENT OF OPTIONS
+**********************
+7.1
+**********************
+In the event of any variation of the share capital of the Company, the Board may make such adjustments as it considers appropriate under Rule7.2.
+**********************
+7.2
+**********************
+An adjustment made under this Rule shall be to one or more of the following:
+**********************
+7.2.1
+**********************
+the number of Shares in respect of which any option may be exercised;
+**********************
+7.2.2
+**********************
+the price at which Shares may be acquired by the exercise of any option;
+**********************
+7.2.3
+**********************
+where any option has been exercised but no Shares have been allotted or transferred pursuant to the exercise, the number of Shares which may be allotted or transferred and the price at which they may be acquired.
+**********************
+8.
+**********************
+ALTERATIONS
+**********************
+8.1
+**********************
+Subject to Rule8.2 below the Board may at any time alter or add to all or any of the provisions of the Plan.
+**********************
+8.2
+**********************
+No alteration or addition shall be made under Rule8.1 which would abrogate or adversely affect the subsisting rights of a Participant, unless it is made:
+**********************
+(i)
+**********************
+with the consent in writing of such number of Participants as hold options to acquire not less than 75 per cent of the Shares which would be issued or transferred if all options granted and subsisting were exercised in respect of the maximum of Shares the subject thereof; or
+**********************
+(ii)
+**********************
+by a resolution at a meeting of Participants passed by not less than 75 per cent of the Participants who attend and vote either in person or by proxy,
+**********************
+and for the purposes of this Rule8.2 the Participants shall be treated as the holders of a separate class of share capital and the provisions of the Constitution of the Company relating to class meetings shall apply mutatis mutandis.
+**********************
+8.3
+**********************
+Rule8.2 shall not apply to any alteration or addition which:
+**********************
+(i)
+**********************
+is necessary or desirable in order to comply with or take account of the provisions of any proposed or existing legislation or law, to take advantage of any changes to the legislation or law, to take account of any of the events mentioned in Rule7, or to obtain or maintain favourable taxation treatment of the Company, any Subsidiary or any Participant; and
+**********************
+(ii)
+**********************
+does not affect the basic principles of the Plan, the calculation of the price payable per share under an option or the limit in Rule4.
+**********************
+9.
+**********************
+CASH EQUIVALENT
+**********************
+9.1
+**********************
+Where an option granted under the Plan has been exercised by any person in respect of any number of Shares, and those Shares have not yet been allotted or transferred to him in accordance with Rule5.13 above, the Board may determine that, in substitution for his
+**********************
+right to acquire such number of those Shares as the Board may decide (but in full and final satisfaction of his said right), he shall be paid a sum equal to the cash equivalent of that number of Shares.
+**********************
+9.2
+**********************
+For the purposes of this Rule, the cash equivalent of any Shares is the amount by which the Boards opinion of the market value of those Shares on the business day prior to the date on which the option was exercised (or, if at the relevant time Shares of the same class as those Shares were listed on the New York Stock Exchange, the closing price of Shares of that class on the dealing day prior to that date) exceeds the price (or the dollar equivalent of the price calculated using the Dollar Exchange Rate on the relevant dealing day) at which those Shares may be acquired by the exercise of that option.
+**********************
+9.3
+**********************
+Subject to Rule9.4 below, as soon as reasonably practicable after a determination has been made under Rule9.1 above that a person shall be paid a sum in substitution for his right to acquire any number of Shares:-
+**********************
+9.3.1
+**********************
+the Company shall pay to him or procure the payment to him of that sum in cash in such currency and by such method as the Board shall in its absolute discretion determine, and
+**********************
+9.3.2
+**********************
+if he has already paid the Company for those Shares, the Company shall return to him the amount so paid by him.
+**********************
+9.4
+**********************
+If the Board in its discretion so decides:-
+**********************
+9.4.1
+**********************
+the whole or part of the sum payable under Rule9.3.1 above shall, instead of being paid to the person in question in cash, be applied on his behalf in subscribing for Shares in the Company at a price equal to the market value (or, as the case may be, the closing price) by reference to which the cash equivalent is calculated, or in purchasing such Shares, or partly in one way and partly in the other, and
+**********************
+9.4.2
+**********************
+the Company shall allot to him (or a nominee for him) or procure the transfer to him (or a nominee for him) of the Shares so subscribed for or purchased.
+**********************
+9.5
+**********************
+There shall be made from any payment under this Rule such deductions (on account of tax, dealing expenses, exchange rate costs or similar liabilities) as may be required by law or as the Board may reasonably consider to be necessary or desirable.
+**********************
+10.
+**********************
+MISCELLANEOUS
+**********************
+10.1
+**********************
+The rights and obligations of any individual under the terms of his office or employment with the Company or a Subsidiary shall not be affected by his participation in this Plan or any right which he may have to participate in it, and an individual who participates in it shall waive all and any rights to compensation or damages in consequence of the termination of his office or employment for any reason whatsoever insofar as those rights arise or may arise from his ceasing to have rights under or be entitled to exercise any option as a result of such termination.
+**********************
+11
+**********************
+right to acquire such number of those Shares as the Board may decide (but in full and final satisfaction of his said right), he shall be paid a sum equal to the cash equivalent of that number of Shares.
+**********************
+9.2
+**********************
+For the purposes of this Rule, the cash equivalent of any Shares is the amount by which the Boards opinion of the market value of those Shares on the business day prior to the date on which the option was exercised (or, if at the relevant time Shares of the same class as those Shares were listed on the New York Stock Exchange, the closing price of Shares of that class on the dealing day prior to that date) exceeds the price (or the dollar equivalent of the price calculated using the Dollar Exchange Rate on the relevant dealing day) at which those Shares may be acquired by the exercise of that option.
+**********************
+9.3
+**********************
+Subject to Rule9.4 below, as soon as reasonably practicable after a determination has been made under Rule9.1 above that a person shall be paid a sum in substitution for his right to acquire any number of Shares:-
+**********************
+9.3.1
+**********************
+the Company shall pay to him or procure the payment to him of that sum in cash in such currency and by such method as the Board shall in its absolute discretion determine, and
+**********************
+9.3.2
+**********************
+if he has already paid the Company for those Shares, the Company shall return to him the amount so paid by him.
+**********************
+9.4
+**********************
+If the Board in its discretion so decides:-
+**********************
+9.4.1
+**********************
+the whole or part of the sum payable under Rule9.3.1 above shall, instead of being paid to the person in question in cash, be applied on his behalf in subscribing for Shares in the Company at a price equal to the market value (or, as the case may be, the closing price) by reference to which the cash equivalent is calculated, or in purchasing such Shares, or partly in one way and partly in the other, and
+**********************
+9.4.2
+**********************
+the Company shall allot to him (or a nominee for him) or procure the transfer to him (or a nominee for him) of the Shares so subscribed for or purchased.
+**********************
+9.5
+**********************
+There shall be made from any payment under this Rule such deductions (on account of tax, dealing expenses, exchange rate costs or similar liabilities) as may be required by law or as the Board may reasonably consider to be necessary or desirable.
+**********************
+10.
+**********************
+MISCELLANEOUS
+**********************
+10.1
+**********************
+The rights and obligations of any individual under the terms of his office or employment with the Company or a Subsidiary shall not be affected by his participation in this Plan or any right which he may have to participate in it, and an individual who participates in it shall waive all and any rights to compensation or damages in consequence of the termination of his office or employment for any reason whatsoever insofar as those rights arise or may arise from his ceasing to have rights under or be entitled to exercise any option as a result of such termination.
+**********************
+10.2
+**********************
+In the event of any dispute or disagreement as to the interpretation of this Plan, or as to any question or right arising from or related to this Plan, the decision of the Board shall be final and binding upon all persons.
+**********************
+10.3
+**********************
+Any notice or other communication under or in connection with this Plan may be given by such method as the Board may determine to be appropriate which may include but shall not be limited to:-
+**********************
+10.3.1
+**********************
+personal delivery or by sending it by post, in the case of a company to its registered office, and in the case of an individual to his last known address, or, where he is a director or employee of the Company or a Subsidiary, either to his last known home address or to the address of the place of business at which he performs the whole or substantially the whole of the duties of his office or employment;
+**********************
+10.3.2
+**********************
+electronic communication by e-mail or intranet; or
+**********************
+10.3.3
+**********************
+affixing notices in staff areas of the employees place of work.
+**********************
+10.4
+**********************
+Unless the Board determines otherwise, any notice of exercise shall take effect only when received by the Company.
+**********************
+10.5
+**********************
+The Board may, at any time, establish such Special Schedules to this Plan to take account or advantage of local tax, exchange control or securities laws in any other country as the Board may, in its discretion, decide.
+**********************
+10.6
+**********************
+This Plan and all the options granted under it shall be governed by and construed in accordance with the law of Ireland.
+**********************
+12
+**********************
+10.2
+**********************
+In the event of any dispute or disagreement as to the interpretation of this Plan, or as to any question or right arising from or related to this Plan, the decision of the Board shall be final and binding upon all persons.
+**********************
+10.3
+**********************
+Any notice or other communication under or in connection with this Plan may be given by such method as the Board may determine to be appropriate which may include but shall not be limited to:-
+**********************
+10.3.1
+**********************
+personal delivery or by sending it by post, in the case of a company to its registered office, and in the case of an individual to his last known address, or, where he is a director or employee of the Company or a Subsidiary, either to his last known home address or to the address of the place of business at which he performs the whole or substantially the whole of the duties of his office or employment;
+**********************
+10.3.2
+**********************
+electronic communication by e-mail or intranet; or
+**********************
+10.3.3
+**********************
+affixing notices in staff areas of the employees place of work.
+**********************
+10.4
+**********************
+Unless the Board determines otherwise, any notice of exercise shall take effect only when received by the Company.
+**********************
+10.5
+**********************
+The Board may, at any time, establish such Special Schedules to this Plan to take account or advantage of local tax, exchange control or securities laws in any other country as the Board may, in its discretion, decide.
+**********************
+10.6
+**********************
+This Plan and all the options granted under it shall be governed by and construed in accordance with the law of Ireland.
+**********************
+WILLIS GROUP HOLDINGS
+**********************
+INTERNATIONAL SHARESAVE PLAN AS AMENDED AND RESTATED ON DECEMBER 30, 2009 BY WILLIS GROUP HOLDINGS LIMITED AND AS AMENDED AND RESTATED AND ASSUMED BY WILLIS GROUP HOLDINGS PUBLIC LIMITED COMPANY ON DECEMBER 31, 2009
+**********************
+A SUB-PLAN TO THE WILLIS GROUP HOLDINGS 2001 SHARE PURCHASE AND OPTION PLAN AS AMENDED AND RESTATED ON DECEMBER 30, 2009 BY WILLIS GROUP HOLDINGS LIMITED AND AS AMENDED AND RESTATED AND ASSUMED BY WILLIS GROUP HOLDINGS PUBLIC LIMITED COMPANY ON DECEMBER 31, 2009
+**********************
+SPECIAL SCHEDULE
+**********************
+The Board may, in its absolute discretion, apply any of the provisions of this Schedule when granting options under the Plan.
+**********************
+1.
+**********************
+Australia
+**********************
+1.1
+**********************
+An option granted in accordance with Rule3.1 shall be an option to subscribe for new issue shares and may not be satisfied by pre-existing shares.
+**********************
+1.2
+**********************
+Notwithstanding Rules5.3 and 5.4, an option cannot be exercised by an Australian Participant before 12months from the date that the Company was first listed on the New York Stock Exchange.
+**********************
+2.
+**********************
+Brazil
+**********************
+2.1
+**********************
+Notwithstanding Rules5.3, 5.4, 5.5, 5.6 and 6, if a Participant, who is tax resident in Brazil, ceases to hold the office or employment by virtue of which he is eligible to participate in the Plan (including by reason of his death) before the Maturity Date, he will not be entitled to exercise his option, his option will be cancelled and the proceeds of his Savings Contract will be returned to him.
+**********************
+3.
+**********************
+Mexico
+**********************
+In the case of an option granted to a Participant who is tax resident in Mexico, the price at which Shares may be acquired by the exercise of such option shall be determined by the Board provided that it shall not be less than the higher of the price determined in accordance with Rule3.5 of the Plan and if shares of the same class as those Shares are listed on the New York Stock Exchange, the closing price of the Shares quoted in the Wall Street Journal on the dealing day immediately preceding the date on which invitations are issued to employees in accordance with Rule2.1 of the Plan.
+**********************
+13
+**********************
+WILLIS GROUP HOLDINGS
+**********************
+INTERNATIONAL SHARESAVE PLAN AS AMENDED AND RESTATED ON DECEMBER 30, 2009 BY WILLIS GROUP HOLDINGS LIMITED AND AS AMENDED AND RESTATED AND ASSUMED BY WILLIS GROUP HOLDINGS PUBLIC LIMITED COMPANY ON DECEMBER 31, 2009
+**********************
+A SUB-PLAN TO THE WILLIS GROUP HOLDINGS 2001 SHARE PURCHASE AND OPTION PLAN AS AMENDED AND RESTATED ON DECEMBER 30, 2009 BY WILLIS GROUP HOLDINGS LIMITED AND AS AMENDED AND RESTATED AND ASSUMED BY WILLIS GROUP HOLDINGS PUBLIC LIMITED COMPANY ON DECEMBER 31, 2009
+**********************
+SPECIAL SCHEDULE
+**********************
+The Board may, in its absolute discretion, apply any of the provisions of this Schedule when granting options under the Plan.
+**********************
+1.
+**********************
+Australia
+**********************
+1.1
+**********************
+An option granted in accordance with Rule3.1 shall be an option to subscribe for new issue shares and may not be satisfied by pre-existing shares.
+**********************
+1.2
+**********************
+Notwithstanding Rules5.3 and 5.4, an option cannot be exercised by an Australian Participant before 12months from the date that the Company was first listed on the New York Stock Exchange.
+**********************
+2.
+**********************
+Brazil
+**********************
+2.1
+**********************
+Notwithstanding Rules5.3, 5.4, 5.5, 5.6 and 6, if a Participant, who is tax resident in Brazil, ceases to hold the office or employment by virtue of which he is eligible to participate in the Plan (including by reason of his death) before the Maturity Date, he will not be entitled to exercise his option, his option will be cancelled and the proceeds of his Savings Contract will be returned to him.
+**********************
+3.
+**********************
+Mexico
+**********************
+In the case of an option granted to a Participant who is tax resident in Mexico, the price at which Shares may be acquired by the exercise of such option shall be determined by the Board provided that it shall not be less than the higher of the price determined in accordance with Rule3.5 of the Plan and if shares of the same class as those Shares are listed on the New York Stock Exchange, the closing price of the Shares quoted in the Wall Street Journal on the dealing day immediately preceding the date on which invitations are issued to employees in accordance with Rule2.1 of the Plan.

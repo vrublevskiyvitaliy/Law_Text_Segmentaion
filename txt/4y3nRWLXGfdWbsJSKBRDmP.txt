@@ -1,0 +1,319 @@
+PLEDGE AGREEMENT
+
+ 
+
+THIS PLEDGE AGREEMENT (the “Agreement”) is made and entered into as of January 4, 2010 (the “Effective Date”) by and among Shili Liu, an individual located at 52 Qian Ru Lin Cun, Linghe Town, Anqiu City, Shandong, China, 262127 (the “Pledgor”) China Angel Assets Management Limited, (the “Pledgee”) as the authorized representative the Buyers set for the in the Securities Purchase Agreement of even date herewith , and Greentree Financial Group, Inc., as escrow agent (“Escrow Agent”).
+
+ 
+
+RECITALS:
+
+ 
+
+ 
+
+WHEREAS, in order to secure the full and prompt payment when due (whether at the stated maturity, by acceleration or otherwise) of all of the Company’s obligations (the “Obligations”) to the Pledgee or any successor to the Pledgee under this Agreement, the Securities Purchase Agreement of even date herewith between the Pledgor and the Pledgee (the “Securities Purchase Agreement”), each Unit as defined in the Securities Purchase Agreement (the “Unit(s)”) and the Debentures, a part of each Unit, (the “Debentures”) issued or to be issued by the Company to the Pledgee, either now or in the future, up to a total of One Million Dollars ($1,000,000) of principal, plus any interest, costs, fees, and other amounts owed to the Pledgee thereunder, the Security Agreement of even date herewith between the Pledgor and the Pledgee (the “Security Agreement”), and all other contracts entered into between the parties hereto (collectively, the “Transaction Documents”), the Pledgor has agreed to irrevocably pledge to the Pledgee Six Million Two Hundred and Eighty Six Thousand Two Hundred and Fifty (6,286,250) shares of his own common stock and Eight Hundred and Thirty Nine Thousand Five Hundred and Sixty Two (839,562) shares of preferred stock equivalent to 14,681,870 shares of Pledgor’s common stock (the “Pledged Shares”).
+
+ 
+
+ 
+
+NOW, THEREFORE, in consideration of the mutual covenants, agreements, warranties, and representations herein contained, and for other good and valuable consideration, the receipt and sufficiency of which is hereby acknowledged, the parties hereto agree as follows:
+
+ 
+
+ 
+
+TERMS AND CONDITIONS
+
+ 
+
+ 
+
+1. Pledge and Transfer of Pledged Shares.
+
+ 
+
+ 
+
+1.1. The Pledgor hereby grants to Pledgee a security interest in all Pledged Shares as security for the Company’s obligations under the Units and Debentures. Simultaneously with the execution of the Transaction Documents, the Pledgor shall deliver to the Escrow Agent stock certificates representing the Pledged Shares, in such denominations as requested by the Pledgee, together with duly executed stock powers or other appropriate transfer documents executed in blank by the Pledgor (the “Transfer Documents”), and such stock certificates and Transfer Documents shall be held by the Escrow Agent until the full payment of all amounts due to the Pledgee under the Units and Debentures and through repayment in accordance with the terms of the Units and Debentures, or the termination or expiration of this Agreement.
+
+ 
+
+ 
+
+2. Rights Relating to Pledged Shares. Upon the occurrence of an Event of Default (as defined herein), the Pledgee shall be entitled to vote the Pledged Shares, to receive dividends and other distributions thereon, and to enjoy all other rights and privileges incident to the ownership of the Pledged Shares.
+
+ 
+
+ 
+
+3. Release of Pledged Shares from Pledge. Upon the payment of all amounts due to the Pledgee under the Units and Debentures by repayment in accordance with the terms of the Units and Debentures, the parties hereto shall notify the Escrow Agent to such effect in writing. Upon receipt of such written notice for payment of the amounts due to the Pledgee under the Units and Debentures, the Escrow Agent shall return to the Pledgor the Transfer Documents and the certificates representing the Pledged Shares, (collectively the “Pledged Materials”), whereupon any and all rights of Pledgee in the Pledged Materials shall be terminated. Notwithstanding anything to the contrary contained herein, upon full payment of all amounts due to the Pledgee under the Units and Debentures, by repayment in accordance with the terms of the Units and Debentures, this Agreement and Pledgee’s security interest and rights in and to the Pledged Shares shall terminate.
+
+ 
+
+ 
+
+4. Event of Default. An “Event of Default” shall be deemed to have occurred under this Agreement upon an Event of Default under the Units and Debentures.
+
+ 
+
+ 
+
+5. Remedies. Upon and anytime after the occurrence of an Event of Default, the Pledgee shall have the right to provide written notice of such Event of Default (the “Default Notice”) to the Escrow Agent, with a copy to the Pledgor. As soon as practicable after receipt of the Default Notice, the Escrow Agent shall deliver to Pledgee the Pledged Materials held by the Escrow Agent hereunder. Upon receipt of the Pledged Materials, the Pledgee shall have the right to (i) sell the Pledged Shares and to apply the proceeds of such sales, net of any selling commissions, to the Obligations owed to the Pledgee by the Pledgor under the Transaction Documents, including, without limitation, outstanding principal, interest, legal fees, and any other amounts owed to the Pledgee, and exercise all other rights and (ii) any and all remedies of a secured party with respect to such property as may be available under the Uniform Commercial Code as in effect in the State of Nevada. To the extent that the net proceeds received by the Pledgee are insufficient to satisfy the Obligations in full, the Pledgee shall be entitled to a deficiency judgment against the Pledgor for such amount. The Pledgee shall have the absolute right to sell or dispose of the Pledged Shares in any manner it sees fit and shall have no liability to the Pledgor or any other party for selling or disposing of such Pledged Shares even if other methods of sales or dispositions would or allegedly would result in greater proceeds than the method actually used. The Escrow Agent shall have the absolute right to disburse the Pledged Shares to the Pledgee in batches not to exceed 9.9% of the outstanding capital of the Pledgor (which limit may be waived by the Pledgee providing not less than 65 days’ prior written notice to the Escrow Agent). The Pledgee shall return any Pledged Shares released to it and remaining after the Pledgee has applied the net proceeds to all amounts owed to the Pledgee.
+
+ 
+
+ 
+
+5.1. Each right, power and remedy of the Pledgee provided for in this Agreement or any other Transaction Document shall be cumulative and concurrent and shall be in addition to every other such right, power or remedy. The exercise or beginning of the exercise by the Pledgee of any one or more of the rights, powers or remedies provided for in this Agreement or any other Transaction Document or now or hereafter existing at law or in equity or by statute or otherwise shall not preclude the simultaneous or later exercise by the Pledgee of all such other rights, powers or remedies, and no failure or delay on the part of the Pledgee to exercise any such right, power or remedy shall operate as a waiver thereof. No notice to or demand on the Pledgor in any case shall entitle it to any other or further notice or demand in similar or other circumstances or constitute a waiver of any of the rights of the Pledgee to any other further action in any circumstances without demand or notice. The Pledgee shall have the full power to enforce or to assign or contract is rights under this Agreement to a third party.
+
+ 
+
+ 
+
+5.2. Demand Registration Rights. In addition to all other remedies available to the Pledgee, upon an Event of Default, the Pledgor shall promptly, but in no event more than thirty (30) days after the date of the Default Notice, file a registration statement to register with the Securities and Exchange Commission the Pledged Shares for the resale by the Pledgee. The Pledgor shall cause the registration statement to remain in effect until all of the Pledged Shares have been sold by the Pledgee.
+
+ 
+
+ 
+
+6. Concerning the Escrow Agent.
+
+ 
+
+ 
+
+6.1. The Escrow Agent undertakes to perform only such duties as are expressly set forth herein and no implied duties or obligations shall be read into this Agreement against the Escrow Agent.
+
+ 
+
+ 
+
+6.2. The Escrow Agent may act in reliance upon any writing or instrument or signature which it, in good faith, believes to be genuine, may assume the validity and accuracy of any statement or assertion contained in such a writing or instrument, and may assume that any person purporting to give any writing, notice, advice or instructions in connection with the provisions hereof has been duly authorized to do so. The Escrow Agent shall not be liable in any manner for the sufficiency or correctness as to form, manner, and execution, or validity of any instrument deposited in this escrow, nor as to the identity, authority, or right of any person executing the same; and its duties hereunder shall be limited to the safekeeping of such certificates, monies, instruments, or other document received by it as such escrow holder, and for the disposition of the same in accordance with the written instruments accepted by it in the escrow.
+
+ 
+
+ 
+
+6.3. Pledgee and the Pledgor hereby agree, to defend and indemnify the Escrow Agent and hold it harmless from any and all claims, liabilities, losses, actions, suits, or proceedings at law or in equity, or any other expenses, fees, or charges of any character or nature which it may incur or with which it may be threatened by reason of its acting as Escrow Agent under this Agreement; and in connection therewith, to indemnify the Escrow Agent against any and all expenses, including attorneys’ fees and costs of defending any action, suit, or proceeding or resisting any claim (and any costs incurred by the Escrow Agent pursuant to Sections 6.4 or 6.5 hereof). The Escrow Agent shall be vested with a lien on all property deposited hereunder, for indemnification of attorneys’ fees and court costs regarding any suit, proceeding or otherwise, or any other expenses, fees, or charges of any character or nature, which may be incurred by the Escrow Agent by reason of disputes arising between the makers of this escrow as to the correct interpretation of this Agreement and instructions given to the Escrow Agent hereunder, or otherwise, with the right of the Escrow Agent, regardless of the instructions aforesaid, to hold said property until and unless said additional expenses, fees, and charges shall be fully paid. Any fees and costs charged by the Escrow Agent for serving hereunder shall be paid by the Pledgor.
+
+ 
+
+ 
+
+6.4. If any of the parties shall be in disagreement about the interpretation of this Agreement, or about the rights and obligations, or the propriety of any action contemplated by the Escrow Agent hereunder, the Escrow Agent may, at its sole discretion deposit the Pledged Materials with the Clerk of the United States District Court of Nevada, sitting in Las Vegas, Nevada, and, upon notifying all parties concerned of such action, all liability on the part of the Escrow Agent shall fully cease and terminate. The Escrow Agent shall be indemnified by the Pledgor, the Company and Pledgee for all costs, including reasonable attorneys’ fees in connection with the aforesaid proceeding, and shall be fully protected in suspending all or a part of its activities under this Agreement until a final decision or other settlement in the proceeding is received.
+
+ 
+
+ 
+
+6.5. The Escrow Agent may consult with counsel of its own choice (and the costs of such counsel shall be paid by the Pledgor and Pledgee) and shall have full and complete authorization and protection for any action taken or suffered by it hereunder in good faith and in accordance with the opinion of such counsel. The Escrow Agent shall not be liable for any mistakes of fact or error of judgment, or for any actions or omissions of any kind, unless caused by its willful misconduct or gross negligence.
+
+ 
+
+ 
+
+6.6. The Escrow Agent may resign upon ten (10) days’ written notice to the parties in this Agreement. If a successor Escrow Agent is not appointed within this ten (10) day period, the Escrow Agent may petition a court of competent jurisdiction to name a successor.
+
+ 
+
+ 
+
+6.7 Conflict Waiver. The Pledgor hereby acknowledges that JPF Securities Law, LLC is securities counsel to the Pledgor and counsel to the Escrow Agent in connection with the transactions contemplated and referred herein. The Pledgor agrees that in the event of any dispute arising in connection with this Agreement or otherwise in connection with any transaction or agreement contemplated and referred herein, JPF Securities Law, LLC shall be permitted to continue to represent the Escrow Agent and the Pledgor will not seek to disqualify such counsel and waives any objection Pledgor might have with respect to JPF Securities Law, LLC acting as securities counsel pursuant to this transaction.
+
+ 
+
+ 
+
+6.8 Notices. Unless otherwise provided herein, all demands, notices, consents, service of process, requests and other communications hereunder shall be in writing and shall be delivered in person or by overnight courier service, or mailed by certified mail, return receipt requested, addressed:
+
+ 
+
+  
+
+  If to the Pledgor, to:                           Man Shing Agricultural Holdings, Inc.
+
+    Unit 1005, 10/F, Tower
+
+Hunghom Commercial Centre
+
+37 Ma Tau Wai Road, Hunghom
+
+Kowloon, Hong Kong
+
+Attention:  Mr. Eddie Cheung, CEO
+
+                                                                Telephone  (86) 536-4644888
+
+                                                                Facsimile:  (86) 536-4643777
+
+
+
+  
+
+With a copy to:                                      Jared P. Febbroriello, Esq. LL.M. 
+
+JPF Securities Law, LLC
+
+19720 Jetton Road
+
+3rd Floor
+
+Cornelius, NC 28031
+
+Phone: (704) 897-8334
+
+Fax: (704) 897-8349
+
+
+
+Mr. Patrick Mak
+
+Tai, Mak and Partners
+
+Room 905 - - 907, 9/F.
+
+Nan Fung Tower
+
+173 Des Voeux Road Central
+
+Hong Kong
+
+    Telephone: (852) 2850 6336
+
+    Facsimile: (852) 2850 6086
+
+
+
+
+
+  If to the Pledgee:                                 China Angel Assets Management Limited
+
+P.O. Box 957
+
+Offshore Incorporations Centre
+
+Road Town
+
+Tortola
+
+British Virgin Islands
+
+
+
+
+
+  With copy to:                                
+
+
+
+
+
+Any such notice shall be effective (a) when delivered, if delivered by hand delivery or overnight courier service, or (b) five (5) days after deposit in the United States mail, as applicable.
+
+ 
+
+7. Binding Effect. All of the covenants and obligations contained herein shall be binding upon and shall inure to the benefit of the respective parties, their successors and assigns.
+
+ 
+
+ 
+
+8. Governing Law; Venue; Service of Process. The validity, interpretation and performance of this Agreement shall be determined in accordance with the laws of the State of Nevada applicable to contracts made and to be performed wholly within that state except to the extent that Federal law applies. The parties hereto agree that any disputes, claims, disagreements, lawsuits, actions or controversies of any type or nature whatsoever that, directly or indirectly, arise from or relate to this Agreement, including, without limitation, claims relating to the inducement, construction, performance or termination of this Agreement, shall be brought in the state courts located in Clark County, Nevada or United States District Courts for the District of Nevada, and the parties hereto agree not to challenge the selection of that venue in any such proceeding for any reason, including, without limitation, on the grounds that such venue is an inconvenient forum. The parties hereto specifically agree that service of process may be made, and such service of process shall be effective if made, pursuant to Section 8 hereto.
+
+ 
+
+ 
+
+9. Enforcement Costs. If any legal action or other proceeding is brought for the enforcement of this Agreement, or because of an alleged dispute, breach, default or misrepresentation in connection with any provisions of this Agreement, the successful or prevailing party or parties shall be entitled to recover reasonable attorneys’ fees, court costs and all expenses even if not taxable as court costs (including, without limitation, all such fees, costs and expenses incident to appeals), incurred in that action or proceeding, in addition to any other relief to which such party or parties may be entitled.
+
+ 
+
+ 
+
+10. Remedies Cumulative. No remedy herein conferred upon any party is intended to be exclusive of any other remedy, and each and every such remedy shall be cumulative and shall be in addition to every other remedy given hereunder or now or hereafter existing at law, in equity, by statute, or otherwise. No single or partial exercise by any party of any right, power or remedy hereunder shall preclude any other or further exercise thereof.
+
+ 
+
+ 
+
+11. Counterparts. This Agreement may be executed in one or more counterparts, each of which shall be deemed an original, but all of which together shall constitute the same instrument.
+
+ 
+
+ 
+
+12. No Penalties. No provision of this Agreement is to be interpreted as a penalty upon any party to this Agreement.
+
+ 
+
+ 
+
+13. JURY TRIAL. EACH OF THE PLEDGEE AND THE PLEDGOR HEREBY KNOWINGLY, VOLUNTARILY AND INTENTIONALLY WAIVES THE RIGHT WHICH IT MAY HAVE TO A TRIAL BY JURY OF ANY CLAIM, DEMAND, ACTION OR CAUSE OF ACTION BASED HEREON, OR ARISING OUT OF, UNDER OR IN ANY WAY CONNECTED WITH THE DEALINGS BETWEEN PLEDGEE AND PLEDGOR, THIS PLEDGE AND ESCROW AGREEMENT OR ANY DOCUMENT EXECUTED IN CONNECTION HEREWITH, OR ANY COURSE OF CONDUCT, COURSE OF DEALING, STATEMENTS (WHETHER ORAL OR WRITTEN) OR ACTIONS OF ANY PARTY HERETO OR THERETO IN EACH CASE WHETHER NOW EXISTING OR HEREAFTER ARISING, AND WHETHER IN CONTRACT, TORT, EQUITY OR OTHERWISE.
+
+ 
+
+ 
+
+
+
+ 
+
+ 
+
+
+
+ 
+
+ 
+
+
+
+ 
+
+IN WITNESS WHEREOF, the parties hereto have duly executed this Pledge Agreement as of the date first above written
+
+
+
+
+
+SHILI LIU
+
+
+
+By: /s/ Shili Liu
+
+Name: Shili Liu
+
+Title:    Individual
+
+
+
+
+
+CHINA ANGEL ASSETS MANAGEMENT LIMITED
+
+
+
+
+
+By: /s/ Jiang Qi Hang
+
+Name: Jiang Qi Hang
+
+Title:   CEO
+
+
+
+
+
+GREENTREE FINANCIAL GROUP, INC.
+
+
+
+By: /s/ R. Chris Cottone
+
+Name: R. Chris Cottone
+
+Title:   Vice-President

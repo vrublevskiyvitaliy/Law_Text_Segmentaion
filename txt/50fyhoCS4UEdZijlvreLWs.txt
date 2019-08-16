@@ -1,0 +1,333 @@
+Exhibit 10.2
+
+THE WALT DISNEY COMPANY
+
+Performance-Based
+
+Stock Unit Award
+
+(Three-Year Vesting subject to Total Shareholder Return/EPS Growth
+
+Tests/Section 162(m) Vesting Requirement)
+
+AWARD AGREEMENT, dated as of <DATED> between The Walt Disney Company, a Delaware corporation (“Disney”), and                      (the “Participant”). This Award is granted on <GRANT DATE> (the “Date of Grant”) by the Compensation Committee of the Disney Board of Directors (the “Committee”) pursuant to the terms of the Amended and Restated 2002 Executive Performance Plan (the “Plan”), and pursuant to the terms of the Amended and Restated 2005 Stock Incentive Plan (the “Stock Plan”). The applicable terms of the Plan and the Stock Plan are incorporated herein by reference, including the definitions of terms contained therein.
+
+Section 1. Stock Unit Award. Disney hereby grants to the Participant, on the terms and conditions set forth herein, an Award for a target number of Stock Units of <# STOCK UNITS> (such target number of Stock Units, together with such number of additional whole or fractional Stock Unit(s), if any, as may from time to time be credited with respect thereto (as dividend equivalents) pursuant to Section 4 hereof, being referred to herein as the “Target Award Amount”). The number of Stock Units which may be awarded hereunder is dependent upon the satisfaction of the conditions set forth herein and may range from no Stock Units to 150% of the Target Award Amount. The Stock Units are notional units of measurement denominated in Shares of Disney (i.e. one Stock Unit is equivalent in value to one Share, subject to the terms hereof). The Stock Units represent an unfunded, unsecured obligation of Disney.
+
+Section 2. Vesting Requirements. The vesting of this Award (other than pursuant to accelerated vesting in certain circumstances as provided in Section 3 below) shall be subject to the satisfaction of the conditions set forth in subsections A, B and C of this Section 2:
+
+ 
+
+ 
+
+A.
+
+Total Shareholder Return/EPS Growth Test. The vesting of the Stock Units subject to this Award shall be conditioned upon the satisfaction of either (i) a performance vesting requirement based on Total Shareholder Return (as hereinafter defined) of Disney as compared to the Total Shareholder Returns of the S&P 500 Companies (as hereinafter defined) with respect to the three-year period ending on the Determination Date (as hereinafter defined), all as further provided below in Section 2.A(a) hereof (the “TSR Performance Requirement”) OR (ii) under certain circumstances provided for below, a performance vesting requirement based upon the Disney Adjusted EPS Growth Rate (as defined below) as compared to the EPS Growth Rates of the S&P 500 Companies (subject to certain exclusions as hereinafter provided), all as further provided in Section 2.A(b) hereof (the “EPS Growth Performance Requirement”).
+
+
+
+
+
+ 
+
+(a)
+
+Total Shareholder Return: Three-Year Test. In order for the TSR Performance Requirement to be satisfied pursuant to this Section 2.A(a) with respect to any Stock Units subject to this Award, the TSR Percentile (as hereinafter defined) of Disney must equal or exceed the TSR Percentile of 25.00% of the S&P 500 Companies (the “S&P 25th TSR Percentile”). If this requirement is met, the specific number of Stock Units subject to this Award which shall satisfy the TSR Performance Requirement shall be determined as follows:
+
+ 
+
+ 
+
+i.
+
+If the TSR Percentile of Disney is 25.00% (the “S&P 25th TSR Percentile”), then the number of Stock Units which shall satisfy the TSR Performance Requirement shall be 50% of the Target Award Amount.
+
+ 
+
+ 
+
+ii.
+
+If the TSR Percentile of Disney equals or exceeds the TSR Percentile of 75.00% of the S&P 500 Companies (the “S&P 75th TSR Percentile”), the number of Stock Units which shall satisfy the TSR Performance Requirement shall be 150% of the Target Award Amount.
+
+ 
+
+ 
+
+iii.
+
+If the TSR Percentile of Disney exceeds the S&P 25th Percentile but is less than the S&P 75th Percentile, the percentage of Stock Units as to which the TSR Performance Requirement shall have been satisfied shall be determined by multiplying the TSR Percentile of Disney by two. For example, if the TSR Percentile of Disney is 40.00%, then Stock Units equal to 80% of the Target Award Amount shall have satisfied the TSR Performance Requirement; if the TSR Percentile of Disney is 60.55%, then 121.10% of the Target Award Amount shall have satisfied the TSR Performance Requirement.
+
+For the purposes hereof, the terms set forth below shall have the following meanings:
+
+“Determination Date” shall mean the date which precedes the Scheduled Vesting Date (as hereinafter defined) by one month. For example, for an Award vesting on a January 14 of any specified year, the Determination Date of such Award is December 14 of the prior year.
+
+ 
+
+2
+
+
+
+“Total Shareholder Return” shall mean an amount equal to the average of the total return figures for the three-year periods ending on the twenty (20) trading days referred to below as currently reported under “Comparative Returns” by Bloomberg L.P. (“Bloomberg”) (or any other reporting service that the Committee may designate from time to time):
+
+ 
+
+ 
+
+(i)
+
+for Disney (as such total return figures for Disney may be adjusted by the Committee, by no later than the Scheduled Vesting Date, to take into account any factors which the Committee has determined are not properly reflected in such reported figures) or
+
+ 
+
+ 
+
+(ii)
+
+for any other S&P 500 Company,
+
+in each case for the twenty (20) latest trading days up to and (if the Determination Date is a trading day) including the Determination Date.
+
+“TSR Percentile” shall mean the percentile ranking (which shall be carried out to two decimal points) as determined by Disney on the basis of the Total Shareholder Return figures reported by Bloomberg (or any other reporting service that the Committee may designate from time to time) for each of the S&P 500 Companies, including Disney (provided that in the case of Disney adjustments may be made by the Committee with respect to Total Shareholder Return as provided above).
+
+“S&P 500 Companies” shall mean all of the companies which are listed on the Standard & Poor’s 500 Composite Index, including Disney, on the date which is three years and twenty (20) trading days prior to the Determination Date and which remain continuously listed on the Standard & Poor’s 500 Composite Index through and including the Determination Date; provided however, that for the purposes hereof the Standard & Poor’s 500 Composite Index shall be deemed to include companies that were removed therefrom during the measurement period but that continued during the entire measurement period to have their shares listed on at least one of the NYSE, NASDAQ, American Stock Exchange, Boston Stock Exchange, Chicago Stock Exchange, National Stock Exchanged (formerly Cincinnati Stock Exchange), NYSE Arca (formerly known as the Pacific Stock Exchange), Philadelphia Stock Exchange or any other exchange(s) that the Committee may designate from time to time.
+
+ 
+
+ 
+
+(b)
+
+EPS Growth Test. If the Award will not vest, or shall not have vested, on the Scheduled Vesting Date with respect to at least 100% of the Target Award Amount by reason of the non-satisfaction of any vesting requirement set forth above in Section 2.A(a) hereof, then the Committee shall, no later than the Scheduled Vesting Date, determine whether or not the Disney Adjusted EPS Growth Rate (as defined below) for the twelve (12) fiscal quarters reported on or before the Determination Date equals or exceeds the EPS Growth Rate (as
+
+ 
+
+3
+
+
+
+
+
+ 
+
+defined below) of 50% of the S&P 500 Companies over the same period (the “S&P 50th Percentile for Average Annualized EPS Growth Rate”). If the Committee determines that the Disney Adjusted EPS Growth Rate for such period is equal to or greater than the S&P 50th Percentile for EPS Growth Rate, then the percentage of the Target Award Amount of Stock Units which shall satisfy the performance requirement of this Section 2.A(b) (the “EPS Growth Performance Requirement”) shall be 50%, unless the TSR Percentile of Disney determined pursuant to Section 2.A(a) above shall be greater than or equal to 25.00%, in which case the percentage of the Target Award Amount of Stock Units which shall satisfy the EPS Growth Performance Requirement shall be equal to the TSR Percentile of Disney plus 50 (it being understood for the avoidance of doubt that the percentage of the Target Award Amount of the Stock Units vesting hereunder by operation of the EPS Growth Performance Requirement cannot under any circumstances exceed 100%). Thus, for example, if the TSR Percentile for Disney determined pursuant to Section 2.A(a) above is 5.50% and the EPS Growth Performance Requirement is satisfied, then 50% of the Target Award Amount of Stock Units shall satisfy the EPS Growth Performance Requirement, and if the TSR Percentile of Disney is 37.50%, then 87.50% of the Target Award Amount of Stock Units shall satisfy the EPS Growth Performance Requirement.
+
+For the purposes hereof, the terms set forth below shall have the following meanings:
+
+“Disney Adjusted EPS Growth Rate” shall mean the compound annual growth rate of the Disney Adjusted EPS (as defined below) for the twelve (12) fiscal quarters of Disney ended immediately prior to the Determination Date for which financial results have been filed with the Securities and Exchange Commission on a Form 10-Q or Form 10-K (the “Disney EPS Growth Performance Period”). For the avoidance of doubt, the Disney Adjusted EPS Growth Rate shall be calculated on the basis of the Disney Adjusted EPS for the four fiscal quarters prior to the Disney EPS Growth Performance Period as compared to Disney Adjusted EPS for the final four quarters of the Disney EPS Growth Performance Period.
+
+“Disney Adjusted EPS” shall mean the EPS of Disney, after such adjustments thereto as the Committee deems appropriate in its sole discretion (i) to exclude the effect of extraordinary, unusual and/or nonrecurring items and (ii) to reflect such other factors as the Committee deems appropriate to fairly reflect earnings per share growth.
+
+ 
+
+4
+
+
+
+“EPS Growth Rate” shall mean the compound annual growth rate of EPS (as defined below) for the twelve (12) most recent fiscal quarters ended immediately prior to the Determination Date (the “S&P 500 EPS Growth Performance Period”) as determined on the basis of EPS reported on or prior to the Determination Date by Bloomberg (or any other reporting service that the Committee may designate from time to time) for any of the S&P 500 Companies other than (i) Disney and (ii) any S&P 500 Company with negative EPS (as reported by Bloomberg or any other reporting service that the Committee may designate from time to time) for the four fiscal quarters (in the aggregate) prior to the S&P 500 EPS Growth Performance Period (unless otherwise provided by the Committee on a case by case basis) (the EPS for any such four quarters (whether or not negative) being referred to herein as the “Starting EPS”). For the avoidance of doubt, the EPS Growth Rate of any S&P 500 Company shall be calculated on the basis of the Starting EPS of such company as compared to its EPS for the final four quarters of the S&P 500 EPS Growth Performance Period.
+
+“EPS” shall mean the diluted earnings per share from continuing operations for any company for a specified period as reported by Bloomberg (or any other reporting service that the Committee may designate from time to time).
+
+ 
+
+ 
+
+(c)
+
+Satisfaction of Section 2.A Vesting Requirement. In the event that the EPS Growth Performance Requirement has been satisfied in accordance with Section 2.A(b) hereof with respect to any number of Stock Units, then such number of Stock Units shall be deemed to have satisfied the performance vesting requirement of this Section 2.A in lieu of any lesser number of Stock Units determined to have satisfied the TSR Performance Requirement pursuant to Section 2.A(a). In the event that the EPS Growth Performance Requirement is not satisfied or is not required to be applied pursuant to Section 2.A(b) hereof, the number of Stock Units, if any, which shall satisfy the performance vesting requirement of this Section 2.A shall be the number of Stock Units determined pursuant to Section 2.A(a) hereof. For the avoidance of doubt regarding the application of the TSR Performance Requirement and the EPS Growth Performance Requirement, the following example ranges of results are given:
+
+ 
+
+ 
+
+(i)
+
+If the TSR Percentile of Disney is less than the S&P 25th TSR Percentile, and the EPS Growth Performance Requirement is not met, the number of Stock Units vesting is zero.
+
+ 
+
+5
+
+
+
+
+
+ 
+
+(ii)
+
+If the TSR Percentile of Disney is less than the S&P 25th TSR Percentile and the EPS Growth Performance Requirement is met, the percentage of Stock Units vesting is 50% of the Target Award Amount.
+
+ 
+
+ 
+
+(iii)
+
+If the TSR Percentile of Disney is equal to or greater than the S&P 25th TSR Percentile but less than 50.00%, and the EPS Growth Performance Requirement is not met, the percentage of the Target Award Amount vesting is equal to the TSR Percentile of Disney multiplied by two.
+
+ 
+
+ 
+
+(iv)
+
+If the TSR Percentile of Disney is equal to or greater than the S&P 25th TSR Percentile but less than 50.00%, and the EPS Growth Performance Requirement is met, then the percentage of the Target Award Amount vesting is equal to the TSR Percentile of Disney plus 50.
+
+ 
+
+ 
+
+(v)
+
+If the TSR Percentile of Disney is equal to or greater than 50.00% but less than 75.00%, then the EPS Growth Performance Requirement is not applicable, then the percentage of the Target Award Amount vesting is equal to the TSR Percentile of Disney multiplied by two.
+
+ 
+
+ 
+
+(vi)
+
+If the TSR Percentile of Disney is equal to or greater than 75.00%, then the EPS Growth Performance Requirement is not applicable and the percentage of Stock Units vesting is equal to 150% of the Target Award Amount.
+
+ 
+
+ 
+
+B.
+
+Section 162(m) Vesting Requirement. This Award shall also be subject to additional performance vesting requirements under this Section 2.B with respect to all Stock Units subject to this Award, based upon the achievement of the Performance Target applicable to the Performance Period set forth below, and subject to certification of achievement of such Performance Target by the Committee pursuant to Section 4.8 of the Plan. The Performance Target (together with the Business Criteria with respect to such Performance Target) shall be established by the Committee by no later than 90 days following the beginning of the Performance Period applicable to this Award. If the Performance Target is not satisfied, all of the Stock Units subject to this Award shall be immediately forfeited. The Performance Period for this Award shall be the last fiscal year of Disney to be completed prior to the Scheduled Vesting Date.
+
+ 
+
+6
+
+
+
+
+
+ 
+
+C.
+
+Service Vesting Requirement. In addition to the performance vesting requirements of subsections A and B of this Section 2, the right of the Participant to receive payment of this Award shall become vested only if he or she remains continuously employed by Disney or an Affiliate from the date hereof until the Scheduled Vesting Date; provided, however, that nothing set forth herein shall be deemed to modify, qualify, or otherwise derogate from, the requirement of Section 4.8 of the Plan that the Committee certify in writing (which writing may be the approved minutes of the Committee) that the Performance Target of Section 2.B above has been achieved prior to the payment of any amount to the Participant under this Award.
+
+If the service vesting requirements of this Section 2.C are not satisfied, all of the Stock Units subject to this Award shall be immediately forfeited and the Participant’s rights with respect thereto shall cease.
+
+All Stock Units for which all of the requirements of this Section 2 have been satisfied shall become vested and shall thereafter be payable in accordance with Section 5 hereof. Subject to the terms, conditions and performance-based vesting requirements set forth herein, the Stock Units subject to this Award will vest on the third anniversary date of the Date of Grant (the “Scheduled Vesting Date”).
+
+Section 3. Accelerated Vesting. Notwithstanding the terms and conditions of Section 2 hereof, upon the Participant’s death or disability (within the meaning of Section 409A of the Internal Revenue Code), or upon the occurrence of a Triggering Event within the 12-month period following a Change in Control in accordance with Section 11 of the Stock Plan as in effect as of the date of the Triggering Event (any of the foregoing being an “Accelerating Event”) (provided, in each case, that the Participant is employed by Disney (or an Affiliate) at the time of such Accelerating Event), this Award shall become fully vested with respect to the Target Award Amount of Stock Units; provided, however, that notwithstanding the foregoing, if such Accelerating Event shall have occurred after the Determination Date but before the Scheduled Vesting Date, then the number of Stock Units which shall become fully vested shall be determined on the same basis as if the Participant had been continuously employed by Disney (or an Affiliate) until the Scheduled Vesting Date and shall be payable in accordance with Section 5 hereof to the extent that it has not previously been forfeited.
+
+Section 4. Dividend Equivalents. Any dividends paid in cash on Shares of Disney will be credited to the Participant with respect to the Target Award Amount of Stock Units as additional Stock Units as if the Stock Units previously held by the Participant were outstanding Shares, as follows: such credit shall be made in whole
+
+ 
+
+7
+
+
+
+and/or fractional Stock Units on the Target Award Amount as in effect at the time of such crediting and shall be based on the fair market value (as defined in the Stock Plan) of the Shares on the date of payment of such dividend. All such additional Stock Units shall be subject to the same vesting requirements applicable to the Target Award Amount of Stock Units in respect of which they were credited and shall be payable in accordance with Section 5 hereof.
+
+Section 5. Payment of Award. Payment of vested Stock Units shall be made within 30 days following the later of:
+
+ 
+
+ 
+
+(i)
+
+the date as of which all of the vesting requirements under Section 2 hereof shall have been satisfied, or
+
+ 
+
+ 
+
+(ii)
+
+the date of certification of achievement of the Performance Target by the Committee, as required under Sections 2.B and 2.C hereof,
+
+(or within 30 days following acceleration of vesting under Section 3 hereof, if applicable) , but in no event later than the later of (x) December 31 of the year in which the scheduled vesting date occurs and (y) two and one-half months after the Scheduled Vesting Date occurs. The Stock Units shall be paid in cash or in Shares (or some combination thereof), as determined by the Committee in its discretion at the time of payment, and in either case shall be paid to the Participant after deduction of applicable minimum statutory withholding taxes.
+
+Section 6. Extended Vesting based on Age and Service Years.
+
+(a) In the event that Participant’s employment with Disney or an Affiliate thereof terminates for any reason other than death, disability or “cause” (as further provided in the Stock Plan) at a time when (i) the Participant has attained the age of sixty and has completed at least ten consecutive Service Years (as hereinafter defined) and (ii) at least one year has passed since the Date of Grant of this Award, then this Award shall vest in accordance with its terms and provisions in the same manner as if Participant’s employment had continued through the Scheduled Vesting Date provided that all of the conditions to such vesting (other than the condition set forth in Section 2.C hereof), including without limitation the conditions set forth in Sections 2.A and 2.B hereof, have been met. For purposes of the foregoing, “Service Year” shall mean any calendar year during which the Participant was continuously employed by Disney or an Affiliate thereof for the entire calendar year. In determining the total number of consecutive Service Years that the Participant has been so employed, the Company shall apply such rules regarding the bridging of service as the Committee may adopt from time to time.
+
+(b) Notwithstanding any other term or provision hereof, if at the time of termination of employment (other than upon the scheduled expiration date of an employment agreement) Participant is employed pursuant to an employment agreement with Disney or an Affiliate which provides under certain circumstances for the continued vesting of any Stock Units subject to this Award in the event of the termination of such employment agreement prior to its scheduled expiration date (a “Contractual Extension Provision”),
+
+ 
+
+8
+
+
+
+then, except as otherwise provided in such employment agreement, (i) this Section 6 shall be interpreted and applied in all respects as if Participant had remained continuously employed by Disney or an Affiliate thereof from the Date of Grant of this Award through the scheduled expiration date of such employment agreement and (ii) the date of termination of Participant’s employment for all purposes under this Section 6 shall be deemed to be the scheduled expiration date of such employment agreement.
+
+Section 7. Restrictions on Transfer. Neither this Stock Unit Award nor any Stock Units covered hereby may be sold, assigned, transferred, encumbered, hypothecated or pledged by the Participant, other than to Disney as a result of forfeiture of the units as provided herein and as provided in Section 6 of the Plan. The Stock Units constitute Restricted Units as defined in Section 2.2 of the Plan.
+
+Section 8. No Voting Rights. The Stock Units granted pursuant to this Award, whether or not vested, will not confer any voting rights upon the Participant, unless and until the Award is paid in Shares.
+
+Section 9. Award Subject to Plans, Etc. This Stock Unit Award is subject to the terms of the Plan and the Stock Plan, the terms and provisions of which are hereby incorporated by reference. In the event of a conflict or ambiguity between any term or provision contained herein and a term or provision of the Plan or the Stock Plan, the Plan or the Stock Plan (as applicable) will govern and prevail.
+
+Section 10. Changes in Capitalization. The Stock Units under this Award shall be subject to the provisions of the Stock Plan relating to adjustments for changes in corporate capitalization.
+
+Section 11. Effect of Employment Agreement. If the Participant is employed pursuant to an employment agreement with Disney, any provisions thereof relating to the effect of a termination of the Participant’s employment upon his or her rights with respect to this Award, including, without limitation, any provisions regarding acceleration of vesting and/or payment of this Award in the event of termination of employment, shall be fully applicable and supersede any provisions hereof with respect to the same subject matter.
+
+Section 12. No Right of Employment. Nothing in this Award Agreement shall confer upon the Participant any right to continue as an employee of Disney or an Affiliate or interfere in any way with the right of Disney or an Affiliate to terminate the Participant’s employment at any time or to change the terms and conditions of such employment.
+
+Section 13. Governing Law. This Award Agreement shall be construed and enforced in accordance with the laws of the State of Delaware, without giving effect to the choice of law principles thereof.
+
+ 
+
+9
+
+
+
+
+
+
+
+
+
+
+
+THE WALT DISNEY COMPANY
+
+
+
+
+
+By: 
+
+ 
+
+ 
+
+
+
+ 
+
+Name:
+
+
+
+ 
+
+Title:
+
+
+
+PARTICIPANT
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+10

@@ -1,0 +1,829 @@
+EXHIBIT 10.31
+
+SECURITY AGREEMENT
+
+     This Security Agreement (the “Agreement”) is made effective as of July 3, 2008, by GREAT PLAINS LAND DEVELOPMENT COMPANY, LTD., an Ohio limited liability company, whose address is 8500 Station Street, Mentor, Ohio 44060 (the “Debtor”), and CITIZENS BANK, with an address at 328 S. Saginaw Street, Flint, Michigan 48502, for itself and as agent for any affilitate of Citizens Republic Bancorp (the “Secured Party”). Debtor and Secured Party hereby agree as follows:
+
+WITNESSETH:
+
+     WHEREAS, Debtor is indebted to Secured Party pursuant to, among other things, (i) that certain Credit Agreement dated of even date herewith by and between Debtor and Secured Party (the “Credit Agreement”), (ii) that certain Term Note dated of even date herewith executed by Debtor and made payable to the order of Secured Party, in the principal amount of Eight Hundred Ninety-Two Thousand Three Hundred and no/100 Dollars ($892,300.00) (said Term Note, as increased, decreased, amended, modified, revised, supplemented, substituted, renewed, extended or restated from time to time, is hereinafter collectively referred to as the “Note”), and (iii) such other agreements, instruments and documents executed or delivered by Debtor in connection with the Credit Agreement or the Note, or as security therefor or otherwise related thereto (the Credit Agreement, the Note and all other aforesaid agreements, instruments and documents, as amended, modified, revised, supplemented, substituted, renewed, extended or restated from time to time, are hereinafter collectively referred to as the “Loan Documents”).
+
+
+
+1.
+
+ 
+
+SECURITY INTEREST; OBLIGATIONS: In consideration of and as security for the full and complete payment, performance and observance of all Obligations (as hereinafter defined) Debtor hereby assigns as collateral and grants to Secured Party a security interest in and to all items of property described in Paragraph 2 of this Agreement. This assignment of collateral and grant of security interest shall secure all loans, advances, indebtedness and each and every other obligation or liability of Debtor owed to Secured Party or any affiliate of Citizens Republic Bancorp, however created, of every kind and description, whether now existing or hereafter arising and whether direct or indirect, joint or several, primary or as guarantor or surety, absolute or contingent, due or to become due, liquidated or unliquidated, matured or unmatured, secured or unsecured, participated in whole or in part, created by trust agreement, lease, overdraft, agreement, promissory note, guaranty, indemnification, letter of credit, rate management obligations and/or agreements, credit accommodations or otherwise, whether or not secured by additional collateral, whether originated with Secured Party or owed to others and acquired by Secured Party by purchase, assignment or otherwise, and including, without limitation, all loans, advances, indebtedness and each and every other obligation or liability arising under the Credit Agreement, the Note and/or the other Loan Documents, letters of credit, rate management agreements, ISDA Master Agreements and related schedules and confirmations, and any other indebtedness or obligations, whether now existing or hereafter arising and issued by Secured Party or any affiliate of Citizens Republic Bancorp for the benefit of or at the request of Debtor, all obligations to perform or forbear from performing acts, and all
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+ 
+
+agreements, instruments and documents evidencing, guarantying or securing or otherwise executed in connection with any of the foregoing, together with any and all increases, decreases, amendments, modifications, revisions, supplements, substitutions, renewals, extensions or restatements thereof, and all expenses and attorneys’ fees incurred or other sums disbursed by Secured Party under this Agreement or any other document, instrument or agreement related to any of the foregoing (all of the foregoing obligations set forth in this Paragraph 1 are hereinafter, collectively referred to as the “Obligations”).
+
+
+
+2.
+
+ 
+
+COLLATERAL: Debtor hereby grants to Secured Party a continuing security interest in all right, title and interest of Debtor in the collateral now existing and hereafter arising or acquired by Debtor, regardless of where it is located, and is defined as follows (together with all proceeds and products thereof and all additions and accession thereto, replacements thereof, supporting obligations therefor, guaranties thereof, insurance or condemnation proceeds thereof, documents related thereto, all sales of accounts constituting a right to payment therefrom, all tort or other claims against third parties arising out of damage thereto or destruction thereof, all property received wholly or partly in trade or exchange thereof, all fixtures attached or appurtenant thereto, all leases thereof, and all rents, revenues, issues, profits and all proceeds arising from the sale, lease, license, encumbrance, collection or any other temporary or permanent disposition thereof, or any other interest therein, collectively, the “Collateral”):
+
+
+
+ 
+
+(a)
+
+ 
+
+All Accounts, all Accounts Receivable, all Cash Security, all Inventory, all Equipment, all General Intangibles, and all Investment Property, in each case whether now owned or hereafter acquired or received by Debtor; and
+
+ 
+
+ 
+
+(b)
+
+ 
+
+All Instruments, Documents, chattel paper, electronic chattel paper, securities, moneys, cash, letters of credit, letter of credit rights, promissory notes, warrants, dividends, distributions, commercial tort claims, contracts, agreements, contract rights or other property, owned by Debtor or in which Debtor has an interest, including but not limited to, those which are now or hereafter in the possession or control of Secured Party or in transit by mail or carrier to or in the possession of any third party acting on behalf of Secured Party, without regard to whether Secured Party received the same in pledge, for safekeeping, as agent for collection or transmission or otherwise or whether Secured Party had conditionally released the same, and the proceeds thereof, all rights to payment from, and all claims against Secured Party, and any deposit accounts of Debtor with Secured Party, including all demand, time, savings, passbook or other accounts and all deposits therein; and
+
+ 
+
+ 
+
+(c)
+
+ 
+
+All of the Proceeds, products, profits, and rents of Debtor’s Accounts, Accounts Receivable, Inventory, Equipment, Cash Security, Investment Property and General Intangibles and all books and records, including computer software, used in connection with any of the Collateral.
+
+
+
+3.
+
+ 
+
+DEFINITIONS: Capitalized terms not otherwise defined in this Agreement shall have the meanings attributed thereto in the applicable version of the Uniform Commercial Code adopted in the jurisdiction in the state in which Debtor is organized, or where appropriate, the jurisdiction in which the collateral is located, as such definitions may be enlarged or expanded from time to time by legislative amendment thereto or judicial decision (the
+
+2
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+ 
+
+“Uniform Commercial Code”). As used herein the following capitalized terms will have the following meanings:
+
+
+
+ 
+
+(a)
+
+ 
+
+“Deposit Account”, “Document”, “Goods”, “Instrument”, and “Proceeds”, have the meanings as set forth in Ohio Revised Code Sections 1309.102 from time to time, including any amendments thereof and any substitutions therefor, which definitions are hereby incorporated by reference as though fully rewritten herein.
+
+ 
+
+ 
+
+(b)
+
+ 
+
+“Accounts” means all accounts, accounts receivable, health-care-insurance receivables, credit card receivables, contracts, contract rights, instruments, documents, tax refunds from federal, state or local governments and all obligations in any form including without limitation those arising out of the sale or lease of goods or the retention of services by Debtor; all guaranties, letters of credit and other security and supporting obligations for any of the above; all merchandise resumed to or reclaimed by Debtor, and all books and records (including computer programs, tapes and data processing software) evidencing an interest in or relating to the above; all winnings in a lottery or other game of chance operated by a governmental unit or person licensed to operate such game by a governmental unit and all rights to payment therefrom; and any “Account” as the same is now or hereafter defined in the Uniform Commercial Code.
+
+ 
+
+ 
+
+(c)
+
+ 
+
+“Accounts Receivable” means:
+
+(i) any account receivable, Account, Document, or Instrument owned, acquired, or received by a Person,
+
+(ii) any other indebtedness owed to or receivable owned, acquired, or received by a Person of whatever kind and however evidenced, and
+
+(iii) any right, title, and interest in a Person’s Goods which were sold, leased, or furnished by that Person and gave rise to either (i) or (ii) above, or both of them. This includes, without limitation,
+
+     (A) any rights of stoppage in transit of a Person’s sold, leased, or furnished Goods,
+
+     (B) any rights to reclaim a Person’s sold, leased, or furnished Goods, and
+
+     (C) any rights a Person has in such sold, leased, or furnished Goods that have been returned to or repossessed by that Person.
+
+
+
+ 
+
+(d)
+
+ 
+
+“Cash Security” means all cash, Instruments, Deposit Accounts, and other cash equivalents, whether matured or unmatured, whether collected or in the process of collection, upon which Debtor presently has or may hereafter have any claim, that are presently or may hereafter be existing or maintained with, issued by, drawn upon, or in the possession of a bank or is subject to a Deposit Account Control Agreement or Account Control Agreement as defined herein.
+
+3
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+(e)
+
+ 
+
+“Deposit Account Control Agreement” means any authenticated record from a bank or other financial institution providing that the bank or other financial institution will comply with instructions originated by a secured party directing disposition of the funds in the Deposit Account without further consent of the Debtor.
+
+ 
+
+ 
+
+(f)
+
+ 
+
+“Equipment” means all goods (excluding inventory, farm products or consumer goods), machinery, machine tools, equipment, fixtures, office equipment, furniture, furnishings, motors, motor vehicles, tools, dies, parts, jigs, goods (including, without limitation, each of the items of equipment set forth on any schedule which is either now or in the future attached to Secured Party’s copy of this Agreement), and all attachments, accessories, accessions, replacements, substitutions, additions and improvements thereto, and all supplies used or useful in connection therewith, and all “Equipment” as same is now or hereafter defined in the Uniform Commercial Code.
+
+ 
+
+ 
+
+(g)
+
+ 
+
+“General Intangibles” means all general intangibles, choses in action, causes of action, obligations or indebtedness owed to Debtor from any source whatsoever, payment intangibles, software and all other intangible personal property of every kind and nature (other than Accounts) including without limitation patents, trademarks, trade names, service marks, copyrights and applications for any of the above, and goodwill, trade secrets, permits, licenses, certifications, franchises, rights under agreements, operating rights, distributorship and distribution agreements, tax refund claims, and all books and records including all computer programs, disks, tapes, printouts, customer lists, credit files and other business and financial records, and the equipment containing any such information, and all “General Intangibles” as same is now or hereafter defined in the Uniform Commercial Code.
+
+ 
+
+ 
+
+(h)
+
+ 
+
+“Inventory” means all goods, supplies, wares, merchandises and other tangible personal property including raw materials, work in process, supplies and components, and finished goods, whether held for sale or lease, or furnished or to be furnished under any contract for service, or used or consumed in business, and also including products of and accessions to inventory, packing and shipping materials, and all documents of title, whether negotiable or non-negotiable, representing any of the foregoing, and all “Inventory” as same is now or hereafter defined in the Uniform Commercial Code.
+
+ 
+
+ 
+
+(i)
+
+ 
+
+“Investment Property” means a security, whether certificated or uncertificated, security entitlement, securities account, commodity contract or commodity account and all “Investment Property” as same is now or hereafter defined in the Uniform Commercial Code.
+
+ 
+
+ 
+
+(j)
+
+ 
+
+“Person” has the meaning as set forth in Ohio Revised Code Section 1301.01 from time to time, including any amendments thereof and any substitutions therefor, which definitions are hereby incorporated by reference as though fully rewritten herein.
+
+
+
+4.
+
+ 
+
+WARRANTIES AS TO DEBTOR: Debtor hereby represents and warrants to Secured Party as follows:
+
+4
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+(a)
+
+ 
+
+It is a limited liability company with its principal place of business located at the address otherwise set forth herein, and is duly organized, validly existing and in good standing under the laws of the State of Ohio.
+
+ 
+
+ 
+
+(b)
+
+ 
+
+Debtor further warrants that its exact legal name is set forth in the initial paragraph of this Agreement, and its Taxpayer I.D. No. is _________, and its Charter No. is 1380041.
+
+ 
+
+ 
+
+(c)
+
+ 
+
+Exhibit A attached to this Agreement and incorporated herein by reference lists the locations of any and all of the Collateral of Debtor.
+
+
+
+5.
+
+ 
+
+WARRANTIES AS TO COLLATERAL: Debtor hereby represents and warrants to Secured Party that:
+
+
+
+ 
+
+(a)
+
+ 
+
+Except for the security interest hereby granted, Debtor is, and as to any property which at any time forms a part of the Collateral, shall be, the sole owner of, with good and marketable title in, each and every item of the Collateral, or otherwise shall have the full right and power to grant a security interest in the Collateral, free from any lien, security interest or encumbrance whatsoever.
+
+ 
+
+ 
+
+(b)
+
+ 
+
+Each item described as Collateral is, and shall be, valid, and all information furnished to Secured Party with regard thereto is, and shall be, accurate and correct in all respects when furnished;
+
+ 
+
+ 
+
+(c)
+
+ 
+
+None of the Collateral shall be sold (except for Inventory sold in the ordinary course of business), assigned, transferred, discounted, hypothecated, or otherwise subjected to any lien, encumbrance or security interest (except as otherwise provided in Paragraph 5(a) above), and that Debtor shall defend such Collateral and each and every part thereof against claims of all persons at any time claiming such Collateral or claiming any interest therein adverse to Secured Party except as aforesaid;
+
+ 
+
+ 
+
+(d)
+
+ 
+
+The provisions of this Agreement are sufficient to create in favor of Secured Party a valid and continuing first lien on, and valid first security interest in, the types of Collateral in which a security interest may be perfected by the filing of UCC Financing Statements, and when such UCC Financing Statements are filed in the requisite filing offices, and the requisite filing fees are paid, such filings shall be sufficient to perfect such security interest (other than Equipment affixed to real property so as to become fixtures);
+
+ 
+
+ 
+
+(e)
+
+ 
+
+If any of the Collateral is or will be attached to real estate in such a manner as to become a fixture under applicable state law, that said real estate is not encumbered in any way except in favor of Secured Party, or if said real estate is encumbered, Debtor will secure from the lien holder or the party in whose favor it is or will become so encumbered a written acknowledgment and subordination to the security interest hereby granted or a written disclaimer of any interest in the Collateral, in such form as is acceptable to Secured Party; and
+
+5
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+(f)
+
+ 
+
+The financial statements of Debtor submitted to the Secured Party are true and correct and there are no material adverse changes in the conditions, financial or otherwise, of Debtor since the date of said financial statements.
+
+
+
+6.
+
+ 
+
+DEBTOR’S RESPONSIBILITIES: Debtor covenants with, and represents and warrants to Secured Party, that Debtor shall:
+
+
+
+ 
+
+(a)
+
+ 
+
+Upon Secured Party’s request, furnish to Secured Party, in writing, a current list of all Collateral for the purpose of identifying the Collateral and, further, execute and deliver such supplemental instruments, documents, agreements and chattel paper, in the form of assignments or otherwise, as Secured Party shall reasonably require for the purpose of confirming and perfecting, and continuing the perfection of, Secured Party’s security interest in any or all of such Collateral, or as is necessary to provide Secured Party with control over the Collateral or any portion thereof;
+
+ 
+
+ 
+
+(b)
+
+ 
+
+At its expense and upon request of Secured Party, furnish copies of invoices issued by Debtor in connection with the Collateral, furnish certificates of insurance evidencing insurance on Collateral, furnish proof of payment of taxes and assessments on Collateral, make available to Secured Party, any and all of Debtor’s books, records, written memoranda, correspondence, purchase orders, invoices and other instruments or writings that in any way evidence or relate to the Collateral;
+
+ 
+
+ 
+
+(c)
+
+ 
+
+Keep the Collateral insured at all times against risks of loss or damage by fire (including so-called extended coverage), theft and such other casualties including collision in the case of any motor vehicle, all in such amounts, under such forms of policies, upon such terms, for such periods and written by such companies or underwriters as is satisfactory to Secured Party. In all cases losses shall be payable to Secured Party and any surplusage shall be paid to Debtor. All policies of insurance shall provide for at least thirty (30) days prior written notice of cancellation to Secured Party. Should Debtor at any time fail to purchase or maintain insurance, pay taxes, or pay for any expense, incident or such insurance, Secured Party may, but is not obligated to, pay such taxes, order and pay for such necessary items of preservation, maintenance or protection of the Collateral, and Debtor agrees to reimburse Secured Party for all expenses incurred under this paragraph;
+
+ 
+
+ 
+
+(d)
+
+ 
+
+Pay all taxes or assessments imposed on or with respect to the Collateral;
+
+ 
+
+ 
+
+(e)
+
+ 
+
+Keep all of the Collateral in good condition and repair and working order, ordinary wear and tear excepted, protecting it from weather and other contingencies which might adversely affect it as secured hereunder, and not permit any waste or damage with respect thereto;
+
+ 
+
+ 
+
+(f)
+
+ 
+
+Notify Secured Party immediately in writing of any information which Debtor has or may receive which might in any way adversely affect the value of the Collateral or the rights of Secured Party with respect thereto;
+
+6
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+(g)
+
+ 
+
+Notify Secured Party promptly, in writing, of any change in the location of the Collateral or of any place of business or mailing addresses or the establishment of any new place of business or mailing address;
+
+ 
+
+ 
+
+(h)
+
+ 
+
+Pay all costs of filing any financing, continuation or termination statements with respect to the security interest created hereby;
+
+ 
+
+ 
+
+(i)
+
+ 
+
+Upon the occurrence of an Event of Default or breach of any provision of this Security Agreement, pay all expenses and reasonable attorneys’ fees of Secured Party; and Debtor agrees that said expenses and fees shall be secured under this Agreement;
+
+ 
+
+ 
+
+(j)
+
+ 
+
+Maintain possession of all Collateral at the location disclosed to Secured Party and not to remove the Collateral from that location;
+
+ 
+
+ 
+
+(k)
+
+ 
+
+Not sell, contract to sell, lease, encumber, or otherwise transfer the Collateral (other than inventory sold in the ordinary course of business) until the Obligations have been paid and performed, Debtor acknowledging nonetheless that Secured Party has a security interest in the proceeds of such Collateral; and
+
+ 
+
+ 
+
+(l)
+
+ 
+
+Take any other and further action necessary or desirable as requested by Secured Party to grant Secured Party control over the Collateral, as “control” is defined in the applicable version of the Uniform Commercial Code, including without limitation (i) executing and/or authenticating any assignments, third party agreements, Deposit Account Control Agreement or any other account control agreement (“Account Control Agreement”), in a form acceptable to Secured Party; (ii) delivering, or causing the delivery of, any of the Collateral to the possession of Secured Party; and (iii) obtaining written acknowledgments of the lien of Secured Party and agreements of subordination to such lien from third parties in possession of the Collateral in a form acceptable to Secured Party. Debtor consents to and hereby authorizes any third party in an authenticated record or agreement between Debtor, Secured Party, and the third party, including but not limited to depository institutions, securities intermediaries, and issuers of letters of credit or other support obligations, to accept direction from Secured Party regarding the maintenance and disposition of the Collateral and the products and proceeds thereof, and to enter into agreements with Secured Party regarding same, without further consent of the Debtor.
+
+ 
+
+ 
+
+(m)
+
+ 
+
+By signing below, Debtor authenticates this Security Agreement and authorizes Secured Party, as a secured party, to complete and file with the appropriate filing office(s): (i) one or more Uniform Commercial Code Financing Statement(s) (UCC-1), describing the Collateral against which Secured Party has been granted a security interest by Debtor, pursuant to the terms of this Security Agreement and/or any Collateral described on any schedules or exhibits attached hereto and incorporated herein by reference; and (ii) one or more Uniform Commercial Code Financing Statement(s) (UCC-3) to terminate, continue, assign and/or ammend any previously
+
+7
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+filed financing statement relating to this Security Agreement and/or the Colateral described herein.
+
+
+
+7.
+
+ 
+
+ACCOUNTS RECEIVABLE: Debtor hereby agrees that notwithstanding the fact that all or any part of the Obligations is not matured and Debtor is current in payment according to the terms of the Obligations, Secured Party shall have the absolute right to take any one or more of the following actions, upon the occurrence of an Event of Default (as hereinafter defined):
+
+
+
+ 
+
+(a)
+
+ 
+
+Secured Party may serve written notice on Debtor instructing Debtor to deliver to Secured Party all subsequent payments on Accounts Receivable which Debtor shall do until notified otherwise;
+
+ 
+
+ 
+
+(b)
+
+ 
+
+Secured Party may notify the account debtor(s) of its security interest and instruct such account debtor(s) to make further payments on such accounts to Secured Party instead of to Debtor; and
+
+ 
+
+ 
+
+(c)
+
+ 
+
+Secured Party may serve written notice upon Debtor that all subsequent billings or statements of account rendered to any account debtor shall bear a notation directing the account debtor(s) to make payment directly to Secured Party. Any payment received by Secured Party pursuant to this paragraph shall be retained in a separate non-interest bearing account as security for the payment and performance of all Obligations of Debtor.
+
+
+
+8.
+
+ 
+
+POWER OF ATTORNEY: Debtor hereby makes, constitutes and appoints Secured Party its true and lawful attorney-in-fact to act, with full power of substitution, with respect to the Collateral in any transaction, legal proceeding, or other matter in which Secured Party is acting pursuant to this Agreement, including, but not limited to, executing, authentication and/or filing on its behalf: (i) UCC Financing Statements reflecting the lien of Secured Party upon the Collateral and any other documents necessary or desirable to perfect or otherwise continue the security interest granted herein; and (ii) any third party agreements or assignments to grant Secured Party control over the Collateral, including but not limited to, third party agreements between Debtor, Secured Party, and depository institutions, securities intermediaries, and issuers of letters of credit or other support obligations, which third party agreements direct the third party to accept direction from Secured Party regarding the maintenance and disposition of the Collateral and the products and proceeds thereof.
+
+
+
+9.
+
+ 
+
+EVENTS OF DEFAULT: Any of the following events shall be an “Event of Default” hereunder:
+
+     (a) An event of default occurs (after any applicable grace period has expired) under any agreement, instrument or document evidencing, guarantying, securing or otherwise executed or delivered in connection with any of the Obligations, as “Event of Default” shall be defined therein, including, but not limited to, the Credit Agreement or the Note.
+
+8
+
+
+
+
+
+ 
+
+
+
+
+
+     (b) Any representation or warranty of Debtor set forth in this Agreement or in any agreement, instrument, document, certificate or financial statement evidencing, guarantying, securing or otherwise related to, this Agreement or any other Obligation shall be materially inaccurate or misleading.
+
+     (c) Debtor shall fail to maintain in force the insurance required in this Agreement or in any agreement, instrument, document, certificate or financial statement evidencing, guarantying, securing or otherwise related to, this Agreement or any other Obligation, or Debtor shall otherwise default in the observance or performance of any covenant or agreement set forth in any of the foregoing for a period of thirty (30) days.
+
+
+
+10.
+
+ 
+
+REMEDIES. Upon the occurrence of an Event of Default, Secured Party may, without further notice to Debtor, at Secured Party’s option, declare the Note and all of the Obligations to become due and payable in its aggregate amount; provided that the Obligations shall be accelerated automatically and immediately if the Event of Default is a filing under the Bankruptcy Code. Secured Party may resort to the rights and remedies of a secured party under the Uniform Commercial Code, including but not limited to the right of a secured party to (a) enter any premises of Debtor, with or without legal process and take possession of the Collateral and remove it and any records pertaining thereto and/or remain on such premises and use it for the purpose of collecting, preparing and disposing of the Collateral; (b) ship, reclaim, recover, store, finish, maintain and repair the Collateral; and (c) sell the Collateral at public or private sale. Debtor will be credited with the net proceeds of such sale only when they are actually received by Secured Party, and any requirement of reasonable notice of any disposition of the Collateral will be satisfied if such notice is sent to Debtor ten (10) days prior to such disposition. Debtor will, upon request, assemble the Collateral and any records pertaining thereto and make them available at a place designated by Secured Party. Secured Party may use, in connection with any assembly or disposition of the Collateral, any trademark, trade name, trade style, copyright, patent right, trade secret or technical process used or utilized by Debtor. No remedy set forth herein is exclusive of any other available remedy or remedies, but each is cumulative and in addition to every other remedy given under this Agreement, and of the Obligations, or now or hereafter existing at law or in equity or by statute. Secured Party may proceed to protect and enforce its rights by an action at law, in equity or by any other appropriate proceedings. No failure on the part of Secured Party to enforce any of the rights hereunder shall be deemed a waiver of such rights or of any Event of Default and no waiver of any Event of Default shall be deemed to be a waiver of any subsequent Event of Default.
+
+
+
+11.
+
+ 
+
+MISCELLANEOUS PROVISIONS:
+
+
+
+ 
+
+(a)
+
+ 
+
+All rights of Secured Party shall inure to the benefit of its successors and assigns and all obligations of Debtor shall bind the successors and assigns of Debtor.
+
+ 
+
+ 
+
+(b)
+
+ 
+
+Debtor acknowledges and agrees that, in addition to the security interests granted herein, Secured Party has a banker’s lien and common law right of set-off in and to Debtor’s deposits, accounts and credits held by Secured Party and Secured Party may
+
+9
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+apply or set-off such deposits or other sums against the Obligations upon the occurrence of an Event Default as set forth in this Agreement.
+
+
+
+ 
+
+(c)
+
+ 
+
+This Agreement contains the entire agreement of the parties with respect to the subject matter hereof and no oral agreement whatsoever, whether made contemporaneously herewith or hereafter shall amend, modify or otherwise affect the terms of this Agreement.
+
+ 
+
+ 
+
+(d)
+
+ 
+
+DEBTOR HEREBY WAIVES THE RIGHT TO A TRIAL BY JURY OF ANY MATTERS ARISING OUT OF THIS AGREEMENT OR THE TRANSACTIONS CONTEMPLATED HEREBY.
+
+ 
+
+ 
+
+(e)
+
+ 
+
+All rights and liabilities hereunder shall be governed by and construed in accordance with the laws of the State of Ohio.
+
+ 
+
+ 
+
+(f)
+
+ 
+
+Any provision herein which may prove limited or unenforceable under any law or judicial ruling shall not affect the validity or enforceability of the remainder of this Agreement.
+
+ 
+
+ 
+
+(g)
+
+ 
+
+Debtor hereby further authorizes Secured Party to file UCC Financing Statements on behalf of Debtor and Secured Party with respect to the Collateral.
+
+Remainder of this page intentionally left blank
+
+10
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+(h)
+
+ 
+
+Secured Party is hereby authorized to fill in all blank spaces herein, to correct patent errors herein, to complete or correct the description of the Collateral, and to date this Agreement.
+
+
+
+ 
+
+ 
+
+ 
+
+SECURED PARTY:
+
+ 
+
+DEBTOR:
+
+ 
+
+ 
+
+ 
+
+CITIZENS BANK
+
+ 
+
+GREAT PLAINS LAND DEVELOPMENT COMPANY, LTD.,
+
+ 
+
+ 
+
+an Ohio limited liability company
+
+ 
+
+ 
+
+ 
+
+By:
+
+
+
+/s/ David Tholt
+
+
+
+ 
+
+By:
+
+
+
+/s/ Thomas J. Smith
+
+
+
+Name: David Tholt
+
+ 
+
+Name: Thomas J. Smith
+
+Title: Vice President
+
+ 
+
+Title: Vice President
+
+11
+
+
+
+
+
+ 
+
+
+
+
+
+EXHIBIT “A”
+
+Location(s) of Debtor
+
+8500 Station Street, Mentor, Ohio 44060
+
+12

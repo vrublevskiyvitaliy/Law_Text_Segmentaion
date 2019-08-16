@@ -1,0 +1,366 @@
+
+
+
+Exhibit 10.2
+Stock Purchase and Transfer Agreement
+
+This Stock Purchase and Transfer Agreement (the Agreement) is made as of December 22, 2009 (the Effective Date), by and between Pernix Group, Inc. and Senna Finanz Holding, A.G..  The Parties agree as follows:
+
+
+1.
+Definitions.  The following defined terms are used in this Agreement:  
+
+1.1
+Best Efforts means the efforts that a reasonably prudent person, desirous of achieving the results intended in this Agreement, would use in similar circumstances to ensure that the result is achieved as expeditiously as possible.
+
+1.2
+Buyer or Pernix means Pernix Group, Inc., a Delaware corporation, located at 860 Parkview Blvd., Lombard, Illinois  60148, United States of America.
+
+1.3
+Closing means the event described in Section 2.3 and encompasses the consummation of the transaction described in this Agreement.
+
+1.4
+Closing Date means on or about December 29, 2009, or at such other time as the Parties may agree as of which the Closing actually takes place.
+
+1.5
+Company or TransRadio means TRANSRADIO Sendersysteme Berlin AG, a German stock corporation (AG), registered in the Commercial Registry of the Local Court Charlottenburg under HRB 78850 B, located at Mertensstrasse 63-115, 13587 Berlin. 
+
+1.6
+Encumbrance means any mortgage, charge, lien, option, restriction, right of first refusal, right of pre-emption, third-party right or interest, or other encumbrance or security interest of any kind, either in personam or in rem, as well as any type of preferential arrangement having a similar effect or any agreement or obligation to create or grant any such interest.
+
+1.7
+Knowledge means to the best knowledge, information, belief or awareness of a person and is deemed to include such knowledge, information, belief or awareness that a prudent person would have if such person made reasonable inquiries.
+
+1.8
+Party includes the Buyer and each individual Seller.  Parties collectively refers to the Buyer and the Seller.
+
+1.9
+Purchase Price means the price per Share that the Buyer will pay Seller, and is further defined in Section 2.2.  
+
+1.10
+Seller means, Senna Finanz Holding, AG, a legal entity registered at Canton Zug under Company Registration No. CH-170.3.023.671-1, Switzerland, duly 
+
+
+1
+
+
+
+
+
+represented by its Board of Directors under the laws of Switzerland, with its registered address at Baarerstrasse 86, 6302 Zug, Switzerland (Senna). 
+
+1.11
+Shares means 165,650 shares of the common stock of TransRadio, held by the Seller.
+
+1.12
+Sellers Shares means singular shares of TransRadio or any amounts of shares of TransRadio or shares of TransRadio held by the Seller, as may be specified in this Agreement.
+
+1.13
+Total Purchase Price means the total amount that the Buyer will pay to the Seller for all of the Shares and is further defined in Section 2.2.  
+
+
+2. 
+Sale and Transfer; Purchase Price; Closing 
+
+2.1 
+Shares and Authorization.  Subject to the terms and conditions of this Agreement, Seller sells (verkaufen) the Shares to Buyer according to the schedule below, and Buyer purchases the Shares from Seller at the Purchase Price.  Seller also hereby assigns (abtreten) to the Buyer its claim for return of the Shares against Clearstream Banking AG (the Primary Assignments), and Buyer accepts the Primary Assignments.  Seller shall instruct by the Closing Date its depository bank(s) that the depository bank(s) notify Clearstream Banking AG of the Primary Assignments without undue delay (a Notification Instruction).  Each Notification Instruction shall be accomplished in writing and shall not contain any further restrictions other than an indication of the Closing Date as the date on which the transfer takes effect.  As a secondary alternative (hilfsweis
+e), Seller hereby assigns the membership rights out of the Shares to the Buyer (the Secondary Assignments), who accepts the Secondary Assignments (the primary and secondary alternatives cumulatively are referred to as the Transfer).  For purposes of clarity, to the extent that Seller may have any rights in the Shares, its intent is to sell, transfer and assign all such rights to Buyer at the Closing and Seller shall hold and exercise any such power or right under the Shares in trust for Buyer until such transfer and assignment is completed.  
+
+2.1.1
+Senna:  165,650 Shares held at Falcon Private Bank, Pelikanstrasse 37, CH-8021 Zurich, Switzerland. 
+
+2.2 
+Purchase Price.  The Purchase Price for the Shares will be US Two Dollars and Seventy Cents (USD$2.70) per Share.  The obligation of the Buyer towards Seller and the claim of Seller for the Purchase Price shall not exceed the amount resulting from the multiplication of the number of Sellers Shares by the Purchase Price.  The Total Purchase Price shall be Four Hundred and Forty-Seven Thousand, Two Hundred and Fifty-Five US Dollars (USD$447,255.00).  In no event shall Buyer be liable to Seller for more than the Total Purchase Price.  
+
+
+
+2
+
+
+
+
+
+2.3 
+Closing.  The Transfer shall take economical and in rem effect on the Closing Date.  
+
+2.4
+Non-termination.  Subject to the other provisions of this Agreement that provide a specific right of termination, failure to consummate the Closing on the Closing Date will not result in the termination of this Agreement and will not relieve any Party of any obligation under this Agreement.
+
+2.5 
+Closing Obligations.  At the Closing Date:
+
+2.5.1
+Seller will deliver to Buyer (i) a confirmation that Seller has received the funds constituting Sellers payment and (ii) a copy of the Notification Instruction authenticated by the respective depository bank; and
+
+2.5.2
+Buyer will deliver to Seller the Total Purchase Price owed to the Seller by wire transfer to an account specified by the Seller.
+
+2.6
+Post-Closing Obligations.  At or reasonably after the Closing, each Party also shall deliver such other documentation as may be necessary to (i) show satisfaction of other conditions precedent, (ii) to give good title of the Shares to Buyer or (iii) to allow Buyer to procure the registration of the Shares in the name of the Buyer.
+
+2.7
+Transfer Duties.  Seller shall be responsible for any transfer expenses, duties, stamp taxes, or other transfer costs with regard to the sale and transfer of Sellers Shares to Buyer.
+
+2.8
+Foreign Exchange.  The form of payment shall be in United States Dollars.  Seller shall be responsible for any foreign exchange expenses with regard to Sellers payment or conversion into local currency.
+
+
+3.
+Conditions Precedent.  
+
+3.1
+General.  Conditions precedent (aufschiebende Bedingung) to the Closing include:
+
+3.1.1
+The Buyer obtaining, in a form acceptable to it, all consents, approvals clearances, and authorizations of any relevant government authority or other relevant third-party as may be reasonably considered necessary by the Buyer; 
+
+3.1.2
+Buyer receiving relevant consents as may be necessary in connection with the proposed change in shareholding of the Company so as to ensure that the Company maintains all existing contractual and other rights following the transfer of the Shares; 
+
+3.1.3
+The Buyer receiving approval and authorization from its Board of Directors to complete the Closing; 
+
+
+3
+
+
+
+
+
+
+3.1.4
+Where necessary, Seller receiving approval and authorization of its Board of Directors or other persons (e.g., spouses, if applicable) whose consent is regarded as obligatory by the respective applicable laws to complete the Closing; and
+
+3.1.5
+The obligations described in Paragraph 2.5, above. 
+
+3.2
+Best Efforts.  Each Party will use its Best Efforts to complete the conditions precedent as soon as reasonably practicable and in any event before the Closing Date.  If a Party has Knowledge or gains Knowledge of any fact or circumstance that might prevent the Closing, it will immediately inform the other Parties. Seller shall use its Best Efforts to assist the Buyer in completing the conditions precedent.
+
+3.3
+Waiver.  If any condition precedent has not been satisfied on or before the Closing Date, the Party to whom the condition precedent benefits may (i) waive the condition that has not been satisfied, (ii) postpone the Closing to a date certain, but not longer than three calendar weeks (a Postponement Date), or (iii) terminate this Agreement.  These terms also apply if any conditions precedent have not been satisfied before a Postponement Date.
+
+4. 
+Representations and Warranties of Buyer.  Buyer represents and warrants to Seller as follows:
+
+4.1
+Buyers current address is as set forth in Section 1.  
+
+4.2
+Buyer has been advised and acknowledges that the Shares will not be physically transferred nor registered under an applicable securities, but that the Shares are held in depository institutions and that the transfer of ownership will be recorded in the deposit ledgers of the respective depository bank of Seller.  Buyer also understands that notice requirements may apply under German securities laws with respect to the purchase and transfer of the Shares to Buyer. 
+
+4.3
+Buyer has been advised that there is no assurance that the Company will continue to be a company with equity securities admitted for trade at a securities exchange or, even if the Company continues to be a public company.
+
+4.4
+Buyer acknowledges that the Shares were not offered to Buyer by means of any form of general or public solicitation or general advertising, or publicly disseminated advertisements or sales literature, including (i) any advertisement, article, notice or other communication published in any newspaper, magazine or similar media, or broadcast over television or radio, or (ii) any seminar or meeting to which Buyer was invited by any of the foregoing means of communication.
+
+4.5
+In connection with the purchase of the Shares by Buyer, Buyer has not paid and will not pay, and has no knowledge of the payment of, any commission or other 
+
+
+4
+
+
+
+
+
+direct or indirect remuneration to any person or entity for soliciting or otherwise coordinating the purchase of the Shares.
+
+4.6 
+There is no pending proceeding that has been commenced against Buyer that challenges, or may have the effect of preventing, delaying, making illegal, or otherwise interfering with, any of the contemplated transactions in this Agreement.  To Buyers knowledge, no such proceeding has been threatened.
+
+
+5. 
+Representations and Warranties of Seller.  Seller represents and warrants to Buyer the correctness and completeness of the following statements as of Closing Date (or, in case of the delay of the effectiveness of the Transfer, through the moment of the actual effectiveness of the Transfer) by means of an independent guarantee as defined in Section 311 Para. 1 of the German Civil Code (BGB):
+
+5.1
+Seller has good title to and is  in legal and economic terms  sole owner of Sellers Shares.  The Shares have been validly issued and are fully paid up, with no obligations to make additional contributions.
+
+5.2
+The Shares are free and clear of any and all Encumbrances at this time and will continue to be free on each day up to and including the Closing Date.  
+
+5.3
+Seller is free to dispose of the Shares at will, in particular without requiring the consent of third parties or thereby adversely affecting the rights of third parties.  Similarly, no insolvency or similar proceedings have been opened, or threatened to be opened against the Sellers assets and the Seller is neither illiquid (zahlungsunfähig) nor over-indebted (überschuldet). 
+
+5.4
+To the best of Sellers Knowledge: 
+
+5.4.1
+the Company is properly established and exists under German law, that all facts relating to the Company that have to be registered with the Commercial Register (Handelsregister) are so registered.
+
+5.4.2
+the share capital of the Company amounts to One Million Five Hundred Thousand Euro (EUR 1,500,000.00) and is divided into one million five hundred thousand (1,500,000.00) no-par bearer shares securitized in a global certificate.  The Shares amount to approximately 11.04% of the share capital of the Company.  
+
+5.4.3
+No insolvency or similar proceedings have been opened, or threatened to be opened, against the Companys assets.
+
+5.5
+Seller does not have any Knowledge of any material circumstance concerning the Shares, the Company or any of the Companys subsidiaries, officials, employees or auxiliary persons, which could have a negative effect on the value of the Shares.  
+
+
+
+5
+
+
+
+
+
+5.6
+Between the date of this Agreement and the Closing, Seller will receive prior written consent from Buyer before taking any action that would permit the Company to do anything outside of the Companys ordinary course of business that would require the consent of the shareholders of the Company in a shareholders meeting.
+
+5.7
+Seller is aware that the Buyer is relying on all and every of the Sellers representations and warranties in entering this Agreement and would not do so without them or if they were inaccurate or misleading.  The Sellers representations are true and accurate in all respects and will continue to be so up to and including the Closing Date.
+
+5.8
+For clarity under German law, the Parties agree that Seller is liable for the Shares, including the accuracy of the representations and warranties in regard to the Shares according to the statutory law;  whereas the liability of the Seller in respect of the Companys business is limited to the liability for the accuracy of the respective representations and warranties as contained in above in Section 5.
+
+
+6.
+Termination.  
+
+6.1
+Termination Events.  This Agreement may be terminated by mutual consent of Buyer and Seller.  Further, if the Total Purchase Price has not been transferred on or before December 30, 2009, Seller may terminate this Agreement.  In case the purchase or the transfer of any of Sellers Shares are null and void, voidable, provisionally invalid or unenforceable, the Buyer can terminate the Agreement partly or completely, whereas the complete termination includes  for avoidance of doubts  the termination of the Agreement in respect of the Shares.  
+
+6.2 
+Effect of Termination.  Each Partys right of termination under Section 6.1 is in addition to any other remedies it may have under this Agreement or otherwise, and its other remedies remain unaffected by the exercise of a right of termination.  In the event of a partial or complete termination, the Parties shall return to each other applicable benefits obtained pursuant to this Agreement.
+
+
+7.
+General Provisions.  
+
+7.1 
+Expenses.  Except as otherwise expressly provided in this Agreement, each Party is responsible for its own expenses incurred in this transaction, including all fees and expenses of agents, representatives, counsel, and accountants. 
+
+7.2
+Taxes.  Each Party is responsible for its own tax consequences incurred in this transaction.
+
+
+
+6
+
+
+
+
+
+7.3
+Notices.  All notices, consents, waivers, and other communications under this Agreement must be in writing and will be deemed to have been duly given when (a) delivered by hand (with written confirmation of receipt), (b) sent by telecopier (with written confirmation of receipt) provided also that a copy is mailed by registered mail, return receipt requested, or (c) when received by the addressee, if sent by a nationally recognized overnight delivery service (receipt requested) to:
+
+Buyer:
+Pernix Group, Inc.
+860 Parkview Blvd.
+Lombard Ill. 60148 USA
+
+Attention: 
+Nidal Z. Zayed
+CEO and President
+
+Fax: 
++(630) 620-4753
+
+Seller: 
+Senna Finanz Holding, A.G.
+Baarerstrasse 86
+6302 Zug, Switzerland
+
+Attention:
+Anton Duss
+Director
+
+Fax:
++41  41  710  4733 
+
+(Or to such other addresses and telecopier numbers as a Party may designate by notice to the other Parties)
+
+7.4
+Waiver.  The rights and remedies of the Parties to this Agreement are cumulative and not alternative.  Neither the failure nor any delay by any Party in exercising any right, power, or privilege under this Agreement or the documents referred to in this Agreement will operate as a waiver of such right, power, or privilege, and no single or partial exercise of any such right, power, or privilege will preclude any other or further exercise of such right, power, or privilege or the exercise of any other right, power, or privilege.  To the maximum extent permitted by applicable law, (a) no claim or right arising out of this Agreement or the documents referred to in this Agreement can be discharged by one Party, in whole or in part, by a waiver or renunciation of the claim or right unless in writing signed by the other Party to whom it applies; (b) no waiver that may be given by a Party will be applicabl
+e except in the specific instance for which it is given; and (c) no notice to or demand on one Party will be deemed to be a waiver of any obligation of such Party or of the right of the Party giving such notice or demand to take further action without notice or demand as provided in this Agreement or the documents referred to in this Agreement.
+
+
+
+7
+
+
+
+
+
+7.5
+Representations and Warranties.  Each representation and warranty of a Party under this Agreement is a separate representation and warranty and is not restricted by reference to any other representation or warranty.
+
+7.6
+Entire Agreement and Modifications.  This Agreement supersedes all prior agreements and understandings between and among the Parties with respect to its subject matter and constitutes (along with the documents referred to in this Agreement) a complete and exclusive statement of the terms of the agreement between and among the Parties with respect to its subject matter.  This Agreement, including this clause on the written form, may not be amended except by a written agreement executed by the Party who is to be affected with the amendment.
+
+7.7
+Assignments.  No Party may assign any of its rights under this Agreement without the prior consent of the other, (which will not be unreasonably withheld), except that Buyer may assign any of its rights under this Agreement to any subsidiary of Buyer.  Subject to the preceding sentence, this Agreement will apply to, be binding in all respects upon, and inure to the benefit of the successors and permitted assigns of the Parties. 
+
+7.8
+No Third-Party Rights.  Nothing expressed or referred to in this Agreement will be construed to give any person or entity other than the Parties to this Agreement any legal or equitable right, remedy, or claim under or with respect to this Agreement or any provision of this Agreement.  This Agreement and all of its provisions and conditions are for the sole and exclusive benefit of the Parties to this Agreement and their successors and assigns.
+
+7.9
+Severability.  If any provision of this Agreement is held invalid or unenforceable or should a gap in this Agreement become evident, the other provisions of this Agreement will remain in full force and effect.  Any provision of this Agreement held invalid or unenforceable only in part or degree will remain in full force and effect to the extent not held invalid or unenforceable.  By mutual agreement, invalid or unenforceable terms are to be replaced, or gaps are to be filled, by such provisions that come as close as possible to a successful commercial outcome initially envisaged by the Parties.  
+
+7.10 
+Governing Law & Disputes.  This Agreement will be governed by the laws of the Federal Republic of Germany without regard to conflicts of laws principles.  The Parties agree that all disputes arising out of this Agreement shall be resolved through arbitration under the rules of the International Chamber of Commerce (ICC).  The arbitration shall be based in Frankfurt am Main, Germany and conducted in English.  The arbitration panel shall be made of three persons from a list drawn from the ICC.  The Buyer shall select one arbitrator, Seller shall select a second, and the two Party chosen arbitrators shall select the third.  The expenses of the arbitration panel shall be equally shared by the Parties, but each Party shall be responsible for its own fees and costs.
+
+
+
+8
+
+
+
+
+
+7.11
+Further Assurance.  Each Party will use its Best Efforts to procure any third-party to do whatever is necessary to give effect to this Agreement and any document or activity called for under this Agreement.
+
+7.12
+Time of the Essence.  Time is of the essence as regards to any date, time or period specified for the performance of an obligation under this Agreement, unless otherwise provided therein.
+
+7.13
+Signatures.  Each Party represents and warrants that the person signing this Agreement on its behalf has the power and authority to do so and to bind that Party to the terms and obligations of this Agreement; in particular, that such person has obtained all necessary consents from all persons, corporate bodies and supervising authorities, necessary to prevent the voidness, voidability, provisional invalidity or unenforceability of this Agreement.
+
+7.14
+Counterparts.  This Agreement may be executed in one or more counterparts, each of which will be deemed to be an original and all of which, when taken together, will be deemed to constitute one and the same agreement.
+
+IN WITNESS WHEREOF, the Parties have executed and delivered this Agreement as of the Effective Date.
+
+
+
+Buyer:
+ 
+Pernix Group, Inc.
+ 
+
+
+By:______________________________
+ 
+     Name:  Nidal Z. Zayed
+ 
+     Title:  CEO and President
+ 
+
+
+
+
+Seller:
+
+Senna Finanz Holding, A.G.
+
+
+
+By:______________________________
+
+     Name:  Anton Duss
+
+     Title:  Director
+
+
+
+
+
+
+9
+
+
+
+

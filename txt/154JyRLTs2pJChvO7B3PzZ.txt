@@ -1,0 +1,949 @@
+Exhibit 10.2
+
+SEVENTH AMENDMENT TO 2003 AMENDED AND RESTATED
+
+CREDIT AGREEMENT (2-YEAR REVOLVING LOAN)
+
+          This Seventh Amendment to 2003 Amended and Restated Credit Agreement (2-Year Revolving Loan) (this “Amendment”) is entered into as of December 16, 2009 by and among NATIONAL COOPERATIVE REFINERY ASSOCIATION, a cooperative marketing association formed under the laws of the State of Kansas (the “Borrower”), the institutions listed on the signature pages hereof and each other institution that may hereafter become a party to the Credit Agreement referenced below as a Syndication Party (collectively, the “Syndication Parties,” and, individually, a “Syndication Party”), and COBANK, ACB, a federally chartered banking organization, in its capacity as administrative agent for the Syndication Parties (in such capacity, the “Administrative Agent”).
+
+RECITALS
+
+          The Borrower, the Syndication Parties and the Administrative Agent are parties to that certain 2003 Amended and Restated Credit Agreement (2-Year Revolving Loan) dated as of December 16, 2003, as amended by a First Amendment dated as of December 15, 2005, a Second Amendment dated as of June 30, 2006, a Third Amendment dated as of December 13, 2006, a Fourth Amendment dated as of September 17, 2007, a Fifth Amendment dated as of November 7, 2007, and a Sixth Amendment dated as of December 12, 2008 (the “Sixth Amendment”) (as further amended by this Amendment, and as the same may be amended, restated, supplemented or otherwise modified from time to time, the “Credit Agreement”).
+
+          The Borrower has requested that the Syndication Parties and the Administrative Agent make certain amendments to the Credit Agreement, and the Syndication Parties and the Administrative Agent are willing to grant the Borrower’s requests subject to the terms and conditions of this Amendment.
+
+          NOW, THEREFORE, in consideration of the premises and of the mutual covenants and agreements herein contained, the receipt and sufficiency of which are hereby acknowledged, the parties hereto hereby agree as follows:
+
+          Section 1. Definitions. Capitalized terms used and not otherwise defined herein shall have the meanings given them in the Credit Agreement.
+
+          Section 2. Amendments to the Credit Agreement. The Credit Agreement is hereby amended as follows:
+
+     (a) Amendment to Article 1 of the Credit Agreement (Defined Terms). Article 1 of the Credit Agreement is amended by adding or amending in their entirety, as the case may be, the following defined terms:
+
+     1.5 Aggregate LC Commitment: shall be $15,000,000.00, unless the same shall be adjusted in accordance with Section 2.10.
+
+     1.6 Aggregate 2-Year Commitment: shall be $15,000,000.00, unless the same shall be adjusted in accordance with Section 2.10.
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+     1.11 Base Rate: means a rate per annum announced by the Administrative Agent on the first Banking Day of each week, which shall be the sum of (a) the higher of (i) 225 basis points greater than the highest of the one week or one month LIBO Rate or (ii) the Prime Rate, and (b) 75 basis points.
+
+     1.18 Committed Letter of Credit Fee: means a fee equal to 225 basis points multiplied by the face amount of the Committed Letter of Credit.
+
+     1.20 Commitment Fee Factor: means 37.5 basis points per annum.
+
+     1.48 LIBO Rate: means the rate obtained by dividing (a)(i) with respect to a LIBO Rate Period applicable to a LIBO Rate Loan, the rate per annum determined by the Administrative Agent as of approximately 11:00 a.m. London time on the date two Banking Days before the commencement of such LIBO Rate Period by reference to the British Bankers’ Association Interest Settlement Rates for deposits in dollars offered on the London interbank dollar market for a period corresponding to the term of such LIBO Rate Period and in an amount comparable to the aggregate amount of the relevant LIBO Rate Loan (as displayed in the Bloomberg Financial Markets system or any successor thereto or any other service selected by the Administrative Agent that has been nominated by the British Bankers’ Association as an authorized information vendor for the purpose of displaying such rates), (ii) with respect to a Base Rate Loan, the rate per annum determined by the Administrative Agent as of approximately 11:00 a.m. London time on the first Banking Day of each calendar week by reference to the British Bankers’ Association Interest Settlement Rates for deposits in dollars offered on the London interbank dollar market for a one-month period and in an amount comparable to the aggregate amount of the relevant Base Rate Loan (as displayed in the Bloomberg Financial Markets system or any successor thereto or any other service selected by the Administrative Agent that has been nominated by the British Bankers’ Association as an authorized information vendor for the purpose of displaying such rates), or (iii) if such rate cannot be determined, the rate per annum equal to the rate determined by the Administrative Agent to be a rate at which U.S. dollar deposits are offered to major banks in the London interbank eurodollar market for funds to be made available on the first day of such LIBO Rate Period and maturing at the end of such LIBO Rate Period, in each case rounded upwards, if necessary, to the nearest 1/100 of 1%; by (b) a percentage equal to 1.00 minus the applicable percentage (expressed as a decimal) prescribed by the Board of Governors of the Federal Reserve System (or any successor thereto) for determining the maximum reserve requirements applicable to eurodollar fundings (currently referred to as “Eurocurrency Liabilities” in Regulation D) or any other maximum reserve requirements applicable to a member bank of the Federal Reserve System with respect to such eurodollar fundings.
+
+-2-
+
+
+
+
+
+ 
+
+
+
+
+
+     1.56 Member Percentage: shall mean the following:
+
+     For CHS — 74.429%
+
+     For Growmark, Inc. — 18.616%
+
+     For MFA Oil Company — 6.955%.
+
+     1.49 LIBOR Margin: means 225 basis points per annum.
+
+     1.82 2-Year Maturity Date: means December 16, 2010.
+
+     1.89 Percentage: means, with respect to any Syndication Party, the ratio of the Individual 2-Year Commitment of such Syndication Party to the Aggregate 2-Year Commitment.
+
+     (b) Amendment to Section 2.10 of the Credit Agreement (Reduction of Aggregate 2-Year Commitment). Section 2.10 of the Credit Agreement is amended and restated in its entirety to read as follows:
+
+     2.10 Reduction of Aggregate 2-Year Commitment; Voluntary Increases. Borrower may, from time to time, reduce or increase the Aggregate 2-Year Commitment as follows:
+
+     2.10.1 Reduction. Borrower may, by written facsimile notice to the Administrative Agent on or before 10:00 A.M. (Eastern time) on any Banking Day, make a one-time irrevocable reduction in the Aggregate 2-Year Commitment; provided that (a) such reduction must be in multiples of five million dollars ($5,000,000), and (b) Borrower must simultaneously make any principal payment necessary (along with any applicable Funding Losses on account of such principal payment) so that (i) the principal amount outstanding under the 2-Year Facility does not exceed the reduced Aggregate 2-Year Commitment on the date of such reduction, and (ii) the Individual Outstanding 2-Year Obligations owing to any Syndication Party do not exceed the Individual 2-Year Commitment of such Syndication Party (after reduction thereof in accordance with the following sentence). In the event the Aggregate 2-Year Commitment is reduced as provided in the preceding sentence, the Individual 2-Year Commitment of each Syndication Party shall be reduced in accordance with the Percentage of such Syndication Party, as determined before giving effect to the reduction in the Aggregate 2-Year Commitment.
+
+     2.10.2 Request to Increase. Provided that no Event of Default has occurred and is continuing, Borrower may from time to time, but in no event more than two times prior to the 2-Year Maturity Date, propose to increase the Aggregate 2-Year Commitment in accordance with this Section 2.10. The aggregate principal amount of the increase to the Aggregate 2-Year Commitment made pursuant to this Section 2.10 (the amount of any such increase, the “Increased Facility Amount”) shall not exceed $35,000,000, which for the avoidance of doubt shall increase the Aggregate 2-Year Commitment to an amount not to exceed $50,000,000, and each increase shall be at least $10,000,000. Borrower shall provide notice to the Administrative Agent (which shall promptly provide a copy of such notice to the Syndication Parties) of any
+
+-3-
+
+
+
+
+
+ 
+
+
+
+
+
+requested Increased Facility Amount. Each Syndication Party shall have the right (but not the obligation), for a period of thirty days following receipt of such notice, to elect by notice to Borrower and the Administrative Agent to subscribe to participate in the Increased Facility Amount to the extent of its Percentage. Syndication Parties that fail to respond to such notice shall be deemed to have elected not to increase their Percentages in the 2-Year Facility.
+
+     2.10.3 Allocation of Unsubscribed Amounts. If any Syndication Party elects not to increase its Individual 2-Year Commitment pursuant to this Section 2.10, the Administrative Agent may place such unsubscribed amount with one or more other financial institutions selected by the Administrative Agent and mutually agreed upon by Borrower and the Administrative Agent (each, an “Additional Lender”), which may (but need not) be existing Syndication Parties. The sum of the portion of the Increased Facility Amount subscribed under this Section 2.10 and the amount placed pursuant to the preceding sentence shall not exceed the Increased Facility Amount.
+
+     2.10.4 Conditions Precedent. Any increase in the Aggregate 2-Year Commitment under this Section 2.10 shall become effective upon receipt by the Administrative Agent of:
+
+     (a) an amendment to this Credit Agreement, duly signed by the Borrower, the Administrative Agent, each Syndication Party whose Individual 2-Year Commitment will be increased and each Additional Lender, which amendment modifies the definition of “Aggregate 2-Year Commitment Amount”, sets forth any other agreements of the Borrower, the Administrative Agent, such Syndication Parties and each Additional Lender with respect to pricing affecting the Increased Facility Amount, and incorporates the agreement of each Additional Lender to become a Syndication Party under this Credit Agreement and bound by all the terms and provisions hereof;
+
+     (b) amendments to any other Loan Documents reasonably requested by the Administrative Agent in relation to the Increased Facility Amount, which amendments the Administrative Agent is hereby authorized to execute and deliver on behalf of the Syndication Parties;
+
+     (c) 2-Year Notes, duly executed by Borrower, as any Syndication Party or any Additional Lender may require;
+
+     (d) evidence of appropriate corporate authorization on the part of Borrower with respect to the Increased Facility Amount and the execution and delivery of the documents described in this subsection 2.10.4;
+
+     (e) such opinions of counsel to Borrower and other assurances as the Administrative Agent may reasonably request; and
+
+-4-
+
+
+
+
+
+ 
+
+
+
+
+
+     (f) reimbursement of the Administrative Agent’s out-of-pocket costs and expenses (including reasonable attorney’s fees) incurred in connection therewith.
+
+     (c) Amendment to Section 10.16 of the Credit Agreement (Financial Covenants). Section 10.16 of the Credit Agreement is amended and restated in its entirety to read as follows:
+
+     10.16 Financial Covenants. Borrower shall maintain the following financial covenants, measured as a consolidation of the results of Borrower and its Subsidiaries:
+
+     (d) Amendment to Section 10.16.2 of the Credit Agreement (Minimum Net Worth). Section 10.16.2 of the Credit Agreement is amended and restated in its entirety to read as follows:
+
+     10.16.2 Minimum Net Worth. At the end of each Fiscal Quarter, Net Worth of not less than $600,000,000.
+
+     (e) Amendment to Section 10.16.4 of the Credit Agreement (Minimum Working Capital). Section 10.16.4 of the Credit Agreement is amended and restated in its entirety to read as follows:
+
+     10.16.4 Minimum Working Capital. At all times Working Capital of not less than $75,000,000.
+
+     (f) Amendment to Section 11.6 of the Credit Agreement (Loans). Section 11.6 of the Credit Agreement is amended and restated in its entirety to read as follows:
+
+     11.6 Loans. Borrower shall not lend or advance money, credit, or property to any Person, except (a) trade credit extended in the ordinary course of business; (b) loans to Borrower’s wholly-owned Subsidiary Jayhawk Pipeline, L.L.C., provided that all such loans to Jayhawk Pipeline, L.L.C., when aggregated with all of the Investments in Jayhawk Pipeline, L.L.C. made pursuant to, and as permitted in, clause (i) of Section 11.8 hereof, do not exceed $75,000,000; and (c) loans to Borrower’s partially-owned Subsidiary Kaw Pipe Line Company in an aggregate amount not to exceed $5,000,000.
+
+     (g) Exhibits to Credit Agreement (Compliance Certificate; Subsidiaries; Equity Investments). The Credit Agreement is hereby amended by deleting Exhibit 1.21, Exhibit 1.76 and Exhibit 8.11 to the Credit Agreement and replacing them in their entirety with Exhibit 1.21, Exhibit 1.76 and Exhibit 8.11 to this Amendment, respectively.
+
+          Section 3. Section 1.4 of Sixth Amendment. Section 1.4 of the Sixth Amendment is amended and restated in its entirety to read as follows:
+
+-5-
+
+
+
+
+
+ 
+
+
+
+
+
+     1.4 The Base Rate shall be determined solely by reference to the Prime Rate upon the occurrence of any of the following events:
+
+     (a) the Administrative Agent determines (which determination shall be conclusive) that quotations of interest rates in accordance with the definition of LIBO Rate are not being provided in the relevant amounts or for the relevant maturities for purposes of determining rates of interest for LIBO Rate Loans as provided in this Credit Agreement;
+
+     (b) any Syndication Party determines (which determination shall be conclusive) that the relevant rates of interest referred to in the definition of LIBO Rate upon the basis of which the rate of interest for LIBO Rate Loans for such LIBO Rate Period is to be determined do not adequately cover the cost to the Syndication Parties of making or maintaining such LIBO Rate Loans for such LIBO Rate Period; or
+
+     (c) any Change in Law shall make it unlawful for any of the Syndication Parties to (i) advance its Funding Share of any LIBO Rate Loan or (ii) maintain its share of all or any portion of the LIBO Rate Loans.
+
+          Section 4. Representations and Warranties. The Borrower hereby represents and warrants to the Administrative Agent and the Syndication Parties as follows:
+
+     (a) The Borrower has all requisite power and authority, corporate or otherwise, to execute and deliver this Amendment and to perform its obligations under this Amendment and the Loan Documents to which the Borrower is a party. This Amendment and the Loan Documents to which the Borrower is a party have been duly and validly executed and delivered to the Administrative Agent by the Borrower, and this Amendment and the Loan Documents to which the Borrower is a party constitute the Borrower’s legal, valid and binding obligations, enforceable in accordance with their terms.
+
+     (b) The execution, delivery and performance by the Borrower of this Amendment and the Loan Documents to which the Borrower is a party have been duly authorized by all necessary corporate or other action and do not and will not (i) require any authorization, consent or approval by any governmental department, commission, board, bureau, agency or instrumentality, domestic or foreign, (ii) violate the Borrower’s organizational documents or any provision of any law, rule, regulation or order presently in effect having applicability to the Borrower, or (iii) result in a breach of, or constitute a default under, any indenture or agreement to which the Borrower is a party or by which the Borrower or its properties may be bound or affected.
+
+     (c) All of the representations and warranties contained in Article 8 of the Credit Agreement are correct on and as of the date hereof as though made on and as of such date, except to the extent that such representations and warranties relate solely to an earlier date.
+
+-6-
+
+
+
+
+
+ 
+
+
+
+
+
+          Section 5. Effectiveness. This Amendment shall be effective only if the Administrative Agent has received, on or before the date of this Amendment (or such later date as the Administrative Agent may agree in writing), each of the following, each in form and substance acceptable to the Administrative Agent in its sole discretion:
+
+     (a) this Amendment, duly executed by the Borrower, the Administrative Agent and the Syndication Parties;
+
+     (b) payment of an amendment fee of $15,000 in immediately available funds, to be allocated by the Administrative Agent pro rata among the Syndication Parties; and
+
+     (c) payment of an administration fee of $5,000 in immediately available funds, payable to and for the account of the Administrative Agent.
+
+          Section 6. References. All references in the Credit Agreement to “this Agreement” shall be deemed to refer to the Credit Agreement as amended hereby, and any and all references in any other Loan Document to the Credit Agreement shall be deemed to refer to the Credit Agreement as amended hereby.
+
+          Section 7. No Waiver. The execution of this Amendment and any documents related hereto shall not be deemed to be a waiver of any Potential Default or any Event of Default under the Credit Agreement or any breach, default or event of default under any other Loan Document or other document held by the Administrative Agent or any Syndication Party, whether or not known to the Administrative Agent or any Syndication Party and whether or not existing on the date of this Amendment.
+
+          Section 8. Release of Administrative Agent and Syndication Parties. The Borrower hereby absolutely and unconditionally releases and forever discharges the Administrative Agent and the Syndication Parties, and any and all participants, parent corporations, subsidiary corporations, affiliated corporations, insurers, indemnitors, successors and assigns thereof, together with all of the present and former directors, officers, agents and employees of any of the foregoing, from any and all known claims, demands or causes of action of any kind, nature or description, whether arising at law or in equity or upon contract or tort or under any state or federal law or otherwise, which the Borrower has had, now has or may claim to have against any such Person for or by reason of any act, omission, matter, cause or thing whatsoever arising from the beginning of time to and including the date of this Amendment, whether such claims, demands and causes of action are matured or unmatured.
+
+          Section 9. Costs and Expenses. The Borrower hereby reaffirms its agreement under Section 15.1 of the Credit Agreement to pay or reimburse the Administrative Agent and the Syndication Parties on demand for all costs and expenses incurred by the Administrative Agent and the Syndication Parties in their employment of counsel. Without limiting the generality of the foregoing, the Borrower specifically agrees to pay all fees and disbursements of counsel to the Administrative Agent for the services performed by such counsel in connection with the preparation of this Amendment and the documents and instruments incidental hereto.
+
+-7-
+
+
+
+
+
+ 
+
+
+
+
+
+          Section 10. Miscellaneous. Except as expressly set forth herein, all terms of the Credit Agreement and the other Loan Documents remain in full force and effect. This Amendment may be executed in any number of counterparts, each of which when so executed and delivered shall be deemed to be an original and all of which counterparts, taken together, shall constitute but one and the same instrument. This Amendment shall be governed by the internal laws of the State of Colorado.
+
+Signature page follows
+
+-8-
+
+
+
+
+
+ 
+
+
+
+
+
+     IN WITNESS WHEREOF, the undersigned have executed this Amendment as of the day and year first above written.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+NATIONAL COOPERATIVE REFINERY ASSOCIATION, as Borrower 
+
+ 
+
+ 
+
+By:  
+
+/s/ John G. Buehrle  
+
+ 
+
+ 
+
+ 
+
+Name:  
+
+John G. Buehrle 
+
+ 
+
+ 
+
+ 
+
+Title:  
+
+CFO 
+
+ 
+
+ 
+
+ 
+
+COBANK, ACB, as Administrative Agent and
+
+as a Syndication Party 
+
+ 
+
+ 
+
+By:  
+
+/s/ Michael Tousignant  
+
+ 
+
+ 
+
+ 
+
+Name:  
+
+Michael Tousignant 
+
+ 
+
+ 
+
+ 
+
+Title:  
+
+Vice President 
+
+ 
+
+ 
+
+ 
+
+U.S. AGBANK, FCB, as a Syndication Party 
+
+ 
+
+ 
+
+By:  
+
+/s/ Travis W. Ball  
+
+ 
+
+ 
+
+ 
+
+Name:  
+
+Travis W. Ball 
+
+ 
+
+ 
+
+ 
+
+Title:  
+
+Vice President 
+
+ 
+
+ 
+
+Signature Page to Seventh Amendment to 2003 Amended and Restated
+
+Credit Agreement (2-Year Revolving Loan)
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+Exhibit 1.21 to Amendment
+
+EXHIBIT 1.21
+
+TO 2003 AMENDED AND RESTATED CREDIT AGREEMENT
+
+COMPLIANCE CERTIFICATE
+
+National Cooperative Refinery Association
+
+CoBank, ACB
+
+5500 South Quebec Street
+
+Greenwood Village, Colorado 801 11
+
+ATTN: Administrative Agent, National Cooperative Refinery Association Loan
+
+Gentlemen:
+
+     As required by Subsections 10.2.1 and 10.2.2 of that certain 2003 Amended and Restated Credit Agreement dated as of December 16, 2003 (as amended, restated, supplemented or otherwise modified from time to time, the “Credit Agreement”), by and among National Cooperative Refinery Association (the “Company”), the “Syndication Parties” as defined therein and CoBank, ACB, in its capacity as administrative agent for the Syndication Parties, a review of the activities of the Company for the [Fiscal Quarter] [Fiscal Year] ending                     , 200___ (the “Fiscal Period”) has been made under my supervision with a view to determine whether the Company has kept, observed, performed and fulfilled all of its obligations under the Credit Agreement and all other agreements and undertakings contemplated thereby. To the best of my knowledge, and based upon such review, I certify, in my capacity as [Chief Financial Officer] OR [corporate treasurer] of the Company, that no event has occurred which constitutes, or which with the passage of time or service of notice, or both, would constitute, an Event of Default or a Potential Default as defined in the Credit Agreement.
+
+     I further certify that (a) to the best of my knowledge the amounts set forth on the attachment accurately present amounts required to be calculated in accordance with the financial covenants contained in the Credit Agreement as of the last day of the Fiscal Period (unless expressly specified herein); and (b) also attached as Schedule A are detailed calculations showing how such amounts were determined. All capitalized terms used but not defined herein have the meanings given in the Credit Agreement.
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Very truly yours,
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+National Cooperative Refinery Association
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+ 
+
+Chief Financial Officer/Treasurer
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+Capitalized terms used herein shall have the definitions set forth in the Credit Agreement.
+
+SUBSECTION 10.16.1: DEBT TO EBITDA RATIO
+
+
+
+ 
+
+ 
+
+ 
+
+Test:
+
+ 
+
+Measured over the immediately preceding four (4) Fiscal Quarters: (a) Debt divided by (b) EBITDA.
+
+ 
+
+ 
+
+ 
+
+Target:
+
+ 
+
+Not in excess of 3.00 to 1.00 at any time.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Debt to EBITDA Ratio (Actual)
+
+As of Fiscal Quarter ended                     :                           
+
+SUBSECTION 10.16.2: MINIMUM NET WORTH
+
+
+
+ 
+
+ 
+
+ 
+
+Test:
+
+ 
+
+Measured at the end of each Fiscal Quarter, Net Worth.
+
+ 
+
+ 
+
+ 
+
+Target:
+
+ 
+
+Not less than $600,000,000.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Net Worth
+
+As of Fiscal Quarter ended                     :       $                    
+
+SUBSECTION 10.16.3: INTEREST COVERAGE RATIO
+
+
+
+ 
+
+ 
+
+ 
+
+Test:
+
+ 
+
+Measured over the immediately preceding four (4) Fiscal Quarters: (a) EBIT divided by (b) Interest Expense.
+
+ 
+
+ 
+
+ 
+
+Target:
+
+ 
+
+Not less than 4.00 to 1.00 as of the last day of each Fiscal Quarter.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Interest Coverage Ratio (actual)
+
+As of Fiscal Quarter ended                     :                           
+
+SUBSECTION 10.16.4: MINIMUM WORKING CAPITAL
+
+
+
+ 
+
+ 
+
+ 
+
+Test:
+
+ 
+
+Current assets minus current liabilities.
+
+ 
+
+ 
+
+ 
+
+Target:
+
+ 
+
+Not less than $75,000,000 as of the last day of each Fiscal Quarter for each Fiscal Year
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Current assets minus current liabilities (Actual)
+
+As of Fiscal Quarter ended                     :       $                    
+
+-2-
+
+
+
+
+
+ 
+
+
+
+
+
+SCHEDULE A
+
+DETAILED CALCULATIONS
+
+DEBT TO EBITDA (000’s)
+
+Debt (current measurement period)
+
+Current Portion Long Term Debt
+
+Capital Leases
+
+364-Day Facility
+
+Other
+
+          Total Debt
+
+EBITDA (rolling 4 quarters)
+
+Net Income
+
+Interest Expense
+
+Federal and State Income Taxes
+
+Extraordinary Losses
+
+Depreciation
+
+Amortization
+
+Less:
+
+Extraordinary Gains
+
+Non-cash Patronage Income
+
+          Total EBITDA
+
+                    Debt to EBITDA Ratio
+
+                    Maximum Ratio Permitted 3.00 to 1.00
+
+MINIMUM NET WORTH (000’s)
+
+Total Assets
+
+Less Total Liabilities
+
+          Net Worth
+
+INTEREST COVERAGE RATIO (000’s)
+
+EBIT (rolling 4 quarters)
+
+Net Income
+
+Interest Expense
+
+Federal and State Income Taxes
+
+Extraordinary Losses
+
+Less:
+
+Extraordinary Gains
+
+Non-cash Patronage Income
+
+          Total EBIT
+
+Interest Expense (rolling 4 quarters)
+
+                    EBIT to Interest
+
+                    Minimum Ratio Permitted 4.00 to 1.00
+
+WORKING CAPITAL
+
+Current Assets
+
+Less Current Liabilities
+
+          Working Capital
+
+-3-
+
+
+
+
+
+ 
+
+
+
+
+
+Exhibit 1.76 to Amendment
+
+EXHIBIT 1.76
+
+TO 2003 AMENDED AND RESTATED CREDIT AGREEMENT
+
+SUBSIDIARIES
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Kaw Pipe Line Company
+
+ 
+
+ 
+
+66.667
+
+%
+
+Osage Pipeline Company, LLC
+
+ 
+
+ 
+
+50.00
+
+%
+
+Jayhawk Pipeline, L.L.C.
+
+ 
+
+ 
+
+100
+
+%
+
+McPherson Agricultural Products, LLC
+
+ 
+
+ 
+
+100
+
+%
+
+Ex. 1.76
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+Exhibit 8.11 to Amendment
+
+EXHIBIT 8.11
+
+TO 2003 AMENDED AND RESTATED CREDIT AGREEMENT
+
+EQUITY INVESTMENTS
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Subsidiary
+
+ 
+
+Investment
+
+1.
+
+ 
+
+Jayhawk Pipeline, L.L.C.
+
+ 
+
+$
+
+35,453,202
+
+ 
+
+2.
+
+ 
+
+Kaw Pipe Line Company
+
+ 
+
+$
+
+1,863,117
+
+ 
+
+3.
+
+ 
+
+Osage Pipeline Company, LLC
+
+ 
+
+$
+
+4,072,685
+
+ 
+
+4.
+
+ 
+
+McPherson Agricultural Products, LLC
+
+ 
+
+$
+
+(4,230,554
+
+)
+
+Ex. 8.11

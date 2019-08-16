@@ -1,0 +1,1319 @@
+Exhibit 10.1
+
+
+
+*Confidential treatment has been requested as to certain portions of this exhibit pursuant to Rule 24b-2 under the Securities Exchange Act of 1934, as amended.
+
+ 
+
+ 
+
+
+
+
+
+CO-PROMOTION AGREEMENT
+
+
+
+THIS CO-PROMOTION AGREEMENT (“Agreement”), entered into as of this 7th day of January 2010, is by and between GALDERMA LABORATORIES, L.P., a Texas limited partnership, having as its principal place of business at 14501 North Freeway, Fort Worth, Texas 76177 (“PhotoMedex”), and PHOTOMEDEX, INC., a Delaware corporation, having as its principal place of business 147 Keystone Drive, Montgomeryville, PA 18936 (“PhotoMedex”) (each a “party”, collectively “parties”).
+
+
+
+WHEREAS, Galderma has exclusive rights to market, sell and distribute the Product (as defined below) in the Territory (as defined below);
+
+
+
+WHEREAS, PhotoMedex is engaged in the business of and has specialized expertise and capabilities in, among other things, the promotion of procedural products and services to physicians; and
+
+
+
+WHEREAS, Galderma and PhotoMedex desire to work together to promote the Product upon the terms and conditions set forth herein.
+
+
+
+NOW, THEREFORE, in consideration of the mutual covenants and agreements set forth in this Agreement, and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto agree as follows:
+
+
+
+1.0 DEFINITIONS.  Capitalized terms used herein without definition shall have the meanings specified in this Section 1.0 (such definitions to be equally applicable to both the singular and plural forms of the terms defined).  Unless otherwise specified, all references in this Agreement to “Sections” are to Sections of this Agreement.
+
+
+
+1.1 “Act” shall mean the United States Federal Food, Drug and Cosmetic Act, as it may be amended from time to time.
+
+
+
+1.2 “Affiliate(s)” shall mean any person or entity directly or indirectly, controlling, controlled by or under common control and/or ownership with Galderma or PhotoMedex. Ownership or control for purposes of this Section 1.2 shall mean (a) in the case of corporate entities, direct or indirect ownership of at least fifty percent (50%) of the stock having the right to vote for the election of directors and (b) in the case of non-corporate entities, direct or indirect ownership of the equity interest necessary to direct the management and policies of such non-corporate entities.  As to Galderma, as of the Effective Date, “Affiliate” shall specifically include, but is not limited to, Galderma S.A., Galderma Pharma S.A., Nestlé S.A. and L’Oréal S.A.
+
+
+
+1.3 “Applicable Laws and Regulations” shall mean all applicable federal, state and local laws, regulations, rules or guidelines that govern the services and transactions contemplated by this Agreement, including without limitation the Act, as the same may be amended from time to time.
+
+
+
+1.4 “Commercially Reasonable Efforts” shall mean efforts and resources normally used by a party for a product owned by it or to which it has rights, which is of similar market potential at a similar stage in its development or product life, taking into account issues of safety, efficacy, product profile, the competitiveness of the marketplace, the proprietary position of the product, the regulatory structure involved, the profitability of the applicable products, and other relevant commercial factors.
+
+
+
+1.5 “Quarterly Report” shall mean a report, similar in substance and format to the attached Schedule 1, which sets forth PhotoMedex’s efforts in promoting and marketing the Product during the preceding calendar quarter (or any portion thereof) and includes at a minimum: (i) the number of Product Calls, the name, address, and specialty of each healthcare professional upon whom the Product Call was made, and a breakdown of First Position Details and Second Position Details made and recorded
+
+
+
+
+
+ 
+
+ 
+
+
+
+ 
+
+
+
+ based on data recorded by the PDT Sales Force, as defined in 3.3; (ii) such other information as may be reasonably required in the then-current Marketing Plan; (iii) sales strategies; (iv) market and sales target analysis; (v) sales force deployment; (vi) forecast vs. plan comparison; and (vii) such other information as mutually agreed upon by the parties.
+
+
+
+1.6 “Effective Date” shall mean January 1, 2010.
+
+
+
+1.7 “FDA” shall mean the United States Food and Drug Administration or any successor entity thereto.
+
+
+
+1.8 “First Position Detail” shall mean a Product Call in which the promotional message involving the Product is presented first and is a principal topic of discussion during the Product Call, with an emphasis on the Product comparable to PhotoMedex’s current practices for internal and other external product(s) in the first position.
+
+
+
+1.9 “Generic Version” shall mean a drug product that the FDA has approved under an Abbreviated New Drug Application or “505(b)(2) application” according to the provisions of the Act, or subsequently enacted amendments to such provisions, where the approved drug product was found by the FDA to be therapeutically equivalent to the Product.
+
+
+
+1.10 “Good Manufacturing Practices” shall mean the current standards for manufacture, as set forth in the Act and applicable regulations and guidelines promulgated thereunder or successors thereto, as shall be in effect from time to time during the Term.
+
+
+
+1.11 “Improvement” shall mean any other strengths or regimens of Metvixia® (methyl aminolevulinate) Cream, 16.8% that has at least one indication for the treatment of non-hyperkeratotic actinic keratoses and developed by Galderma or a third party, which is not covered by the regulatory filings in the Territory.
+
+
+
+1.12 “Ineligible Person” means a person who is currently excluded, debarred, suspended or otherwise ineligible to participate in the U.S. federal health care programs or in a U.S. federal procurement or non-procurement programs, or has been convicted of a criminal offense that falls within the ambit of 42 U.S.C. 1320a-7(a), but has not yet been excluded, debarred, suspended or otherwise declared ineligible.
+
+
+
+1.13 “Marketing Materials” shall have the meaning ascribed to it in Section 4.3.
+
+
+
+1.14 “Marketing Plan” shall mean PhotoMedex’s annual calendar plan, similar in substance and format to the attached Schedule 2, for the promotion, marketing and sale of the Product.  The Marketing Plan shall set forth the manner in which the Product is to be promoted and marketed during the period to which the Marketing Plan relates and shall include, at a minimum: (a) the number of estimated annual Product Calls and First and Second Position Details to be provided by PhotoMedex, which shall meet or exceed the requirements set forth in Section 3.5; (b) any training programs to be conducted; and (c) such other information relating to the marketing of the Product as deemed advisable by the Steering Committee or otherwise agreed upon by the parties.
+
+
+
+1.15 “Net Sales” shall mean the gross sales invoiced by Galderma for Sales of the Product in the Territory, less the following: (a) customary quantity, trade, and/or early payment discount, allowances, chargebacks, rebates, and price adjustments or reductions allowed or given; (b) actual credits, rebates, or Product returned or destroyed by customers; and (c) sales and other excise taxes and duties directly related to the sale, to the extent included in the gross invoiced amount and separately itemized on the invoice, all applied in accordance with IFRS.  For purposes of clarity, any Product delivered to a third party without charge or any Product used in any new clinical or marketing-initiated trial supported by Galderma without charge to the user shall not be included in Net Sales.  See Schedule 3 for Net Sales formula.
+
+
+
+1.16 “Non-Serious Adverse Event” shall mean any adverse drug experience associated with the use of the Product in humans, whether or not considered drug-related, which is not a Serious Adverse Event.
+
+
+
+
+
+ 
+
+ 
+
+
+
+ 
+
+
+
+1.17 “Product” shall mean any and all presentations of Galderma’s Metvixia® (methyl aminolevulinate) Cream, 16.8% (“Metvixia”), and Aktilite® CL128 lamp including all Improvements as defined in Section 1.11, as packaged and labeled in accordance with Applicable Laws and Regulations and New Drug Application #021415 (“NDA”).
+
+
+
+1.18 “Product Calls” shall mean face-to-face contacts by the PhotoMedex Sales Force with the Target Group during which time the promotional message involving the Product is presented in the first or second position and is a principal topic of discussion and, in each case, the promotional message is substantially completed.
+
+
+
+1.19 “Renewal Term” shall have the meaning ascribed to it in Section 6.0.
+
+
+
+1.20 “Sales” shall mean the total of all sales of the Product to third parties by Galderma and/or its Affiliate(s) in the Territory at list price, not reduced by discounts, allowances, rebates, returns or other adjustments.
+
+
+
+1.21 “Second Position Detail” shall mean Product Calls in which the promotional message involving the Product is presented second, with an emphasis on the Product comparable to PhotoMedex’s current practices for internal or other external product(s) in the second position.
+
+
+
+1.22 “Serious Adverse Event” shall mean any serious and unexpected adverse drug experience, as defined by FDA in 21 C.F.R. Section 314.80, Section 312.32, or any successor regulation(s) associated with the use of the Product in humans, whether or not considered drug-related.
+
+
+
+1.23 “Target Group” shall mean certain healthcare professionals (including but not limited to dermatologists, plastic surgeons, cosmetic surgeons, and general practitioners) practicing Photodynamic Therapy in the Territory as identified by Galderma and PhotoMedex on an ongoing basis.
+
+
+
+1.24 “Technical Complaint” shall mean any complaint that questions the purity, identity, potency or quality of the Product, its packaging or labeling or the compliance of any batch of the Product with Applicable Laws and Regulations and current Good Manufacturing Practices; any complaint that concerns any incident that causes the Product or its labeling to be mistaken for, or applied to, another article; any bacteriological contamination or significant chemical, physical or other change or deterioration in the Product; any failure of one or more batches of the Product to meet the specifications therefore in the NDA; or any complaint or evidence of tampering with the Product.
+
+
+
+1.25 “Term” shall have the meaning ascribed to it in Section 6.0.
+
+
+
+1.26 “Territory” shall mean the United States of America, including the District of Columbia, its possessions and territories.
+
+
+
+1.27 “PhotoMedex Promotional Activities” shall have the meaning ascribed to it in Section 3.1.
+
+
+
+1.28  “PhotoMedex Sales Force” or “PDT Sales Force” shall mean the sales representatives employed or contracted by PhotoMedex to promote the Product to the Target Group in the Territory throughout the Term and any Renewal Term.
+
+
+
+2.0 GRANTS OF RIGHTS.  Galderma hereby grants to PhotoMedex, on a co-exclusive basis (together with Galderma and its Affiliates), the right to promote the Product in the Territory during the Term and any Renewal Term (or any part thereof) upon and subject to the terms and conditions set forth in this Agreement.
+
+ 
+
+ 
+
+3.0 RESPONSIBILITIES OF PHOTOMEDEX.
+
+ 
+
+ 3.1 Product Promotion.  PhotoMedex shall use Commercially Reasonable Efforts to market and promote the Product in the Territory to the Target Group and other healthcare professionals (the “PhotoMedex Promotional Activities”) in accordance with the then-current Marketing Plan and the other terms and conditions set forth in this Agreement.
+
+ 
+
+ 
+
+
+
+
+
+ 3.2 Employees.  PhotoMedex shall, and shall cause its employees to, comply with all regulatory, professional and legal requirements, including, without limitation, the FDA’s regulations and guidelines concerning the advertising of prescription drug products, the Prescription Drug Marketing Act and any and all promotional or compliance policies, rules and regulations applicable to PhotoMedex employees, including PhotoMedex’s internal promotional guidelines, which may be applicable to the PhotoMedex Promotional Activities.  PhotoMedex will timely provide a true and correct copy of such internal promotional guidelines to Galderma, and shall promptly provide to Galderma copies of any amendments, revisions or restatements to the same.  No employee of PhotoMedex shall knowingly make any representation, statement, warranty or guaranty with respect to the Product that is not consistent with current labeling of the Product or approved Marketing Materials, deceptive or misleading, or that disparages the Product or the good name, goodwill and reputation of Galderma. PhotoMedex shall use Commercially Reasonable Efforts to ensure that the PhotoMedex Promotional Activities will be provided in a professional, ethical and competent manner.  During the Term and any Renewal Term, PhotoMedex will use Commercially Reasonable Efforts to not hire or employ an Ineligible Person as either an employee or contractor to PhotoMedex to promote the Product as contemplated under this Agreement.
+
+
+
+ 3.3 Minimum Sales Force. PhotoMedex agrees that from and after the Effective Date it will maintain in the Territory a well-trained sales force, consisting of full-time sales representatives focused on promoting the Product in accordance with the then current Marketing Plan to the Target Group (“PDT Sales Force”). Throughout the remainder of the Term or Renewal Term(s), PhotoMedex shall use Commercially Reasonable Efforts to ensure that the number of sales representatives comprising the PDT Sales Force meets the requirements necessary to meet the minimum Product Calls.  Before initiating any Product Calls, PhotoMedex will have a well-trained sales force consisting of not less than 30 full-time sales representatives, 5 full-time managers, 2 full-time field trainers, and 5 tele-marketing representatives. PhotoMedex will expand the sales force as necessary to meet market demand based upon the initial market acceptance of the Product and the Steering Committee’s mutually agreeable recommendation.
+
+
+
+ 3.4 Training.
+
+
+
+3.4.1  
+
+Training Costs.  Except as otherwise agreed by the parties herein, Galderma shall be responsible for the costs and expenses related to training the PDT Sales Force, except that PhotoMedex shall be responsible for lodging, transportation, and other associated costs (including but not limited to costs of airfare, ground transportation, and food and beverage) related to training the PDT Sales Force.  Notwithstanding the foregoing, Galderma agrees to pay PhotoMedex up to $10,000.00 for the incremental costs incurred by Photomedex for the additional lodging of the PDT Sales Force during training.
+
+
+
+3.4.2  
+
+Prior Review and Approval.  To the extent practicable, all formal written, electronic and visual communications provided to the PDT Sales Force regarding training, strategy, positioning or selling messages for the Product will be subject to prior review and timely approval through Galderma’s promotional review approval process.
+
+
+
+ 3.5 Minimum Requirements.
+
+
+
+3.5.1  
+
+Product Calls.  PhotoMedex guarantees that a minimum of [**](pro-rated for any partial calendar years) Product Calls shall be made by the PDT Sales Force on the Targets Group during each calendar year. The PDT Sales Force shall promote the Product on every Product Call to an applicable healthcare professional.
+
+
+
+3.5.2  
+
+Product Position.  Subject to any changes made by the Steering Committee, the PDT Sales Force shall promote the Product in First Position Detail with respect to the Target Group.  For all other Product Calls on applicable healthcare professionals the PDT Sales Force shall promote the Product in Second Position Detail.
+
+
+
+ 3.6 Data Collection and Reporting Systems.  As soon as practicable, PhotoMedex will, at no expense to Galderma, establish and maintain during the Term and any Renewal Term, true and
+
+
+
+
+
+ 
+
+ 
+
+
+
+ 
+
+
+
+
+
+accurate data collection and reporting systems for Product Calls, the name, address, and specialty of each healthcare professional upon whom the Product Call was made with First Position Details, Second Position Details, and Product samples distributed to the Target Group.
+
+
+
+ 3.7 Quarterly Report.  PhotoMedex shall provide Galderma with a Quarterly Report within thirty (30) calendar days after the end of each calendar quarter (or any portion thereof) during the Term and any Renewal Term.  Each such Quarterly   Report shall measure compliance with the minimum requirements set forth in Section 3.5 above and be provided to Galderma in a format similar to the attached Schedule 1.
+
+
+
+ 3.8 Marketing Plan.  On January 1 of each calendar year, PhotoMedex shall provide to Galderma during the Term and any Renewal Term a Marketing Plan as defined in Section 1.15.
+
+
+
+ 3.9 Sales Projection Report. PhotoMedex shall provide to Galderma a twelve (12) month rolling sales forecast for the Product updated on a quarterly basis. This Sales Projection Report shall be due with the Quarterly Report.
+
+
+
+ 3.10 Compliance with Laws.  In connection with the PhotoMedex Promotional Activities and Product Calls and all other activities under this Agreement, PhotoMedex will use all reasonable commercial efforts to comply and will cause each of its employees to comply with all Applicable Laws and Regulations as well as all Galderma policies, SOPs, and guidelines related to the promotion of the Product in the Territory.
+
+
+
+ 3.11 Clinical Studies.  PhotoMedex shall not initiate or conduct any clinical or non-clinical studies for the Product, including, without limitation, Phase IV or investigator-sponsored trials, without the prior written consent of Galderma.
+
+
+
+ 3.12 Non-Competition.  During the Term, any Renewal Term and for a one-year period following termination of this Agreement, PhotoMedex will not, and will cause its Affiliates not to, directly or indirectly in the Territory, promote any branded non-generic drug indicated for, or routinely prescribed for, the PDT treatment of non-hyperkeratotic actinic keratoses. The parties recognize that the restrictions contained in, and the terms of, this Section 3.12 are properly required for the adequate protection of Galderma’s rights hereunder and the goodwill associated with the Product, and agree that if any provision in this Section 3.12 is determined by any court to be unenforceable by reason of its extending for too great a period of time or over too great a geographic area, or by reason of its being too extensive in any other respect, such covenant shall be interpreted to extend only for the longest period of time and over the greatest geographic area, and to otherwise have the broadest application as shall be enforceable.
+
+
+
+ 3.13 Incentive Plan.  PhotoMedex will establish and maintain, at PhotoMedex’s expense, throughout the Term and any Renewal Term, an incentive plan for the PhotoMedex Sales Force. Such incentive plan shall be disclosed in advance in writing to the Steering Committee.
+
+ 
+
+ 
+
+4.0  
+
+RESPONSIBILITIES OF GALDERMA.
+
+
+
+ 4.1 Sales Report.  Galderma shall provide PhotoMedex with a report, similar to the attached Schedule 3, (a “Sales Report”) within thirty (30) days after the end of each month (or any portion thereof) during the Term and any Renewal Term setting forth the information in Schedule 3 in the Territory for such month (or any portion thereof).  Each such Sales Report shall be provided to PhotoMedex in such format as mutually agreed upon and shall be deemed to be Confidential Information for purposes of Section 13.0.
+
+
+
+
+
+ 
+
+ 
+
+
+
+ 
+
+
+
+
+
+ 4.2 Training.  Galderma shall be responsible for developing and conducting the initial Product training program for the PDT Sales Force in January 2010 in Grapevine, Texas. Further Product training shall be carried out at a time and location which is mutually acceptable to the parties including the training for additional members added to the PDT Sales Force. PhotoMedex shall participate in conducting Product training to the extent requested by Galderma and mutually agreed by the Steering Committee. As between the parties hereto and except as expressly provided otherwise in this Agreement, Galderma shall own all right, title and interest in Product training materials developed hereunder. Prior to conducting a Product Call, each member of the PDT Sales Force shall complete home study training materials provided by Galderma.
+
+
+
+Galderma shall have the right to attend PhotoMedex meetings related to the Product.  The costs of all PhotoMedex meetings shall be borne by PhotoMedex. The costs of transporting, housing and maintaining Galderma personnel shall be borne by Galderma.
+
+
+
+ 4.3 Marketing Materials.  All sales, promotion and advertising materials, regardless of form specifically relating to the Product and the Target Group (“Marketing Materials”), shall be developed by Galderma. As between the parties hereto and except as expressly provided otherwise in this Agreement, Galderma shall own all right, title and interest in all Marketing Materials. Any materials created by or on behalf of PhotoMedex used in promotion of the Product must be approved in advance by Galderma.
+
+
+
+ 4.4 Samples.  The Steering Committee shall determine the appropriate quantities and Galderma shall use Commercially Reasonable Efforts to make available to PhotoMedex sufficient quantities of trade size samples of Metvixia.  Galderma shall provide samples at no cost to PhotoMedex and Galderma shall control the distribution of samples in accordance with the Prescription Drug Marketing Act.
+
+
+
+ 4.5 Government Reporting.  Galderma shall be solely responsible for compliance with all federal, state and local government pricing reporting and payment obligations related to the Product.
+
+
+
+ 4.6 Insurance Reimbursement.  Galderma shall use commercially reasonable efforts to obtain specific insurance codes necessary to establish reimbursement for Metvixia.
+
+
+
+ 4.7 Generic Version.  Galderma has the continuing obligation to disclose to PhotoMedex any and all knowledge it may possess on the possible introduction of any Generic Version of the Product.
+
+
+
+
+
+ 
+
+ 
+
+
+
+ 
+
+
+
+
+
+5.0 COMPENSATION & MINIMUM SALES.
+
+
+
+    5.1  
+
+Fee For Services.  During the Term and any Renewal Term, Galderma shall pay to PhotoMedex a fee for services based on Net Sales of the Product to healthcare professionals.
+
+
+
+For tubes of Metvixia sold minus returns, PhotoMedex will receive:
+
+
+
+Years 1-3
+
+
+
+·  
+
+[**]of annual Metvixia Net Sales less than [**]
+
+
+
+·  
+
+[**]of annual Metvixia Net Sales between [**]and [**]
+
+
+
+·  
+
+[**]of annual Metvixia Net Sales greater than [**]
+
+ 
+
+ 
+
+Year 4 and Beyond
+
+·  
+
+[**]of annual Metvixia Net Sales less than [**]
+
+
+
+·  
+
+[**]of annual Metvixia Net Sales between [**]and [**]
+
+
+
+·  
+
+[**]of annual Metvixia Net Sales greater than [**]
+
+
+
+Such payments shall be based on the Sales Report, and with each such report, Galderma shall remit to PhotoMedex the amount of compensation due and supporting documentation.  Galderma will pay PhotoMedex within thirty (30) days after the end of each month (or any portion thereof) during the Term and any Renewal Term for Metvixia Net Sales.
+
+
+
+For each Aktilite® CL128 lamp sold minus returns, Galderma will pay to PhotoMedex [**]within thirty (30) days after the end of each month (or any portion thereof) during the Term and any Renewal Term.
+
+
+
+ 
+
+5.2  
+
+Minimum Unit Sales. PhotoMedex shall meet the following net unit sales of  Metvixia (actual sales minus returns) during the Term of the Agreement:
+
+
+
+ Q1                Q2                Q3                Q4                            Total
+
+
+
+2010                    [**]              [**]              [**]              [**]                            [**]
+
+
+
+2011                    [**]              [**]              [**]              [**]                            [**]
+
+
+
+2012                    [**]              [**]              [**]              [**]                            [**]
+
+
+
+ 
+
+ 
+
+6.0 TERM AND TERMINATION.  The term of this Agreement (the “Term”) shall commence as of the Effective Date hereof and shall continue for three (3) years.  Thereafter, this Agreement shall automatically renew for one-year terms (“Renewal Term(s)”) unless notice of non-renewal is provide in writing by either Galderma or PhotoMedex at least one hundred twenty (120) days prior to the expiration of the Term or Renewal Term.  Notwithstanding the foregoing, this Agreement may be terminated as follows:
+
+
+
+6.1    
+
+By either party upon ninety (90) days prior written notice in the event of a sale or change in ownership or change in control over the voting shares or assets of the other party or its direct or indirect parent(s) occurs or is scheduled to occur.  Should the sale, change in ownership or change in control not close within such 90-day period, any termination notice provided pursuant to this Section 6.1 shall be rendered null and void and this Agreement shall be reinstated as though such notice had never been given.
+
+
+
+ 
+
+ 6.2    
+
+By Galderma, at any time upon written notice to PhotoMedex, if PhotoMedex materially breaches any of its representations, warranties, covenants or agreements set forth in this Agreement or otherwise materially defaults in the performance of any of its duties or obligations under this Agreement, if such breach or default is not cured within sixty (60) days after written notice is given to PhotoMedex specifying the breach or default.  For the avoidance of doubt and without limiting the universe of possible circumstances that could constitute such a material breach or default, failure by PhotoMedex to meet [**]percent ([**]%) of its obligations with
+
+
+
+
+
+ 
+
+ 
+
+
+
+ 
+
+
+
+respect to Product Calls as set forth in Section 3.5 hereof shall be deemed to be a material breach of this Agreement.
+
+
+
+6.3    
+
+To the extent permitted by law, by Galderma immediately upon notice to PhotoMedex if PhotoMedex shall become insolvent, file or consent to the filing of a petition under any bankruptcy or insolvency law or have any such petition filed against it which has not been stayed within sixty (60) days of such filing or have a receiver appointed over any of PhotoMedex’s property or assets.
+
+
+
+6.4    
+
+By PhotoMedex, at any time upon written notice to Galderma if Galderma materially breaches any of its representations, warranties, covenants or agreements set forth in this Agreement or otherwise materially defaults in the performance of any of its duties or obligations under this Agreement, if such breach or default is not be cured within sixty (60) days after written notice is given to Galderma specifying the breach or default.  For the avoidance of doubt and without limiting the universe of possible circumstances that could constitute such a material breach or default, non-timely payment by Galderma to PhotoMedex shall be considered a material breach and the cure period for such breach shall be twenty (20) days.
+
+
+
+ 
+
+6.5    
+
+To the extent permitted by law, by PhotoMedex immediately upon notice to Galderma if Galderma shall become insolvent, file or consent to the filing of a petition under any bankruptcy or insolvency law or have any such petition filed against it which has not been stayed within sixty (60) days of such filing or have a receiver appointed over any of Galderma’s property or assets.
+
+
+
+ 
+
+6.6	
+
+By Galderma upon four (4) months prior written notice if, after the twelve (12) months following January 1, 2010, Net Sales of Metvixia do not meet or exceed the Minimum Net Sales set forth in Section 5.2 for any two (2) consecutive calendar quarters.  For purposes of this provision, Net Sales in Q1 and Q2 of 2010 shall not be considered by Galderma as a basis for termination under this paragraph.
+
+
+
+ 
+
+6.7	
+
+Subject to Section 4.7, by either party upon sixty (60) days written notice following the first commercial sale of a Generic Version of the Product in the Territory.
+
+
+
+ 
+
+6.8	
+
+By either party at any time upon written notice if either party is indicted by the Office of Inspector General, Department of Justice or any other governmental entity regarding the marketing or selling of the Product or any other products or services.
+
+
+
+ 
+
+6.9	
+
+By Galderma at any time upon written notice if the FDA withdraws or terminates the NDA.
+
+
+
+ 
+
+6.10  
+
+By either party at any time upon written notice, in the event that Galderma’s supplier is no longer current Good Manufacturing Practices authorized, provided Galderma has taken necessary steps to resolve the issue and those steps prove unsuccessful.
+
+ 
+
+ 
+
+7.0 ACTIONS UPON TERMINATION.  Upon the termination or expiration of this Agreement for any reason, PhotoMedex shall immediately cease all of its promotional and marketing activities for the Product, discontinue any use of Galderma Trademarks (as defined in Section 4) and Product Trademarks (as defined in Section 5) and return to Galderma or destroy all sales materials, training materials, Marketing Materials and Product samples.  After any termination Galderma shall retain the right to use any sales training and Marketing Materials developed during the term of this Agreement.  Following the receipt by Galderma of any notice of intention to terminate this Agreement from PhotoMedex, Galderma may immediately commence negotiations with third parties with respect to service agreements regarding the Product, without notice to PhotoMedex, and may in Galderma’s sole discretion elect to accelerate the termination date of this Agreement and enter into any other service agreements regarding the Product contemporaneously with such termination.  In the event Galderma accelerates termination, PhotoMedex will be paid under Section 5.1 for the entire applicable notice period at the rates then in effect.  Except as expressly provided herein, Sections 3.10, 4.5, 5.0, 7.0, 9.5, 13.0, 14.0, 15.0, 16.2, 19.0, 20.0, 21.0, 22.0, and 23.0, and any accrued rights to payment (including under Section 5.0) shall survive any termination of this Agreement, as well as any other provisions which by their nature are intended to survive expiration or early termination.
+
+
+
+
+
+ 
+
+ 
+
+
+
+ 
+
+
+
+8.0 MANUFACTURE, SHIPMENT, ETC. OF THE PRODUCT.
+
+
+
+ 8.1  Galderma shall have the sole responsibility for the sale, manufacture, customer warranties, shipment, distribution, warehousing, billing, and order confirmation of the Product, for the collection of receivables resulting from sales of the Product in the Territory, and for recording of Product sales in its books of account.  If for any reason PhotoMedex receives orders for Products, PhotoMedex shall forward such orders to Galderma as soon as practicable.
+
+
+
+ 8.2  Galderma shall manufacture, ship, distribute and warehouse, or cause to be manufactured, shipped, distributed and warehoused the Product in accordance with Applicable Laws and Regulations, the NDA and Good Manufacturing Practices. Galderma shall use Commercially Reasonable Efforts to ensure that adequate quantities of the Product are available to meet the anticipated demand for the Product during the Term or any Renewal Term.  Galderma shall promptly notify PhotoMedex, in writing, of any material shortage in supply occurring at the distribution, wholesale and/or retail level during the Term, and any actions Galderma intends to take to correct same. Galderma will grant relief to PhotoMedex for its obligation in Section 5.2 for the quarter in which any material shortage occurs.
+
+
+
+ 8.3  If Product supply is interrupted (other than for reasons outside of Galderma’s control, any Force Majeure Event (as defined in Section 24.0 below) or any action or inaction by PhotoMedex constituting a breach of the provisions of this Agreement or a violation of Applicable Laws and Regulations) so as to prevent for two (2) calendar months or more the filling of orders essential to meet the demand of the Target Group and other healthcare professionals representing twenty-five percent (25%) or more of overall demand for the Product (based on net unit sales of Metvixia and/or the Aktilite® CL128 lamp from the past two (2) calendar quarters), then as compensation to PhotoMedex, Galderma shall pay to PhotoMedex an amount equal to the average compensation paid to PhotoMedex in the previous one (1) calendar quarter in which there was no interruption, prorated based upon the number of days that the Product interruption continues, retroactive to the first day of the interruption, net of payments otherwise due and payable for Products supplied during the same period.  Payments shall revert to those otherwise payable to PhotoMedex under this Agreement at such time as the interruption is corrected.  In the event that market interruption lasts for more than one (1) month (including for reasons outside of Galderma’s control, which reasons shall include without limitation any quota in allowable supply imposed by any governmental or regulatory authority, any Force Majeure Event and any action or inaction by Galderma constituting a breach of the provisions of this Agreement or a violation of Applicable Laws and Regulations), PhotoMedex’s minimum obligations under Section 3.5 shall be suspended until such time as Galderma has resumed supply.  In the event that market interruption lasts for more than three (3) consecutive months (including for reasons outside of Galderma’s control, which reasons shall include without limitation any quota in allowable supply imposed by any governmental or regulatory authority, any Force Majeure Event and any action or inaction by Galderma constituting a breach of the provisions of this Agreement or a violation of Applicable Laws and Regulations), either party may terminate this Agreement upon written notice immediately thereafter to the other.
+
+
+
+ 8.4       If any quantities of the Product are returned to PhotoMedex, PhotoMedex shall immediately notify Galderma and ship them to the facility designated by Galderma, with any reasonable or authorized shipping or other documented direct cost to be paid by Galderma.  PhotoMedex, at its option, may advise the customer who made the return that the Products have been returned to Galderma, but shall take no other steps in respect of any return without the consent of Galderma.
+
+ 
+
+ 
+
+9.0  
+
+REGULATORY/TECHNICAL AFFAIRS.
+
+ 
+
+ 9.1 Licenses.  Each party hereto shall, at its sole cost and expense, maintain in full force and effect all necessary licenses, permits and other authorizations required by law, regulation, ordinance or statute to carry out its duties and obligations under this Agreement.  Notwithstanding the foregoing, Galderma shall have the sole responsibility, and shall bear all costs for, maintaining the NDA covering the Product and for maintaining all regulatory approvals needed to manufacture, distribute, market, use and/or sell the Product in the Territory.
+
+
+
+ 9.2 Communications with Governmental or Regulatory Authorities.  PhotoMedex shall not without the written consent of Galderma or unless so required by Applicable Law and Regulations (and then only pursuant to the terms of this Section 9.2), correspond or communicate with any governmental
+
+
+
+
+
+ 
+
+ 
+
+
+
+ 
+
+
+
+or regulatory authority, whether within the Territory or otherwise, concerning the Product or otherwise take any action concerning any authorization or permission under which the Product is sold or any application for the same. Furthermore, PhotoMedex shall, immediately upon receipt of any communication from any governmental or regulatory authority relating to the Product, forward a copy or description of the same to Galderma and respond to all inquiries by Galderma relating thereto.  If PhotoMedex is advised by legal counsel, or required by Applicable Laws or Regulations, to communicate with any governmental or regulatory authority, then PhotoMedex shall so advise Galderma immediately and, unless prohibited by Applicable Laws and Regulations, provide Galderma in advance with a copy of any proposed written communication with such governmental or regulatory authority and comply with any and all reasonable direction of Galderma concerning any meeting or written or oral communication with any governmental or regulatory authority.  Notwithstanding the foregoing, Galderma shall promptly provide PhotoMedex with copies of all communications received from any governmental or regulatory authority concerning the Product or any Marketing Materials and shall promptly submit to PhotoMedex copies of all communications and filings concerning the Product or any Marketing Materials made to any governmental or regulatory authority during the Term or any Renewal Term.
+
+
+
+ 9.3 Labeling and Marketing Materials.  Galderma shall be solely responsible for obtaining any necessary governmental or regulatory authority approvals of any labeling, package inserts, Product monographs, packaging for the Products and Marketing Materials, and for determining whether the same requires governmental or regulatory authority approval.  No Product labeling, package inserts, Product monographs, packaging for the Products or Marketing Materials may be used or distributed by PhotoMedex unless such labeling, package inserts, Product monographs, packaging for the Products or Marketing Materials have been approved in advance by Galderma.
+
+
+
+ 9.4 Efficacy and Safety Information.  Galderma shall furnish PhotoMedex with efficacy and safety information reasonably requested by PhotoMedex to assist PhotoMedex in promoting the Product, including without limitation relevant clinical and safety data included in the NDA for the Product and additional information, if any, related to the efficacy and safety profile of the Product since the Product’s approval by the FDA.
+
+
+
+ 9.5 Adverse Events.  PhotoMedex shall promptly notify Galderma of any known event(s) that materially affect(s) or could materially affect the marketing of the Product, including without limitation adverse drug reactions and governmental inquiries. Serious Adverse Events for the Product learned of by PhotoMedex shall be submitted in writing to Galderma within two (2) business days from the date of learning thereof by PhotoMedex. Non-Serious Adverse Events for the Product learned of by PhotoMedex shall be submitted in writing to Galderma no more than five (5) business days from the date of learning thereof by PhotoMedex.  As between the parties, Galderma shall have the sole responsibility for reporting and responding to such events to applicable Governmental or Regulatory Authorities.  Galderma is responsible for any additional follow-up with Governmental or Regulatory Authorities regarding any adverse event.  If, however, PhotoMedex receives additional information regarding the specific adverse event, the information will be forwarded to Galderma as per the above timeframes.  For all Serious Adverse Events and Non-Serious Adverse Events, PhotoMedex and its sales representatives shall not make any statement or give any opinion (written or verbal) to anyone that could be reasonably construed as an admission of fault on Galderma’s part or a promise that Galderma will compensate anyone. Responsibility for evaluation of adverse events and signal detection are to be with Galderma.
+
+
+
+ 9.6 Complaints.  If PhotoMedex becomes aware of any Technical Complaint concerning the Product, PhotoMedex shall submit a written report of such complaint, along with a sample of the Product involved in the complaint, if available, to Galderma within the time frames set forth in Section 9.5 above; provided, however, that such time period relating to any such complaint involving tampering with the Product shall be one (1) business day.  As between the parties, Galderma shall have the sole authority and responsibility to respond to any Technical Complaint.  Galderma shall notify PhotoMedex’s Corporate Quality Complaint Operations department of the resolution of such Technical Complaints.
+
+
+
+ 9.7 Recalls/Withdrawals.  As between the parties, Galderma shall have the sole authority and responsibility to respond to any Governmental or Regulatory Authorities, including without limitation the
+
+
+
+
+
+ 
+
+ 
+
+
+
+ 
+
+
+
+FDA, concerning returns, field alerts, recalls or market withdrawals of the Product and shall be solely responsible for determining whether to issue a recall or withdrawal and for the costs associated with such action; provided, however, that if any such returns, field alerts, market withdrawals or recalls of Product are caused solely by actions or inactions by PhotoMedex constituting a breach of the provisions of this Agreement or a violation of Applicable Laws and Regulations, PhotoMedex shall bear all reasonable costs associated with such actions or inactions in connection therewith.  Subject to Section 15.0, Galderma shall be under no liability whatsoever to compensate PhotoMedex or make any other payment to PhotoMedex for any decision to recall, initiate a market withdrawal or take any other corrective action with respect to the Product contemplated in this Section 9.7, unless such action results from a breach of the provisions of this Agreement or a violation of Applicable Laws and Regulations by Galderma or its Affiliates.  Each party shall promptly (but in any case, not later than forty-eight (48) hours) notify the other party in writing of any order, request or directive of a court or other governmental or regulatory authority to recall or withdraw the Product.
+
+ 
+
+ 
+
+10.0 GOVERNMENT INSPECTIONS AND INQUIRIES.  Upon (a) being contacted by the FDA or any other governmental or regulatory authority for any regulatory purpose pertaining specifically to this Agreement or to the Product or (b) becoming aware of an impending inspection or audit of the facilities or operations involved in the manufacture, processing, testing or packaging of the Product, a party shall immediately notify the other party. PhotoMedex agrees that it shall not respond to any such agency making an inquiry of it until and only as directed by Galderma; provided, however, that the foregoing shall not be construed to prevent PhotoMedex in any way from complying with any governmental or regulatory authority or Applicable Laws and Regulations.
+
+ 
+
+ 
+
+11.0  
+
+INTELLECTUAL PROPERTY.
+
+
+
+ 11.1 Galderma Trademarks.  During the Term, Galderma, either directly or through its Affiliates, hereby grants to PhotoMedex a non-exclusive, royalty-free sub-license to use the trademark(s) and logos shown on Schedule 4 (“Galderma Trademarks”) solely in connection with performing its obligations hereunder.  PhotoMedex represents and warrants: (a) that it will not adulterate or alter the Galderma Trademarks or Product Trademarks (defined below) in any manner; (b) use the Galderma Trademarks or Product Trademarks in a way that might materially prejudice their distinctiveness or validity or the goodwill of Galderma therein; or (c) use any trademarks or tradenames so resembling any of the Galderma Trademarks or Product Trademarks as to be likely to cause confusion or deception.  PhotoMedex shall ensure that each use of the Galderma Trademarks and Product Trademarks by PhotoMedex is accompanied by an acknowledgement of ownership as directed by Galderma.
+
+
+
+ 11.2 Product Trademarks.  PhotoMedex shall promote the Product only under the trademark(s) on Schedule 5 or as otherwise determined by Galderma (“Product Trademark(s)”) in its sole discretion and that each use of such trademark(s) by it is accompanied by an acknowledgement of ownership as directed by Galderma.
+
+
+
+ 11.3 No Right.  PhotoMedex shall not have, assert or acquire any right, title or interest in or to any Galderma patents, Galderma Trademarks, Product Trademarks, or any other Galderma intellectual property or the goodwill pertaining thereto, except as otherwise explicitly provided in this Agreement.
+
+
+
+ 11.4 Notice of Infringement.  PhotoMedex shall give Galderma prompt notice of any infringement or threatened infringement of any of the Product Trademarks or the Galderma Trademarks used in connection with the Product.  Galderma shall determine in its sole discretion what action, if any, to take in response to the infringement or threatened infringement of any Product Trademark or Galderma Trademark.
+
+ 
+
+ 
+
+12.0  
+
+STEERING COMMITTEE; ALLIANCE MANAGERS.
+
+
+
+ 12.1 Steering Committee.  The parties shall establish a steering committee (“Steering Committee”) to oversee and coordinate promotional activities of the Product at strategic and tactical levels.  Without limiting the foregoing or any other functions the parties agree to assign to the Steering Committee, the Steering Committee shall perform the following, as applicable:
+
+
+
+12.1.1  
+
+Review PhotoMedex Quarterly Report and implementation of the Marketing Plan;
+
+
+
+
+
+ 
+
+ 
+
+
+
+ 
+
+   12.1.2 Review of training plans and materials and Marketing Materials;
+
+
+
+   12.1.3 Discuss strategy and principal action plans;
+
+
+
+12.1.4  
+
+Provide an informal forum for resolution of disputes; and
+
+
+
+12.1.5  
+
+Draft minutes of each meeting which shall be accessible to each party for review.
+
+
+
+ 12.2 Membership.  Each party shall select up to four (4) representatives to serve on the Steering Committee. The parties may replace its Steering Committee representatives at any time, with prior written notice to the other party.  One Galderma employee shall be appointed Secretary and shall be responsible for drafting minutes of each meeting and taking roll call prior to the commencement of each meeting.
+
+
+
+ 12.3 Meetings.  The Steering Committee shall meet at least quarterly either in person or by telephonic or video conference, or as otherwise mutually agreed upon by the Steering Committee or the parties and at such locations as the parties shall agree.
+
+
+
+ 12.4 Decision Making.  To the extent any decisions of the Steering Committee are expressly required under this Agreement, such decisions shall be made by unanimous approval of all members present; provided, that at least one representative of each party is present and so approves.  Non-attending members of the Steering Committee may represent themselves by proxies in any decision. In the event the required approval for a decision cannot be reached, the matter shall be submitted to a senior executive officer from each of the parties, who shall meet and discuss in good faith to resolve such matter.  Notwithstanding anything in this Agreement to the contrary, Galderma shall retain final control and decision-making authority with respect to (i) the pricing of the Product, (ii) the budget for sales, marketing and promotion of the Product, and (iii) the conduct of any clinical and non-clinical studies with respect to the Product.
+
+
+
+ 12.5 Conduct of Committee.  Other representatives of the parties may attend Steering Committee meetings as non-voting attendees.  Each party shall bear its own personnel and travel costs and expenses relating to Steering Committee meetings.  The Steering Committees shall follow such administrative procedures as they may adopt for the efficient conduct of their meetings and other matters.
+
+
+
+ 12.6 Alliance Managers.  Each of PhotoMedex and Galderma shall appoint a single senior employee having primary oversight responsibility for the implementation of such party’s obligations under this Agreement (“Alliance Managers”).  The Alliance Managers shall coordinate the parties’ day-to-day communications, particularly between meetings of the Steering Committee.  The Alliance Managers may, but need not, serve as members of the Steering Committee, but shall, in any event, be invited to attend and participate in meetings of the Steering Committee.
+
+ 
+
+13.0 CONFIDENTIALITY.  Disclosures of Confidential Information (as defined below) hereunder by either party (hereinafter referred to as “Disclosing Party”) to the other party (hereinafter referred to as “Recipient Party”) shall be safeguarded by the Recipient Party and shall not be disclosed to third parties, other than Affiliates, without the prior written consent of the Disclosing Party.  The Recipient Party shall be responsible for all damages arising from a breach of confidentiality by a third party, employee, contractor or agent to whom the Recipient Party discloses the Confidential Information.  “Confidential Information” shall mean any information pertaining to the Product, the terms of this Agreement, or information provided by one party to the other hereunder (in any form or medium) as a result of its performance of its obligations under this Agreement but shall exclude information that: (a) is or hereafter becomes generally available to the public, in integrated, readily accessible form, other than by reason of any default with respect to a confidentiality obligation under this Agreement; (b) was already known to the Recipient Party as evidenced by prior written documents in its possession and was obtained by the Recipient Party without knowledge of any breach by any person of a confidentiality obligation; (c) is disclosed to the Recipient Party by a third party who is not known to be in default of any confidentiality obligation; (d) is developed by or on behalf of the Recipient Party, without reliance on Confidential Information received hereunder; (e) is used with the consent of the
+
+ 
+
+
+
+
+
+ 
+
+ 
+
+
+
+ 
+
+
+
+Disclosing Party (which consent shall not be unreasonably withheld); or (f) is otherwise required to be disclosed in compliance with applicable laws or regulations or order by a court or other regulatory body having competent jurisdiction, provided that the Recipient Party provides written notice of such disclosure to the Disclosing Party and takes reasonable efforts to avoid and/or minimize such disclosure.  All Confidential Information shall remain the property of and, at the request of the Disclosing Party, be destroyed or returned to the Disclosing Party upon termination of this Agreement.  The obligations of this Section 13.0 shall survive any termination or expiration of this Agreement by a period of five (5) years.
+
+ 
+
+ 
+
+14.0 RECORDKEEPING AND AUDITS.  Each party shall maintain complete and accurate books and records in sufficient detail, in accordance with GAAP and all applicable laws, rules, ordinances and regulations, to enable verification of the performance of such party’s obligations under this Agreement.  Such records shall be maintained for a period of two (2) years after the end of the Term or any Renewal Term or longer if required by applicable law.  Solely with respect to the Product, each party shall have the right to request an audit of the other party’s books and records by an independent third party auditor mutually acceptable to the parties.  Neither party shall unreasonably withhold or delay its approval of such auditor.  Such audits may be requested no more than once per twelve (12) month period during the Term and any Renewal Term and once during the fifteen (15) months following the termination or expiration of this Agreement.  If any such auditor determines that the amounts paid by the non-requesting party were less than the amounts actually due for the period in question, the non-requesting party shall promptly pay the amount owed.  If any such auditor determines that the amounts paid by the non-requesting party were greater than the amounts actually due for the period in question, the requesting party shall, at the sole option of the non-requesting party, refund or credit such overpaid amounts.  The requesting party shall bear and pay the cost and expense of such audit unless an underpayment of greater than ten percent (10%) has occurred for the period in question, in which case the expense of the audit will be paid for by the non-requesting party.
+
+ 
+
+ 
+
+15.0  
+
+INDEMNIFICATION AND INSURANCE.
+
+
+
+ 15.1 Indemnification by PhotoMedex. PhotoMedex shall defend, indemnify and hold Galderma and its Affiliates, and their respective officers, directors, employees, successors and assigns, harmless from and against any and all claims, liabilities, losses, costs, actions, suits, damages and expenses, including reasonable attorney’s fees (collectively, “Damages”), arising out of: (a) any breach by PhotoMedex of any representation, warranty or covenant contained in this Agreement; (b) any claims by third parties or other liabilities relating to the performance or nonperformance of PhotoMedex’s obligations under this Agreement; or (c) any claims brought by or on behalf of any employee or consultant of PhotoMedex or its Affiliates in connection with his or her employment or the performance of PhotoMedex’s obligations under this Agreement; provided, however, that PhotoMedex shall not be required to indemnify Galderma with respect to any damages hereunder to the extent the same is caused by any negligent act or omission or intentional misconduct by Galderma or any of its Affiliates or is otherwise covered by Galderma’s indemnification obligation in Section 15.2.
+
+
+
+ 15.2 Indemnification by Galderma.  Galderma shall defend, indemnify and hold PhotoMedex and its Affiliates, and their respective officers, directors, employees, successors and assigns, harmless from and against any and all damages arising out of: (a) any breach by Galderma of any representation, warranty or covenant contained in this Agreement; (b) any personal injury (including death) and/or property damage resulting from the handling, possession or use of the Product; (c) any other liability arising out of the manufacture, marketing, sale, labeling, distribution or use of the Product, including without limitation, any actual or alleged infringement of any trademarks, know-how, trade secrets, patent rights or other intellectual property rights of any person or any violation of Applicable Laws and Regulations, including any failure to manufacture the Product in accordance with Good Manufacturing Practice; or (d) any claims brought by or on behalf of any employee or consultant of Galderma or its Affiliates in connection with his or her employment or the performance of Galderma’s obligations under this Agreement; provided, however, that Galderma shall not be required to indemnify PhotoMedex with respect to any Damages hereunder to the extent the same is caused by any negligent act or omission or intentional misconduct by PhotoMedex or any of its Affiliates or is otherwise covered by PhotoMedex’s indemnification obligation in Section 15.1.
+
+
+
+ 15.3 Indemnification Procedure.  A party (the “Indemnitee”) which intends to claim indemnification under this Section 15.0 shall notify the other party (the “Indemnitor”) within a reasonable time in writing
+
+
+
+
+
+ 
+
+ 
+
+
+
+ 
+
+
+
+of any action, claim or liability in respect of which the Indemnitee believes it is entitled to claim indemnification, provided that the failure to give timely notice to the Indemnitor shall not release the Indemnitor from any liability to the Indemnitee to the extent the Indemnitor is not prejudiced thereby.  The Indemnitor shall have the right, by notice to the Indemnitee, to assume the defense of any such action or claim within the fifteen (15) day period after the Indemnitor’s receipt of notice of any action or claim with counsel of the Indemnitor’s choice and at the sole cost of the Indemnitor.  If the Indemnitor does not so assume the defense of such claim, the Indemnitee may assume such defense with counsel of its choice and at the sole cost of the Indemnitor.  If the Indemnitor so assumes such defense, the Indemnitee may participate therein through counsel of its choice, but at the sole cost of the Indemnitee. The party not assuming the defense of any such claim shall render all reasonable assistance to the party assuming such defense, and all reasonable out-of-pocket costs of such assistance shall be paid for by the party determined ultimately liable.  No such claim shall be settled other than by the party defending the same, and then only with the consent of the other party which shall not be unreasonably withheld; provided that the Indemnitee shall have no obligation to consent to any settlement of any such action or claim which imposes on the Indemnitee any liability or obligation which cannot be assumed and performed in full by the Indemnitor, and the Indemnitee shall have no right to withhold its consent to any settlement of any such action or claim if the settlement involves only the payment of money by the Indemnitor or its insurer.
+
+
+
+ 15.4 Insurance.  At all times while this Agreement is in effect, each party shall (a) maintain Product Liability and Commercial General Liability insurance, or participate in a program of self-insurance, at limits not less than US $2,000,000 per occurrence/US $10,000,000 aggregate; (b) if it terminates its Commercial General Liability insurance policy during the term of this Agreement, obtain and maintain the maximum available “extended discovery period” insurance not to exceed one year beyond the term of this Agreement; (c) include the other party and its Affiliates as “Additional Insureds” under its Commercial General Liability/Property policy; (d) provide, within thirty (30) days of the other party’s request, Certificates of Insurance verifying insurance limits agreed upon as well as a thirty (30) day Notice of Cancellation or Non-Renewal.
+
+
+
+ 15.5 Liability. IN NO EVENT WILL EITHER PARTY BE LIABLE IN ANY WAY IN CONNECTION WITH ITS PERFORMANCE UNDER THIS AGREEMENT FOR ANY LOSS OF PROFIT OR ANY OTHER SPECIAL DAMAGES OF THE OTHER PARTY, INCLUDING, BUT NOT LIMITED TO, SPECIAL, INCIDENTAL, CONSEQUENTIAL, OR OTHER DAMAGES (COLLECTIVELY, “SPECIAL DAMAGES”). IN NO EVENT SHALL ANY PARTY HERETO BE LIABLE FOR ANY PUNITIVE OR EXEMPLARY DAMAGES.
+
+
+
+ 15.6 The terms of this Section 15.0 shall survive the expiration or earlier termination of this Agreement for a period of three (3) years from the expiration or earlier termination of this Agreement.
+
+ 
+
+16.0  
+
+REPRESENTATIONS AND WARRANTIES.
+
+
+
+ 16.1 By PhotoMedex.  PhotoMedex represents and warrants to Galderma that, as of the Effective Date:
+
+
+
+16.1.1 the execution, delivery and performance of this Agreement by PhotoMedex does not conflict with, or constitute a breach of or under, any order, judgment, agreement or instrument to which PhotoMedex is a party; and
+
+
+
+16.1.2 the execution, delivery and performance of this Agreement by PhotoMedex does not require the consent of any person or the authorization of (by notice or otherwise) any governmental or regulatory authority.
+
+ 
+
+ 16.2 By Galderma.  Galderma represents and warrants to PhotoMedex that, as of the Effective Date:
+
+
+
+16.2.1 the execution, delivery and performance of this Agreement by Galderma does not conflict with, or constitute a breach of or under, any order, judgment, agreement or instrument to which Galderma is a party;
+
+
+
+
+
+ 
+
+ 
+
+
+
+ 
+
+
+
+16.2.2 Galderma has all material licenses, authorizations, permissions, consents or approvals from any applicable governmental or regulatory authority or third parties necessary to make, use, sell and offer to sell the Product, and the execution, delivery and performance of this Agreement by Galderma does not require the consent of any person or the authorization of (by notice or otherwise) any governmental or regulatory authority;
+
+
+
+16.2.3 the rights granted by Galderma to PhotoMedex hereunder do not conflict with any rights granted by Galderma to any third party;
+
+
+
+16.2.4 Galderma has provided or will provide to PhotoMedex all relevant and material information regarding the Product;
+
+
+
+16.2.5 to the best of Galderma’s knowledge, the manufacture, sale or import of the Product will not infringe any patents or trademarks of any third party and, to the best of Galderma’s knowledge, no third party is infringing in the Territory any patent or trademark applicable to the Product;
+
+
+
+16.2.6 there are no actions, suits, proceedings or claims relating to the Product pending against Galderma, any of its Affiliates or, to the best of Galderma’s knowledge, third parties from whom Galderma has obtained any intellectual property rights covering the Product, or, to the best of Galderma’s knowledge, threatened in writing against Galderma, any of its Affiliates or any third party from whom Galderma has obtained any intellectual property rights covering the Product, at law or equity, or before or by any court or by any governmental or regulatory authority relating to the Product, or any matter contemplated herein;
+
+
+
+16.2.7 Galderma and its Affiliates or, to the best of Galderma’s knowledge, third parties from whom Galderma has obtained any intellectual property rights covering the Product, have all the rights in all intellectual property covering the Product required to enable Galderma to make, use, sell and offer to sell the Product and to grant to PhotoMedex the rights granted herein;
+
+
+
+16.2.8 Galderma and its Affiliates hold all right, title and interest to the Galderma Trademarks and all requisite license rights to the Product Trademarks, and such trademarks are, to the best of Galderma’s knowledge, in full force and Galderma will use its Commercially Reasonable Efforts to maintain or cause its licensor to maintain such trademarks;
+
+
+
+16.2.9 to the best of Galderma’s knowledge, no patent covering the Product has been declared invalid and any patents covering the Product are in full force and Galderma will use its Commercially Reasonable Efforts to maintain or cause its licensor to maintain any such patents; and
+
+
+
+16.2.10 to the best of Galderma’s knowledge, from the Effective Date, Product to be distributed by Galderma will, at the time of shipment by or on behalf of Galderma, not be misbranded, adulterated or otherwise prohibited under the terms of the Act or comparable state laws or municipal law in which the definition of adulteration or misbranding are substantially the same as those contained in the Act; and such Product is not, at the time of such shipment, merchandise which may not be introduced or delivered for introduction into interstate commerce under the provisions of sections 301, 404 or 505 of the Act (21 U.S.C.A. §331, §344 and §355); and such Product is merchandise which may be legally transported or sold under the provisions of any other applicable federal, state or municipal law.
+
+
+
+16.2.11 To the best of Galderma’s knowledge, from the Effective Date, promotional materials and labeling for the Product, supplied to PhotoMedex, will be in compliance with all Applicable Laws and Regulations.
+
+ 
+
+17.0 NOTICES.  Except as otherwise specifically provided herein, any notice or other documents to be given under this Agreement shall be in writing and shall be deemed to have been duly given if sent by overnight courier or confirmed facsimile transmission to a party (followed by hard copy via mail) or delivered in person to a party at the address or facsimile number set out below for such party or such other address as the party may from time to time designate by written notice to the other in accordance with this Section 17.0:
+
+
+
+
+
+ 
+
+ 
+
+
+
+ 
+
+
+
+
+
+
+
+If to Galderma:                      Galderma Laboratories, L.P.
+
+14501 North Freeway
+
+Ft. Worth, TX 76177
+
+Attn:  President
+
+
+
+with a copy of                       Same address
+
+legal notices to:                    Attn:  Legal Services
+
+
+
+If to PhotoMedex:                PhotoMedex, Inc.
+
+147 Keystone Drive
+
+        Montgomeryville, PA 18936
+
+Attn: President
+
+ 
+
+
+
+Any such notice or other document shall be deemed to have been received by the addressee simultaneously with the transmission or delivery thereof.
+
+
+
+18.0 ASSIGNMENT.  Neither party shall assign or otherwise transfer its rights or obligations under this Agreement or any interest herein or right hereunder without the prior written consent of the other party, and any such purported assignment, transfer or attempt to assign or transfer any interest herein or right hereunder shall be void and of no effect; except that each party may assign all (but not less than all) of its rights and obligations hereunder to an Affiliate or any of its successors in interest or acquirers of all or substantially all of its assets to which this Agreement relates upon written notice to the other party, provided that in the case of such an assignment, the assigning party shall remain responsible for all of its obligations and agreements set forth herein, notwithstanding such assignment and the Affiliate, successor in interest or acquirer shall assume all of such party’s obligations under this Agreement.  Subject to the foregoing, this Agreement shall be binding upon and inure to the benefit of the parties hereto and their respective permitted successors and assigns.
+
+
+
+19.0 DISPUTE RESOLUTION.  This Agreement shall be governed by and construed in accordance with the laws of the State of Texas without regard to principles of conflict of laws.  Both parties agree that they will use all reasonable efforts to resolve any disagreement which may arise under this Agreement. Should the parties be unable to resolve the dispute, the dispute shall be submitted for resolution exclusively to the jurisdiction of the United States District Court for the Northern District of Texas (Fort Worth Division), unless said court declines to accept jurisdiction.  The parties expressly consent to the personal jurisdiction of said courts.  Notwithstanding the foregoing, neither party shall be precluded from seeking injunctive or other equitable relief in court in connection with the enforcement of those sections of the Agreement that permit actions for injunctive relief.
+
+
+
+20.0 NON-WAIVER.  The failure of either party to enforce or to exercise, at any time or for any period of time, any term of or any right arising pursuant to this Agreement does not constitute, and shall not be construed as, a waiver of such term or right, and shall in no way affect that party’s right later to enforce or exercise such term or right.
+
+
+
+21.0 SEVERABILITY.  In the event that any provision (or portion thereof) of this Agreement is held to be invalid or unenforceable by a court of competent jurisdiction or a governmental or regulatory authority, such provision (or portion of provision) shall be construed and enforced as if it had been narrowly drawn so as not to be invalid or unenforceable and the validity, legality and enforceability of the enforceable portion of any such provision and the remaining provisions shall not be adversely affected thereby.
+
+
+
+22.0 RELATIONSHIP OF THE PARTIES.  The parties hereto are acting and performing as independent contractors, and nothing in this Agreement creates the relationship of partnership, joint venture, sales agency or principal and agent.  Neither party is the agent of the other, and neither party may hold itself out as such to any other person. All financial obligations associated with each party’s business shall be the sole responsibility of such party.
+
+
+
+23.0 PUBLIC ANNOUNCEMENTS.  The form and content of any public announcement to be made by PhotoMedex regarding the execution or existence of this Agreement, or the subject matter contained herein,
+
+
+
+
+
+ 
+
+ 
+
+
+
+ 
+
+
+
+shall be subject to the prior written consent of Galderma (which consent shall not be unreasonably withheld, delayed or conditioned), except as may be required by applicable law, in which case PhotoMedex shall give Galderma reasonable advance notice and review of any such disclosure.
+
+
+
+24.0 FORCE MAJEURE.  Neither party shall be liable to the other party for any failure to perform as required by this Agreement if the failure to perform is due to circumstances reasonably beyond such party’s control including, without limitation, any act of God, civil disorder or commotion, act of aggression, terrorism, fire, explosion, flood, drought, war, sabotage, embargo, utility failure, product material shortage not reasonably foreseen, labor disturbance, national health emergency, or appropriation of property (each, a “Force Majeure Event”).  A party whose performance is affected by a Force Majeure Event shall take prompt action using its Commercially Reasonable Efforts to remedy the effects of the Force Majeure Event.
+
+
+
+25.0 NON-SOLICITATION.   Each party agrees that during the Term or any Renewal Term, and for a period of six (6) months after the termination of this Agreement, that it shall refrain from, directly or indirectly soliciting for employment any person employed by the other party.  Notwithstanding the foregoing, neither party shall be precluded from employing any such employee of the other party who contacts such party on his or her own initiative without any direct or indirect solicitation by such party or who responds to a general solicitation of employment not specifically directed toward employees of the other party
+
+
+
+26.0 ENTIRE AGREEMENT.  This Agreement and any and all documents or agreements referenced herein contain all of the terms agreed to by the parties regarding the subject matter of this Agreement and shall supersede any prior oral or written agreements, understandings or arrangements between them.  This Agreement may not be amended, modified, altered or supplemented except by means of a written agreement or other instrument executed by both of the parties hereto.  No course of conduct or dealing between the parties shall act as a modification or waiver of any provisions of this Agreement.
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+IN WITNESS WHEREOF, the parties have caused their duly authorized representative to execute this Agreement in duplicate originals.
+
+ 
+
+ 
+
+
+
+ GALDERMA LABORATORIES, L.P.
+
+ PHOTOMEDEX, INC.      
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+/s/ Fournier
+
+ 
+
+ 
+
+/s/ Dennis McGrath
+
+ 
+
+Name:  Francois Fournier
+
+ 
+
+ 
+
+Name: Dennis McGrath
+
+ 
+
+Title:    President
+
+ 
+
+ 
+
+Title:   President & CEO   
+
+ 
+
+ Date:   1/11/10
+
+ 
+
+ 
+
+ Date:  1/7/10
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+ 
+
+
+
+ 
+
+
+
+SCHEDULE 1
+
+FORM – QUARTERLY REPORT
+
+
+
+
+
+
+
+
+
+Contains:
+
+
+
+I.      Number of Product Calls
+
+a.  Number of First Position Details
+
+b.  Number of Second Position Details
+
+
+
+II.      Information required by Marketing Plan
+
+
+
+III.    Listing of Target Physicians, including names, addresses, and specialty
+
+
+
+IV.   Other information as agreed upon
+
+
+
+
+
+ 
+
+ 
+
+
+
+ 
+
+
+
+SCHEDULE 2
+
+FORM – MARKETING PLAN
+
+
+
+
+
+
+
+Contains:
+
+
+
+I.      Photomedex’s plan and strategy for promotion, marketing and sale of the Product.
+
+
+
+II.     Number of estimated, annual Product Calls
+
+a.  Number of First Position Details
+
+b.  Number of Second Position Details
+
+
+
+III.   Training programs
+
+
+
+IV.   Other information as agreed upon
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+ 
+
+
+
+SCHEDULE 3
+
+FORM – SALES REPORT
+
+
+
+
+
+For the month beginning on     __________________    and ending on _______________________ :
+
+
+
+
+
+Gross Sales
+
+
+
+less
+
+
+
+Deductions:
+
+
+
+Returns & Return Reserves
+
+
+
+Managed Care Rebates
+
+
+
+Patient Rebates
+
+
+
+Government Rebates
+
+
+
+Trade Allowances
+
+
+
+Early Payment Discount
+
+
+
+= Net Sales
+
+
+
+
+
+ 
+
+ 
+
+
+
+ 
+
+
+
+SCHEDULE 4
+
+GALDERMA TRADEMARKS
+
+
+
+
+
+      Galderma
+
+ 
+
+ 
+
+      
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+ 
+
+ 
+
+
+
+ 
+
+
+
+SCHEDULE 5
+
+PRODUCT TRADEMARKS

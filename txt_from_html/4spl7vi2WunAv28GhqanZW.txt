@@ -1,0 +1,578 @@
+Exhibit 4.2
+
+
+ 
+
+Issuer
+
+
+WILLIS GROUP HOLDINGS LIMITED
+
+
+Old Holdings
+
+
+WILLIS GROUP HOLDINGS PUBLIC LIMITED COMPANY
+
+
+New Holdings
+
+
+WILLIS NETHERLANDS HOLDINGS B.V.
+
+
+New Guarantor
+
+
+WILLIS INVESTMENT UK HOLDINGS LIMITED
+
+
+TA I LIMITED
+
+
+TA II LIMITED
+
+
+TA III LIMITED
+
+
+TA IV LIMITED
+
+
+WILLIS GROUP LIMITED
+
+
+WILLIS NORTH AMERICA INC.
+
+
+the Existing Guarantors
+
+
+and
+
+
+THE BANK OF NEW YORK MELLON
+
+
+Trustee
+
+
+ 
+
+     Supplemental Indenture (this Supplemental Indenture), dated December 31, 2009, among
+TRINITY ACQUISITION PLC (the Issuer), WILLIS GROUP HOLDINGS LIMITED (Old Holdings),
+WILLIS INVESTMENT UK HOLDINGS LIMITED, TA I LIMITED, TA II LIMITED, TA III LIMITED, TA IV LIMITED,
+WILLIS GROUP LIMITED and WILLIS NORTH AMERICA INC. (the Existing Guarantors), and WILLIS
+GROUP HOLDINGS PUBLIC LIMITED COMPANY (New Holdings) and WILLIS NETHERLANDS HOLDINGS B.V.
+(New Guarantor and together with New Holdings, the Guaranteeing Entities) and
+THE BANK OF NEW YORK MELLON, as trustee (the Trustee).
+
+
+W I T N E S S E T H
+
+
+     WHEREAS, each of the Issuer, Old Holdings and the Guarantors (as defined in the Indenture
+referred to below) has heretofore executed and delivered to the Trustee an indenture, dated as of
+March 6, 2009, and supplemented by the First Supplemental Indenture, dated as of November 18, 2009
+(together, the Indenture), providing for the issuance of $500,000,000 aggregate principal
+amount of 12.875% Senior Notes due 2016 (the Notes);
+
+
+     WHEREAS, Section 9.02(a) of the Indenture provides that the Issuer, the Guarantors and
+the Trustee may amend or supplement certain provisions of the Indenture, the Notes and the
+Guarantees with the consent of the Required Holders voting as a single class and upon the delivery
+of certain documentation to the Trustee;
+
+
+     WHEREAS, Section 10.06 of the Indenture provides that a Guarantee by a Guarantor shall
+be automatically and unconditionally released and discharged upon a transfer of all or
+substantially all of the assets of such Guarantor, which transfer is made in compliance with the
+applicable provisions of the Indenture;
+
+
+     WHEREAS, the Indenture provides that, under certain circumstances, the Guaranteeing Entities
+shall execute and deliver to the Trustee a supplemental indenture pursuant to which the
+Guaranteeing Entities shall unconditionally guarantee all of the Issuers Obligations under the
+Notes and the Indenture on the terms and conditions set forth herein and under the Indenture (the Guarantee); and
+
+
+     WHEREAS, the Trustee is authorized to execute and deliver this Supplemental Indenture.
+
+
+     NOW THEREFORE, in consideration of the foregoing and for other good and valuable
+consideration, the receipt of which is hereby acknowledged, the parties mutually covenant and agree
+as follows:
+
+
+     (1) Capitalized Terms. Capitalized terms used herein without definition shall have
+the meanings assigned to them in the Indenture.
+
+
+     (2) Amendments to Indenture. Subject to the conditions set forth in Article
+9, the Indenture is amended as set forth in this Section 2.
+
+
+(a) Section 1.01, the definition of Change of Control is amended by
+inserting a new paragraph after clause (6), that states as follows:
+
+
+Notwithstanding the foregoing, a transfer of all or substantially all of the
+assets of Holdings to a Person which expressly assumes the obligations of Holdings
+under the Notes and the Indenture for the purpose of effecting a Redomestication as
+permitted by Section 5.03 of this Indenture shall not be considered a
+Change of Control.
+
+
+(b) Section 1.01, the definition of Officer is amended by replacing it,
+in its entirety, with the following:
+
+
+means the chairman of the board, the chief executive officer, the chief financial
+officer, the chief responsible officer, the chief operating officer, the president,
+any executive vice president, senior vice president or vice president, the
+treasurer, the secretary or (in respect of any Person organized under the laws of
+England and Wales, Ireland or the Netherlands) a director or member of the sealing
+committee.
+
+
+(c) Section 1.01 is amended, by adding the following definitions:
+
+
+New Guarantor means Willis Netherlands Holdings B.V., after assuming the
+obligations of a Guarantor under the Indenture pursuant to the Second Supplemental
+Indenture to this Indenture, and any successor thereto pursuant to the applicable
+provisions of this Indenture.
+
+
+New Holdings means Willis Group Holdings Public Limited Company, after
+assuming the obligations of Old Holdings under the Indenture pursuant to the Second
+Supplemental Indenture to this Indenture, and any successor thereto pursuant to the
+applicable provisions of this Indenture.
+
+
+Old Holdings means Willis Group Holdings Limited.
+
+
+Redomestication means a series of transactions pursuant to which (a)
+New Holdings shall become the publicly held indirect parent of the Issuer in lieu
+of Old Holdings, (b) New Guarantor shall become a wholly-owned direct subsidiary of
+New Holdings, (c) after giving effect thereto (i) New Holdings and New Guarantor
+shall collectively own substantially all of the assets owned by Old Holdings prior
+to any such transactions and (ii) the Issuer shall be a wholly owned, indirect
+Subsidiary of New Holdings and New Guarantor and (d) after the consummation of the
+transactions contemplated by clauses (a), (b) and (c)
+above, Old Holdings may be liquidated or dissolved and cease to exist. The
+Redomestication shall be deemed to have been consummated on the date on which New
+Holdings and/or New Guarantor shall collectively own substantially all of the
+assets (including all indirect Equity Interests in the Issuer) owned by Old
+Holdings immediately prior to the transactions referred to in this definition and
+New Holdings is the publicly held indirect parent company of the Issuer in lieu of
+Old Holdings.
+
+
+(d) Section 5.01(a)(ii) is amended by adding the following phrase
+immediately before the semicolon at the end thereof:
+
+
+, unless such obligation is retained by the Designated Obligor.
+
+
+(e) A new Section 5.03 is added to the Indenture to read as follows:
+
+
+     Section 5.03 Successor Holdings Pursuant to Redomestication.
+
+
+     For the avoidance of doubt and notwithstanding anything to the contrary
+contained in this Indenture, including in clauses (i), (iii), (iv) and (vi) of
+Section 5.01 and in Section 5.02, (a) effective upon the transfer of all or
+substantially all of the assets of Old Holdings to New Holdings, pursuant to the
+Redomestication, (i) New Holdings shall automatically become Holdings for all
+purposes under this Indenture, and any other documents delivered in connection
+herewith and (ii) Old Holdings shall cease to be a Guarantor or to have any
+obligations under the Notes and this Indenture and (b) effective upon the transfer
+of all or substantially all of the assets of New Holdings to New Guarantor,
+pursuant to the Redomestication, (i) New Guarantor shall automatically become a
+Designated Obligor for all purposes under this Indenture, and any other documents
+delivered in connection herewith and (ii) New Holdings shall continue to be
+Holdings for all purposes under this Indenture, and any other documents delivered
+in connection herewith.
+
+
+(f) Section 10.03 is amended by striking the first paragraph of the section
+and replacing it entirely with the following:
+
+
+To evidence its Guarantee set forth in Section 10.01 hereof, each
+Guarantor hereby agrees that this Indenture shall be executed on behalf of such
+Guarantor by its chairman of the board, chief executive officer, chief financial
+officer, chief responsible officer, chief operating officer, president, any
+executive vice president, senior vice president, vice president or assistant vice
+president or (in respect of any Person organized or incorporated under the laws of
+England and Wales, Ireland or the Netherlands) a director or member of the sealing
+committee.
+
+
+     (3) Agreement to Assume Obligations and to Guarantee. The Guaranteeing Entities
+hereby agree as follows:
+
+
+(a) Pursuant to Section 5.01(a)(ii) and Section 5.03 of the
+Indenture, as hereby amended, upon Old Holdings transfer of all or substantially
+all of its properties and assets to New Holdings, New Holdings expressly assumes
+the obligations of Old Holdings under the Notes and the Indenture.
+
+
+(b) Pursuant to Section 5.01(a)(ii) of the Indenture, as hereby amended,
+upon New Holdings transfer of all or substantially all of its properties and
+assets to New Guarantor, New Guarantor expressly assumes a Guarantee under the
+Notes and the Indenture, and New Holdings retains all of the obligations it assumed
+from Old Holdings under the Notes and the Indenture.
+
+
+(c) Pursuant to Section 5.01(b), Section 5.03, and Section
+10.06 of the Indenture, as hereby amended, upon transfer of all or
+substantially all of its properties and assets, Old Holdings shall cease to have
+any obligations under the Notes and the Indenture and shall be automatically and
+unconditionally released and discharged from its Guarantee.
+
+
+(d) Pursuant to Section 5.01(a)(v), the Guaranteeing Entities along with
+all Guarantors named in the Indenture, hereby agree to jointly and severally,
+absolutely and unconditionally guarantee to each Holder of a Note authenticated and
+delivered by the Trustee and to the Trustee and its successors and assigns,
+irrespective of the validity and enforceability of the Indenture, the Notes or the
+obligations of the Issuer hereunder or thereunder, that:
+
+
+     (i) the principal of and interest and Additional Amounts, if any, premium, if
+any, on the Notes will be promptly paid in full when due, whether at maturity, by
+acceleration, demand, redemption or otherwise, and interest on the overdue
+principal of and interest on the Notes, if any, if lawful, and all other
+obligations of the Issuer to the Holders or the Trustee hereunder or thereunder
+will be promptly paid in full or performed, all in accordance with the terms hereof
+and thereof; and
+
+
+     (ii) in case of any extension of time of payment or renewal of any Notes or
+any of such other obligations, that same obligations will be promptly paid in full
+when due or performed in accordance with the terms of the extension or renewal,
+whether at stated maturity, by acceleration or otherwise. Failing payment when due
+of any amount so guaranteed or any performance so guaranteed for whatever reason,
+the Guarantors and each Guaranteeing Entity shall be jointly and severally
+obligated to pay the same immediately. This is a guarantee of payment and not a
+guarantee of collection.
+
+
+(e) The obligations hereunder shall be unconditional, irrespective of the validity,
+regularity or enforceability of the Notes or the Indenture, the absence of any
+action to enforce the same, any waiver or consent by any Holder of the Notes with
+respect to any provisions hereof or thereof, the recovery of any judgment against
+the Issuer, any action to enforce the same or any other circumstance which might
+otherwise constitute a legal or equitable discharge or defense of a guarantor.
+
+
+(f) The following is hereby waived: any defense arising by reason of any
+disability or other defense of the Issuer or any Guaranteeing Entity, or the
+cessation from any cause whatsoever (including any act or omission of any Obligor)
+of the liability of the Issuer; (ii) any defense based on any claim that any
+Guaranteeing Entity obligations exceed or are more burdensome than those of the
+Issuer; (iii) the benefit of any statute of limitations affecting any Guaranteeing
+Entitys liability hereunder; (iv) any right to proceed against the Issuer, proceed
+against or exhaust any security for the Obligations under the Financing Documents,
+or pursue any other remedy in the power of any Obligor whatsoever; (v) any benefit
+of and any right to participate in any security now or hereafter held by any
+Obligor; and (vi) to the fullest extent permitted by law, any and all other
+defenses or benefits that may be derived from or afforded by applicable law
+limiting the liability of or exonerating guarantors or sureties. Each Guaranteeing
+Entity expressly waives all setoffs and counterclaims and all presentments, demands
+for payment or performance, notices of nonpayment or nonperformance, protests,
+notices of protest, notices of dishonor and all other notices or demands of any
+kind or nature whatsoever with respect to the Obligations under the Financing
+Documents, and all notices of acceptance of the
+
+
+Guarantee or of the existence, creation or incurrence of new or additional
+Obligations under the Financing Documents.
+
+
+(g) This Guarantee shall not be discharged except by complete performance of the
+obligations contained in the Notes, the Indenture and this Supplemental Indenture,
+and each Guaranteeing Entity accepts all obligations of a Guarantor under the
+Indenture.
+
+
+(h) If any Holder or the Trustee is required by any court or otherwise to return to
+the Issuer, the Guarantors (including any Guaranteeing Entity), or any custodian,
+trustee, liquidator or other similar official acting in relation to either the
+Issuer or the Guarantors, any amount paid either to the Trustee or such Holder,
+this Guarantee, to the extent theretofore discharged, shall be reinstated in full
+force and effect.
+
+
+(i) Neither Guaranteeing Entity shall be entitled to any right of subrogation in
+relation to the Holders in respect of any obligations guaranteed hereby until
+payment in full of all obligations guaranteed hereby.
+
+
+(j) As between the Guaranteeing Entities, on the one hand, and the Holders and the
+Trustee, on the other hand, (x) the maturity of the obligations guaranteed hereby
+may be accelerated as provided in Article 6 of the Indenture for the
+purposes of this Guarantee, notwithstanding any stay, injunction or other
+prohibition preventing such acceleration in respect of the obligations guaranteed
+hereby, and (y) in the event of any declaration of acceleration of such obligations
+as provided in Article 6 of the Indenture, such obligations (whether or not
+due and payable) shall forthwith become due and payable by any Guaranteeing Entity
+for the purpose of this Guarantee.
+
+
+(k) Each Guaranteeing Entity shall have the right to seek contribution from any
+non-paying Guarantor so long as the exercise of such right does not impair the
+rights of the Holders under this Guarantee.
+
+
+(l) Pursuant to Section 10.02 of the Indenture, after giving effect to all
+other contingent and fixed liabilities that are relevant under any applicable
+Bankruptcy Law or fraudulent conveyance laws, and after giving effect to any
+collections from, rights to receive contribution from or payments made by or on
+behalf of any other Guarantor in respect of the obligations of such other Guarantor
+under Article 10 of the Indenture, this new Guarantee shall be limited to
+the maximum amount permissible such that the obligations of such Guaranteeing
+Entity under this Guarantee will not constitute a fraudulent transfer or
+conveyance.
+
+
+(m) This Guarantee shall remain in full force and effect and continue to be
+effective should any petition be filed by or against the Issuer for liquidation,
+reorganization, should the Issuer become insolvent or make an assignment for the
+benefit of creditors or should a receiver or trustee be appointed for all or any
+significant part of the Issuers assets, and shall, to the fullest extent permitted
+by law, continue to be effective or be reinstated, as the case may be, if at any
+time payment and performance of the Notes are, pursuant to applicable law,
+rescinded or reduced in amount, or must otherwise be restored or returned by any
+obligee
+
+
+on the Notes and Guarantee, whether as a voidable preference, fraudulent
+transfer or otherwise, all as though such payment or performance had not been
+made. In the event that any payment or any part thereof, is rescinded, reduced,
+restored or returned, the Note shall, to the fullest extent permitted by law, be
+reinstated and deemed reduced only by such amount paid and not so rescinded,
+reduced, restored or returned.
+
+
+(n) In case any provision of this Guarantee shall be invalid, illegal or
+unenforceable, the validity, legality, and enforceability of the remaining
+provisions shall not in any way be affected or impaired thereby.
+
+
+(o) This Guarantee shall be a general unsecured senior obligation of such
+Guaranteeing Entity, ranking pari passu with any other future senior Indebtedness
+of such Guaranteeing Entity, if any.
+
+
+(p) Each payment to be made by any Guaranteeing Entity in respect of this Guarantee
+shall be made without set-off, counterclaim, reduction or diminution of any kind or
+nature.
+
+
+(q) Each Guaranteeing Entity consents and agree that the Holders may, at any time
+and from time to time, without notice or demand, and without affecting the
+enforceability or continuing effectiveness hereof: (i) amend, extend, renew,
+compromise, discharge, accelerate or otherwise change the time for payment or the
+terms of the Obligations under the Financing Documents or any part thereof; and
+(ii) release or substitute one or more of any endorsers or other guarantors of any
+of the Obligations under the Financing Documents. Without limiting the generality
+of the foregoing, the Guarantors consent to the taking of, or failure to take, any
+action which might in any manner or to any extent vary the risks of any
+Guaranteeing Entity under this Supplemental Indenture or which, but for this
+provision, might operate as a discharge of such Guaranteeing Entity.
+
+
+     (4) Conditions Precedent to Effectiveness. This Guarantee shall become effective upon
+the satisfaction of each of the conditions precedent set forth in this Section 3:
+
+
+(a) The Trustee shall have received evidence of consent of the Required Holders to
+amend the Indenture pursuant to Section 9.02(a) of the Indenture along with
+the documents described in Section 7.02(b), Section 9.02(a),
+Section 9.05 and Section 12.03 of the Indenture.
+
+
+(b) The Trustee shall have received a certificate of each Guaranteeing Entity,
+dated as of the date hereof, as to the authority and signatures of those Persons
+authorized to execute, deliver, perform and to act with respect to each instrument,
+agreement or other document to be executed in connection with the transactions
+contemplated in connection herewith, upon which certificate the Trustee and each
+Holder, including each assignee (whether or not it shall have then become a party
+hereto), may conclusively rely until it shall have received a further certificate
+of each Guaranteeing Entity canceling or amending such prior certificate;
+
+
+(c) The Trustee shall have received a copy of the organization documents of each
+Guaranteeing Entity, each certified in a manner reasonably satisfactory to the
+Trustee, and a copy of the certificate of registration or incorporation, as
+applicable, and, if applicable, a certificate of good standing for each
+Guaranteeing Entity issued by the appropriate governmental office in its
+jurisdiction of organization;
+
+
+(d) The Trustee shall have received executed counterparts of this Supplemental
+Indenture;
+
+
+(e) The Trustee shall have received a certificate of each Guaranteeing Entity
+addressed to the Trustee and the Holders, dated as of the date hereof, in form and
+substance reasonably satisfactory to the Trustee, to the effect that, as of such
+date all conditions set forth in this Section 4 have been fulfilled;
+
+
+(f) The Trustee shall have received such other instruments, agreements, legal
+opinions addressed to the Trustee and, during any period which is a Holding Period,
+the Required Holders (including legal opinions regarding corporate, enforceability
+and security matters) as it shall request.
+
+
+     (5) Execution and Delivery. Each Guaranteeing Entity agrees that the Guarantee shall
+remain in full force and effect notwithstanding the absence of the endorsement of any notation of
+such Guarantee on the Notes.
+
+
+     (6) Merger, Consolidation or Sale of All or Substantially All Assets. A Guaranteeing
+Entity may not consolidate or merge with or into or wind up into (whether or not the Issuer or
+Guaranteeing Entity is the surviving corporation), or sell, assign, transfer, lease, convey or
+otherwise dispose of all or substantially all of its properties or assets, in one or more related
+transactions, to any Person except as provided in Article 5 of the Indenture.
+
+
+     (7) Releases. The Guarantees of the Guaranteeing Entities shall be automatically and
+unconditionally released and discharged, and no further action by such Guaranteeing Entity, the
+Issuer or the Trustee is required for the release of such Guaranteeing Entitys Guarantee, upon:
+
+
+(i) (A) any sale, exchange or transfer (by merger or otherwise) of the Capital
+Stock of any Guaranteeing Entity (including any sale, exchange or transfer), after
+which such Guaranteeing Entity is no longer a Subsidiary of Holdings or all or
+substantially all the assets of such Guaranteeing Entity, which sale, exchange or
+transfer is made in compliance with the applicable provisions of the Indenture; or
+
+
+(B) the Issuer exercising its Legal Defeasance option or Covenant Defeasance option
+in accordance with Article 8 of the Indenture or the Issuers obligations
+under the Indenture being discharged in accordance with the terms of the Indenture;
+and
+
+
+(ii) delivery by such Guaranteeing Entity to the Trustee of an Officers
+Certificate and an Opinion of Counsel, each stating that all conditions precedent
+
+
+provided for in the Indenture relating to such transaction have been complied with.
+
+
+     (8) No Recourse Against Others. No director, officer, employee, incorporator or
+stockholder of any Guaranteeing Entity shall have any liability for any obligations of the Issuer
+or the Guarantors (including such Guaranteeing Entity) under the Notes, any Guarantees, the
+Indenture or this Supplemental Indenture or for any claim based on, in respect of, or by reason of,
+such obligations or their creation. Each Holder by accepting Notes waives and releases all such
+liability. The waiver and release are part of the consideration for issuance of the Notes.
+
+
+     (9) Governing Law. THIS SUPPLEMENTAL INDENTURE WILL BE GOVERNED BY AND CONSTRUED IN
+ACCORDANCE WITH THE LAWS OF THE STATE OF NEW YORK.
+
+
+     (10) Counterparts. The parties may sign any number of copies of this Supplemental
+Indenture. Each signed copy shall be an original, but all of them together represent the same
+agreement.
+
+
+     (11) Effect of Headings. The section headings herein are for convenience only and
+shall not affect the construction hereof.
+
+
+     (12) The Trustee. The Trustee shall not be responsible in any manner whatsoever for
+or in respect of the validity or sufficiency of this Supplemental Indenture or for or in respect of
+the recitals contained herein, all of which recitals are made solely by the Guaranteeing Entities
+and the other parties hereto.
+
+
+     (13) Subrogation. Each Guaranteeing Entity shall be subrogated to all rights of
+Holders of Notes against the Issuer in respect of any amounts paid by such Guaranteeing Entity
+pursuant to the provisions of Section 2 hereof and Section 10.01 of the Indenture;
+provided that, if an Event of Default has occurred and is continuing, such Guaranteeing
+Entity shall not be entitled to enforce or receive any payments arising out of, or based upon, such
+right of subrogation until all amounts then due and payable by the Issuer under the Indenture or
+the Notes shall have been paid in full.
+
+
+     (14) Benefits Acknowledged. Each Guaranteeing Entitys Guarantee is subject to the
+terms and conditions set forth in the Indenture. The Guaranteeing Entity acknowledges that it will
+receive direct and indirect benefits from the financing arrangements contemplated by the Indenture
+and this Supplemental Indenture and that the guarantee and waivers made by it pursuant to this
+Guarantee are knowingly made in contemplation of such benefits.
+
+
+     (15) Successors. All agreements of each Guaranteeing Entity in this Supplemental
+Indenture shall bind its successors, except as otherwise provided in Section 3(n) hereof or
+elsewhere in this Supplemental Indenture. All agreements of the Trustee in this Supplemental
+Indenture shall bind its successors.
+
+
+     (16) Notice of Transfers. The Guaranteeing Entities shall give the Trustee prompt
+written notice of Old Holdings transfer of all or substantially all of its properties and
+
+
+assets to New Holdings and of New Holdings transfer of all or substantially all of its
+properties and assets to New Guarantor promptly after each such transfer.
+
+
+     IN WITNESS WHEREOF, the parties hereto have caused this Supplemental Indenture to be duly
+executed, all as of the date first above written.
+
+
+[Signature page to the Second Supplemental Indenture]
+
+
+WILLIS GROUP HOLDINGS PUBLIC LIMITED COMPANY
+
+
+PRESENT when the common seal of
+
+WILLIS GROUP HOLDINGS
+
+ 
+
+
+PUBLIC LIMITED COMPANY
+
+was affixed to this Deed:-
+
+
+ 
+
+ 
+
+
+ 
+
+Witnesss signature: 
+
+Name: 
+
+Address: 
+
+Occupation: 
+
+[Signature page to the Second Supplemental Indenture]
+
+
+[Signature page to the Second Supplemental Indenture]
+
+
+[Signature page to the Second Supplemental Indenture]
+
+
+[Signature page to the Second Supplemental Indenture]
+
+

@@ -1,0 +1,862 @@
+**********************
+Exhibit 10.16 WILLIS GROUP HOLDINGS 2008 SHARE PURCHASE AND OPTION PLAN
+**********************
+(AS AMENDED AND RESTATED ON DECEMBER 30, 2009 BY WILLIS GROUP HOLDINGS LIMITED AND AS AMENDED AND RESTATED AND ASSUMED BY WILLIS GROUP HOLDINGS PUBLIC LIMITED COMPANY ON DECEMBER 31, 2009)
+**********************
+1.
+Purpose of Plan
+**********************
+The Willis Group Holdings 2008 Share Purchase and Option Plan, as amended and restated on December30, 2009 by Willis Group Holdings Limited and as amended and restated and assumed by Willis Group Holdings Public Limited Company (the Company or Willis) on December31, 2009, is designed:
+**********************
+(a)to promote the long term financial interests and growth of the Company and its Subsidiaries (collectively, Willis Group) by attracting and retaining personnel with the training, experience and ability to enable them to make a substantial contribution to the success of Willis Groups business;
+**********************
+(b)to motivate management personnel by means of growth-related incentives to achieve long range goals; and
+**********************
+(c)to further the identity of interests of participants with those of the shareholders of Willis through opportunities for increased share, or share-based, ownership in Willis.
+**********************
+2.
+Definitions
+**********************
+As used in the Plan, the following words shall have the following meanings:
+**********************
+(a) 2001 Plan means the Willis Group Holdings 2001 Share Purchase and Option Plan as amended and restated on December30, 2009 by Willis Group Holdings Limited and as amended and restated and assumed by Willis Group Holdings Public Limited Company on December31, 2009.
+**********************
+(b) Act means the Companies Act 1963 of Ireland.
+**********************
+(c) Board of Directors means the Board of Directors of Willis.
+**********************
+(d) Change of Control means (a)the acquisition of ownership, directly or indirectly, beneficially or of record, by any Person or group (within the meaning of the Securities Exchange Act of 1934 and the rules of the Securities and Exchange Commission thereunder as in effect on the date hereof) of the Ordinary Shares representing more than 50% of the aggregate voting power represented by the issued and outstanding Ordinary Shares; or (b) occupation of a majority of the seats (other than vacant seats) on the Board of Directors by Persons who were neither (i)nominated by Willis Board of Directors nor (ii)appointed by directors so nominated.
+For the avoidance of doubt, a transaction shall not constitute a Change of Control (i)if effected for the purpose of changing the place of incorporation or form of organization of the ultimate parent entity of the Willis group of companies (including where the Company is succeeded by an issuer incorporated under the laws of another state, country or foreign government for such purpose and whether or not the Company remains in existence following such transaction) and (ii)where all or substantially all of the Person(s) who are the beneficial owners of the outstanding voting securities of the Company immediately prior to such transaction will beneficially own, directly or indirectly, all or substantially all of the combined voting power of the outstanding voting securities entitled to vote generally in the election of directors of the ultimate parent entity resulting from such transaction in substantially the same proportions as their ownership, immediately prior to such transaction, of such outstanding securities of the Company.
+The Board of Directors, in its sole discretion, may make an appropriate and equitable adjustment to the Ordinary Shares underlying a Grant to take into account such
+**********************
+1
+**********************
+transaction, including to substitute or provide for the issuance of ordinary shares of the resulting ultimate parent entity in lieu of Ordinary Shares of the Company.
+**********************
+(e) Code means the Internal Revenue Code of 1986 of the United States of America, as amended from time to time.
+**********************
+(f) Committee means the Compensation Committee of the Board of Directors (or, if no such committee is appointed, the Board of Directors provided that a majority of the Board of Directors are independent directors for the purpose of the rules and regulations of the New York Stock Exchange).
+**********************
+(g) Company or Willis means Willis Group Holding Public Limited Company, a company incorporated in Ireland under registered number 475616, or any successor thereto.
+**********************
+(h) Designated Associate Company means any company in which a member of the Willis Group owns twenty percent or more of the voting share interest but less than fifty percent of the voting share interest and that has been designated by the Board of Directors as being eligible for participation in the Plan.
+**********************
+(i) Director means any member of the Board of Directors.
+**********************
+(j) Dividend Equivalents means an entitlement to receive, in such form and on such terms as the Committee may determine, the value of a dividend or distribution paid by Willis on one of its Shares in accordance with its Bye-Laws that would be payable on the number of Shares subject to a Grant.
+**********************
+(k) Employee means a person, including a Director and an officer, in the employment of Willis Group or a Designated Associate Company.
+**********************
+(l) Fair Market Value means, with respect to any property other than Shares, the market value of such property determined by such methods or procedures as shall be established from time to time by the Committee.
+The Fair Market Value of Shares as of any date shall be the per Share closing price of the Shares as reported on the New York Stock Exchange on that date (or if there were no reported prices on such date, on the last preceding date on which the prices were reported) or, if Willis is not then listed on the New York Stock Exchange, on such other principal securities exchange on which the Shares are traded, and if Willis is not listed on the New York Stock Exchange or any other securities exchange, the Fair Market Value of Shares shall be determined by the Committee in its sole discretion using appropriate criteria which, with respect to Grants to US Participants, shall comply with Section15 and shall be determined pursuant to a reasonable valuation method as set forth in Section409A of the Code.
+**********************
+(m) Grant means an award made to a Participant pursuant to the Plan and described in Section6, including, without limitation, an award of a Share Option, Restricted Share, Restricted Share Unit, Purchase Shares, Other Share-Based Grant, or any combination of the foregoing.
+**********************
+(n) Grant Agreement means an agreement between Willis and a Participant that sets forth the terms, conditions and limitations applicable to a Grant.
+**********************
+(o) Ordinary Shares or Share means the ordinary shares of the Company, nominal value $0.000115.
+**********************
+(p) Participant means an Employee or Director of any member of Willis Group or a Designated Associate Company, to whom one or more Grants have been made, and such Grants have not all expired or been forfeited or terminated under the Plan.
+**********************
+(q) Person means person as such term is used in Sections 13(d) and 14(d) of the Exchange Act.
+**********************
+2
+**********************
+(r) Share-Based Grants means the collective reference to the grant of Purchase Shares, Restricted Share, Restricted Share Units and Other Share-Based Grants.
+**********************
+(s) Share Options means options to purchase Ordinary Shares, which may or may not be incentive stock options within the meaning of Section422 of the Code (Incentive Stock Options).
+**********************
+(t) Subsidiary shall mean with respect to the Company, any subsidiary of the Company within the meaning of Section155 of the Act.
+For purposes of granting Share Options or other stock rights, within the meaning of Section409A of the Code, an entity may not be considered a Subsidiary if granting any such stock right would result in the stock right becoming subject to Section409A of the Code.
+**********************
+(u) Substitute Awards shall mean a Grant or Shares issued by the Company in assumption of, or in substitution or exchange for, awards previously granted, or the right or obligation to make future awards, in each case by a company acquired by the Company or any Subsidiary or with which the Company or any Subsidiary combines.
+**********************
+3.
+Administration of Plan
+**********************
+(a)The Plan shall be administered by the Committee.
+All of the members of the Committee and any other Directors shall be eligible to be selected for Grants under the Plan; provided, however, that to the extent the Board of Directors determines it is necessary or desirable to satisfy any regulation or rule, whether under Section16 of the Securities Exchange Act of 1934 of the United States, as amended (Exchange Act) or otherwise related to the Grants, the members of the Committee shall qualify under such regulation or rules.
+The Committee may adopt its own rules of procedure, and the action of a majority of the Committee, taken at a meeting or taken without a meeting by a writing signed by such majority, shall constitute action by the Committee.
+The Committee shall have the power and authority to administer, construe and interpret the Plan in its sole discretion, to make rules for carrying it out and to make changes in such rules.
+The Committee shall also have the power to establish sub-plans, which may constitute separate schemes, for the purpose of establishing schemes which qualify for approval by the UK Inland Revenue or meet any special tax or regulatory requirements anywhere in the world.
+Any such interpretations, rules, administration and sub-plans shall be consistent with the basic purposes of the Plan and shall be binding on Participants.
+**********************
+(b)The Committee may delegate to the Chief Executive Officer and to other senior officers of Willis Group its duties under the Plan subject to such conditions and limitations as the Committee shall prescribe except that only the Committee may designate and make Grants, including the variation (including substitution), cancellation or suspension of said Grant, to Participants who are subject to Section16 of the Exchange Act.
+**********************
+(c)The Committee may employ attorneys, consultants, accountants, appraisers, brokers or other persons.
+The Committee, Willis Group, and the officers and Directors of Willis Group shall be entitled to rely upon the advice, opinions or valuations of any such persons.
+All actions taken and all interpretations and determinations made by the Committee in good faith shall be final and binding upon all Participants, Willis Group and all other interested persons.
+No member of the Committee shall be personally liable for any action, determination or interpretation made in good faith with respect to the Plan or the Grants, and all members of the Committee shall be fully protected by Willis Group with respect to any such action, determination or interpretation.
+**********************
+(d)Notwithstanding anything to the contrary contained in the Plan or any Grant Agreement, (i)neither Willis, the Willis Group, any Designated Associate Company or any of their respective employees, directors, officers, agents or representatives nor any member of the Committee shall have liability to a Participant or otherwise with respect to the failure of the Plan, any Grant or Grant Agreement to comply with Section409A of the Code and (ii) neither Willis, the Willis Group, any Designated Associate Company or any of their respective employees, directors, officers, agents or representatives nor any member of the Committee makes any representation or warranty to any Participant that any Grant hereunder satisfies the requirements of Section409A of the Code.
+**********************
+3
+**********************
+4.
+Eligibility
+**********************
+Subject to Section12 of the Plan, the Committee may from time to time make Grants under the Plan to such Employees of the Willis Group or of any Designated Associate Company, and in such form and having such terms, conditions and limitations as the Committee may determine.
+Grants may be granted singly, in combination or in tandem.
+The terms, conditions and limitations of each Grant under the plan shall be set forth in a Grant Agreement, in a form approved by the Committee, consistent, however, with the terms of the Plan.
+**********************
+5.
+Share Limitations and Conditions
+**********************
+(a)Number of SharesSubject to adjustment as provided in Section9, a total of 8,000,000 Shares shall be authorized for grant under the Plan.
+The Shares available for the grant of Incentive Stock Options under the Plan shall not exceed 5,000,000 Shares, subject to adjustment as provided in Section9 and subject to the provisions of Sections422 or 424 of the Code or any successor provisions.
+The Shares available for the grant of Restricted Share, Restricted Share Units or other full-value share-based grants under the Plan shall not exceed 2,000,000.
+**********************
+If any Shares subject to a Grant are forfeited, terminate, expire or a Grant is settled for cash (in whole or in part) or otherwise does not result in the issuance of all or a portion of the Shares subject to such Grant, the Shares subject to such Grant or award shall, to the extent of such forfeiture, expiration, termination, non-issuance, cash settlement or otherwise, again be available for Grants under the Plan.
+Notwithstanding anything to the contrary contained herein, the following Shares shall not be added to the Shares authorized for grant under paragraph (a)of this Section: (i)Shares tendered by the Participant or withheld by the Company in payment of the purchase price of a Share Option; (ii)Shares tendered by the Participant or withheld by the Company to satisfy any tax withholding obligation with respect to a Grant; and (iii)Shares repurchased by the Company using Option proceeds.
+**********************
+(b)Substitute Awards shall not reduce the Shares authorized for grant under the Plan or authorized for grant to a Participant in any calendar year.
+Additionally, in the event that a company acquired by Willis or any Subsidiary or with which the Willis or any Subsidiary combines has shares available under a pre-existing plan approved by shareholders and not adopted in contemplation of such acquisition or combination, the shares available for grant pursuant to the terms of such pre-existing plan (as adjusted, to the extent appropriate, using the exchange ratio or other adjustment or valuation ratio or formula used in such acquisition or combination to determine the consideration payable to the holders of Ordinary Shares of the entities party to such acquisition or combination) may be used for Grants under the Plan and shall not reduce the Shares authorized for grant under the Plan; provided that Grants using such available shares shall not be made after the date grants could have been made under the terms of the pre-existing plan, absent the acquisition or combination, and shall only be made to individuals who were not Employees or Directors prior to such acquisition or combination.
+**********************
+(c)Purchase Shares, as defined in Section6 (c)below whether offered to a participant or in connection with any other Grant under this Plan, shall not be counted against the above limits if they are sold to a Participant at Fair Market Value on the date of purchase.
+**********************
+(d)The number of Shares subject to Grants under this Plan to any one Participant shall not be more than 2,000,000 Shares in any one calendar year and such limit shall not include Purchase Shares.
+**********************
+(e)No Grants shall be made under the Plan beyond ten years after the original effective date of the Plan, but the terms of Grants made on or before the expiration of the Plan may extend beyond such expiration.
+At the time a Grant is made or amended or the terms or conditions of a Grant are changed, the Committee may provide for limitations or conditions on such Grant.
+**********************
+(f)Nothing contained herein shall affect the right of Willis Group or, if applicable, a Designated Associate Company to terminate any Participants employment at any time or for any reason.
+The rights and obligations of any individual under the terms of his office or employment with any member of Willis
+**********************
+4
+**********************
+Group or, if applicable, a Designated Associate Company shall not be affected by his or her participation in this Plan or any right which he or she may have to participate in it, and an individual who participates in this Plan shall waive any and all rights to compensation or damages in consequence of the termination of his or her office or employment for any reason whatsoever insofar as those rights arise or may arise from his or her ceasing to have rights under or be entitled to exercise any Grant as a result of such termination.
+**********************
+(g)Subject to complying with Section409A of the Code, deferrals of Grant payouts may be provided for, at the sole discretion of the Committee, in the Grant Agreements.
+**********************
+(h)Except as otherwise prescribed by the Committee, the amounts of the Grants for any employee of a Subsidiary, along with interest, dividend, and other expenses accrued on deferred Grants shall be charged to the Participants employer during the period for which the Grant is made.
+If the Participant is employed by more than one Subsidiary or by both the Company and a Subsidiary during the period for which the Grant is made, the Participants Grant and related expenses will be allocated between the companies employing the Participant in a manner prescribed by the Committee.
+**********************
+(i)No option, right or benefit under the Plan may be transferred by a Participant other than by will or the laws of descent and distribution, and except as set forth in paragraph (k)of this Section, all options, rights and benefits under the Plan may be exercised during the Participants lifetime only by the Participant.
+No such benefit shall, prior to receipt thereof by the Participant, be in any manner liable for or subject to the debts, contracts, liabilities, engagements, or torts of the Participant.
+**********************
+(j)Participants shall not be, and shall not have any of the rights or privileges of, shareholders of Willis in respect of any Shares purchasable in connection with any Grant unless and such Shares have been issued by Willis to such Participants, unless the Committee shall otherwise determine.
+**********************
+(k)No election as to benefits or exercise of Share Options or other rights may be made during a Participants lifetime by anyone other than the Participant or by a legal representative appointed for or by the Participant.
+**********************
+(l)Absent express provisions to the contrary, any Grant under this Plan shall not be deemed compensation for purposes of computing benefits or contributions under any retirement plan of any member of Willis Group and shall not affect any benefits under any other benefit plan of any kind now or subsequently in effect under which the availability or amount of benefits is related to level of compensation.
+This Plan is not a Pension Plan or Welfare Plan under the Employee Retirement Income Security Act of 1974 of the United States, as amended.
+**********************
+(m)Unless the Board of Directors determines otherwise, no benefit or promise under the Plan shall be secured by any specific assets of any member of Willis Group, nor shall any assets of any member of Willis Group be designated as attributable or allocated to the satisfaction of Willis Groups obligations under the Plan.
+**********************
+6.
+Grants
+**********************
+From time to time, the Committee will determine the forms and amounts of Grants for Participants.
+Such Grants may take the following forms in the Committees sole discretion; provided, however, that in no event shall the purchase price of any Grant be less than the par value of the Shares.
+The terms of any Grant may include a requirement that the Participant enter into an agreement or election under which the Participant agrees to pay his or her employers social security liability (or reimburse the employer for such liability) in any jurisdiction arising on exercise of any Share Option, or at any other time with respect to any other Share-Based Award, and if this requirement is not permitted in any jurisdiction the Grant in such circumstances shall be null and void.
+**********************
+(a)Share OptionsThese are options to purchase Ordinary Shares, which may or may not be Incentive Stock Options.
+The option price per each Share purchasable under any Share Option granted pursuant to this Article shall not be less than 100% of the Fair Market Value of one Share on the date of
+**********************
+5
+**********************
+grant of such option (or, if the person to whom the Incentive Stock Option is being granted owns Ordinary Shares representing more than 10percent of the voting power of all classes of Willis equity, the exercise price shall be at least equal to 110% of the Fair Market Value of one Ordinary Share on the date of grant) other than in connection with Substitute Awards.
+At the time of the Grant the Committee shall determine, and shall have contained in the Grant Agreement the option exercise period, the option price, and such other conditions or restrictions on the grant or exercise of the option as the Committee deems appropriate, which may include the requirement that the grant of options is predicated on the acquisition of Purchase Shares under Section 6(c) by the Participant or as may be required pursuant to applicable law, if such options shall be Incentive Stock Options, subject to Section12.
+Payment of the option price shall be made in cash or in Ordinary Shares (provided, that such Shares have been held by the Participant for not less than six months (or such other period as established by the Committee from time to time)), or a combination thereof, in accordance with the terms of the Plan, the Grant Agreement and any applicable guidelines of the Committee in effect at the time.
+Notwithstanding anything to the contrary in the Plan, Incentive Stock Options may be granted only to employees of Willis or of a parent corporation or subsidiary corporation (as such terms are defined in Section424 of the Code) at the date of grant.
+The aggregate Fair Market Value (generally determined as of the time the Share Option is granted) of the Shares with respect to which Incentive Stock Options are exercisable for the first time by a Participant during any calendar year (under all plans of Willis and of any parent corporation or subsidiary corporation as defined in Section424 of the Code) shall not exceed one hundred thousand dollars ($100,000).
+For purposes of the preceding sentence, Incentive Stock Options will be taken into account generally in the order in which they are granted.
+No Incentive Stock Option may be exercised later than ten (10)years after the date it is granted or five years, in the case of a Participant who owns Ordinary Shares representing more than 10percent of the voting power of all classes of Willis equity.
+Each provision of the Plan and each Grant Agreement relating to an Incentive Stock Option shall be construed so that each Incentive Stock Option shall be an incentive stock option as defined in Section422 of the Code, and any provisions of the Grant Agreement thereof that cannot be so construed shall be disregarded.
+Except for Substitute Awards and in certain limited situations, including, without limitation the death, disability, termination of employment of the Participant without good cause as determined by the Committee, or retirement of the Participant or a Change of Control, Share Options shall have a vesting period of not less than three (3)years from date of grant (but permitting pro rata vesting over such time) provided that such restrictions shall not be applicable to grants of Share Options, Restricted Share Awards or Restricted Share Unit Awards not in excess of 5% of the number of shares available for Grants under Section5(a).
+Share Options subject to the achievement of performance objectives shall have a minimum vesting period of one (1)year.
+**********************
+(b)Restricted Share and Restricted Share UnitsGrants of Restricted Share and of Restricted Share Units may be issued to Participants either alone or in addition to other Grants made under the Plan (a Restricted Share Award or Restricted Share Unit Award respectively).
+Except for Substitute Awards and in certain limited situations, including, without limitation the death, disability, termination of employment of the Participant without good cause as determined by the Committee, or retirement of the Participant, a Change of Control, Restricted Share Awards and Restricted Share Unit Awards subject to continued service with the Company or a Subsidiary shall have a vesting period of not less than three (3)years from date of grant (but permitting pro rata vesting over such time); provided that such restrictions shall not be applicable to grants of Share Options, Restricted Share Awards or Restricted Share Unit Awards not in excess of 5% of the number of shares available for Grants under Section5(a).
+Restricted Share Awards and Restricted Share Unit Awards subject to the achievement of performance objectives shall have a minimum vesting period of one (1)year.
+**********************
+Unless otherwise provided in the Grant Agreement, beginning on the date of grant of the Restricted Share Award and subject to execution of the Grant Agreement, the Participant shall become a shareholder of Willis with respect to all Shares subject to the Grant Agreement and shall have all of the rights of a shareholder, including the right to vote such Shares and the right to receive distributions made with respect to such Shares.
+A Participant receiving a Restricted Share Unit Award shall not possess the rights of a shareholder of Willis with respect to such grant.
+Except as otherwise provided in an Grant Agreement any Shares or any other property (other than cash) distributed as a dividend or otherwise with respect to any Restricted Share Award or Restricted Share Unit Award as to which the restrictions have not yet lapsed shall be subject to the same restrictions as such Restricted Share Award or Restricted Share Unit Award.
+**********************
+6
+**********************
+Should Shares be issued upon vesting of Restricted Share Award or Restricted Share Unit Awards in circumstances where they are not otherwise fully paid up, the Board may require the Participant to pay the aggregate nominal value of the Shares on the basis that such Shares underlying the Restricted Share Award or Restricted Share Unit Award shall then be allotted as fully paid to the Participant.
+**********************
+(c)Purchase SharesPurchase Shares refer to Ordinary Shares held in Willis employee share ownership plan trust, The Trinity Employees Share Ownership Plan Trust, offered to a Participant at not less than 100% of the Fair Market Value of one Share on the date of purchase, the acquisition of which may make him eligible to receive under the Plan, among other things, Share Options.
+**********************
+(d)Other Share-Based GrantsThe Committee may make other Grants under the Plan pursuant to which Ordinary Shares or other equity securities of Willis are or may in the future be acquired, or Grants denominated in Share units, including ones valued using measures other than Fair Market Value.
+Other Share-Based Grants may be granted with or without consideration.
+Should Ordinary Shares be issued on the vesting of a Share-Based Grant in circumstances where they are not otherwise fully paid up, the Board may require the Participant to pay the aggregate nominal value of such Ordinary Shares on the basis that such Ordinary Shares shall then be allotted as fully paid to the Participant.
+**********************
+(e)Entitlement to Dividend EquivalentsSubject to complying with Section409A of the Code and the provisions of the Plan, including, without limitation Section14, and any Grant Agreement, the recipient of a Grant other than a Share Option may, if so determined by the Committee, be entitled to receive, currently or on a deferred basis, cash, Share or other property dividends, or cash payments in amounts equivalent to cash, Share or other property dividends on Shares (Dividend Equivalents) with respect to the number of Shares covered by the Grant, as determined by the Committee, in its sole discretion.
+The right of US Participants to receive Dividend Equivalents or other dividends or payments shall be treated as a separate Grant and such Dividend Equivalents or other dividends or payments for such US Participants, if any, shall be credited to a notional account maintained by Willis or paid, as of the dividend payment dates during the period between the date of the Grant and the date the Grant is exercised, vested, expired, credited or paid, as applicable and shall be subject to such limitations as may be determined by the Committee.
+The Committee may provide that such amounts and Dividend Equivalents (if any) shall be deemed to have been reinvested in additional Shares or otherwise reinvested and may provide that such amounts and Dividend Equivalents are subject to the same vesting or performance conditions as the underlying Grant.
+**********************
+(f)Performance AwardsIf the Committee determines that a Share Option, Restricted Share Award, a Restricted Share Unit Award, a Performance Award or an Other Share-Based Award is intended to be subject to performance goals, the lapsing of restrictions thereon and the distribution of cash, Shares or other property pursuant thereto, as applicable, shall be subject to the achievement of one or more objective performance goals established by the Committee, which shall be based on the attainment of specified levels of one or any combination of the following: net revenue; revenue growth or product revenue growth; operating income (before or after taxes); pre- or after-tax income (before or after allocation of corporate overhead and bonus); earnings per share; net income (before or after taxes); return on equity; total shareholder return; return on assets or net assets; appreciation in and/or maintenance of the price of the Shares or any other publicly-traded securities of Willis; market share; gross profits; earnings (including earnings before taxes, earnings before interest and taxes or earnings before interest, taxes, depreciation and amortization); economic value-added models or equivalent metrics; comparisons with various Share market indices; reductions in costs; cash flow or cash flow per share (before or after dividends); return on capital (including return on total capital or return on invested capital); cash flow return on investment; improvement in or attainment of expense levels or working capital levels; operating margins, gross margins or cash margin; year-end cash; debt reductions; Shareholder equity; market share; regulatory achievements; and implementation, completion or attainment of measurable objectives with respect to research, development, products or projects, production volume levels, acquisitions and divestitures and recruiting and maintaining personnel.
+Such performance goals also may be based solely by reference to Willis performance or the performance of a Subsidiary, division, business segment or business unit of Willis, or based upon the relative performance of other companies or upon comparisons of any of the indicators of performance relative to other companies.
+The Committee may also exclude charges related to an event or
+**********************
+7
+**********************
+occurrence which the Committee determines should appropriately be excluded, including (a) restructurings, discontinued operations, extraordinary items, and other unusual or non-recurring charges, (b)an event either not directly related to the operations of Willis or not within the reasonable control of Willis management, or (c)the cumulative effects of tax or accounting changes in accordance with U.S. generally accepted accounting principles.
+Such performance goals shall be set by the Committee within the time period prescribed by, and shall otherwise comply with the requirements of, Section 162(m) of the Code, and the regulations thereunder.
+**********************
+7.
+Forfeiture or Clawback of Awards
+**********************
+Notwithstanding anything to the contrary contained herein, a Grant Agreement may provide that the Grant shall be canceled if the Participant, without the consent of Willis, while employed by Willis, any Subsidiary or, if applicable, a Designated Associate Company or after termination of such employment or service, establishes a relationship with a competitor of Willis, any Subsidiary or, if applicable, a Designated Associate Company or engages in activity that is in conflict with or adverse to the interest of Willis, any Subsidiary or, if applicable, a Designated Associate Company (including conduct contributing to financial restatements or irregularities), as determined by the Board of Directors in its sole discretion.
+The Committee may provide in a Grant Agreement that if within the time period specified in the Grant Agreement the Participant establishes a relationship with a competitor or engages in an activity referred to in the preceding sentence, the Participant will forfeit any gain realized on the vesting or exercise of the Grant and must repay such gain to Willis.
+**********************
+8.
+Transfers and Leaves of Absence
+**********************
+For purposes of the Plan, unless the Committee determines otherwise: (a)a transfer of a Participants employment without an intervening period of separation among a member of the Willis Group and any Subsidiary or Designated Associate Company shall not be deemed a termination of employment, and (b)a Participant who is granted in writing a leave of absence shall be deemed to have remained in the employ of Willis Group or Designated Associate Company during such leave of absence.
+**********************
+9.
+Adjustments
+**********************
+In the event of any change in the outstanding Ordinary Shares by reason of a Share split, spin-off, Share or extraordinary cash dividend, Share combination or reclassification, recapitalization or merger, Change of Control, or similar event, the Committee shall substitute or adjust proportionately, in its sole discretion, (a)the number and kind of Shares or other securities that may be issued under the Plan or under particular forms of Grants, (b)the number and kind of Shares or other securities subject to outstanding Grants, (c)the Share Option exercise price, grant price or purchase price applicable to outstanding Grants, (d)the grant of a Dividend Equivalent or other dividends or payments, and/or (e)other value determinations applicable to the Plan or outstanding Grants, in all events in order to allow Participants to participate to such event in an equitable manner.
+An adjustment under this provision may have the effect of reducing the price at which Ordinary Shares may be acquired to less than their nominal value (the Shortfall), but only if and to the extent that the Board shall be authorized to capitalize from the reserves of the Company a sum equal to the Shortfall and to apply that sum in paying up that amount on the Ordinary Shares.
+**********************
+10.
+Change of Control
+**********************
+(a)Grant Agreements may provide that in the event of a Change of Control of Willis, Share Options outstanding as of the date of the Change of Control shall be cancelled and terminated without payment therefore if 100% of the Fair Market Value of one Share as of the date of the Change of Control is less than the per Share Option exercise price grant price.
+**********************
+(b)Assumption or Substitution of Certain AwardsUnless otherwise provided in a Grant Agreement, in the event of a Change of Control of Willis in which the successor company assumes or substitutes for a Share Option, Restricted Share Award, Restricted Share Unit Award or Other Share-Based Grant, if a Participants employment with such successor company (or a subsidiary thereof) terminates within 24months following such Change of Control (or such other period set forth in the Grant Agreement,
+**********************
+8
+**********************
+including prior thereto if applicable) and under the circumstances specified in the Grant Agreement: (i)Share Options outstanding as of the date of such termination of employment will immediately vest, become fully exercisable, and may thereafter be exercised for 24months (or the period of time set forth in the Grant Agreement), (ii)restrictions and deferral limitations on Restricted Share Awards and Restricted Share Units Awards shall lapse and the Restricted Shares and Restricted Share Units shall become free of all restrictions and limitations and become fully vested, and (iii)the restrictions and deferral limitations and other conditions applicable to any Other Share-Based Grants or any other Grants shall lapse, and such Other Share-Based Grants or such other Grants shall become free of all restrictions, limitations or conditions and become fully vested and transferable to the full extent of the original Grant.
+For the purposes of this Section10(b), a Share Option, Restricted Share Award, Restricted Share Unit Award or Other Share-Based Grants shall be considered assumed or substituted for if following the Change of Control the Grant confers the right to purchase or receive, for each Share subject to the Share Option, Restricted Share Award, Restricted Share Unit Award or Other Share-Based Grants immediately prior to the Change of Control, the consideration (whether Shares, cash or other securities or property) received in the transaction constituting a Change of Control by holders of Shares for each Share held on the effective date of such transaction (and if holders were offered a choice of consideration, the type of consideration chosen by the holders of a majority of the outstanding shares); provided, however, that if such consideration received in the transaction constituting a Change of Control is not solely ordinary shares of the successor company, the Committee may, with the consent of the successor company, provide that the consideration to be received upon the exercise or vesting of a Share Option, Restricted Share Award, Restricted Share Unit Award or Other Share-Based Grant, for each Share subject thereto, will be solely ordinary shares of the successor company substantially equal in Fair Market Value to the per Share consideration received by holders of Shares in the transaction constituting a Change in Control.
+The determination of such substantial equality of value of consideration shall be made by the Committee in its sole discretion and its determination shall be conclusive and binding.
+**********************
+(c)Unless otherwise provided in a Grant Agreement, in the event of a Change of Control of Willis to the extent the successor company does not assume or substitute for a Share Option, Restricted Stock Award, Restricted Stock Unit Award or Other Share-Based Grant: (i)those Share Options outstanding as of the date of the Change of Control that are not assumed or substituted for shall immediately vest and become fully exercisable, (ii)restrictions and deferral limitations on Restricted Stock and Restricted Stock Units that are not assumed or substituted for shall lapse and the Restricted Stock and Restricted Stock Units shall become free of all restrictions and limitations and become fully vested, and (iii)the restrictions and deferral limitations and other conditions applicable to any Other Share-Based Grants or any other Grants that are not assumed or substituted for shall lapse, and such Other Share-Based Grants or such other Grants shall become free of all restrictions, limitations or conditions and become fully vested and transferable to the full extent of the original grant.
+**********************
+(d)The Committee, in its discretion, may determine that, upon the occurrence of a Change of Control of Willis, each Share Option outstanding shall terminate within a specified number of days after notice to the Participant, and/or that each Participant shall receive, with respect to each Share subject to such Share Option an amount equal to the excess of the Fair Market Value of such Share immediately prior to the occurrence of such Change of Control over the exercise price per share of such Share Option; such amount to be payable in cash, in one or more kinds of Shares or property (including the Shares or property, if any, payable in the transaction) or in a combination thereof, as the Committee, in its discretion, shall determine.
+**********************
+11.
+Amendment and Termination
+**********************
+The Committee shall have the authority to make such amendments to any terms and conditions applicable to outstanding Grants as are consistent with this Plan.
+The Board of Directors may amend, suspend or terminate the Plan at any time.
+**********************
+Without the approval of Willis Shareholders, other than pursuant to Section9, the Committee shall not (i)increase the benefits accrued to Participants, (ii)increase the number of shares which may be issued under the Plan, (iii)cancel any Share Option in exchange for cash or another Grant (other than in connection with Substitute
+**********************
+9
+**********************
+Awards) (iv) modify the requirements for participation in the Plan, (v)lapse or waive restrictions except in limited cases relating to death, disability, retirement, termination of employment without cause or for good reason as is determined by the Board, or Change of Control.
+**********************
+12.
+Foreign Options and Rights
+**********************
+The Committee or Board of Directors, as applicable, may establish rules or schemes in order to make Grants to Employees who are subject to the laws of nations other than Ireland, which Grants may have terms and conditions that differ from the terms thereof as provided elsewhere in the Plan for the purpose of complying with foreign laws.
+In the event that the Committee or Board of Directors establishes such rules or schemes, the substantive provisions thereof shall be set forth on schedules attached hereto, and are hereby incorporated by reference as part of the Plan, subject to any additional action required to be taken pursuant to the applicable foreign law.
+**********************
+13.
+Withholding Taxes
+**********************
+(a)Willis Group shall have the right to deduct from any cash payment made under the Plan any federal, state, local, national, provincial or other income or other taxes required by law to be withheld with respect to such payment.
+It shall be a condition to the obligation of Willis Group to deliver shares upon the exercise of a Share Option, upon delivery of Restricted Share or upon exercise, settlement or payment of Restricted Share Units or any Other Share-Based Grant that the Participant shall pay to Willis Group such amount as may be requested by Willis Group for the purpose of satisfying any liability for such withholding taxes.
+Any Grant Agreement may provide that the Participant may elect, in accordance with any conditions set forth in such Grant Agreement, to pay a portion or the entire minimum amount of such withholding taxes in Ordinary Shares.
+**********************
+(b)In the event that Willis Group is required to account for tax arising from the exercise or vesting of a Grant to the relevant tax authorities and the Participant has not paid, or otherwise made arrangements acceptable to Willis Group to pay the amounts due, Willis Group shall be authorized to procure and effect the sale of a sufficient number of Shares to be allotted or transferred to the Participant as a consequence of the vesting or exercise of the Grant in order to pay the amounts due out of the sale proceeds.
+**********************
+(c)Notwithstanding anything set forth in this Section13, an option may not be exercised unless:
+**********************
+(i)the Board of Directors considers that the issue or transfer of shares pursuant to such exercise would be lawful in all relevant jurisdictions; and
+**********************
+(ii)in a case where, if the option were exercised, Willis Group would be obliged to (or would suffer a disadvantage if it were not to) account for any tax (in any jurisdiction) for which the person in question would be liable by virtue of the exercise of the option and/or for any social security contributions that would be recoverable from the person in question (together, the Tax Liability), that person has either:
+**********************
+(d)made a payment to Willis Group of an amount at least equal to the Companys estimate of the Tax Liability; or
+**********************
+(e)entered into arrangements acceptable to Willis Group to secure that such a payment is made (whether by authorizing the sale of some or all of the shares on his behalf and the payment to Willis Group of the relevant amount out of the proceeds of sale or otherwise).
+**********************
+14.
+Compliance with Section409A of the Code
+**********************
+(a)To the extent that the Plan and/or Grants are subject to Section409A of the Code, the Committee may, in its sole discretion and without a Participants prior consent, amend the Plan and/or Grants, adopt policies and procedures, or take any other actions (including amendments, policies, procedures and actions with retroactive effect) as are necessary or appropriate to (a)exempt the Plan and/or any Grant from the
+**********************
+10
+**********************
+application of Section409A of the Code, (b)preserve the intended tax treatment of any such Grant, and/or (c)comply with the requirements of Section409A of the Code.
+This Plan shall be interpreted at all times in such a manner that the terms and provisions of the Plan and Grants are exempt from or comply with Section409A of the Code.
+Reference to Section409A of the Code includes reference to any proposed, temporary or final regulations and any other guidance promulgated with respect to such section by the U.S. Department of the Treasury of the Internal Revenue Service.
+**********************
+(b)All Grants that would otherwise be subject to Section409A of the Code shall be paid or otherwise settled on or as soon as practicable after the applicable vesting date and not later than the 15th day of the third month from the end of (i)the Participants tax year that includes the applicable vesting date, or (ii)Willis tax year that includes the applicable vesting date, whichever is later; provided, however, that the Committee reserves the right to delay payment or specify a compliant payment date with respect to any such Grant under circumstances set forth in Section409A of the Code; provided, further, that notwithstanding any contrary provision of the Plan or a Grant Agreement, any payment(s) that are otherwise required to be made under the Plan to a specified employee (as defined under Section409A of the Code) as a result of his or her separation from service (other than a payment that is not subject to Section409A of the Code) shall be delayed for the first six (6)months following such separation from service (or, if earlier, the date of death of the specified employee) and shall instead be paid (in a manner set forth in the Grant Agreement) on the date that immediately follows the end of such six-month period or as soon as administratively practicable thereafter.
+**********************
+15.
+Governing Law
+**********************
+This Plan shall be governed by the laws of Ireland, without regard to conflicts of laws.
+**********************
+16.
+Effective Date and Termination Dates
+**********************
+The Plan became effective on and as of the date of the original approval of the Willis Group Holdings 2008 Share Purchase and Option Plan by a majority of the shareholders of Willis, and shall terminate ten years thereafter, subject to earlier termination by the Board of Directors pursuant to Section11.
+**********************
+11
+**********************
+Exhibit 10.16 WILLIS GROUP HOLDINGS 2008 SHARE PURCHASE AND OPTION PLAN
+**********************
+(AS AMENDED AND RESTATED ON DECEMBER 30, 2009 BY WILLIS GROUP HOLDINGS LIMITED AND AS AMENDED AND RESTATED AND ASSUMED BY WILLIS GROUP HOLDINGS PUBLIC LIMITED COMPANY ON DECEMBER 31, 2009)
+**********************
+1.
+Purpose of Plan
+**********************
+The Willis Group Holdings 2008 Share Purchase and Option Plan, as amended and restated on December30, 2009 by Willis Group Holdings Limited and as amended and restated and assumed by Willis Group Holdings Public Limited Company (the Company or Willis) on December31, 2009, is designed:
+**********************
+(a)to promote the long term financial interests and growth of the Company and its Subsidiaries (collectively, Willis Group) by attracting and retaining personnel with the training, experience and ability to enable them to make a substantial contribution to the success of Willis Groups business;
+**********************
+(b)to motivate management personnel by means of growth-related incentives to achieve long range goals; and
+**********************
+(c)to further the identity of interests of participants with those of the shareholders of Willis through opportunities for increased share, or share-based, ownership in Willis.
+**********************
+2.
+Definitions
+**********************
+As used in the Plan, the following words shall have the following meanings:
+**********************
+(a) 2001 Plan means the Willis Group Holdings 2001 Share Purchase and Option Plan as amended and restated on December30, 2009 by Willis Group Holdings Limited and as amended and restated and assumed by Willis Group Holdings Public Limited Company on December31, 2009.
+**********************
+(b) Act means the Companies Act 1963 of Ireland.
+**********************
+(c) Board of Directors means the Board of Directors of Willis.
+**********************
+(d) Change of Control means (a)the acquisition of ownership, directly or indirectly, beneficially or of record, by any Person or group (within the meaning of the Securities Exchange Act of 1934 and the rules of the Securities and Exchange Commission thereunder as in effect on the date hereof) of the Ordinary Shares representing more than 50% of the aggregate voting power represented by the issued and outstanding Ordinary Shares; or (b) occupation of a majority of the seats (other than vacant seats) on the Board of Directors by Persons who were neither (i)nominated by Willis Board of Directors nor (ii)appointed by directors so nominated.
+For the avoidance of doubt, a transaction shall not constitute a Change of Control (i)if effected for the purpose of changing the place of incorporation or form of organization of the ultimate parent entity of the Willis group of companies (including where the Company is succeeded by an issuer incorporated under the laws of another state, country or foreign government for such purpose and whether or not the Company remains in existence following such transaction) and (ii)where all or substantially all of the Person(s) who are the beneficial owners of the outstanding voting securities of the Company immediately prior to such transaction will beneficially own, directly or indirectly, all or substantially all of the combined voting power of the outstanding voting securities entitled to vote generally in the election of directors of the ultimate parent entity resulting from such transaction in substantially the same proportions as their ownership, immediately prior to such transaction, of such outstanding securities of the Company.
+The Board of Directors, in its sole discretion, may make an appropriate and equitable adjustment to the Ordinary Shares underlying a Grant to take into account such
+**********************
+1
+**********************
+Exhibit 10.16
+**********************
+WILLIS GROUP HOLDINGS 2008 SHARE PURCHASE AND OPTION PLAN
+**********************
+(AS AMENDED AND RESTATED ON DECEMBER 30, 2009 BY WILLIS GROUP HOLDINGS LIMITED AND AS AMENDED AND RESTATED AND ASSUMED BY WILLIS GROUP HOLDINGS PUBLIC LIMITED COMPANY ON DECEMBER 31, 2009)
+**********************
+1.
+Purpose of Plan
+**********************
+The Willis Group Holdings 2008 Share Purchase and Option Plan, as amended and restated on December30, 2009 by Willis Group Holdings Limited and as amended and restated and assumed by Willis Group Holdings Public Limited Company (the Company or Willis) on December31, 2009, is designed:
+**********************
+(a)to promote the long term financial interests and growth of the Company and its Subsidiaries (collectively, Willis Group) by attracting and retaining personnel with the training, experience and ability to enable them to make a substantial contribution to the success of Willis Groups business;
+**********************
+(b)to motivate management personnel by means of growth-related incentives to achieve long range goals; and
+**********************
+(c)to further the identity of interests of participants with those of the shareholders of Willis through opportunities for increased share, or share-based, ownership in Willis.
+**********************
+2.
+Definitions
+**********************
+As used in the Plan, the following words shall have the following meanings:
+**********************
+(a) 2001 Plan means the Willis Group Holdings 2001 Share Purchase and Option Plan as amended and restated on December30, 2009 by Willis Group Holdings Limited and as amended and restated and assumed by Willis Group Holdings Public Limited Company on December31, 2009.
+**********************
+(b) Act means the Companies Act 1963 of Ireland.
+**********************
+(c) Board of Directors means the Board of Directors of Willis.
+**********************
+(d) Change of Control means (a)the acquisition of ownership, directly or indirectly, beneficially or of record, by any Person or group (within the meaning of the Securities Exchange Act of 1934 and the rules of the Securities and Exchange Commission thereunder as in effect on the date hereof) of the Ordinary Shares representing more than 50% of the aggregate voting power represented by the issued and outstanding Ordinary Shares; or (b) occupation of a majority of the seats (other than vacant seats) on the Board of Directors by Persons who were neither (i)nominated by Willis Board of Directors nor (ii)appointed by directors so nominated.
+For the avoidance of doubt, a transaction shall not constitute a Change of Control (i)if effected for the purpose of changing the place of incorporation or form of organization of the ultimate parent entity of the Willis group of companies (including where the Company is succeeded by an issuer incorporated under the laws of another state, country or foreign government for such purpose and whether or not the Company remains in existence following such transaction) and (ii)where all or substantially all of the Person(s) who are the beneficial owners of the outstanding voting securities of the Company immediately prior to such transaction will beneficially own, directly or indirectly, all or substantially all of the combined voting power of the outstanding voting securities entitled to vote generally in the election of directors of the ultimate parent entity resulting from such transaction in substantially the same proportions as their ownership, immediately prior to such transaction, of such outstanding securities of the Company.
+The Board of Directors, in its sole discretion, may make an appropriate and equitable adjustment to the Ordinary Shares underlying a Grant to take into account such
+**********************
+transaction, including to substitute or provide for the issuance of ordinary shares of the resulting ultimate parent entity in lieu of Ordinary Shares of the Company.
+**********************
+(e) Code means the Internal Revenue Code of 1986 of the United States of America, as amended from time to time.
+**********************
+(f) Committee means the Compensation Committee of the Board of Directors (or, if no such committee is appointed, the Board of Directors provided that a majority of the Board of Directors are independent directors for the purpose of the rules and regulations of the New York Stock Exchange).
+**********************
+(g) Company or Willis means Willis Group Holding Public Limited Company, a company incorporated in Ireland under registered number 475616, or any successor thereto.
+**********************
+(h) Designated Associate Company means any company in which a member of the Willis Group owns twenty percent or more of the voting share interest but less than fifty percent of the voting share interest and that has been designated by the Board of Directors as being eligible for participation in the Plan.
+**********************
+(i) Director means any member of the Board of Directors.
+**********************
+(j) Dividend Equivalents means an entitlement to receive, in such form and on such terms as the Committee may determine, the value of a dividend or distribution paid by Willis on one of its Shares in accordance with its Bye-Laws that would be payable on the number of Shares subject to a Grant.
+**********************
+(k) Employee means a person, including a Director and an officer, in the employment of Willis Group or a Designated Associate Company.
+**********************
+(l) Fair Market Value means, with respect to any property other than Shares, the market value of such property determined by such methods or procedures as shall be established from time to time by the Committee.
+The Fair Market Value of Shares as of any date shall be the per Share closing price of the Shares as reported on the New York Stock Exchange on that date (or if there were no reported prices on such date, on the last preceding date on which the prices were reported) or, if Willis is not then listed on the New York Stock Exchange, on such other principal securities exchange on which the Shares are traded, and if Willis is not listed on the New York Stock Exchange or any other securities exchange, the Fair Market Value of Shares shall be determined by the Committee in its sole discretion using appropriate criteria which, with respect to Grants to US Participants, shall comply with Section15 and shall be determined pursuant to a reasonable valuation method as set forth in Section409A of the Code.
+**********************
+(m) Grant means an award made to a Participant pursuant to the Plan and described in Section6, including, without limitation, an award of a Share Option, Restricted Share, Restricted Share Unit, Purchase Shares, Other Share-Based Grant, or any combination of the foregoing.
+**********************
+(n) Grant Agreement means an agreement between Willis and a Participant that sets forth the terms, conditions and limitations applicable to a Grant.
+**********************
+(o) Ordinary Shares or Share means the ordinary shares of the Company, nominal value $0.000115.
+**********************
+(p) Participant means an Employee or Director of any member of Willis Group or a Designated Associate Company, to whom one or more Grants have been made, and such Grants have not all expired or been forfeited or terminated under the Plan.
+**********************
+(q) Person means person as such term is used in Sections 13(d) and 14(d) of the Exchange Act.
+**********************
+2
+**********************
+transaction, including to substitute or provide for the issuance of ordinary shares of the resulting ultimate parent entity in lieu of Ordinary Shares of the Company.
+**********************
+(e) Code means the Internal Revenue Code of 1986 of the United States of America, as amended from time to time.
+**********************
+(f) Committee means the Compensation Committee of the Board of Directors (or, if no such committee is appointed, the Board of Directors provided that a majority of the Board of Directors are independent directors for the purpose of the rules and regulations of the New York Stock Exchange).
+**********************
+(g) Company or Willis means Willis Group Holding Public Limited Company, a company incorporated in Ireland under registered number 475616, or any successor thereto.
+**********************
+(h) Designated Associate Company means any company in which a member of the Willis Group owns twenty percent or more of the voting share interest but less than fifty percent of the voting share interest and that has been designated by the Board of Directors as being eligible for participation in the Plan.
+**********************
+(i) Director means any member of the Board of Directors.
+**********************
+(j) Dividend Equivalents means an entitlement to receive, in such form and on such terms as the Committee may determine, the value of a dividend or distribution paid by Willis on one of its Shares in accordance with its Bye-Laws that would be payable on the number of Shares subject to a Grant.
+**********************
+(k) Employee means a person, including a Director and an officer, in the employment of Willis Group or a Designated Associate Company.
+**********************
+(l) Fair Market Value means, with respect to any property other than Shares, the market value of such property determined by such methods or procedures as shall be established from time to time by the Committee.
+The Fair Market Value of Shares as of any date shall be the per Share closing price of the Shares as reported on the New York Stock Exchange on that date (or if there were no reported prices on such date, on the last preceding date on which the prices were reported) or, if Willis is not then listed on the New York Stock Exchange, on such other principal securities exchange on which the Shares are traded, and if Willis is not listed on the New York Stock Exchange or any other securities exchange, the Fair Market Value of Shares shall be determined by the Committee in its sole discretion using appropriate criteria which, with respect to Grants to US Participants, shall comply with Section15 and shall be determined pursuant to a reasonable valuation method as set forth in Section409A of the Code.
+**********************
+(m) Grant means an award made to a Participant pursuant to the Plan and described in Section6, including, without limitation, an award of a Share Option, Restricted Share, Restricted Share Unit, Purchase Shares, Other Share-Based Grant, or any combination of the foregoing.
+**********************
+(n) Grant Agreement means an agreement between Willis and a Participant that sets forth the terms, conditions and limitations applicable to a Grant.
+**********************
+(o) Ordinary Shares or Share means the ordinary shares of the Company, nominal value $0.000115.
+**********************
+(p) Participant means an Employee or Director of any member of Willis Group or a Designated Associate Company, to whom one or more Grants have been made, and such Grants have not all expired or been forfeited or terminated under the Plan.
+**********************
+(q) Person means person as such term is used in Sections 13(d) and 14(d) of the Exchange Act.
+**********************
+(r) Share-Based Grants means the collective reference to the grant of Purchase Shares, Restricted Share, Restricted Share Units and Other Share-Based Grants.
+**********************
+(s) Share Options means options to purchase Ordinary Shares, which may or may not be incentive stock options within the meaning of Section422 of the Code (Incentive Stock Options).
+**********************
+(t) Subsidiary shall mean with respect to the Company, any subsidiary of the Company within the meaning of Section155 of the Act.
+For purposes of granting Share Options or other stock rights, within the meaning of Section409A of the Code, an entity may not be considered a Subsidiary if granting any such stock right would result in the stock right becoming subject to Section409A of the Code.
+**********************
+(u) Substitute Awards shall mean a Grant or Shares issued by the Company in assumption of, or in substitution or exchange for, awards previously granted, or the right or obligation to make future awards, in each case by a company acquired by the Company or any Subsidiary or with which the Company or any Subsidiary combines.
+**********************
+3.
+Administration of Plan
+**********************
+(a)The Plan shall be administered by the Committee.
+All of the members of the Committee and any other Directors shall be eligible to be selected for Grants under the Plan; provided, however, that to the extent the Board of Directors determines it is necessary or desirable to satisfy any regulation or rule, whether under Section16 of the Securities Exchange Act of 1934 of the United States, as amended (Exchange Act) or otherwise related to the Grants, the members of the Committee shall qualify under such regulation or rules.
+The Committee may adopt its own rules of procedure, and the action of a majority of the Committee, taken at a meeting or taken without a meeting by a writing signed by such majority, shall constitute action by the Committee.
+The Committee shall have the power and authority to administer, construe and interpret the Plan in its sole discretion, to make rules for carrying it out and to make changes in such rules.
+The Committee shall also have the power to establish sub-plans, which may constitute separate schemes, for the purpose of establishing schemes which qualify for approval by the UK Inland Revenue or meet any special tax or regulatory requirements anywhere in the world.
+Any such interpretations, rules, administration and sub-plans shall be consistent with the basic purposes of the Plan and shall be binding on Participants.
+**********************
+(b)The Committee may delegate to the Chief Executive Officer and to other senior officers of Willis Group its duties under the Plan subject to such conditions and limitations as the Committee shall prescribe except that only the Committee may designate and make Grants, including the variation (including substitution), cancellation or suspension of said Grant, to Participants who are subject to Section16 of the Exchange Act.
+**********************
+(c)The Committee may employ attorneys, consultants, accountants, appraisers, brokers or other persons.
+The Committee, Willis Group, and the officers and Directors of Willis Group shall be entitled to rely upon the advice, opinions or valuations of any such persons.
+All actions taken and all interpretations and determinations made by the Committee in good faith shall be final and binding upon all Participants, Willis Group and all other interested persons.
+No member of the Committee shall be personally liable for any action, determination or interpretation made in good faith with respect to the Plan or the Grants, and all members of the Committee shall be fully protected by Willis Group with respect to any such action, determination or interpretation.
+**********************
+(d)Notwithstanding anything to the contrary contained in the Plan or any Grant Agreement, (i)neither Willis, the Willis Group, any Designated Associate Company or any of their respective employees, directors, officers, agents or representatives nor any member of the Committee shall have liability to a Participant or otherwise with respect to the failure of the Plan, any Grant or Grant Agreement to comply with Section409A of the Code and (ii) neither Willis, the Willis Group, any Designated Associate Company or any of their respective employees, directors, officers, agents or representatives nor any member of the Committee makes any representation or warranty to any Participant that any Grant hereunder satisfies the requirements of Section409A of the Code.
+**********************
+3
+**********************
+(r) Share-Based Grants means the collective reference to the grant of Purchase Shares, Restricted Share, Restricted Share Units and Other Share-Based Grants.
+**********************
+(s) Share Options means options to purchase Ordinary Shares, which may or may not be incentive stock options within the meaning of Section422 of the Code (Incentive Stock Options).
+**********************
+(t) Subsidiary shall mean with respect to the Company, any subsidiary of the Company within the meaning of Section155 of the Act.
+For purposes of granting Share Options or other stock rights, within the meaning of Section409A of the Code, an entity may not be considered a Subsidiary if granting any such stock right would result in the stock right becoming subject to Section409A of the Code.
+**********************
+(u) Substitute Awards shall mean a Grant or Shares issued by the Company in assumption of, or in substitution or exchange for, awards previously granted, or the right or obligation to make future awards, in each case by a company acquired by the Company or any Subsidiary or with which the Company or any Subsidiary combines.
+**********************
+3.
+Administration of Plan
+**********************
+(a)The Plan shall be administered by the Committee.
+All of the members of the Committee and any other Directors shall be eligible to be selected for Grants under the Plan; provided, however, that to the extent the Board of Directors determines it is necessary or desirable to satisfy any regulation or rule, whether under Section16 of the Securities Exchange Act of 1934 of the United States, as amended (Exchange Act) or otherwise related to the Grants, the members of the Committee shall qualify under such regulation or rules.
+The Committee may adopt its own rules of procedure, and the action of a majority of the Committee, taken at a meeting or taken without a meeting by a writing signed by such majority, shall constitute action by the Committee.
+The Committee shall have the power and authority to administer, construe and interpret the Plan in its sole discretion, to make rules for carrying it out and to make changes in such rules.
+The Committee shall also have the power to establish sub-plans, which may constitute separate schemes, for the purpose of establishing schemes which qualify for approval by the UK Inland Revenue or meet any special tax or regulatory requirements anywhere in the world.
+Any such interpretations, rules, administration and sub-plans shall be consistent with the basic purposes of the Plan and shall be binding on Participants.
+**********************
+(b)The Committee may delegate to the Chief Executive Officer and to other senior officers of Willis Group its duties under the Plan subject to such conditions and limitations as the Committee shall prescribe except that only the Committee may designate and make Grants, including the variation (including substitution), cancellation or suspension of said Grant, to Participants who are subject to Section16 of the Exchange Act.
+**********************
+(c)The Committee may employ attorneys, consultants, accountants, appraisers, brokers or other persons.
+The Committee, Willis Group, and the officers and Directors of Willis Group shall be entitled to rely upon the advice, opinions or valuations of any such persons.
+All actions taken and all interpretations and determinations made by the Committee in good faith shall be final and binding upon all Participants, Willis Group and all other interested persons.
+No member of the Committee shall be personally liable for any action, determination or interpretation made in good faith with respect to the Plan or the Grants, and all members of the Committee shall be fully protected by Willis Group with respect to any such action, determination or interpretation.
+**********************
+(d)Notwithstanding anything to the contrary contained in the Plan or any Grant Agreement, (i)neither Willis, the Willis Group, any Designated Associate Company or any of their respective employees, directors, officers, agents or representatives nor any member of the Committee shall have liability to a Participant or otherwise with respect to the failure of the Plan, any Grant or Grant Agreement to comply with Section409A of the Code and (ii) neither Willis, the Willis Group, any Designated Associate Company or any of their respective employees, directors, officers, agents or representatives nor any member of the Committee makes any representation or warranty to any Participant that any Grant hereunder satisfies the requirements of Section409A of the Code.
+**********************
+4.
+Eligibility
+**********************
+Subject to Section12 of the Plan, the Committee may from time to time make Grants under the Plan to such Employees of the Willis Group or of any Designated Associate Company, and in such form and having such terms, conditions and limitations as the Committee may determine.
+Grants may be granted singly, in combination or in tandem.
+The terms, conditions and limitations of each Grant under the plan shall be set forth in a Grant Agreement, in a form approved by the Committee, consistent, however, with the terms of the Plan.
+**********************
+5.
+Share Limitations and Conditions
+**********************
+(a)Number of SharesSubject to adjustment as provided in Section9, a total of 8,000,000 Shares shall be authorized for grant under the Plan.
+The Shares available for the grant of Incentive Stock Options under the Plan shall not exceed 5,000,000 Shares, subject to adjustment as provided in Section9 and subject to the provisions of Sections422 or 424 of the Code or any successor provisions.
+The Shares available for the grant of Restricted Share, Restricted Share Units or other full-value share-based grants under the Plan shall not exceed 2,000,000.
+**********************
+If any Shares subject to a Grant are forfeited, terminate, expire or a Grant is settled for cash (in whole or in part) or otherwise does not result in the issuance of all or a portion of the Shares subject to such Grant, the Shares subject to such Grant or award shall, to the extent of such forfeiture, expiration, termination, non-issuance, cash settlement or otherwise, again be available for Grants under the Plan.
+Notwithstanding anything to the contrary contained herein, the following Shares shall not be added to the Shares authorized for grant under paragraph (a)of this Section: (i)Shares tendered by the Participant or withheld by the Company in payment of the purchase price of a Share Option; (ii)Shares tendered by the Participant or withheld by the Company to satisfy any tax withholding obligation with respect to a Grant; and (iii)Shares repurchased by the Company using Option proceeds.
+**********************
+(b)Substitute Awards shall not reduce the Shares authorized for grant under the Plan or authorized for grant to a Participant in any calendar year.
+Additionally, in the event that a company acquired by Willis or any Subsidiary or with which the Willis or any Subsidiary combines has shares available under a pre-existing plan approved by shareholders and not adopted in contemplation of such acquisition or combination, the shares available for grant pursuant to the terms of such pre-existing plan (as adjusted, to the extent appropriate, using the exchange ratio or other adjustment or valuation ratio or formula used in such acquisition or combination to determine the consideration payable to the holders of Ordinary Shares of the entities party to such acquisition or combination) may be used for Grants under the Plan and shall not reduce the Shares authorized for grant under the Plan; provided that Grants using such available shares shall not be made after the date grants could have been made under the terms of the pre-existing plan, absent the acquisition or combination, and shall only be made to individuals who were not Employees or Directors prior to such acquisition or combination.
+**********************
+(c)Purchase Shares, as defined in Section6 (c)below whether offered to a participant or in connection with any other Grant under this Plan, shall not be counted against the above limits if they are sold to a Participant at Fair Market Value on the date of purchase.
+**********************
+(d)The number of Shares subject to Grants under this Plan to any one Participant shall not be more than 2,000,000 Shares in any one calendar year and such limit shall not include Purchase Shares.
+**********************
+(e)No Grants shall be made under the Plan beyond ten years after the original effective date of the Plan, but the terms of Grants made on or before the expiration of the Plan may extend beyond such expiration.
+At the time a Grant is made or amended or the terms or conditions of a Grant are changed, the Committee may provide for limitations or conditions on such Grant.
+**********************
+(f)Nothing contained herein shall affect the right of Willis Group or, if applicable, a Designated Associate Company to terminate any Participants employment at any time or for any reason.
+The rights and obligations of any individual under the terms of his office or employment with any member of Willis
+**********************
+4
+**********************
+4.
+Eligibility
+**********************
+Subject to Section12 of the Plan, the Committee may from time to time make Grants under the Plan to such Employees of the Willis Group or of any Designated Associate Company, and in such form and having such terms, conditions and limitations as the Committee may determine.
+Grants may be granted singly, in combination or in tandem.
+The terms, conditions and limitations of each Grant under the plan shall be set forth in a Grant Agreement, in a form approved by the Committee, consistent, however, with the terms of the Plan.
+**********************
+5.
+Share Limitations and Conditions
+**********************
+(a)Number of SharesSubject to adjustment as provided in Section9, a total of 8,000,000 Shares shall be authorized for grant under the Plan.
+The Shares available for the grant of Incentive Stock Options under the Plan shall not exceed 5,000,000 Shares, subject to adjustment as provided in Section9 and subject to the provisions of Sections422 or 424 of the Code or any successor provisions.
+The Shares available for the grant of Restricted Share, Restricted Share Units or other full-value share-based grants under the Plan shall not exceed 2,000,000.
+**********************
+If any Shares subject to a Grant are forfeited, terminate, expire or a Grant is settled for cash (in whole or in part) or otherwise does not result in the issuance of all or a portion of the Shares subject to such Grant, the Shares subject to such Grant or award shall, to the extent of such forfeiture, expiration, termination, non-issuance, cash settlement or otherwise, again be available for Grants under the Plan.
+Notwithstanding anything to the contrary contained herein, the following Shares shall not be added to the Shares authorized for grant under paragraph (a)of this Section: (i)Shares tendered by the Participant or withheld by the Company in payment of the purchase price of a Share Option; (ii)Shares tendered by the Participant or withheld by the Company to satisfy any tax withholding obligation with respect to a Grant; and (iii)Shares repurchased by the Company using Option proceeds.
+**********************
+(b)Substitute Awards shall not reduce the Shares authorized for grant under the Plan or authorized for grant to a Participant in any calendar year.
+Additionally, in the event that a company acquired by Willis or any Subsidiary or with which the Willis or any Subsidiary combines has shares available under a pre-existing plan approved by shareholders and not adopted in contemplation of such acquisition or combination, the shares available for grant pursuant to the terms of such pre-existing plan (as adjusted, to the extent appropriate, using the exchange ratio or other adjustment or valuation ratio or formula used in such acquisition or combination to determine the consideration payable to the holders of Ordinary Shares of the entities party to such acquisition or combination) may be used for Grants under the Plan and shall not reduce the Shares authorized for grant under the Plan; provided that Grants using such available shares shall not be made after the date grants could have been made under the terms of the pre-existing plan, absent the acquisition or combination, and shall only be made to individuals who were not Employees or Directors prior to such acquisition or combination.
+**********************
+(c)Purchase Shares, as defined in Section6 (c)below whether offered to a participant or in connection with any other Grant under this Plan, shall not be counted against the above limits if they are sold to a Participant at Fair Market Value on the date of purchase.
+**********************
+(d)The number of Shares subject to Grants under this Plan to any one Participant shall not be more than 2,000,000 Shares in any one calendar year and such limit shall not include Purchase Shares.
+**********************
+(e)No Grants shall be made under the Plan beyond ten years after the original effective date of the Plan, but the terms of Grants made on or before the expiration of the Plan may extend beyond such expiration.
+At the time a Grant is made or amended or the terms or conditions of a Grant are changed, the Committee may provide for limitations or conditions on such Grant.
+**********************
+(f)Nothing contained herein shall affect the right of Willis Group or, if applicable, a Designated Associate Company to terminate any Participants employment at any time or for any reason.
+The rights and obligations of any individual under the terms of his office or employment with any member of Willis
+**********************
+Group or, if applicable, a Designated Associate Company shall not be affected by his or her participation in this Plan or any right which he or she may have to participate in it, and an individual who participates in this Plan shall waive any and all rights to compensation or damages in consequence of the termination of his or her office or employment for any reason whatsoever insofar as those rights arise or may arise from his or her ceasing to have rights under or be entitled to exercise any Grant as a result of such termination.
+**********************
+(g)Subject to complying with Section409A of the Code, deferrals of Grant payouts may be provided for, at the sole discretion of the Committee, in the Grant Agreements.
+**********************
+(h)Except as otherwise prescribed by the Committee, the amounts of the Grants for any employee of a Subsidiary, along with interest, dividend, and other expenses accrued on deferred Grants shall be charged to the Participants employer during the period for which the Grant is made.
+If the Participant is employed by more than one Subsidiary or by both the Company and a Subsidiary during the period for which the Grant is made, the Participants Grant and related expenses will be allocated between the companies employing the Participant in a manner prescribed by the Committee.
+**********************
+(i)No option, right or benefit under the Plan may be transferred by a Participant other than by will or the laws of descent and distribution, and except as set forth in paragraph (k)of this Section, all options, rights and benefits under the Plan may be exercised during the Participants lifetime only by the Participant.
+No such benefit shall, prior to receipt thereof by the Participant, be in any manner liable for or subject to the debts, contracts, liabilities, engagements, or torts of the Participant.
+**********************
+(j)Participants shall not be, and shall not have any of the rights or privileges of, shareholders of Willis in respect of any Shares purchasable in connection with any Grant unless and such Shares have been issued by Willis to such Participants, unless the Committee shall otherwise determine.
+**********************
+(k)No election as to benefits or exercise of Share Options or other rights may be made during a Participants lifetime by anyone other than the Participant or by a legal representative appointed for or by the Participant.
+**********************
+(l)Absent express provisions to the contrary, any Grant under this Plan shall not be deemed compensation for purposes of computing benefits or contributions under any retirement plan of any member of Willis Group and shall not affect any benefits under any other benefit plan of any kind now or subsequently in effect under which the availability or amount of benefits is related to level of compensation.
+This Plan is not a Pension Plan or Welfare Plan under the Employee Retirement Income Security Act of 1974 of the United States, as amended.
+**********************
+(m)Unless the Board of Directors determines otherwise, no benefit or promise under the Plan shall be secured by any specific assets of any member of Willis Group, nor shall any assets of any member of Willis Group be designated as attributable or allocated to the satisfaction of Willis Groups obligations under the Plan.
+**********************
+6.
+Grants
+**********************
+From time to time, the Committee will determine the forms and amounts of Grants for Participants.
+Such Grants may take the following forms in the Committees sole discretion; provided, however, that in no event shall the purchase price of any Grant be less than the par value of the Shares.
+The terms of any Grant may include a requirement that the Participant enter into an agreement or election under which the Participant agrees to pay his or her employers social security liability (or reimburse the employer for such liability) in any jurisdiction arising on exercise of any Share Option, or at any other time with respect to any other Share-Based Award, and if this requirement is not permitted in any jurisdiction the Grant in such circumstances shall be null and void.
+**********************
+(a)Share OptionsThese are options to purchase Ordinary Shares, which may or may not be Incentive Stock Options.
+The option price per each Share purchasable under any Share Option granted pursuant to this Article shall not be less than 100% of the Fair Market Value of one Share on the date of
+**********************
+5
+**********************
+Group or, if applicable, a Designated Associate Company shall not be affected by his or her participation in this Plan or any right which he or she may have to participate in it, and an individual who participates in this Plan shall waive any and all rights to compensation or damages in consequence of the termination of his or her office or employment for any reason whatsoever insofar as those rights arise or may arise from his or her ceasing to have rights under or be entitled to exercise any Grant as a result of such termination.
+**********************
+(g)Subject to complying with Section409A of the Code, deferrals of Grant payouts may be provided for, at the sole discretion of the Committee, in the Grant Agreements.
+**********************
+(h)Except as otherwise prescribed by the Committee, the amounts of the Grants for any employee of a Subsidiary, along with interest, dividend, and other expenses accrued on deferred Grants shall be charged to the Participants employer during the period for which the Grant is made.
+If the Participant is employed by more than one Subsidiary or by both the Company and a Subsidiary during the period for which the Grant is made, the Participants Grant and related expenses will be allocated between the companies employing the Participant in a manner prescribed by the Committee.
+**********************
+(i)No option, right or benefit under the Plan may be transferred by a Participant other than by will or the laws of descent and distribution, and except as set forth in paragraph (k)of this Section, all options, rights and benefits under the Plan may be exercised during the Participants lifetime only by the Participant.
+No such benefit shall, prior to receipt thereof by the Participant, be in any manner liable for or subject to the debts, contracts, liabilities, engagements, or torts of the Participant.
+**********************
+(j)Participants shall not be, and shall not have any of the rights or privileges of, shareholders of Willis in respect of any Shares purchasable in connection with any Grant unless and such Shares have been issued by Willis to such Participants, unless the Committee shall otherwise determine.
+**********************
+(k)No election as to benefits or exercise of Share Options or other rights may be made during a Participants lifetime by anyone other than the Participant or by a legal representative appointed for or by the Participant.
+**********************
+(l)Absent express provisions to the contrary, any Grant under this Plan shall not be deemed compensation for purposes of computing benefits or contributions under any retirement plan of any member of Willis Group and shall not affect any benefits under any other benefit plan of any kind now or subsequently in effect under which the availability or amount of benefits is related to level of compensation.
+This Plan is not a Pension Plan or Welfare Plan under the Employee Retirement Income Security Act of 1974 of the United States, as amended.
+**********************
+(m)Unless the Board of Directors determines otherwise, no benefit or promise under the Plan shall be secured by any specific assets of any member of Willis Group, nor shall any assets of any member of Willis Group be designated as attributable or allocated to the satisfaction of Willis Groups obligations under the Plan.
+**********************
+6.
+Grants
+**********************
+From time to time, the Committee will determine the forms and amounts of Grants for Participants.
+Such Grants may take the following forms in the Committees sole discretion; provided, however, that in no event shall the purchase price of any Grant be less than the par value of the Shares.
+The terms of any Grant may include a requirement that the Participant enter into an agreement or election under which the Participant agrees to pay his or her employers social security liability (or reimburse the employer for such liability) in any jurisdiction arising on exercise of any Share Option, or at any other time with respect to any other Share-Based Award, and if this requirement is not permitted in any jurisdiction the Grant in such circumstances shall be null and void.
+**********************
+(a)Share OptionsThese are options to purchase Ordinary Shares, which may or may not be Incentive Stock Options.
+The option price per each Share purchasable under any Share Option granted pursuant to this Article shall not be less than 100% of the Fair Market Value of one Share on the date of
+**********************
+grant of such option (or, if the person to whom the Incentive Stock Option is being granted owns Ordinary Shares representing more than 10percent of the voting power of all classes of Willis equity, the exercise price shall be at least equal to 110% of the Fair Market Value of one Ordinary Share on the date of grant) other than in connection with Substitute Awards.
+At the time of the Grant the Committee shall determine, and shall have contained in the Grant Agreement the option exercise period, the option price, and such other conditions or restrictions on the grant or exercise of the option as the Committee deems appropriate, which may include the requirement that the grant of options is predicated on the acquisition of Purchase Shares under Section 6(c) by the Participant or as may be required pursuant to applicable law, if such options shall be Incentive Stock Options, subject to Section12.
+Payment of the option price shall be made in cash or in Ordinary Shares (provided, that such Shares have been held by the Participant for not less than six months (or such other period as established by the Committee from time to time)), or a combination thereof, in accordance with the terms of the Plan, the Grant Agreement and any applicable guidelines of the Committee in effect at the time.
+Notwithstanding anything to the contrary in the Plan, Incentive Stock Options may be granted only to employees of Willis or of a parent corporation or subsidiary corporation (as such terms are defined in Section424 of the Code) at the date of grant.
+The aggregate Fair Market Value (generally determined as of the time the Share Option is granted) of the Shares with respect to which Incentive Stock Options are exercisable for the first time by a Participant during any calendar year (under all plans of Willis and of any parent corporation or subsidiary corporation as defined in Section424 of the Code) shall not exceed one hundred thousand dollars ($100,000).
+For purposes of the preceding sentence, Incentive Stock Options will be taken into account generally in the order in which they are granted.
+No Incentive Stock Option may be exercised later than ten (10)years after the date it is granted or five years, in the case of a Participant who owns Ordinary Shares representing more than 10percent of the voting power of all classes of Willis equity.
+Each provision of the Plan and each Grant Agreement relating to an Incentive Stock Option shall be construed so that each Incentive Stock Option shall be an incentive stock option as defined in Section422 of the Code, and any provisions of the Grant Agreement thereof that cannot be so construed shall be disregarded.
+Except for Substitute Awards and in certain limited situations, including, without limitation the death, disability, termination of employment of the Participant without good cause as determined by the Committee, or retirement of the Participant or a Change of Control, Share Options shall have a vesting period of not less than three (3)years from date of grant (but permitting pro rata vesting over such time) provided that such restrictions shall not be applicable to grants of Share Options, Restricted Share Awards or Restricted Share Unit Awards not in excess of 5% of the number of shares available for Grants under Section5(a).
+Share Options subject to the achievement of performance objectives shall have a minimum vesting period of one (1)year.
+**********************
+(b)Restricted Share and Restricted Share UnitsGrants of Restricted Share and of Restricted Share Units may be issued to Participants either alone or in addition to other Grants made under the Plan (a Restricted Share Award or Restricted Share Unit Award respectively).
+Except for Substitute Awards and in certain limited situations, including, without limitation the death, disability, termination of employment of the Participant without good cause as determined by the Committee, or retirement of the Participant, a Change of Control, Restricted Share Awards and Restricted Share Unit Awards subject to continued service with the Company or a Subsidiary shall have a vesting period of not less than three (3)years from date of grant (but permitting pro rata vesting over such time); provided that such restrictions shall not be applicable to grants of Share Options, Restricted Share Awards or Restricted Share Unit Awards not in excess of 5% of the number of shares available for Grants under Section5(a).
+Restricted Share Awards and Restricted Share Unit Awards subject to the achievement of performance objectives shall have a minimum vesting period of one (1)year.
+**********************
+Unless otherwise provided in the Grant Agreement, beginning on the date of grant of the Restricted Share Award and subject to execution of the Grant Agreement, the Participant shall become a shareholder of Willis with respect to all Shares subject to the Grant Agreement and shall have all of the rights of a shareholder, including the right to vote such Shares and the right to receive distributions made with respect to such Shares.
+A Participant receiving a Restricted Share Unit Award shall not possess the rights of a shareholder of Willis with respect to such grant.
+Except as otherwise provided in an Grant Agreement any Shares or any other property (other than cash) distributed as a dividend or otherwise with respect to any Restricted Share Award or Restricted Share Unit Award as to which the restrictions have not yet lapsed shall be subject to the same restrictions as such Restricted Share Award or Restricted Share Unit Award.
+**********************
+6
+**********************
+grant of such option (or, if the person to whom the Incentive Stock Option is being granted owns Ordinary Shares representing more than 10percent of the voting power of all classes of Willis equity, the exercise price shall be at least equal to 110% of the Fair Market Value of one Ordinary Share on the date of grant) other than in connection with Substitute Awards.
+At the time of the Grant the Committee shall determine, and shall have contained in the Grant Agreement the option exercise period, the option price, and such other conditions or restrictions on the grant or exercise of the option as the Committee deems appropriate, which may include the requirement that the grant of options is predicated on the acquisition of Purchase Shares under Section 6(c) by the Participant or as may be required pursuant to applicable law, if such options shall be Incentive Stock Options, subject to Section12.
+Payment of the option price shall be made in cash or in Ordinary Shares (provided, that such Shares have been held by the Participant for not less than six months (or such other period as established by the Committee from time to time)), or a combination thereof, in accordance with the terms of the Plan, the Grant Agreement and any applicable guidelines of the Committee in effect at the time.
+Notwithstanding anything to the contrary in the Plan, Incentive Stock Options may be granted only to employees of Willis or of a parent corporation or subsidiary corporation (as such terms are defined in Section424 of the Code) at the date of grant.
+The aggregate Fair Market Value (generally determined as of the time the Share Option is granted) of the Shares with respect to which Incentive Stock Options are exercisable for the first time by a Participant during any calendar year (under all plans of Willis and of any parent corporation or subsidiary corporation as defined in Section424 of the Code) shall not exceed one hundred thousand dollars ($100,000).
+For purposes of the preceding sentence, Incentive Stock Options will be taken into account generally in the order in which they are granted.
+No Incentive Stock Option may be exercised later than ten (10)years after the date it is granted or five years, in the case of a Participant who owns Ordinary Shares representing more than 10percent of the voting power of all classes of Willis equity.
+Each provision of the Plan and each Grant Agreement relating to an Incentive Stock Option shall be construed so that each Incentive Stock Option shall be an incentive stock option as defined in Section422 of the Code, and any provisions of the Grant Agreement thereof that cannot be so construed shall be disregarded.
+Except for Substitute Awards and in certain limited situations, including, without limitation the death, disability, termination of employment of the Participant without good cause as determined by the Committee, or retirement of the Participant or a Change of Control, Share Options shall have a vesting period of not less than three (3)years from date of grant (but permitting pro rata vesting over such time) provided that such restrictions shall not be applicable to grants of Share Options, Restricted Share Awards or Restricted Share Unit Awards not in excess of 5% of the number of shares available for Grants under Section5(a).
+Share Options subject to the achievement of performance objectives shall have a minimum vesting period of one (1)year.
+**********************
+(b)Restricted Share and Restricted Share UnitsGrants of Restricted Share and of Restricted Share Units may be issued to Participants either alone or in addition to other Grants made under the Plan (a Restricted Share Award or Restricted Share Unit Award respectively).
+Except for Substitute Awards and in certain limited situations, including, without limitation the death, disability, termination of employment of the Participant without good cause as determined by the Committee, or retirement of the Participant, a Change of Control, Restricted Share Awards and Restricted Share Unit Awards subject to continued service with the Company or a Subsidiary shall have a vesting period of not less than three (3)years from date of grant (but permitting pro rata vesting over such time); provided that such restrictions shall not be applicable to grants of Share Options, Restricted Share Awards or Restricted Share Unit Awards not in excess of 5% of the number of shares available for Grants under Section5(a).
+Restricted Share Awards and Restricted Share Unit Awards subject to the achievement of performance objectives shall have a minimum vesting period of one (1)year.
+**********************
+Unless otherwise provided in the Grant Agreement, beginning on the date of grant of the Restricted Share Award and subject to execution of the Grant Agreement, the Participant shall become a shareholder of Willis with respect to all Shares subject to the Grant Agreement and shall have all of the rights of a shareholder, including the right to vote such Shares and the right to receive distributions made with respect to such Shares.
+A Participant receiving a Restricted Share Unit Award shall not possess the rights of a shareholder of Willis with respect to such grant.
+Except as otherwise provided in an Grant Agreement any Shares or any other property (other than cash) distributed as a dividend or otherwise with respect to any Restricted Share Award or Restricted Share Unit Award as to which the restrictions have not yet lapsed shall be subject to the same restrictions as such Restricted Share Award or Restricted Share Unit Award.
+**********************
+Should Shares be issued upon vesting of Restricted Share Award or Restricted Share Unit Awards in circumstances where they are not otherwise fully paid up, the Board may require the Participant to pay the aggregate nominal value of the Shares on the basis that such Shares underlying the Restricted Share Award or Restricted Share Unit Award shall then be allotted as fully paid to the Participant.
+**********************
+(c)Purchase SharesPurchase Shares refer to Ordinary Shares held in Willis employee share ownership plan trust, The Trinity Employees Share Ownership Plan Trust, offered to a Participant at not less than 100% of the Fair Market Value of one Share on the date of purchase, the acquisition of which may make him eligible to receive under the Plan, among other things, Share Options.
+**********************
+(d)Other Share-Based GrantsThe Committee may make other Grants under the Plan pursuant to which Ordinary Shares or other equity securities of Willis are or may in the future be acquired, or Grants denominated in Share units, including ones valued using measures other than Fair Market Value.
+Other Share-Based Grants may be granted with or without consideration.
+Should Ordinary Shares be issued on the vesting of a Share-Based Grant in circumstances where they are not otherwise fully paid up, the Board may require the Participant to pay the aggregate nominal value of such Ordinary Shares on the basis that such Ordinary Shares shall then be allotted as fully paid to the Participant.
+**********************
+(e)Entitlement to Dividend EquivalentsSubject to complying with Section409A of the Code and the provisions of the Plan, including, without limitation Section14, and any Grant Agreement, the recipient of a Grant other than a Share Option may, if so determined by the Committee, be entitled to receive, currently or on a deferred basis, cash, Share or other property dividends, or cash payments in amounts equivalent to cash, Share or other property dividends on Shares (Dividend Equivalents) with respect to the number of Shares covered by the Grant, as determined by the Committee, in its sole discretion.
+The right of US Participants to receive Dividend Equivalents or other dividends or payments shall be treated as a separate Grant and such Dividend Equivalents or other dividends or payments for such US Participants, if any, shall be credited to a notional account maintained by Willis or paid, as of the dividend payment dates during the period between the date of the Grant and the date the Grant is exercised, vested, expired, credited or paid, as applicable and shall be subject to such limitations as may be determined by the Committee.
+The Committee may provide that such amounts and Dividend Equivalents (if any) shall be deemed to have been reinvested in additional Shares or otherwise reinvested and may provide that such amounts and Dividend Equivalents are subject to the same vesting or performance conditions as the underlying Grant.
+**********************
+(f)Performance AwardsIf the Committee determines that a Share Option, Restricted Share Award, a Restricted Share Unit Award, a Performance Award or an Other Share-Based Award is intended to be subject to performance goals, the lapsing of restrictions thereon and the distribution of cash, Shares or other property pursuant thereto, as applicable, shall be subject to the achievement of one or more objective performance goals established by the Committee, which shall be based on the attainment of specified levels of one or any combination of the following: net revenue; revenue growth or product revenue growth; operating income (before or after taxes); pre- or after-tax income (before or after allocation of corporate overhead and bonus); earnings per share; net income (before or after taxes); return on equity; total shareholder return; return on assets or net assets; appreciation in and/or maintenance of the price of the Shares or any other publicly-traded securities of Willis; market share; gross profits; earnings (including earnings before taxes, earnings before interest and taxes or earnings before interest, taxes, depreciation and amortization); economic value-added models or equivalent metrics; comparisons with various Share market indices; reductions in costs; cash flow or cash flow per share (before or after dividends); return on capital (including return on total capital or return on invested capital); cash flow return on investment; improvement in or attainment of expense levels or working capital levels; operating margins, gross margins or cash margin; year-end cash; debt reductions; Shareholder equity; market share; regulatory achievements; and implementation, completion or attainment of measurable objectives with respect to research, development, products or projects, production volume levels, acquisitions and divestitures and recruiting and maintaining personnel.
+Such performance goals also may be based solely by reference to Willis performance or the performance of a Subsidiary, division, business segment or business unit of Willis, or based upon the relative performance of other companies or upon comparisons of any of the indicators of performance relative to other companies.
+The Committee may also exclude charges related to an event or
+**********************
+7
+**********************
+Should Shares be issued upon vesting of Restricted Share Award or Restricted Share Unit Awards in circumstances where they are not otherwise fully paid up, the Board may require the Participant to pay the aggregate nominal value of the Shares on the basis that such Shares underlying the Restricted Share Award or Restricted Share Unit Award shall then be allotted as fully paid to the Participant.
+**********************
+(c)Purchase SharesPurchase Shares refer to Ordinary Shares held in Willis employee share ownership plan trust, The Trinity Employees Share Ownership Plan Trust, offered to a Participant at not less than 100% of the Fair Market Value of one Share on the date of purchase, the acquisition of which may make him eligible to receive under the Plan, among other things, Share Options.
+**********************
+(d)Other Share-Based GrantsThe Committee may make other Grants under the Plan pursuant to which Ordinary Shares or other equity securities of Willis are or may in the future be acquired, or Grants denominated in Share units, including ones valued using measures other than Fair Market Value.
+Other Share-Based Grants may be granted with or without consideration.
+Should Ordinary Shares be issued on the vesting of a Share-Based Grant in circumstances where they are not otherwise fully paid up, the Board may require the Participant to pay the aggregate nominal value of such Ordinary Shares on the basis that such Ordinary Shares shall then be allotted as fully paid to the Participant.
+**********************
+(e)Entitlement to Dividend EquivalentsSubject to complying with Section409A of the Code and the provisions of the Plan, including, without limitation Section14, and any Grant Agreement, the recipient of a Grant other than a Share Option may, if so determined by the Committee, be entitled to receive, currently or on a deferred basis, cash, Share or other property dividends, or cash payments in amounts equivalent to cash, Share or other property dividends on Shares (Dividend Equivalents) with respect to the number of Shares covered by the Grant, as determined by the Committee, in its sole discretion.
+The right of US Participants to receive Dividend Equivalents or other dividends or payments shall be treated as a separate Grant and such Dividend Equivalents or other dividends or payments for such US Participants, if any, shall be credited to a notional account maintained by Willis or paid, as of the dividend payment dates during the period between the date of the Grant and the date the Grant is exercised, vested, expired, credited or paid, as applicable and shall be subject to such limitations as may be determined by the Committee.
+The Committee may provide that such amounts and Dividend Equivalents (if any) shall be deemed to have been reinvested in additional Shares or otherwise reinvested and may provide that such amounts and Dividend Equivalents are subject to the same vesting or performance conditions as the underlying Grant.
+**********************
+(f)Performance AwardsIf the Committee determines that a Share Option, Restricted Share Award, a Restricted Share Unit Award, a Performance Award or an Other Share-Based Award is intended to be subject to performance goals, the lapsing of restrictions thereon and the distribution of cash, Shares or other property pursuant thereto, as applicable, shall be subject to the achievement of one or more objective performance goals established by the Committee, which shall be based on the attainment of specified levels of one or any combination of the following: net revenue; revenue growth or product revenue growth; operating income (before or after taxes); pre- or after-tax income (before or after allocation of corporate overhead and bonus); earnings per share; net income (before or after taxes); return on equity; total shareholder return; return on assets or net assets; appreciation in and/or maintenance of the price of the Shares or any other publicly-traded securities of Willis; market share; gross profits; earnings (including earnings before taxes, earnings before interest and taxes or earnings before interest, taxes, depreciation and amortization); economic value-added models or equivalent metrics; comparisons with various Share market indices; reductions in costs; cash flow or cash flow per share (before or after dividends); return on capital (including return on total capital or return on invested capital); cash flow return on investment; improvement in or attainment of expense levels or working capital levels; operating margins, gross margins or cash margin; year-end cash; debt reductions; Shareholder equity; market share; regulatory achievements; and implementation, completion or attainment of measurable objectives with respect to research, development, products or projects, production volume levels, acquisitions and divestitures and recruiting and maintaining personnel.
+Such performance goals also may be based solely by reference to Willis performance or the performance of a Subsidiary, division, business segment or business unit of Willis, or based upon the relative performance of other companies or upon comparisons of any of the indicators of performance relative to other companies.
+The Committee may also exclude charges related to an event or
+**********************
+occurrence which the Committee determines should appropriately be excluded, including (a) restructurings, discontinued operations, extraordinary items, and other unusual or non-recurring charges, (b)an event either not directly related to the operations of Willis or not within the reasonable control of Willis management, or (c)the cumulative effects of tax or accounting changes in accordance with U.S. generally accepted accounting principles.
+Such performance goals shall be set by the Committee within the time period prescribed by, and shall otherwise comply with the requirements of, Section 162(m) of the Code, and the regulations thereunder.
+**********************
+7.
+Forfeiture or Clawback of Awards
+**********************
+Notwithstanding anything to the contrary contained herein, a Grant Agreement may provide that the Grant shall be canceled if the Participant, without the consent of Willis, while employed by Willis, any Subsidiary or, if applicable, a Designated Associate Company or after termination of such employment or service, establishes a relationship with a competitor of Willis, any Subsidiary or, if applicable, a Designated Associate Company or engages in activity that is in conflict with or adverse to the interest of Willis, any Subsidiary or, if applicable, a Designated Associate Company (including conduct contributing to financial restatements or irregularities), as determined by the Board of Directors in its sole discretion.
+The Committee may provide in a Grant Agreement that if within the time period specified in the Grant Agreement the Participant establishes a relationship with a competitor or engages in an activity referred to in the preceding sentence, the Participant will forfeit any gain realized on the vesting or exercise of the Grant and must repay such gain to Willis.
+**********************
+8.
+Transfers and Leaves of Absence
+**********************
+For purposes of the Plan, unless the Committee determines otherwise: (a)a transfer of a Participants employment without an intervening period of separation among a member of the Willis Group and any Subsidiary or Designated Associate Company shall not be deemed a termination of employment, and (b)a Participant who is granted in writing a leave of absence shall be deemed to have remained in the employ of Willis Group or Designated Associate Company during such leave of absence.
+**********************
+9.
+Adjustments
+**********************
+In the event of any change in the outstanding Ordinary Shares by reason of a Share split, spin-off, Share or extraordinary cash dividend, Share combination or reclassification, recapitalization or merger, Change of Control, or similar event, the Committee shall substitute or adjust proportionately, in its sole discretion, (a)the number and kind of Shares or other securities that may be issued under the Plan or under particular forms of Grants, (b)the number and kind of Shares or other securities subject to outstanding Grants, (c)the Share Option exercise price, grant price or purchase price applicable to outstanding Grants, (d)the grant of a Dividend Equivalent or other dividends or payments, and/or (e)other value determinations applicable to the Plan or outstanding Grants, in all events in order to allow Participants to participate to such event in an equitable manner.
+An adjustment under this provision may have the effect of reducing the price at which Ordinary Shares may be acquired to less than their nominal value (the Shortfall), but only if and to the extent that the Board shall be authorized to capitalize from the reserves of the Company a sum equal to the Shortfall and to apply that sum in paying up that amount on the Ordinary Shares.
+**********************
+10.
+Change of Control
+**********************
+(a)Grant Agreements may provide that in the event of a Change of Control of Willis, Share Options outstanding as of the date of the Change of Control shall be cancelled and terminated without payment therefore if 100% of the Fair Market Value of one Share as of the date of the Change of Control is less than the per Share Option exercise price grant price.
+**********************
+(b)Assumption or Substitution of Certain AwardsUnless otherwise provided in a Grant Agreement, in the event of a Change of Control of Willis in which the successor company assumes or substitutes for a Share Option, Restricted Share Award, Restricted Share Unit Award or Other Share-Based Grant, if a Participants employment with such successor company (or a subsidiary thereof) terminates within 24months following such Change of Control (or such other period set forth in the Grant Agreement,
+**********************
+8
+**********************
+occurrence which the Committee determines should appropriately be excluded, including (a) restructurings, discontinued operations, extraordinary items, and other unusual or non-recurring charges, (b)an event either not directly related to the operations of Willis or not within the reasonable control of Willis management, or (c)the cumulative effects of tax or accounting changes in accordance with U.S. generally accepted accounting principles.
+Such performance goals shall be set by the Committee within the time period prescribed by, and shall otherwise comply with the requirements of, Section 162(m) of the Code, and the regulations thereunder.
+**********************
+7.
+Forfeiture or Clawback of Awards
+**********************
+Notwithstanding anything to the contrary contained herein, a Grant Agreement may provide that the Grant shall be canceled if the Participant, without the consent of Willis, while employed by Willis, any Subsidiary or, if applicable, a Designated Associate Company or after termination of such employment or service, establishes a relationship with a competitor of Willis, any Subsidiary or, if applicable, a Designated Associate Company or engages in activity that is in conflict with or adverse to the interest of Willis, any Subsidiary or, if applicable, a Designated Associate Company (including conduct contributing to financial restatements or irregularities), as determined by the Board of Directors in its sole discretion.
+The Committee may provide in a Grant Agreement that if within the time period specified in the Grant Agreement the Participant establishes a relationship with a competitor or engages in an activity referred to in the preceding sentence, the Participant will forfeit any gain realized on the vesting or exercise of the Grant and must repay such gain to Willis.
+**********************
+8.
+Transfers and Leaves of Absence
+**********************
+For purposes of the Plan, unless the Committee determines otherwise: (a)a transfer of a Participants employment without an intervening period of separation among a member of the Willis Group and any Subsidiary or Designated Associate Company shall not be deemed a termination of employment, and (b)a Participant who is granted in writing a leave of absence shall be deemed to have remained in the employ of Willis Group or Designated Associate Company during such leave of absence.
+**********************
+9.
+Adjustments
+**********************
+In the event of any change in the outstanding Ordinary Shares by reason of a Share split, spin-off, Share or extraordinary cash dividend, Share combination or reclassification, recapitalization or merger, Change of Control, or similar event, the Committee shall substitute or adjust proportionately, in its sole discretion, (a)the number and kind of Shares or other securities that may be issued under the Plan or under particular forms of Grants, (b)the number and kind of Shares or other securities subject to outstanding Grants, (c)the Share Option exercise price, grant price or purchase price applicable to outstanding Grants, (d)the grant of a Dividend Equivalent or other dividends or payments, and/or (e)other value determinations applicable to the Plan or outstanding Grants, in all events in order to allow Participants to participate to such event in an equitable manner.
+An adjustment under this provision may have the effect of reducing the price at which Ordinary Shares may be acquired to less than their nominal value (the Shortfall), but only if and to the extent that the Board shall be authorized to capitalize from the reserves of the Company a sum equal to the Shortfall and to apply that sum in paying up that amount on the Ordinary Shares.
+**********************
+10.
+Change of Control
+**********************
+(a)Grant Agreements may provide that in the event of a Change of Control of Willis, Share Options outstanding as of the date of the Change of Control shall be cancelled and terminated without payment therefore if 100% of the Fair Market Value of one Share as of the date of the Change of Control is less than the per Share Option exercise price grant price.
+**********************
+(b)Assumption or Substitution of Certain AwardsUnless otherwise provided in a Grant Agreement, in the event of a Change of Control of Willis in which the successor company assumes or substitutes for a Share Option, Restricted Share Award, Restricted Share Unit Award or Other Share-Based Grant, if a Participants employment with such successor company (or a subsidiary thereof) terminates within 24months following such Change of Control (or such other period set forth in the Grant Agreement,
+**********************
+including prior thereto if applicable) and under the circumstances specified in the Grant Agreement: (i)Share Options outstanding as of the date of such termination of employment will immediately vest, become fully exercisable, and may thereafter be exercised for 24months (or the period of time set forth in the Grant Agreement), (ii)restrictions and deferral limitations on Restricted Share Awards and Restricted Share Units Awards shall lapse and the Restricted Shares and Restricted Share Units shall become free of all restrictions and limitations and become fully vested, and (iii)the restrictions and deferral limitations and other conditions applicable to any Other Share-Based Grants or any other Grants shall lapse, and such Other Share-Based Grants or such other Grants shall become free of all restrictions, limitations or conditions and become fully vested and transferable to the full extent of the original Grant.
+For the purposes of this Section10(b), a Share Option, Restricted Share Award, Restricted Share Unit Award or Other Share-Based Grants shall be considered assumed or substituted for if following the Change of Control the Grant confers the right to purchase or receive, for each Share subject to the Share Option, Restricted Share Award, Restricted Share Unit Award or Other Share-Based Grants immediately prior to the Change of Control, the consideration (whether Shares, cash or other securities or property) received in the transaction constituting a Change of Control by holders of Shares for each Share held on the effective date of such transaction (and if holders were offered a choice of consideration, the type of consideration chosen by the holders of a majority of the outstanding shares); provided, however, that if such consideration received in the transaction constituting a Change of Control is not solely ordinary shares of the successor company, the Committee may, with the consent of the successor company, provide that the consideration to be received upon the exercise or vesting of a Share Option, Restricted Share Award, Restricted Share Unit Award or Other Share-Based Grant, for each Share subject thereto, will be solely ordinary shares of the successor company substantially equal in Fair Market Value to the per Share consideration received by holders of Shares in the transaction constituting a Change in Control.
+The determination of such substantial equality of value of consideration shall be made by the Committee in its sole discretion and its determination shall be conclusive and binding.
+**********************
+(c)Unless otherwise provided in a Grant Agreement, in the event of a Change of Control of Willis to the extent the successor company does not assume or substitute for a Share Option, Restricted Stock Award, Restricted Stock Unit Award or Other Share-Based Grant: (i)those Share Options outstanding as of the date of the Change of Control that are not assumed or substituted for shall immediately vest and become fully exercisable, (ii)restrictions and deferral limitations on Restricted Stock and Restricted Stock Units that are not assumed or substituted for shall lapse and the Restricted Stock and Restricted Stock Units shall become free of all restrictions and limitations and become fully vested, and (iii)the restrictions and deferral limitations and other conditions applicable to any Other Share-Based Grants or any other Grants that are not assumed or substituted for shall lapse, and such Other Share-Based Grants or such other Grants shall become free of all restrictions, limitations or conditions and become fully vested and transferable to the full extent of the original grant.
+**********************
+(d)The Committee, in its discretion, may determine that, upon the occurrence of a Change of Control of Willis, each Share Option outstanding shall terminate within a specified number of days after notice to the Participant, and/or that each Participant shall receive, with respect to each Share subject to such Share Option an amount equal to the excess of the Fair Market Value of such Share immediately prior to the occurrence of such Change of Control over the exercise price per share of such Share Option; such amount to be payable in cash, in one or more kinds of Shares or property (including the Shares or property, if any, payable in the transaction) or in a combination thereof, as the Committee, in its discretion, shall determine.
+**********************
+11.
+Amendment and Termination
+**********************
+The Committee shall have the authority to make such amendments to any terms and conditions applicable to outstanding Grants as are consistent with this Plan.
+The Board of Directors may amend, suspend or terminate the Plan at any time.
+**********************
+Without the approval of Willis Shareholders, other than pursuant to Section9, the Committee shall not (i)increase the benefits accrued to Participants, (ii)increase the number of shares which may be issued under the Plan, (iii)cancel any Share Option in exchange for cash or another Grant (other than in connection with Substitute
+**********************
+9
+**********************
+including prior thereto if applicable) and under the circumstances specified in the Grant Agreement: (i)Share Options outstanding as of the date of such termination of employment will immediately vest, become fully exercisable, and may thereafter be exercised for 24months (or the period of time set forth in the Grant Agreement), (ii)restrictions and deferral limitations on Restricted Share Awards and Restricted Share Units Awards shall lapse and the Restricted Shares and Restricted Share Units shall become free of all restrictions and limitations and become fully vested, and (iii)the restrictions and deferral limitations and other conditions applicable to any Other Share-Based Grants or any other Grants shall lapse, and such Other Share-Based Grants or such other Grants shall become free of all restrictions, limitations or conditions and become fully vested and transferable to the full extent of the original Grant.
+For the purposes of this Section10(b), a Share Option, Restricted Share Award, Restricted Share Unit Award or Other Share-Based Grants shall be considered assumed or substituted for if following the Change of Control the Grant confers the right to purchase or receive, for each Share subject to the Share Option, Restricted Share Award, Restricted Share Unit Award or Other Share-Based Grants immediately prior to the Change of Control, the consideration (whether Shares, cash or other securities or property) received in the transaction constituting a Change of Control by holders of Shares for each Share held on the effective date of such transaction (and if holders were offered a choice of consideration, the type of consideration chosen by the holders of a majority of the outstanding shares); provided, however, that if such consideration received in the transaction constituting a Change of Control is not solely ordinary shares of the successor company, the Committee may, with the consent of the successor company, provide that the consideration to be received upon the exercise or vesting of a Share Option, Restricted Share Award, Restricted Share Unit Award or Other Share-Based Grant, for each Share subject thereto, will be solely ordinary shares of the successor company substantially equal in Fair Market Value to the per Share consideration received by holders of Shares in the transaction constituting a Change in Control.
+The determination of such substantial equality of value of consideration shall be made by the Committee in its sole discretion and its determination shall be conclusive and binding.
+**********************
+(c)Unless otherwise provided in a Grant Agreement, in the event of a Change of Control of Willis to the extent the successor company does not assume or substitute for a Share Option, Restricted Stock Award, Restricted Stock Unit Award or Other Share-Based Grant: (i)those Share Options outstanding as of the date of the Change of Control that are not assumed or substituted for shall immediately vest and become fully exercisable, (ii)restrictions and deferral limitations on Restricted Stock and Restricted Stock Units that are not assumed or substituted for shall lapse and the Restricted Stock and Restricted Stock Units shall become free of all restrictions and limitations and become fully vested, and (iii)the restrictions and deferral limitations and other conditions applicable to any Other Share-Based Grants or any other Grants that are not assumed or substituted for shall lapse, and such Other Share-Based Grants or such other Grants shall become free of all restrictions, limitations or conditions and become fully vested and transferable to the full extent of the original grant.
+**********************
+(d)The Committee, in its discretion, may determine that, upon the occurrence of a Change of Control of Willis, each Share Option outstanding shall terminate within a specified number of days after notice to the Participant, and/or that each Participant shall receive, with respect to each Share subject to such Share Option an amount equal to the excess of the Fair Market Value of such Share immediately prior to the occurrence of such Change of Control over the exercise price per share of such Share Option; such amount to be payable in cash, in one or more kinds of Shares or property (including the Shares or property, if any, payable in the transaction) or in a combination thereof, as the Committee, in its discretion, shall determine.
+**********************
+11.
+Amendment and Termination
+**********************
+The Committee shall have the authority to make such amendments to any terms and conditions applicable to outstanding Grants as are consistent with this Plan.
+The Board of Directors may amend, suspend or terminate the Plan at any time.
+**********************
+Without the approval of Willis Shareholders, other than pursuant to Section9, the Committee shall not (i)increase the benefits accrued to Participants, (ii)increase the number of shares which may be issued under the Plan, (iii)cancel any Share Option in exchange for cash or another Grant (other than in connection with Substitute
+**********************
+Awards) (iv) modify the requirements for participation in the Plan, (v)lapse or waive restrictions except in limited cases relating to death, disability, retirement, termination of employment without cause or for good reason as is determined by the Board, or Change of Control.
+**********************
+12.
+Foreign Options and Rights
+**********************
+The Committee or Board of Directors, as applicable, may establish rules or schemes in order to make Grants to Employees who are subject to the laws of nations other than Ireland, which Grants may have terms and conditions that differ from the terms thereof as provided elsewhere in the Plan for the purpose of complying with foreign laws.
+In the event that the Committee or Board of Directors establishes such rules or schemes, the substantive provisions thereof shall be set forth on schedules attached hereto, and are hereby incorporated by reference as part of the Plan, subject to any additional action required to be taken pursuant to the applicable foreign law.
+**********************
+13.
+Withholding Taxes
+**********************
+(a)Willis Group shall have the right to deduct from any cash payment made under the Plan any federal, state, local, national, provincial or other income or other taxes required by law to be withheld with respect to such payment.
+It shall be a condition to the obligation of Willis Group to deliver shares upon the exercise of a Share Option, upon delivery of Restricted Share or upon exercise, settlement or payment of Restricted Share Units or any Other Share-Based Grant that the Participant shall pay to Willis Group such amount as may be requested by Willis Group for the purpose of satisfying any liability for such withholding taxes.
+Any Grant Agreement may provide that the Participant may elect, in accordance with any conditions set forth in such Grant Agreement, to pay a portion or the entire minimum amount of such withholding taxes in Ordinary Shares.
+**********************
+(b)In the event that Willis Group is required to account for tax arising from the exercise or vesting of a Grant to the relevant tax authorities and the Participant has not paid, or otherwise made arrangements acceptable to Willis Group to pay the amounts due, Willis Group shall be authorized to procure and effect the sale of a sufficient number of Shares to be allotted or transferred to the Participant as a consequence of the vesting or exercise of the Grant in order to pay the amounts due out of the sale proceeds.
+**********************
+(c)Notwithstanding anything set forth in this Section13, an option may not be exercised unless:
+**********************
+(i)the Board of Directors considers that the issue or transfer of shares pursuant to such exercise would be lawful in all relevant jurisdictions; and
+**********************
+(ii)in a case where, if the option were exercised, Willis Group would be obliged to (or would suffer a disadvantage if it were not to) account for any tax (in any jurisdiction) for which the person in question would be liable by virtue of the exercise of the option and/or for any social security contributions that would be recoverable from the person in question (together, the Tax Liability), that person has either:
+**********************
+(d)made a payment to Willis Group of an amount at least equal to the Companys estimate of the Tax Liability; or
+**********************
+(e)entered into arrangements acceptable to Willis Group to secure that such a payment is made (whether by authorizing the sale of some or all of the shares on his behalf and the payment to Willis Group of the relevant amount out of the proceeds of sale or otherwise).
+**********************
+14.
+Compliance with Section409A of the Code
+**********************
+(a)To the extent that the Plan and/or Grants are subject to Section409A of the Code, the Committee may, in its sole discretion and without a Participants prior consent, amend the Plan and/or Grants, adopt policies and procedures, or take any other actions (including amendments, policies, procedures and actions with retroactive effect) as are necessary or appropriate to (a)exempt the Plan and/or any Grant from the
+**********************
+10
+**********************
+Awards) (iv) modify the requirements for participation in the Plan, (v)lapse or waive restrictions except in limited cases relating to death, disability, retirement, termination of employment without cause or for good reason as is determined by the Board, or Change of Control.
+**********************
+12.
+Foreign Options and Rights
+**********************
+The Committee or Board of Directors, as applicable, may establish rules or schemes in order to make Grants to Employees who are subject to the laws of nations other than Ireland, which Grants may have terms and conditions that differ from the terms thereof as provided elsewhere in the Plan for the purpose of complying with foreign laws.
+In the event that the Committee or Board of Directors establishes such rules or schemes, the substantive provisions thereof shall be set forth on schedules attached hereto, and are hereby incorporated by reference as part of the Plan, subject to any additional action required to be taken pursuant to the applicable foreign law.
+**********************
+13.
+Withholding Taxes
+**********************
+(a)Willis Group shall have the right to deduct from any cash payment made under the Plan any federal, state, local, national, provincial or other income or other taxes required by law to be withheld with respect to such payment.
+It shall be a condition to the obligation of Willis Group to deliver shares upon the exercise of a Share Option, upon delivery of Restricted Share or upon exercise, settlement or payment of Restricted Share Units or any Other Share-Based Grant that the Participant shall pay to Willis Group such amount as may be requested by Willis Group for the purpose of satisfying any liability for such withholding taxes.
+Any Grant Agreement may provide that the Participant may elect, in accordance with any conditions set forth in such Grant Agreement, to pay a portion or the entire minimum amount of such withholding taxes in Ordinary Shares.
+**********************
+(b)In the event that Willis Group is required to account for tax arising from the exercise or vesting of a Grant to the relevant tax authorities and the Participant has not paid, or otherwise made arrangements acceptable to Willis Group to pay the amounts due, Willis Group shall be authorized to procure and effect the sale of a sufficient number of Shares to be allotted or transferred to the Participant as a consequence of the vesting or exercise of the Grant in order to pay the amounts due out of the sale proceeds.
+**********************
+(c)Notwithstanding anything set forth in this Section13, an option may not be exercised unless:
+**********************
+(i)the Board of Directors considers that the issue or transfer of shares pursuant to such exercise would be lawful in all relevant jurisdictions; and
+**********************
+(ii)in a case where, if the option were exercised, Willis Group would be obliged to (or would suffer a disadvantage if it were not to) account for any tax (in any jurisdiction) for which the person in question would be liable by virtue of the exercise of the option and/or for any social security contributions that would be recoverable from the person in question (together, the Tax Liability), that person has either:
+**********************
+(d)made a payment to Willis Group of an amount at least equal to the Companys estimate of the Tax Liability; or
+**********************
+(e)entered into arrangements acceptable to Willis Group to secure that such a payment is made (whether by authorizing the sale of some or all of the shares on his behalf and the payment to Willis Group of the relevant amount out of the proceeds of sale or otherwise).
+**********************
+14.
+Compliance with Section409A of the Code
+**********************
+(a)To the extent that the Plan and/or Grants are subject to Section409A of the Code, the Committee may, in its sole discretion and without a Participants prior consent, amend the Plan and/or Grants, adopt policies and procedures, or take any other actions (including amendments, policies, procedures and actions with retroactive effect) as are necessary or appropriate to (a)exempt the Plan and/or any Grant from the
+**********************
+application of Section409A of the Code, (b)preserve the intended tax treatment of any such Grant, and/or (c)comply with the requirements of Section409A of the Code.
+This Plan shall be interpreted at all times in such a manner that the terms and provisions of the Plan and Grants are exempt from or comply with Section409A of the Code.
+Reference to Section409A of the Code includes reference to any proposed, temporary or final regulations and any other guidance promulgated with respect to such section by the U.S. Department of the Treasury of the Internal Revenue Service.
+**********************
+(b)All Grants that would otherwise be subject to Section409A of the Code shall be paid or otherwise settled on or as soon as practicable after the applicable vesting date and not later than the 15th day of the third month from the end of (i)the Participants tax year that includes the applicable vesting date, or (ii)Willis tax year that includes the applicable vesting date, whichever is later; provided, however, that the Committee reserves the right to delay payment or specify a compliant payment date with respect to any such Grant under circumstances set forth in Section409A of the Code; provided, further, that notwithstanding any contrary provision of the Plan or a Grant Agreement, any payment(s) that are otherwise required to be made under the Plan to a specified employee (as defined under Section409A of the Code) as a result of his or her separation from service (other than a payment that is not subject to Section409A of the Code) shall be delayed for the first six (6)months following such separation from service (or, if earlier, the date of death of the specified employee) and shall instead be paid (in a manner set forth in the Grant Agreement) on the date that immediately follows the end of such six-month period or as soon as administratively practicable thereafter.
+**********************
+15.
+Governing Law
+**********************
+This Plan shall be governed by the laws of Ireland, without regard to conflicts of laws.
+**********************
+16.
+Effective Date and Termination Dates
+**********************
+The Plan became effective on and as of the date of the original approval of the Willis Group Holdings 2008 Share Purchase and Option Plan by a majority of the shareholders of Willis, and shall terminate ten years thereafter, subject to earlier termination by the Board of Directors pursuant to Section11.
+**********************
+11
+**********************
+application of Section409A of the Code, (b)preserve the intended tax treatment of any such Grant, and/or (c)comply with the requirements of Section409A of the Code.
+This Plan shall be interpreted at all times in such a manner that the terms and provisions of the Plan and Grants are exempt from or comply with Section409A of the Code.
+Reference to Section409A of the Code includes reference to any proposed, temporary or final regulations and any other guidance promulgated with respect to such section by the U.S. Department of the Treasury of the Internal Revenue Service.
+**********************
+(b)All Grants that would otherwise be subject to Section409A of the Code shall be paid or otherwise settled on or as soon as practicable after the applicable vesting date and not later than the 15th day of the third month from the end of (i)the Participants tax year that includes the applicable vesting date, or (ii)Willis tax year that includes the applicable vesting date, whichever is later; provided, however, that the Committee reserves the right to delay payment or specify a compliant payment date with respect to any such Grant under circumstances set forth in Section409A of the Code; provided, further, that notwithstanding any contrary provision of the Plan or a Grant Agreement, any payment(s) that are otherwise required to be made under the Plan to a specified employee (as defined under Section409A of the Code) as a result of his or her separation from service (other than a payment that is not subject to Section409A of the Code) shall be delayed for the first six (6)months following such separation from service (or, if earlier, the date of death of the specified employee) and shall instead be paid (in a manner set forth in the Grant Agreement) on the date that immediately follows the end of such six-month period or as soon as administratively practicable thereafter.
+**********************
+15.
+Governing Law
+**********************
+This Plan shall be governed by the laws of Ireland, without regard to conflicts of laws.
+**********************
+16.
+Effective Date and Termination Dates
+**********************
+The Plan became effective on and as of the date of the original approval of the Willis Group Holdings 2008 Share Purchase and Option Plan by a majority of the shareholders of Willis, and shall terminate ten years thereafter, subject to earlier termination by the Board of Directors pursuant to Section11.

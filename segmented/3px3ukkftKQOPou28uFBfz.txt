@@ -1,0 +1,1740 @@
+**********************
+Exhibit 4.1     INDENTURE  Dated as of December30, 2009  among  JUPITER SATURN HOLDING COMPANY  (to be renamed Towers Watson& Co. at the Effective Time)  and  WILMINGTON TRUST FSB  Trustee  Subordinated Notes due January1, 2011
+**********************
+CROSS-REFERENCE TABLE
+**********************
+TIASections
+**********************
+Indenture Sections
+**********************
+310
+**********************
+(a)(1)
+**********************
+7.10
+**********************
+(a)(2)
+**********************
+7.10
+**********************
+(a)(3)
+**********************
+N/A
+**********************
+(a)(4)
+**********************
+N/A
+**********************
+(a)(5)
+**********************
+7.10
+**********************
+(b)
+**********************
+7.08; 7.10
+**********************
+(c)
+**********************
+N/A
+**********************
+311
+**********************
+(a)
+**********************
+7.11
+**********************
+(b)
+**********************
+7.11
+**********************
+(c)
+**********************
+N/A
+**********************
+312
+**********************
+(a)
+**********************
+2.05
+**********************
+(b)
+**********************
+11.03
+**********************
+(c)
+**********************
+11.03
+**********************
+313
+**********************
+(a)
+**********************
+7.06
+**********************
+(b)(1)
+**********************
+N/A
+**********************
+(b)(2)
+**********************
+7.06
+**********************
+(c)
+**********************
+7.06; 11.02
+**********************
+(d)
+**********************
+7.06
+**********************
+314
+**********************
+(a)
+**********************
+4.02; 4.04
+**********************
+(b)
+**********************
+N/A
+**********************
+(c)(1)
+**********************
+11.04
+**********************
+(c)(2)
+**********************
+11.04
+**********************
+(c)(3)
+**********************
+11.04
+**********************
+(d)
+**********************
+N/A
+**********************
+CROSS-REFERENCE TABLE (continued)
+**********************
+TIA Sections
+**********************
+Indenture Sections
+**********************
+(e)
+**********************
+11.05
+**********************
+(f)
+**********************
+N/A
+**********************
+315
+**********************
+(a)
+**********************
+7.01
+**********************
+(b)
+**********************
+7.05; 11.02
+**********************
+(c)
+**********************
+7.01
+**********************
+(d)
+**********************
+7.01
+**********************
+(e)
+**********************
+6.11
+**********************
+316
+**********************
+(a)(lastsentence)
+**********************
+11.06
+**********************
+(a)(1)(A)
+**********************
+6.05
+**********************
+(a)(1)(B)
+**********************
+6.04
+**********************
+(a)(2)
+**********************
+N/A
+**********************
+(b)
+**********************
+6.07
+**********************
+(c)
+**********************
+N/A
+**********************
+317
+**********************
+(a)(1)
+**********************
+6.08
+**********************
+(a)(2)
+**********************
+6.09
+**********************
+(b)
+**********************
+2.04
+**********************
+318
+**********************
+(a)
+**********************
+11.01 N/A means Not Applicable
+**********************
+Note: This Cross-Reference Table shall not, for any purpose, be deemed to be part of this Indenture.
+ii
+**********************
+TABLE OF CONTENTS
+**********************
+Page
+**********************
+ARTICLE I DEFINITIONS AND INCORPORATION BY REFERENCE
+**********************
+1
+**********************
+SECTION 1.01
+**********************
+Definitions
+**********************
+1
+**********************
+SECTION 1.02
+**********************
+Other Definitions
+**********************
+6
+**********************
+SECTION 1.03
+**********************
+Incorporation by Reference of Trust Indenture Act
+**********************
+7
+**********************
+SECTION 1.04
+**********************
+Rules of Construction
+**********************
+7
+**********************
+ARTICLE II THE NOTES
+**********************
+8
+**********************
+SECTION 2.01
+**********************
+Form and Dating
+**********************
+8
+**********************
+SECTION 2.02
+**********************
+Execution and Authentication
+**********************
+8
+**********************
+SECTION 2.03
+**********************
+Registrar and Paying Agent
+**********************
+9
+**********************
+SECTION 2.04
+**********************
+Paying Agent To Hold Money in Trust
+**********************
+10
+**********************
+SECTION 2.05
+**********************
+Noteholder Lists
+**********************
+10
+**********************
+SECTION 2.06
+**********************
+Transfer and Exchange of Notes
+**********************
+11
+**********************
+SECTION 2.07
+**********************
+Replacement Notes
+**********************
+12
+**********************
+SECTION 2.08
+**********************
+Outstanding Notes
+**********************
+13
+**********************
+SECTION 2.09
+**********************
+[Omitted.]
+**********************
+13
+**********************
+SECTION 2.10
+**********************
+Cancellation
+**********************
+13
+**********************
+SECTION 2.11
+**********************
+Defaulted Interest
+**********************
+13
+**********************
+ARTICLE III REDEMPTION
+**********************
+14
+**********************
+SECTION 3.01
+**********************
+Optional Redemption
+**********************
+14
+**********************
+SECTION 3.02
+**********************
+Notices to Trustee
+**********************
+14
+**********************
+SECTION 3.03
+**********************
+Selection
+**********************
+14
+**********************
+SECTION 3.04
+**********************
+Notice
+**********************
+14
+**********************
+SECTION 3.05
+**********************
+Effect of Notice of Redemption
+**********************
+15
+**********************
+SECTION 3.06
+**********************
+Deposit of Redemption Price
+**********************
+16
+**********************
+SECTION 3.07
+**********************
+Notes Redeemed in Part
+**********************
+16
+**********************
+SECTION 3.08
+**********************
+No Sinking Fund
+**********************
+16
+**********************
+ARTICLE IV COVENANTS
+**********************
+16
+**********************
+SECTION 4.01
+**********************
+Payment of Notes
+**********************
+16
+**********************
+SECTION 4.02
+**********************
+Reports
+**********************
+16
+**********************
+SECTION 4.03
+**********************
+Maintenance of Office or Agency
+**********************
+17
+**********************
+SECTION 4.04
+**********************
+Compliance Certificate
+**********************
+18
+**********************
+ARTICLE V SUCCESSOR ISSUER
+**********************
+18
+**********************
+SECTION 5.01
+**********************
+Merger, Consolidation or Sale of All or Substantially All Assets of the Issuer
+**********************
+18
+**********************
+ARTICLE VI DEFAULTS AND REMEDIES
+**********************
+19
+**********************
+SECTION 6.01
+**********************
+Events of Default
+**********************
+19
+**********************
+SECTION 6.02
+**********************
+Acceleration
+**********************
+20
+**********************
+SECTION 6.03
+**********************
+Other Remedies
+**********************
+20
+**********************
+iii
+**********************
+TABLE OF CONTENTS (continued)
+**********************
+Page
+**********************
+SECTION 6.04
+**********************
+Waiver of Existing Defaults
+**********************
+20
+**********************
+SECTION 6.05
+**********************
+Control by Majority
+**********************
+20
+**********************
+SECTION 6.06
+**********************
+Limitation on Suits
+**********************
+21
+**********************
+SECTION 6.07
+**********************
+Rights of Holders To Receive Payment
+**********************
+21
+**********************
+SECTION 6.08
+**********************
+Collection Suit by Trustee
+**********************
+21
+**********************
+SECTION 6.09
+**********************
+Trustee May File Proofs of Claim
+**********************
+21
+**********************
+SECTION 6.10
+**********************
+Application of Money or Property Collected
+**********************
+22
+**********************
+SECTION 6.11
+**********************
+Undertaking for Costs
+**********************
+22
+**********************
+SECTION 6.12
+**********************
+Waiver of Stay or Extension Laws
+**********************
+22
+**********************
+ARTICLE VII TRUSTEE
+**********************
+23
+**********************
+SECTION 7.01
+**********************
+Duties of Trustee
+**********************
+23
+**********************
+SECTION 7.02
+**********************
+Rights of Trustee
+**********************
+24
+**********************
+SECTION 7.03
+**********************
+Reserved
+**********************
+25
+**********************
+SECTION 7.04
+**********************
+Trustees Disclaimer
+**********************
+25
+**********************
+SECTION 7.05
+**********************
+Notice of Defaults
+**********************
+25
+**********************
+SECTION 7.06
+**********************
+Reports by Trustee to Holders
+**********************
+25
+**********************
+SECTION 7.07
+**********************
+Compensation and Indemnity
+**********************
+26
+**********************
+SECTION 7.08
+**********************
+Replacement of Trustee
+**********************
+27
+**********************
+SECTION 7.09
+**********************
+Successor Trustee by Merger
+**********************
+28
+**********************
+SECTION 7.10
+**********************
+Eligibility; Disqualification
+**********************
+28
+**********************
+SECTION 7.11
+**********************
+Preferential Collection of Claims Against the Issuer
+**********************
+28
+**********************
+SECTION 7.12
+**********************
+Individual Rights of Trustee
+**********************
+28
+**********************
+ARTICLE VIII DISCHARGE OF INDENTURE
+**********************
+28
+**********************
+SECTION 8.01
+**********************
+Satisfaction and Discharge of Indenture
+**********************
+28
+**********************
+SECTION 8.02
+**********************
+Reinstatement
+**********************
+29
+**********************
+SECTION 8.03
+**********************
+Repayment to the Issuer
+**********************
+29
+**********************
+ARTICLE IX AMENDMENTS
+**********************
+30
+**********************
+SECTION 9.01
+**********************
+Without Consent of Holders
+**********************
+30
+**********************
+SECTION 9.02
+**********************
+With Consent of Holders
+**********************
+30
+**********************
+SECTION 9.03
+**********************
+Compliance with Trust Indenture Act
+**********************
+31
+**********************
+SECTION 9.04
+**********************
+Revocation and Effect of Consents and Waivers
+**********************
+31
+**********************
+SECTION 9.05
+**********************
+Notation on or Exchange of Notes
+**********************
+32
+**********************
+SECTION 9.06
+**********************
+Trustee To Sign Supplemental Indentures
+**********************
+32
+**********************
+SECTION 9.07
+**********************
+Payment for Consent
+**********************
+32
+**********************
+ARTICLE X SUBORDINATION
+**********************
+32
+**********************
+SECTION 10.01
+**********************
+Subordination
+**********************
+32
+**********************
+SECTION 10.02
+**********************
+No Payment on Notes in Certain Circumstances
+**********************
+32
+**********************
+SECTION 10.03
+**********************
+Distributions in Liquidation or Bankruptcy
+**********************
+33
+**********************
+SECTION 10.04
+**********************
+Notice of Event of Default and Acceleration
+**********************
+33
+**********************
+SECTION 10.05
+**********************
+When Distribution Must be Paid Over
+**********************
+34
+**********************
+SECTION 10.06
+**********************
+Duties of Trustee
+**********************
+34
+**********************
+iv
+**********************
+TABLE OF CONTENTS (continued)
+**********************
+Page
+**********************
+SECTION 10.07
+**********************
+Notice of Violations
+**********************
+34
+**********************
+SECTION 10.08
+**********************
+Subrogation
+**********************
+34
+**********************
+SECTION 10.09
+**********************
+No Impairment
+**********************
+34
+**********************
+SECTION 10.10
+**********************
+Right of Senior Debt to Enforce
+**********************
+35
+**********************
+SECTION 10.11
+**********************
+Notice to Senior Debt
+**********************
+35
+**********************
+SECTION 10.12
+**********************
+Knowledge of Trustee
+**********************
+35
+**********************
+SECTION 10.13
+**********************
+Authorization to Effect Subordination; Power of Attorney
+**********************
+35
+**********************
+SECTION 10.14
+**********************
+Modification
+**********************
+35
+**********************
+SECTION 10.15
+**********************
+This Article X Not to Prevent Events of Default
+**********************
+35
+**********************
+ARTICLE XI MISCELLANEOUS
+**********************
+36
+**********************
+SECTION 11.01
+**********************
+Trust Indenture Act Controls
+**********************
+36
+**********************
+SECTION 11.02
+**********************
+Notices
+**********************
+36
+**********************
+SECTION 11.03
+**********************
+Communication by Holders with Other Holders
+**********************
+37
+**********************
+SECTION 11.04
+**********************
+Certificate and Opinion as to Conditions Precedent
+**********************
+37
+**********************
+SECTION 11.05
+**********************
+Statements Required in Certificate or Opinion
+**********************
+37
+**********************
+SECTION 11.06
+**********************
+When Notes Disregarded
+**********************
+38
+**********************
+SECTION 11.07
+**********************
+Rules by Trustee, Paying Agent and Registrar
+**********************
+38
+**********************
+SECTION 11.08
+**********************
+Payment not on a Business Day
+**********************
+38
+**********************
+SECTION 11.09
+**********************
+GOVERNING LAW
+**********************
+38
+**********************
+SECTION 11.10
+**********************
+No Recourse Against Others
+**********************
+38
+**********************
+SECTION 11.11
+**********************
+Successor
+**********************
+38
+**********************
+SECTION 11.12
+**********************
+Multiple Originals
+**********************
+39
+**********************
+SECTION 11.13
+**********************
+Table of Contents; Headings
+**********************
+39
+**********************
+SECTION 11.14
+**********************
+Severability
+**********************
+39
+**********************
+SECTION 11.15
+**********************
+No Adverse Interpretation of Other Agreements
+**********************
+39
+**********************
+SECTION 11.16
+**********************
+Indenture Controls
+**********************
+39
+**********************
+EXHIBIT A
+**********************
+FORM OF NOTE
+**********************
+A-1
+**********************
+EXHIBIT B
+**********************
+FORM OF CERTIFICATE TO BE DELIVERED IN CONNECTION WITH TRANSFER
+**********************
+B-1
+**********************
+v
+**********************
+INDENTURE dated as of December30, 2009, between JUPITER SATURN HOLDING COMPANY (to be renamed Towers Watson& Co. at the Effective Time), a Delaware corporation (the Issuer), and WILMINGTON TRUST FSB (the Trustee), having its Corporate Trust Office at 246 Goose Lane, Suite 105, Guilford, Connecticut 06437.
+Each party agrees as follows for the benefit of the other party and for the equal and ratable benefit of the Holders of the Issuers Subordinated Notes due January1, 2011 issued pursuant hereto (all such Notes being referred to collectively as the Notes):  ARTICLE I  DEFINITIONS AND INCORPORATION BY REFERENCE  SECTION 1.01 Definitions.
+Affiliate of any specified Person means:  (1) any other Person, directly or indirectly, controlling or controlled by or under direct or indirect common control with such specified Person; or  (2) any other Person that owns, directly or indirectly, 10% or more of such specified Persons Voting Stock.
+For purposes of this definition, control (including, with correlative meanings, the terms controlling, controlled by and under common control with), as used with respect to any Person, shall mean the possession, directly or indirectly, of the power to direct or cause the direction of the management or policies of such Person, whether through the ownership of voting securities, by agreement or otherwise.
+Bankruptcy Law means Title11, United States Code, or any similar federal or state law for the relief of debtors.
+Board of Directors means, with respect to any Person, the Board of Directors of such Person, or any authorized committee of the Board of Directors of such Person.
+Business Day means a day other than a Saturday, Sunday or other day on which banking institutions in New York, New York are authorized or required by Law or executive order to be closed.
+Capital Stock means (i)in the case of a corporation, corporate stock, (ii)in the case of a partnership or limited liability company, partnership or membership interests (whether general or limited) and (iii)in the case of an association or other business entity, any and all shares, interests, participations, rights or other equivalents (however designated) of corporate stock.
+Class R Common Stock shall have the meaning assigned to such term in the Merger Agreement.
+-1-
+**********************
+Closing Date shall have the meaning assigned to such term in the Merger Agreement.
+Code means the Internal Revenue Code of 1986, as amended.
+Corporate Trust Office means the office of the Trustee specified in Section11.02 or any other office specified by the Trustee from time to time pursuant to such Section.
+Credit Agreement means the Credit Agreement dated as of January1, 2010, among the Issuer and certain of its subsidiaries, as borrowers, the lenders party thereto, Bank of America, N.A., as administrative agent, and the other parties thereto, as amended, supplemented, restated, modified, renewed, refunded, replaced or refinanced in whole or in part from time to time, including any increase in the principal amount available thereunder in connection with any of the foregoing.
+Credit Facilities means one or more debt facilities (including, without limitation, the Credit Agreement) or commercial paper facilities, in each case, with banks or other institutional lenders providing for revolving credit loans, term loans, receivables financing (including through the sale of receivables to such lenders or to special purpose entities formed to borrow from such lenders against such receivables) or letters of credit, in each case, as amended, restated, modified, renewed, refunded, replaced (whether upon or after termination or otherwise) or refinanced (including by means of sales of debt securities to institutional investors) in whole or in part from time to time.
+Debt means, with respect to any Person:  (a) any indebtedness of such Person, whether or not contingent:  (i) in respect of borrowed money;  (ii) evidenced by bonds, notes, debentures or similar instruments or letters of credit or bankers acceptances (or, without duplication, reimbursement agreements in respect thereof), including the Notes;  (iii) representing the balance deferred and unpaid of the purchase price of any property or services (including capitalized lease obligations); or  (iv) representing net Obligations under any Hedging Obligations; if and to the extent that any of the foregoing Debt (other than letters of credit and Hedging Obligations) would appear as a liability upon a balance sheet (excluding the footnotes thereto) of such Person prepared in accordance with GAAP;  (b) to the extent not otherwise included, any obligation by such Person to be liable for, or to pay, as obligor, guarantor or otherwise on, the Obligations of the type referred to in clause(a) of a third Person (whether or not such items would appear upon the balance sheet of such obligor or guarantor), other than by endorsement of negotiable instruments for collection in the ordinary course of business; and   -2-
+**********************
+(c) to the extent not otherwise included, the Obligations of the type referred to in clause(a) of a third Person secured by a lien on any asset owned by such first Person, whether or not such Indebtedness is assumed by such first Person.
+Default means any event that is, or with the passage of time or the giving of notice or both would be, an Event of Default.
+Designated Senior Debt means (a)Debt of the Issuer under or in respect of the Credit Facilities and (b)any other Debt of the Issuer constituting Senior Debt which, at the time of determination, has an aggregate outstanding principal amount of at least $100.0 million and is specifically designated by the Issuer in the instrument evidencing such Senior Debt as Designated Senior Debt.
+Effective Time has the meaning given in the Merger Agreement.
+Equity Interests means Capital Stock and all warrants, options or other rights to acquire Capital Stock (but excluding any debt security that is convertible into, or exchangeable for, Capital Stock).
+Exchange Act means the Securities Exchange Act of 1934, as amended.
+GAAP means generally accepted accounting principles in the United States of America as in effect from time to time, including those set forth in the opinions and pronouncements of the Accounting Principles Board of the American Institute of Certified Public Accountants and statements and pronouncements of the Financial Accounting Standards Board or in such other statements by such other entity as have been approved by a significant segment of the accounting profession.
+Governmental Authority means the government of the United States of America or any other nation, or of any political subdivision thereof, whether state or local, and any agency, authority, instrumentality, regulatory body, court, central bank or other entity exercising executive, legislative, judicial, taxing, regulatory or administrative powers or functions of or pertaining to government (including any supra-national bodies such as the European Union or the European Central bank).
+Government Notes means direct obligations (or certificates representing an ownership interest in such obligations) of the United States of America (including any agency or instrumentality thereof) for the payment of which the full faith and credit of the United States of America is pledged and which are not callable or redeemable at the issuers option.
+Hedging Obligations means, with respect to any Person, the obligations of such Person under:  (1) currency exchange or interest rate swap agreements, cap agreements and collar agreements; and  (2) other agreements or arrangements designed to protect such Person against fluctuations in currency exchange or interest rates.
+-3-
+**********************
+Holder or Noteholder means the Person in whose name a Note is registered on the Registrars books.
+Indenture means this Indenture as amended or supplemented from time to time.
+Interest Accrual Date means January4, 2010.
+Interest Payment Date with respect to any Note means the Maturity Date.
+Law means any law, rule, regulation, order, judgment or decree of any Governmental Authority.
+Maturity Date means January1, 2011.
+Merger Agreement means the Agreement and Plan of Merger, dated as of June26, 2009, by and among Watson Wyatt Worldwide, Inc., Towers, Perrin, Forster& Crosby, Inc., the Issuer, Jupiter Saturn Delaware, Inc. and Jupiter Saturn Pennsylvania, Inc.  Notes has the meaning stated in the recital of this Indenture and more particularly means any Notes authenticated and delivered under this Indenture.
+Obligations means any principal, interest, penalties, fees, indemnifications, reimbursements, damages, guarantees of payment and other liabilities payable under the documentation governing any Debt, in each case whether now or hereafter existing, renewed or restructured, whether or not from time to time decreased or extinguished and later increased, created or incurred, whether or not arising on or after the commencement of a proceeding under Bankruptcy Law (including post-petition interest) and whether or not allowed or allowable as a claim in any such proceeding.
+Officers means any of the following: President, Chief Executive Officer, Chief Operating Officer, Treasurer, Assistant Treasurer, Chief Financial Officer, Executive Vice President, Senior Vice President, Vice President, Assistant Vice President, Secretary or Assistant Secretary.
+Officers Certificate means a certificate signed on behalf of the Issuer by two Officers that meets the requirements of Section11.05 hereof.
+Opinion of Counsel means a written opinion from legal counsel who is reasonably acceptable to the Trustee that meets the requirements of Section11.05 hereof.
+The counsel may be an employee of or counsel to the Issuer or the Trustee.
+As to matters of fact, an Opinion of Counsel may conclusively rely on an Officers Certificate, without any independent investigation.
+Payment means, with respect to the Notes, any payment, whether in cash or other assets or property, of interest, principal or any other amount on, of or in respect of the Notes, any other acquisition of Notes and any deposit into the trust described in ArticleVIII.
+The verb pay has a correlative meaning.
+-4-
+**********************
+Permitted Family Member means any spouse, parent, grandparent, child, grandchild (including a child or grandchild by adoption and step-children), sibling, mother-in-law, father-in-law, brother-in-law or sister-in-law of the Holder of a Note.
+Person means any individual, corporation, partnership, limited liability company, joint venture, association, joint-stock company, trust, unincorporated organization, government or any agency or political subdivision thereof or any other entity.
+Representative means the indenture trustee or other trustee, agent or representative in respect of any Senior Debt; provided that, if and for so long as any Senior Debt lacks such a representative, then the Representative for such Senior Debt shall at all times constitute the holders of a majority in outstanding principal amount of such Senior Debt.
+SEC means the Securities and Exchange Commission.
+Senior Debt means the principal of, premium, if any, and accrued and unpaid interest on, including interest accruing on or after the filing of any petition in bankruptcy or for reorganization of the Issuer, regardless of whether or not a claim for post-filing interest is allowed in such proceedings, and fees and other amounts (including expenses, reimbursement obligations under letters of credit and indemnities) owing in respect of, all Debt of the Issuer, whether outstanding on the Closing Date or thereafter incurred (including in respect of any existing or future Credit Facilities), unless in the instrument creating or evidencing the same or pursuant to which the same is outstanding it is provided that such obligations are not superior in right of payment to the Notes; provided, however, that Senior Debt of the Issuer shall not include:  (a) any Debt of the Issuer to a Subsidiary of the Issuer;  (b) Debt to trade creditors and other amounts incurred in connection with obtaining goods, materials or services in the ordinary course of business and any amounts owed as compensation to employees;  (c) any obligations with respect to Capital Stock;  (d) any liability for federal, state, local or other taxes owed or owing by the Issuer; and  (e) any Debt, which is, by its express terms or by the express terms of the instrument or agreement creating or evidencing the same or pursuant to which the same is outstanding, subordinated in right of payment to any other Debt of the Issuer.
+Senior Officer means the President or the Chief Executive Officer of the Issuer.
+Subsidiary means, with respect to any Person, any other Person of which Voting Stock or other Equity Interests having ordinary voting power to elect more than 50% of the Board of Directors or other governing body are owned, directly or indirectly, by such first Person.
+TIA means the Trust Indenture Act of 1939 (15 U.S.C.
+77aaa-77bbbb) as in effect on the date of this Indenture, unless as stated in Section9.03 hereof.
+-5-
+**********************
+Transfer means any sale, gift, mortgage, pledge, exchange, assignment or other disposition or transfer, including a disposition under judicial order, legal process, execution, attachment or enforcement of an encumbrance.
+Trustee means the party named as such in this Indenture until a successor replaces it and, thereafter, means the successor.
+Trust Officer means, when used with respect to the Trustee, any officer within the corporate trust department of the Trustee, including any vice president, assistant vice president, assistant secretary, assistant treasurer, trust officer or any other officer of the Trustee who customarily performs functions similar to those performed by the persons who at the time shall be such officers, respectively, or to whom any corporate trust matter is referred because of such persons knowledge of and familiarity with the particular subject and who shall have direct responsibility for the administration of this Indenture.
+UCC means the New York Uniform Commercial Code as in effect from time to time.
+Voting Stock of any Person as of any date means the Capital Stock of such Person that is at the time entitled to vote in the election of the Board of Directors or other governing body of such Person.
+Wholly Owned Subsidiary of any Person means a Subsidiary of such Person all of the outstanding Capital Stock or other ownership interests of which (other than directors qualifying shares) shall at the time be owned by such Person or by one or more Wholly Owned Subsidiaries of such Person.
+SECTION 1.02 Other Definitions.
+**********************
+Term
+**********************
+DefinedinSection
+**********************
+Bankruptcy Custodian
+**********************
+6.01(c)
+**********************
+Blockage Period
+**********************
+10.02
+**********************
+Default Notice
+**********************
+10.02
+**********************
+Event of Default
+**********************
+6.01(a)
+**********************
+Indemnified Party
+**********************
+7.07
+**********************
+Paying Agent
+**********************
+2.03
+**********************
+protected purchaser
+**********************
+2.07
+**********************
+Redemption Date
+**********************
+3.01
+**********************
+Redemption Price
+**********************
+3.01
+**********************
+Register
+**********************
+2.03
+**********************
+Registrar
+**********************
+2.03
+**********************
+Restricted Transfer Legend
+**********************
+2.01(a)
+**********************
+-6-
+**********************
+SECTION 1.03 Incorporation by Reference of Trust Indenture Act.
+This Indenture is subject to the mandatory provisions of the TIA, which are incorporated by reference in and made a part of this Indenture.
+The following TIA terms have the following meanings:  Commission means the SEC.
+indenture notes means the Notes.
+indenture security holder means a Holder or Noteholder.
+indenture to be qualified means this Indenture.
+indenture trustee or institutional trustee means the Trustee.
+obligor on the indenture notes means the Issuer and any other obligor on the Notes.
+All other TIA terms used in this Indenture that are defined by the TIA, defined by TIA reference to another statute or defined by SEC rule have the meanings assigned to them by such definitions.
+SECTION 1.04 Rules of Construction.
+Unless the context otherwise requires:  (1) a term has the meaning assigned to it;  (2) an accounting term not otherwise defined has the meaning assigned to it in accordance with GAAP;  (3) or is not exclusive;  (4) including means including without limitation;  (5) words in the singular include the plural and words in the plural include the singular;  (6) the principal amount of any non-interest bearing or other discount security at any date shall be the principal amount thereof that would be shown on a balance sheet of the Issuer dated such date prepared in accordance with GAAP and accretion of principal on such security shall not be deemed to be the incurrence of Debt;  (7) all exhibits are incorporated by reference herein and expressly made a part of this Indenture;  (8) all references to articles, sections and exhibits (and subparts thereof) are to this Indenture; and  (9) all references to Persons include their successors.
+-7-
+**********************
+ARTICLE II  THE NOTES  SECTION 2.01 Form and Dating.
+(a) All Notes issued pursuant to this Indenture and the Trustees certificate of authentication shall be substantially in the form of ExhibitA, which is hereby incorporated in and expressly made a part of this Indenture, and as otherwise provided in this ArticleII.
+The Notes may have notations, legends or endorsements required by law, stock exchange rule, agreements to which the Issuer is subject, if any, or usage; provided that any such notation, legend or endorsement is in a form acceptable to the Issuer; and provided, further, that no Note may be issued without the restricted transfer legend set forth in the first paragraph of ExhibitA (the Restricted Transfer Legend).
+Each Note shall be dated the date of its authentication.
+The terms of the Notes set forth in ExhibitA are part of the terms of this Indenture.
+The Notes shall be issuable only in registered form without coupons.
+The Notes may be issued in denominations of $2,000 and integral multiples of $1,000, or in any such smaller denominations as is necessary to allow the issuance of Notes with an original principal amount as the Issuer would be required to deliver in connection with the redemption of the Class R Common Stock.
+(b) The Notes to be issued under this Indenture will be issued by the Issuer upon redemption of the Issuers Class R Common Stock in accordance with the Merger Agreement.
+(c) Notes shall be issued in accordance with Section2.06 in certificated form substantially in the form of ExhibitA hereto, duly executed by the Issuer and authenticated by the Trustee as hereinafter provided, and registered in the name of the Holder thereof.
+The Notes will be in certificated form and cannot be transferred to or exchanged for a global note.
+(d) All Notes issued hereunder shall be treated as a single class of securities under this Indenture.
+SECTION 2.02 Execution and Authentication.
+The Notes shall be executed on behalf of the Issuer by its Chairman of the Board of Directors, its President, its Chief Executive Officer, its Chief Financial Officer, one of its Executive or Senior Vice Presidents or its Treasurer or Assistant Treasurer.
+The signature of any of these officers may be manual or facsimile.
+If an Officer whose signature is on a Note no longer holds that office at the time the Trustee authenticates the Note, the Note shall be valid nevertheless.
+A Note shall not be valid until an authorized signatory of the Trustee manually signs the certificate of authentication on the Note.
+The signature shall be conclusive evidence that the Note has been authenticated under this Indenture.
+The Trustee shall authenticate and make available for delivery upon a written order of the Issuer signed by two of its Officers, Notes for original issue on January6, 2010 in an aggregate principal amount not to exceed $200,000,000.
+Such order shall specify the amount of the Notes to be authenticated and the date on which the original issue of Notes is to be authenticated.
+The aggregate principal amount of Notes outstanding at any time may not exceed $200,000,000 except as provided in Section2.07.
+**********************
+-8-
+**********************
+The Trustee may appoint an authenticating agent reasonably acceptable to the Issuer to authenticate the Notes.
+Any such appointment shall be evidenced by an instrument signed by a Trust Officer of the Trustee, a copy of which shall be furnished to the Issuer.
+Unless limited by the terms of such appointment, an authenticating agent may authenticate Notes whenever the Trustee may do so.
+After any such appointment, each reference in this Indenture to authentication by the Trustee includes authentication by such agent.
+An authenticating agent has the same rights as any Registrar (as defined below), Paying Agent (as defined below) or agent for service of notices and demands.
+The Issuer shall retain possession of the Notes as custodian for the Holders.
+Holders of the Notes will be entitled to physical delivery of their respective Note upon written request to the Issuer.
+Except for any Notes delivered to Holders pursuant to written request by such Holders to the Issuer, the Notes will at all times be held by the Issuer.
+SECTION 2.03 Registrar and Paying Agent.
+The Issuer shall maintain an office or agency where Notes may be presented for registration of transfer or for exchange (the Registrar) and an office or agency where Notes may be presented for payment (the Paying Agent).
+The Registrar shall keep a register of the Notes for the recordation of the names and addresses of the Holders of the Notes, the principal amount of each of the Notes, the date and amount of each payment in respect of the Notes and any transfer or exchange of the Notes (the Register).
+The Issuer may appoint one or more co-registrars and one or more additional paying agents.
+The term Registrar includes any co-registrar and the term Paying Agent includes any additional paying agent.
+The Issuer shall give prompt written notice to the Trustee of the location, and any change in the location, of such office or agency.
+If at any time the Issuer shall fail to maintain any such required office or agency or shall fail to furnish the Trustee with the address thereof, such presentations, surrenders, notices and demands may be made or served at the address of the Trustee set forth in Section11.02.
+The Issuer may also from time to time designate one or more other offices or agencies where the Notes may be presented or surrendered for any or all such purposes and may from time to time rescind such designations.
+The Issuer will give prompt notice to the Trustee of any such designation or rescission and of any change in the location of any such other office or agency.
+The Issuer initially designates the Corporate Trust Office of the Trustee specified in Section11.02 as such office of the Issuer in accordance with this Section2.03.
+The Issuer shall enter into an appropriate agency agreement with any Registrar or Paying Agent not a party to this Indenture, which shall incorporate any applicable terms of the TIA and implement the provisions of this Indenture that relate to such agent.
+The Issuer shall notify the Trustee of the name and address of any such agent.
+If the Issuer fails to maintain a Registrar or Paying Agent, the Trustee shall act as such and shall be entitled to appropriate compensation therefor pursuant to Section7.07.
+Either the Issuer or any domestically organized Wholly Owned Subsidiary of the Issuer may act as Paying Agent or Registrar.
+-9-
+**********************
+The Issuer initially appoints the Trustee as Registrar and Paying Agent in connection with the Notes.
+The Issuer may remove any Registrar or Paying Agent upon written notice to such Registrar or Paying Agent and to the Trustee, provided that no such removal shall become effective until payment to such Registrar or Paying Agent of any fees due to such Person from the Issuer, other than fees which are currently being contested in good faith, and acceptance of an appointment by a successor as evidenced by an appropriate agreement entered into by the Issuer and such successor Registrar or Paying Agent, as the case may be, and delivered to the Trustee to the extent that such successor is not currently a party to this Indenture.
+The Registrar or Paying Agent may resign at any time upon not less than three Business Days prior written notice to the Issuer; provided, however, that the Trustee may resign as Paying Agent or Registrar only if the Trustee also resigns as Trustee in accordance with Section7.08.
+SECTION 2.04 Paying Agent To Hold Money in Trust.
+Prior to 10:00 a.m., New York City time, on each due date of the principal and interest on any Note, the Issuer shall deposit with the Paying Agent (or if the Issuer or its Wholly Owned Subsidiary is acting as Paying Agent, segregate and hold in trust for the benefit of the Persons entitled thereto) a sum sufficient to pay such principal and interest when so becoming due.
+The Issuer shall require each Paying Agent (other than the Trustee) to agree in writing that the Paying Agent shall hold in trust for the benefit of Noteholders or the Trustee all money held by the Paying Agent for the payment of principal of or interest on the Notes and shall notify the Trustee in writing of any default by the Issuer in making any such payment within one Business Day thereof.
+If the Issuer or its Wholly Owned Subsidiary acts as Paying Agent, it shall segregate the money held by it as Paying Agent and hold it as a separate trust fund.
+Upon any bankruptcy or reorganization proceedings relating to the Issuer, the Trustee will serve as Paying Agent for the Notes.
+The Issuer at any time may require a Paying Agent to pay all money held by it to the Trustee and to account for any funds disbursed by the Paying Agent.
+Upon complying with this Section, the Paying Agent shall have no further liability for the money delivered to the Trustee.
+Subject to any applicable abandoned property law, any money deposited with any Paying Agent, or then held by the Issuer or its Wholly Owned Subsidiary in trust for the payment of principal or interest on any Note and remaining unclaimed for two years after such principal and interest has become due and payable shall be paid to the Issuer at its request, or, if then held by the Issuer or a Wholly Owned Subsidiary, shall be discharged from such trust; and the Noteholders shall thereafter, as general unsecured creditors, look only to the Issuer for payment thereof, and all liability of the Paying Agent with respect to such money, and all liability of the Issuer or such Wholly Owned Subsidiary as trustee thereof, shall thereupon cease.
+SECTION 2.05 Noteholder Lists.
+The Trustee shall preserve in as current a form as is reasonably practicable the most recent list available to it of the names and addresses of Noteholders and shall otherwise comply with Section312(a) of the TIA.
+If the Trustee is not the Registrar, the Issuer shall furnish, or cause the Registrar (if other than the Issuer) to furnish, to the Trustee, in writing at least five Business Days before the Interest Payment Date and at such other times as the Trustee may request in writing, a list in such form and as of such date as the Trustee may reasonably require of the names and addresses of Noteholders.
+-10-
+**********************
+SECTION 2.06 Transfer and Exchange of Notes.
+(a) Restrictions on Transfer of Notes.
+Notes may not be transferred to any Person other than (i)the Issuer, (ii)a Permitted Family Member of the transferor, (iii)any trust organized for the benefit of a Permitted Family Member of the transferor or (iv)upon the death of a Holder, such Holders executors, administrators, testamentary trustees, legatees and beneficiaries.
+In connection with any Transfer permitted hereunder, (x)a Holder (or, in the case of a Transfer pursuant to clause (iv), such Holders executors, administrators, testamentary trustees, legatees and beneficiaries) shall provide ten Business Days prior written notice to the Registrar of any such Transfer, (y)any transferor must deliver a Certificate of Transfer in the form of Exhibit B hereto to the Registrar and (z)any transferor and any transferee must deliver any additional certifications, documents and information, as may be reasonably requested by the Trustee.
+In addition, prior to any registration of a Transfer, the requesting Holder shall present or surrender to the Registrar or shall instruct the custodian of the Notes to present or surrender to the Registrar, the Notes duly endorsed or accompanied by a written instruction of transfer in form satisfactory to the Registrar duly executed by such Holder or its attorney, duly authorized in writing.
+Each Holder, by accepting a Note, shall be deemed to agree to the transfer restrictions set forth in this Section2.06.
+No Transfer of Notes in violation of the terms of this Section2.06 shall be made or recorded on the books of the Registrar, and any such Transfer shall be void and of no effect.
+No transfer of Notes shall be effective unless and until it has been recorded in the Register.
+Only the registered Holder of a Note will be treated as its owner.
+(b) General Provisions Relating to Transfers and Exchanges.
+(i) To permit registrations of transfers and exchanges, the Issuer shall execute and the Trustee shall authenticate Notes upon the Issuers order or at the Registrars request.
+(ii) No service charge shall be made to a Holder for any registration of transfer or exchange, but the Issuer may require payment of a sum sufficient to cover any transfer tax or similar governmental charge payable in connection therewith (other than any such transfer taxes or similar governmental charge payable upon exchange or transfer pursuant to Section9.05).
+(iii) The Registrar shall not be required to register the transfer of or exchange any Note selected for redemption in whole or in part, except for the unredeemed portion of any Note being redeemed in part.
+(iv) The Registrar shall retain copies of all certificates, notices and other written communications received pursuant to this Section2.06.
+The Issuer shall have the right to inspect and make copies of all such certificates, notices or other written communications at any reasonable time upon the giving of reasonable notice to the Registrar.
+All Notes issued upon any registration of transfer or exchange of Notes shall be the valid obligations of the Issuer, evidencing the same indebtedness, and entitled to the same benefits under this Indenture, as the Notes surrendered upon such registration of transfer or exchange.
+(v) The Issuer, Trustee and Registrar shall not be required (A)to issue, to register the transfer of or to exchange any Notes during a period beginning at the opening of business on a Business Day 15 days before the day of any selection of Notes for
+**********************
+-11-
+**********************
+redemption under Section3.03 and ending at the close of business on the day of selection, (B)to register the transfer of or to exchange any Note so selected for redemption in whole or in part, except the unredeemed portion of any Note being redeemed in part or (C)to register the transfer of or to exchange a Note between the opening of business on a Business Day 15 days before the Maturity Date and the Maturity Date.
+(vi) Prior to the due presentation for registration of transfer of any Note, the Issuer, the Trustee, the Paying Agent or the Registrar may deem and treat the Person in whose name a Note is registered as the absolute owner of such Note for the purpose of receiving payment of principal of and accrued and unpaid interest, if any, on such Note and for all other purposes whatsoever, whether or not such Note is overdue, and none of the Issuer, the Trustee, the Paying Agent or the Registrar shall be affected by notice to the contrary.
+(vii) The Trustee shall authenticate Notes in accordance with the provisions of Section2.02.
+(viii) All certifications and certificates required to be submitted to the Registrar pursuant to this Section2.06 to effect a registration of transfer or exchange may be submitted by facsimile.
+(ix) All Notes issued upon any transfer pursuant to this Section2.06 will evidence the same Debt and will be entitled to the same benefits under this Indenture as the Notes surrendered upon such transfer.
+(x) The Trustee shall have no obligation or duty to monitor, determine or inquire as to compliance with any restrictions on transfer imposed under this Indenture or under applicable Law with respect to any transfer of any interest in any Note other than to require delivery of such certificates and other documentation or evidence as are expressly required by, and to do so if and when expressly required by the terms of, this Indenture, and to examine the same to determine substantial compliance as to form with the express requirements hereof.
+SECTION 2.07 Replacement Notes.
+If a mutilated Note is surrendered to the Registrar or if the Holder claims that the Note has been lost, destroyed or wrongfully taken, the Issuer shall issue and the Trustee shall authenticate a replacement Note if the Holder (i)satisfies the Issuer or the Trustee within a reasonable time after he has notice of such loss, destruction or wrongful taking and the Registrar does not register a transfer prior to receiving such notification, (ii)makes such request to the Issuer or the Trustee prior to the Note being acquired by a protected purchaser as defined in Section8-303 of the UCC and (iii)satisfies any other reasonable requirements of the Trustee and the Issuer including evidence of the destruction, loss or theft of the Note.
+Such Holder shall furnish an indemnity bond sufficient in the judgment of (i)the Trustee to protect the Trustee or (ii)the Issuer to protect the Issuer, the Trustee, the Paying Agent and the Registrar from any loss that any of them may suffer if a Note is replaced, including any loss or liability which any of them may suffer if a Note is replaced and subsequently presented or claimed for payment.
+The Issuer and the Trustee may charge the Holder for their expenses in replacing a Note including the payment of a sum sufficient to cover any tax or other governmental charge that may be required.
+In the event any such mutilated, lost, destroyed or wrongfully taken Note has
+**********************
+-12-
+**********************
+become or is about to become due and payable, the Issuer in its discretion may pay such Note instead of issuing a new Note in replacement thereof.
+Every replacement Note is an additional obligation of the Issuer and shall be entitled to all of the benefits of this Indenture equally and proportionally with all other Notes duly issued hereunder.
+The provisions of this Section2.07 are exclusive and shall preclude (to the extent lawful) all other rights and remedies with respect to the replacement or payment of mutilated, lost, destroyed or wrongfully taken Notes.
+SECTION 2.08 Outstanding Notes.
+Notes outstanding at any time are all Notes authenticated by the Trustee except:  (a) Notes theretofore cancelled by the Trustee or delivered to the Trustee for cancellation, including Notes tendered and exchanged for other securities of the Issuer;  (b) Notes for which payment or redemption money in the necessary amount has been theretofore deposited with the Trustee or any Paying Agent (other than the Issuer) in trust or set aside and segregated in trust by the Issuer (if the Issuer shall act as its own Paying Agent) for the Holders of such Notes; provided, however, that if such Notes are to be redeemed, then notice of such redemption has been duly given pursuant to this Indenture or provision therefor satisfactory to the Trustee has been made and the date for such redemption has passed; and  (c) Notes paid pursuant to Section2.07 and Notes in exchange for or in lieu of which other Notes have been authenticated and delivered pursuant to this Indenture, other than any such Notes in respect of which there shall have been presented to the Trustee proof satisfactory to it that such Notes are held by a bona fide purchaser in whose hands such Notes are valid obligations of the Issuer.
+SECTION 2.09 [Omitted.]
+SECTION 2.10 Cancellation.
+All Notes surrendered for payment, redemption, transfer or exchange shall, if surrendered to any Person other than the Trustee, be delivered to the Trustee at its Corporate Trust Office.
+All Notes so delivered shall be promptly cancelled by the Trustee.
+The Issuer may at any time deliver to the Trustee for cancellation any Notes previously authenticated and delivered hereunder which the Issuer may have acquired in any manner whatsoever, and may deliver to the Trustee (or to any other Person for delivery to the Trustee) for cancellation any Notes previously authenticated hereunder which the Issuer has not issued, and all Notes so delivered shall be promptly cancelled by the Trustee.
+No Notes shall be authenticated in lieu of or in exchange for any Notes cancelled as provided in this Section2.10, except as permitted by this Indenture.
+A copy of all cancelled Notes held by the Trustee shall be delivered to the Issuer upon the written request of the Issuer.
+The acquisition of any Notes by the Issuer shall not operate as a redemption or satisfaction of the indebtedness represented thereby unless and until such Notes are surrendered to the Trustee for cancellation.
+The Notes shall not be disposed of until payment thereon is made in full.
+SECTION 2.11 Defaulted Interest.
+If the Issuer defaults in a payment of interest on the Notes, the Issuer shall pay the defaulted interest (plus interest on such defaulted interest to the extent lawful) in any lawful manner in each case at the rate specified in the Notes.
+The Issuer may pay the defaulted interest to the persons who are Noteholders on a subsequent special record date.
+The Issuer
+**********************
+-13-
+**********************
+shall fix or cause to be fixed any such special record date and payment date to the reasonable satisfaction of the Trustee and shall promptly mail or cause to be mailed to each Noteholder a notice that states the special record date, the payment date and the amount of defaulted interest to be paid.
+ARTICLE III REDEMPTION  SECTION 3.01 Optional Redemption.
+The Issuer may redeem at any time all or a part of the Notes, in accordance with the provisions of this ArticleIII, at a redemption price equal to 100% of the principal amount of Notes redeemed (the Redemption Price) plus the accrued and unpaid interest to the date of redemption (the Redemption Date).
+SECTION 3.02 Notices to Trustee.
+If the Issuer elects to redeem Notes pursuant to this ArticleIII, it shall notify the Trustee not less than 30 days, but not more than 60 days, prior to the Redemption Date of the Redemption Date, the Redemption Price and the principal amount of Notes to be redeemed.
+SECTION 3.03 Selection.
+If less than all of the Notes are to be redeemed at any time, selection of Notes for redemption will be made by such method as the Trustee shall reasonably deem fair and appropriate, including, without limitation, on a pro rata basis or by lot.
+If any Note is to be redeemed in part only, the notice of redemption that relates to such Note shall state the portion of the principal amount thereof to be redeemed.
+On and after the Redemption Date, unless the Issuer shall default in the payment of the Redemption Price, interest will cease to accrue on Notes or portions of them called for redemption.
+The portions of the principal amount of Notes so selected for partial redemption shall be equal to the minimum authorized denominations for Notes pursuant to Section2.01(a) or any integral multiple thereof.
+In any case when more than one Note is registered in the same name, the Trustee, in its discretion, may treat the aggregate principal amount so registered as if it were represented by one Note.
+The Trustee shall promptly notify the Issuer in writing of the Notes selected for redemption and, in the case of any Notes selected for partial redemption, the principal amount thereof to be redeemed.
+For all purposes of this Indenture, unless the context otherwise requires, all provisions relating to the redemption of Notes shall relate, in the case of any Note redeemed or to be redeemed only in part, to the portion of the principal amount of such Note which has been or is to be redeemed.
+SECTION 3.04 Notice.
+Notice of redemption shall be given by the Issuer, or at the Issuers written request, by the Trustee in the name and at the expense of the Issuer, provided however, that the Issuer has delivered to the Trustee, at least five days prior to the sending of the notice, an Officers Certificate requesting that the Trustee give such notice and setting forth the information to be stated in such notice, not less than 20 days and not more than 60 days prior to the Redemption Date (which date may be extended in
+**********************
+-14-
+**********************
+accordance with applicable law) to each Holder at such Holders registered address; provided that a notice of redemption may be mailed more than 60 days prior to a Redemption Date if such notice is issued in connection with the satisfaction and discharge of this Indenture pursuant to Section8.01.
+Notices of redemption shall be mailed by first class mail to each Holder of Notes to be redeemed at its registered address.
+Notices of redemption may state that consummation of the redemption is conditional upon the occurrence of certain events described in reasonable detail therein.
+The notice shall identify the Notes to be redeemed and shall state:  (1) the Redemption Date;  (2) the Redemption Price and the amount of accrued interest to the Redemption Date;  (3) the name and address of the Paying Agent;  (4) that Notes called for redemption must be surrendered to the Paying Agent to collect the Redemption Price plus accrued interest;  (5) that the Notes are being redeemed by the Issuer pursuant to provisions contained in this Indenture or the terms of such Notes, together with a brief statement of the facts permitting such redemption;  (6) that (i)all outstanding Notes are to be redeemed, or (ii)if fewer than all the outstanding Notes are to be redeemed, the certificate numbers and principal amounts of the particular Notes to be redeemed;  (7) in the case of Notes that are to be redeemed in part only, that on or after the Redemption Date, upon surrender of such Notes, the Holders of such Notes will receive, without charge, new Notes in authorized denominations for the principal amount thereof remaining unredeemed;  (8) that, unless the Issuer defaults in making payment of the Redemption Price or the Paying Agent is prohibited from making such payment pursuant to the terms of this Indenture, interest on Notes (or portion thereof) called for redemption ceases to accrue on and after the Redemption Date;  (9) the place or places of payment where such Notes are to be surrendered for payment of the Redemption Price; and  (10) in reasonable detail any condition that must be satisfied before the Issuer will be required to redeem the Notes.
+SECTION 3.05 Effect of Notice of Redemption.
+Once notice of redemption is mailed, Notes called for redemption shall become due and payable on the Redemption Date and at the Redemption Price, subject to any conditions that must be satisfied before the Issuer will be required to redeem the Notes.
+Upon surrender to the Paying Agent, such Notes shall be paid at the Redemption Price,
+**********************
+-15-
+**********************
+plus accrued and unpaid interest to the Redemption Date.
+If mailed in the manner herein, the notice shall be conclusively presumed to have been given whether or not the Holder receives such notice.
+Failure to give notice or any defect in the notice to any Holder shall not affect the validity of the notice to any other Holder.
+SECTION 3.06 Deposit of Redemption Price.
+At or prior to 10:00 a.m., New York City time, on the Redemption Date, the Issuer shall deposit with the Paying Agent (or, if the Issuer or its Wholly Owned Subsidiary is the Paying Agent, shall segregate and hold in trust) money sufficient to pay the Redemption Price of and accrued and unpaid interest on all Notes to be redeemed on the Redemption Date.
+The Paying Agent shall then pay the Redemption Price to the Holders of Notes being redeemed; provided that the Holder of a Note being redeemed must surrender all certificates representing such elected Notes to the Paying Agent in accordance with the notice of redemption before it shall be entitled to receive such payment.
+SECTION 3.07 Notes Redeemed in Part.
+Any Note which is to be redeemed only in part shall be surrendered at the Corporate Trust Office with, if the Issuer or the Trustee so requires, due endorsement by, or a written instrument of transfer in form satisfactory to the Issuer and the Trustee duly executed by, the Holder thereof or such Holders attorney duly authorized in writing, and the Issuer shall execute, and the Trustee shall authenticate and deliver to the Holder of such Note without service charge, a new Note or Notes, of like tenor and form, of any authorized denomination as requested by such Holder in aggregate principal amount equal to and in exchange for the unredeemed portion of the principal of the Note so surrendered.
+SECTION 3.08 No Sinking Fund.
+There shall be no sinking fund for the payment of principal on Notes to the Noteholders.
+ARTICLE IV  COVENANTS  SECTION 4.01 Payment of Notes.
+The Issuer shall promptly pay the principal of and interest on the Notes on the dates and in the manner provided in the Notes and in this Indenture.
+Principal and interest shall be considered paid on the date due if on such date the Trustee or the Paying Agent (if other than the Issuer or a Wholly Owned Subsidiary) holds by 10:00 a.m., New York City time (or, if the Issuer or its Wholly Owned Subsidiary is the Paying Agent, shall segregate and hold in trust by that time), in accordance with this Indenture available funds sufficient to pay all principal and interest then due and the Trustee or the Paying Agent, as the case may be, is not prohibited from paying such money to the Noteholders on that date pursuant to the terms of this Indenture.
+SECTION 4.02 Reports.
+The Issuer, pursuant to Section314(a) of the TIA, shall:  (1) file with the Trustee, within 15 days after the Issuer files the same with the SEC, copies of the annual reports and of the information, documents and other reports (or copies of such portions of any of the foregoing as the SEC may from time to time by rules and regulations prescribe) which the Issuer may be required to file with the SEC pursuant to Section13 or Section15(d) of the Exchange Act; or, if the Issuer is not required to file information, documents or reports pursuant to either of said Sections,
+**********************
+-16-
+**********************
+then it shall file with the Trustee and the SEC, in accordance with rules and regulations prescribed from time to time by the SEC, such of the supplementary and periodic information, documents and reports which may be required pursuant to Section13 of the Exchange Act in respect of a security listed and registered on a national securities exchange as may be prescribed from time to time in such rules and regulations;  (2) file with the Trustee and the SEC, in accordance with rules and regulations prescribed from time to time by the SEC, such additional information, documents and reports with respect to compliance by the Issuer with the conditions and covenants of this Indenture as may be required from time to time by such rules and regulations, including, in the case of annual reports, if required by such rules and regulations, certificates or opinions of independent public accountants, conforming to the requirements of Section314(a) of the TIA; and  (3) transmit to the Holders, in the manner and to the extent provided in Section313(c) of the TIA, such summaries of any information, documents and reports required to be filed by the Issuer pursuant to paragraphs(1) and (2)of this Section as may be required by rules and regulations prescribed from time to time by the SEC.
+Delivery of such reports, information and documents to the Trustee is for informational purposes only and the Trustees receipt of such shall not constitute constructive notice of any information contained therein or determinable from information contained therein, including the Issuers compliance with any of its covenants hereunder (as to which the Trustee is entitled to rely exclusively on Officers Certificates).
+Notwithstanding the foregoing, the Issuer will be deemed to have furnished such reports referred to above to the Trustee and the Holders if it or any direct or indirect parent of the Issuer has filed such reports with the SEC via EDGAR (or any replacement electronic filing system implemented by the SEC) and such reports are publicly available.
+SECTION 4.03 Maintenance of Office or Agency.
+The Issuer will maintain an office or agency where the Notes may be presented or surrendered for payment, where such Notes may be surrendered for registration of transfer or exchange, and where notices and demands to or upon the Issuer in respect of such Notes and this Indenture may be served.
+The Issuer shall give prompt written notice to the Trustee of the location, and any change in the location, of such office or agency.
+If at any time the Issuer shall fail to maintain any such required office or agency or shall fail to furnish the Trustee with the address thereof, such presentations, surrenders, notices and demands may be made or served at the Corporate Trust Office of the Trustee and the Issuer hereby appoints the Trustee as its agent to receive all presentations, surrenders, notices and demands.
+The Issuer may also from time to time designate different or additional offices or agencies to be maintained for such purposes, and may from time to time rescind any such designations; provided, however, that no such designation or rescission shall in any manner relieve the Issuer of its obligations described in the preceding paragraph.
+The Issuer shall give prompt written notice to the Trustee of any such additional designation or rescission of designation and any change in the location of any such different or additional office or agency.
+**********************
+-17-
+**********************
+The Issuer hereby designates the Corporate Trust Office as one such office or agency of the Issuer under this Section4.03.
+SECTION 4.04 Compliance Certificate.
+The Issuer shall deliver to the Trustee annually (on the anniversary of the issuance of the Notes) an Officers Certificate one of the signatories of which shall be the Issuers principal executive officer, principal financial officer or principal accounting officer stating that in the course of the performance by the signers of their duties as Officers of the Issuer they would normally have knowledge of any Default and whether or not the signers know of any Default then in existence.
+If they do have such knowledge, the certificate shall describe the Default, the status of such Default and what action the Issuer is taking or proposes to take with respect thereto.
+The Issuer shall deliver to the Trustee, as soon as possible and in any event within 30 days after the Issuer becomes aware of the occurrence of any Default or Event of Default, an Officers Certificate setting forth the details of such Default or Event of Default and the action which the Issuer proposes to take with respect thereto.
+ARTICLE V  SUCCESSOR ISSUER  SECTION 5.01 Merger, Consolidation or Sale of All or Substantially All Assets of the Issuer.
+The Issuer shall not consolidate or merge with or into (whether or not the Issuer is the surviving entity), or sell, assign, transfer, lease, convey or otherwise dispose of all or substantially all of its properties or assets (determined on a consolidated basis for the Issuer and its Subsidiaries) in one or more related transactions, to another Person unless the Issuer is the surviving entity, or the Person formed by or surviving any such consolidation or merger (if other than the Issuer) or to which such sale, assignment, transfer, lease, conveyance or other disposition shall have been made (such Person, the Successor Entity) assumes all the obligations of the Issuer under the Notes and this Indenture pursuant to a supplemental indenture and other documents reasonably satisfactory to the Trustee.
+Notwithstanding any provision herein to the contrary, (a)any Subsidiary of the Issuer may consolidate with, merge into or transfer all or part of its properties and assets to the Issuer; and (b)the Issuer may merge or consolidate with an Affiliate organized solely for the purpose of reorganizing the Issuer in another jurisdiction.
+Upon any consolidation or merger in which the Issuer is not the surviving entity, or any transfer of all or substantially all of the assets of the Issuer in each case in accordance with the foregoing, the Successor Entity shall succeed to, and be substituted for, and may exercise every right and power of, the Issuer under the Notes and this Indenture, with the same effect as if the Successor Entity had been named as the Issuer.
+-18-
+**********************
+ARTICLE VI  DEFAULTS AND REMEDIES  SECTION 6.01 Events of Default.
+(a) Each of the following constitutes an Event of Default under this Indenture: (1) default for 30 days in the payment when due of interest on the Notes;  (2) default for five days in payment when due of the principal of the Notes;  (3) the Issuer pursuant to or within the meaning of any Bankruptcy Law:  (A) commences a voluntary case;  (B) consents to the entry of an order for relief against it in an involuntary case;  (C) consents to the appointment of a Bankruptcy Custodian of it or for any substantial part of its property; or  (D) makes a general assignment for the benefit of its creditors;  or takes any comparable action under any foreign laws relating to insolvency;  (4) a court of competent jurisdiction enters an order or decree under any Bankruptcy Law that:  (A) is for relief against the Issuer in an involuntary case;  (B) appoints a Bankruptcy Custodian of the Issuer or for any substantial part of its property; or  (C) orders the winding up or liquidation of the Issuer;  or any similar relief is granted under any foreign laws and the order or decree relating thereto remains unstayed and in effect for 60 days; or  (5) the Issuer fails to comply with any covenant or agreement in the Notes or in this Indenture (other than a failure that is the subject of the foregoing clauses(a)(1) or (2))and such failure continues for 60 days after written notice is given to the Issuer by the Trustee or the Holders of at least 25% in aggregate principal amount of the outstanding Notes.
+(b) The foregoing shall constitute Events of Default whatever the reason for any such Event of Default and whether it is voluntary or involuntary or is effected by operation of law or pursuant to any judgment, decree or order of any court or any order, rule or regulation of any administrative or governmental body.
+-19-
+**********************
+(c) For purposes of this Indenture, the term Bankruptcy Custodian means any receiver, trustee, assignee, liquidator, custodian or similar official under any Bankruptcy Law.
+SECTION 6.02 Acceleration.
+(a) If an Event of Default (other than an Event of Default specified in Section6.01(a)(3) or (4))occurs and is continuing, the Trustee by notice to the Issuer in writing, or the Holders of at least 25% in aggregate principal amount of the outstanding Notes by notice in writing to the Issuer, may declare the principal of and accrued but unpaid interest on all the Notes to be due and payable.
+Upon such a declaration, such principal and interest shall be due and payable immediately.
+Notwithstanding the foregoing, if an Event of Default specified in Section6.01(a)(3) or (4)occurs, the principal of and interest on all the Notes shall ipso facto become and be immediately due and payable without any declaration or other act on the part of the Trustee or any Noteholders.
+(b) At any time after a declaration of acceleration with respect to the Notes as described in Section6.02(a), the Holders of a majority in aggregate principal amount of the outstanding Notes may rescind and cancel such declaration and its consequences: (i)if the rescission would not conflict with any judgment or decree; (ii)if all existing Events of Default have been cured or waived except nonpayment of principal or interest that has become due solely because of the acceleration; (iii)to the extent the payment of such interest is lawful, interest on overdue installments of interest and overdue principal, which has become due otherwise than by such declaration of acceleration, has been paid; and (iv)if the Issuer has paid the Trustee its reasonable compensation and reimbursed the Trustee for its expenses, disbursements and advances.
+No such rescission shall affect any subsequent Event of Default or impair any right consequent thereto.
+SECTION 6.03 Other Remedies.
+If an Event of Default occurs and is continuing, the Trustee may pursue any available remedy to collect the payment of principal of or interest on the Notes or to enforce the performance of any provision of the Notes or this Indenture.
+The Trustee may maintain a proceeding even if it does not possess any of the Notes or does not produce any of them in the proceeding.
+A delay or omission by the Trustee or any Noteholder in exercising any right or remedy accruing upon an Event of Default shall not impair the right or remedy or constitute a waiver of or acquiescence in the Event of Default.
+No remedy is exclusive of any other remedy.
+All available remedies are cumulative (to the extent permitted by law).
+SECTION 6.04 Waiver of Existing Defaults.
+The Holders of a majority in aggregate principal amount of the outstanding Notes by written notice to the Trustee may on behalf of the Holders of all of the Notes waive any Event of Default and its consequences hereunder.
+When an Event of Default is waived, it is deemed cured and ceases to exist and any Event of Default arising therefrom shall be deemed to have been cured and waived for every purpose under this Indenture, but no such waiver shall extend to any subsequent or other Event of Default or impair any consequent right thereon.
+SECTION 6.05 Control by Majority.
+The Holders of a majority in aggregate principal amount of the Notes then outstanding may direct the time, method and place of conducting any proceeding for any remedy available to the Trustee or of exercising any trust
+**********************
+-20-
+**********************
+or power conferred on the Trustee by this Indenture; provided that such direction shall not be in conflict with any rule of law or with this Indenture.
+However, the Trustee may refuse to follow any direction that the Trustee determines is unduly prejudicial to the rights of other Noteholders or would involve the Trustee in personal liability; provided, however, that the Trustee may take any other action deemed proper by the Trustee that is not inconsistent with such direction.
+Prior to taking any action hereunder, the Trustee shall be entitled to indemnification satisfactory to it in its sole discretion against all losses and expenses caused by taking or not taking such action.
+SECTION 6.06 Limitation on Suits.
+Except to enforce the right to receive payment of principal or interest when due, no Noteholder may pursue any remedy with respect to this Indenture or the Notes unless:  (1) such Holder has previously given the Trustee notice that an Event of Default is continuing;  (2) Holders of at least 25% in aggregate principal amount of the outstanding Notes have made a written request to the Trustee to pursue the remedy;  (3) such Holders have offered the Trustee security or indemnity reasonably satisfactory to it against any loss, liability or expense;  (4) the Trustee has not complied with the request within 60 days after the receipt of the request and the offer of security or indemnity; and  (5) the Holders of a majority in aggregate principal amount of the Notes then outstanding have not given the Trustee a direction inconsistent with such request within such 60-day period.
+A Noteholder may not use this Indenture to prejudice the rights of another Noteholder or to obtain a preference or priority over another Noteholder.
+SECTION 6.07 Rights of Holders To Receive Payment.
+Notwithstanding any other provision of this Indenture, the right of any Holder to receive payment of principal of and interest on the Notes held by such Holder, on or after the respective due dates expressed in the Notes, or to bring suit for the enforcement of any such payment on or after such respective dates, shall not be impaired or affected without the consent of such Holder.
+SECTION 6.08 Collection Suit by Trustee.
+If an Event of Default occurs and is continuing under Section6.01(a)(1) and (2), the Trustee may recover judgment in its own name and as trustee of an express trust against the Issuer for the whole amount then due and owing (together with interest on any overdue principal and on any unpaid interest to the extent lawful) and the amounts provided for in Section7.07.
+SECTION 6.09 Trustee May File Proofs of Claim.
+The Trustee may file such proofs of claim and other papers or documents as may be necessary or advisable in order to have the claims of the Trustee and the Noteholders allowed in any judicial proceedings relative to the Issuer, its creditors or its property and, unless prohibited by law or applicable regulations, may vote on behalf of the
+**********************
+-21-
+**********************
+Holders in any election of a trustee in bankruptcy or other Person performing similar functions, and any Bankruptcy Custodian in any such judicial proceeding is hereby authorized by each Holder to make payments to the Trustee and, in the event that the Trustee shall consent to the making of such payments directly to the Holders, to pay to the Trustee any amount due it for the reasonable compensation, expenses, disbursements and advances of the Trustee, its agents and its counsel, and any other amounts due the Trustee under Section7.07.
+SECTION 6.10 Application of Money or Property Collected.
+If the Trustee collects any money or property pursuant to this Article VI, it shall pay out the money or property in the following order:  FIRST: to the Trustee for amounts due under Section7.07;  SECOND: to Noteholders for amounts due and unpaid on the Notes for principal and interest, ratably, according to the amounts due and payable on the Notes for principal and interest, respectively; and  THIRD: to the Issuer.
+The Trustee may fix a record date and payment date for any payment to Noteholders pursuant to this Section.
+At least fifteen days before such record date, the Trustee shall mail to each Noteholder and the Issuer a notice that states the record date, the payment date and amount to be paid.
+SECTION 6.11 Undertaking for Costs.
+In any suit for the enforcement of any right or remedy under this Indenture or in any suit against the Trustee for any action taken or omitted by it as Trustee, a court in its discretion may require the filing by any party litigant in the suit of an undertaking to pay the costs of the suit, and the court in its discretion may assess reasonable costs, including reasonable attorneys fees and expenses, against any party litigant in the suit, having due regard to the merits and good faith of the claims or defenses made by the party litigant.
+This Section does not apply to a suit by the Trustee, a suit by a Holder pursuant to Section6.07 or a suit by Holders of more than 10% in principal amount of the outstanding Notes.
+SECTION 6.12 Waiver of Stay or Extension Laws.
+The Issuer (to the extent it may lawfully do so) shall not at any time insist upon, or plead, or in any manner whatsoever claim or take the benefit or advantage of, any stay or extension law wherever enacted, now or at any time hereafter in force, which may affect the covenants or the performance of this Indenture; and the Issuer (to the extent that it may lawfully do so) hereby expressly waives all benefit or advantage of any such law, and shall not hinder, delay or impede the execution of any power herein granted to the Trustee, but shall suffer and permit the execution of every such power as though no such law had been enacted.
+-22-
+**********************
+ARTICLE VII  TRUSTEE  SECTION 7.01 Duties of Trustee.
+(a) If an Event of Default has occurred and is continuing, the Trustee shall exercise the rights and powers vested in it by this Indenture and use the same degree of care and skill in its exercise as a prudent Person would exercise or use under the circumstances in the conduct of such Persons own affairs.
+(b) Except during the continuance of an Event of Default:  (1) the Trustee undertakes to perform such duties and only such duties as are specifically set forth in this Indenture and no implied covenants or obligations shall be read into this Indenture against the Trustee; and  (2) in the absence of bad faith on its part, the Trustee may conclusively rely, as to the truth of the statements and the correctness of the opinions expressed therein, upon certificates or opinions furnished to the Trustee and conforming to the requirements of this Indenture.
+However, in the case of any such certificates or opinions which by any provision hereof are specifically required to be furnished to the Trustee, the Trustee shall examine the certificates and opinions to determine whether or not they conform to the requirements of this Indenture.
+(c) The Trustee may not be relieved from liability for its own negligent action, its own negligent failure to act or its own willful misconduct, except that:  (1) this paragraph does not limit the effect of Section7.01(b);  (2) the Trustee shall not be liable for any error of judgment made in good faith by a Trust Officer unless it is proved that the Trustee was negligent in ascertaining the pertinent facts; and  (3) the Trustee shall not be liable with respect to any action it takes or omits to take in good faith in accordance with a direction received by it pursuant to Section6.05.
+(d) Every provision of this Indenture that in any way relates to the Trustee is subject to paragraphs (a), (b)and (c)of this Section.
+(e) The Trustee shall not be liable for interest on any money received by it except as the Trustee may agree in writing with the Issuer.
+(f) No provision of this Indenture shall require the Trustee to expend or risk its own funds or otherwise incur financial liability in the performance of any of its duties hereunder or thereunder or in the exercise of any of its rights or powers, if it shall have reasonable grounds to believe that repayment of such funds or adequate indemnity against such risk or liability is not reasonably assured to it.
+-23-
+**********************
+(g) Every provision of this Indenture relating to the conduct or affecting the liability of or affording protection to the Trustee shall be subject to the provisions of this Section and to the provisions of the TIA.
+SECTION 7.02 Rights of Trustee.
+Subject to Section7.01:  (a) The Trustee may conclusively rely, and shall be protected in acting or refraining from acting, upon any document believed by it to be genuine and to have been signed or presented by the proper person.
+The Trustee need not investigate any fact or matter stated in any such document.
+(b) Before the Trustee acts or refrains from acting, it may require either or both an Officers Certificate or an Opinion of Counsel.
+The Trustee shall not be liable for any action it takes or omits to take in good faith in reliance on such Officers Certificate or Opinion of Counsel.
+(c) The Trustee may act through agents and shall not be responsible for the misconduct or negligence of any agent appointed with due care.
+(d) The Trustee shall not be liable for any action it takes or omits to take in good faith which it believes to be authorized or within its rights or powers; provided, however, that the Trustees conduct does not constitute willful misconduct or negligence.
+(e) The Trustee may consult with counsel of its selection, and the advice or opinion of such counsel with respect to legal matters relating to this Indenture and the Notes shall be full and complete authorization and protection from liability in respect to any action taken, omitted or suffered by it hereunder in good faith and in accordance with the advice or opinion of such counsel.
+(f) The Trustee shall not be bound to make any investigation into the facts or matters stated in any resolution, certificate, statement, instrument, opinion, report, notice, request, consent, order, approval, bond, debenture, note or other paper or document unless requested in writing to do so by the Holders of not less than a majority in principal amount of the Notes at the time outstanding, but the Trustee, in its discretion, may make such further inquiry or investigation into such facts or matters as it may see fit, and, if the Trustee shall determine to make such further inquiry or investigation, it shall be entitled to examine the books, records and premises of the Issuer, personally or by agent or attorney at the sole cost of the Issuer and shall incur no liability or additional liability of any kind by reason of such inquiry or investigation.
+(g) The Trustee shall not be required to give any note, bond or surety in respect of the execution of the trusts and powers under this Indenture.
+(h) The permissive rights of the Trustee to take any action enumerated in this Indenture shall not be construed as a duty to take such action.
+-24-
+**********************
+(i) The Trustee shall not be deemed to have notice of any Default or Event of Default under Section6.01(a)(3), (4)or (5)unless a Trust Officer has actual knowledge thereof or unless a Trust Officer receives written notice thereof at its Corporate Trust Office specified in Section11.02, from the Issuer or a Holder that such Default or Event of Default has occurred, and such notice references the Notes and this Indenture.
+(j) The rights, privileges, protections, immunities and benefits given to the Trustee, including its right to be indemnified, are extended to, and shall be enforceable by, the Trustee in each of its capacities hereunder, and to each agent, custodian and other Person employed to act hereunder.
+(k) The Trustee may request that the Issuer deliver an Officers Certificate setting forth the names of individuals and/or titles of officers authorized at such time to take specified actions pursuant to this Indenture, which Officers Certificate may be signed by any person authorized to sign an Officers Certificate, including any person specified as so authorized in any such certificate previously delivered and not superseded.
+(l) The Trustee shall be under no obligation to exercise any of the rights or powers vested in it by this Indenture at the request or direction of any of the Holders pursuant to this Indenture unless such Holders shall have offered to the Trustee security or indemnity satisfactory to the Trustee against the costs, expenses and liabilities which might be incurred by it in compliance with such request or direction.
+SECTION 7.03 Reserved.
+SECTION 7.04 Trustees Disclaimer.
+The Trustee shall not be responsible for and makes no representation as to the validity or adequacy of this Indenture or the Notes, it shall not be accountable for the Issuers use of the proceeds from the Notes, and it shall not be responsible for any statement of the Issuer in this Indenture or in any document issued in connection with the sale of the Notes or in the Notes other than the Trustees certificate of authentication.
+SECTION 7.05 Notice of Defaults.
+If a Default occurs and is continuing and is known to the Trustee, the Trustee shall mail to each Holder notice of the Default within the earlier of 90 days after it occurs or 30 days after it is known to a Trust Officer or written notice of it is received by the Trustee.
+Except in the case of a Default in the payment of principal of or interest on any Note, the Trustee may withhold notice if and so long as a committee of its Trust Officers in good faith determines that withholding notice is in the interests of Noteholders.
+If a Default occurs and is continuing and a Senior Officer of the Issuer has actual knowledge of such Default, the Issuer shall deliver to the Trustee written notice of such Default, which notice shall include the status of such Default and any action being taken or proposed to be taken by the Issuer with respect thereto.
+SECTION 7.06 Reports by Trustee to Holders.
+The Trustee shall transmit to the Holders such reports concerning the Trustee and its actions under this Indenture as may be required pursuant to the TIA at the times and in the manner provided pursuant thereto.
+To the extent that any such report is required by the TIA with respect to any 12-month period, such report shall cover the 12-month period ending February1 and shall be transmitted by the next succeeding April1.
+-25-
+**********************
+A copy of each report at the time of its mailing to Noteholders shall be filed with the SEC and each stock exchange (if any) on which the Notes are listed.
+The Issuer agrees to notify promptly the Trustee whenever the Notes become listed on any stock exchange and of any delisting thereof.
+SECTION 7.07 Compensation and Indemnity.
+The Issuer shall pay to the Trustee from time to time such compensation as is agreed to in writing by the Trustee and the Issuer for the Trustees services hereunder.
+The Trustees compensation shall not be limited by any law on compensation of a trustee of an express trust.
+The Issuer shall reimburse the Trustee upon request for all reasonable out-of-pocket disbursements, advances and expenses incurred or made by it, including costs of collection, in addition to the compensation for its services.
+Such expenses shall include the reasonable compensation and expenses, disbursements and advances of the Trustees agents, counsel, accountants and experts.
+The Issuer shall indemnify the Trustee and its officers, directors, shareholders, agents and employees (each, an Indemnified Party) for and hold each Indemnified Party harmless against any and all loss, damage, claims, liability or expense (including reasonable attorneys fees and expenses) including taxes (other than taxes based upon, measured by or determined by the income of the Trustee) incurred by them without negligence or bad faith on their part arising out of or in connection with the acceptance or administration of this Indenture or the Notes and the performance of their duties hereunder, including the cost and expense of enforcing this Indenture against the Issuer (including this Section7.07), and defending itself against any claim (whether asserted by a Holder or any other Person).
+The Trustee and its officers, directors, shareholders, agents and employees in its capacity as Paying Agent and Registrar and agent for service of notice and demands shall have the full benefit of the foregoing indemnity as well as all other benefits, rights and privileges accorded to the Trustee in this Indenture when acting in such other capacity.
+The Trustee shall notify the Issuer of any claim for which it may seek indemnity promptly upon obtaining actual knowledge thereof; provided that any failure so to notify the Issuer shall not relieve the Issuer of its indemnity obligations hereunder.
+The Issuer shall defend the claim and the Indemnified Party shall provide reasonable cooperation at the Issuers expense in the defense.
+Such Indemnified Parties may have separate counsel and the Issuer shall pay the fees and expenses of such counsel; provided that the Issuer shall not be required to pay such fees and expenses if it assumes such Indemnified Parties defense and, in such Indemnified Parties reasonable judgment, there is no conflict of interest between the Issuer and such parties in connection with such defense.
+The Issuer need not reimburse any expense or indemnify against any loss, liability or expense incurred by an Indemnified Party through such partys own willful misconduct, negligence or bad faith.
+The Issuer need not pay any settlement made without its consent (which consent shall not be unreasonably withheld).
+To secure the Issuers payment obligations in this Section and all other obligations to the Trustee pursuant to this Indenture, including all fees, expenses, and rights to indemnification, the Trustee shall have a lien on all money or property held or collected by the Trustee other than money or property held in trust to pay principal of and interest on particular Notes.
+Such lien shall survive the satisfaction and discharge of this Indenture and the resignation or removal of the Trustee.
+The Issuers payment obligations pursuant to this Section shall survive the satisfaction or discharge of this Indenture, any
+**********************
+-26-
+**********************
+rejection or termination of this Indenture under any Bankruptcy Law or the resignation or removal of the Trustee.
+When the Trustee incurs expenses after the occurrence of an Event of Default specified in Section6.01(a)(3) or (4)with respect to the Issuer, the expenses are intended to constitute expenses of administration under the Bankruptcy Law.
+SECTION 7.08 Replacement of Trustee.
+The Trustee may resign at any time by so notifying the Issuer in writing.
+The Holders of a majority in principal amount of the Notes may remove the Trustee by so notifying the Trustee and the Issuer in writing and may appoint a successor Trustee.
+The Issuer may remove the Trustee if:  (1) the Trustee fails to comply with Section7.10;  (2) the Trustee is adjudged bankrupt or insolvent;  (3) a receiver or other public officer takes charge of the Trustee or its property; or  (4) the Trustee otherwise becomes incapable of acting.
+If the Trustee resigns, is removed by the Issuer or by the Holders of a majority in principal amount of the Notes and such Holders do not reasonably promptly appoint a successor Trustee, or if a vacancy exists in the office of Trustee for any reason (the Trustee in such event being referred to herein as the retiring Trustee), the Issuer shall promptly appoint a successor Trustee.
+A successor Trustee shall deliver a written acceptance of its appointment to the retiring Trustee and to the Issuer.
+Thereupon the resignation or removal of the retiring Trustee shall become effective, and the successor Trustee shall have all the rights, powers and duties of the Trustee under this Indenture.
+The successor Trustee shall mail a notice of its succession to Noteholders.
+The retiring Trustee shall promptly transfer all property held by it as Trustee to the successor Trustee, subject to the lien provided for in Section7.07.
+If a successor Trustee does not take office within 60 days after the retiring Trustee resigns or is removed, the retiring Trustee or the Holders of at least 10% in aggregate principal amount of the Notes may petition any court of competent jurisdiction for the appointment of a successor Trustee at the expense of the Issuer.
+If the Trustee fails to comply with Section7.10, any Noteholder may petition any court of competent jurisdiction for the removal of the Trustee and the appointment of a successor Trustee.
+Notwithstanding the replacement of the Trustee pursuant to this Section, the Issuers obligations under Section7.07 shall continue for the benefit of the retiring Trustee.
+-27-
+**********************
+SECTION 7.09 Successor Trustee by Merger.
+If the Trustee consolidates with, merges or converts into, or transfers all or substantially all its corporate trust business or assets to, another corporation or banking association, the resulting, surviving or transferee corporation without any further act shall be the successor Trustee, provided that such Person shall be qualified and eligible under this Article VII.
+In case at the time such successor or successors by merger, conversion or consolidation to the Trustee shall succeed to the trusts created by this Indenture any of the Notes shall have been authenticated but not delivered, any such successor to the Trustee may adopt the certificate of authentication of any predecessor trustee, and deliver such Notes so authenticated; and in case at that time any of the Notes shall not have been authenticated, any successor to the Trustee may authenticate such Notes either in the name of any predecessor hereunder or in the name of the successor to the Trustee; and in all such cases such certificates shall have the same force under the Notes or this Indenture as if such certificates were delivered by the Trustee.
+SECTION 7.10 Eligibility; Disqualification.
+The Trustee shall at all times satisfy the requirements of TIA 310(a).
+The Trustee shall have a combined capital and surplus of at least $50,000,000 as set forth in its most recent published annual report of condition.
+The Trustee shall comply with TIA 310(b); provided, however, that there shall be excluded from the operation of TIA 310(b)(1) any indenture or indentures under which other securities or certificates of interest or participation in other securities of the Issuer are outstanding if the requirements for such exclusion set forth in TIA 310(b)(1) are met.
+SECTION 7.11 Preferential Collection of Claims Against the Issuer.
+The Trustee shall comply with TIA 311(a), excluding any creditor relationship listed in TIA 311(b).
+A Trustee who has resigned or been removed shall be subject to TIA 311(a) to the extent indicated therein.
+SECTION 7.12 Individual Rights of Trustee.
+The Trustee in its individual or any other capacity may deal with the Issuer or its Affiliates with the same rights it would have if it were not Trustee.
+Any Paying Agent or Registrar may do the same with like rights.
+However, the Trustee must comply with Sections 7.10 and 7.11.
+ARTICLE VIII  DISCHARGE OF INDENTURE  SECTION 8.01 Satisfaction and Discharge of Indenture.
+Upon the request of the Issuer, this Indenture will cease to be of further effect (except as to surviving rights of registration of transfer or exchange of the Notes, as expressly provided for herein or pursuant hereto), the Issuer will be discharged from its obligations under the Notes, and the Trustee, at the expense of the Issuer, will execute proper instruments acknowledging satisfaction and discharge of this Indenture and the Notes when:  (a) either (i)all the Notes theretofore authenticated and delivered (other than mutilated, destroyed, lost or stolen Notes that have been replaced or paid) have been delivered to the Trustee for cancellation or (ii)all Notes not theretofore delivered to the Trustee for
+**********************
+-28-
+**********************
+cancellation have become due and payable or an irrevocable notice of redemption with respect to all Notes has been sent by the Issuer in accordance with the terms of this Indenture and the Issuer has irrevocably deposited or caused to be deposited in trust with the Trustee solely for the benefit of the Holders money, Government Notes or a combination thereof, in an amount sufficient to pay and discharge the entire Debt on such Notes not theretofore delivered to the Trustee for cancellation, for principal and interest on the Notes to the date of such deposit (in the case of Notes that have become due and payable) or the date of redemption, as applicable;  (b) the Issuer has paid or caused to be paid all sums payable under this Indenture by the Issuer; and  (c) the Issuer has delivered to the Trustee an Officers Certificate and an Opinion of Counsel, each stating that all conditions precedent provided in this Indenture relating to the satisfaction and discharge of this Indenture and the Notes have been complied with.
+The Trustee shall hold in trust money or Government Notes (including proceeds thereof) deposited with it pursuant to this Section8.01.
+It shall apply the deposited money and the money from Government Notes through each Paying Agent and in accordance with this Indenture to the payment of principal of and interest on the Notes so discharged.
+Notwithstanding the satisfaction and discharge of this Indenture, the obligations of the Issuer to the Trustee under Section7.07 and, if money shall have been deposited with the Trustee pursuant to clause(a)(ii) of this Section, the obligations of the Trustee under this ArticleVIII and Section2.04 shall survive.
+SECTION 8.02 Reinstatement.
+If the Trustee or Paying Agent is unable to apply any United States dollars or Government Notes in accordance with this ArticleVIII by reason of any order or judgment of any court or Governmental Authority enjoining, restraining or otherwise prohibiting such application, then the Issuers obligations under this Indenture and the Notes shall be revived and reinstated as though no deposit had occurred pursuant to this ArticleVIII until such time as the Trustee or Paying Agent is permitted to apply all such money in accordance with this ArticleVIII; provided, however, that, if the Issuer makes any payment of principal of or interest on any Note following the reinstatement of its obligations, the Issuer shall be subrogated to the rights of the Holders of such Notes to receive such payment from the money held by the Trustee or Paying Agent.
+SECTION 8.03 Repayment to the Issuer.
+Subject to any applicable abandoned property law, any money deposited with the Trustee or any Paying Agent, or then held by the Issuer or its Wholly Owned Subsidiary, in trust for the payment of the principal of or interest on any Note and remaining unclaimed for two years after such principal or interest has become due and payable shall be paid to the Issuer on its request or (if then held by the Issuer or its Wholly Owned Subsidiary) shall be discharged from such trust; and the Holder of such Note shall thereafter, as an unsecured general creditor, look only to the Issuer for payment thereof, and all liability of the Trustee or such Paying Agent with respect to such trust money, and all liability of the Issuer as trustee thereof, shall thereupon cease; provided, however, that the Trustee or such Paying Agent, before being required to make any such repayment, may at the expense of the Issuer, cause to be published once, in the New York Times (national edition) and the Wall Street Journal (national
+**********************
+-29-
+**********************
+edition), notice that such money remains unclaimed and that, after a date specified therein, which shall not be less than 30 days from the date of such notification or publication, any unclaimed balance of such money then remaining will be repaid to the Issuer.
+ARTICLE IX  AMENDMENTS  SECTION 9.01 Without Consent of Holders.
+The Issuer and the Trustee may amend or supplement this Indenture or the Notes by the execution of a supplemental indenture without notice to or consent of any Noteholder:  (1) to cure any ambiguity, omission, mistake, defect or inconsistency;  (2) to provide for the assumption of the Issuers obligations to Holders in the case of a merger, consolidation or sale of assets in accordance with ArticleV of this Indenture;  (3) to make any change that would provide any additional rights or benefits to the Holders (including additional covenants, events of default, guarantees or security) or that, as determined by the Board of Directors of the Issuer in good faith, does not materially adversely affect the legal rights of any such Holder under this Indenture or the Notes;  (4) to comply with requirements of the SEC in order to effect or maintain the qualification of this Indenture under the TIA; and  (5) to evidence and provide for the acceptance and appointment under this Indenture of a successor Trustee pursuant to the terms of this Indenture.
+After a supplemental indenture under this Section becomes effective, the Issuer shall mail to Noteholders a notice briefly describing such supplemental indenture.
+The failure to give such notice to all Noteholders, or any defect therein, shall not impair or affect the validity of a supplemental indenture under this Section.
+SECTION 9.02 With Consent of Holders.
+The Issuer and the Trustee may amend or supplement this Indenture or the Notes by the execution of a supplemental indenture without notice to any Noteholder but with the written consent of the Holders of at least a majority in aggregate principal amount of the Notes then outstanding (including consents obtained in connection with a purchase of, or tender offer or exchange offer for, Notes), and any existing default or compliance with any provisions of this Indenture or the Notes may be waived in accordance with Section6.04 of this Indenture.
+Notwithstanding the foregoing, without the consent of each Holder affected, a supplemental indenture or waiver shall not (with respect to any Notes held by a non-consenting Holder):  (1) reduce the principal amount of Notes whose Holders must consent to an amendment, supplement or waiver;   -30-
+**********************
+(2) reduce the principal of or change the fixed maturity of any Note; (3) reduce the rate of or change the time for payment of interest on any Note;  (4) waive a Default in the payment of principal or interest on the Notes (except a rescission of acceleration of the Notes by the Holders of at least a majority in aggregate principal amount of the Notes then outstanding and a waiver of the payment default that resulted from such acceleration) or make any change to Section6.07;  (5) make any Note payable in money other than United States dollars;  (6) impair the rights of Holders to receive payments of principal or interest on the Notes on or after the due dates therefor or to institute suit for the enforcement of any payment on or with respect to any Notes; or  (7) make any change to this Section9.02.
+It shall not be necessary for the consent of the Holders under this Section9.02 to approve the particular form of any proposed supplemental indenture, but it shall be sufficient if such consent approves the substance thereof.
+After a supplemental indenture under this Section becomes effective, the Issuer shall mail to Noteholders a notice briefly describing such supplemental indenture.
+The failure to give such notice to all Noteholders, or any defect therein, shall not impair or affect the validity of a supplemental indenture under this Section.
+No amendment may be made to Article X of this Indenture that adversely affects the rights of any holder of Senior Debt of the Issuer then outstanding unless the holders of such Senior Debt (or any group or Representative thereof authorized to give a consent) consent to such change.
+SECTION 9.03 Compliance with Trust Indenture Act.
+Notwithstanding any other provision herein to the contrary, every supplemental indenture to this Indenture or the Notes shall comply with the TIA as then in effect.
+SECTION 9.04 Revocation and Effect of Consents and Waivers.
+A consent to a supplemental indenture or a waiver by a Holder shall bind such Holder and every subsequent Holder of such Note or portion of the Note that evidences the same debt as the consenting Holders Note, even if notation of the consent or waiver is not made on the Note.
+However, any such Holder or subsequent Holder may revoke the consent or waiver as to such Holders Note or portion of the Note if the Trustee receives written notice of revocation before the date the supplemental indenture or waiver becomes effective.
+After a supplemental indenture or waiver becomes effective, it shall bind every Noteholder.
+Except if otherwise specified in such supplemental indenture or waiver, a supplemental indenture or waiver becomes effective once the requisite number of consents are received by the Issuer or the Trustee.
+The Issuer may, but shall not be obligated to, fix a record date for the purpose of determining the Holders entitled to give their consent or take any other action described above or required or permitted to be taken pursuant to this Indenture.
+If a record date is fixed, then notwithstanding anything to the contrary in this Section9.04, those Persons who were Holders at such record date (or their duly
+**********************
+-31-
+**********************
+designated proxies), and only those Persons, shall be entitled to give such consent or to revoke any consent previously given or to take any such action, whether or not such Persons continue to be Holders after such record date.
+SECTION 9.05 Notation on or Exchange of Notes.
+If a supplemental indenture changes the terms of a Note, the Trustee may require the Holder of the Note to deliver such Note to the Trustee.
+The Trustee may place an appropriate notation on the Note regarding the changed terms and return it to the Holder.
+Alternatively, if the Issuer or the Trustee so determines, the Issuer in exchange for the Note shall issue and the Trustee shall authenticate a new Note that reflects the changed terms.
+Failure to make the appropriate notation or to issue a new Note shall not affect the validity of such supplemental indenture.
+SECTION 9.06 Trustee To Sign Supplemental Indentures.
+The Trustee shall sign any supplemental indenture authorized pursuant to this ArticleIX if such supplemental indenture does not adversely affect the rights, duties, liabilities or immunities of the Trustee.
+If it does, the Trustee may but need not sign it.
+In signing such supplemental indenture the Trustee shall be entitled to receive indemnity reasonably satisfactory to it and to receive, and (subject to Section7.01) shall be fully protected in relying upon, an Officers Certificate and an Opinion of Counsel stating that such supplemental indenture is authorized or permitted by this Indenture, that such supplemental indenture is the legal, valid and binding obligation of the Issuer, enforceable against it in accordance with its terms, subject to customary exceptions, and complies with the provisions hereof (including Section9.03).
+SECTION 9.07 Payment for Consent.
+Neither the Issuer nor any Affiliate of the Issuer shall, directly or indirectly, pay or cause to be paid any consideration, whether by way of interest, fee or otherwise, to any Holder for or as an inducement to any consent, waiver or amendment of any of the terms or provisions of this Indenture or the Notes unless such consideration is offered to be paid to all Holders that so consent, waive or agree to amend in the time frame set forth in solicitation documents relating to such consent, waiver or agreement.
+ARTICLE X  SUBORDINATION  SECTION 10.01 Subordination.
+The Issuer agrees, and each Holder by accepting a Note agrees, that the Obligations with respect to the Notes (including principal of, interest on and all other amounts with respect to the Notes) are subordinated and junior in right of payment, to the extent and in the manner provided in this ArticleX, to the prior payment in full in cash of all Senior Debt (whether outstanding on the date hereof or hereafter created, incurred, assumed or guaranteed); that the subordination is for the benefit of, and shall be enforceable directly by, the holders of Senior Debt, and that each holder of Senior Debt whether now outstanding or hereafter created, incurred, assumed or guaranteed shall be deemed to have acquired Senior Debt in reliance upon the covenants and provisions contained in this Indenture and the Notes.
+SECTION 10.02 No Payment on Notes in Certain Circumstances.
+If any default occurs and is continuing in the payment when due, whether at maturity, upon redemption, by declaration or otherwise, of any principal of, interest on, unpaid drawings for letters
+**********************
+-32-
+**********************
+of credit issued in respect of, or regularly accruing fees with respect to, any Designated Senior Debt, no payment of any kind or character shall be made by, or on behalf of, the Issuer or any other Person on its or their behalf with respect to any Obligations on the Notes, or to acquire any of the Notes for cash or property or otherwise.
+In addition, if any other event of default occurs and is continuing with respect to any Designated Senior Debt, as such event of default is defined in the instrument creating or evidencing such Designated Senior Debt, permitting the holders of such Designated Senior Debt then outstanding to accelerate the maturity thereof and if the Representative for the respective issue of Designated Senior Debt gives written notice of such event of default to the Trustee (a Default Notice), then, unless and until all such events of default have been cured or waived or have ceased to exist or the Trustee receives notice thereof from the Representative for the respective issue of Designated Senior Debt terminating the Blockage Period (as defined below), during the 179 days after the delivery of such Default Notice (the Blockage Period), neither the Issuer nor any other Person on its behalf shall (x)make any payment of any kind or character with respect to any Obligations on the Notes (other than payment of amounts already deposited in accordance with the satisfaction and discharge provisions of this Indenture) or (y)acquire any of the Notes for cash or property or otherwise.
+Notwithstanding anything herein to the contrary, in no event will a Blockage Period extend beyond 180 days from the date the payment on the Notes was due and only one such Blockage Period may be commenced within any 360 consecutive days.
+No event of default which existed or was continuing on the date of the commencement of any Blockage Period with respect to the Designated Senior Debt shall be, or be made, the basis for the commencement of a second Blockage Period by the Representative of such Designated Senior Debt whether or not within a period of 360 consecutive days, unless such event of default shall have been cured or waived for a period of not less than 90 consecutive days (it being acknowledged that any subsequent action or any breach of any financial covenants for a period commencing after the date of commencement of such Blockage Period that, in either case, would give rise to an event of default pursuant to any provisions under which an event of default previously existed or was continuing shall constitute a new event of default for this purpose).
+SECTION 10.03 Distributions in Liquidation or Bankruptcy.
+Upon any distribution to creditors of the Issuer in a liquidation or dissolution of the Issuer or in a bankruptcy, reorganization, insolvency, receivership or similar proceeding relating to the Issuer or its property, in an assignment for the benefit of creditors or any marshaling of the Issuers assets and liabilities:  (a) holders of Senior Debt will be entitled to receive payment in full in cash of all Obligations due in respect of such Senior Debt (including interest after the commencement of any bankruptcy proceeding at the rate specified in the applicable Senior Debt) before Holders will be entitled to receive any payment with respect to the Notes; and  (b) until all Obligations with respect to Senior Debt (as provided in the preceding clause(a) above) are paid in full in cash, any distribution to which Holders would be entitled but for this ArticleX will be made to holders of Senior Debt, as their interests may appear.
+SECTION 10.04 Notice of Event of Default and Acceleration.
+The Issuer shall deliver to the holders of Senior Debt or their Representative, as soon as possible and in any event within 30 days after the Issuer becomes aware of the occurrence of any Default or Event of Default, notice of such Default or Event of Default.
+-33-
+**********************
+If payment of the Notes is accelerated because of an Event of Default, the Issuer will promptly notify holders of Senior Debt or their Representative of such acceleration.
+SECTION 10.05 When Distribution Must be Paid Over.
+In the event that the Trustee or any Holder receives any payment of any Obligations with respect to the Notes at a time when the Trustee or such Holder, as applicable, has actual knowledge that such payment is prohibited by this Article X, such payment will be held by the Trustee or such Holder, in trust for the benefit of, and will be paid forthwith over and delivered, upon written request, to, the holders of Senior Debt as their interests may appear or their Representative under the agreement, indenture or other document (if any) pursuant to which Senior Debt may have been issued, as their respective interests may appear, for application to the payment of all Obligations with respect to Senior Debt remaining unpaid to the extent necessary to pay such Obligations in full in accordance with their terms, after giving effect to any concurrent payment or distribution to or for the holders of Senior Debt.
+SECTION 10.06 Duties of Trustee.
+With respect to the holders of Senior Debt, the Trustee undertakes to perform only those obligations on the part of the Trustee as are specifically set forth in this Article X, and no implied covenants or obligations with respect to the holders of Senior Debt will be read into this Indenture against the Trustee.
+The Trustee will not be deemed to owe any fiduciary duty to the holders of Senior Debt, and will not be liable to any such holders if the Trustee pays over or distributes to or on behalf of Holders or the Issuer or any other Person money or assets to which any holders of Senior Debt are then entitled by virtue of this Article X, except if such payment is made as a result of the willful misconduct or gross negligence of the Trustee.
+SECTION 10.07 Notice of Violations.
+The Issuer will promptly notify the Trustee and the Paying Agent of any facts known to the Issuer that would cause a payment of any Obligations with respect to the Notes to violate this Article X, but failure to give such notice will not affect the subordination of the Notes to the Senior Debt as provided in this Article X.
+SECTION 10.08 Subrogation.
+After all Senior Debt is paid in full and until the Notes are paid in full, Holders will be subrogated (equally and ratably with all other Debt pari passu with the Notes) to the rights of holders of Senior Debt to receive distributions applicable to Senior Debt to the extent that distributions otherwise payable to the Holders have been applied to the payment of Senior Debt.
+A distribution made under this Article X to holders of Senior Debt that otherwise would have been made to Holders is not, as between the Issuer and Holders, a payment by the Issuer on the Notes.
+SECTION 10.09 No Impairment.
+This Article X defines the relative rights of Holders and holders of Senior Debt.
+Nothing in this Indenture will:  (a) impair, as between the Issuer and Holders, the obligation of the Issuer, which is absolute and unconditional, to pay principal of and interest on the Notes in accordance with their terms;   -34-
+**********************
+(b) affect the relative rights of Holders and creditors of the Issuer other than their rights in relation to holders of Senior Debt; or  (c) prevent the Trustee or any Holder of Notes from exercising its available remedies upon a Default or Event of Default, subject to the rights of holders and owners of Senior Debt to receive distributions and payments otherwise payable to Holders.
+SECTION 10.10 Right of Senior Debt to Enforce.
+No right of any holder of Senior Debt to enforce the subordination of the Debt evidenced by the Notes may be impaired by any act or failure to act by the Issuer or any Holder or by the failure of the Issuer or any Holder to comply with this Indenture.
+SECTION 10.11 Notice to Senior Debt.
+Whenever a distribution is to be made or a notice given to holders of Senior Debt, the distribution may be made and the notice given to such holders or their Representative.
+Upon any payment or distribution of assets of the Issuer referred to in this Article X, the Trustee and the Holders will be entitled to rely upon any order or decree made by any court of competent jurisdiction or upon any certificate of such Representative or of the liquidating trustee or agent or other Person making any distribution to the Trustee or to the Holders for the purpose of ascertaining the Persons entitled to participate in such distribution, the holders of the Senior Debt and other Debt of the Issuer, the amount thereof or payable thereon, the amount or amounts paid or distributed thereon and all other facts pertinent thereto or to this ArticleX.
+SECTION 10.12 Knowledge of Trustee.
+The provisions of this Article X or any other provision of this Indenture notwithstanding, the Trustee will not be charged with knowledge of the existence of any facts that would prohibit the making of any payment or distribution by the Trustee, and the Trustee and the Paying Agent may continue to make payments on the Notes, unless the Trustee has received at its Corporate Trust Office at least five Business Days prior to the date of such payment written notice of facts that would cause the payment of any Obligations with respect to the Notes to violate this ArticleX.
+Only the Issuer or a Representative may give the notice.
+Nothing in this ArticleX will impair the claims of, or payments to, the Trustee under or pursuant to Section7.07.
+SECTION 10.13 Authorization to Effect Subordination; Power of Attorney.
+Each Holder of Notes, by the Holders acceptance thereof, authorizes and directs the Trustee on such Holders behalf to take such action as may be necessary or appropriate to effectuate the subordination as provided in this ArticleX, and appoints the Trustee to act as such Holders attorney-in-fact for any and all such purposes.
+If the Trustee does not file a proper proof of claim or proof of debt in the form required in any proceeding referred to in Section6.09 of this Indenture at least 30 days before the expiration of the time to file such claim, the Representatives are hereby authorized to file an appropriate claim on behalf of the Holders.
+SECTION 10.14 Modification.
+The provisions of this Article X may only be amended or modified in accordance with the provisions of Section9.02 of this Indenture.
+SECTION 10.15 This Article X Not to Prevent Events of Default.
+The provisions of this Article X shall not be construed as preventing the occurrence of an Event of Default due to the failure to make a payment on account of principal of or interest on the Notes by reason of any provision of this Article X.
+**********************
+-35-
+**********************
+ARTICLE XI  MISCELLANEOUS  SECTION 11.01 Trust Indenture Act Controls.
+If any provision of this Indenture limits, qualifies or conflicts with another provision which is required to be included in this Indenture by the TIA, the required provision shall control.
+SECTION 11.02 Notices.
+Any notice or communication required or permitted hereunder shall be in writing and delivered in person, via facsimile or mailed by first-class mail addressed as follows:  if to the Issuer:  Jupiter Saturn Holding Company  (to be renamed Towers Watson& Co. at the Effective Time)  c/o Watson Wyatt Worldwide, Inc.  901 N. Glebe Road  Arlington, VA 22203  Attention: Walter W. Bardenwerper, Esq.,  Vice President and General Counsel  Facsimile: (703)258-7497  and  c/o Towers, Perrin, Forster& Crosby, Inc.  1500 Market Street, Centre Square East  Philadelphia, PA19102-4790 Attention:Kevin Young, Esq., General Counsel  Facsimile:(215)246-4463  with a copy (which shall not constitute notice) to:  Gibson, Dunn& Crutcher LLP  1050 Connecticut Ave., NW Suite 200  Washington, DC 20036  Attention: Stephen I. Glover, Esq.
+Facsimile: (202)467-0539  and a copy (which shall not constitute notice) to:  Milbank, Tweed, Hadley& McCloy LLP  One Chase Manhattan Plaza  New York, NY 10005  Attention: Charles J. Conroy, Esq.
+-36-
+**********************
+Facsimile: (212)822-5671  if to the Trustee:  Wilmington Trust FSB  246 Goose Lane, Suite 105  Guilford, CT 06437  Attention: Joseph P. ODonnell  The Issuer or the Trustee by notice to the other may designate additional or different addresses for subsequent notices or communications.
+Any notice or communication mailed to a Noteholder shall be made in compliance with Section313(c) of the TIA and mailed, first-class mail, to the Noteholder at the Noteholders address as it appears on the registration books of the Registrar and shall be sufficiently given if so mailed within the time prescribed.
+Failure to mail a notice or communication to a Noteholder or any defect in it shall not affect its sufficiency with respect to other Noteholders.
+If a notice or communication is mailed in the manner provided above, it is duly given, whether or not the addressee receives it.
+SECTION 11.03 Communication by Holders with Other Holders.
+Noteholders may communicate pursuant to Section 312(b) of the TIA with other Noteholders with respect to their rights under this Indenture or the Notes.
+The Issuer, the Trustee, the Registrar and anyone else shall have the protection of Section312(c) of the TIA.
+SECTION 11.04 Certificate and Opinion as to Conditions Precedent.
+Upon any request or application by the Issuer to the Trustee to take or refrain from taking any action under this Indenture, at the request of the Trustee the Issuer shall furnish to the Trustee:  (1) an Officers Certificate in form reasonably satisfactory to the Trustee stating that, in the opinion of the signers, all conditions precedent, if any, provided for in this Indenture relating to the proposed action have been complied with; and  (2) an Opinion of Counsel in form reasonably satisfactory to the Trustee stating that, in the opinion of such counsel, all such conditions precedent have been complied with.
+To the extent applicable, the Issuer shall comply with Section314(c)(3) of the TIA.
+SECTION 11.05 Statements Required in Certificate or Opinion.
+Each certificate or opinion with respect to compliance with a covenant or condition provided for in this Indenture (other than pursuant to Section4.04) shall include:  (1) a statement that the individual making such certificate or opinion has read such covenant or condition;   -37-
+**********************
+(2) a brief statement as to the nature and scope of the examination or investigation upon which the statements or opinions contained in such certificate or opinion are based;  (3) a statement that, in the opinion of such individual, he has made such examination or investigation as is necessary to enable him to express an informed opinion as to whether or not such covenant or condition has been complied with; and  (4) a statement as to whether or not, in the opinion of such individual, such covenant or condition has been complied with; provided, however, that with respect to matters of fact an Opinion of Counsel may rely on an Officers Certificate or certificates of public officials.
+SECTION 11.06 When Notes Disregarded.
+In determining whether the Holders of the required principal amount of Notes have concurred in any direction, waiver or consent, Notes owned by the Issuer or by any Person directly or indirectly controlling or controlled by or under direct or indirect common control with the Issuer shall be disregarded and deemed not to be outstanding, except that, for the purpose of determining whether the Trustee shall be protected in relying on any such direction, waiver or consent, only Notes which the Trustee actually knows are so owned shall be so disregarded.
+Also, subject to the foregoing, only Notes outstanding at the time shall be considered in any such determination.
+SECTION 11.07 Rules by Trustee, Paying Agent and Registrar.
+The Trustee may make reasonable rules for action by or a meeting of Noteholders.
+The Registrar and the Paying Agent may make reasonable rules for their functions.
+SECTION 11.08 Payment not on a Business Day.
+If a payment date is not a Business Day, payment shall be made on the next succeeding Business Day, and no interest shall accrue for the intervening period.
+SECTION 11.09 GOVERNING LAW.
+THIS INDENTURE AND THE NOTES SHALL BE GOVERNED BY, AND CONSTRUED IN ACCORDANCE WITH, THE LAWS OF THE STATE OF NEW YORK BUT WITHOUT GIVING EFFECT TO APPLICABLE PRINCIPLES OF CONFLICTS OF LAW TO THE EXTENT THAT THE APPLICATION OF THE LAWS OF ANOTHER JURISDICTION WOULD BE REQUIRED THEREBY.
+SECTION 11.10 No Recourse Against Others.
+A director, officer, incorporator, employee, stockholder or Affiliate of the Issuer shall not have any liability for any obligations of the Issuer under the Notes, this Indenture, or for any claim based on, in respect of or by reason of such obligations or its creation.
+By accepting a Note, each Noteholder waives and releases all such liability.
+The waiver and release shall be part of the consideration for the issue of the Notes.
+Such waiver may not be effective to waive liabilities under the federal securities laws and it is the view of the SEC that such a waiver is against public policy.
+SECTION 11.11 Successor.
+All agreements of the Issuer in this Indenture and the Notes shall bind its successors.
+All agreements of the Trustee in this Indenture shall bind its successors.
+-38-
+**********************
+SECTION 11.12 Multiple Originals.
+The parties may sign any number of copies of this Indenture.
+Each signed copy shall be an original, but all of them together represent the same agreement.
+One signed copy is enough to prove this Indenture.
+SECTION 11.13 Table of Contents; Headings.
+The table of contents, cross-reference sheet and headings of the Articles and Sections of this Indenture have been inserted for convenience of reference only, are not intended to be considered a part hereof and shall not modify or restrict any of the terms or provisions hereof.
+SECTION 11.14 Severability.
+In case any one or more of the provisions in this Indenture or in the Notes shall be held invalid, illegal or unenforceable, in any respect for any reason, the validity, legality and enforceability of any such provision in every other respect and of the remaining provisions shall not in any way be affected or impaired thereby, it being intended that all of the provisions hereof shall be enforceable to the full extent permitted by Law.
+SECTION 11.15 No Adverse Interpretation of Other Agreements.
+This Indenture may not be used to interpret another indenture, loan or debt agreement of the Issuer or any of its Subsidiaries.
+Any such indenture, loan or debt agreement may not be used to interpret this Indenture.
+SECTION 11.16 Indenture Controls.
+If and to the extent that any provision of the Notes limits, qualifies or conflicts with a provision of this Indenture, such provision of this Indenture shall control.
+[The remainder of this page is intentionally left blank.]
+-39-
+**********************
+IN WITNESS WHEREOF, the parties have caused this Indenture to be duly executed as of the date first written above.
+**********************
+ISSUER:
+**********************
+JUPITER SATURN HOLDING COMPANY (to be renamed Towers Watson & Co. at the Effective Time)
+**********************
+By:
+**********************
+/s/Robert G. Hogan
+**********************
+Name:
+**********************
+Robert G. Hogan
+**********************
+Title:
+**********************
+Treasurer
+**********************
+TRUSTEE:
+**********************
+WILMINGTON TRUST FSB
+**********************
+By:
+**********************
+/s/Joseph P. ODonnell
+**********************
+Name:
+**********************
+Joseph P. ODonnell
+**********************
+Title:
+**********************
+Vice President
+**********************
+EXHIBITA  [FORM OF FACE OF NOTE]  [RESTRICTED TRANSFER LEGEND]  NOTES MAY NOT BE TRANSFERRED TO ANY PERSON OTHER THAN (I)THE ISSUER, (II)A PERMITTED FAMILY MEMBER (AS DEFINED IN THE INDENTURE DATED AS OF DECEMBER 30, 2009 (THE INDENTURE) BETWEEN TOWERS WATSON& CO. AND WILMINGTON TRUST FSB (THE TRUSTEE)) OF THE TRANSFEROR, (III)ANY TRUST ORGANIZED FOR THE BENEFIT OF A PERMITTED FAMILY MEMBER OF THE TRANSFEROR OR (IV)UPON THE DEATH OF A HOLDER, SUCH HOLDERS EXECUTORS, ADMINISTRATORS, TESTAMENTARY TRUSTEES, LEGATEES AND BENEFICIARIES.
+IN CONNECTION WITH ANY TRANSFER PERMITTED UNDER THE INDENTURE, (X)A HOLDER (OR, IN THE CASE OF A TRANSFER PURSUANT TO CLAUSE (IV), SUCH HOLDERS EXECUTORS, ADMINISTRATORS, TESTAMENTARY TRUSTEES, LEGATEES AND BENEFICIARIES) SHALL PROVIDE TEN BUSINESS DAYS PRIOR WRITTEN NOTICE TO THE REGISTRAR OF ANY SUCH TRANSFER, (Y)ANY TRANSFEROR MUST DELIVER A CERTIFICATE OF TRANSFER IN THE FORM SET FORTH IN THE INDENTURE TO THE REGISTRAR AND (Z)ANY TRANSFEROR AND ANY TRANSFEREE MUST DELIVER ANY ADDITIONAL CERTIFICATIONS, DOCUMENTS AND INFORMATION, AS MAY BE REASONABLY REQUESTED BY THE TRUSTEE.
+IN ADDITION, PRIOR TO ANY REGISTRATION OF A TRANSFER, THE REQUESTING HOLDER SHALL PRESENT OR SURRENDER TO THE REGISTRAR OR SHALL INSTRUCT THE CUSTODIAN OF THE NOTES TO PRESENT OR SURRENDER TO THE REGISTRAR THE NOTES DULY ENDORSED OR ACCOMPANIED BY A WRITTEN INSTRUCTION OF TRANSFER IN FORM SATISFACTORY TO THE REGISTRAR DULY EXECUTED BY SUCH HOLDER OR ITS ATTORNEY, DULY AUTHORIZED IN WRITING.
+EACH HOLDER, BY ACCEPTING A NOTE, SHALL BE DEEMED TO AGREE TO THE TRANSFER RESTRICTIONS SET FORTH ABOVE.
+NO TRANSFER OF NOTES IN VIOLATION OF THE TERMS OF THIS LEGEND SHALL BE MADE OR RECORDED ON THE BOOKS OF THE REGISTRAR, AND ANY SUCH TRANSFER SHALL BE VOID AND OF NO EFFECT.
+A-1
+**********************
+[FORM OF NOTE]  []%1 SUBORDINATED NOTES DUE JANUARY 1, 2011
+**********************
+No.
+**********************
+$  TOWERS WATSON& CO., a Delaware corporation (the Issuer), promises to pay to , or its registered assigns, the principal sum of  in U.S.
+Dollars on January1, 2011.
+Interest Payment Date: January1, 2011.
+Any term used in this Note but not otherwise defined herein shall have the meaning assigned to such term in the Indenture, dated as of December30, 2009 (the Indenture), between the Issuer and Wilmington Trust FSB (the Trustee).
+Additional provisions of this Note are set forth on the other side of this Note.
+**********************
+1 Interest to be set at a fixed per-annum rate, compounded annually, equal to the greater of (x)2.0% and (y)120.0% of the short-term applicable federal rate in effect at the Effective Time (as defined in the Merger Agreement), prescribed by the Internal Revenue Service under Section1274(d) of the Internal Revenue Code.
+A-2
+**********************
+IN WITNESS WHEREOF, the Issuer has caused this instrument to be duly executed.
+**********************
+TOWERS WATSON & CO.
+**********************
+By:
+**********************
+Name:
+**********************
+Title: Dated:   A-3
+**********************
+CERTIFICATE OF AUTHENTICATION  This is one of the Notes designated therein referred to in the within-mentioned Indenture.
+**********************
+WILMINGTON TRUST FSB
+**********************
+as Trustee,
+**********************
+By
+**********************
+Authorized Signatory Dated:   A-4
+**********************
+[FORM OF REVERSE SIDE OF NOTE]  []% Subordinated Notes due January1, 2011
+**********************
+1.
+Interest; Calculation of Interest Rate  TOWERS WATSON& CO., a Delaware corporation (the Issuer), promises to pay interest on the principal amount of this Note at the rate per annum shown above.
+The Issuer shall pay interest in arrears on January1, 2011 (the Maturity Date).
+Interest on this Note will accrue from the Interest Accrual Date.
+Interest shall be computed on the basis of a 360-day year comprised of twelve 30-day months.
+The Issuer shall pay interest on overdue principal at the rate borne by this Note, and it shall pay interest on overdue installments of interest at the same rate to the extent lawful.
+**********************
+2.
+Method of Payment  The Issuer shall pay interest (except defaulted interest) on the Notes to the Persons who are registered Holders on the Maturity Date.
+Holders must surrender Notes to a Paying Agent to collect principal payments.
+The Issuer will pay principal and interest in money of the United States of America that at the time of payment is legal tender for payment of public and private debts.
+The Issuer shall pay principal and interest by check payable in such money.
+**********************
+3.
+Paying Agent and Registrar  Initially, WILMINGTON TRUST FSB (the Trustee) will act as Paying Agent and Registrar.
+The Issuer may appoint and change any Paying Agent or Registrar without notice to the Holders.
+The Issuer or any domestically organized Wholly Owned Subsidiary of the Issuer may act as Paying Agent or Registrar.
+The Issuer shall retain possession of the Notes as custodian for the Holders.
+Holders of the Notes will be entitled to physical delivery of their respective Note upon written request to the Issuer.
+Except for any Notes delivered to Holders pursuant to written request by such Holders to the Issuer, the Notes will at all times be held by the Issuer.
+**********************
+4.
+Indenture  The Issuer issued the Notes under the Indenture dated as of December30, 2009 (the Indenture) between the Issuer and the Trustee.
+The terms of the Notes include those stated in the Indenture and those made part of the Indenture by reference to the TIA.
+The Notes are subject to all such terms, and Noteholders are referred to the Indenture and the TIA for a statement of those terms.
+Defined terms used but not defined herein have the meanings ascribed thereto in the Indenture.
+A-5
+**********************
+The Notes are subordinated obligations of the Issuer and are limited to $200,000,000 in aggregate principal amount outstanding.
+This Note is one of the Notes referred to in the Indenture.
+**********************
+5.
+Redemption  This Note will be subject to redemption at any time at the option of the Issuer, in whole or in part, at 100% of principal amount plus accrued and unpaid interest thereon, if any, to the Redemption Date.
+Notice of redemption shall be given by the Issuer, or at the Issuers written request, by the Trustee in the name and at the expense of the Issuer, not less than 20 days and not more than 60 days prior to the Redemption Date (which date may be extended in accordance with applicable law) to each Holder at such Holders registered address; provided that a notice of redemption may be mailed more than 60 days prior to a Redemption Date if such notice is issued in connection with the satisfaction and discharge of the Indenture pursuant to Section8.01 of the Indenture.
+Notices of redemption shall be mailed by first-class mail to each Holder of Notes to be redeemed at its registered address.
+If the Issuer is redeeming less than all of the outstanding Notes, selection of Notes for redemption will be made by such method as the Trustee shall reasonably deem fair and appropriate, including, without limitation, on a pro rata basis or by lot.
+If the Notes are to be redeemed in part only, the notice of redemption that relates to such Note shall state the portion of the principal amount thereof to be redeemed.
+On and after the Redemption Date, interest ceases to accrue on Notes or portions of them called for redemption.
+**********************
+6.
+Subordination  The Notes are subordinated to Senior Debt of the Issuer upon the terms and conditions set forth in the Indenture.
+To the extent provided in the Indenture, Senior Debt of the Issuer must be paid before the Notes may be paid.
+Each Holder of Notes, by the Holders acceptance hereof, authorizes and directs the Trustee on such Holders behalf to take such action as may be necessary or appropriate to effectuate the subordination as provided in the Indenture, and appoints the Trustee to act as such Holders attorney-in-fact for any and all such purposes.
+**********************
+7.
+Denominations; Transfer; Exchange  The Notes may be issued in denominations of $2,000 and integral multiples of $1,000, or in any such smaller denominations as is necessary to allow the issuance of Notes with an original principal amount as the Issuer would be required to deliver upon redemption of the Issuers Class R Common Stock in accordance with the terms thereof and the Merger Agreement.
+A Holder may transfer or exchange Notes only in accordance with the Indenture.
+Upon any registration of transfer or exchange, the Registrar and the Trustee may require a Holder, among other things, to furnish appropriate endorsements or transfer documents and to pay any taxes required by law or permitted by the Indenture.
+The Registrar shall not be required to register the transfer of or exchange any Note selected for redemption in whole or in part, except for the unredeemed portion of any Note being redeemed in part.
+**********************
+8.
+Persons Deemed Owners  The registered Holder of this Note may be treated as the owner of it for all purposes.
+A-6
+**********************
+9.
+Unclaimed Money  Subject to any applicable abandoned property law, any money deposited with the Trustee or any Paying Agent, or then held by the Issuer or its Wholly Owned Subsidiary, in trust for the payment of the principal of or interest on any Note and remaining unclaimed for two years after such principal or interest has become due and payable shall be paid to the Issuer on its request or (if then held by the Issuer or its Wholly Owned Subsidiary) shall be discharged from such trust; and the Holder of such Note shall thereafter, as an unsecured general creditor, look only to the Issuer for payment thereof, and all liability of the Trustee or such Paying Agent with respect to such trust money, and all liability of the Issuer as trustee thereof, shall thereupon cease; provided, however, that the Trustee or such Paying Agent, before being required to make any such repayment, may at the expense of the Issuer, cause to be published once, in the New York Times (national edition) and the Wall Street Journal (national edition), notice that such money remains unclaimed and that, after a date specified therein, which shall not be less than 30 days from the date of such notification or publication, any unclaimed balance of such money then remaining will be repaid to the Issuer.
+**********************
+10.
+Discharge  Subject to certain conditions set forth in the Indenture, the Issuer at any time may terminate some or all of its obligations under the Indenture and the Notes if the Issuer deposits with the Trustee cash in United States dollars or Government Notes for the payment of principal and interest on the Notes to maturity.
+**********************
+11.
+Amendment, Waiver  Subject to certain exceptions set forth in the Indenture, (i)the Indenture and the Notes may be amended or supplemented with the written consent of the Holders of at least a majority in aggregate principal amount of the Notes then outstanding and (ii)any existing default or noncompliance with any provision of the Indenture and the Notes may be waived with the consent of the Holders of a majority in aggregate principal amount of the Notes then outstanding.
+Subject to certain exceptions set forth in the Indenture, without the consent of any Noteholder, the Issuer and the Trustee may amend or supplement the Indenture and the Notes (i)to cure any ambiguity, omission, mistake, defect or inconsistency, (ii)to provide for uncertificated Notes in addition to or in place of certificated Notes (provided that the uncertificated Notes are issued in registered form for purposes of Section163(f) of the Code, or in a manner such that the uncertificated Notes are described in Section163(f)(2)(B) of the Code), (iii)to provide for the assumption of the Issuers obligations to Holders in the case of a merger, consolidation or sale of assets in accordance with Article V of the Indenture, (iv)to make any change that would provide any additional rights or benefits to the Holders (including additional covenants, events of default, guarantees or security) or that, as determined by the Board of Directors of the Issuer in good faith, does not materially adversely affect the legal rights of any such Holder under the Indenture or the Notes, (v)to comply with requirements of the SEC in order to effect or maintain the qualification of this Indenture under the TIA and (vi)to evidence and provide for the acceptance and appointment under this Indenture of a successor Trustee pursuant to the terms of this Indenture.
+A-7
+**********************
+12.
+Defaults and Remedies  If an Event of Default (other than an Event of Default specified in Section6.01(a)(3) or (4)of the Indenture) occurs and is continuing, the Trustee by notice to the Issuer in writing, or the Holders of at least 25% in aggregate principal amount of the outstanding Notes by notice in writing to the Issuer, may declare the principal of and accrued but unpaid interest on all the Notes to be due and payable.
+Upon such a declaration, such principal and interest shall be due and payable immediately.
+Notwithstanding the foregoing, if an Event of Default specified in Section6.01(a)(3) or (4)of the Indenture occurs, the principal of and interest on all the Notes shall ipso facto become and be immediately due and payable without any declaration or other act on the part of the Trustee or any Noteholders.
+**********************
+13.
+Trustee Dealings with the Issuer  Subject to certain limitations imposed by the TIA, the Trustee under the Indenture, in its individual or any other capacity may deal with and collect obligations owed to it by the Issuer or its Affiliates and may otherwise deal with the Issuer or its Affiliates with the same rights it would have if it were not Trustee.
+**********************
+14.
+No Recourse Against Others  A director, officer, incorporator, employee, stockholder or Affiliate of the Issuer shall not have any liability for any obligations of the Issuer under the Notes, this Indenture, or for any claim based on, in respect of or by reason of such obligations or its creation.
+By accepting a Note, each Noteholder waives and releases all such liability.
+The waiver and release shall be part of the consideration for the issue of the Notes.
+Such waiver may not be effective to waive liabilities under the federal securities laws and it is the view of the SEC that such a waiver is against public policy.
+**********************
+15.
+Governing Law  THE NOTES SHALL BE GOVERNED BY, AND CONSTRUED IN ACCORDANCE WITH, THE LAWS OF THE STATE OF NEW YORK BUT WITHOUT GIVING EFFECT TO APPLICABLE PRINCIPLES OF CONFLICTS OF LAW TO THE EXTENT THAT THE APPLICATION OF THE LAWS OF ANOTHER JURISDICTION WOULD BE REQUIRED THEREBY.
+**********************
+16.
+Authentication  This Note shall not be valid until an authorized signatory of the Trustee (or an authenticating agent) manually signs the certificate of authentication on the other side of this Note.
+**********************
+17.
+Abbreviations  Customary abbreviations may be used in the name of a Noteholder or an assignee, such as TEN COM (=tenants in common), TEN ENT (=tenants by the entireties), JT TEN (=joint tenants with rights of survivorship and not as tenants in common), CUST (=custodian), and U/G/M/A (=Uniform Gift to Minors Act).
+A-8
+**********************
+18.
+Copy of Indenture  The Issuer will furnish to any Noteholder upon written request and without charge to the Noteholder a copy of the Indenture which has in it the text of this Note in larger type.
+Requests may be made to:  TOWERS WATSON& CO.  c/o Watson Wyatt Worldwide, Inc.  901 N. Glebe Road  Arlington, VA 22203  Facsimile: (703)258-7497  Attention: General Counsel  and  c/o Towers, Perrin, Forster& Crosby, Inc.  1500 Market Street, Centre Square East  Philadelphia, PA 19102-4790  Facsimile: (215)246-4463 Attention: General Counsel
+**********************
+19.
+Contact Information for Holder  The contact information for the Holder of this Note is set forth in Schedule I attached hereto.
+**********************
+20.
+Custodian  By acceptance of the Notes, each Holder agrees that, as of the date of issuance, the original copy of its Notes shall be held by the Company, as custodian of the Notes, for the benefit of such Holder.
+A Holder may request in writing the delivery of the original copy of its Note by contacting the Company at the address set forth in Section18 above.
+**********************
+21.
+Requests for Information  Any other request with respect to the Notes, including any changes to the contact information set forth in Schedule I attached hereto, should be directed to:  WILMINGTON TRUST FSB,  as Trustee under the Indenture  246 Goose Lane, Suite 105  Guilford, CT 06437  Facsimile: (203)453-1183  Attention: Joseph P. ODonnell   A-9
+**********************
+ASSIGNMENT FORM  To assign this Note, fill in the form below:  I or we assign and transfer this Note to   (Print or type assignees name, address and zip code)    (Insert assignees soc.
+sec.
+or tax I.D.
+No.)
+and irrevocably appoint  agent to transfer this Note on the books of the Issuer.
+The agent may substitute another to act for him.
+**********************
+Date:
+**********************
+YourSignature:
+**********************
+(Sign exactly as your name appears on the other side of this Note)
+**********************
+SignatureGuarantee:
+**********************
+(Signature must be guaranteed by a participant in a recognized signature guarantee medallion program or other signature guarantor program reasonably acceptable to the Trustee)
+**********************
+   A-10
+**********************
+SCHEDULE I
+**********************
+Name of Holder
+**********************
+Mailing Address
+**********************
+A-11
+**********************
+EXHIBIT B  FORM OF CERTIFICATE OF TRANSFER  TOWERS WATSON& CO.  c/o Watson Wyatt Worldwide, Inc.  901 N. Glebe Road Arlington, VA 22203  Facsimile: (703)258-7497  Attention: General Counsel  and  c/o Towers, Perrin, Forster& Crosby, Inc.  1500 Market Street, Centre Square East  Philadelphia, PA 19102-4790  Facsimile: (215)246-4463  Attention: General Counsel  WILMINGTON TRUST FSB  246 Goose Lane, Suite 105  Guilford, CT 06437 Attention: Joseph P. ODonnell  Re: []% Subordinated Notes due January1, 2011  Reference is hereby made to the Indenture, dated as of December30, 2009 (the Indenture), between TOWERS WATSON& CO., as issuer (the Issuer), and WILMINGTON TRUST FSB (the Trustee).
+Capitalized terms used but not defined herein shall have the meanings given to them in the Indenture.
+, (the Transferor) owns and proposes to transfer the Note[s] or interest in such Note[s] specified in Annex A hereto, in the principal amount of $ in such Note[s] or interests (the Transfer), to  (the Transferee).
+In connection with the Transfer, the Transferor or the executor of the Transferors estate, as the case may be, hereby certifies that the Transferee is at least one of the following:  (i) the Issuer, (ii)a Permitted Family Member of the Transferor, (iii)any trust organized for the benefit of a Permitted Family Member of the Transferor or (iv)upon the death of a Holder, such Holders executors, administrators, testamentary trustees, legatees and beneficiaries.
+Attached hereto as Exhibit A is a Form W-9 for the Transferee, which the Transferor certifies is, to its knowledge, true and correct in all material respects.
+Attached hereto as Exhibit B are payment instructions for the Transferee with respect to all amounts that will be due to the Transferee as a Holder of the Notes the subject of the Transfer.
+B-1
+**********************
+[The remainder of this page is intentionally left blank.]
+B-2
+**********************
+This certificate and the statements contained herein are made for the benefit of the Trustee and the benefit of the Issuer.
+**********************
+[Insert Name of Transferor]
+**********************
+By:
+**********************
+Name:
+**********************
+Title:
+**********************
+Dated:
+**********************
+Signature Guarantee
+**********************
+ Signature(s) must be guaranteed by an eligible guarantor institution (banks, stock brokers, savings and loan associations and credit unions) with membership in an approved signature guarantee medallion program pursuant to Securities and Exchange Commission Rule17Ad-15.
+**********************
+B-3
+**********************
+ISSUER:
+**********************
+JUPITER SATURN HOLDING COMPANY (to be renamed Towers Watson & Co. at the Effective Time)
+**********************
+By:
+**********************
+/s/Robert G. Hogan
+**********************
+Name:
+**********************
+Robert G. Hogan
+**********************
+Title:
+**********************
+Treasurer
+**********************
+TRUSTEE:
+**********************
+WILMINGTON TRUST FSB
+**********************
+By:
+**********************
+/s/Joseph P. ODonnell
+**********************
+Name:
+**********************
+Joseph P. ODonnell
+**********************
+Title:
+**********************
+Vice President
+**********************
+TOWERS WATSON & CO.
+**********************
+By:
+**********************
+Name:
+**********************
+Title:
+**********************
+[Insert Name of Transferor]
+**********************
+By:
+**********************
+Name:
+**********************
+Title:

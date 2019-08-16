@@ -99,7 +99,13 @@ class NumberOneLevelList(ListItem):
     def is_begining_list(self):
         p = self.sentence.strip('.')
 
-        return int(p) == 1
+        int_value = 0
+        try:
+            int_value = int(p)
+        except ValueError as e:
+            return False
+
+        return int_value == 1
 
 
 class NumberTwoLevelList(ListItem):

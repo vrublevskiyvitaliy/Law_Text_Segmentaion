@@ -613,3 +613,32 @@ class StructuredText:
             if sentence_index < len(sentences):
                 sentences[sentence_index]['start_paragraph'] = True
             sentences[sentence_index - 1]['end_paragraph'] = True
+
+    def get_all_sections(self):
+        all_sections = []
+
+        all_sentences = self.get_all_sentences_from_list_structure()
+
+        has_section = False
+        current_section = {}
+        section_text = ''
+        for s in all_sentences:
+            is_section = 'is_section' in s.keys() and s['is_section']
+            if is_section:
+                if has_section:
+                    # pop previous section
+                    current_section['text'] = section_text
+                    all_sections.append(current_section)
+                    current_section = {}
+                current_section['section_full_title'] = s['sentence']
+                current_section['section_title'] = s['SECTION_NAME']
+                current_section['document_id'] = self.id
+                section_text = ''
+                has_section = True
+            elif has_section:
+                section_text += ' ' + s['sentence']
+
+        if has_section:
+            current_section['text'] = section_text
+            all_sections.append(current_section)
+        return all_sections

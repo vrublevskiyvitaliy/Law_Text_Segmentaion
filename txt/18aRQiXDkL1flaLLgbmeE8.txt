@@ -1,0 +1,1079 @@
+Exhibit 4.3
+
+
+
+J.P.Morgan
+
+
+
+TABLE OF CONTENTS
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+
+Page
+
+PARTIES
+
+  
+
+1
+
+RECITALS
+
+  
+
+1
+
+Section 1.
+
+  
+
+Certain Definitions
+
+  
+
+
+
+  (a)
+
+  
+
+        ADR Register
+
+  
+
+1
+
+  (b)
+
+  
+
+        ADRs; Direct Registration ADRs
+
+  
+
+1
+
+  (c)
+
+  
+
+        ADS
+
+  
+
+1
+
+  (d)
+
+  
+
+        Custodian
+
+  
+
+1
+
+  (e)
+
+  
+
+        Deliver, execute, issue et al.
+
+  
+
+1
+
+  (f)
+
+  
+
+        Delivery Order
+
+  
+
+1
+
+  (g)
+
+  
+
+        Deposited Securities
+
+  
+
+1
+
+  (h)
+
+  
+
+        Direct Registration System
+
+  
+
+2
+
+  (i)
+
+  
+
+        Holder
+
+  
+
+2
+
+  (j)
+
+  
+
+        Securities Act of 1933
+
+  
+
+2
+
+  (k)
+
+  
+
+        Securities Exchange Act of 1934
+
+  
+
+2
+
+  (l)
+
+  
+
+        Shares
+
+  
+
+2
+
+  (m)
+
+  
+
+        Transfer Office
+
+  
+
+2
+
+  (n)
+
+  
+
+        Withdrawal Order
+
+  
+
+2
+
+Section 2.
+
+  
+
+ADRs
+
+  
+
+2
+
+Section 3.
+
+  
+
+Deposit of Shares
+
+  
+
+3
+
+Section 4.
+
+  
+
+Issue of ADRs
+
+  
+
+3
+
+Section 5.
+
+  
+
+Distributions on Deposited Securities
+
+  
+
+4
+
+Section 6.
+
+  
+
+Withdrawal of Deposited Securities
+
+  
+
+4
+
+Section 7.
+
+  
+
+Substitution of ADRs
+
+  
+
+4
+
+Section 8.
+
+  
+
+Cancellation and Destruction of ADRs, Maintenance of Records
+
+  
+
+4
+
+Section 9.
+
+  
+
+The Custodian
+
+  
+
+5
+
+Section 10.
+
+  
+
+Co-Registrars and Co-Transfer Agents
+
+  
+
+5
+
+Section 11.
+
+  
+
+Lists of Holders
+
+  
+
+5
+
+Section 12.
+
+  
+
+Depositary's Agents
+
+  
+
+5
+
+Section 13.
+
+  
+
+Successor Depositary
+
+  
+
+6
+
+Section 14.
+
+  
+
+Reports
+
+  
+
+6
+
+Section 15.
+
+  
+
+Additional Shares
+
+  
+
+7
+
+Section 16.
+
+  
+
+Indemnification
+
+  
+
+7
+
+Section 17.
+
+  
+
+Notices
+
+  
+
+8
+
+Section 18.
+
+  
+
+Miscellaneous
+
+  
+
+8
+
+Section 19.
+
+  
+
+Consent to Jurisdiction
+
+  
+
+8
+
+TESTIMONIUM
+
+  
+
+8
+
+SIGNATURES
+
+  
+
+11
+
+ 
+
+- i -
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+
+Page
+
+EXHIBIT A
+
+  
+
+
+
+FORM OF FACE OF ADR
+
+  
+
+A-1
+
+
+
+
+
+Introductory Paragraph
+
+  
+
+A-1
+
+
+
+
+
+(1)    Issuance of ADRs and Pre-Release of ADRs
+
+  
+
+A-2
+
+(2)    Withdrawal of Deposited Securities
+
+  
+
+A-3
+
+(3)    Transfers of ADRs
+
+  
+
+A-3
+
+(4)    Certain Limitations
+
+  
+
+A-4
+
+(5)    Taxes
+
+  
+
+A-4
+
+(6)    Disclosure of Interests
+
+  
+
+A-5
+
+(7)    Charges of Depositary
+
+  
+
+A-6
+
+(8)    Available Information
+
+  
+
+A-7
+
+(9)    Execution
+
+  
+
+A-7
+
+
+
+
+
+Signature of Depositary
+
+  
+
+A-8
+
+
+
+
+
+Address of Depositary’s Office
+
+  
+
+A-8
+
+
+
+
+
+FORM OF REVERSE OF ADR
+
+  
+
+A-8
+
+
+
+
+
+(10)  Distributions on Deposited Securities
+
+  
+
+A-8
+
+(11)  Record Dates
+
+  
+
+A-9
+
+(12)  Voting of Deposited Securities
+
+  
+
+A-9
+
+(13)  Changes Affecting Deposited Securities
+
+  
+
+A-10
+
+(14)  Exoneration
+
+  
+
+A-10
+
+(15)  Resignation and Removal of Depositary; the Custodian
+
+  
+
+A-11
+
+(16)  Amendment
+
+  
+
+A-12
+
+(17)  Termination
+
+  
+
+A-12
+
+(18)  Appointment
+
+  
+
+A-13
+
+(19)  Waiver
+
+  
+
+A-13
+
+ 
+
+- ii -
+
+
+
+DEPOSIT AGREEMENT dated as of [DATE] , 2010 (the “Deposit Agreement”) among DAQO NEW ENERGY CORP. and its successors (the “Company”), JPMORGAN CHASE BANK, N.A., as depositary hereunder (the “Depositary”), and all holders from time to time of American Depositary Receipts issued hereunder (“ADRs”) evidencing American Depositary Shares (“ADSs”) representing deposited Shares (defined below). The Company hereby appoints the Depositary as depositary for the Deposited Securities and hereby authorizes and directs the Depositary to act in accordance with the terms set forth in this Deposit Agreement. All capitalized terms used herein have the meanings ascribed to them in Section 1 or elsewhere in this Deposit Agreement. The parties hereto agree as follows:
+
+1. Certain Definitions.
+
+(a) “ADR Register” is defined in paragraph (3) of the form of ADR.
+
+(b) “ADRs” mean the American Depositary Receipts executed and delivered hereunder. ADRs may be either in physical certificated form or Direct Registration ADRs. ADRs in physical certificated form, and the terms and conditions governing the Direct Registration ADRs (as hereinafter defined), shall be substantially in the form of Exhibit A annexed hereto (the “form of ADR”). The term “Direct Registration ADR” means an ADR, the ownership of which is recorded on the Direct Registration System. References to “ADRs” shall include certificated ADRs and Direct Registration ADRs, unless the context otherwise requires. The form of ADR is hereby incorporated herein and made a part hereof; the provisions of the form of ADR shall be binding upon the parties hereto.
+
+(c) Subject to paragraph (13) of the form of ADR, each “ADS” evidenced by an ADR represents the right to receive six Shares and a pro rata share in any other Deposited Securities.
+
+(d) “Custodian” means the agent or agents of the Depositary (singly or collectively, as the context requires) and any additional or substitute Custodian appointed pursuant to Section 9.
+
+(e) The terms “deliver”, “execute”, “issue”, “register”, “surrender”, “transfer” or “cancel”, when used with respect to Direct Registration ADRs, shall refer to an entry or entries or an electronic transfer or transfers in the Direct Registration System, and, when used with respect to ADRs in physical certificated form, shall refer to the physical delivery, execution, issuance, registration, surrender, transfer or cancellation of certificates representing the ADRs.
+
+(f) “Delivery Order” is defined in Section 3.
+
+(g) “Deposited Securities” as of any time means all Shares at such time deposited under this Deposit Agreement and any and all
+
+ 
+
+1
+
+
+
+other Shares, securities, property and cash at such time held by the Depositary or the Custodian in respect or in lieu of such deposited Shares and other Shares, securities, property and cash.
+
+(h) “Direct Registration System” means the system for the uncertificated registration of ownership of securities established by The Depository Trust Company (“DTC”) and utilized by the Depositary pursuant to which the Depositary may record the ownership of ADRs without the issuance of a certificate, which ownership shall be evidenced by periodic statements issued by the Depositary to the Holders entitled thereto. For purposes hereof, the Direct Registration System shall include access to the Profile Modification System maintained by DTC which provides for automated transfer of ownership between DTC and the Depositary.
+
+(i) “Holder” means the person or persons in whose name an ADR is registered on the ADR Register.
+
+(j) “Securities Act of 1933” means the United States Securities Act of 1933, as from time to time amended.
+
+(k) “Securities Exchange Act of 1934” means the United States Securities Exchange Act of 1934, as from time to time amended.
+
+(l) “Shares” mean the ordinary shares of the Company, and shall include the rights to receive Shares specified in paragraph (1) of the form of ADR.
+
+(m) “Transfer Office” is defined in paragraph (3) of the form of ADR.
+
+(n) “Withdrawal Order” is defined in Section 6.
+
+2. ADRs. (a) ADRs in certificated form shall be engraved, printed or otherwise reproduced at the discretion of the Depositary in accordance with its customary practices in its American depositary receipt business, or at the request of the Company typewritten and photocopied on plain or safety paper, and shall be substantially in the form set forth in the form of ADR, with such changes as may be required by the Depositary or the Company to comply with their obligations hereunder, any applicable law, regulation or usage or to indicate any special limitations or restrictions to which any particular ADRs are subject. ADRs may be issued in denominations of any number of ADSs. ADRs in certificated form shall be executed by the Depositary by the manual or facsimile signature of a duly authorized officer of the Depositary. ADRs in certificated form bearing the facsimile signature of anyone who was at the time of execution a duly authorized officer of the Depositary shall bind the Depositary, notwithstanding that such officer has ceased to hold such office prior to the delivery of such ADRs.
+
+ 
+
+2
+
+
+
+(b) Direct Registration ADRs. Notwithstanding anything in this Deposit Agreement or in the form of ADR to the contrary, ADSs shall be evidenced by Direct Registration ADRs, unless certificated ADRs are specifically requested by the Holder.
+
+(c) Holders shall be bound by the terms and conditions of this Deposit Agreement and of the form of ADR, regardless of whether their ADRs are Direct Registration ADRs or certificated ADRs.
+
+3. Deposit of Shares. In connection with the deposit of Shares hereunder, the Depositary or the Custodian may require the following in form satisfactory to it: (a) a written order directing the Depositary to issue to, or upon the written order of, the person or persons designated in such order a Direct Registration ADR or ADRs evidencing the number of ADSs representing such deposited Shares (a “Delivery Order”); (b) proper endorsements or duly executed instruments of transfer in respect of such deposited Shares; (c) instruments assigning to the Depositary, the Custodian or a nominee of either any distribution on or in respect of such deposited Shares or indemnity therefor; and (d) proxies entitling the Custodian to vote such deposited Shares. As soon as practicable after the Custodian receives Deposited Securities pursuant to any such deposit or pursuant to paragraph (10) or (13) of the form of ADR, the Custodian shall present such Deposited Securities for registration of transfer into the name of the Depositary, the Custodian or a nominee of either, to the extent such registration is practicable, at the cost and expense of the person making such deposit (or for whose benefit such deposit is made) and shall obtain evidence satisfactory to it of such registration. Deposited Securities shall be held by the Custodian for the account and to the order of the Depositary at such place or places and in such manner as the Depositary shall determine. Deposited Securities may be delivered by the Custodian to any person only under the circumstances expressly contemplated in this Deposit Agreement. To the extent that the provisions of or governing the Shares make delivery of certificates therefor impracticable, Shares may be deposited hereunder by such delivery thereof as the Depositary or the Custodian may reasonably accept, including, without limitation, by causing them to be credited to an account maintained by the Custodian for such purpose with the Company or an accredited intermediary, such as a bank, acting as a registrar for the Shares, together with delivery of the documents, payments and Delivery Order referred to herein to the Custodian or the Depositary.
+
+4. Issue of ADRs. After any such deposit of Shares, the Custodian shall notify the Depositary of such deposit and of the information contained in any related Delivery Order by letter, first class airmail postage prepaid, or, at the request, risk and expense of the person making the deposit, by cable, telex or facsimile transmission. After receiving such notice from the Custodian, the Depositary, subject to this Deposit Agreement, shall properly issue at the Transfer Office, to or upon the order of any person named in such notice, an ADR or ADRs registered as requested and evidencing the aggregate ADSs to which such person is entitled.
+
+ 
+
+3
+
+
+
+5. Distributions on Deposited Securities. To the extent that the Depositary determines in its reasonable discretion that any distribution pursuant to paragraph (10) of the form of ADR is not practicable with respect to any Holder, the Depositary may make such distribution as it so deems practicable, including the distribution of foreign currency, securities or property (or appropriate documents evidencing the right to receive foreign currency, securities or property) or the retention thereof as Deposited Securities with respect to such Holder's ADRs (without liability for interest thereon or the investment thereof).
+
+6. Withdrawal of Deposited Securities. In connection with any surrender of an ADR for withdrawal of the Deposited Securities represented by the ADSs evidenced thereby, the Depositary may require proper endorsement in blank of such ADR (or duly executed instruments of transfer thereof in blank) and the Holder's written order directing the Depositary to cause the Deposited Securities represented by the ADSs evidenced by such ADR to be withdrawn and delivered to, or upon the written order of, any person designated in such order (a “Withdrawal Order”). Directions from the Depositary to the Custodian to deliver Deposited Securities shall be given by letter, first class airmail postage prepaid, or, at the request, risk and expense of the Holder, by cable, telex or facsimile transmission. Delivery of Deposited Securities may be made by the delivery of certificates (which, if required by law shall be properly endorsed or accompanied by properly executed instruments of transfer or, if such certificates may be registered, registered in the name of such Holder or as ordered by such Holder in any Withdrawal Order) or by such other means as the Depositary may deem practicable, including, without limitation, by transfer of record ownership thereof to an account designated in the Withdrawal Order maintained either by the Company or an accredited intermediary, such as a bank, acting as a registrar for the Deposited Securities.
+
+7. Substitution of ADRs. The Depositary shall execute and deliver a new Direct Registration ADR in exchange and substitution for any mutilated certificated ADR upon cancellation thereof or in lieu of and in substitution for such destroyed, lost or stolen certificated ADR, unless the Depositary has notice that such ADR has been acquired by a bona fide purchaser, upon the Holder thereof filing with the Depositary a request for such execution and delivery and a sufficient indemnity bond and satisfying any other reasonable requirements imposed by the Depositary.
+
+8. Cancellation and Destruction of ADRs; Maintenance of Records. All ADRs surrendered to the Depositary shall be cancelled by the Depositary. The Depositary is authorized to destroy ADRs in certificated form so cancelled in accordance with its customary practices.
+
+The Depositary agrees to maintain or cause its agents to maintain records of all ADRs surrendered and Deposited Securities withdrawn under Section 6 hereof and paragraph (2) of the form of ADR, substitute ADRs delivered under Section 7 hereof, and canceled or destroyed ADRs under this Section 8, in keeping with the procedures ordinarily followed by stock transfer agents located in the City of New York or as required by the laws or regulations governing the Depositary.
+
+ 
+
+4
+
+
+
+9. The Custodian. Any Custodian in acting hereunder shall be subject to the directions of the Depositary and shall be responsible solely to it. The Depositary shall be responsible for the compliance by the Custodian with any applicable provisions of the Deposit Agreement. The Depositary reserves the right to add, replace or remove a Custodian. The Depositary will give prompt notice of any such action, which will be advance notice if practicable. Each Custodian so appointed (other than JPMorgan Chase Bank, N.A.) shall give written notice to the Company and the Depositary accepting such appointment and agreeing to be bound by the applicable terms hereof.
+
+Any Custodian may resign from its duties hereunder by at least 30 days written notice to the Depositary. The Depositary may discharge any Custodian at any time upon notice to the Custodian being discharged. Any Custodian ceasing to act hereunder as Custodian shall deliver, upon the instruction of the Depositary, all Deposited Securities held by it to a Custodian continuing to act. If upon the effectiveness of such resignation there would be no Custodian acting hereunder, the Depositary shall, promptly after receiving such notice, appoint a substitute custodian or custodians, each of which shall thereafter be a Custodian hereunder.
+
+10. Co-Registrars and Co-Transfer Agents. The Depositary may appoint and remove (i) co-registrars to register ADRs and transfers, combinations and split-ups of ADRs and to countersign ADRs in accordance with the terms of any such appointment and (ii) co-transfer agents for the purpose of effecting transfers, combinations and split-ups of ADRs at designated transfer offices in addition to the Transfer Office on behalf of the Depositary. Each co-registrar or co-transfer agent (other than JPMorgan Chase Bank, N.A.) shall give notice in writing to the Company and the Depositary accepting such appointment and agreeing to be bound by the applicable terms of this Deposit Agreement.
+
+11. Lists of Holders. The Company shall have the right to inspect transfer records of the Depositary and its agents and the ADR Register, take copies thereof and require the Depositary and its agents to supply copies of such portions of such records as the Company may request. The Depositary or its agent shall furnish to the Company promptly upon the written request of the Company, a list of the names, addresses and holdings of ADSs by all Holders as of a date within seven days of the Depositary's receipt of such request.
+
+12. Depositary's Agents. The Depositary may perform its obligations under this Deposit Agreement through any agent appointed by it, provided that the Depositary shall notify the Company of such appointment and shall remain responsible for the performance of such obligations as if no agent were appointed, subject to paragraph (14) of the form of ADR.
+
+ 
+
+5
+
+
+
+13. Successor Depositary. The Depositary may at any time resign as Depositary hereunder by written notice of its election so to do delivered to the Company, such resignation to take effect upon the appointment of a successor depositary and its acceptance of such appointment as hereinafter provided. The Depositary may at any time be removed by the Company by providing no less than 90 days prior written notice of such removal to the Depositary, such removal to take effect the later of (i) the 90th day after such notice of removal is first provided and (ii) the appointment of a successor depositary and its acceptance of such appointment as hereinafter provided. Notwithstanding the foregoing, if upon the resignation or removal of the Depositary a successor depositary is not appointed within the applicable 45-day period (in the case of resignation) or 90-day period (in the case of removal) as specified in paragraph (17) of the form of ADR, then the Depositary may elect to terminate this Deposit Agreement and the ADR and the provisions of said paragraph (17) shall thereafter govern the Depositary's obligations hereunder. In case at any time the Depositary acting hereunder shall resign or be removed, the Company shall use its best efforts to appoint a successor depositary, which shall be a bank or trust company having an office in the Borough of Manhattan, The City of New York. Every successor depositary shall execute and deliver to its predecessor and to the Company an instrument in writing accepting its appointment hereunder, and thereupon such successor depositary, without any further act or deed, shall become fully vested with all the rights, powers, duties and obligations of its predecessor. The predecessor depositary, only upon payment of all sums due to it and on the written request of the Company, shall (i) execute and deliver an instrument transferring to such successor all rights and powers of such predecessor hereunder (other than its rights to indemnification and fees owing, each of which shall survive any such removal and/or resignation), (ii) duly assign, transfer and deliver all right, title and interest to the Deposited Securities to such successor, and (iii) deliver to such successor a list of the Holders of all outstanding ADRs. Any such successor depositary shall promptly mail notice of its appointment to such Holders. Any bank or trust company into or with which the Depositary may be merged or consolidated, or to which the Depositary shall transfer substantially all its American depositary receipt business, shall be the successor of the Depositary without the execution or filing of any document or any further act.
+
+14. Reports. On or before the first date on which the Company makes any communication available to holders of Deposited Securities or any securities regulatory authority or stock exchange, by publication or otherwise, the Company shall transmit to the Depositary a copy thereof in English or with an English translation or summary. The Company has delivered to the Depositary, the Custodian and any Transfer Office, a copy of all provisions of or governing the Shares and any other Deposited Securities issued by the Company and, promptly upon any change thereto, the Company shall deliver to the Depositary, the Custodian and any Transfer Office, a copy (in English or with an English translation) of such provisions as so changed. The Depositary and its agents may rely upon the Company's delivery thereof for all purposes of this Deposit Agreement.
+
+ 
+
+6
+
+
+
+15. Additional Shares. Neither the Company nor any company controlling, controlled by or under common control with the Company shall issue additional Shares, rights to subscribe for Shares, securities convertible into or exchangeable for Shares or rights to subscribe for any such securities or shall deposit any Shares under this Deposit Agreement, except under circumstances complying in all respects with the Securities Act of 1933. The Depositary will use reasonable efforts to comply with written instructions of the Company not to accept for deposit hereunder any Shares identified in such instructions at such times and under such circumstances as may reasonably be specified in such instructions in order to facilitate the Company's compliance with securities laws in the United States.
+
+16. Indemnification. The Company shall indemnify, defend and save harmless each of the Depositary and its agents against any loss, liability or expense (including reasonable fees and expenses of counsel) which may arise out of acts performed or omitted, in connection with the provisions of this Deposit Agreement and of the ADRs, as the same may be amended, modified or supplemented from time to time in accordance herewith by either the Depositary or its agents or their respective directors, employees, agents and affiliates, except, subject to the penultimate paragraph of this Section 16, for any liability or expense directly arising out of the negligence or willful misconduct of the Depositary or its agents acting in their capacity as such hereunder.
+
+The indemnities set forth in the preceding paragraph shall also apply to any liability or expense which may arise out of any misstatement or alleged misstatement or omission or alleged omission in any registration statement, proxy statement, prospectus (or placement memorandum), or preliminary prospectus (or preliminary placement memorandum) relating to the offer or sale of ADSs, except to the extent any such liability or expense arises out of (i) information relating to the Depositary or its agents (other than the Company), as applicable, furnished in writing by the Depositary and not changed or altered by the Company expressly for use in any of the foregoing documents or (ii) if such information is provided, the failure to state a material fact necessary to make the information provided not misleading.
+
+Except as provided in the next succeeding paragraph, the Depositary shall indemnify, defend and save harmless the Company against any loss, liability or expense (including reasonable fees and expenses of counsel) incurred by the Company in respect of this Deposit Agreement to the extent such loss, liability or expense is due to the negligence or willful misconduct of the Depositary or its agents acting in their capacity as such hereunder.
+
+Notwithstanding any other provision of this Deposit Agreement or the ADRs to the contrary, neither the Company nor the Depositary, nor any of their agents, shall be liable to the other for any indirect, special, punitive or consequential damages (collectively “Special Damages”) except (i) to the extent such Special Damages arise from the gross negligence or willful misconduct
+
+ 
+
+7
+
+
+
+of the party from whom indemnification is sought or (ii) to the extent Special Damages arise from or out of a claim brought by a third party (including, without limitation, Holders) against the Depositary or its agents, except to the extent such Special Damages arise out of the gross negligence or willful misconduct of the party seeking indemnification hereunder
+
+The obligations set forth in this Section 16 shall survive the termination of this Deposit Agreement and the succession or substitution of any indemnified person.
+
+17. Notices. Notice to any Holder shall be deemed given when first mailed, first class postage prepaid, to the address of such Holder on the ADR Register or received by such Holder. Failure to notify a Holder or any defect in the notification to a Holder shall not affect the sufficiency of notification to other Holders or to the beneficial owners of ADSs held by such other Holders. Notice to the Depositary or the Company shall be deemed given when first received by it at the address or facsimile transmission number set forth in (a) or (b), respectively, or at such other address or facsimile transmission number as either may specify to the other by written notice:
+
+ 
+
+ 
+
+(a)
+
+JPMorgan Chase Bank, N.A.
+
+Four New York Plaza
+
+New York, New York 10004
+
+Attention: ADR Administration
+
+Fax: (212) 623-0079
+
+ 
+
+ 
+
+(b)
+
+Daqo New Energy Corp.
+
+666 Longdu Avenue
+
+Wanzhou, Chongqing 404000
+
+People’s Republic of China
+
+Attention: [CONTACT PERSON]
+
+Fax:
+
+18. Miscellaneous. This Deposit Agreement is for the exclusive benefit of the Company, the Depositary, the Holders, and their respective successors hereunder, and shall not give any legal or equitable right, remedy or claim whatsoever to any other person. The Holders and owners of ADRs from time to time shall be parties to this Deposit Agreement and shall be bound by all of the provisions hereof. If any such provision is invalid, illegal or unenforceable in any respect, the remaining provisions shall in no way be affected thereby. This Deposit Agreement may be executed in any number of counterparts, each of which shall be deemed an original and all of which shall constitute one instrument.
+
+19. Consent to Jurisdiction. The Company irrevocably agrees that any legal suit, action or proceeding against the Company brought by the Depositary or any Holder, arising out of or based upon this Deposit Agreement or the transactions contemplated hereby, may be instituted in any state or federal court in New York, New York, and, to the fullest extent permitted by law, irrevocably
+
+ 
+
+8
+
+
+
+waives any objection which it may now or hereafter have to the laying of venue of any such proceeding, and irrevocably submits to the non-exclusive jurisdiction of such courts in any such suit, action or proceeding. The Company also irrevocably agrees that any legal suit, action or proceeding against the Depositary brought by the Company, arising out of or based upon this Deposit Agreement or the transactions contemplated hereby, may only be instituted in a state or federal court in New York, New York. The Company has appointed Law Debenture Corporate Services Inc., 400 Madison Avenue, 4th Floor, New York, New York 10017, as its authorized agent (the “Authorized Agent”) upon which process may be served in any such action arising out of or based on this Deposit Agreement or the transactions contemplated hereby which may be instituted in any state or federal court in New York, New York by the Depositary or any Holder, and, to the fullest extent permitted by law, waives any other requirements of or objections to personal jurisdiction with respect thereto. The Company represents and warrants that the Authorized Agent has agreed to act as said agent for service of process, and the Company agrees to take any and all action, including the filing of any and all documents and instruments, that may be necessary to continue such appointment in full force and effect as aforesaid. Service of process upon the Authorized Agent and written notice of such service to the Company shall be deemed, in every respect, effective service of process upon the Company. If, for any reason, the Authorized Agent named above or its successor shall no longer serve as agent of the Company to receive service of process in New York, the Company shall promptly appoint a successor acceptable to the Depositary, so as to serve and will promptly advise the Depositary thereof. In the event the Company fails to continue such designation and appointment in full force and effect, the Company hereby waives personal service of process upon it and consents that any such service of process may be made by certified or registered mail, return receipt requested, directed to the Company at its address last specified for notices hereunder, and service so made shall be deemed completed five (5) days after the same shall have been so mailed. Notwithstanding the foregoing, any action based on this Deposit Agreement may be instituted by the Depositary or any Holder in any competent court in the Cayman Islands or the People's Republic of China (including the Hong Kong Special Administrative Region).
+
+To the extent that the Company or any of its properties, assets or revenues may have or may hereafter be entitled to, or have attributed to it, any right of immunity, on the grounds of sovereignty or otherwise, from any legal action, suit or proceeding, from the giving of any relief in any respect thereof, from setoff or counterclaim, from the jurisdiction of any court, from service of process, from attachment upon or prior to judgment, from attachment in aid of execution or judgment, or from execution of judgment, or other legal process or proceeding for the giving of any relief or for the enforcement of any judgment, in any jurisdiction in which proceedings may at any time be commenced, with respect to its obligations, liabilities or other matter under or arising out of or in connection with the Shares or Deposited Securities, the ADSs, the ADRs or this Deposit Agreement, the Company, to the fullest
+
+ 
+
+9
+
+
+
+extent permitted by law, hereby irrevocably and unconditionally waives, and agrees not to plead or claim, any such immunity and consents to such relief and enforcement.
+
+EACH PARTY TO THIS DEPOSIT AGREEMENT (INCLUDING, FOR AVOIDANCE OF DOUBT, EACH HOLDER AND BENEFICIAL OWNER AND/OR HOLDER OF INTERESTS IN ADRS) HEREBY IRREVOCABLY WAIVES, TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, ANY RIGHT IT MAY HAVE TO A TRIAL BY JURY IN ANY SUIT, ACTION OR PROCEEDING AGAINST THE DEPOSITARY AND/OR THE COMPANY DIRECTLY OR INDIRECTLY ARISING OUT OF OR RELATING TO THE SHARES OR OTHER DEPOSITED SECURITIES, THE ADSs OR THE ADRs, THE DEPOSIT AGREEMENT OR ANY TRANSACTION CONTEMPLATED HEREIN OR THEREIN, OR THE BREACH HEREOF OR THEREOF (WHETHER BASED ON CONTRACT, TORT, COMMON LAW OR ANY OTHER THEORY).
+
+ 
+
+10
+
+
+
+IN WITNESS WHEREOF, DAQO NEW ENERGY CORP. and JPMORGAN CHASE BANK, N.A. have duly executed this Deposit Agreement as of the day and year first above set forth and all holders of ADRs shall become parties hereto upon acceptance by them of ADRs issued in accordance with the terms hereof.
+
+ 
+
+
+
+
+
+
+
+
+
+DAQO NEW ENERGY CORP.
+
+
+
+
+
+By:
+
+ 
+
+ 
+
+
+
+Name:
+
+ 
+
+
+
+Title
+
+ 
+
+
+
+
+
+JPMORGAN CHASE BANK, N.A.
+
+
+
+
+
+By:
+
+ 
+
+ 
+
+
+
+Name:
+
+ 
+
+
+
+Title:
+
+ 
+
+Vice President
+
+ 
+
+11
+
+
+
+EXHIBIT A
+
+ANNEXED TO AND INCORPORATED IN
+
+DEPOSIT AGREEMENT
+
+[FORM OF FACE OF ADR]
+
+ 
+
+
+
+
+
+
+
+___
+
+  
+
+No. of ADSs:
+
+Number
+
+  
+
+
+
+
+
+  
+
+Each ADS represents
+
+
+
+  
+
+Six Shares
+
+
+
+
+
+
+
+  
+
+CUSIP:
+
+AMERICAN DEPOSITARY RECEIPT
+
+evidencing
+
+AMERICAN DEPOSITARY SHARES
+
+representing
+
+ORDINARY SHARES
+
+of
+
+DAQO NEW ENERGY CORP.
+
+(Incorporated under the laws of the Cayman Islands)
+
+JPMORGAN CHASE BANK, N.A., a national banking association organized under the laws of the United States of America, as depositary hereunder (the “Depositary”), hereby certifies that             is the registered owner (a “Holder”) of American Depositary Shares (“ADSs”), each (subject to paragraph (13)) representing six ordinary shares (including the rights to receive Shares described in paragraph (1), “Shares” and, together with any other securities, cash or property from time to time held by the Depositary in respect or in lieu of deposited Shares, the “Deposited Securities”), of Daqo New Energy Corp., a corporation organized under the laws of the Cayman Islands (the “Company”), deposited under the Deposit Agreement dated as of [DATE] , 2010 (as amended from time to time, the “Deposit Agreement”) among the Company, the Depositary and all Holders from time to time of American Depositary Receipts issued thereunder (“ADRs”), each of whom by accepting an ADR becomes a party thereto. The Deposit Agreement and this ADR (which includes the provisions set forth on the reverse hereof) shall be governed by and construed in accordance with the laws of the State of New York.
+
+ 
+
+A-1
+
+
+
+(1) Issuance of ADRs; Pre-Release. This ADR is one of the ADRs issued under the Deposit Agreement. Subject to paragraph (4), the Depositary may so issue ADRs for delivery at the Transfer Office (defined in paragraph (3)) only against deposit of: (a) Shares in form satisfactory to the Custodian; (b) rights to receive Shares from the Company or any registrar, transfer agent, clearing agent or other entity recording Share ownership or transactions; or, (c) in accordance with the next paragraph of this paragraph (1).
+
+In its capacity as Depositary, the Depositary shall not lend Shares or ADSs; provided, however, that the Depositary may issue ADSs prior to the receipt of Shares (each such transaction a “Pre-Release”). The Depositary may receive ADSs in lieu of Shares to close out a Pre-Release (which ADSs will promptly be canceled by the Depositary upon receipt by the Depositary). Each such Pre-Release will be subject to a written agreement whereby the person or entity (the “Applicant”) to whom ADSs are to be delivered (a) represents that at the time of the Pre-Release the Applicant or its customer owns the Shares that are to be delivered by the Applicant under such Pre-Release, (b) agrees to indicate the Depositary as owner of such Shares in its records and to hold such Shares in trust for the Depositary until such Shares are delivered to the Depositary or the Custodian, (c) unconditionally guarantees to deliver to the Depositary or the Custodian, as applicable, such Shares, and (d) agrees to any additional restrictions or requirements that the Depositary deems appropriate. Each such Pre-Release will be at all times fully collateralized with cash, U.S. government securities or such other collateral as the Depositary deems appropriate, terminable by the Depositary on not more than five (5) business days’ notice and subject to such further indemnities and credit regulations as the Depositary deems appropriate. The Depositary will normally limit the number of ADSs involved in such Pre-Release at any one time to thirty percent (30%) of the ADSs outstanding (without giving effect to Pre-Released ADSs outstanding), provided, however, that the Depositary reserves the right to change or disregard such limit from time to time as it deems appropriate. The Depositary may also set limits with respect to the number of ADSs involved in Pre-Release with any one person on a case-by-case basis as it deems appropriate. The Depositary may retain for its own account any compensation received by it in conjunction with the foregoing. Collateral provided as described above, but not the earnings thereon, shall be held for the benefit of the Holders (other than the Applicant).
+
+Every person depositing Shares under the Deposit Agreement represents and warrants that such Shares are validly issued and outstanding, fully paid, nonassessable and free of pre-emptive rights, that the person making such deposit is duly authorized so to do and that such Shares (A) are not “restricted securities” as such term is defined in Rule 144 under the Securities Act of 1933 (“Restricted Securities”) unless at the time of deposit the requirements of paragraphs (c), (e), (f) and (h) of Rule 144 shall not apply and such Shares may be freely transferred and may otherwise be offered and sold freely in the United States or (B) have been registered under the Securities Act of 1933. To the extent the person depositing Shares is an “affiliate” of the Company as such term
+
+ 
+
+A-2
+
+
+
+is defined in Rule 144, the person also represents and warrants that upon the sale of the ADSs, all of the provisions of Rule 144 which enable the Shares to be freely sold (in the form of ADSs) will be fully complied with and, as a result thereof, all of the ADSs issued in respect of such Shares will not be on the sale thereof, Restricted Securities. Such representations and warranties shall survive the deposit of Shares and issuance of ADRs. The Depositary will not knowingly accept for deposit under the Deposit Agreement any Shares required to be registered under the Securities Act of 1933 and not so registered; the Depositary may refuse to accept for such deposit any Shares identified by the Company in order to facilitate the Company’s compliance with such Act.
+
+(2) Withdrawal of Deposited Securities. Subject to paragraphs (4) and (5), upon surrender of (i) a certificated ADR in form satisfactory to the Depositary at the Transfer Office or (ii) proper instructions and documentation in the case of a Direct Registration ADR, the Holder hereof is entitled to delivery at, or to the extent in dematerialized form from, the Custodian’s office of the Deposited Securities at the time represented by the ADSs evidenced by this ADR. At the request, risk and expense of the Holder hereof, the Depositary may deliver such Deposited Securities at such other place as may have been requested by the Holder. Notwithstanding any other provision of the Deposit Agreement or this ADR, the withdrawal of Deposited Securities may be restricted only for the reasons set forth in General Instruction I.A.(1) of Form F-6 (as such instructions may be amended from time to time) under the Securities Act of 1933.
+
+(3) Transfers of ADRs. The Depositary or its agent will keep, at a designated transfer office (the “Transfer Office”), (a) a register (the “ADR Register”) for the registration, registration of transfer, combination and split-up of ADRs, and, in the case of Direct Registration ADRs, shall include the Direct Registration System, which at all reasonable times will be open for inspection by Holders and the Company for the purpose of communicating with Holders in the interest of the business of the Company or a matter relating to the Deposit Agreement and (b) facilities for the delivery and receipt of ADRs. The term ADR Register includes the Direct Registration System. Title to this ADR (and to the Deposited Securities represented by the ADSs evidenced hereby), when properly endorsed (in the case of ADRs in certificated form) or upon delivery to the Depositary of proper instruments of transfer, is transferable by delivery with the same effect as in the case of negotiable instruments under the laws of the State of New York; provided that the Depositary, notwithstanding any notice to the contrary, may treat the person in whose name this ADR is registered on the ADR Register as the absolute owner hereof for all purposes and neither the Depositary nor the Company will have any obligation or be subject to any liability under the Deposit Agreement to any holder of an ADR, unless such holder is the Holder thereof. Subject to paragraphs (4) and (5), this ADR is transferable on the ADR Register and may be split into other ADRs or combined with other ADRs into one ADR, evidencing the aggregate number of ADSs surrendered for split-up or combination, by the
+
+ 
+
+A-3
+
+
+
+Holder hereof or by duly authorized attorney upon surrender of this ADR at the Transfer Office properly endorsed (in the case of ADRs in certificated form) or upon delivery to the Depositary of proper instruments of transfer and duly stamped as may be required by applicable law; provided that the Depositary may close the ADR Register at any time or from time to time when deemed expedient by it or when reasonably requested by the Company in order to comply with applicable law. At the request of a Holder, the Depositary shall, for the purpose of substituting a certificated ADR with a Direct Registration ADR, or vice versa, execute and deliver a certificated ADR or a Direct Registration ADR, as the case may be, for any authorized number of ADSs requested, evidencing the same aggregate number of ADSs as those evidenced by the certificated ADR or Direct Registration ADR, as the case may be, substituted.
+
+(4) Certain Limitations. Prior to the issue, registration, registration of transfer, split-up or combination of any ADR, the delivery of any distribution in respect thereof, or, subject to the last sentence of paragraph (2), the withdrawal of any Deposited Securities, and from time to time in the case of clause (b)(ii) of this paragraph (4), the Company, the Depositary or the Custodian may require: (a) payment with respect thereto of (i) any stock transfer or other tax or other governmental charge, (ii) any stock transfer or registration fees in effect for the registration of transfers of Shares or other Deposited Securities upon any applicable register and (iii) any applicable charges as provided in paragraph (7) of this ADR; (b) the production of proof satisfactory to it of (i) the identity of any signatory and genuineness of any signature and (ii) such other information, including without limitation, information as to citizenship, residence, exchange control approval, beneficial ownership of any securities, compliance with applicable law, regulations, provisions of or governing Deposited Securities and terms of the Deposit Agreement and this ADR, as it may deem necessary or proper; and (c) compliance with such regulations as the Depositary may establish consistent with the Deposit Agreement. The issuance of ADRs, the acceptance of deposits of Shares, the registration, registration of transfer, split-up or combination of ADRs or, subject to the last sentence of paragraph (2), the withdrawal of Deposited Securities may be suspended, generally or in particular instances, when the ADR Register or any register for Deposited Securities is closed or when any such action is deemed advisable by the Depositary or when reasonably requested by the Company in order to comply with applicable law.
+
+(5) Taxes. If any tax or other governmental charge shall become payable by or on behalf of the Custodian or the Depositary with respect to this ADR, any Deposited Securities represented by the ADSs evidenced hereby or any distribution thereon, such tax or other governmental charge shall be paid by the Holder hereof to the Depositary. The Depositary may refuse to effect any registration, registration of transfer, split-up or combination hereof or, subject to the last sentence of paragraph (2), any withdrawal of such Deposited Securities until such payment is made. The Depositary may also deduct from any distributions on or in respect of
+
+ 
+
+A-4
+
+
+
+Deposited Securities, or may sell by public or private sale for the account of the Holder hereof any part or all of such Deposited Securities (after attempting by reasonable means to notify the Holder hereof prior to such sale), and may apply such deduction or the proceeds of any such sale in payment of such tax or other governmental charge, the Holder hereof remaining liable for any deficiency, and shall reduce the number of ADSs evidenced hereby to reflect any such sales of Shares. In connection with any distribution to Holders, the Company will remit to the appropriate governmental authority or agency all amounts (if any) required to be withheld and owing to such authority or agency by the Company; and the Depositary and the Custodian will remit to the appropriate governmental authority or agency all amounts (if any) required to be withheld and owing to such authority or agency by the Depositary or the Custodian. The Depositary will forward to the Company such information from its records as the Company may reasonably request to enable the Company to file any necessary reports with governmental authorities or agencies. If the Depositary determines that any distribution in property other than cash (including Shares or rights) on Deposited Securities is subject to any tax that the Depositary or the Custodian is obligated to withhold, the Depositary may dispose of all or a portion of such property in such amounts and in such manner as the Depositary deems necessary and practicable to pay such taxes, by public or private sale, and the Depositary shall distribute the net proceeds of any such sale or the balance of any such property after deduction of such taxes to the Holders entitled thereto. Each Holder of an ADR or an interest therein agrees to indemnify the Depositary, the Company, the Custodian and any of their respective directors, employees, agents and affiliates against, and hold each of them harmless from, any claims by any governmental authority with respect to taxes, additions to tax, penalties or interest arising out of any refund of taxes, reduced rate of withholding at source or other tax benefit obtained.
+
+(6) Disclosure of Interests. To the extent that the provisions of or governing any Deposited Securities may require disclosure of or impose limits on beneficial or other ownership of Deposited Securities, other Shares and other securities and may provide for blocking transfer, voting or other rights to enforce such disclosure or limits, Holders and all persons holding ADRs agree to comply with all such disclosure requirements and ownership limitations and to comply with any reasonable Company instructions in respect thereof. The Depositary agrees to forward, upon the request and at the expenses of the Company, any written request for beneficial ownership information from the Company to the Holders, and at the Company’s expense, to promptly forward to the Company any responses received by the Depositary. The Company reserves the right to instruct Holders to deliver their ADSs for cancellation and withdrawal of the Deposited Securities so as to permit the Company to deal directly with the Holder thereof as a holder of Shares and Holders agree to comply with such instructions. The Depositary agrees to cooperate with the Company in its efforts to inform Holders of the Company’s exercise of its rights under this paragraph and agrees to consult with, and provide reasonable assistance without risk, liability or expense on the part of the Depositary, to the Company on the manner or manners in which it may enforce such rights with respect to any Holder.
+
+ 
+
+A-5
+
+
+
+(7) Charges of Depositary. The Depositary may charge, and collect from, (i) each person to whom ADSs are issued, including, without limitation, issuances against deposits of Shares, issuances in respect of Share Distributions, Rights and Other Distributions (as such terms are defined in paragraph (10)), issuances pursuant to a stock dividend or stock split declared by the Company, or issuances pursuant to a merger, exchange of securities or any other transaction or event affecting the ADSs or the Deposited Securities, and (ii) each person surrendering ADSs for withdrawal of Deposited Securities or whose ADSs are cancelled or reduced for any other reason, U.S.$5.00 for each 100 ADSs (or portion thereof) issued, delivered, reduced, cancelled or surrendered (as the case may be). The Depositary may sell (by public or private sale) sufficient securities and property received in respect of Share Distributions, Rights and Other Distributions prior to such deposit to pay such charge. The following additional charges shall be incurred by the Holders, by any party depositing or withdrawing Shares or by any party surrendering ADSs, to whom ADSs are issued (including, without limitation, issuance pursuant to a stock dividend or stock split declared by the Company or an exchange of stock regarding the ADSs or the Deposited Securities or a distribution of ADSs pursuant to paragraph (10)), whichever is applicable (i) a fee of up to U.S.$0.02 per ADS for any Cash distribution made pursuant to the Deposit Agreement, (ii) a fee of U.S.$1.50 per ADR or ADRs for transfers made pursuant to paragraph (3) hereof, (iii) a fee for the distribution or sale of securities pursuant to paragraph (10) hereof, such fee being in an amount equal to the fee for the execution and delivery of ADSs referred to above which would have been charged as a result of the deposit of such securities (for purposes of this paragraph (7) treating all such securities as if they were Shares) but which securities or the net cash proceeds from the sale thereof are instead distributed by the Depositary to Holders entitled thereto, (iv) an aggregate fee of up to U.S.$0.02 per ADS per calendar year (or portion thereof) for services performed by the Depositary in administering the ADRs (which fee may be charged on a periodic basis during each calendar year and shall be assessed against Holders as of the record date or record dates set by the Depositary during each calendar year and shall be payable at the sole discretion of the Depositary by billing such Holders or by deducting such charge from one or more cash dividends or other cash distributions), and (v) reimbursement of such fees, charges and expenses as are incurred by the Depositary and/or any of the Depositary’s agents (including, without limitation, the Custodian and expenses incurred on behalf of Holders in connection with compliance with foreign exchange control regulations or any law or regulation relating to foreign investment) in connection with the servicing of the Shares or other Deposited Securities, the delivery of Deposited Securities or otherwise in connection with the Depositary’s or its Custodian’s compliance with applicable law, rule or regulation (which charge shall be assessed on a proportionate basis against Holders as of the record date or dates set by the Depositary and shall be payable at the sole discretion of the Depositary by billing such Holders or by deducting such charge from one or more cash dividends or other cash distributions). The Company will pay all other charges and expenses of the Depositary and any agent of the Depositary (except the Custodian) pursuant to agreements
+
+ 
+
+A-6
+
+
+
+from time to time between the Company and the Depositary, except (i) stock transfer or other taxes and other governmental charges (which are payable by Holders or persons depositing Shares), (ii) cable, telex and facsimile transmission and delivery charges incurred at the request of persons depositing, or Holders delivering Shares, ADRs or Deposited Securities (which are payable by such persons or Holders), (iii) transfer or registration fees for the registration or transfer of Deposited Securities on any applicable register in connection with the deposit or withdrawal of Deposited Securities (which are payable by persons depositing Shares or Holders withdrawing Deposited Securities; there are no such fees in respect of the Shares as of the date of the Deposit Agreement), and (iv) expenses of the Depositary in connection with the conversion of foreign currency into U.S. dollars (which are paid out of such foreign currency). Such charges may at any time and from time to time be changed by agreement between the Company and the Depositary.
+
+(8) Available Information. The Deposit Agreement, the provisions of or governing Deposited Securities and any written communications from the Company, which are both received by the Custodian or its nominee as a holder of Deposited Securities and made generally available to the holders of Deposited Securities, are available for inspection by Holders at the offices of the Depositary and the Custodian and at the Transfer Office. The Depositary will distribute copies of such communications (or English translations or summaries thereof) to Holders when furnished by the Company. The Company is subject to the periodic reporting requirements of the Securities Exchange Act of 1934 and accordingly files certain reports with the United States Securities and Exchange Commission (the “Commission”). Such reports and other information may be inspected and copied at public reference facilities maintained by the Commission located at the date hereof at 100 F Street, NE, Washington, DC 20549.
+
+(9) Execution. This ADR shall not be valid for any purpose unless executed by the Depositary by the manual or facsimile signature of a duly authorized officer of the Depositary.
+
+Dated:
+
+ 
+
+
+
+
+
+
+
+
+
+JPMORGAN CHASE BANK, N.A., as Depositary
+
+
+
+
+
+By
+
+ 
+
+ 
+
+
+
+Authorized Officer
+
+The Depositary’s office is located at 4 New York Plaza, New York, New York 10004.
+
+ 
+
+A-7
+
+
+
+[FORM OF REVERSE OF ADR]
+
+(10) Distributions on Deposited Securities. Subject to paragraphs (4) and (5), to the extent practicable, the Depositary will distribute to each Holder entitled thereto on the record date set by the Depositary therefor at such Holder’s address shown on the ADR Register, in proportion to the number of Deposited Securities (on which the following distributions on Deposited Securities are received by the Custodian) represented by ADSs evidenced by such Holder’s ADRs: (a) Cash. Any U.S. dollars available to the Depositary resulting from a cash dividend or other cash distribution or the net proceeds of sales of any other distribution or portion thereof authorized in this paragraph (10) (“Cash”), on an averaged or other practicable basis, subject to (i) appropriate adjustments for taxes withheld, (ii) such distribution being impermissible or impracticable with respect to certain Holders, and (iii) deduction of the Depositary’s expenses in (1) converting any foreign currency to U.S. dollars by sale or in such other manner as the Depositary may determine to the extent that it determines that such conversion may be made on a reasonable basis, (2) transferring foreign currency or U.S. dollars to the United States by such means as the Depositary may determine to the extent that it determines that such transfer may be made on a reasonable basis, (3) obtaining any approval or license of any governmental authority required for such conversion or transfer, which is obtainable at a reasonable cost and within a reasonable time and (4) making any sale by public or private means in any commercially reasonable manner. (b) Shares. (i) Additional ADRs evidencing whole ADSs representing any Shares available to the Depositary resulting from a dividend or free distribution on Deposited Securities consisting of Shares (a “Share Distribution”) and (ii) U.S. dollars available to it resulting from the net proceeds of sales of Shares received in a Share Distribution, which Shares would give rise to fractional ADSs if additional ADRs were issued therefor, as in the case of Cash. (c) Rights. (i) Warrants or other instruments in the discretion of the Depositary representing rights to acquire additional ADRs in respect of any rights to subscribe for additional Shares or rights of any nature available to the Depositary as a result of a distribution on Deposited Securities (“Rights”), to the extent that the Company timely furnishes to the Depositary evidence satisfactory to the Depositary that the Depositary may lawfully distribute the same (the Company has no obligation to so furnish such evidence), or (ii) to the extent the Company does not so furnish such evidence and sales of Rights are practicable, any U.S. dollars available to the Depositary from the net proceeds of sales of Rights as in the case of Cash, or (iii) to the extent the Company does not so furnish such evidence and such sales cannot practicably be accomplished by reason of the nontransferability of the Rights, limited markets therefor, their short duration or otherwise, nothing (and any Rights may lapse). (d) Other Distributions. (i) Securities or property available to the Depositary resulting from any distribution on Deposited Securities other than Cash, Share Distributions and Rights (“Other Distributions”), by any means that the Depositary may deem equitable and practicable, or (ii) to the extent the Depositary deems distribution of such securities or property not to be equitable and practicable, any U.S. dollars available to the Depositary from the net proceeds of sales of Other Distributions as in the case of Cash. Such U.S. dollars available will be distributed by checks drawn on a bank in the United States for whole dollars and cents. Fractional cents will be withheld without liability and dealt with by the Depositary in accordance with its then current practices.
+
+ 
+
+A-8
+
+
+
+(11) Record Dates. The Depositary may, after consultation with the Company if practicable, fix a record date (which, to the extent applicable, shall be as near as practicable to any corresponding record date set by the Company) for the determination of the Holders who shall be responsible for the fee assessed by the Depositary for administration of the ADR program and for any expenses provided for in paragraph (7) hereof as well as for the determination of the Holders who shall be entitled to receive any distribution on or in respect of Deposited Securities, to give instructions for the exercise of any voting rights, to receive any notice or to act in respect of other matters and only such Holders shall be so entitled or obligated.
+
+(12) Voting of Deposited Securities. As soon as practicable after receipt from the Company of notice of any meeting or solicitation of consents or proxies of holders of Shares or other Deposited Securities, the Depositary shall distribute to Holders a notice stating (a) such information as is contained in such notice and any solicitation materials, (b) that each Holder on the record date set by the Depositary therefor will, subject to any applicable provisions of Cayman Island law, be entitled to instruct the Depositary as to the exercise of the voting rights, if any, pertaining to the Deposited Securities represented by the ADSs evidenced by such Holder’s ADRs and (c) the manner in which such instructions may be given, including instructions to give a discretionary proxy to a person designated by the Company. Upon receipt of instructions of a Holder on such record date in the manner and on or before the date established by the Depositary for such purpose, the Depositary shall endeavor insofar as practicable and permitted under the provisions of or governing Deposited Securities to vote or cause to be voted the Deposited Securities represented by the ADSs evidenced by such Holder’s ADRs in accordance with such instructions. The Depositary will not itself exercise any voting discretion in respect of any Deposited Securities. To the extent voting instruction cards are not so received by the Depositary from any Holder, the Depositary shall deem such Holder to have so instructed the Depositary to give a discretionary proxy to a person designated by the Company and the Depositary shall endeavor insofar as practicable and permitted under the provisions of or governing Deposited Securities to give a discretionary proxy to a person designated by the Company to vote the Deposited Securities represented by the ADSs evidenced by such Holder’s ADRs as to which such deemed instructions are so given, provided that no such instruction shall be deemed given and no discretionary proxy shall be given (i) with respect to any matter as to which the Company informs the Depositary (and the Company agrees to provide such information promptly in writing when and if applicable) that (x) the Company does not wish such proxy to be given, (y) substantial opposition exists with respect to any agenda item for which the proxy would be given or (z) materially affects the rights of holders of Shares and (ii) unless, with respect to such meeting, the Depositary has been provided with an opinion of counsel to the Company, in form and substance satisfactory to the Depositary, to the effect that (a) the granting of such discretionary proxy does not subject the Depositary to any reporting obligations in the Cayman Islands, (b) the granting of such proxy will not result in a violation of Cayman Island law, rule, regulation or permit, (c) the voting arrangement and deemed instruction as contemplated herein will be given effect under Cayman Island law upon a discretionary proxy being granted in the manner as aforesaid, and (d) the granting of such discretionary proxy alone will not result in the Shares represented by the ADSs
+
+ 
+
+A-9
+
+
+
+being considered subject to attachment or appropriation by creditors of the Custodian or the Depositary under Cayman Island law, to the extent Cayman Island law is relevant.
+
+There is no guarantee that Holders generally or any Holder in particular will receive the notice described above with sufficient time to enable such Holder to return any voting instructions to the Depositary in a timely manner.
+
+(13) Changes Affecting Deposited Securities. Subject to paragraphs (4) and (5), the Depositary may, in its discretion, amend this ADR or distribute additional or amended ADRs (with or without calling this ADR for exchange) or cash, securities or property on the record date set by the Depositary therefor to reflect any change in par value, split-up, consolidation, cancellation or other reclassification of Deposited Securities, any Share Distribution or Other Distribution not distributed to Holders or any cash, securities or property available to the Depositary in respect of Deposited Securities from (and the Depositary is hereby authorized to surrender any Deposited Securities to any person and, irrespective of whether such Deposited Securities are surrendered or otherwise cancelled by operation of law, rule, regulation or otherwise, to sell by public or private sale any property received in connection with) any recapitalization, reorganization, merger, consolidation, liquidation, receivership, bankruptcy or sale of all or substantially all the assets of the Company, and to the extent the Depositary does not so amend this ADR or make a distribution to Holders to reflect any of the foregoing, or the net proceeds thereof, whatever cash, securities or property results from any of the foregoing shall constitute Deposited Securities and each ADS evidenced by this ADR shall automatically represent its pro rata interest in the Deposited Securities as then constituted.
+
+(14) Exoneration. The Depositary, the Company, their agents and each of them shall: (a) incur no liability (i) if any present or future law, rule, regulation , fiat, order or decree of the United States, the Cayman Islands, The People’s Republic of China (including the Hong Kong Special Administrative Region, the People’s Republic of China) or any other country, or of any governmental or regulatory authority or any securities exchange or market or automated quotation system, the provisions of or governing any Deposited Securities, any present or future provision of the Company’s charter, any act of God, war, terrorism or other circumstance beyond its control shall prevent or delay, or shall cause any of them to be subject to any civil or criminal penalty in connection with, any act which the Deposit Agreement or this ADR provides shall be done or performed by it or them (including, without limitation, voting pursuant to paragraph (12) hereof), or (ii) by reason of any exercise or failure to exercise any discretion given it in the Deposit Agreement or this ADR; (b) assume no liability except to perform its obligations to the extent they are specifically set forth in this ADR and the Deposit Agreement without gross negligence or bad faith; (c) in the case of the Depositary and its agents, be under no obligation to appear in, prosecute or defend any action, suit or other proceeding in respect of any Deposited Securities or this ADR; (d) in the case of the Company and its agents hereunder be under no obligation to appear in, prosecute or defend any action, suit or other proceeding in respect of any Deposited Securities or this ADR, which in its opinion may involve it in expense or liability,
+
+ 
+
+A-10
+
+
+
+unless indemnity satisfactory to it against all expense (including fees and disbursements of counsel) and liability be furnished as often as may be required; or (e) not be liable for any action or inaction by it in reliance upon the advice of or information from legal counsel, accountants, any person presenting Shares for deposit, any Holder, or any other person believed by it to be competent to give such advice or information. The Depositary shall not be liable for the acts or omissions made by any securities depository, clearing agency or settlement system in connection with or arising out of book-entry settlement of Deposited Securities or otherwise, so long as such acts or omissions are not caused as a direct result of the gross negligence or willful misconduct of the Depositary. The Depositary shall not be responsible for, and shall incur no liability in connection with or arising from, the insolvency of any Custodian that is not a branch or affiliate of JPMorgan Chase Bank, N.A. The Depositary, its agents and the Company may rely and shall be protected in acting upon any written notice, request, direction or other document believed by them to be genuine and to have been signed or presented by the proper party or parties. The Depositary and its agents will not be responsible for any failure to carry out any instructions to vote any of the Deposited Securities, for the manner in which any such vote is cast or for the effect of any such vote. The Depositary and its agents may own and deal in any class of securities of the Company and its affiliates and in ADRs. Notwithstanding anything to the contrary set forth in the Deposit Agreement or an ADR, the Depositary and its agents may fully respond to any and all demands or requests for information maintained by or on its behalf in connection with the Deposit Agreement, any Holder or Holders, any ADR or ADRs or otherwise related hereto or thereto to the extent such information is requested or required by or pursuant to any lawful authority, including without limitation laws, rules, regulations, administrative or judicial process, banking, securities or other regulators. None of the Depositary, the Custodian or the Company shall be liable for the failure by any Holder or beneficial owner to obtain the benefits of credits on the basis of non-U.S. tax paid against such Holder’s or beneficial owner’s income tax liability. The Depositary and the Company shall not incur any liability for any tax consequences that may be incurred by Holders and beneficial owners on account of their ownership of the ADRs or ADSs. The Company has agreed to indemnify the Depositary and its agents under certain circumstances and the Depositary has agreed to indemnify the Company under certain circumstances. Neither the Company nor the Depositary nor any of their agents shall be liable to Holders or beneficial owners of interests in ADSs for any indirect, special, punitive or consequential damages (including, without limitation, lost profits) of any form incurred by any person or entity, whether or not foreseeable and regardless of the type of action in which such a claim may be brought. No disclaimer of liability under the Securities Act of 1933 is intended by any provision hereof.
+
+(15) Resignation and Removal of Depositary; the Custodian. The Depositary may resign as Depositary by written notice of its election so to do delivered to the Company, such resignation to take effect upon the appointment of a successor depositary and its acceptance of such appointment as provided in the Deposit Agreement. The Depositary may at any time be removed by the Company by no less than 90 days prior written notice of such removal, to become effective upon the later of (i) the 90th day after delivery of the notice to the Depositary and (ii) the appointment of a successor depositary and its acceptance of such appointment as provided in the
+
+ 
+
+A-11
+
+
+
+Deposit Agreement. The Depositary may appoint substitute or additional Custodians and the term “Custodian” refers to each Custodian or all Custodians as the context requires.
+
+(16) Amendment. Subject to the last sentence of paragraph (2), the ADRs and the Deposit Agreement may be amended by the Company and the Depositary, provided that any amendment that imposes or increases any fees or charges (other than stock transfer or other taxes and other governmental charges, transfer or registration fees, cable, telex or facsimile transmission costs, delivery costs or other such expenses), or that shall otherwise prejudice any substantial existing right of Holders, shall become effective 30 days after notice of such amendment shall have been given to the Holders. Every Holder of an ADR at the time any amendment to the Deposit Agreement so becomes effective shall be deemed, by continuing to hold such ADR, to consent and agree to such amendment and to be bound by the Deposit Agreement as amended thereby. In no event shall any amendment impair the right of the Holder of any ADR to surrender such ADR and receive the Deposited Securities represented thereby, except in order to comply with mandatory provisions of applicable law. Any amendments or supplements which (i) are reasonably necessary (as agreed by the Company and the Depositary) in order for (a) the ADSs to be registered on Form F-6 under the Securities Act of 1933 or (b) the ADSs or Shares to be traded solely in electronic book-entry form and (ii) do not in either such case impose or increase any fees or charges to be borne by Holders, shall be deemed not to prejudice any substantial rights of Holders. Notwithstanding the foregoing, if any governmental body or regulatory body should adopt new laws, rules or regulations which would require amendment or supplement of the Deposit Agreement or the form of ADR to ensure compliance therewith, the Company and the Depositary may amend or supplement the Deposit Agreement and the ADR at any time in accordance with such changed laws, rules or regulations. Such amendment or supplement to the Deposit Agreement in such circumstances may become effective before a notice of such amendment or supplement is given to Holders or within any other period of time as required for compliance. Notice of any amendment to the Deposit Agreement or form of ADRs shall not need to describe in detail the specific amendments effectuated thereby, and failure to describe the specific amendments in any such notice shall not render such notice invalid, provided, however, that, in each such case, the notice given to the Holders identifies a means for Holders to retrieve or receive the text of such amendment (i.e., upon retrieval from the Commission’s, the Depositary’s or the Company’s website or upon request from the Depositary).
+
+(17) Termination. The Depositary may, and shall at the written direction of the Company, terminate the Deposit Agreement and this ADR by mailing notice of such termination to the Holders at least 30 days prior to the date fixed in such notice for such termination; provided, however, if the Depositary shall have (i) resigned as Depositary hereunder, notice of such termination by the Depositary shall not be provided to Holders unless a successor depositary shall not be operating hereunder within 45 days of the date of such resignation, or (ii) been removed as Depositary hereunder, notice of such termination by the Depositary shall not be provided to Holders unless a successor depositary shall not be operating hereunder on the 90th day after the Company’s notice of removal was first provided to the Depositary. After the date so fixed for termination, the Depositary and its agents will perform no further acts
+
+ 
+
+A-12
+
+
+
+under the Deposit Agreement and this ADR, except to receive and hold (or sell) distributions on Deposited Securities and deliver Deposited Securities being withdrawn. As soon as practicable after the expiration of six months from the date so fixed for termination, the Depositary shall sell the Deposited Securities and shall thereafter (as long as it may lawfully do so) hold in a segregated account the net proceeds of such sales, together with any other cash then held by it under the Deposit Agreement, without liability for interest, in trust for the pro rata benefit of the Holders of ADRs not theretofore surrendered. After making such sale, the Depositary shall be discharged from all obligations in respect of the Deposit Agreement and this ADR, except to account for such net proceeds and other cash. After the date so fixed for termination, the Company shall be discharged from all obligations under the Deposit Agreement except for its obligations to the Depositary and its agents.
+
+(18) Appointment. Each Holder and each person holding an interest in ADSs, upon acceptance of any ADSs (or any interest therein) issued in accordance with the terms and conditions of the Deposit Agreement shall be deemed for all purposes to (a) be a party to and bound by the terms of the Deposit Agreement and the applicable ADR(s), and (b) appoint the Depositary its attorney-in-fact, with full power to delegate, to act on its behalf and to take any and all actions contemplated in the Deposit Agreement and the applicable ADR(s), to adopt any and all procedures necessary to comply with applicable law and to take such action as the Depositary in its sole discretion may deem necessary or appropriate to carry out the purposes of the Deposit Agreement and the applicable ADR(s), the taking of such actions to be the conclusive determinant of the necessity and appropriateness thereof.
+
+(19) Waiver. EACH PARTY TO THE DEPOSIT AGREEMENT (INCLUDING, FOR AVOIDANCE OF DOUBT, EACH HOLDER AND BENEFICIAL OWNER AND/OR HOLDER OF INTERESTS IN ADRS) HEREBY IRREVOCABLY WAIVES, TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, ANY RIGHT IT MAY HAVE TO A TRIAL BY JURY IN ANY SUIT, ACTION OR PROCEEDING AGAINST THE DEPOSITARY AND/OR THE COMPANY DIRECTLY OR INDIRECTLY ARISING OUT OF OR RELATING TO THE SHARES OR OTHER DEPOSITED SECURITIES, THE ADSs OR THE ADRs, THE DEPOSIT AGREEMENT OR ANY TRANSACTION CONTEMPLATED HEREIN OR THEREIN, OR THE BREACH HEREOF OR THEREOF (WHETHER BASED ON CONTRACT, TORT, COMMON LAW OR ANY OTHER THEORY).
+
+ 
+
+A-13

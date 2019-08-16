@@ -1,0 +1,270 @@
+Exhibit 10.3
+
+
+FOURTH AMENDMENT TO CREDIT AGREEMENT
+
+
+     THIS FOURTH AMENDMENT TO CREDIT AGREEMENT dated as of November 18, 2009 (this
+Amendment), is entered into among WILLIS NORTH AMERICA INC., a Delaware corporation (the
+Borrower), WILLIS GROUP HOLDINGS LIMITED, an exempted company under the Companies Act
+1981 of Bermuda (the Parent), the other Guarantors identified on the signature pages
+hereto, the Lenders identified on the signature pages hereto and BANK OF AMERICA, N.A., as
+Administrative Agent (in such capacity, the Administrative Agent). Capitalized terms
+used herein and not otherwise defined shall have the meanings ascribed thereto in the Credit
+Agreement.
+
+
+RECITALS
+
+
+     A. The Borrower, the Parent, the Lenders and the Administrative Agent entered into that
+certain Credit Agreement dated as of October 1, 2008 (as amended and modified from time to time,
+including by this Amendment, the Credit Agreement).
+
+
+     B. The parties hereto have agreed to amend the Credit Agreement as provided herein.
+
+
+     C. In consideration of the agreements hereinafter set forth, and for other good and valuable
+consideration, the receipt and adequacy of which are hereby acknowledged, the parties hereto agree
+as follows.
+
+
+AGREEMENT
+
+
+     1. Amendments.
+
+
+     (a) The definition of Consolidated Funded Indebtedness in Section 1.01 of the
+Credit Agreement is amended by adding the words other than Guarantees arising solely as a
+result of Liens permitted by Section 7.02(i).
+
+
+     (b) The following new definitions are added to Section 1.01 (Defined Terms) of
+the Credit Agreement in alphabetical order:
+
+
+     Gras Savoye Transactions means the series of
+related transactions relating to the Disposition by the Parent
+and any of its Subsidiaries of all of the Equity Interests in
+Gras Savoye & Cie to Topco, or an affiliate thereof, for
+consideration consisting of cash, notes issued by Topco or an
+affiliate thereof or Equity Interest in Topco, or any
+combination of the foregoing, and after giving effect to which
+(a) unless otherwise permitted by Section 7.02, neither
+the Parent nor any of its Subsidiaries shall be liable for any
+Indebtedness of Topco or any of its Subsidiaries except to the
+extent of the Liens permitted by Section 7.02(i), (b)
+the Parent and its Subsidiaries receive Net Cash Proceeds in
+exchange for the Disposition of Equity Interests in Gras Savoye
+& Cie of not less than 85,000,000, and (c) no Person shall
+have the right to require the Parent or any of its Subsidiaries
+to purchase, acquire or otherwise hold any Equity Interests of,
+or Indebtedness owing by, Topco or any of its Subsidiaries
+prior to the Maturity Date except (i) Investments expressly
+permitted by Section 7.03(j), or (ii) any Investment
+required to be made pursuant to such Persons right to
+
+
+require the Parent or any of its Subsidiaries to purchase,
+acquire or otherwise hold any Equity Interests of, or
+Indebtedness owing by, Topco or any of its Subsidiaries that is
+otherwise permitted by Section 7.03.
+
+
+     Topco means any entity that following the
+consummation of the Gras Savoye Transactions is owned in part
+by the Parent or any Subsidiary and shall hold, directly or
+indirectly, Equity Interests in Gras Savoye & Cie.
+
+
+     (c) Section 7.01 (Negative Covenants; Subsidiary Indebtedness) of the Credit
+Agreement is amended by (i) deleting the word and at the end of clause (f) thereof; (ii)
+replacing the period at the end of clause (g) thereof with a semicolon and the word and;
+and (iii) by inserting a new clause (h) thereto to read as follows:
+
+
+     (h) Indebtedness consisting solely of Liens permitted
+under Section 7.02(i) so long as no holder of any such
+Indebtedness has any recourse with respect thereto to the
+Parent or any of its Subsidiaries, or their assets, beyond the
+assets subject to such Liens.
+
+
+     (d) Section 7.02 (Negative Covenants; Liens) of the Credit Agreement is amended
+by (i) deleting the word and at the end of clause (g) thereof; (ii) replacing the period
+at the end of clause (h) thereof with a semicolon and the word and; and (iii) by inserting
+a new clause (i) thereto to read as follows:
+
+
+     (i) Liens on Investments in Topco granted in connection
+with and as contemplated by the Gras Savoye Transactions.
+
+
+     (e) Section 7.03 (Negative Covenants; Investments) of the Credit Agreement is
+amended by (i) inserting at the beginning of clause (f)(ii) thereof the words at any time
+prior the consummation of the Gras Savoye Transactions,; (ii) deleting the word and and
+the end of clause (g) thereof; (iii) replacing the period at the end of clause (h) thereof
+with a semicolon; and (iv) by inserting new clauses (i) and (j) thereto to read as follows:
+
+
+     (i) Investments in Topco made in connection with and as
+contemplated by the Gras Savoye Transactions; and
+
+
+     (j) Investments in Topco consisting of purchases of Equity
+Interests of Topco held by past, present or future officers,
+directors and employees of Topco and its Subsidiaries and any
+relatives of the forgoing and any entities controlled thereby,
+so long as such repurchase is required to be made in connection
+with a termination of the applicable officer, director or
+employee pursuant to, and is made in accordance with the terms
+of, applicable management and/or employee stock plans, stock
+subscription agreements or shareholders agreements.
+
+
+     (f) Section 7.05 (Negative Covenants; Asset Sales) of the Credit Agreement is
+amended by (i) deleting the word and and the end of clause (c) thereof; and (ii) by
+inserting new clauses (e) and (f) thereto to read as follows:
+
+
+     (e) Dispositions of all of the Equity Interests of Gras
+Savoye & Cie in connection with and as contemplated by the Gras
+Savoye Transactions            so long as 100% of the Net Cash
+Proceeds from such Dispositions are applied to prepay the Term
+Loan within ten Business Days from the date of receipt of such
+Net Cash Proceeds; and
+
+
+     (f) Dispositions of Equity Interests or other interests in
+Topco to members of management of Topco under contractual
+arrangements entered into in connection with the Gras Savoye
+Transactions.
+
+
+     2. Effectiveness; Conditions Precedent. This Amendment shall be effective as of the
+date hereof (the Amendment Effective Date) upon satisfaction of each of the following
+conditions:
+
+
+     (a) Executed Documents. The Administrative Agent shall have received
+counterparts of this Amendment executed by the Borrower, the Parent, the other Guarantors,
+the Required Lenders and the Administrative Agent.
+
+
+     (b) Fees and Expenses. The Borrower shall have paid to the Administrative
+Agent (or its applicable affiliate), all fees and expenses required to be paid on or before
+the date hereof in connection with this Amendment, in accordance with Section 10.04
+of the Credit Agreement or any other Loan Document.
+
+
+     3. Ratification of Loan Documents. Each Loan Party acknowledges and consents to the
+terms set forth herein and agrees that this Amendment does not impair, reduce or limit any of its
+obligations under the Loan Documents (as amended hereby).
+
+
+     4. Authority/Enforceability. Each Loan Party represents and warrants to the
+Administrative Agent and the Lenders that:
+
+
+     (a) It has taken all necessary action to authorize the execution, delivery and
+performance of this Amendment.
+
+
+     (b) This Amendment has been duly executed and delivered by such Person and constitutes
+such Persons legal, valid and binding obligations, enforceable in accordance with its
+terms, subject to applicable bankruptcy, insolvency, reorganization, moratorium or other
+laws affecting creditors rights generally and subject to general principles of equity,
+regardless of whether considered in a proceeding in equity or at law.
+
+
+     (c) No consent or approval of, registration or filing with, or any other action by, any
+Governmental Authority, except such as have been obtained or made and are in full force and
+effect, is required in connection with the execution, delivery or performance by such Person
+of this Amendment.
+
+
+     (d) The execution and delivery of this Amendment does not (i) violate, contravene or
+conflict with any provision of its, or its Subsidiaries Organization Documents or (ii)
+materially violate, contravene or conflict with any Laws applicable to it or any of its
+Subsidiaries.
+
+
+     5. Representations and Warranties of the Loan Parties. Each Loan Party represents and
+warrants that after giving effect to this Amendment (a) the representations and warranties of (i)
+the Parent and the Borrower contained in Article V of the Credit Agreement and (ii) each
+Loan Party contained in each other Loan Document or in any document furnished at any time under or
+in connection herewith or therewith, shall be true and correct in all material respects (or, if
+such representation or warranty is itself modified by materiality or Material Adverse Effect, it
+shall be true and correct in all respects) as of the date hereof, except (A) to the extent that
+such representations and warranties specifically refer to an earlier date, in which case they shall
+be true and correct as of such earlier date and (B) the making of the representation and warranty
+contained in Section 5.04(b) of the Credit Agreement and (b) no event has occurred and is
+continuing which constitutes a Default or an Event of Default.
+
+
+     6. Counterparts/Telecopy. This Amendment may be executed in any number of
+counterparts, each of which when so executed and delivered shall be an original, but all of which
+shall constitute one and the same instrument. Delivery of executed counterparts of this Amendment
+by telecopy or electronic mail shall be effective as an original.
+
+
+     7. Reference to the Effect of the Credit Agreement.
+
+
+          (a) As of the Amendment Effective Date, each reference in the Credit Agreement to this
+Agreement, hereunder, hereof, herein, or words of like import, shall mean and be a reference
+to the Credit Agreement as modified hereby, and this Amendment and the Credit Agreement shall be
+read together and construed as a single instrument. This Amendment shall constitute a Loan
+Document.
+
+
+          (b) Except as expressly amended hereby, all of the terms and provisions of the Credit
+Agreement are and shall remain in full force and effect and are hereby ratified and confirmed.
+
+
+          (c) The execution, delivery and effectiveness of this Amendment shall not, except as expressly
+provided herein, operate as a waiver of any right, power or remedy of the Lenders, the
+Administrative Agent under the Credit Agreement, nor constitute a waiver or amendment of any other
+provision of the Credit Agreement or for any purpose except as expressly set forth herein.
+
+
+     8. GOVERNING LAW. THIS AMENDMENT AND THE RIGHTS AND OBLIGATIONS OF THE PARTIES
+HEREUNDER SHALL BE GOVERNED BY AND CONSTRUED AND INTERPRETED IN ACCORDANCE WITH THE LAWS OF THE
+STATE OF NEW YORK. THE PROVISIONS OF SECTIONS 10.14 AND 10.15 OF THE CREDIT AGREEMENT ARE
+INCORPORATED BY REFERENCE, MUTATIS MUTANDIS, AS IF FULLY SET FORTH HEREIN.
+
+
+[Remainder of page intentionally left blank.]
+
+
+     IN WITNESS WHEREOF, the parties hereto have caused this Amendment to be duly executed as of
+the date first above written.
+
+
+Willis North America, Inc.
+Fourth Amendment to Credit Agreement
+Signature Pages
+
+
+Willis North America, Inc.
+Fourth Amendment to Credit Agreement
+Signature Pages
+
+
+Willis North America, Inc.
+Fourth Amendment to Credit Agreement
+Signature Pages
+
+
+Willis North America, Inc.
+Fourth Amendment to Credit Agreement
+Signature Pages
+
+
+Willis North America, Inc.
+Fourth Amendment to Credit Agreement
+Signature Pages
+
+

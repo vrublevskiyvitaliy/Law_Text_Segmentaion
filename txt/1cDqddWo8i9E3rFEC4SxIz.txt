@@ -1,0 +1,375 @@
+THIS SECURED DEBENTURE (THE “SECURITIES”) HAS NOT BEEN REGISTERED UNDER THE SECURITIES ACT OF 1933, AS AMENDED, OR APPLICABLE STATE SECURITIES LAWS.  THE SECURITIES HAVE BEEN ACQUIRED SOLELY FOR INVESTMENT PURPOSES AND NOT WITH A VIEW TOWARD RESALE AND MAY NOT BE OFFERED FOR SALE, SOLD, TRANSFERRED OR ASSIGNED IN THE ABSENCE OF AN EFFECTIVE REGISTRATION STATEMENT FOR THE SECURITIES UNDER THE SECURITIES ACT OF 1933, AS AMENDED, OR APPLICABLE STATE SECURITIES LAWS, OR AN OPINION OF COUNSEL, IN A GENERALLY ACCEPTABLE FORM, THAT REGISTRATION IS NOT REQUIRED UNDER SAID ACT OR APPLICABLE STATE SECURITIES LAWS.
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+SECURED CONVERTIBLE REDEEMABLE DEBENTURE
+
+ 
+
+ 
+
+MAN SHING AGRICULTURAL HOLDINGS, INC.
+
+ 
+
+ 
+
+January 4, 2010
+
+ 
+
+
+
+No.  MSAH - 1
+
+US$100,000
+
+
+
+This Secured Convertible Redeemable Debenture (the “Debenture”) is issued on January 4, 2010 (the “Closing Date”) by Man Shing Agricultural Holdings, Inc., a Nevada company, Unit 1005, 10/F, Tower, Hunghom Commercial Centre, 37 Ma Tau Wai Road, Hunghom, Kowloon, Hong Kong (the “Company”), to China Angel Assets Management Limited (together with its permitted successors and assigns, the “Holder”) as part of a Unit as defined in the Securities Purchase Agreement and pursuant to exemptions from registration under the Securities Act of 1933, as amended.
+
+ 
+
+ 
+
+ARTICLE I.
+
+ 
+
+Section 1.01 Principal and Interest.  For value received, the Company hereby promises to pay to the order of the Holder by January 4, 2013 (the “Maturity Date”) in lawful money of the United States of America and in immediately available funds the unpaid principal sum of $100,000 U.S. Dollars (US$100,000) together with interest on the unpaid principal of this Debenture at the rate of:  (a) eight percent (8.00%) paid quarterly in U.S. Dollars, in arrears, with a default interest rate of sixteen percent (16.00%), payable quarterly in U.S. Dollars, in arrears.  All payments will not be subject to deduction for withholding taxes, other taxes, transfer fees, currency commission expenses, or any other fees, expenses or commissions due on any payments to the holders to for internal transfers to provide the Company the money to pay the interest and principal due along with any other expenses of the Company due to the Holder hereunder.  Interest shall be computed on the basis of a 360-day year and the actual days elapsed.
+
+ 
+
+Section 1.02 Optional Conversion.  The Holder is entitled, at its option, subject to the limitations set forth herein, to convert, and sell on the same day or at any subsequent time, at any time and from time to time, until payment in full of the remaining outstanding principal balance of this Debenture, plus any interest, all or any part of the principal amount of the Debenture, plus accrued interest, into shares (the “Conversion Shares”) of Common Stock at the price per share equal to two dollars ($2) per share (the “Conversion Price”).  No fraction of shares or scrip representing fractions of shares will be issued on conversion, but the number of shares issuable shall be rounded to the nearest whole share.  To convert this Debenture, the Holder hereof shall deliver written notice thereof, substantially in the form of Exhibit “A” to this Debenture, with appropriate insertions (the “Conversion Notice”), to the Company at its address as set forth herein.  The date upon which the conversion shall be effective (the “Conversion Date”) shall be deemed to be the date set forth in the Conversion Notice.  Conversions hereunder shall have the effect of lowering the outstanding principal amount of this Debenture in an amount equal to the applicable conversion and payment of the interest then due.  The Holder and the Company shall maintain records showing the principal amount converted and the date of such conversions. In no event shall the Holder be entitled to convert this Debenture for a number of shares of Common Stock in excess of that number of shares of Common Stock which, upon giving effect to such conversion, would cause the aggregate number of shares of Common Stock beneficially owned by the Holder and its affiliates to exceed 9.99% of the outstanding shares of the Common Stock following such conversion without the approval of the Company.
+
+ 
+
+Section 1.03  Reservation of Common Stock.  The Company shall reserve and keep available out of its authorized but unissued shares of Common Stock, solely for the purpose of effecting the conversion of this Debenture, such number of shares of Common Stock as shall from time to time be sufficient to effect such conversion, based upon the Conversion Price.  If at any time the Company does not have a sufficient number of Conversion Shares authorized and available, then the Company shall file a preliminary proxy statement with the Securities and Exchange Commission within ten (10) business day after such occurrence and shall call and hold a special meeting of its stockholders as soon as practicable after such occurrence for the sole purpose of increasing the number of authorized shares of Common Stock.
+
+ 
+
+Section 1.04 Conversion Cap.  During any week in which the Company’s Common Stock trades at a price per share in excess of two US Dollars ($2.00.), the Holder shall be permitted to convert up to one hundred thousand dollars ($100,000) principal amount of this Debenture.
+
+ 
+
+Section 1.05 Redemption.  At any time prior to the Maturity Date and after 12 months from the date of Closing, the Company will have the right to redeem all the Debentures then outstanding, by payment in full, and not in part, of the outstanding principal amount due plus a premium equal to 50% of the principal amount being paid, plus all accrued and unpaid interest due through the date of payment without premium.  A payment schedule is attached hereto as Exhibit B.
+
+ 
+
+Section 1.06 Interest Payments.    Upon the occurrence of an Event of Default (as defined in Section 3.01 below) by the Company, the Holder has the option to elect that the interest due and payable hereunder be paid in cash (via wire transfer or certified funds) or in the form of Common Stock.  If paid in the form of Common Stock, that number of shares of Common Stock with a value equal to the amount of interest due shall be issued. The amount of stock to be issued will be calculated as follows: the value of the stock shall be eighty-five percent of the lower of:  (i) the VWAP as quoted by Bloomberg L.P. on the date the interest payment is due; or (ii) if the interest payment is not made when due, the VWAP as quoted by Bloomberg L.P. on the date the interest payment is made.  No fractional shares will be issued; therefore, in the event that the value of the Common Stock per share does not equal the total interest due, the Company will pay the balance in cash.
+
+ 
+
+Section 1.07 Paying Agent and Registrar.  Initially, the Escrow Agent will act as paying agent and registrar.  The Company may change any paying agent, registrar, or Company-registrar by giving the Holder not less than ten (10) business days’ written notice of its election to do so, specifying the name, address, telephone number and facsimile number of the paying agent or registrar.
+
+ 
+
+Section 1.08 Favor.  As long as there are shares of the Debentures are outstanding, the Company shall extend to the Holder any language in future transactions that is more preferable, as evaluated by the Holder, to these Debentures.
+
+
+
+Secured Nature of Debenture.  This Debenture is secured by a pro rata portion of a majority position in the Company’s common stock owned by Mr. Shili Liu.
+
+ 
+
+Section 1.09   [Reserved]
+
+ 
+
+  
+
+Section 1.01 Amendments and Waiver of Default.  The Debenture may not be amended without the written consent of both the Holder and the Company.
+
+ 
+
+ 
+
+ARTICLE II.
+
+ 
+
+Section 2.01 Events of Default.  An Event of Default is defined as follows: (a) failure by the Company to pay amounts due hereunder, including any installment payment of interest or principal redemption, and the balance due upon the maturity of the Company’s obligations to pay all amounts in full, within five (5) business days of the date such payment is due under this Debenture, without notice or demand, (b) after the Registration Statement required by the Registration Rights Agreement has been declared effective, failure by the Company’s transfer agent to issue freely tradeable Common Stock (including Common Stock tradeable under Rule 144) to the Holder within three (3) days of the Company’s receipt of a Notice of Conversion or Notice of Exercise from Holder; (c) failure by the Company for five (5) business days after notice to it to comply with any of its other agreements in the Debenture; (d) events of bankruptcy or insolvency or (e) a breach by the Company of any material obligation under the Securities Purchase Agreement which is not cured by the Company within five (5) business days after receipt of written notice thereof, (f) a breach by the Company of any of the Covenants under the Securities Purchase Agreement which is not cured within five (5) business days of the Company’s receipt of written notice thereof.  Upon the occurrence of an Event of Default, the Holder may, in its sole discretion, accelerate full repayment of all debentures outstanding and accrued interest thereon notwithstanding any limitations contained in this Debenture and/or the Securities Purchase Agreement dated the date hereof between the Company and the Holder (the “Securities Purchase Agreement”).
+
+ 
+
+Section 2.02 Failure to Issue Unrestricted Common Stock. As indicated in Article III Section 3.01, a breach by the Company of its obligations under the Securities Purchase Agreement shall be deemed an Event of Default, which if not cured within the periods specified in Section 3.01, shall entitle the Holder to accelerate full repayment of the Debentures together with accrued interest thereon or, notwithstanding any limitations contained in this Debenture and/or the Securities Purchase Agreement, to convert all amounts outstanding under the Debentures together with accrued interest thereon into shares of Common Stock pursuant to Section 1.02 herein.  The Company acknowledges that failure to honor a Notice of Conversion except as set forth herein, shall cause irreparable harm to the Holder.
+
+ 
+
+Section 2.03 Re-issuance of Debenture.  When the Holder elects to convert a part of the Debenture, upon the Holder’s request, the Company shall reissue a new Debenture in the same form as this Debenture to reflect the new principal amount.  Upon Company’s request, Holder shall surrender this Debenture prior to the issuance of such new Debenture.
+
+ 
+
+ 
+
+ARTICLE III.
+
+ 
+
+Section 3.01 [Reserved]
+
+ 
+
+ 
+
+ARTICLE IV.
+
+ 
+
+Section 4.01 Anti-dilution.  In the event that the Company shall at any time subdivide the outstanding shares of Common Stock, or shall issue a stock dividend on the outstanding Common Stock, the Conversion Price in effect immediately prior to such subdivision or the issuance of such dividend shall be proportionately decreased, and in the event that the Company shall at any time combine the outstanding shares of Common Stock, the Conversion Price in effect immediately prior to such combination shall be proportionately increased, effective at the close of business on the date of such subdivision, dividend or combination as the case may be.
+
+ 
+
+Section 4.02 Consent  of Holder to Sell Capital Stock, Incur Debt or Grant Security Interests.  Except for the second and third tranches of the current financing as contemplates and the Securities Purchase Agreement dated the date hereof between the Company and China Angel Assets Management Limited so long as any of the principal of or interest on this Debenture remains unpaid, the Company shall not, without the prior consent of a majority of the  Holders, after Closing (i) issue or sell shares of Common Stock or Preferred Stock without consideration or for a consideration per share less than the bid price of the Common Stock determined immediately prior to its issuance, (ii) issue or sell any warrant, option, right, contract, call, or other security instrument granting the holder thereof, the right to acquire Common Stock without consideration or for a consideration less than such Common Stock’s bid price value determined immediately prior to it’s issuance, (iii) enter into any security instrument granting the holder a security interest in any and all assets of the Company or any subsidiary of the Company (whether now owned or acquired in the future while the Debentures are outstanding) unless such security interest is junior to the security interest held by the Holder hereunder and under the Security Agreement and in no way or manner diminishes Holder’s rights hereunder or under the Security Agreement, (iv) permit any subsidiary of the Company (whether now owned or acquired in the future while the Debentures are outstanding) to enter into any security instrument granting the holder a security interest in any and all assets of such subsidiary (v) file any registration statement on Form S-8 or (vi) incur any additional secured debt or permit any subsidiary of the Company to incur any additional secured debt without the Holder’s prior written consent unless the security interest on such secured debt is junior to the security interest held by the Holder hereunder and under the Security Agreement.
+
+ 
+
+Section 4.03 Registration with the State Administration of Foreign Exchange.  The Company will take all required action to register the transfer of the proceeds from this Debenture that are used in the Peoples’ Republic of China with the State Administration of Foreign Exchange as an external debt and pursuant to the “Interim Measures on Administration of External Debts” and reserve sufficient amounts of investment and registered capital to provide for repayment of the proceeds and interest due on the Debenture.  The Company will arrange a suitable opinion, indicating that the proceeds used in the Peoples’ Republic of China and the related interest may be paid outside of the Peoples’ Republic of China.  Additionally, the Company will provide a copy of the State Administration of Foreign Exchange registration of the external debt to the Holder at Closing.
+
+ 
+
+ 
+
+ARTICLE V.
+
+ 
+
+Section 5.01 Notice.  Notices regarding this Debenture shall be sent to the parties at the following addresses, unless a party notifies the other parties, in writing, of a change of address:
+
+ 
+
+
+
+If to the Company, to:                           Man Shing Agricultural Holdings, Inc.
+
+    Unit 1005, 10/F, Tower
+
+Hunghom Commercial Centre
+
+37 Ma Tau Wai Road, Hunghom
+
+Kowloon, Hong Kong
+
+Attention:  Mr. Eddie Cheung, CEO
+
+                                                                Telephone  (86) 536-4644888
+
+                                                            	Facsimile:  (86) 536-4643777
+
+
+
+With a copy to:                                      Jared P. Febbroriello, Esq. LL.M. 
+
+JPF Securities Law, LLC
+
+19720 Jetton Road
+
+3rd Floor
+
+Cornelius, NC 28031
+
+Phone: (704) 897-8334
+
+Fax: (704) 897-8349
+
+
+
+Mr. Patrick Mak
+
+Tai, Mak and Partners
+
+Room 905 - - 907, 9/F.
+
+Nan Fung Tower
+
+173 Des Voeux Road Central
+
+Hong Kong
+
+    Telephone: (852) 2850 6336
+
+    Facsimile: (852) 2850 6086
+
+
+
+  If to the Holder:                                  China Angel Assets Management Limited
+
+P.O. Box 957
+
+Offshore Incorporations Centre
+
+Road Town
+
+Tortola
+
+British Virgin Islands
+
+
+
+
+
+  With copy to:                                
+
+
+
+
+
+Governing Law.  This Debenture shall be deemed to be made under and shall be construed in accordance with the laws of the State of Nevada without giving effect to the principals of conflict of laws thereof.  Each of the parties consents to the jurisdiction of the U.S. District Court sitting in the State of Nevada or the state courts of the State of Nevada sitting in Clark County, Nevada in connection with any dispute arising under this Debenture and hereby waives, to the maximum extent permitted by law, any objection, including any objection based on forum non conveniens to the bringing of any such proceeding in such jurisdictions.  As an alternative the Holder may choose to submit any dispute arising out of this transaction to binding arbitration in Hong Kong at the Hong Kong International Arbitration Centre under the rules and auspices of the International Arbitration Rules.
+
+ 
+
+Section 5.02 
+
+ 
+
+Section 5.03 Severability.  The invalidity of any of the provisions of this Debenture shall not invalidate or otherwise affect any of the other provisions of this Debenture, which shall remain in full force and effect.
+
+ 
+
+Section 5.04 Entire Agreement and Amendments.  This Debenture represents the entire agreement between the parties hereto with respect to the subject matter hereof and there are no representations, warranties or commitments, except as set forth herein.  This Debenture may be amended only by an instrument in writing executed by the parties hereto.
+
+ 
+
+Section 5.05 Counterparts.  This Debenture may be executed in multiple counterparts, each of which shall be an original, but all of which shall be deemed to constitute on instrument.
+
+ 
+
+IN WITNESS WHEREOF, with the intent to be legally bound hereby, the Company as executed this Debenture as of the date first written above.
+
+ 
+
+ 
+
+MAN SHING AGRICULTURAL HOLDINGS, INC.
+
+ 
+
+ 
+
+ 
+
+By:/s/ Eddie Cheung
+
+ 
+
+Name: Eddie Cheung
+
+ 
+
+Title:   Chief Executive Officer
+
+
+
+
+
+ 
+
+EXHIBIT “A”
+
+ 
+
+ 
+
+NOTICE OF CONVERSION
+
+ 
+
+ 
+
+(To be executed by the Holder in order to Convert the Debenture)
+
+ 
+
+
+
+TO:
+
+ 
+
+
+
+The undersigned hereby irrevocably elects to convert US$ of the principal amount of the above Debenture into Shares of Common Stock of Man Shing Agricultural Holdings, Inc., according to the conditions stated therein, as of the Conversion Date written below.
+
+ 
+
+Conversion Date:
+
+ 
+
+Applicable Conversion Price:
+
+ 
+
+Signature:
+
+ 
+
+Name:
+
+ 
+
+Address:
+
+ 
+
+Amount to be converted:
+
+US$                                                                                      
+
+Amount of Debenture unconverted:
+
+US$                                                                                      
+
+Conversion Price per share:
+
+US$                                                                                      
+
+Number of shares of Common Stock to be issued:
+
+ 
+
+Please issue the shares of Common Stock in the following name and to the following address:
+
+ 
+
+Issue to:
+
+ 
+
+Authorized Signature:
+
+ 
+
+Name:
+
+ 
+
+Title:
+
+ 
+
+Phone Number:
+
+ 
+
+Broker DTC Participant Code:
+
+ 
+
+Account Number:
+
+ 
+
+
+
+
+
+EXHIBIT B

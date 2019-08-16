@@ -1,0 +1,395 @@
+Exhibit 10.1
+
+[1]
+
+ST. PAUL SOFTWARE, INC.
+
+1999 EQUITY INCENTIVE PLAN
+
+     1. Purpose of the Plan. This St. Paul Software, Inc. 1999 Equity Incentive Plan adopted on this 12th day of May, 1999, is intended to enable officers and other key employees and consultants of the Company and its Subsidiaries to acquire or increase their ownership of common stock of the Company on reasonable terms. The opportunity so provided is intended to foster in participants an incentive to put forth maximum effort for the continued success and growth of the Company and its Subsidiaries, to aid in retaining individuals who put forth such efforts, and to assist in attracting the best available individuals to the Company and its Subsidiaries in the future.
+
+     2. Definitions. When used herein, the following terms shall have the meaning set forth below:
+
+     2.1 “Award” means an Option or a Restricted Stock Award.
+
+     2.2 “Award Agreement” means a written agreement in such form as may be, from time to time, hereafter approved by the Board, or the Committee if one has been appointed, which shall be duly executed by the Company and the Participant and which shall set forth the terms and conditions of an Award under the Plan.
+
+     2.3 “Board” means the Board of Directors of St. Paul Software, Inc.
+
+     2.4 “Change in Control” means a change in control of the Company of a nature that would be required to be reported in response to
+
+Item 6(e) of Schedule 14A of Regulation 14A promulgated under the Exchange Act (as in effect on the date the Plan is adopted by the Board), whether or not the Company is then subject to such reporting requirement; provided, that, without limitation, a Change in Control shall be deemed to have occurred if:
+
+     (a) any “person” (as defined in Sections 13(d) and 14(d) of the Exchange Act) other than an Exempt Person (an “Acquiring Person”) is or
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+becomes the “beneficial owner” (as defined in Rule 13d-3 under the Exchange Act), directly or indirectly, of securities of the Company representing forty percent (40%) or more of the combined voting power of the Company’s then outstanding securities, other than either in connection with a transaction or series of related transactions approved by the Board (which Board must include at least a majority who were Continuing Directors and which transaction or series of related transactions must have been approved by a majority of the Continuing Directors) or as the result of the reduction in the number of issued and outstanding Shares pursuant to a transaction or series of related transactions approved by the Board.
+
+     (b) any “person” (as defined in Sections 13(d) and 14(d) of the Exchange Act) other than an Exempt Person commences, or publicly announces an intent to commence, a tender or exchange offer, the consummation of which would result in such person becoming the “beneficial owner” (as defined in Rule 13d-3 under the Exchange Act), directly or indirectly, of securities of the Company representing forty percent (40%) or more of the combined voting power of the Company’s then outstanding securities;
+
+     (c) there shall cease to be a majority of the Board comprised of Continuing Directors; or
+
+     (d) (i) the shareholders of the Company approve a merger or consolidation of the Company with any other corporation, other than a merger or consolidation which would result in the voting securities of the Company outstanding immediately prior thereto continuing to represent more than eighty percent (80%) of the combined voting power of the voting securities of the Company or such surviving entity outstanding immediately after such merger or consolidation, or (ii) the shareholders of the Company approve a plan of complete
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+liquidation of the Company or an agreement for the sale or disposition by the Company of all or substantially all the Company’s assets.
+
+     2.5 “Code” means the Internal Revenue Code of 1986, as in effect at the time of reference, or any successor revenue code which may hereafter be adopted in lieu thereof, and reference to any specific provisions of the Code shall refer to the corresponding provisions of the Code as it may hereafter be amended or replaced.
+
+     2.6 “Committee” means the Compensation Committee of the Board or any other committee appointed by the Board which is invested by the Board with responsibility for the administration of the Plan.
+
+     2.7 “Company” means St. Paul Software, Inc.
+
+     2.8 “Continuing Director” means a director of the Company who is not an Acquiring Person or an affiliate or associate thereof or any of their representatives and who was either a director of the Company before any “person” (as defined in Sections 13(d) and 14(d) of the Exchange Act) became an Acquiring Person or whose nomination or election to the Board was recommended or approved by a majority of the then Continuing Directors.
+
+     2.9 “Employee Shareholder” means a Participant who is an employee of the Company or any of its Subsidiaries and who, at the time an Incentive Stock Option is granted owns, as defined in Section 424 of the Code, stock possessing more than ten percent (10%) of the total combined voting power of all classes of stock of: (a) the Company; or (b) if applicable, a Subsidiary or a Parent.
+
+     2.10 “ERISA” means the Participant Retirement Income Security Act of 1974, as in effect at the time of reference, or any successor law which may hereafter be adopted in lieu thereof, and any reference to any specific provisions of ERISA shall refer to the corresponding provisions of ERISA as it may hereafter be amended or replaced.
+
+     2.11 “Exchange Act” means the Securities Exchange Act of 1934, as in effect at the time of reference, or any successor law which may hereafter be adopted in lieu
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+thereof, and any reference to any specific provisions of the Exchange Act shall refer to the corresponding provisions of the Exchange Act as it may hereafter be amended or replaced.
+
+     2.12 “Exempt Person” means the Company, any Subsidiary, any employee benefit plan of the Company or any Subsidiary, any entity holding Shares for or pursuant to the terms of any such plan, any director of the Company holding office as of the close of business on the date the Plan is adopted by the Board, and any immediate family member of or person controlled by any such director.
+
+     2.13 “Fair Market Value” means with respect to the Shares, the fair market value determined in good faith by the Board, or the Committee if one has been appointed, in its discretion, which determination may, but need not, be based on (i) the advice of an independent financial advisor (which may be the Company’s regular outside auditors) or (ii) the last known price per Share paid by a purchaser in an arm’s length transaction; provided, however, that if there shall be a public market for the Shares, Fair Market Value shall mean (i) the closing price of the Shares on the principal stock exchange on which Shares are then traded or admitted to trading, on the last business day prior to the date on which the value is to be determined, (ii) if no sale takes place on such day on any such exchange, the average of the last reported closing bid and asked prices on such day as officially quoted on any such exchange, or (iii) if the Shares are not then listed or admitted to trading on any such exchange, the average of the last reported closing bid and asked prices on such day on the over-the-counter market. For purposes of (i) above, the National Association of Securities Dealers National Market System shall be deemed a principal stock exchange. If there shall be a public market for the Shares, and the foregoing references are unavailable or inapplicable, then the Fair Market Value shall be determined on the basis of the appropriate substitute public market price indicator as determined by the Board, or the Committee if one has been appointed, in its sole discretion.
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+     2.14 “Incentive Stock Option” means an Option intending to meet the requirements and containing the limitations and restrictions set forth in Section 422 of the Code.
+
+     2.15 “Non-Qualified Stock Option” means an Option other than an Incentive Stock Option.
+
+     2.16 “Option” means the right to purchase the number of Shares specified by the Board, or the Committee if one has been appointed, at a price and for a term fixed by the Board, or the Committee if one has been appointed, in accordance with the Plan, and subject to such other limitations and restrictions as the Plan and the Board or the Committee, as the case may be, may impose.
+
+     2.17 “Parent” means any corporation, other than the employer corporation, in an unbroken chain of corporations ending with the employer corporation if, at the time of the granting of the Option, each of the corporations other than the employer corporation owns stock possessing fifty percent (50%) or more of the total combined voting power of all classes of stock in one of the other corporations in such chain.
+
+     2.18 “Participants” means officers (including officers who are members of the Board) and other key employees and consultants of the Company or any of its Subsidiaries.
+
+     2.19 “Plan” means the St. Paul Software, Inc. 1999 Equity Incentive Plan.
+
+     2.20 “Regulation T” means Part 220, chapter II, title 12 of the Code of Federal Regulations, issued by the Board of Governors of the Federal Reserve System pursuant to the Exchange Act, as amended from time to time, or any successor regulation which may hereafter be adopted in lieu thereof.
+
+     2.21 “Restricted Stock Award Agreement” means an Award Agreement executed in connection with a Restricted Stock Award.
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+     2.22 “Restricted Stock Award” means the right to receive Shares, but subject to forfeiture and/or other restrictions set forth in the related Restricted Stock Award Agreement and the Plan.
+
+     2.23 “Rule 16b-3” means Rule 16b-3 of the General Rules and Regulations of the Securities and Exchange Commission as in effect at the time of reference, or any successor rules or regulations which may hereafter be adopted in lieu thereof, and any reference to any specific provisions of Rule 16b-3 shall refer to the corresponding provisions of Rule 16b-3 as it may hereafter be amended or replaced.
+
+     2.24 “Shares” means shares of the Company’s common stock, without par value, or, if by reason of the adjustment provisions contained herein, any rights under an Award under the Plan pertain to any other security, such other security.
+
+     2.25 “Subsidiary” or “Subsidiaries” means any corporation or corporations other than the employer corporation in an unbroken chain of corporations beginning with the employer corporation if each of the corporations other than the last corporation in the unbroken chain owns stock possessing fifty percent (50%) or more of the total combined voting power of all classes of stock in one of the other corporations in such chain.
+
+     2.26 “Successor” means the legal representative of the estate of a deceased Participant or the person or persons who shall acquire the right to exercise or receive an Award by bequest or inheritance or by reason of the death of the Participant.
+
+     2.27 “Term” means the period during which a particular Award may be exercised.
+
+     3. Stock Subject to the Plan. There will be reserved for use, upon the issuance, vesting or exercise of Awards to be granted from time to time under the Plan, an aggregate of Five Hundred Thousand (500,000) Shares, which Shares may be, in whole or in part, as the Board shall from time to time determine, authorized but unissued Shares, or issued Shares which shall have been reacquired by the Company. Any Shares subject to issuance upon exercise of Options but which are not issued because of a surrender, lapse, expiration, forfeiture or
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+termination of any such Option prior to issuance of the Shares shall once again be available for issuance in satisfaction of Awards. Similarly, any Shares issued pursuant to a Restricted Stock Award which are subsequently forfeited pursuant to the terms of the related Restricted Stock Award Agreement shall once again be available for issuance in satisfaction of Awards.
+
+     4. Administration of the Plan. The Board shall be invested with the responsibility for the administration of the Plan; provided, however, that the Board may appoint a Committee which shall be invested with the responsibility for the administration of the Plan; provided further, however, that at such time, if ever, that the Company becomes subject to the Exchange Act, the Board shall appoint a Committee, which shall consist of not less than two (2) outside directors as defined in Treasury Regulation 1.162-27 who shall also qualify as disinterested directors within the meaning of Rule 16b-3, which shall be invested with the responsibility for the administration of the Plan; provided further, however, that the failure to appoint a Committee satisfying the foregoing requirement shall not effect the validity of any Options granted under the Plan. Subject to the provisions of the Plan, the Committee shall have full authority, in its discretion, to determine the Participants to whom Awards shall be granted, the number of Shares to be covered by each of the Awards, and the terms of any such Award; to amend or cancel Awards (subject to Section 19 of the Plan); to accelerate the vesting of Awards; to require the cancellation or surrender of any previously granted awards under this Plan or any other plans of the Company as a condition to the granting of an Award; to interpret the Plan; to prescribe, amend and rescind rules and regulations relating to the Plan; and generally to interpret and determine any and all matters whatsoever relating to the administration of the Plan and the granting of Awards hereunder. The Board may from time to time appoint members to the Committee in substitution for or in addition to members previously appointed and may fill vacancies, however caused, in the Committee. The Committee shall select one of its members as its chairman and shall hold its meetings at such times and places as it shall deem advisable. A majority of its members shall constitute a quorum. Any action of the Committee may be taken by a written instrument signed by all of the members, and any action so taken shall be fully as
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+effective as if it had been taken by a vote of a majority of the members at a meeting duly called and held. The Committee shall make such rules and regulations for the conduct of its business as it shall deem advisable and shall appoint a Secretary who shall keep minutes of its meetings and records of all action taken in writing without a meeting. No member of the Committee shall be liable, in the absence of bad faith, for any act or omission with respect to his or her service on the Committee.
+
+     5. Participants to Whom Awards May Be Granted. Awards may be granted in each calendar year or portion thereof while the Plan is in effect to such of the Participants as the Board, or the Committee if one has been appointed, in its discretion, shall determine. In determining the Participants to whom Awards shall be granted and the number of Shares to be issued or subject to purchase or issuance under such Awards, the Board, or the Committee if one has been appointed, shall take into account the recommendations of the Company’s management as to the duties of the respective Participants, their present and potential contributions to the success of the Company and its Subsidiaries, and such other factors as the Board or the Committee, as the case may be, shall deem relevant in connection with accomplishing the purposes of the Plan; provided, however, that no Incentive Stock Options may be granted to a Participant who is not an employee of the Company or any of its Subsidiaries. If the Company becomes subject to the Exchange Act, no Participant shall receive Options and/or Restricted Stock Awards to acquire more than One Hundred Twenty Five Thousand (125,000) Shares in any one calendar year. No Award shall be granted to any member of the Board who is not also an officer or key employee or consultant of the Company or any Subsidiary.
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+     6. Stock Options.
+
+     6.1 Types of Options. Options granted under the Plan may be (i) Incentive Stock Options, (ii) Non-Qualified Stock Options or (iii) a combination of the foregoing. The Award Agreement shall designate whether an Option is an Incentive Stock Option or a Non-Qualified Stock Option and separate Award Agreements shall be issued for each type of Option when a combination of an Incentive Stock Option and a Non-Qualified Stock Option are granted on the same date to the same Participant. Any Option which is designated as a Non-Qualified Stock Option shall not be treated by the Company or the Participant to whom the Option is granted as an Incentive Stock Option for federal income tax purposes.
+
+     6.2 Option Price. The option price per Share of any Non-Qualified Stock Option granted under the Plan shall be the Fair Market Value of the Shares covered by the Option on the date the Option is granted unless the Board, or the Committee if one has been appointed, in its sole discretion, determines to set the option price at an amount less than or greater than the Fair Market Value of the Shares on such date. The option price per Share of any Incentive Stock Option granted under the Plan shall not be less than the Fair Market Value of the Shares covered by the Option on the date the Option is granted.
+
+     Notwithstanding anything herein to the contrary, the option price per Share of any Incentive Stock Option granted to an Employee Shareholder shall not be less than one hundred ten percent (110%) of the Fair Market Value of the Shares covered by the Option on the date the Option is granted.
+
+     6.3 Term of Options. Options granted hereunder shall be exercisable for a Term of not more than ten (10) years from the date of grant thereof, but shall be subject to earlier termination as hereinafter provided. Each Award Agreement issued hereunder shall specify the Term of the Option, which shall be determined by the Board, or the Committee if one has been appointed, in accordance with its discretionary authority hereunder.
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+     Notwithstanding anything herein to the contrary, if an Incentive Stock Option is granted to an Employee Shareholder, then such Incentive Stock Option shall not be exercisable more than five (5) years from the date of grant thereof, but shall be subject to earlier termination as hereinafter provided.
+
+     7. Limit on Fair Market Value of Incentive Stock Options. No Participant may be granted an Incentive Stock Option hereunder to the extent that the aggregate fair market value (such fair market value being determined as of the date of grant of the option in question) of the stock with respect to which incentive stock options are first exercisable by such Participant during any calendar year (under all such plans of the Participant’s employer corporation, its Parent, if any, and its Subsidiaries, if any) exceeds One Hundred Thousand Dollars ($100,000). For purposes of the preceding sentence, options shall be taken into account in the order in which they were granted. Any Option granted under the Plan which is intended to be an Incentive Stock Option, but which exceeds the limitation set forth in this Section 7, shall be a Non-Qualified Stock Option.
+
+     8. Restricted Stock Awards. Restricted Stock Awards granted under the Plan shall be subject to such terms and conditions as the Board, or the Committee if one has been appointed, in its discretion, determine and set forth in the related Restricted Stock Award Agreements. Restricted Stock Awards shall be granted in accordance with, and subject to, the provisions set forth below.
+
+     8.1 Issuance of Shares. Each Restricted Stock Award shall be evidenced by a Restricted Stock Award Agreement which shall set forth the number of Shares issuable under the Restricted Stock Award. Subject to the restrictions in Section 8.3 of the Plan, and subject further to such other restrictions or conditions established by the Board, or the Committee if one has been appointed, in its discretion, and set forth in the related Restricted Stock Award Agreement (such as requiring the Participant to pay an amount equal to the aggregate par value of the Shares to be issued thereunder), the number of Shares granted under a Restricted Stock Award shall be issued in the recipient
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+Participant’s name on the date of grant of such Restricted Stock Award or as soon as reasonably practicable thereafter.
+
+     8.2 Rights of Recipient Participants. Shares received pursuant to Restricted Stock Awards shall be duly issued or transferred to the Participant, and a certificate or certificates for such Shares shall be issued in the Participant’s name. Subject to the restrictions in Section 8.3 of the Plan, and subject further to such other restrictions or conditions established by the Board, or the Committee if one has been appointed, in its discretion, and set forth in the related Restricted Stock Award Agreement, the Participant shall thereupon be a shareholder with respect to all the Shares represented by such certificate or certificates and shall have all the rights of a shareholder with respect to such Shares, including the right to vote such Shares and to receive dividends and other distributions paid with respect to such Shares. In aid of the restrictions in Section 8.3 of the Plan and in the related Restricted Stock Award Agreement, the certificate or certificates for Shares awarded hereunder, together with a suitably executed stock power signed by such recipient Participant, shall be held by the Company in its control for the account of such Participant (i) until the restrictions in Section 8.3 of the Plan and in the related Restricted Stock Award Agreement lapse pursuant to the Plan or the Restricted Stock Award Agreement, at which time a certificate for the appropriate number of Shares (free of all restrictions imposed by the Plan or the Restricted Stock Award Agreement) shall be delivered to the Participant, or (ii) until such Shares are forfeited to the Company and cancelled as provided by the Plan or the Restricted Stock Award Agreement.
+
+     8.3 Restrictions. Except as otherwise determined by the Board, or the Committee, if one has been appointed, in its sole discretion, each Share issued pursuant to a Restricted Stock Award Agreement shall be subject, in addition to any other restrictions set forth in the related Restricted Stock Award Agreement, to the following restrictions until such restrictions have lapsed pursuant to Section 8.4 of the Plan or the related Restricted Stock Award Agreement:
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+     (a) Disposition. The Shares awarded to a Participant and held by the Company pursuant to Section 8.2 of the Plan, and the right to vote such Shares or receive dividends on such Shares, may not be sold, exchanged, transferred, pledged, hypothecated or otherwise disposed of; provided, however, that such Shares may be transferred upon the death of the Participant to the Participant’s Successor. Any transfer or purported transfer of such Shares in violation of the restrictions outlined in this Section 8.3 shall be null and void and shall result in the forfeiture of the Shares transferred or purportedly transferred to the Company without notice and without consideration.
+
+     (b) Forfeiture. The Shares awarded to a Participant and held by the Company pursuant to Section 8.2 of the Plan shall be forfeited to the Company without notice and without consideration therefor immediately upon the termination of the Participant’s employment with the Company and all Subsidiaries of the Company for any reason whatsoever.
+
+     8.4 Lapse of Restrictions. The restrictions set forth in Section 8.3 of the Plan on Shares issued under a Restricted Stock Award shall lapse on such terms as the Board, or the Committee if one has been appointed, in its sole discretion, shall determine and set forth in the related Restricted Stock Award Agreement, and certificates for the Shares held for the account of the Participant in accordance with Section 8.2 of the Plan hereof shall be appropriately distributed to the Participant as soon as reasonably practical thereafter.
+
+     9. Date of Grant. The date of grant of an Award granted hereunder shall be the date on which the Board, or the Committee if one has been appointed, acts in granting the Award.
+
+     10. Exercise of Rights Under Options.
+
+     10.1 Notice of Exercise. A Participant entitled to exercise an Option shall do so by delivery of a written notice to that effect specifying the number of Shares with respect to which the Option is being exercised and any other relevant information the
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+Board, or the Committee if one has been appointed, may require. The notice shall be accompanied by payment in full of the purchase price of any Shares to be purchased, which payment may be made in cash or, with the Board’s approval, or the Committee’s approval if one has been appointed (which in the case of Incentive Stock Options must be given at the time of grant), in Shares valued at Fair Market Value at the time of exercise or a combination thereof. No Shares shall be issued upon exercise of an Option until full payment has been made therefor. All notices or requests provided for herein shall be delivered to the Company’s President, or such other person as the Board, or the Committee if one has been appointed, may designate.
+
+     10.2 Cashless Exercise Procedures. At such time, if ever, that Shares are traded on the over-the-counter market or on any established securities market, the Company, in its sole discretion, may establish procedures whereby a Participant, subject to the requirements of Rule 16b-3, Regulation T, federal income tax laws, and other federal, state and local tax and securities laws, can exercise an Option or a portion thereof without making a direct payment of the option price to the Company; provided, however, that these cashless exercise procedures shall not apply to Incentive Stock Options which are outstanding on the date the Company establishes such procedures unless the application of such procedures to such Options is permitted pursuant to the Code and the regulations thereunder without affecting the Options’ qualification under Code Section 422 as Incentive Stock Options. If the Company so elects to establish a cashless exercise program, the Company shall determine, in its sole discretion, and from time to time, such administrative procedures and policies as it deems appropriate and such procedures and policies shall be binding on any Participant wishing to utilize the cashless exercise program.
+
+     11. Other Award Terms and Conditions. Each Award or each agreement setting forth an Award shall contain such other terms and conditions not inconsistent herewith as shall be approved by the Board, or the Committee if one has been appointed.
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+     12. Rights of Award Holder. The holder of an Award shall not have any of the rights of a shareholder with respect to the Shares subject to purchase or receipt under the Award, except that (a) an Award holder’s rights with respect to a Restricted Stock Award shall be as prescribed in Section 8.2 and (b) shareholder rights with respect to any other Award shall arise at the time and to the extent that one or more certificates for such Shares shall be delivered to the holder upon the due exercise or grant of the Award.
+
+     13. Nontransferability of Awards. An Award shall not be transferable other than: (a) by will or the laws of descent and distribution, and an Award subject to exercise may be exercised, during the lifetime of the holder of the Award, only by the holder or in the event of death, the holder’s Successor, or in the event of disability, the holder’s personal representative, or (b) pursuant to a qualified domestic relations order, as defined in the Code or ERISA or the rules thereunder; provided, however, that an Incentive Stock Option may not be transferred pursuant to a qualified domestic relations order unless such transfer is otherwise permitted pursuant to the Code and the regulations thereunder without affecting the Option’s qualification under Code Section 422 as an Incentive Stock Option.
+
+     14. Adjustments Upon Changes in Capitalization. In the event of changes in all of the outstanding Shares by reason of stock dividends, stock splits, reclassifications, recapitalizations, mergers, consolidations, combinations, or exchanges of shares, separations, reorganizations or liquidations, or similar events, or in the event of extraordinary cash or non-cash dividends being declared with respect to the Shares, or similar transactions or events, the number and class of Shares available under the Plan in the aggregate, the number and class of Shares subject to Awards theretofore granted, applicable purchase prices and all other applicable provisions, shall, subject to the provisions of the Plan, be equitably adjusted by the Board, or the Committee if one has been appointed (which adjustment may, but need not, include payment to the holder of an Option, in cash or in shares, in an amount equal to the difference between the price at which such Option may be exercised and the then current fair market value of the Shares subject to such Option as equitably determined by the Board or the Committee, as the case may
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+be). The foregoing adjustment and the manner of application of the foregoing provisions shall be determined by the Board, or the Committee if one has been appointed, in its sole discretion; provided, however, that to extent applicable, any adjustment to an Incentive Stock Option shall be made in a manner consistent with Section 424 of the Code. Any such adjustment may provide for the elimination of any fractional share which might otherwise become subject to an Award.
+
+     15. Change in Control. Notwithstanding anything to the contrary in the Plan or any Award Agreement, in the case of a Change in Control of the Company:
+
+     (a) If the Change in Control of the Company is described in Section 2.4(d)(i) of this Plan, the Board, or the Committee if one has been appointed, shall use its best efforts to cause the acquiring Company to assume all outstanding Awards or to replace all outstanding Awards with comparable Awards that neither enlarge nor diminish the rights thereunder;
+
+     (b) The Board, or the Committee if one has been appointed, may, in its discretion, taking into account the purposes of this Plan, determine, on a case by case basis, that each Award granted under the Plan shall, subject to the provisions in paragraphs (c) and (d) below, terminate thirty (30) days after the occurrence of such Change in Control in the event of a Change in Control described in Section 2.4(a),
+
+2.4(b) or 2.4(c) of this Plan, or upon the closing of the corporate transaction, the approval of which resulted in the Change in Control pursuant to Section 2.4(d) of this Plan;
+
+     (c) In the event of either (i) a Change in Control of the Company described in Section 2.4(d) of the Plan pursuant to which the acquiring corporation does not either assume, or issue replacement awards in lieu of, all outstanding Awards or (ii) a decision of the Board, or the Committee if one has been appointed, to terminate an Option as provided in Section 15(b) above, an Option holder shall have the right, commencing at least five (5) days prior to such Change in Control and subject to any other limitation on the exercise of such Option in effect on the date of exercise (and, in the case of a Change in Control described in Section 2.4(d) of this Plan, conditioned upon the closing of the
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+corporate transaction, the approval of which constituted such Change in Control) to immediately exercise any Options in full, without regard to any vesting limitations, to the extent they shall not have been theretofore exercised; and
+
+     (d) In the event of either (i) a Change in Control of the Company described in Section 2.4(d) of the Plan pursuant to which the acquiring corporation does not assume, or issue replacement awards in lieu of, Restricted Stock Awards or (ii) a decision of the Board, or the Committee if one has been appointed, to terminate a Restricted Stock Award as provided in Section 15(b) above, all restrictions on such Restricted Stock Award shall lapse immediately prior to the consummation of the corporate transaction, the approval of which resulted in a Change in Control pursuant to Section 2.4(d) of the Plan or immediately following the Board’s or Committee’s decision, as the case may be, to terminate a Restricted Stock Award pursuant to Section 15(b) hereof and certificates for the affected Shares shall be appropriately distributed.
+
+     16. Forms of Awards. Nothing contained in the Plan nor any resolution adopted or to be adopted by the Board or by the shareholders of the Company shall constitute the granting of any Award. An Award shall be granted hereunder only by action taken by the Board, or the Committee if one has been appointed, in granting an Award. Whenever the Board, or the Committee if one has been appointed, shall designate a Participant for the receipt of an Award, the Company’s Secretary, or such other person as the Board or the Committee, as the case may be, may designate, shall forthwith send notice thereof to the Participant, in such form as the Board or the Committee, as the case may be, shall approve, stating the number of Shares subject to the Award, its Term, and the other terms and conditions thereof. The notice shall be accompanied by a written Award Agreement in such form as may from time to time hereafter be approved by the Board, or the Committee if one has been appointed, which shall have been duly executed by or on behalf of the Company. If the surrender of previously issued Awards is made a condition of the grant, the notice shall set forth the pertinent details of such condition. Execution by the Participant to whom such Award is granted of said Award Agreement in
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+accordance with the provisions set forth in this Plan shall be a condition precedent to the exercise or receipt of any Award.
+
+     17. Taxes.
+
+     17.1 Right to Withhold Required Taxes. The Company shall have the right to require a person entitled to receive Shares pursuant to the receipt, vesting or exercise of an Award under the Plan to pay the Company the amount of any taxes which the Company is or will be required to withhold with respect to such Shares before the certificate for such Shares is delivered pursuant to the Award. Furthermore, the Company may elect to deduct such taxes from any other amounts then payable in cash or in shares or from any other amounts payable any time thereafter to the Participant. If the Participant disposes of Shares acquired pursuant to an Incentive Stock Option in any transaction considered to be a disqualifying disposition under Sections 421 and 422 of the Code, the Participant shall notify the Company of such transfer and the Company shall have the right to deduct any taxes required by law to be withheld from any amounts otherwise payable then or at any time thereafter to the Participant.
+
+     17.2 Participant Election to Withhold Shares. Subject to Board approval, or Committee approval if one has been appointed (which in the case of Incentive Stock Options must be given at the time of grant), a Participant may elect to satisfy the tax liability with respect to the exercise of an Option by having the Company withhold Shares otherwise issuable upon exercise of the Option; provided, however, that if a Participant is subject to Section 16(b) of the Exchange Act at the time the Option is exercised, such election must satisfy the requirements of Rule 16b-3.
+
+     18. Termination of the Plan. The Plan shall terminate ten (10) years from the date hereof, and an Award shall not be granted under the Plan after that date although the terms of any Awards may be amended at any date prior to the end of its Term in accordance with the Plan. Any Awards outstanding at the time of termination of the Plan shall continue in full force and effect according to the terms and conditions of the Award and this Plan.
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+     19. Amendment of the Plan. The Plan may be amended at any time and from time to time by the Board, but no amendment without the approval of the shareholders of the Company shall be made if shareholder approval under Section 422 of the Code or, if the Company is subject to the Exchange Act at the time of such amendment, under Rule 16b-3, or Code Section 162(m) would be required. Notwithstanding the discretionary authority granted to the Board, or the Committee, if one has been appointed, in Section 4 of the Plan, no amendment of the Plan or any Award granted under the Plan shall impair any of the rights of any holder, without the holder’s consent, under any Award theretofore granted under the Plan.
+
+     20. Delivery of Shares on Exercise or Grant. Delivery of certificates for Shares pursuant to the grant or exercise of an Award may be postponed by the Company for such period as may be required for it with reasonable diligence to comply with any applicable requirements of any federal, state or local law or regulation or any administrative or quasi-administrative requirement applicable to the sale, issuance, distribution or delivery of such Shares. The Board, or the Committee if one has been appointed, may, in its sole discretion, require a Participant to furnish the Company with appropriate representations and a written investment letter prior to the exercise of an Award or the delivery of any Shares pursuant to an Award.
+
+     21. Fees and Costs. The Company shall pay all original issue taxes on the issuance or exercise of any Award granted under the Plan and all other fees and expenses necessarily incurred by the Company in connection therewith.
+
+     22. Effectiveness of the Plan. The Plan shall become effective when approved by the Board. The Plan shall thereafter be submitted to the Company’s shareholders for approval and unless the Plan is approved by the affirmative votes of the holders of shares having a majority of the voting power of all shares represented at a meeting duly held in accordance with Minnesota law within twelve (12) months after having been approved by the Board, the Plan and all Awards made under it shall be null and void and of no force and effect. In aid of this provision, any Awards granted prior to the approval of the Plan by the Company’s shareholders shall be conditioned upon the receipt of such approval.
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+     23. Other Provisions. As used in the Plan, and in Awards and other documents prepared in implementation of the Plan, references to the masculine pronoun shall be deemed to refer to the feminine or neuter, and references in the singular or the plural shall refer to the plural or the singular, as the identity of the person or persons or entity or entities being referred to may require. The captions used in the Plan and in such Awards and other documents prepared in implementation of the Plan are for convenience only and shall not affect the meaning of any provision hereof or thereof.
+
+     24. Minnesota Law to Govern. This Plan shall be governed by and construed in accordance with the laws of the State of Minnesota.

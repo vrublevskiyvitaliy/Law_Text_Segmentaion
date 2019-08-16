@@ -1,0 +1,189 @@
+Exhibit 10.2
+
+FORM OF INDEMNIFICATION AGREEMENT
+
+THIS INDEMNIFICATION AGREEMENT (this “Agreement”) is made as of                     , 2009, by and between Daqo New Energy Corp., an exempted company duly incorporated and validly existing under the law of the Cayman Islands (the “Company”), and                      (the “Indemnitee”), a director of the Company.
+
+WHEREAS, the Indemnitee has agreed to serve as a director of the Company and in such capacity will render valuable services to the Company; and
+
+WHEREAS, in order to induce and encourage highly experienced and capable persons such as the Indemnitee to serve as directors of the Company, the board of directors of the Company (the “Board of Directors”) has determined that this Agreement is not only reasonable and prudent, but necessary to promote and ensure the best interests of the Company and its shareholders;
+
+NOW, THEREFORE, in consideration of the premises and mutual agreements hereinafter set forth, and other good and valuable consideration, including, without limitation, the service of the Indemnitee, the receipt of which hereby is acknowledged, and in order to induce the Indemnitee to serve as a director of the Company, the Company and the Indemnitee hereby agree as follows:
+
+1. Definitions. As used in this Agreement:
+
+(a) “Change in Control” shall mean a change in control of the Company of a nature that would be required to be reported in response to Item 6(e) of Schedule 14A of Regulation 14A (or in response to any similar item on any similar or successor schedule or form) promulgated under the United States Securities Exchange Act of 1934, as amended, and the rules and regulations promulgated thereunder (collectively, the “Act”), whether or not the Company is then subject to such reporting requirement; provided, however, that, without limitation, such a Change in Control shall be deemed to have occurred (irrespective of the applicability of the initial clause of this definition) if (i) any “person” (as such term is used in Sections 13(d) and 14(d) of the Act, but excluding any trustee or other fiduciary holding securities pursuant to an employee benefit or welfare plan or employee share plan of the Company or any subsidiary of the Company, or any entity organized, appointed, established or holding securities of the Company with voting power for or pursuant to the terms of any such plan) is or becomes the “beneficial owner” (as defined in Rule 13d-3 under the Act), directly or indirectly, of securities of the Company representing 20% or more of the combined voting power of the Company’s then outstanding securities without the prior approval of at least two-thirds of the Continuing Directors (as defined below) in office immediately prior to such person’s attaining such interest; (ii) the Company is a party to a merger, consolidation, scheme of arrangement, sale of assets or other reorganization, or a proxy contest, as a consequence of which Continuing Directors in office immediately prior to such transaction or event constitute less than a majority of the Board of Directors of the Company (or any successor entity) thereafter; or (iii) during any period of two (2) consecutive years, individuals who at the beginning of such period constituted the Board of Directors of the Company (including for this purpose any new director whose election or nomination for election by the Company’s shareholders was approved by a vote of at least two-thirds of the directors then still in office who were directors at the beginning of such period) (such directors being referred to herein as “Continuing Directors”) cease for any reason to constitute at least a majority of the Board of Directors of the Company.
+
+ 
+
+- 1 -
+
+
+
+(b) “Disinterested Director” with respect to any request by the Indemnitee for indemnification or advancement of expenses hereunder shall mean a director of the Company who neither is nor was a party to the Proceeding (as defined below) in respect of which indemnification or advancement is being sought by the Indemnitee.
+
+(c) The term “Expenses” shall mean, without limitation, expenses of Proceedings, including attorneys’ fees, disbursements and retainers, accounting and witness fees, expenses related to the preparation or service as a witness, travel and deposition costs, expenses of investigations, judicial or administrative proceedings and appeals, amounts paid in settlement of a Proceeding by or on behalf of the Indemnitee, costs of attachment or similar bonds, any expenses of attempting to establish or establishing a right to indemnification or advancement of expenses, under this Agreement, the Company’s Memorandum of Association and Articles of Association as currently in effect (the “Articles”), applicable law or otherwise, and reasonable compensation for time spent by the Indemnitee in connection with the investigation, defense or appeal of a Proceeding or action for indemnification for which the Indemnitee is not otherwise compensated by the Company or any third party. The term “Expenses” shall not include the amount of judgments, fines, interest or penalties, or excise taxes assessed with respect to any employee benefit or welfare plan, which are actually levied against or sustained by the Indemnitee to the extent sustained after final adjudication.
+
+(d) The term “Independent Legal Counsel” shall mean any firm of attorneys reasonably selected by the Board of Directors of the Company, so long as such firm has not represented the Company, the Company’s subsidiaries or affiliates, the Indemnitee, any entity controlled by the Indemnitee, or any party adverse to the Company, within the preceding five (5) years. Notwithstanding the foregoing, the term “Independent Legal Counsel” shall not include any person who, under applicable standards of professional conduct then prevailing, would have a conflict of interest in representing either the Company or the Indemnitee in an action to determine the Indemnitee’s right to indemnification or advancement of expenses under this Agreement, the Company’s Articles, applicable law or otherwise.
+
+(e) The term “Proceeding” shall mean any threatened, pending or completed action, suit, arbitration, alternate dispute resolution mechanism, or any other proceeding (including, without limitation, an appeal therefrom), formal or informal, whether brought in the name of the Company or otherwise, whether of a civil, criminal, administrative or investigative nature, and whether by, in or involving a court or an administrative, other governmental or private entity or body (including, without limitation, an investigation by the Company or its Board of Directors), by reason of (i) the fact that the Indemnitee is or was a director of the Company, or is or was serving at the request of the Company as an agent of another enterprise, whether or not the Indemnitee is serving in such capacity at the time any liability or expense is incurred for which indemnification or reimbursement is to be provided under this Agreement, (ii) any actual or alleged act or omission or neglect or breach of duty, including, without limitation, any actual or alleged error or misstatement or misleading statement, which the Indemnitee commits or suffers while acting in any such capacity, or (iii) the Indemnitee attempting to establish or establishing a right to indemnification or advancement of expenses pursuant to this Agreement, the Company’s Articles, applicable law or otherwise.
+
+ 
+
+- 2 -
+
+
+
+(f) The phrase “serving at the request of the Company as an agent of another enterprise” or any similar terminology shall mean, unless the context otherwise requires, serving at the request of the Company as a director, officer, employee or agent of another corporation, partnership, joint venture, limited liability company, trust, employee benefit or welfare plan or other enterprise, foreign or domestic. The phrase “serving at the request of the Company” shall include, without limitation, any service as a director of the Company which imposes duties on, or involves services by, such director with respect to the Company or any of the Company’s subsidiaries, affiliates, employee benefit or welfare plans, such plan’s participants or beneficiaries or any other enterprise, foreign or domestic. In the event that the Indemnitee shall be a director, officer, employee or agent of another corporation, partnership, joint venture, limited liability company, trust, employee benefit or welfare plan or other enterprise, foreign or domestic, 50% or more of the ordinary shares, combined voting power or total equity interest of which is owned by the Company or any subsidiary or affiliate thereof, then it shall be presumed conclusively that the Indemnitee is so acting at the request of the Company.
+
+2. Services by the Indemnitee. The Indemnitee agrees to serve as a director of the Company under the terms of the Indemnitee’s agreement with the Company for so long as the Indemnitee is duly elected and qualified, appointed or until such time as the Indemnitee tenders a resignation in writing or is removed as a director; provided, however, that the Indemnitee may at any time and for any reason resign from such position (subject to any other contractual obligation or other obligation imposed by operation of law).
+
+3. Proceeding Other Than a Proceeding By or In the Right of the Company. The Company shall indemnify the Indemnitee if the Indemnitee is a party to or threatened to be made a party to or is otherwise involved in any Proceeding (other than a Proceeding by or in the right of the Company), by reason of the fact that the Indemnitee is or was a director of the Company, or is or was serving at the request of the Company as an agent of another enterprise, against all Expenses, judgments, fines, interest or penalties, and excise taxes assessed with respect to any employee benefit or welfare plan, which are actually and reasonably incurred by the Indemnitee in connection with such a Proceeding, to the fullest extent permitted by applicable law; provided, however, that any settlement of a Proceeding must be approved in advance in writing by the Company (which approval shall not be unreasonably withheld).
+
+4. Proceedings By or In the Right of the Company. The Company shall indemnify the Indemnitee if the Indemnitee is a party to or threatened to be made a party to or is otherwise involved in any Proceeding by or in the right of the Company to procure a judgment in its favor by reason of the fact that the Indemnitee is or was a director of the Company, or is or was serving at the request of the Company as an agent of another enterprise, against all Expenses, judgments, fines, interest or penalties, and excise taxes assessed with respect to any employee benefit or welfare plan, which are actually and reasonably incurred by the Indemnitee in connection with the defense or settlement of such a Proceeding, to the fullest extent permitted by applicable law.
+
+ 
+
+- 3 -
+
+
+
+5. Indemnification for Costs, Charges and Expenses of Witness or Successful Party. Notwithstanding any other provision of this Agreement (except as set forth in subparagraph 9(a) hereof), and without a requirement for determination as required by Paragraph 8 hereof, to the extent that the Indemnitee (a) has prepared to serve or has served as a witness in any Proceeding in any way relating to (i) the Company or any of the Company’s subsidiaries, affiliates, employee benefit or welfare plans or such plan’s participants or beneficiaries or (ii) anything done or not done by the Indemnitee as a director of the Company or in connection with serving at the request of the Company as an agent of another enterprise, or (b) has been successful in defense of any Proceeding or in defense of any claim, issue or matter therein, on the merits or otherwise, including the dismissal of a Proceeding without prejudice or the settlement of a Proceeding without an admission of liability, the Indemnitee shall be indemnified against all Expenses actually and reasonably incurred by the Indemnitee in connection therewith to the fullest extent permitted by applicable law.
+
+6. Partial Indemnification. If the Indemnitee is entitled under any provision of this Agreement to indemnification by the Company for a portion of the Expenses, judgments, fines, interest or penalties, or excise taxes assessed with respect to any employee benefit or welfare plan, which are actually and reasonably incurred by the Indemnitee in the investigation, defense, appeal or settlement of any Proceeding, but not, however, for the total amount of the Indemnitee’s Expenses, judgments, fines, interest or penalties, or excise taxes assessed with respect to any employee benefit or welfare plan, then the Company shall nevertheless indemnify the Indemnitee for the portion of such Expenses, judgments, fines, interest penalties or excise taxes to which the Indemnitee is entitled.
+
+7. Advancement of Expenses. The Expenses incurred by the Indemnitee in any Proceeding shall be paid promptly by the Company in advance of the final disposition of the Proceeding at the written request of the Indemnitee to the fullest extent permitted by applicable law; provided, however, that the Indemnitee shall set forth in such request reasonable evidence that such Expenses have been incurred by the Indemnitee in connection with such Proceeding, a statement that such Expenses do not relate to any matter described in subparagraph 9(a) of this Agreement, and an undertaking in writing to repay any advances if it is ultimately determined as provided in subparagraph 8(b) of this Agreement that the Indemnitee is not entitled to indemnification under this Agreement.
+
+8. Indemnification Procedure; Determination of Right to Indemnification.
+
+(a) Promptly after receipt by the Indemnitee of notice of the commencement of any Proceeding, the Indemnitee shall, if a claim for indemnification or advancement of Expenses in respect thereof is to be made against the Company under this Agreement, notify the Company of the commencement thereof in writing. The omission to so notify the Company will not relieve the Company from any liability which the Company may have to the Indemnitee under this Agreement unless the Company shall have lost significant substantive or procedural rights with respect to the defense of any Proceeding as a result of such omission to so notify.
+
+ 
+
+- 4 -
+
+
+
+(b) The Indemnitee shall be conclusively presumed to have met the relevant standards of conduct, if any, as defined by applicable law, for indemnification pursuant to this Agreement and shall be absolutely entitled to such indemnification, unless a determination is made that the Indemnitee has not met such standards by (i) the Board of Directors by a majority vote of a quorum thereof consisting of Disinterested Directors, (ii) the shareholders of the Company by majority vote of a quorum thereof consisting of shareholders who are not parties to the Proceeding due to which a claim for indemnification is made under this Agreement, (iii) Independent Legal Counsel as set forth in a written opinion (it being understood that such Independent Legal Counsel shall make such determination only if the quorum of Disinterested Directors referred to in clause (i) of this subparagraph 8(b) is not obtainable or if the Board of Directors of the Company by a majority vote of a quorum thereof consisting of Disinterested Directors so directs), or (iv) a court of competent jurisdiction; provided, however, that if a Change of Control shall have occurred and the Indemnitee so requests in writing, such determination shall be made only by a court of competent jurisdiction.
+
+(c) If a claim for indemnification or advancement of Expenses under this Agreement is not paid by the Company within thirty (30) days after receipt by the Company of written notice thereof, the rights provided by this Agreement shall be enforceable by the Indemnitee in any court of competent jurisdiction. Such judicial proceeding shall be made de novo. The burden of proving that indemnification or advances are not appropriate shall be on the Company. Neither the failure of the directors or shareholders of the Company or Independent Legal Counsel to have made a determination prior to the commencement of such action that indemnification or advancement of Expenses is proper in the circumstances because the Indemnitee has met the applicable standard of conduct, if any, nor an actual determination by the directors or shareholders of the Company or Independent Legal Counsel that the Indemnitee has not met the applicable standard of conduct shall be a defense to an action by the Indemnitee or create a presumption for the purpose of such an action that the Indemnitee has not met the applicable standard of conduct. The termination of any Proceeding by judgment, order, settlement or conviction, or upon a plea of nolo contendere or its equivalent, shall not, of itself (i) create a presumption that the Indemnitee did not act in good faith and in a manner which he reasonably believed to be in the best interests of the Company and/or its shareholders, and, with respect to any criminal Proceeding, that the Indemnitee had reasonable cause to believe that his conduct was unlawful or (ii) otherwise adversely affect the rights of the Indemnitee to indemnification or advancement of Expenses under this Agreement, except as may be provided herein. The Company further agrees to stipulate in any such judicial proceeding that the Company is bound by all the provisions of this Agreement and is precluded from making any assertion to the contrary.
+
+(d) If a court of competent jurisdiction shall determine that the Indemnitee is entitled to any indemnification or advancement of Expenses hereunder, the Company shall pay all Expenses actually and reasonably incurred by the Indemnitee in connection with such adjudication (including, but not limited to, any appellate proceedings). The Indemnitee’s Expenses incurred in connection with any Proceeding concerning the Indemnitee’s right to indemnification or advancement of Expenses in whole or in part pursuant to this Agreement shall also be indemnified by the Company, regardless of the outcome of such a Proceeding, to the fullest extent permitted by applicable law and the Company’s Articles.
+
+ 
+
+- 5 -
+
+
+
+(e) With respect to any Proceeding for which indemnification or advancement of Expenses is requested, the Company will be entitled to participate therein at its own expense and, except as otherwise provided below, to the extent that it may wish, the Company may assume the defense thereof, with counsel reasonably satisfactory to the Indemnitee. After notice from the Company to the Indemnitee of its election to assume the defense of a Proceeding, the Company will not be liable to the Indemnitee under this Agreement for any Expenses subsequently incurred by the Indemnitee in connection with the defense thereof, other than as provided below. The Company shall not settle any Proceeding in any manner which would impose any penalty or limitation on the Indemnitee without the Indemnitee’s written consent. The Indemnitee shall have the right to employ his own counsel in any Proceeding, but the fees and expenses of such counsel incurred after notice from the Company of its assumption of the defense of the Proceeding shall be at the expense of the Indemnitee, unless (i) the employment of counsel by the Indemnitee has been authorized by the Company, (ii) the Indemnitee shall have reasonably concluded that there may be a conflict of interest between the Company and the Indemnitee in the conduct of the defense of a Proceeding, or (iii) the Company shall not in fact have employed counsel to assume the defense of a proceeding, in each of which cases the fees and expenses of the Indemnitee’s counsel shall be advanced by the Company. The Company shall not be entitled to assume the defense of any Proceeding brought by or on behalf of the Company or as to which the Indemnitee has reasonably concluded that there may be a conflict of interest between the Company and the Indemnitee.
+
+9. Limitations on Indemnification. No payments pursuant to this Agreement shall be made by the Company:
+
+(a) To indemnify or advance funds to the Indemnitee for Expenses with respect to (i) Proceedings initiated or brought voluntarily by the Indemnitee and not by way of defense, except with respect to Proceedings brought to establish or enforce a right to indemnification under this Agreement or any other statute or law or otherwise as required under applicable law or (ii) Expenses incurred by the Indemnitee in connection with preparing to serve or serving, prior to a Change in Control, as a witness in cooperation with any party or entity who or which has threatened or commenced any action or proceeding against the Company, or any director, officer, employee, trustee, agent, representative, subsidiary, parent corporation or affiliate of the Company, but such indemnification or advancement of Expenses in each such case may be provided by the Company if the Board of Directors finds it to be appropriate;
+
+(b) To indemnify the Indemnitee for any Expenses, judgments, fines, interest or penalties, or excise taxes assessed with respect to any employee benefit or welfare plan, and sustained in any Proceeding for which payment is actually made to the Indemnitee under a valid and collectible insurance policy, except in respect of any excess beyond the amount of payment under such insurance;
+
+(c) To indemnify the Indemnitee for any Expenses, judgments, fines, expenses or penalties sustained in any Proceeding for an accounting of profits made from the purchase or sale by the Indemnitee of securities of the Company pursuant to the provisions of Section 16(b) of the Act or similar provisions of any foreign or United States federal, state or local statute or regulation;
+
+ 
+
+- 6 -
+
+
+
+(d) To indemnify the Indemnitee for any Expenses, judgments, fines, interest or penalties, or excise taxes assessed with respect to any employee benefit or welfare plan, for which the Indemnitee is indemnified by the Company otherwise than pursuant to this Agreement;
+
+(e) To indemnify the Indemnitee for any Expenses (including without limitation any Expenses relating to a Proceeding attempting to enforce this Agreement), judgments, fines, interest or penalties, or excise taxes assessed with respect to any employee benefit or welfare plan, on account of the Indemnitee’s conduct if such conduct shall be finally adjudged to have been knowingly fraudulent, deliberately dishonest or willful misconduct, including, without limitation, breach of the duty of loyalty; or
+
+(f) If a court of competent jurisdiction finally determines that any indemnification hereunder is unlawful.
+
+10. Continuation of Indemnification. All agreements and obligations of the Company contained herein shall continue during the period that the Indemnitee is a director of the Company (or is or was serving at the request of the Company as an agent of another enterprise, foreign or domestic) and shall continue thereafter so long as the Indemnitee shall be subject to any possible Proceeding by reason of the fact that the Indemnitee was a director of the Company or serving in any other capacity referred to in this Paragraph 10.
+
+11. Indemnification Hereunder Not Exclusive. The indemnification provided by this Agreement shall not be deemed to be exclusive of any other rights to which the Indemnitee may be entitled under the Company’s Articles, any agreement, vote of shareholders or vote of Disinterested Directors, provisions of applicable law, or otherwise, both as to action or omission in the Indemnitee’s official capacity and as to action or omission in another capacity on behalf of the Company while holding such office.
+
+12. Successors and Assigns.
+
+(a) This Agreement shall be binding upon, and shall inure to the benefit of, the Indemnitee and the Indemnitee’s heirs, executors, administrators and assigns, whether or not the Indemnitee has ceased to be a director, and the Company and its successors and assigns. Upon the sale of all or substantially all of the business, assets or share capital of the Company to, or upon the merger of the Company into or with, any corporation, partnership, joint venture, trust or other person, this Agreement shall inure to the benefit of and be binding upon both the Indemnitee and such purchaser or successor person. Subject to the foregoing, this Agreement may not be assigned by either party without the prior written consent of the other party hereto.
+
+(b) If the Indemnitee is deceased and is entitled to indemnification under any provision of this Agreement, the Company shall indemnify the Indemnitee’s estate and the Indemnitee’s spouse, heirs, executors, administrators and assigns against, and the Company shall, and does hereby agree to assume, any and all Expenses actually and reasonably incurred by or for the Indemnitee or the Indemnitee’s estate, in connection with the investigation, defense, appeal or settlement of any Proceeding. Further, when requested in writing by the spouse of the Indemnitee, and/or the Indemnitee’s heirs, executors, administrators and assigns, the Company shall provide appropriate evidence of the Company’s agreement set out herein to indemnify the Indemnitee against and to itself assume such Expenses.
+
+ 
+
+- 7 -
+
+
+
+13. Subrogation. In the event of payment under this Agreement, the Company shall be subrogated to the extent of such payment to all of the rights of recovery of the Indemnitee, who shall execute all documents required and shall do all acts that may be necessary to secure such rights and to enable the Company effectively to bring suit to enforce such rights.
+
+14. Severability. Each and every paragraph, sentence, term and provision of this Agreement is separate and distinct so that if any paragraph, sentence, term or provision thereof shall be held to be invalid, unlawful or unenforceable for any reason, such invalidity, unlawfulness or unenforceability shall not affect the validity, unlawfulness or enforceability of any other paragraph, sentence, term or provision hereof. To the extent required, any paragraph, sentence, term or provision of this Agreement may be modified by a court of competent jurisdiction to preserve its validity and to provide the Indemnitee with the broadest possible indemnification permitted under applicable law. The Company’s inability, pursuant to a court order or decision, to perform its obligations under this Agreement shall not constitute a breach of this Agreement.
+
+15. Savings Clause. If this Agreement or any paragraph, sentence, term or provision hereof is invalidated on any ground by any court of competent jurisdiction, the Company shall nevertheless indemnify the Indemnitee as to any Expenses, judgments, fines, interest or penalties, or excise taxes assessed with respect to any employee benefit or welfare plan, which are incurred with respect to any Proceeding to the fullest extent permitted by any (a) applicable paragraph, sentence, term or provision of this Agreement that has not been invalidated or (b) applicable law.
+
+16. Interpretation; Governing Law. This Agreement shall be construed as a whole and in accordance with its fair meaning and any ambiguities shall not be construed for or against either party. Headings are for convenience only and shall not be used in construing meaning. This Agreement shall be governed and interpreted in accordance with the laws of the State of New York without regard to the conflict of laws principles thereof.
+
+17. Amendments. No amendment, waiver, modification, termination or cancellation of this Agreement shall be effective unless in writing signed by the party against whom enforcement is sought. The indemnification rights afforded to the Indemnitee hereby are contract rights and may not be diminished, eliminated or otherwise affected by amendments to the Company’s Articles, or by other agreements, including directors’ and officers’ liability insurance policies, of the Company.
+
+18. Counterparts. This Agreement may be executed in one or more counterparts, all of which shall be considered one and the same agreement and shall become effective when one or more counterparts have been signed by each party and delivered to the other.
+
+19. Notices. Any notice required to be given under this Agreement shall be directed to [                                        ], and to the Indemnitee at [                                        ] or to such other address as either shall designate to the other in writing.
+
+[The remainder of this page is intentionally left blank.]
+
+ 
+
+- 8 -
+
+
+
+IN WITNESS WHEREOF, the parties have executed this Indemnification Agreement as of the date first written above.
+
+ 
+
+
+
+
+
+
+
+INDEMNITEE
+
+
+
+ 
+
+
+
+Name:
+
+ 
+
+
+
+
+
+DAQO NEW ENERGY CORP.
+
+
+
+
+
+By:
+
+ 
+
+ 
+
+
+
+
+
+
+
+Name:
+
+ 
+
+
+
+Title:

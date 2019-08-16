@@ -1,0 +1,519 @@
+Exhibit 10.12
+
+Portions of this exhibit have been omitted pursuant to a request for confidential treatment filed with the Securities and Exchange Commission. The omissions have been indicated by asterisks (“*****”), and the omitted text has been filed separately with the Securities and Exchange Commission.
+
+MADISON SQUARE GARDEN, L.P.
+
+TWO PENN PLAZA
+
+NEW YORK, NEW YORK 10121
+
+___, 2009
+
+CSC Holdings, Inc.
+
+1111 Stewart Avenue
+
+Bethpage, New York 11714
+
+Ladies and Gentlemen:
+
+     This will confirm the agreement (the “Agreement”) by and between CSC Holdings, Inc. (“Affiliate”) and Madison Square Garden, L.P. (“Network”) for the carriage of the Services (as defined below) by certain cable television systems at least majority owned, controlled and managed by Affiliate and/or any entity controlling, controlled by or under common control with Affiliate.
+
+     1. SYSTEMS: The Agreement will apply (i) to each of the “cable systems” as defined in applicable federal communications law, which are in each case set forth on Schedule A and at least majority owned, controlled and managed by Affiliate (each, a “System”) and (ii) in the local service areas set forth in Schedule A (each, a “Service Area”). Affiliate represents and warrants that (a) Affiliate is duly authorized by all federal, state and local government authorities and agencies as are necessary or appropriate to conduct its business and operate the Systems and shall continue to be so authorized throughout the License Period (as hereinafter defined), (b) each System has obtained, and shall maintain in full force during the License Period, such federal, state and local authorizations as are necessary or appropriate to operate such System, (c) each System is in compliance with, and will comply with, all applicable laws, including, without limitation, any statute, rule, regulation, order or decree of any governmental body, and (d) as clarification, Affiliate will not transmit, or permit the transmission of, the Services over the Internet (including, without limitation, the World Wide Web). Without limiting the foregoing, Affiliate shall have obtained for each System for each Service Area, before commencing distribution of the Services over such System in such Service Area (or earlier as required under applicable law), a valid cable franchise (specifically identifying and authorizing each such Service Area, to the extent required under applicable law) from the appropriate governmental franchising authority (which may include a local municipality or a state or federal franchising authority) for the construction and operation of a cable system throughout such System’s Service Area. Solely for purposes of the immediately preceding sentence, a certificate of authority
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+obtained by Affiliate pursuant to the Conn. Pub. Act No. 07-253 shall be deemed a valid cable franchise. *****
+
+     2. LICENSE PERIOD: Each System will be licensed to receive the Services and shall distribute the Services to Subscribers of such System in accordance with this Agreement at all times during the period beginning as of January 1, 2010 and ending on December 31, 2019 (the “License Period”). Affiliate shall cause each System to carry the Services throughout the License Period pursuant to the terms and conditions of this Agreement.
+
+     3. DEFINITIONS: The following terms will have the following meanings when used in this Agreement:
+
+          (a) “Service” shall mean each of the twenty-four hours per day, seven days per week satellite-delivered standard-definition programming services currently known as “MSG Plus” and “MSG Network”, as the case may be (such services are hereinafter collectively referred to as the “Services”).
+
+          (b) “Service Subscriber” shall mean each Subscriber who is authorized to receive the Services from a System. *****
+
+          (c) “Subscriber” shall mean each residence (including, without limitation, each individual dwelling in each multiple dwelling, whether an apartment building, cooperative or condominium), each commercial or business establishment and each hotel, motel or other establishment providing temporary residence (e.g. hospitals, nursing homes) that subscribes to any television service from any System.
+
+     4. CARRIAGE:
+
+          (a) Affiliate will cause each System to provide the Services throughout the License Period as part of such System’s *****.
+
+          (b) Affiliate will exhibit the Services in each System in its entirety when and as delivered by Network (including, without limitation, any openings, closings, interstitial programming, advertisements or sponsorships). *****
+
+          (c) (i) Affiliate shall take all actions under its control to employ, maintain and upgrade such reasonable security systems and procedures (including maintenance of access control systems) consistent with customary cable television industry practice and as are necessary to effectively protect the programming contained on each Service and all materials related thereto from theft, pirating, unauthorized receipt or access, redistribution, unauthorized copying or duplication, including without limitation by fully encrypting the signal of each Service utilizing encryption technology commonly used in the domestic cable television industry. Without limiting the foregoing, Affiliate will take all reasonable action under its control and consistent
+
+2
+
+
+
+
+
+ 
+
+
+
+
+
+with customary industry practice to protect the transmission, distribution and/or exhibition of all or any part of the programming contained on each Service through any digital outputs or any outputs of enhanced resolution analog signal on any set-top box that has digital outputs (e.g. any analog signal of image quality higher than 345,600 pixels per frame) by an effective content control/copy management system that prohibits the unauthorized transmission, distribution, exhibition, copying, recording, redistribution and/or transcription of all of any part of the program contained on the Service (a “Copy Protection System”) for that particular output. With regard to any Copy Protection System, Affiliate shall take the steps required by that system (if any) to protect the programming contained on each Service in accordance with the Network’s reasonable instructions and consistent with customary cable television industry practice.
+
+               (ii) Affiliate shall not, and shall not authorize any other person to, copy, tape, or otherwise reproduce any part of either Service without Network’s prior written authorization. Neither Affiliate nor any person distributing the Services in accordance herewith shall be responsible or liable for the recording of all or any part of the Services by Service Subscribers for their private, non-commercial use. In addition, nothing in this Paragraph 4(c) shall be deemed to prohibit the recording by Affiliate’s Subscribers for their private, non-commercial use, or to prevent Affiliate from hooking up, installing or providing its Subscribers’ videocassette recorders or other similar recording devices and/or technologies, including but not limited to digital video recorders.
+
+               (iii) Network and Affiliate shall cooperate in good faith with respect to any material or information embedded by Network that is designed to prevent unauthorized copying or distribution of the programming contained on either Service.
+
+          (d) Network and Affiliate acknowledge that there is potentially excess signal distribution capacity contained within the vertical blanking interval (“VBI”) of each Service’s signal as received at each System. Without the prior written consent of Affiliate, Network shall not use any portion of this potentially excess VBI signal distribution bandwidth, except that Network may use the VBI for stereo, a second audio feed, closed captioning, V-chip program ratings information, any other data or information that the Federal Communications Commission (“FCC”) or other applicable federal, state or local law or regulation requires Network or Affiliate to transmit as part of a Service at any time within the bandwidth of the signal of a Service, or Affiliate test signals. Affiliate’s Systems may exercise and exploit any distribution capacity contained within the bandwidth of the signal (including the VBI) by any means and in any locations in its discretion, provided however, such use by Affiliate or any System shall be a discrete use, separate and apart from the Services, and shall not (i) degrade (other than in an immaterial respect) the technical quality of the video and accompanying audio signal for the programming on either Service or (ii) adversely
+
+3
+
+
+
+
+
+ 
+
+
+
+
+
+disrupt or degrade (other than in an immaterial respect) the viewing experience of either Service.
+
+          (e) The Services will be sold, marketed, promoted and identified by Affiliate solely as “MSG Plus” (or “MSG+”) and “MSG Network”, as the case may be, and under no other name unless otherwise designated in writing by Network.
+
+          (f) Network shall, at its own expense, deliver a signal of each Service, of a technical quality at least comparable to that delivered by other cable television programming services to Affiliate, by transmitting such signal by means of a domestic video communications satellite (or such other method as is mutually agreed by the parties) and shall, at its own expense, fully encode the satellite signal of each Service, and shall authorize all System descramblers and other reception facilities and equipment furnished by Affiliate necessary to receive and descramble the satellite transmission of each Service signal and to deliver such signal to Service Subscribers. Except as otherwise provided herein (including pursuant to sub-sections (g) and (h) below), as between Affiliate and Network, Affiliate shall, at its sole expense, furnish an earth station and all other facilities and services necessary for the receipt of such satellite transmission and the delivery of such signal to the Service Subscribers. Network hereby grants Affiliate the right to receive the feed of each Service, to digitize, compress, modify or otherwise technologically manipulate the feed (including the creation of a dual digital feed in addition to any analog feed of each Service), and to transmit the feed(s) as so altered and which shall be encrypted by Affiliate (the “Altered Feeds”) for distribution to terrestrial reception sites capable of receiving and utilizing the Altered Feeds and delivering such Altered Feeds to the System(s); provided that no such alteration, transmission, redistribution, reception or other use will cause any perceptible change in an average viewer’s perception of the principal video or principal audio presentation of the Services using commercially available consumer electronics equipment.
+
+          (g) In the event Network elects to change the satellite used for delivery of the Services, Network shall provide Affiliate with at least ninety (90) days prior written notice of such change. If as a result of such change Affiliate would have to incur incremental out-of-pocket expenses in order to receive and distribute the Services, then Affiliate may as its sole recourse discontinue distribution of the Services in any affected System as of the date of such change unless Network agrees promptly to reimburse such System for such System’s incremental expenses to acquire and install equipment necessary for such System to receive the signal of the Services from such new satellite. Such reimbursement shall be for the Services’ pro rata share of such expenses, with the Services to share expenses equally with any other programming services that are participating in such change and are carried by such System.
+
+          (h) In the event Network changes its encryption technology, Network shall use reasonable efforts to provide Affiliate with at least ninety (90) days prior
+
+4
+
+
+
+
+
+ 
+
+
+
+
+
+written notice of such change. If the new encryption technology is not compatible with a System’s then-existing descrambling equipment, then Affiliate may as its sole recourse discontinue distribution of the Services in any affected System as of the date of such change unless Network agrees promptly to reimburse such System for such System’s incremental out-of-pocket costs and expenses to acquire and install the equipment necessary for such System to descramble the signal of the Services subsequent to such change. Such reimbursement shall be for the Services’ pro rata share of such expenses, with the Services to share expenses equally with any other programming services that also use the new encryption technology and are carried by such System.
+
+          (i) Network shall provide Affiliate with an average of at least ***** of commercial announcement time per hour of programming in which national advertising spots are inserted, allocated on a reasonably even basis among the advertising spots inserted by Network. Such commercial announcement time shall be scheduled by Network, at Network’s sole discretion with reasonable advance written notice to Affiliate, and shall be used, at Affiliate’s option, for insertion of national or local advertising and announcements. As between Network and Affiliate, Affiliate shall have the right to retain for itself all of the proceeds derived from the sale of the commercial announcement time furnished to Affiliate hereunder. ***** Each use by Affiliate of the advertising time made available hereunder shall comply with Network’s standard policies and restrictions applicable to all Service distributors (as noticed to Affiliate in writing) and to Network.
+
+     5. PAYMENT:
+
+          (a) Affiliate will pay Network monthly, within forty-five (45) days after the end of each calendar month during the License Period:
+
+               (i) for each residence that is a Service Subscriber, *****; and
+
+               (ii) subject to (b)(ii) below, for each commercial or business establishment that is a Service Subscriber (each, a “Commercial Subscriber”), *****.
+
+          (b) (i) Subject to (b)(ii) below, Affiliate shall pay the applicable rate set forth in Paragraph 5(a)(i) for each room susceptible of overnight occupancy (each, a “Unit”) in each hotel, motel or other establishment providing temporary residence that is a Service Subscriber.
+
+               (ii) Notwithstanding anything set forth herein to the contrary, for any multiple dwelling, hotel, motel or other establishment providing temporary residence and/or commercial establishment for which any System charges a monthly
+
+5
+
+
+
+
+
+ 
+
+
+
+
+
+bulk rate rather than a per household or per Unit rate for the tier of television services that includes the Services (each, a “Bulk Account”), the applicable monthly rate, pursuant to Paragraph 5(a) above payable with respect to each Unit (or individual household with respect to a Bulk Account that is a multiple dwelling) of such Bulk Account, shall be discounted in a manner consistent with past practice.
+
+          (c) Affiliate shall provide to Network all information necessary for Network to verify the accuracy of each payment hereunder, including without limitation the number, both across Systems and for each System, of Subscribers, Broadcast Basic Subscribers and Service Subscribers, and the applicable monthly rate, and such other information as Network may from time to time reasonably request. For all purposes of this Agreement, all Subscriber numbers for any calendar month shall be based upon the sum of the number of Subscribers as of the first day of such calendar month plus the number of Subscribers as of the last day of such calendar month, divided by two. *****
+
+          (d) Network shall have reasonable and customary audit rights, and shall be permitted to audit the books and records of Affiliate relating to the performance of Affiliate’s obligations hereunder no more than once per calendar year during normal business hours, on at least thirty (30) days advance notice. Any audit shall be undertaken by an independent third party, which shall be a nationally recognized cable auditing firm, provided that such independent third party agrees to be bound by the confidentiality provisions substantially similar to those contained in Section 8(b) below. Audits shall be limited to books and records of the then current year and the two immediately preceding calendar years. If Network audits Affiliate’s books and records hereunder, Network must make any claim against Affiliate alleging any underpayment of fees under this Agreement with respect to the audited period within six (6) months after Network receives the applicable audit report; if the claim is not made within such time period, Network shall be deemed to have waived its right to collect any shortfall amounts determined by such audit to be due and owing from Affiliate for the period(s) audited. Affiliate shall, at Network’s option, reimburse Network for all reasonable, third party costs and expenses of any such audit which reveals an underpayment by Affiliate that is not the subject of a bona fide dispute for the period audited of more than ***** of the amount properly payable by Affiliate to Network hereunder for such period.
+
+          (e) Any amount not paid by Affiliate hereunder when due shall, at Network’s option, accrue interest from the due date at the lesser of (i) one and one-half percent (11/2%) per month (ii) the maximum rate permitted by law.
+
+          (f) *****
+
+          (g) (i) *****
+
+6
+
+
+
+
+
+ 
+
+
+
+
+
+               (ii) *****
+
+     6. MARKETING:
+
+          (a) Commencing promptly after the effective date hereof, Affiliate shall promote, market and sell the Services and its services as a distributor of television programming services within the Service Area(s). In connection therewith, Affiliate shall promote and market the Services in a similar manner as other program services that are included in the tier of television service of which the Services are a part, taking into account any additional consideration Affiliate receives from the owners of such other programming services specifically for the promotion and marketing thereof.
+
+          (b) *****
+
+     7. *****
+
+     8. REPRESENTATIONS AND WARRANTIES/INDEMNIFICATIONS:
+
+          (a) Mutual Representations, Warranties and Covenants. Each of the parties represents, warrants and covenants to the other that: (i) it has the right and will continue to have the right during the License Period, to enter into and perform fully its respective obligations under this Agreement; (ii) it has not and will not during the License Period enter into an agreement or arrangement which limits the full performance of its obligations hereunder; and (iii) it is and will remain in full compliance with all applicable Federal, state and local laws and regulations applicable to the subject matter of this Agreement. Each of Affiliate and Network agrees to provide statements, records and other documents reasonably necessary to the other party to demonstrate its compliance with applicable FCC closed captioning requirements and Children’s Television Regulations as and when reasonably requested in writing.
+
+          (b) Network Additional Representations, Warranties and Covenants. Network represents, warrants and covenants that (i) the programming contained in the Services, and the advertising and promotional materials provided by Network to Affiliate and the logos and marks associated with the Services, will not be defamatory and will not contain any material which violates any copyright, trademark, right of privacy, right of publicity or literary or dramatic right of any person or entity; (ii) it will be fully responsible for obtaining, maintaining during the Term, and fully complying with a through-to-the-viewer music performance license with respect to all music contained in the Services that is sufficient to permit Affiliate’s distribution of the Services as permitted hereunder; and (iii) each Service complies, and will continue to comply, in all material respects with (A) the commercial matter limitations of the Children’s Television Act of 1990, Public Law 101-437 (October 18, 1990) and the
+
+7
+
+
+
+
+
+ 
+
+
+
+
+
+regulations of the FCC promulgated thereunder, as the same may be amended from time to time (“Children’s Television Regulations”), (B) all applicable cablecasting origination regulations of the FCC, including, but not limited to, political equal time, personal attack, lotteries and sponsorship identification, as the same may be amended from time to time (“Origination Requirements”), and (C) all FCC closed captioning requirements pursuant to all applicable laws and regulations.
+
+          (c) Indemnification. The parties shall indemnify and hold each other, their respective parent and affiliated entities and the officers, directors and employees of all of the foregoing harmless from and against any and all claims, damages, liabilities, costs and expenses (including reasonable attorneys’ fees and related costs) (“Claims”) arising out of the breach or alleged breach of any representation, warranty or undertaking made by the indemnifying party. Network shall further indemnify and hold Affiliate harmless from and against any and all Claims arising out of (i) the content of its Services, including but not limited to the extent that such Claims are based upon libel, slander, defamation, invasion of the right of privacy, or violation or infringement of copyright (including use of marks) arising out of the content of such Services or based on violations by such Services of literary or dramatic rights; (ii) Network’s advertising and marketing of the Services, or (iii) any other materials, including advertising or promotional copy, supplied or permitted in writing by Network; provided that Network shall not be responsible for any Claims which arise out of or relate to any marketing materials relating to a Service prepared by Affiliate without Network’s prior written consent or to Affiliate’s use of any commercial or promotional announcement time on a Service made available to Affiliate pursuant to this Agreement, as to which Claims Affiliate shall indemnify and hold Network and its related parties harmless.
+
+     9. MISCELLANEOUS:
+
+          (a) Affiliate acknowledges that Network’s service marks, trademarks, trade names and logos (“Network Marks”) are Network’s exclusive property and that Affiliate will not acquire any proprietary rights in the Network Marks by reason of this Agreement. Affiliate shall not use any Network Mark in a manner that constitutes an endorsement and shall use the Network Marks only to refer to a Service and in the form supplied or approved by Network. Affiliate shall not use any programming or related trade or service marks without the prior written consent of Network.
+
+          (b) Affiliate and Network shall each keep secret and retain in the strictest confidence and shall not disclose to any third party any of the terms of this Agreement, as well as any confidential information shared in the course of performance hereunder (including, without limitation, Affiliate’s subscriber reports) (collectively, “Confidential Information”) except as required by law, and Network may disclose the terms of this Agreement to any prospective purchaser of a direct or indirect interest in Network or the assets of Network. Notwithstanding the foregoing, neither party shall
+
+8
+
+
+
+
+
+ 
+
+
+
+
+
+be obligated to treat as confidential any information, including the terms of this Agreement, disclosed by the other party (the “Disclosing Party”) which: (1) is rightfully known to the recipient (the “Receiving Party”) prior to its disclosure by the Disclosing Party; (2) is independently developed by the Receiving Party without any reliance on confidential or proprietary information of the Disclosing Party, including without limitation the terms of this Agreement; or (3) is or later becomes publicly available without violation of this Agreement or may be lawfully obtained by the Receiving Party from any nonparty. Furthermore, disclosure may be made if required by court order or a government agency, in which case any Confidential Information disclosed shall be marked “confidential”; and the Disclosing Party shall use its best reasonable efforts to ensure that the Confidential Information is covered by a protective order or otherwise receives confidential treatment, and the Disclosing Party shall promptly notify the other of its intent to disclose such Confidential Information prior to such disclosure.
+
+          (c) This Agreement may not be amended nor any provision waived except in writing signed by the parties hereto. This Agreement contains the full understanding of the parties with respect to the subject matter hereof and supersedes any and all previous agreements between the parties. Each party acknowledges that it is entering into this Agreement in reliance only upon the provisions herein set forth, and not upon any representation, warranty, covenant, agreement, obligation or other consideration not set forth herein.
+
+          (d) This Agreement is subject to and limited by Network’s agreements with, and the rules, regulations and agreements of, any league, association, individual athletic team or other program supplier, as such agreements, rules or regulations may from time to time be amended, modified, supplemented, entered into, interpreted, enacted, performed or enforced. This Agreement shall expire if delivery of a Service by Network is permanently discontinued.
+
+          (e) Neither Network nor Affiliate shall have any liability to the other with respect to any failure to perform any of its obligations hereunder if such failure is due to an act of God or other cause (financial inability excepted) beyond such party’s reasonable control (a “Force Majeure Event”). In addition, in the event of a failure by Network to furnish the Services signal due to an event other than a Force Majeure Event, Affiliate’s obligation to make payment under this Agreement for such System shall be reduced by the same percentage, if any, by which Affiliate’s total billings for the Services in such System are reduced for the applicable month during which any such failure occurred and by reason of such failure.
+
+          (f) Any recourse of Affiliate against Network shall extend only to Network and not to any of Network’s partners or members.
+
+          (g) Facsimile signatures shall be deemed original for all purposes. This Agreement may be executed in counterparts all of which when taken together shall be
+
+9
+
+
+
+
+
+ 
+
+
+
+
+
+deemed to constitute one and the same instrument.
+
+          (h) The submission of this Agreement to Affiliate or its agent or attorney for review or signature does not constitute an offer to Affiliate. This Agreement shall have no binding force or effect until its execution by both parties hereto.
+
+          (i) THIS AGREEMENT SHALL BE GOVERNED BY THE LAWS OF THE STATE OF NEW YORK APPLICABLE TO AGREEMENTS MADE AND WHOLLY PERFORMED THEREIN WITHOUT REGARD TO PRINCIPLES OF CONFLICTS OF LAW.
+
+If you are in agreement with the foregoing, please sign this letter in the space indicated below.
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Sincerely,
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+MADISON SQUARE GARDEN, L.P.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+ 
+
+ 
+
+ 
+
+Date signed:
+
+ACCEPTED AND AGREED:
+
+CSC HOLDINGS, INC.
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+ 
+
+ 
+
+ 
+
+Date signed:
+
+ 
+
+ 
+
+10
+
+
+
+
+
+ 
+
+
+
+
+
+SCHEDULE A
+
+SYSTEM(S)
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+GEOGRAPHIC BOUNDARIES OF
+
+NAME(S) OF SYSTEM(S)
+
+ 
+
+SERVICE AREA(S)
+
+VTV Long Island – Hauppauge, NY
+
+Brookhaven, NY
+
+Riverhead, NY
+
+East Hampton, NY
+
+Lynbrook, NY
+
+Long Island, NY
+
+Westchester - Yonkers, NY
+
+Cross River, NY
+
+Dutchess/Dover Plains, NY
+
+Port Chester, NY
+
+Yorktown Heights, NY
+
+So. Westchester, NY
+
+Norwalk, CT
+
+Bridgeport, CT
+
+Litchfield, CT
+
+New York City, NY
+
+Wappinger Falls, NY
+
+Wappinger Falls (Dutchess), NY
+
+Ossining, NY
+
+Oakland, NJ
+
+Paterson, NJ
+
+Warwick, NY/NJ
+
+Rockland, NY/NJ
+
+Ramapo, NY/NJ
+
+Port Jervis, NY/NJ/PA
+
+Bergen, NJ
+
+Bayonne, NJ
+
+Newark, NJ
+
+Hudson County, NJ
+
+Elizabeth, NJ
+
+Morris, NJ
+
+Allamuchy, NJ
+
+Monmouth – Freehold, Wall, Ocean, Asbury, Millstone, Jackson, Seaside, Lakewood, NJ
+
+Hamilton, NJ
+
+Raritan Valley -Tri-System, NJ
+
+ 
+
+The geographic areas currently served by such Systems1
+
+
+
+ 
+
+1    Upon request of Network, Affiliate will confirm such areas in writing to Network
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+SCHEDULE B
+
+ 
+
+*****

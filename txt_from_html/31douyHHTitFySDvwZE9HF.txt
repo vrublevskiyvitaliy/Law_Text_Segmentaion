@@ -1,0 +1,811 @@
+ 
+
+THIS NOTE
+HAS NOT BEEN REGISTERED UNDER THE UNITED STATES SECURITIES ACT OF 1933, AS
+AMENDED (THE “SECURITIES ACT”), OR
+ANY APPLICABLE STATE LAW, AND MAY NOT BE SOLD, OFFERED FOR SALE, DISTRIBUTED,
+ASSIGNED, OFFERED, PLEDGED OR OTHERWISE TRANSFERRED UNLESS (A) THERE IS AN
+EFFECTIVE REGISTRATION STATEMENT UNDER SUCH ACT AND APPLICABLE STATE, OR FOREIGN
+SECURITIES LAWS COVERING ANY SUCH TRANSACTION OR (B) SUCH TRANSACTION IS EXEMPT
+FROM REGISTRATION.
+
+ 
+
+CONVERTIBLE
+PROMISSORY NOTE
+
+ 
+
+$450,000.00
+
+December
+      ___, 2009
+
+Rochester,
+      New York
+
+ 
+
+FOR VALUE
+RECEIVED, Document Security Systems, Inc. (the “Company”, “Document Security
+Systems”, or “Borrower”),.promises to pay to Printers, LLC, a Washington limited
+liability company (the “Lender”), or to its order, the principal sum of $450,000
+(the “Principal Amount”), together with interest in arrears on the unpaid
+principal balance from time to time outstanding from the date hereof until the
+entire Outstanding Amount (as defined in Section 1 below) is paid in
+full.
+
+ 
+
+1.           Maturity. The
+aggregate Principal Amount, together with all accrued interest and penalties
+thereon and expenses incurred by the Lender in connection herewith
+(cumulatively, the “Outstanding Amount”), shall be due and payable in full on
+the earliest to occur of (the earliest of such events, the “Maturity Date”): (i)
+June ___, 2012 and (ii) the automatic acceleration of this Note upon the
+occurrence of an Event of Default.
+
+ 
+
+2.           Interest. Interest
+shall accrue on the then outstanding principal balance of this Note at a fixed
+interest rate per annum equal to 8%. Accrued interest shall be payable in cash
+in arrears on the last day of each calendar quarter commencing on December 31,
+2009, until the outstanding principal balance is paid in full. If at any time
+the principal balance of this Note shall be paid in full, then all accrued
+interest shall be payable at the time of such principal payment.  In
+the case of an Event of Default (Section 9), interest shall accrue on the then
+outstanding principal balance of this Note at a fixed interest rate per annum
+equal to 12% until such Event of Default is cured.
+
+
+
+3. Conversion.
+
+ 
+
+3.1.
+Optional
+Conversion. At any time on or prior to the Maturity Date, the outstanding
+principal balance of this Note and any accrued but unpaid interest thereon may,
+at the sole option of the Lender, be converted, in whole or in part, into fully
+paid and non-assessable shares of Document Security Systems, Inc.’s common
+stock, par value $0.02 per share (the “Common Stock”), at a conversion price
+equal to $1.73 per share (the “Conversion Price”), subject to adjustment as set
+forth herein.  Conversions can only be made in minimum increments of
+20,000 shares.
+
+ 
+
+3.2.
+Mechanics of
+Conversion. The Lender shall notify the Borrower of its election to
+convert all or part of this Note in accordance with Section 3.1. The
+Borrower shall, as soon as practicable but in no event later than five days
+following its receipt of such notice, issue and deliver to Lender a certificate
+or certificates for the number of shares of Common Stock to which such holder
+shall be entitled, together with cash in lieu of any fractional share in
+accordance with Section 3.3. This Note shall be deemed to have been
+converted and a certificate or certificates for shares of Common Stock shall be
+deemed to have been issued, and the Lender or any other person so designated to
+be named therein shall be deemed to have become a holder of record of such
+shares for all purposes as of the date said notice is received by the Borrower.
+If this Note shall have been converted in part, the Borrower shall, at the time
+of delivery of said certificate or certificates, deliver to the Holder a new
+Note evidencing the remaining outstanding principal balance of this Note, which
+new Note shall in all other respects be identical with this Note. Upon
+conversion of this Note in full, this Note shall no longer be deemed to be
+outstanding and all rights with respect to this Note shall immediately cease and
+terminate on such conversion date, except only the right of the Holder to
+receive the shares of Common Stock to which it is entitled as a result of the
+conversion.
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+ 
+
+ 
+
+3.3.
+Fractional
+Shares. No fractional shares of Common Stock shall be issued upon
+conversion of this Note. In lieu of any fractional shares to which the holder
+would otherwise be entitled, the Borrower shall pay cash equal to such fraction
+multiplied by the Conversion Price.
+
+ 
+
+3.4.
+Subdivision or
+Combination of Common Stock. If Document Security Systems at any time
+subdivides (by any stock split, stock dividend, recapitalization or otherwise)
+its outstanding shares of Common Stock into a greater number of shares, the
+Conversion Price in effect immediately prior to such subdivision will be
+proportionately reduced, and if Document Security Systems at any time combines
+(by reverse stock split, recapitalization or otherwise) its outstanding shares
+of Common Stock into a smaller number of shares, the Conversion Price in effect
+immediately prior to such combination will be proportionately
+increased.
+
+ 
+
+3.5.
+Merger, Consolidation
+or Sale of Assets. If there shall be a merger or consolidation of
+Document Security Systems with or into another entity (other than a merger or
+reorganization involving only a change in the state of incorporation of Document
+Security Systems), or the sale of all or substantially all of Document Security
+Systems’ capital stock or assets to any other person, then as a part of such
+transaction, provision shall be made so that Lender shall thereafter be entitled
+to receive the number of shares of stock or other securities or property of
+Document Security Systems or of the successor corporation resulting from the
+merger, consolidation or sale, to which the Lender would have been entitled if
+the Lender had converted this Note immediately prior thereto.
+
+
+
+3.6.
+Notice of Adjustment
+to Conversion Price. Upon any adjustment or other change relating to the
+Conversion Price or the securities issuable upon the conversion of this Note,
+then, and in each such case, the Borrower shall give written notice thereof,
+which notice shall state the Conversion Price resulting from such adjustment and
+the increase or decrease in the number or other denominations of securities
+issuable at such price upon the conversion of this Note setting forth in
+reasonable detail the method of calculation and the facts upon which such
+calculation is based.
+
+ 
+
+3.7.
+Reservation of
+Shares. Document Security Systems covenants that it will at all times
+until this Note is paid or converted in full under the terms hereof reserve and
+keep available out of its authorized and unissued Common Stock, solely for the
+purpose of issue upon conversion of this Note, such number of shares of Common
+Stock as shall then be issuable upon the conversion of this Note.
+  
+
+ 
+
+3.8.
+Notice to Allow
+Conversion. If (A) Document Security Systems shall declare a
+dividend (or any other distribution in whatever form, including without
+limitation the distribution of the Company’s common shares of Internet Media
+Services (“IMS”) which the Company acquired as the result of the sale of the
+Company’s assets in Legalstrore.com to IMS in October 2009) on the Common Stock,
+(B) Document Security Systems shall declare a special nonrecurring cash
+dividend on or a redemption of the Common Stock, (C) Document Security
+Systems shall authorize the granting to all holders of the Common Stock of
+rights or warrants to subscribe for or purchase any shares of capital stock of
+any class or of any rights, (D) the approval of any stockholders of
+Document Security Systems shall be required in connection with any
+reclassification of the Common Stock, any consolidation or merger to which
+Document Security Systems is a party, any sale or transfer of all or
+substantially all of the assets of Document Security Systems, any compulsory
+share exchange whereby the Common Stock is converted into other securities, cash
+or property or any transaction described in Section 3.5 of this Note or
+(E) Document Security Systems shall authorize the voluntary or involuntary
+dissolution, liquidation or winding up of the affairs of Document Security
+Systems, then, in each case, Document Security Systems shall deliver to the
+Lender, at least twenty (20) calendar days prior to the applicable record
+or effective date hereinafter specified, a notice stating (x) the date on
+which a record is to be taken for the purpose of such dividend, distribution,
+redemption, rights or warrants, or if a record is not to be taken, the date as
+of which the holders of the Common Stock of record to be entitled to such
+dividend, distributions, redemption, rights or warrants are to be determined or
+(y) the date on which such reclassification, consolidation, merger, sale,
+transfer or share exchange is expected to become effective or close, and the
+date as of which it is expected that holders of the Common Stock of record shall
+be entitled to exchange their shares of the Common Stock for securities, cash or
+other property deliverable upon such reclassification, consolidation, merger,
+sale, transfer or share exchange. The Holder is entitled to convert this Note
+during the 20-day period commencing on the date of such notice through the
+effective date of the event triggering such notice.
+
+ 
+
+ 
+
+2
+
+
+
+
+
+ 
+
+ 
+
+3.9           Registration
+Rights.  The Lender will be entitled to the benefits of a
+Registration Rights Agreement, dated as of the date of this Note, between the
+Company and the Lender (the “Registration Rights
+Agreement”).
+
+ 
+
+4. Optional Borrower
+Redemption. At any time on or before December 5, 2011, the Borrower
+shall have the right to redeem this Note for a price equal to the Outstanding
+Amount.   Borrower shall give Lender 20 days advance notice of
+its intention to redeem and Lender shall have the right to convert this Note
+pursuant to Section 3.1 during such 20 day period.
+
+
+
+5.           Usury.  All
+agreements between the Borrower and the Lender are hereby expressly limited so
+that in no contingency or event whatsoever, whether by reason of acceleration of
+maturity of the indebtedness evidenced hereby or otherwise, shall the amount
+paid or agreed to be paid to the Lender for the use, forbearance, or detention
+of the indebtedness evidenced hereby exceed the maximum permissible amount under
+applicable law. If, from any circumstance whatsoever, fulfillment of any
+provision hereof at the time performance of such provision shall be due shall
+involve transcending the limit of validity prescribed by law, the obligation to
+be fulfilled shall automatically be reduced to the limit of such validity, and
+if from any circumstances the Lender should ever receive as interest an amount
+which would exceed the highest lawful rate, such amount which would be excessive
+interest shall be applied to the reduction of the principal balance evidenced
+hereby and not to the payment of interest, and, if the principal amount of this
+Note has been paid in full, shall be refunded to the Borrower.
+
+ 
+
+6.           Late
+Charge.  If an interest payment is not received within ten days
+of its due date, Borrower shall pay a late charge equal to twenty-five percent
+(25%) of the delinquent amount; any excess collected by mistake shall be
+refunded on request, and each such late charge shall be separately charged and
+collected by the Lender.  Payments may be applied in any order in the
+sole discretion of the Lender but prior to demand, shall be applied first to
+past due interest, expenses and late charges, then to scheduled principal
+payments, if any, which are past due, then to current interest, expenses and
+late charges, and last to remaining principal.
+
+
+
+7.           Security. This Note is secured by certain
+assets of the Borrower in accordance with a separate security agreement (the
+“Security Agreement”) of even date herewith between the Borrower and
+Lender.  In case of an Event of Default (as defined in this Note), the
+Lender shall have the rights set forth in the Security Agreement.
+
+ 
+
+ 
+
+8.           Replacement of Note.
+If this Note is mutilated, lost, stolen or destroyed, the Borrower shall issue
+or cause to be issued in exchange and substitution for and upon cancellation
+hereof, or in lieu of and substitution for this Note, a new Note, but only upon
+receipt of evidence reasonably satisfactory to the Borrower of such loss, theft
+or destruction and customary and reasonable indemnity, if
+requested.
+
+
+
+9.           Events of
+Default.  The following constitute an event of default (“Event
+of Default”):
+
+
+
+a.           Borrower
+fails to pay any of its material liabilities, obligations, and indebtedness to
+Lender of any and every kind and nature, whether heretofore, now or hereafter
+owing, arising, due or payable and howsoever evidenced, created, incurred,
+acquired, or owing, whether primary, secondary, direct, contingent, fixed or
+otherwise whether arising under or in accordance with the Note or otherwise when
+due and said failure continues for a period of seven (7) days;
+
+ 
+
+ 
+
+3
+
+
+
+
+
+ 
+
+ 
+
+d.           Borrower
+fails or neglects to perform, keep or observe any of the covenants, conditions
+or agreements contained in this Note;
+
+
+
+e.           Any
+warranty or representation now or hereafter made by the Borrower in connection
+with this Note is untrue or incorrect in any material respect, or any schedule,
+certificate, statement, report, financial data, notice, or writing furnished at
+any time by the Borrower to the Lender is untrue or incorrect in any material
+respect, on the date as of which the facts set forth therein are stated or
+certified;
+
+
+
+f.           A
+proceeding under any bankruptcy, reorganization, arrangement of debt,
+insolvency, readjustment of debt or receivership law or statute is filed against
+Borrower which is not dismissed within sixty (60) days of its filing, or a
+proceeding under any bankruptcy, reorganization, arrangement of debt,
+insolvency, readjustment of debt or receivership law or statute is filed by
+Borrower or the Borrower makes an assignment for the benefit of creditors or
+Borrower takes any corporate action to authorize any of the
+foregoing;
+
+
+
+g.           Borrower
+voluntarily or involuntarily dissolves or is dissolved, terminates or is
+terminated;
+
+
+
+h.           Borrower
+becomes insolvent or fails generally to pay its debts as they become due, and
+said failure continues for a period of thirty (30) days after written notice of
+same from the Lender to the Borrower;
+
+
+
+
+
+10.           Purpose.  The
+Loan proceeds shall be used for the business purpose of payment in full of amounts due under the CREDIT AGREEMENT,
+dated as of January 4, 2008 between DOCUMENT SECURITY SYSTEMS, INC. as Borrower,
+and PATRICK WHITE as Lender.
+
+ 
+
+11.           Miscellaneous.
+
+
+
+a.           Authority and
+Enforceability; Etc. The Borrower hereby represents and warrants to the
+Lender that, except as set forth on the Disclosure Schedule attached as Exhibit
+A to this Note:
+
+
+
+i.           it
+has been duly incorporated, is validly existing as a corporation in
+good  standing under the laws of the jurisdiction of its incorporation
+, it has full corporate power and authority to own its property and conduct its
+business as presently conducted and has taken all required corporate and other
+action necessary to permit it to execute, deliver, and perform all of its
+obligations contained in this Note, the Security Agreement, the Registration
+Rights Agreement and Common Stock Purchase Warrant (collectively, the “Loan
+Documents”) and any other documents or instruments delivered in connection
+herewith, and to borrow hereunder, and such actions to the best of its knowledge
+will not violate any provision of law applicable to, or the organizational
+documents of, the Borrower, or result in the breach of or constitute a default
+under any material agreement or instrument to which the Borrower is a party or
+by which it is bound, which default has not been waived in writing on or prior
+to the date hereof;
+
+
+
+ii.           each
+Loan Document has been duly authorized and validly executed by and is the valid
+and binding obligation of the Borrower enforceable in accordance with its terms,
+except as enforceability may be limited by bankruptcy, insolvency,
+reorganization, or other laws affecting creditors’ rights and remedies
+generally, and by general principles of equity (regardless of whether
+enforceability is considered in a proceeding in equity or at law);
+
+
+
+iii.           neither
+the execution and delivery by the Borrower of this Note or any other Loan
+Document, nor the performance by the Borrower of its obligations hereunder
+or  thereunder, requires the consent, approval or authorization of any
+person or governmental authority, which consent, approval, or authorization has
+not been obtained;
+
+ 
+
+ 
+
+4
+
+
+
+
+
+ 
+
+ 
+
+iv.           The
+entire authorized capital stock of Borrower consists of 200,000,000 shares of
+Common Stock, of which 16,482,887 shares are issued and outstanding and 0 shares
+are held in treasury. All of the issued and outstanding shares of Borrower
+Common Stock have been duly authorized and are-validly issued, fully paid, and
+non-assessable. There are additional options and warrants issued and outstanding
+as of the date of this Note which are convertible into, or exercisable for, an
+aggregate of 2,142,270 shares of Common Stock.  In addition, up to an
+additional 478,750 shares of Common Stock are issuable upon the conversion of
+outstanding convertible promissory notes, including this Note. Other than as set
+forth in this paragraph, there are no outstanding or authorized shares, options,
+warrants stock appreciation, phantom stock, profit participation, convertible
+securities or similar rights with respect to Borrower.
+
+
+
+v.           it
+has made all filings with SEC that it has been required to make under the
+Securities Act of 1933, as amended (the “Securities Act”) and the Securities
+Exchange Act of 1934, as amended (the “Exchange Act”) (collectively the “Public Reports”). Each of the
+Public Reports has complied with the Securities Act and the Exchange Act in all
+material respects. None of the Public Reports, as of their respective dates,
+contained any untrue statement of a material fact or omitted to state a material
+fact necessary in order to make the statements made therein, in light of the
+circumstances under which they were made, not misleading.
+
+
+
+vi.           it
+has filed quarterly reports on Form 10-Q for the fiscal quarters ended September
+30, 2009 (the “Most Recent Fiscal Quarter End”), June 30, 2009 and March 31,
+2009 and an annual report on Form 10-K for the fiscal year ended December 31,
+2008. The financial statements included in or incorporated by reference into
+these Public Reports (including the related notes and schedules) have been
+prepared in accordance with GAAP throughout the periods covered thereby, and
+present fairly the financial condition of Borrower as of the indicated dates and
+the results of operations of Borrower for the indicated periods, are correct and
+complete in all respects, and are consistent with the books and records of
+Borrower; provided, however, that the interim statements are subject to normal
+year-end adjustments
+
+
+
+vii.           Since
+the Most Recent Fiscal Quarter End, there has not been any effect or change that
+would be (or could reasonably be expected to be) materially adverse to the
+business, assets, condition (financial or otherwise), operating results,
+operations, or business prospects (including as projected in any revenue,
+earnings, or other forecast, whether internal or published) of Borrower, other
+than those reported on Form 8-K on November 19, 2009 and December 15,
+2009.
+
+
+
+viii.           it
+does not have any liability (whether known or unknown, whether asserted or
+unasserted, whether absolute or contingent, whether accrued or unaccrued,
+whether liquidated or unliquidated, and whether due or to become due), including
+any liability for taxes, except for (i) liabilities set forth on the face of the
+balance sheet dated as of the Most Recent Fiscal Quarter End (rather than in any
+notes thereto) and (ii) liabilities that have arisen after the Most Recent
+Fiscal Quarter End in the ordinary course of business (none of which results
+from, arises out of, relates to, is in the nature of, or was caused by any
+breach of contract, breach of warranty, tort, infringement, or violation of
+law).
+
+ 
+
+b.           Notices. All notices
+to any party required or permitted hereunder shall be in writing and shall be
+sent to the address or facsimile number set forth for such party as
+follows:
+
+ 
+
+i.            If
+to the Lender:
+
+
+
+Printers,
+LLC
+
+PO Box
+2613
+
+Seattle,
+WA 98124
+
+Fax:
+
+Email:
+
+Attn:
+Thomas Felker
+
+ 
+
+ 
+
+5
+
+
+
+
+
+ 
+
+ 
+
+With a
+copy (which shall not constitute notice) to:
+
+
+
+Summit
+Law Group, PLLC
+
+315 Fifth
+Avenue South, Suite 1000
+
+Seattle,
+WA 9810-2682
+
+Fax:
+(206) 676-7001
+
+Email:
+charliec@summitlaw.com
+
+Attn:
+Charles Carter
+
+ 
+
+ii.           If
+to Document Security Systems, Inc.:
+
+
+
+Document
+Security Systems, Inc.
+
+28 East
+Main Street, Suite 1525
+
+Rochester,
+NY 14614
+
+Fax:
+
+Attention: Chief Financial
+Officer 
+
+ 
+
+Any party
+may change the address to which notices, requests, demands, claims, and other
+communications hereunder are to be delivered by giving the other party notice in
+the manner herein set forth.
+
+
+
+Any
+notice, request, demand, claim, or other communication hereunder shall be deemed
+duly given (i) when delivered personally to the recipient, (ii) 1 business day
+after deposit with a reputable overnight courier service or 2 business days
+after deposit with a reputable international overnight courier (in each case
+with charges prepaid), or (ii) 4 business days after being mailed to the
+recipient by certified or registered mail, return receipt requested and postage
+prepaid, and addressed to the intended recipient as set forth above, in each
+case with written verification of receipt.  Notwithstanding the
+foregoing, service of process will only be deemed effective if it complies with
+applicable law, including court rules and nothing in this Note shall be deemed
+to effect a waiver by any party of its right to receive service of process in
+accordance with those laws and rules.    
+
+ 
+
+c.           Waiver. No failure to
+exercise, and no delay in exercising, on the part of the Lender, any right,
+power, or privilege hereunder shall operate as a waiver thereof; nor shall any
+single or partial exercise of any right, power, or privilege hereunder preclude
+any other or further exercise thereof or the exercise of any other right, power,
+or privilege. The rights and remedies herein provided are cumulative and not
+exclusive of any rights or remedies provided by law.
+
+ 
+
+d.           Amendments. Any term,
+covenant, or condition of this Note may be amended or waived only by written
+consent of the Borrower and the Lender.
+
+ 
+
+e.           Expenses. Any
+reasonable expense incurred by the Lender (including, without limitation,
+reasonable attorneys’ fees and disbursements) in connection with the
+administration, or enforcement of this Note or any other Loan Document and any
+other document executed by the Borrower in connection with the obligations of
+Borrower hereunder or any amendment hereto or thereto, or the exercise of any
+right or remedy upon the occurrence of an Event of Default, including, without
+limitation, the recording and filing fees to perfect the liens granted under the
+Security Agreement and the costs of collection and reasonable attorneys’ fees
+and expenses, shall be paid by the Borrower within 15 days of receiving written
+notice thereof from the Lender. Any such expense incurred by the Lender and not
+timely paid by the Borrower shall be added to the other obligations hereunder
+and shall earn interest at the same rate per annum as the principal
+hereunder.
+
+ 
+
+ 
+
+6
+
+
+
+
+
+ 
+
+ 
+
+f.           Governing Law. This
+Note shall be governed by and construed in accordance with the laws of the State
+of New York without giving effect to any conflict or choice of laws
+principles.
+
+ 
+
+g.           Transfer; Successors and
+Assigns. The terms and conditions of this Note shall inure to the benefit
+of and be binding upon the respective successors and assigns of the parties.
+This Note shall not be assignable by any Lender without the prior written
+consent of the Borrower (which consent shall not be unreasonably withheld,
+conditioned or delayed), provided that the Lender may assign or transfer any of
+its rights, privileges, or obligations set forth in, arising under, or created
+by this Note to any individual or entity controlled by, controlling or under
+common control with Lender, including without limitation any member of Lender or
+any affiliate of such member. The Borrower may not assign this Note without
+prior written consent of the Lender, provided that the Borrower may assign this
+Note to any successor of all or substantially all of its assets or business, or
+any entity surviving the merger, combination or consolidation with the
+Borrower.
+
+ 
+
+h.           Entire Agreement.
+This Note and any other agreement or instrument entered into in connection
+herewith (including each other Loan Document) contains the entire agreement of
+the Borrower and the Lender with respect to the subject matter
+hereof.
+
+ 
+
+ 
+
+i.           Confidentiality. In
+addition to separate confidentiality agreement, if any, the Lender will at all
+times keep confidential and not divulge, use or make accessible to anyone the
+terms and conditions of this Agreement and the transactions described herein,
+and any non-public material information concerning or relating to the business
+or financial affairs of the Borrower to which such party has been or will become
+privy relating to this Agreement, except to its employees and advisors in such
+capacity, as required to perform its obligations hereunder, if required by law
+or rules of a stock exchange on which its or its parent’s securities are listed,
+or with the prior written consent of the Borrower.
+
+
+
+[The
+remainder of this page intentionally left blank.]
+
+
+
+ 
+
+7
+
+
+
+
+
+ 
+
+ 
+
+IN
+WITNESS WHEREOF, the Borrower has caused this Note to be executed by its duly
+authorized representative as of the day and year first above
+written.
+
+ 
+
+
+
+DOCUMENT
+      SECURITY SYSTEMS, INC.
+
+ 
+       
+
+ 
+       
+
+By:  
+
+Name:
+      Patrick White
+
+Title:
+      Chief Executive Officer
+
+
+
+PRINTERS,
+      LLC
+
+ 
+       
+
+ 
+       
+
+By:  
+
+Name:
+      Thomas S. Felker
+
+Title:
+      Manager
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+Exhibit
+A
+
+
+
+Disclosure
+Schedule
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+ 
+

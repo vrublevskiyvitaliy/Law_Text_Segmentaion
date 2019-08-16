@@ -1,0 +1,757 @@
+**********************
+Exhibit10.6
+**********************
+WILLIS AWARD PLAN FOR KEY EMPLOYEES OF WILLIS GROUP HOLDINGS
+**********************
+AS AMENDED AND RESTATED ON DECEMBER 30, 2009 BY WILLIS GROUP HOLDINGS LIMITED AND AS AMENDED AND RESTATED AND ASSUMED BY WILLIS GROUP HOLDINGS PUBLIC LIMITED COMPANY ON DECEMBER 31, 2009
+**********************
+1.
+PURPOSE OF PLAN
+**********************
+The Willis Award Plan for Key Employees of Willis Group Holdings, as amended and restated on December30, 2009 by Willis Group Holdings Limited and as amended and restated and assumed by Willis Group Holdings Public Limited Company on December31, 2009 (the Plan) is designed:
+**********************
+(a)to promote the long term financial interests and growth of the Company and its subsidiaries by attracting and retaining management personnel with the training, experience and ability to enable them to make a substantial contribution to the success of the Companys business;
+**********************
+(b)to motivate management personnel by means of growth-related incentives to achieve long range goals; and
+**********************
+(c)to further the alignment of interests of participants with those of the shareholders of the Company through opportunities for increased share ownership in the Company.
+**********************
+2.
+DEFINITIONS
+**********************
+As used in the Plan, the following words shall have the following meanings:
+**********************
+(a) Act means the Companies Act 1963 of Ireland.
+**********************
+(b) Affiliate shall mean with respect to any Person, any entity directly or indirectly controlling, controlled by or under common control with such Person.
+**********************
+(c) Board means the board of directors of the Company, or a duly authorised committee thereof.
+**********************
+(d) Change of Control means (i)the acquisition of ownership, directly or indirectly, beneficially or of record, by any Person or group (within the meaning of the Exchange Act and the rules of the U.S. Securities and Exchange Commission there under as in effect on the date hereof) of the Ordinary Shares of the Company representing more than 50% of the aggregate voting power represented by the issued and outstanding Ordinary Shares of the Company; or (ii)occupation of a majority of the seats (other than vacant seats) on the Board by Persons who were neither (x) nominated by the Board nor (y)appointed by directors so nominated.
+For the avoidance of doubt, a transaction shall not constitute a Change of Control or other consolidating event described in Section9 below (i)if effected for the purpose of changing the place of incorporation or form of organization of the ultimate parent entity of the Willis group of
+**********************
+1
+**********************
+companies (including where the Company is succeeded by an issuer incorporated under the laws of another state, country or foreign government for such purpose and whether or not the Company remains in existence following such transaction) and (ii)where all or substantially all of the Person(s) who are the beneficial owners of the outstanding voting securities of the Company immediately prior to such transaction will beneficially own, directly or indirectly, all or substantially all of the combined voting power of the outstanding voting securities entitled to vote generally in the election of directors of the ultimate parent entity resulting from such transaction in substantially the same proportions as their ownership, immediately prior to such transaction, of such outstanding securities of the Company.
+The Board, in its sole discretion, may make an appropriate and equitable adjustment to the Shares underlying a Grant to take into account such transaction, including to substitute or provide for the issuance of shares of the resulting ultimate parent entity in lieu of Shares of the Company.
+**********************
+(e) Company means Willis Group Holding Public Limited Company, a company incorporated in Ireland under registered number 475616, or any successor thereto.
+**********************
+(f) Employee means a person, including an officer, in the regular employment of the Company or one of its Subsidiaries who, in the opinion of the Board, is, or is expected to be, primarily responsible for the management, growth or protection of some part or all of the business of the Company.
+**********************
+(g) Exchange Act means the U.S. Securities Exchange Act of 1934, as amended.
+**********************
+(h) Fair Market Value means such value of a Share as determined no less than annually (or more frequently if the Board so determines is required), in good faith by the Board, after it has taken into consideration certain factors (including, without limitation, the general condition of the Companys industry, the historical performance of the Company, and the Companys financial prospects) and after it has consulted with an independent investment banking firm selected with the consent of the GEC.
+In addition, after determining the Fair Market Value, the value of an individual Participants shares, on a per share basis, shall not be reduced to reflect the illiquidity or minority nature associated with such Participants shares.
+**********************
+(i) GEC shall mean the Group Executive Committee of the Company, or its successor body, or if none, the Board.
+**********************
+(j) Grant means an award made to a Participant pursuant to the Plan and described in Paragraph5, including, without limitation, an award of an U.S. Incentive Stock Option, U.S. Non-Qualified Stock Option, Share Appreciation Right, Performance Unit, Performance Share or any Other Share-Based Grant or any combination of the foregoing.
+**********************
+(k) Grant Agreement means an agreement between the Company and a Participant that sets forth the terms, conditions and limitations applicable to a Grant.
+**********************
+(l) Group means two or more Persons acting together as a partnership, limited partnership, syndicate or other group for the purpose of acquiring, holding or disposing of securities of the Company.
+**********************
+2
+**********************
+(m) Options means the collective reference to U.S. Incentive Stock Options and U.S. Non-Qualified Stock Options.
+**********************
+(n) Option Agreement means an agreement between the Company and a Participant that sets forth the terms, conditions and limitations applicable to an Option.
+**********************
+(o) Ordinary Shares or Shares means ordinary shares in the Company, nominal value $0.000115.
+**********************
+(p) Parent shall mean with respect to the Company, a parent corporation of that corporation within the meaning of section 424(e) of the U.S. Internal Revenue Code of 1986, as amended from time to time (the Code).
+**********************
+(q) Participant means an Employee to whom one or more Options have been granted and such Options have not all been forfeited or terminated under the Plan.
+**********************
+(r) Person means an individual, partnership, corporation, limited liability company business trust, joint share company, trust, unincorporated association, joint venture, governmental authority or other entity of whatever nature.
+**********************
+(s) Share-Based Grants means the collective reference to the grant of Share Appreciation Rights, Performance Units, Performance Shares, and Other Share-Based Grants.
+**********************
+(t) Subsidiary shall mean with respect to the Company, any subsidiary of the Company within the meaning of Section155 of the Act.
+For purposes of granting share options or any other stock rights, within the meaning of Section409A of the Code, an entity shall not be considered a Subsidiary if granting any such stock right would result in the stock right becoming subject to Section409A of the Code.
+For purposes of granting U.S. incentive stock options, an entity shall not be considered a Subsidiary if it does not also meet the requirements of Section 424(f) of the Code.
+**********************
+3.
+ADMINISTRATION OF PLAN
+**********************
+(a)The Plan shall be administered by the Board.
+None of the members of the Board shall be eligible to be selected for Grants under the Plan, or have been so eligible for selection within one year prior thereto; PROVIDED, HOWEVER, that the members of the Board shall qualify to administer the Plan for purposes of Rule16b-3 (and any other applicable rule) promulgated under Section 16(b) of the Exchange Act to the extent that the Company is subject to such rule.
+The Board may adopt its own rules of procedure, and action of a majority of the members of the Board taken at a meeting, or action taken without a meeting by unanimous written consent, shall constitute action by the Board.
+The Board shall have the power and authority to administer, construe and interpret the Plan, to make rules for carrying it out and to make changes in such rules.
+Any such interpretations, rules, and administration shall be consistent with the basic purposes of the Plan.
+**********************
+3
+**********************
+(b)The Board may delegate to the Chief Executive Officer and to other senior officers of the Company its duties under the Plan subject to such conditions and limitations as the Board shall prescribe except that only the Board may designate and make Grants to Participants who are subject to Section16 of the Exchange Act.
+**********************
+(c)The Board may employ lawyers, consultants, accountants, appraisers, brokers or other persons.
+The Board, the Company, and the officers and directors of the Company shall be entitled to rely upon the advice, opinions or valuations of any such persons.
+All actions taken and all interpretations and determinations made by the Board in good faith shall be final and binding upon all Participants, the Company and all other interested persons.
+No member of the Board shall be personally liable for any action, determination or interpretation made in good faith with respect to the Plan or the Grants, and all members of the Board shall be fully protected by the Company with respect to any such action, determination or interpretation.
+**********************
+4.
+ELIGIBILITY
+**********************
+(a)The Board may from time to time make Grants under the Plan to such Employees and in such form and having such terms, conditions and limitations as the Board may determine.
+No Grants may be made under this Plan to non-employee directors of Company or any of its Subsidiaries.
+The terms, conditions and limitations of each Grant under the Plan shall be set forth in a Grant Agreement, in a form approved by the Board, consistent, however, with the terms of the Plan; PROVIDED, HOWEVER, that such Grant Agreement shall contain provisions dealing with the treatment of Grants in the event of the termination, death or disability of a Participant, and may also include provisions concerning the treatment of Grants in the event of a Change of Control.
+**********************
+5.
+GRANTS
+**********************
+From time to time, the Board will determine the forms and amounts of Grants for Participants.
+Such Grants may take the following forms in the Boards sole discretion:
+**********************
+(a)U.S. INCENTIVE STOCK OPTIONS  These are share options within the meaning of Section422 of the Code, to purchase Ordinary Shares.
+In addition to other restrictions contained in the Plan, an option granted under this Paragraph5(a), (i)may not be exercised more than 10years after the date it is granted, (ii)may not have an option price less than the Fair Market Value of Ordinary Shares on the date the option is granted (or, if the Participant to whom the Incentive Stock Option is granted owns ordinary shares representing more than 10percent of the voting power of all classes of Company shares, the option price shall be at least equal to 110percent of the Fair Market Value of the Ordinary Shares on the date the option is granted), (iii)must otherwise comply with Code Section422, and (iv)must be designated as an Incentive Stock Option by the Board.
+The maximum aggregate Fair Market Value of Ordinary Shares (determined at the time of grant) with respect to which Incentive Stock Options are first exercisable with respect to any participant under this Plan and any Incentive Stock Options granted to the Participant for such year under any plans of the Company or any Parent or Subsidiary in any calendar year is $100,000.
+Payment of the option price shall be made in cash in accordance with the terms of the Plan, the Option Agreement, and of any applicable guidelines
+**********************
+4
+**********************
+of the Board in effect at the time.
+Incentive Stock Options may be granted only to Employees of the Company or any Parent or Subsidiary.
+**********************
+(b)U.S. NON-QUALIFIED STOCK OPTIONS  These are options to purchase Ordinary Shares which are not designated by the Board as U.S. Incentive Stock Options.
+At the time of grant the Board shall determine, and shall include in the Option Agreement or other Plan rules, the option exercise period, the option price, and such other conditions or restrictions on the grant or exercise of the option as the Board deems appropriate.
+In addition to other restrictions contained in the Plan, an option granted under this Paragraph 5(b) may not be exercised more than 10years after the date it is granted.
+Payment of the option price shall be made in cash in accordance with the terms of the Plan, the Option Agreement and of any applicable guidelines of the Board in effect at the time.
+**********************
+(c)SHARE APPRECIATION RIGHTS  These are rights that on exercise entitle the holder to receive the excess of (i)the Fair Market Value of a share of Ordinary Shares on the date of exercise over (ii) the Fair Market Value on the date of Grant (the base value) multiplied by (iii)the number of rights exercised as determined by the Board.
+Share Appreciation Rights granted under the Plan may, but need not be, granted in conjunction with an Option under Paragraph 5(a) or 5(b).
+The Board, in the Grant Agreement or by other Plan rules, may impose such conditions or restrictions on the exercise of Share Appreciation Rights as it deems appropriate, and may terminate, amend, or suspend such Share Appreciation Rights at any time.
+No Share Appreciation Right granted under this Plan may be exercised less than 6months or more than 10years after the date it is granted except in the event of death or disability of a Participant.
+To the extent that any Share Appreciation Right that shall have become exercisable but shall not have been exercised or cancelled or by reason of any termination of employment, shall have become non-exercisable, it shall be deemed to have been exercised automatically, without any notice of exercise, on the last day which it is exercisable, provided that any conditions or limitations on its exercise are satisfied (other than (i)notice of exercise and (ii)exercise or election to exercise during the period prescribed) and the Share Appreciation Right shall then have value.
+Such exercise shall be deemed to specify that the holder elects to receive cash and that such exercise of a Share Appreciation Right shall be effective as of the time of automatic exercise.
+**********************
+(d)PERFORMANCE UNITS  These are rights to receive at a specified future date, payment in cash of an amount equal to all or a portion of the value of a unit granted by the Board.
+At the time of the Grant, in the Grant Agreement or by other Plan rules, the Board must determine the base value of the unit, the performance factors applicable to the determination of the ultimate payment value of the unit and the period over which Company performance will be measured.
+These factors must include a minimum performance standard for the Company below which no payment will be made and a maximum performance level above which no increased payment will be made.
+The term over which Company performance will be measured shall be not less than six months.
+**********************
+(e)PERFORMANCE SHARES  These are rights to receive at a specified future date, payment in cash or Ordinary Shares, as determined by the Board, of an amount equal to all or a portion of the Fair Market Value for all days that the Ordinary Shares are traded during the last forty-five (45)days of the specified period of performance of a specified number of shares of
+**********************
+5
+**********************
+Ordinary Shares at the end of a specified period based on Company performance during the period.
+At the time of the Grant, the Board, in the Grant Agreement or by Plan rules, will determine the factors which will govern the portion of the rights so payable and the period over which Company performance will be measured.
+The factors will be based on Company performance and must include a minimum performance standard for the Company below which no payment will be made and a maximum performance level above which no increased payment will be made.
+The term over which Company performance will be measured shall be not less than six months.
+Performance Shares will be granted for no consideration.
+**********************
+(f)OTHER SHARE-BASED GRANTS  The Board may make other Grants under the Plan pursuant to which Ordinary Shares, are or may in the future be acquired, or Grants denominated in Share units, including ones valued using measures other than market value.
+Other Share-Based Grants may be granted with or without consideration.
+Such Other Share-Based Grants may be made alone, in addition to or in tandem with any Grant of any type made under the Plan and must be consistent with the purposes of the Plan.
+**********************
+6.
+LIMITATIONS AND CONDITIONS
+**********************
+(a)The number of Shares available for Grants under this Plan shall be 5,000,000 Shares; PROVIDED, HOWEVER, that in no event shall the total number of Shares subject to options and other equity for current and future Participants exceed 25% of the equity of the Company on a fully diluted basis.
+Shares subject to Grants that are forfeited, terminated, canceled or expire unexercised, shall immediately become available for other Grants.
+**********************
+(b)No Grants shall be made under the Plan beyond ten years after the original effective date of the Plan, but the terms of Grants made on or before the expiration of the Plan may extend beyond such expiration.
+At the time a Grant is made or amended or the terms or conditions of a Grant are changed, the Board may provide for limitations or conditions on such Grant.
+**********************
+(c)Nothing contained herein shall affect the right of the Company to terminate any Participants employment at any time or for any reason.
+The rights and obligations of any individual under the terms of his office or employment with the Company or any Subsidiary shall not be affected by his participation in this Plan or any right which he may have to participate in it, and an individual who participates in it shall waive any and all rights to compensation or damages in consequence of the termination of his office or employment for any reason whatsoever insofar as those rights arise or may arise from his ceasing to have rights under or be entitled to exercise any Grant as a result of such termination.
+**********************
+(d)Other than as specifically provided in the Management and Employee Shareholders and Subscription Agreement attached hereto as ExhibitA with regard to the death of a Participant, no benefit under the Plan shall be subject in any manner to anticipation, alienation, sale, transfer, assignment, pledge, encumbrance, or charge, and any attempt to do so shall be void.
+No such benefit shall, prior to receipt thereof by the Participant, be in any manner liable for or subject to the debts, contracts, liabilities, engagements, or torts of the Participant.
+**********************
+6
+**********************
+(e)Participants shall not be, and shall not have any of the rights or privileges of, shareholders of the Company in respect of any Shares purchasable in connection with any Grant unless and until such Shares have been issued by the Company to such Participants.
+**********************
+(f)No Grant may be exercised during a Participants lifetime by anyone other than the Participant except by a legal representative appointed for or by the Participant.
+**********************
+(g)Absent express provisions to the contrary, any Grant made under this Plan shall not be deemed compensation for purposes of computing benefits or contributions under any retirement plan of the Company or its Subsidiaries and shall not affect any benefits under any other benefit plan of any kind now or subsequently in effect under which the availability or amount of benefits is related to level of compensation.
+This Plan is not a Retirement Plan or Welfare Plan under the U.S.
+Employee
+**********************
+(h)Unless the Board determines otherwise, no benefit or promise under the Plan shall be secured by any specific assets of the Company or any of its Subsidiaries, nor shall any assets of the Company or any of its Subsidiaries be designated as attributable or allocated to the satisfaction of the Companys obligations under the Plan.
+**********************
+7.
+TRANSFERS AND LEAVES OF ABSENCE
+**********************
+For purposes of the Plan, unless the Board determines otherwise: (a)a transfer of a Participants employment without an intervening period of separation among the Company and any Subsidiary shall not be deemed a termination of employment, and (b)a
+**********************
+Participant who is granted in writing a leave of absence shall be deemed to have remained in the employ of the Company during such leave of absence.
+**********************
+8.
+ADJUSTMENTS
+**********************
+(a)In the event of any increase or variation of the share capital of the Company, the Board may make such adjustments as it considers appropriate under Paragraph 8(b) below.
+**********************
+(b)An adjustment made under this Paragraph 8(b) shall be to one or more of the following:
+**********************
+(i)the number of Shares in respect of which any Option or Other Share-Based Grant may be exercised;
+**********************
+(ii)the price at which Shares may be acquired by the exercise of any Option or Other Share-Based Grant;
+**********************
+(iii)where any Option or Other Share-Based Grant has been exercised but no Shares have been allotted or transferred pursuant to the exercise, the number of Shares which may be so allotted or transferred and the price at which they may be acquired.
+**********************
+7
+**********************
+(c)An adjustment under Paragraph 8(b) above may have the effect of reducing the price at which Shares may be acquired by the exercise of an Option or Other Share-Based Grant to less than their nominal value, but only if and to the extent that the Board shall be authorised to capitalize from the reserves of the Company a sum equal to the amount by which the nominal value of the Shares in respect of which the Option or Other Share-Based Grant is exercised and which are to be allotted pursuant to such exercise exceeds the price at which the same may be subscribed for and to apply that sum in paying up that amount on the Shares; and so that on exercise of any Option or Other Share-based Grant in respect of which such a reduction shall have been made the Board shall capitalise such sum (if any) and apply it in paying up such amount as aforesaid.
+**********************
+9.
+EXCHANGE, ACQUISITION, LIQUIDATION OR DISSOLUTION
+**********************
+In its absolute discretion, and on such terms and conditions as it deems appropriate, coincident with or after the grant of any Option or Other Share-Based Grant, the Board may provide that such Option or Other Share-Based Grant cannot be exercised after the exchange of all or substantially all of the assets of the Company for the securities of another corporation, the acquisition by another corporation of 80% or more of the Companys then outstanding voting Shares, liquidation or dissolution of the Company, any variation of the share capital of the Company, and if the Board so provides, it may, in its absolute discretion and on such terms and conditions as it deems appropriate, also provide, either by the terms of such Option or Other Share-Based Grant or by a resolution adopted prior to the occurrence of such exchange, acquisition, any variation of the share capital of the Company, liquidation or dissolution, that, for some period of time prior to such event, such Option or Other Share-Based Grant shall be exercisable as to all Shares subject thereto, notwithstanding anything to the contrary herein (but subject to the provisions of Paragraph6(b)) and that, upon the occurrence of such event, such Option or Other Share-Based Grant shall terminate and be of no further force or effect; provided, HOWEVER, that the Board may also provide, in its absolute discretion, that even if the Option or Other Share-Based Grant shall remain exercisable after any such event, from and after such event, any such Option or Other Share-Based Grant shall be exercisable only for the kind and amount of securities and/or other property, or the cash equivalent thereof, receivable as a result of such event by the holder of a number of Shares for which such Option or Other Share-Based Grant could have been exercised immediately prior to such event.
+**********************
+10.
+AMENDMENT AND TERMINATION
+**********************
+The Board shall have the authority to make such amendments to any terms and conditions applicable to outstanding Grants as are consistent with this Plan provided that, except for adjustments under Paragraph8 or 9 hereof, no amendment to the disadvantage of any Participant shall be made unless:
+**********************
+(a)the Board shall have invited every such Participant to give an indication as to whether or not he approves the amendment, and
+**********************
+(b)the amendment is approved by a majority of those Participants who have given such an indication.
+**********************
+8
+**********************
+The Board may amend, suspend or terminate the Plan except that no such action, other than an action under Paragraph8 or 9 hereof, may be taken which would, without shareholder approval, increase the aggregate number of Shares available for Grants under the Plan, decrease the price of outstanding Grants, change the requirements relating to the Board or extend the term of the Plan.
+**********************
+11. INTERNATIONAL OPTIONS AND RIGHTS
+**********************
+The Board may make Grants to Employees who are subject to the laws of countries other than Ireland, which Grants may have terms and conditions that differ from the terms thereof as provided elsewhere in the Plan for the purpose of complying with foreign laws.
+**********************
+12.
+WITHHOLDING TAXES, ALLOTMENT AND TRANSFER
+**********************
+(a)The Company shall have the right to deduct from any cash payment made under the Plan any federal, state or local income or other taxes required by law to be withheld with respect to such payment.
+**********************
+(b)Within 30days after an Option has been exercised by any person, before payment of Performance Shares (if paid in Ordinary Shares) or before exercise, settlement or payment (if paid in Ordinary Shares) of any Other Share-Based Grant, the Board shall allot to such person (or a nominee for him) or, as appropriate, procure the transfer to him (or a nominee for him) of the number of Shares in respect of which the option has been exercised, provided that:
+**********************
+(i)the Board considers that the issue or transfer thereof would be lawful in all relevant jurisdictions; and
+**********************
+(ii)in a case where the Company or any Subsidiary (Group Member) is obliged to (or would suffer a disadvantage if it were not to) account for any tax (in any jurisdiction) for which the person in question is liable by virtue of the exercise of the option and/or for any social security, contributions recoverable from the person in question (together, the Tax Liability), that person has either:
+**********************
+(A)made a payment to the Group Member of an amount equal to the Tax Liability; or
+**********************
+(B)entered into arrangements acceptable to that or another Group Member to secure that such a payment is made (whether by authorizing the sale of some or all of the Shares on his behalf and the payment to the Group Member of the relevant amount out of the proceeds of sale or otherwise).
+**********************
+(c)All Shares allotted under this Plan shall rank equally in all respects with Shares of the same class then in issue except for any rights attaching to such Shares by reference to a record date prior to the date of the allotment.
+**********************
+9
+**********************
+13.
+EFFECTIVE DATE AND TERMINATION DATES
+**********************
+The Plan shall be effective on and as of the date of the original approval by the Board of the Plan and no additional Grants shall be made under the Plan; PROVIDED, HOWEVER the Plan shall remain in full force and effect with respect to any outstanding Grants that have not expired or terminated by their terms.
+**********************
+14.
+FINANCIAL ASSISTANCE
+**********************
+The Company and any Subsidiary may provide money to the trustees of any trust or any other person to enable them or him to acquire Shares to be held for the purposes of the Plan, or enter into any guarantee or indemnities for these purposes or provide financial assistance of any other kind, to the extent permitted by section 60 of the Act.
+**********************
+15.
+MISCELLANEOUS
+**********************
+The masculine pronoun shall include the feminine and neuter, and the singular the plural, where the context so indicates.
+**********************
+16.
+GOVERNING LAW
+**********************
+The Plan shall be governed by the laws of the United Kingdom, without regard to conflicts of laws.
+**********************
+10
+**********************
+Exhibit10.6
+**********************
+WILLIS AWARD PLAN FOR KEY EMPLOYEES OF WILLIS GROUP HOLDINGS
+**********************
+AS AMENDED AND RESTATED ON DECEMBER 30, 2009 BY WILLIS GROUP HOLDINGS LIMITED AND AS AMENDED AND RESTATED AND ASSUMED BY WILLIS GROUP HOLDINGS PUBLIC LIMITED COMPANY ON DECEMBER 31, 2009
+**********************
+1.
+PURPOSE OF PLAN
+**********************
+The Willis Award Plan for Key Employees of Willis Group Holdings, as amended and restated on December30, 2009 by Willis Group Holdings Limited and as amended and restated and assumed by Willis Group Holdings Public Limited Company on December31, 2009 (the Plan) is designed:
+**********************
+(a)to promote the long term financial interests and growth of the Company and its subsidiaries by attracting and retaining management personnel with the training, experience and ability to enable them to make a substantial contribution to the success of the Companys business;
+**********************
+(b)to motivate management personnel by means of growth-related incentives to achieve long range goals; and
+**********************
+(c)to further the alignment of interests of participants with those of the shareholders of the Company through opportunities for increased share ownership in the Company.
+**********************
+2.
+DEFINITIONS
+**********************
+As used in the Plan, the following words shall have the following meanings:
+**********************
+(a) Act means the Companies Act 1963 of Ireland.
+**********************
+(b) Affiliate shall mean with respect to any Person, any entity directly or indirectly controlling, controlled by or under common control with such Person.
+**********************
+(c) Board means the board of directors of the Company, or a duly authorised committee thereof.
+**********************
+(d) Change of Control means (i)the acquisition of ownership, directly or indirectly, beneficially or of record, by any Person or group (within the meaning of the Exchange Act and the rules of the U.S. Securities and Exchange Commission there under as in effect on the date hereof) of the Ordinary Shares of the Company representing more than 50% of the aggregate voting power represented by the issued and outstanding Ordinary Shares of the Company; or (ii)occupation of a majority of the seats (other than vacant seats) on the Board by Persons who were neither (x) nominated by the Board nor (y)appointed by directors so nominated.
+For the avoidance of doubt, a transaction shall not constitute a Change of Control or other consolidating event described in Section9 below (i)if effected for the purpose of changing the place of incorporation or form of organization of the ultimate parent entity of the Willis group of
+**********************
+1
+**********************
+Exhibit10.6
+**********************
+WILLIS AWARD PLAN FOR KEY EMPLOYEES OF WILLIS GROUP HOLDINGS
+**********************
+AS AMENDED AND RESTATED ON DECEMBER 30, 2009 BY WILLIS GROUP HOLDINGS LIMITED AND AS AMENDED AND RESTATED AND ASSUMED BY WILLIS GROUP HOLDINGS PUBLIC LIMITED COMPANY ON DECEMBER 31, 2009
+**********************
+1.
+PURPOSE OF PLAN
+**********************
+The Willis Award Plan for Key Employees of Willis Group Holdings, as amended and restated on December30, 2009 by Willis Group Holdings Limited and as amended and restated and assumed by Willis Group Holdings Public Limited Company on December31, 2009 (the Plan) is designed:
+**********************
+(a)to promote the long term financial interests and growth of the Company and its subsidiaries by attracting and retaining management personnel with the training, experience and ability to enable them to make a substantial contribution to the success of the Companys business;
+**********************
+(b)to motivate management personnel by means of growth-related incentives to achieve long range goals; and
+**********************
+(c)to further the alignment of interests of participants with those of the shareholders of the Company through opportunities for increased share ownership in the Company.
+**********************
+2.
+DEFINITIONS
+**********************
+As used in the Plan, the following words shall have the following meanings:
+**********************
+(a) Act means the Companies Act 1963 of Ireland.
+**********************
+(b) Affiliate shall mean with respect to any Person, any entity directly or indirectly controlling, controlled by or under common control with such Person.
+**********************
+(c) Board means the board of directors of the Company, or a duly authorised committee thereof.
+**********************
+(d) Change of Control means (i)the acquisition of ownership, directly or indirectly, beneficially or of record, by any Person or group (within the meaning of the Exchange Act and the rules of the U.S. Securities and Exchange Commission there under as in effect on the date hereof) of the Ordinary Shares of the Company representing more than 50% of the aggregate voting power represented by the issued and outstanding Ordinary Shares of the Company; or (ii)occupation of a majority of the seats (other than vacant seats) on the Board by Persons who were neither (x) nominated by the Board nor (y)appointed by directors so nominated.
+For the avoidance of doubt, a transaction shall not constitute a Change of Control or other consolidating event described in Section9 below (i)if effected for the purpose of changing the place of incorporation or form of organization of the ultimate parent entity of the Willis group of
+**********************
+companies (including where the Company is succeeded by an issuer incorporated under the laws of another state, country or foreign government for such purpose and whether or not the Company remains in existence following such transaction) and (ii)where all or substantially all of the Person(s) who are the beneficial owners of the outstanding voting securities of the Company immediately prior to such transaction will beneficially own, directly or indirectly, all or substantially all of the combined voting power of the outstanding voting securities entitled to vote generally in the election of directors of the ultimate parent entity resulting from such transaction in substantially the same proportions as their ownership, immediately prior to such transaction, of such outstanding securities of the Company.
+The Board, in its sole discretion, may make an appropriate and equitable adjustment to the Shares underlying a Grant to take into account such transaction, including to substitute or provide for the issuance of shares of the resulting ultimate parent entity in lieu of Shares of the Company.
+**********************
+(e) Company means Willis Group Holding Public Limited Company, a company incorporated in Ireland under registered number 475616, or any successor thereto.
+**********************
+(f) Employee means a person, including an officer, in the regular employment of the Company or one of its Subsidiaries who, in the opinion of the Board, is, or is expected to be, primarily responsible for the management, growth or protection of some part or all of the business of the Company.
+**********************
+(g) Exchange Act means the U.S. Securities Exchange Act of 1934, as amended.
+**********************
+(h) Fair Market Value means such value of a Share as determined no less than annually (or more frequently if the Board so determines is required), in good faith by the Board, after it has taken into consideration certain factors (including, without limitation, the general condition of the Companys industry, the historical performance of the Company, and the Companys financial prospects) and after it has consulted with an independent investment banking firm selected with the consent of the GEC.
+In addition, after determining the Fair Market Value, the value of an individual Participants shares, on a per share basis, shall not be reduced to reflect the illiquidity or minority nature associated with such Participants shares.
+**********************
+(i) GEC shall mean the Group Executive Committee of the Company, or its successor body, or if none, the Board.
+**********************
+(j) Grant means an award made to a Participant pursuant to the Plan and described in Paragraph5, including, without limitation, an award of an U.S. Incentive Stock Option, U.S. Non-Qualified Stock Option, Share Appreciation Right, Performance Unit, Performance Share or any Other Share-Based Grant or any combination of the foregoing.
+**********************
+(k) Grant Agreement means an agreement between the Company and a Participant that sets forth the terms, conditions and limitations applicable to a Grant.
+**********************
+(l) Group means two or more Persons acting together as a partnership, limited partnership, syndicate or other group for the purpose of acquiring, holding or disposing of securities of the Company.
+**********************
+2
+**********************
+companies (including where the Company is succeeded by an issuer incorporated under the laws of another state, country or foreign government for such purpose and whether or not the Company remains in existence following such transaction) and (ii)where all or substantially all of the Person(s) who are the beneficial owners of the outstanding voting securities of the Company immediately prior to such transaction will beneficially own, directly or indirectly, all or substantially all of the combined voting power of the outstanding voting securities entitled to vote generally in the election of directors of the ultimate parent entity resulting from such transaction in substantially the same proportions as their ownership, immediately prior to such transaction, of such outstanding securities of the Company.
+The Board, in its sole discretion, may make an appropriate and equitable adjustment to the Shares underlying a Grant to take into account such transaction, including to substitute or provide for the issuance of shares of the resulting ultimate parent entity in lieu of Shares of the Company.
+**********************
+(e) Company means Willis Group Holding Public Limited Company, a company incorporated in Ireland under registered number 475616, or any successor thereto.
+**********************
+(f) Employee means a person, including an officer, in the regular employment of the Company or one of its Subsidiaries who, in the opinion of the Board, is, or is expected to be, primarily responsible for the management, growth or protection of some part or all of the business of the Company.
+**********************
+(g) Exchange Act means the U.S. Securities Exchange Act of 1934, as amended.
+**********************
+(h) Fair Market Value means such value of a Share as determined no less than annually (or more frequently if the Board so determines is required), in good faith by the Board, after it has taken into consideration certain factors (including, without limitation, the general condition of the Companys industry, the historical performance of the Company, and the Companys financial prospects) and after it has consulted with an independent investment banking firm selected with the consent of the GEC.
+In addition, after determining the Fair Market Value, the value of an individual Participants shares, on a per share basis, shall not be reduced to reflect the illiquidity or minority nature associated with such Participants shares.
+**********************
+(i) GEC shall mean the Group Executive Committee of the Company, or its successor body, or if none, the Board.
+**********************
+(j) Grant means an award made to a Participant pursuant to the Plan and described in Paragraph5, including, without limitation, an award of an U.S. Incentive Stock Option, U.S. Non-Qualified Stock Option, Share Appreciation Right, Performance Unit, Performance Share or any Other Share-Based Grant or any combination of the foregoing.
+**********************
+(k) Grant Agreement means an agreement between the Company and a Participant that sets forth the terms, conditions and limitations applicable to a Grant.
+**********************
+(l) Group means two or more Persons acting together as a partnership, limited partnership, syndicate or other group for the purpose of acquiring, holding or disposing of securities of the Company.
+**********************
+(m) Options means the collective reference to U.S. Incentive Stock Options and U.S. Non-Qualified Stock Options.
+**********************
+(n) Option Agreement means an agreement between the Company and a Participant that sets forth the terms, conditions and limitations applicable to an Option.
+**********************
+(o) Ordinary Shares or Shares means ordinary shares in the Company, nominal value $0.000115.
+**********************
+(p) Parent shall mean with respect to the Company, a parent corporation of that corporation within the meaning of section 424(e) of the U.S. Internal Revenue Code of 1986, as amended from time to time (the Code).
+**********************
+(q) Participant means an Employee to whom one or more Options have been granted and such Options have not all been forfeited or terminated under the Plan.
+**********************
+(r) Person means an individual, partnership, corporation, limited liability company business trust, joint share company, trust, unincorporated association, joint venture, governmental authority or other entity of whatever nature.
+**********************
+(s) Share-Based Grants means the collective reference to the grant of Share Appreciation Rights, Performance Units, Performance Shares, and Other Share-Based Grants.
+**********************
+(t) Subsidiary shall mean with respect to the Company, any subsidiary of the Company within the meaning of Section155 of the Act.
+For purposes of granting share options or any other stock rights, within the meaning of Section409A of the Code, an entity shall not be considered a Subsidiary if granting any such stock right would result in the stock right becoming subject to Section409A of the Code.
+For purposes of granting U.S. incentive stock options, an entity shall not be considered a Subsidiary if it does not also meet the requirements of Section 424(f) of the Code.
+**********************
+3.
+ADMINISTRATION OF PLAN
+**********************
+(a)The Plan shall be administered by the Board.
+None of the members of the Board shall be eligible to be selected for Grants under the Plan, or have been so eligible for selection within one year prior thereto; PROVIDED, HOWEVER, that the members of the Board shall qualify to administer the Plan for purposes of Rule16b-3 (and any other applicable rule) promulgated under Section 16(b) of the Exchange Act to the extent that the Company is subject to such rule.
+The Board may adopt its own rules of procedure, and action of a majority of the members of the Board taken at a meeting, or action taken without a meeting by unanimous written consent, shall constitute action by the Board.
+The Board shall have the power and authority to administer, construe and interpret the Plan, to make rules for carrying it out and to make changes in such rules.
+Any such interpretations, rules, and administration shall be consistent with the basic purposes of the Plan.
+**********************
+3
+**********************
+(m) Options means the collective reference to U.S. Incentive Stock Options and U.S. Non-Qualified Stock Options.
+**********************
+(n) Option Agreement means an agreement between the Company and a Participant that sets forth the terms, conditions and limitations applicable to an Option.
+**********************
+(o) Ordinary Shares or Shares means ordinary shares in the Company, nominal value $0.000115.
+**********************
+(p) Parent shall mean with respect to the Company, a parent corporation of that corporation within the meaning of section 424(e) of the U.S. Internal Revenue Code of 1986, as amended from time to time (the Code).
+**********************
+(q) Participant means an Employee to whom one or more Options have been granted and such Options have not all been forfeited or terminated under the Plan.
+**********************
+(r) Person means an individual, partnership, corporation, limited liability company business trust, joint share company, trust, unincorporated association, joint venture, governmental authority or other entity of whatever nature.
+**********************
+(s) Share-Based Grants means the collective reference to the grant of Share Appreciation Rights, Performance Units, Performance Shares, and Other Share-Based Grants.
+**********************
+(t) Subsidiary shall mean with respect to the Company, any subsidiary of the Company within the meaning of Section155 of the Act.
+For purposes of granting share options or any other stock rights, within the meaning of Section409A of the Code, an entity shall not be considered a Subsidiary if granting any such stock right would result in the stock right becoming subject to Section409A of the Code.
+For purposes of granting U.S. incentive stock options, an entity shall not be considered a Subsidiary if it does not also meet the requirements of Section 424(f) of the Code.
+**********************
+3.
+ADMINISTRATION OF PLAN
+**********************
+(a)The Plan shall be administered by the Board.
+None of the members of the Board shall be eligible to be selected for Grants under the Plan, or have been so eligible for selection within one year prior thereto; PROVIDED, HOWEVER, that the members of the Board shall qualify to administer the Plan for purposes of Rule16b-3 (and any other applicable rule) promulgated under Section 16(b) of the Exchange Act to the extent that the Company is subject to such rule.
+The Board may adopt its own rules of procedure, and action of a majority of the members of the Board taken at a meeting, or action taken without a meeting by unanimous written consent, shall constitute action by the Board.
+The Board shall have the power and authority to administer, construe and interpret the Plan, to make rules for carrying it out and to make changes in such rules.
+Any such interpretations, rules, and administration shall be consistent with the basic purposes of the Plan.
+**********************
+(b)The Board may delegate to the Chief Executive Officer and to other senior officers of the Company its duties under the Plan subject to such conditions and limitations as the Board shall prescribe except that only the Board may designate and make Grants to Participants who are subject to Section16 of the Exchange Act.
+**********************
+(c)The Board may employ lawyers, consultants, accountants, appraisers, brokers or other persons.
+The Board, the Company, and the officers and directors of the Company shall be entitled to rely upon the advice, opinions or valuations of any such persons.
+All actions taken and all interpretations and determinations made by the Board in good faith shall be final and binding upon all Participants, the Company and all other interested persons.
+No member of the Board shall be personally liable for any action, determination or interpretation made in good faith with respect to the Plan or the Grants, and all members of the Board shall be fully protected by the Company with respect to any such action, determination or interpretation.
+**********************
+4.
+ELIGIBILITY
+**********************
+(a)The Board may from time to time make Grants under the Plan to such Employees and in such form and having such terms, conditions and limitations as the Board may determine.
+No Grants may be made under this Plan to non-employee directors of Company or any of its Subsidiaries.
+The terms, conditions and limitations of each Grant under the Plan shall be set forth in a Grant Agreement, in a form approved by the Board, consistent, however, with the terms of the Plan; PROVIDED, HOWEVER, that such Grant Agreement shall contain provisions dealing with the treatment of Grants in the event of the termination, death or disability of a Participant, and may also include provisions concerning the treatment of Grants in the event of a Change of Control.
+**********************
+5.
+GRANTS
+**********************
+From time to time, the Board will determine the forms and amounts of Grants for Participants.
+Such Grants may take the following forms in the Boards sole discretion:
+**********************
+(a)U.S. INCENTIVE STOCK OPTIONS  These are share options within the meaning of Section422 of the Code, to purchase Ordinary Shares.
+In addition to other restrictions contained in the Plan, an option granted under this Paragraph5(a), (i)may not be exercised more than 10years after the date it is granted, (ii)may not have an option price less than the Fair Market Value of Ordinary Shares on the date the option is granted (or, if the Participant to whom the Incentive Stock Option is granted owns ordinary shares representing more than 10percent of the voting power of all classes of Company shares, the option price shall be at least equal to 110percent of the Fair Market Value of the Ordinary Shares on the date the option is granted), (iii)must otherwise comply with Code Section422, and (iv)must be designated as an Incentive Stock Option by the Board.
+The maximum aggregate Fair Market Value of Ordinary Shares (determined at the time of grant) with respect to which Incentive Stock Options are first exercisable with respect to any participant under this Plan and any Incentive Stock Options granted to the Participant for such year under any plans of the Company or any Parent or Subsidiary in any calendar year is $100,000.
+Payment of the option price shall be made in cash in accordance with the terms of the Plan, the Option Agreement, and of any applicable guidelines
+**********************
+4
+**********************
+(b)The Board may delegate to the Chief Executive Officer and to other senior officers of the Company its duties under the Plan subject to such conditions and limitations as the Board shall prescribe except that only the Board may designate and make Grants to Participants who are subject to Section16 of the Exchange Act.
+**********************
+(c)The Board may employ lawyers, consultants, accountants, appraisers, brokers or other persons.
+The Board, the Company, and the officers and directors of the Company shall be entitled to rely upon the advice, opinions or valuations of any such persons.
+All actions taken and all interpretations and determinations made by the Board in good faith shall be final and binding upon all Participants, the Company and all other interested persons.
+No member of the Board shall be personally liable for any action, determination or interpretation made in good faith with respect to the Plan or the Grants, and all members of the Board shall be fully protected by the Company with respect to any such action, determination or interpretation.
+**********************
+4.
+ELIGIBILITY
+**********************
+(a)The Board may from time to time make Grants under the Plan to such Employees and in such form and having such terms, conditions and limitations as the Board may determine.
+No Grants may be made under this Plan to non-employee directors of Company or any of its Subsidiaries.
+The terms, conditions and limitations of each Grant under the Plan shall be set forth in a Grant Agreement, in a form approved by the Board, consistent, however, with the terms of the Plan; PROVIDED, HOWEVER, that such Grant Agreement shall contain provisions dealing with the treatment of Grants in the event of the termination, death or disability of a Participant, and may also include provisions concerning the treatment of Grants in the event of a Change of Control.
+**********************
+5.
+GRANTS
+**********************
+From time to time, the Board will determine the forms and amounts of Grants for Participants.
+Such Grants may take the following forms in the Boards sole discretion:
+**********************
+(a)U.S. INCENTIVE STOCK OPTIONS  These are share options within the meaning of Section422 of the Code, to purchase Ordinary Shares.
+In addition to other restrictions contained in the Plan, an option granted under this Paragraph5(a), (i)may not be exercised more than 10years after the date it is granted, (ii)may not have an option price less than the Fair Market Value of Ordinary Shares on the date the option is granted (or, if the Participant to whom the Incentive Stock Option is granted owns ordinary shares representing more than 10percent of the voting power of all classes of Company shares, the option price shall be at least equal to 110percent of the Fair Market Value of the Ordinary Shares on the date the option is granted), (iii)must otherwise comply with Code Section422, and (iv)must be designated as an Incentive Stock Option by the Board.
+The maximum aggregate Fair Market Value of Ordinary Shares (determined at the time of grant) with respect to which Incentive Stock Options are first exercisable with respect to any participant under this Plan and any Incentive Stock Options granted to the Participant for such year under any plans of the Company or any Parent or Subsidiary in any calendar year is $100,000.
+Payment of the option price shall be made in cash in accordance with the terms of the Plan, the Option Agreement, and of any applicable guidelines
+**********************
+of the Board in effect at the time.
+Incentive Stock Options may be granted only to Employees of the Company or any Parent or Subsidiary.
+**********************
+(b)U.S. NON-QUALIFIED STOCK OPTIONS  These are options to purchase Ordinary Shares which are not designated by the Board as U.S. Incentive Stock Options.
+At the time of grant the Board shall determine, and shall include in the Option Agreement or other Plan rules, the option exercise period, the option price, and such other conditions or restrictions on the grant or exercise of the option as the Board deems appropriate.
+In addition to other restrictions contained in the Plan, an option granted under this Paragraph 5(b) may not be exercised more than 10years after the date it is granted.
+Payment of the option price shall be made in cash in accordance with the terms of the Plan, the Option Agreement and of any applicable guidelines of the Board in effect at the time.
+**********************
+(c)SHARE APPRECIATION RIGHTS  These are rights that on exercise entitle the holder to receive the excess of (i)the Fair Market Value of a share of Ordinary Shares on the date of exercise over (ii) the Fair Market Value on the date of Grant (the base value) multiplied by (iii)the number of rights exercised as determined by the Board.
+Share Appreciation Rights granted under the Plan may, but need not be, granted in conjunction with an Option under Paragraph 5(a) or 5(b).
+The Board, in the Grant Agreement or by other Plan rules, may impose such conditions or restrictions on the exercise of Share Appreciation Rights as it deems appropriate, and may terminate, amend, or suspend such Share Appreciation Rights at any time.
+No Share Appreciation Right granted under this Plan may be exercised less than 6months or more than 10years after the date it is granted except in the event of death or disability of a Participant.
+To the extent that any Share Appreciation Right that shall have become exercisable but shall not have been exercised or cancelled or by reason of any termination of employment, shall have become non-exercisable, it shall be deemed to have been exercised automatically, without any notice of exercise, on the last day which it is exercisable, provided that any conditions or limitations on its exercise are satisfied (other than (i)notice of exercise and (ii)exercise or election to exercise during the period prescribed) and the Share Appreciation Right shall then have value.
+Such exercise shall be deemed to specify that the holder elects to receive cash and that such exercise of a Share Appreciation Right shall be effective as of the time of automatic exercise.
+**********************
+(d)PERFORMANCE UNITS  These are rights to receive at a specified future date, payment in cash of an amount equal to all or a portion of the value of a unit granted by the Board.
+At the time of the Grant, in the Grant Agreement or by other Plan rules, the Board must determine the base value of the unit, the performance factors applicable to the determination of the ultimate payment value of the unit and the period over which Company performance will be measured.
+These factors must include a minimum performance standard for the Company below which no payment will be made and a maximum performance level above which no increased payment will be made.
+The term over which Company performance will be measured shall be not less than six months.
+**********************
+(e)PERFORMANCE SHARES  These are rights to receive at a specified future date, payment in cash or Ordinary Shares, as determined by the Board, of an amount equal to all or a portion of the Fair Market Value for all days that the Ordinary Shares are traded during the last forty-five (45)days of the specified period of performance of a specified number of shares of
+**********************
+5
+**********************
+of the Board in effect at the time.
+Incentive Stock Options may be granted only to Employees of the Company or any Parent or Subsidiary.
+**********************
+(b)U.S. NON-QUALIFIED STOCK OPTIONS  These are options to purchase Ordinary Shares which are not designated by the Board as U.S. Incentive Stock Options.
+At the time of grant the Board shall determine, and shall include in the Option Agreement or other Plan rules, the option exercise period, the option price, and such other conditions or restrictions on the grant or exercise of the option as the Board deems appropriate.
+In addition to other restrictions contained in the Plan, an option granted under this Paragraph 5(b) may not be exercised more than 10years after the date it is granted.
+Payment of the option price shall be made in cash in accordance with the terms of the Plan, the Option Agreement and of any applicable guidelines of the Board in effect at the time.
+**********************
+(c)SHARE APPRECIATION RIGHTS  These are rights that on exercise entitle the holder to receive the excess of (i)the Fair Market Value of a share of Ordinary Shares on the date of exercise over (ii) the Fair Market Value on the date of Grant (the base value) multiplied by (iii)the number of rights exercised as determined by the Board.
+Share Appreciation Rights granted under the Plan may, but need not be, granted in conjunction with an Option under Paragraph 5(a) or 5(b).
+The Board, in the Grant Agreement or by other Plan rules, may impose such conditions or restrictions on the exercise of Share Appreciation Rights as it deems appropriate, and may terminate, amend, or suspend such Share Appreciation Rights at any time.
+No Share Appreciation Right granted under this Plan may be exercised less than 6months or more than 10years after the date it is granted except in the event of death or disability of a Participant.
+To the extent that any Share Appreciation Right that shall have become exercisable but shall not have been exercised or cancelled or by reason of any termination of employment, shall have become non-exercisable, it shall be deemed to have been exercised automatically, without any notice of exercise, on the last day which it is exercisable, provided that any conditions or limitations on its exercise are satisfied (other than (i)notice of exercise and (ii)exercise or election to exercise during the period prescribed) and the Share Appreciation Right shall then have value.
+Such exercise shall be deemed to specify that the holder elects to receive cash and that such exercise of a Share Appreciation Right shall be effective as of the time of automatic exercise.
+**********************
+(d)PERFORMANCE UNITS  These are rights to receive at a specified future date, payment in cash of an amount equal to all or a portion of the value of a unit granted by the Board.
+At the time of the Grant, in the Grant Agreement or by other Plan rules, the Board must determine the base value of the unit, the performance factors applicable to the determination of the ultimate payment value of the unit and the period over which Company performance will be measured.
+These factors must include a minimum performance standard for the Company below which no payment will be made and a maximum performance level above which no increased payment will be made.
+The term over which Company performance will be measured shall be not less than six months.
+**********************
+(e)PERFORMANCE SHARES  These are rights to receive at a specified future date, payment in cash or Ordinary Shares, as determined by the Board, of an amount equal to all or a portion of the Fair Market Value for all days that the Ordinary Shares are traded during the last forty-five (45)days of the specified period of performance of a specified number of shares of
+**********************
+Ordinary Shares at the end of a specified period based on Company performance during the period.
+At the time of the Grant, the Board, in the Grant Agreement or by Plan rules, will determine the factors which will govern the portion of the rights so payable and the period over which Company performance will be measured.
+The factors will be based on Company performance and must include a minimum performance standard for the Company below which no payment will be made and a maximum performance level above which no increased payment will be made.
+The term over which Company performance will be measured shall be not less than six months.
+Performance Shares will be granted for no consideration.
+**********************
+(f)OTHER SHARE-BASED GRANTS  The Board may make other Grants under the Plan pursuant to which Ordinary Shares, are or may in the future be acquired, or Grants denominated in Share units, including ones valued using measures other than market value.
+Other Share-Based Grants may be granted with or without consideration.
+Such Other Share-Based Grants may be made alone, in addition to or in tandem with any Grant of any type made under the Plan and must be consistent with the purposes of the Plan.
+**********************
+6.
+LIMITATIONS AND CONDITIONS
+**********************
+(a)The number of Shares available for Grants under this Plan shall be 5,000,000 Shares; PROVIDED, HOWEVER, that in no event shall the total number of Shares subject to options and other equity for current and future Participants exceed 25% of the equity of the Company on a fully diluted basis.
+Shares subject to Grants that are forfeited, terminated, canceled or expire unexercised, shall immediately become available for other Grants.
+**********************
+(b)No Grants shall be made under the Plan beyond ten years after the original effective date of the Plan, but the terms of Grants made on or before the expiration of the Plan may extend beyond such expiration.
+At the time a Grant is made or amended or the terms or conditions of a Grant are changed, the Board may provide for limitations or conditions on such Grant.
+**********************
+(c)Nothing contained herein shall affect the right of the Company to terminate any Participants employment at any time or for any reason.
+The rights and obligations of any individual under the terms of his office or employment with the Company or any Subsidiary shall not be affected by his participation in this Plan or any right which he may have to participate in it, and an individual who participates in it shall waive any and all rights to compensation or damages in consequence of the termination of his office or employment for any reason whatsoever insofar as those rights arise or may arise from his ceasing to have rights under or be entitled to exercise any Grant as a result of such termination.
+**********************
+(d)Other than as specifically provided in the Management and Employee Shareholders and Subscription Agreement attached hereto as ExhibitA with regard to the death of a Participant, no benefit under the Plan shall be subject in any manner to anticipation, alienation, sale, transfer, assignment, pledge, encumbrance, or charge, and any attempt to do so shall be void.
+No such benefit shall, prior to receipt thereof by the Participant, be in any manner liable for or subject to the debts, contracts, liabilities, engagements, or torts of the Participant.
+**********************
+6
+**********************
+Ordinary Shares at the end of a specified period based on Company performance during the period.
+At the time of the Grant, the Board, in the Grant Agreement or by Plan rules, will determine the factors which will govern the portion of the rights so payable and the period over which Company performance will be measured.
+The factors will be based on Company performance and must include a minimum performance standard for the Company below which no payment will be made and a maximum performance level above which no increased payment will be made.
+The term over which Company performance will be measured shall be not less than six months.
+Performance Shares will be granted for no consideration.
+**********************
+(f)OTHER SHARE-BASED GRANTS  The Board may make other Grants under the Plan pursuant to which Ordinary Shares, are or may in the future be acquired, or Grants denominated in Share units, including ones valued using measures other than market value.
+Other Share-Based Grants may be granted with or without consideration.
+Such Other Share-Based Grants may be made alone, in addition to or in tandem with any Grant of any type made under the Plan and must be consistent with the purposes of the Plan.
+**********************
+6.
+LIMITATIONS AND CONDITIONS
+**********************
+(a)The number of Shares available for Grants under this Plan shall be 5,000,000 Shares; PROVIDED, HOWEVER, that in no event shall the total number of Shares subject to options and other equity for current and future Participants exceed 25% of the equity of the Company on a fully diluted basis.
+Shares subject to Grants that are forfeited, terminated, canceled or expire unexercised, shall immediately become available for other Grants.
+**********************
+(b)No Grants shall be made under the Plan beyond ten years after the original effective date of the Plan, but the terms of Grants made on or before the expiration of the Plan may extend beyond such expiration.
+At the time a Grant is made or amended or the terms or conditions of a Grant are changed, the Board may provide for limitations or conditions on such Grant.
+**********************
+(c)Nothing contained herein shall affect the right of the Company to terminate any Participants employment at any time or for any reason.
+The rights and obligations of any individual under the terms of his office or employment with the Company or any Subsidiary shall not be affected by his participation in this Plan or any right which he may have to participate in it, and an individual who participates in it shall waive any and all rights to compensation or damages in consequence of the termination of his office or employment for any reason whatsoever insofar as those rights arise or may arise from his ceasing to have rights under or be entitled to exercise any Grant as a result of such termination.
+**********************
+(d)Other than as specifically provided in the Management and Employee Shareholders and Subscription Agreement attached hereto as ExhibitA with regard to the death of a Participant, no benefit under the Plan shall be subject in any manner to anticipation, alienation, sale, transfer, assignment, pledge, encumbrance, or charge, and any attempt to do so shall be void.
+No such benefit shall, prior to receipt thereof by the Participant, be in any manner liable for or subject to the debts, contracts, liabilities, engagements, or torts of the Participant.
+**********************
+(e)Participants shall not be, and shall not have any of the rights or privileges of, shareholders of the Company in respect of any Shares purchasable in connection with any Grant unless and until such Shares have been issued by the Company to such Participants.
+**********************
+(f)No Grant may be exercised during a Participants lifetime by anyone other than the Participant except by a legal representative appointed for or by the Participant.
+**********************
+(g)Absent express provisions to the contrary, any Grant made under this Plan shall not be deemed compensation for purposes of computing benefits or contributions under any retirement plan of the Company or its Subsidiaries and shall not affect any benefits under any other benefit plan of any kind now or subsequently in effect under which the availability or amount of benefits is related to level of compensation.
+This Plan is not a Retirement Plan or Welfare Plan under the U.S.
+Employee
+**********************
+(h)Unless the Board determines otherwise, no benefit or promise under the Plan shall be secured by any specific assets of the Company or any of its Subsidiaries, nor shall any assets of the Company or any of its Subsidiaries be designated as attributable or allocated to the satisfaction of the Companys obligations under the Plan.
+**********************
+7.
+TRANSFERS AND LEAVES OF ABSENCE
+**********************
+For purposes of the Plan, unless the Board determines otherwise: (a)a transfer of a Participants employment without an intervening period of separation among the Company and any Subsidiary shall not be deemed a termination of employment, and (b)a
+**********************
+Participant who is granted in writing a leave of absence shall be deemed to have remained in the employ of the Company during such leave of absence.
+**********************
+8.
+ADJUSTMENTS
+**********************
+(a)In the event of any increase or variation of the share capital of the Company, the Board may make such adjustments as it considers appropriate under Paragraph 8(b) below.
+**********************
+(b)An adjustment made under this Paragraph 8(b) shall be to one or more of the following:
+**********************
+(i)the number of Shares in respect of which any Option or Other Share-Based Grant may be exercised;
+**********************
+(ii)the price at which Shares may be acquired by the exercise of any Option or Other Share-Based Grant;
+**********************
+(iii)where any Option or Other Share-Based Grant has been exercised but no Shares have been allotted or transferred pursuant to the exercise, the number of Shares which may be so allotted or transferred and the price at which they may be acquired.
+**********************
+7
+**********************
+(e)Participants shall not be, and shall not have any of the rights or privileges of, shareholders of the Company in respect of any Shares purchasable in connection with any Grant unless and until such Shares have been issued by the Company to such Participants.
+**********************
+(f)No Grant may be exercised during a Participants lifetime by anyone other than the Participant except by a legal representative appointed for or by the Participant.
+**********************
+(g)Absent express provisions to the contrary, any Grant made under this Plan shall not be deemed compensation for purposes of computing benefits or contributions under any retirement plan of the Company or its Subsidiaries and shall not affect any benefits under any other benefit plan of any kind now or subsequently in effect under which the availability or amount of benefits is related to level of compensation.
+This Plan is not a Retirement Plan or Welfare Plan under the U.S.
+Employee
+**********************
+(h)Unless the Board determines otherwise, no benefit or promise under the Plan shall be secured by any specific assets of the Company or any of its Subsidiaries, nor shall any assets of the Company or any of its Subsidiaries be designated as attributable or allocated to the satisfaction of the Companys obligations under the Plan.
+**********************
+7.
+TRANSFERS AND LEAVES OF ABSENCE
+**********************
+For purposes of the Plan, unless the Board determines otherwise: (a)a transfer of a Participants employment without an intervening period of separation among the Company and any Subsidiary shall not be deemed a termination of employment, and (b)a
+**********************
+Participant who is granted in writing a leave of absence shall be deemed to have remained in the employ of the Company during such leave of absence.
+**********************
+8.
+ADJUSTMENTS
+**********************
+(a)In the event of any increase or variation of the share capital of the Company, the Board may make such adjustments as it considers appropriate under Paragraph 8(b) below.
+**********************
+(b)An adjustment made under this Paragraph 8(b) shall be to one or more of the following:
+**********************
+(i)the number of Shares in respect of which any Option or Other Share-Based Grant may be exercised;
+**********************
+(ii)the price at which Shares may be acquired by the exercise of any Option or Other Share-Based Grant;
+**********************
+(iii)where any Option or Other Share-Based Grant has been exercised but no Shares have been allotted or transferred pursuant to the exercise, the number of Shares which may be so allotted or transferred and the price at which they may be acquired.
+**********************
+(c)An adjustment under Paragraph 8(b) above may have the effect of reducing the price at which Shares may be acquired by the exercise of an Option or Other Share-Based Grant to less than their nominal value, but only if and to the extent that the Board shall be authorised to capitalize from the reserves of the Company a sum equal to the amount by which the nominal value of the Shares in respect of which the Option or Other Share-Based Grant is exercised and which are to be allotted pursuant to such exercise exceeds the price at which the same may be subscribed for and to apply that sum in paying up that amount on the Shares; and so that on exercise of any Option or Other Share-based Grant in respect of which such a reduction shall have been made the Board shall capitalise such sum (if any) and apply it in paying up such amount as aforesaid.
+**********************
+9.
+EXCHANGE, ACQUISITION, LIQUIDATION OR DISSOLUTION
+**********************
+In its absolute discretion, and on such terms and conditions as it deems appropriate, coincident with or after the grant of any Option or Other Share-Based Grant, the Board may provide that such Option or Other Share-Based Grant cannot be exercised after the exchange of all or substantially all of the assets of the Company for the securities of another corporation, the acquisition by another corporation of 80% or more of the Companys then outstanding voting Shares, liquidation or dissolution of the Company, any variation of the share capital of the Company, and if the Board so provides, it may, in its absolute discretion and on such terms and conditions as it deems appropriate, also provide, either by the terms of such Option or Other Share-Based Grant or by a resolution adopted prior to the occurrence of such exchange, acquisition, any variation of the share capital of the Company, liquidation or dissolution, that, for some period of time prior to such event, such Option or Other Share-Based Grant shall be exercisable as to all Shares subject thereto, notwithstanding anything to the contrary herein (but subject to the provisions of Paragraph6(b)) and that, upon the occurrence of such event, such Option or Other Share-Based Grant shall terminate and be of no further force or effect; provided, HOWEVER, that the Board may also provide, in its absolute discretion, that even if the Option or Other Share-Based Grant shall remain exercisable after any such event, from and after such event, any such Option or Other Share-Based Grant shall be exercisable only for the kind and amount of securities and/or other property, or the cash equivalent thereof, receivable as a result of such event by the holder of a number of Shares for which such Option or Other Share-Based Grant could have been exercised immediately prior to such event.
+**********************
+10.
+AMENDMENT AND TERMINATION
+**********************
+The Board shall have the authority to make such amendments to any terms and conditions applicable to outstanding Grants as are consistent with this Plan provided that, except for adjustments under Paragraph8 or 9 hereof, no amendment to the disadvantage of any Participant shall be made unless:
+**********************
+(a)the Board shall have invited every such Participant to give an indication as to whether or not he approves the amendment, and
+**********************
+(b)the amendment is approved by a majority of those Participants who have given such an indication.
+**********************
+8
+**********************
+(c)An adjustment under Paragraph 8(b) above may have the effect of reducing the price at which Shares may be acquired by the exercise of an Option or Other Share-Based Grant to less than their nominal value, but only if and to the extent that the Board shall be authorised to capitalize from the reserves of the Company a sum equal to the amount by which the nominal value of the Shares in respect of which the Option or Other Share-Based Grant is exercised and which are to be allotted pursuant to such exercise exceeds the price at which the same may be subscribed for and to apply that sum in paying up that amount on the Shares; and so that on exercise of any Option or Other Share-based Grant in respect of which such a reduction shall have been made the Board shall capitalise such sum (if any) and apply it in paying up such amount as aforesaid.
+**********************
+9.
+EXCHANGE, ACQUISITION, LIQUIDATION OR DISSOLUTION
+**********************
+In its absolute discretion, and on such terms and conditions as it deems appropriate, coincident with or after the grant of any Option or Other Share-Based Grant, the Board may provide that such Option or Other Share-Based Grant cannot be exercised after the exchange of all or substantially all of the assets of the Company for the securities of another corporation, the acquisition by another corporation of 80% or more of the Companys then outstanding voting Shares, liquidation or dissolution of the Company, any variation of the share capital of the Company, and if the Board so provides, it may, in its absolute discretion and on such terms and conditions as it deems appropriate, also provide, either by the terms of such Option or Other Share-Based Grant or by a resolution adopted prior to the occurrence of such exchange, acquisition, any variation of the share capital of the Company, liquidation or dissolution, that, for some period of time prior to such event, such Option or Other Share-Based Grant shall be exercisable as to all Shares subject thereto, notwithstanding anything to the contrary herein (but subject to the provisions of Paragraph6(b)) and that, upon the occurrence of such event, such Option or Other Share-Based Grant shall terminate and be of no further force or effect; provided, HOWEVER, that the Board may also provide, in its absolute discretion, that even if the Option or Other Share-Based Grant shall remain exercisable after any such event, from and after such event, any such Option or Other Share-Based Grant shall be exercisable only for the kind and amount of securities and/or other property, or the cash equivalent thereof, receivable as a result of such event by the holder of a number of Shares for which such Option or Other Share-Based Grant could have been exercised immediately prior to such event.
+**********************
+10.
+AMENDMENT AND TERMINATION
+**********************
+The Board shall have the authority to make such amendments to any terms and conditions applicable to outstanding Grants as are consistent with this Plan provided that, except for adjustments under Paragraph8 or 9 hereof, no amendment to the disadvantage of any Participant shall be made unless:
+**********************
+(a)the Board shall have invited every such Participant to give an indication as to whether or not he approves the amendment, and
+**********************
+(b)the amendment is approved by a majority of those Participants who have given such an indication.
+**********************
+The Board may amend, suspend or terminate the Plan except that no such action, other than an action under Paragraph8 or 9 hereof, may be taken which would, without shareholder approval, increase the aggregate number of Shares available for Grants under the Plan, decrease the price of outstanding Grants, change the requirements relating to the Board or extend the term of the Plan.
+**********************
+11. INTERNATIONAL OPTIONS AND RIGHTS
+**********************
+The Board may make Grants to Employees who are subject to the laws of countries other than Ireland, which Grants may have terms and conditions that differ from the terms thereof as provided elsewhere in the Plan for the purpose of complying with foreign laws.
+**********************
+12.
+WITHHOLDING TAXES, ALLOTMENT AND TRANSFER
+**********************
+(a)The Company shall have the right to deduct from any cash payment made under the Plan any federal, state or local income or other taxes required by law to be withheld with respect to such payment.
+**********************
+(b)Within 30days after an Option has been exercised by any person, before payment of Performance Shares (if paid in Ordinary Shares) or before exercise, settlement or payment (if paid in Ordinary Shares) of any Other Share-Based Grant, the Board shall allot to such person (or a nominee for him) or, as appropriate, procure the transfer to him (or a nominee for him) of the number of Shares in respect of which the option has been exercised, provided that:
+**********************
+(i)the Board considers that the issue or transfer thereof would be lawful in all relevant jurisdictions; and
+**********************
+(ii)in a case where the Company or any Subsidiary (Group Member) is obliged to (or would suffer a disadvantage if it were not to) account for any tax (in any jurisdiction) for which the person in question is liable by virtue of the exercise of the option and/or for any social security, contributions recoverable from the person in question (together, the Tax Liability), that person has either:
+**********************
+(A)made a payment to the Group Member of an amount equal to the Tax Liability; or
+**********************
+(B)entered into arrangements acceptable to that or another Group Member to secure that such a payment is made (whether by authorizing the sale of some or all of the Shares on his behalf and the payment to the Group Member of the relevant amount out of the proceeds of sale or otherwise).
+**********************
+(c)All Shares allotted under this Plan shall rank equally in all respects with Shares of the same class then in issue except for any rights attaching to such Shares by reference to a record date prior to the date of the allotment.
+**********************
+9
+**********************
+The Board may amend, suspend or terminate the Plan except that no such action, other than an action under Paragraph8 or 9 hereof, may be taken which would, without shareholder approval, increase the aggregate number of Shares available for Grants under the Plan, decrease the price of outstanding Grants, change the requirements relating to the Board or extend the term of the Plan.
+**********************
+11. INTERNATIONAL OPTIONS AND RIGHTS
+**********************
+The Board may make Grants to Employees who are subject to the laws of countries other than Ireland, which Grants may have terms and conditions that differ from the terms thereof as provided elsewhere in the Plan for the purpose of complying with foreign laws.
+**********************
+12.
+WITHHOLDING TAXES, ALLOTMENT AND TRANSFER
+**********************
+(a)The Company shall have the right to deduct from any cash payment made under the Plan any federal, state or local income or other taxes required by law to be withheld with respect to such payment.
+**********************
+(b)Within 30days after an Option has been exercised by any person, before payment of Performance Shares (if paid in Ordinary Shares) or before exercise, settlement or payment (if paid in Ordinary Shares) of any Other Share-Based Grant, the Board shall allot to such person (or a nominee for him) or, as appropriate, procure the transfer to him (or a nominee for him) of the number of Shares in respect of which the option has been exercised, provided that:
+**********************
+(i)the Board considers that the issue or transfer thereof would be lawful in all relevant jurisdictions; and
+**********************
+(ii)in a case where the Company or any Subsidiary (Group Member) is obliged to (or would suffer a disadvantage if it were not to) account for any tax (in any jurisdiction) for which the person in question is liable by virtue of the exercise of the option and/or for any social security, contributions recoverable from the person in question (together, the Tax Liability), that person has either:
+**********************
+(A)made a payment to the Group Member of an amount equal to the Tax Liability; or
+**********************
+(B)entered into arrangements acceptable to that or another Group Member to secure that such a payment is made (whether by authorizing the sale of some or all of the Shares on his behalf and the payment to the Group Member of the relevant amount out of the proceeds of sale or otherwise).
+**********************
+(c)All Shares allotted under this Plan shall rank equally in all respects with Shares of the same class then in issue except for any rights attaching to such Shares by reference to a record date prior to the date of the allotment.
+**********************
+13.
+EFFECTIVE DATE AND TERMINATION DATES
+**********************
+The Plan shall be effective on and as of the date of the original approval by the Board of the Plan and no additional Grants shall be made under the Plan; PROVIDED, HOWEVER the Plan shall remain in full force and effect with respect to any outstanding Grants that have not expired or terminated by their terms.
+**********************
+14.
+FINANCIAL ASSISTANCE
+**********************
+The Company and any Subsidiary may provide money to the trustees of any trust or any other person to enable them or him to acquire Shares to be held for the purposes of the Plan, or enter into any guarantee or indemnities for these purposes or provide financial assistance of any other kind, to the extent permitted by section 60 of the Act.
+**********************
+15.
+MISCELLANEOUS
+**********************
+The masculine pronoun shall include the feminine and neuter, and the singular the plural, where the context so indicates.
+**********************
+16.
+GOVERNING LAW
+**********************
+The Plan shall be governed by the laws of the United Kingdom, without regard to conflicts of laws.
+**********************
+10
+**********************
+13.
+EFFECTIVE DATE AND TERMINATION DATES
+**********************
+The Plan shall be effective on and as of the date of the original approval by the Board of the Plan and no additional Grants shall be made under the Plan; PROVIDED, HOWEVER the Plan shall remain in full force and effect with respect to any outstanding Grants that have not expired or terminated by their terms.
+**********************
+14.
+FINANCIAL ASSISTANCE
+**********************
+The Company and any Subsidiary may provide money to the trustees of any trust or any other person to enable them or him to acquire Shares to be held for the purposes of the Plan, or enter into any guarantee or indemnities for these purposes or provide financial assistance of any other kind, to the extent permitted by section 60 of the Act.
+**********************
+15.
+MISCELLANEOUS
+**********************
+The masculine pronoun shall include the feminine and neuter, and the singular the plural, where the context so indicates.
+**********************
+16.
+GOVERNING LAW
+**********************
+The Plan shall be governed by the laws of the United Kingdom, without regard to conflicts of laws.

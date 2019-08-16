@@ -1,0 +1,747 @@
+Exhibit 10.1
+
+DCT INDUSTRIAL TRUST INC.
+
+MULTI-YEAR OUTPERFORMANCE PROGRAM
+
+ARTICLE 1
+
+GENERAL
+
+1.1 Purpose and Authority. This Multi-Year Outperformance Program (as amended, restated and supplemented from time to time, this “Outperformance Program” or this “Program”) is adopted pursuant to the DCT Industrial Trust Inc. (the “Company”) Amended and Restated 2006 Long Term Incentive Plan (as amended, restated and supplemented from time to time, the “Plan”) to provide certain key employees of the Company or its affiliates in connection with their employment or other service relationship with the incentive compensation described in this Outperformance Program and thereby provide additional incentive for them to promote the progress and success of the business of the Company and its affiliates. This Outperformance Program was adopted by the Compensation Committee (the “Committee”) of the Board of Directors of the Company (the “Board”) pursuant to authority delegated to it by the Board as set forth in the Committee’s charter.
+
+1.2 Administration.
+
+1.2.1 Without limitation of Section 1.1, this Outperformance Program and the Awards shall be administered by the Committee in accordance with the Plan.
+
+1.2.2 The Committee shall have the power and authority to select Award Recipients and grant Awards to such Award Recipients. The Committee may make such rules and regulations and establish such procedures for the administration of this Outperformance Program as it deems appropriate.
+
+1.2.3 The Committee may, in its absolute discretion, without amendment to this Outperformance Program, accelerate the lapse of restrictions, or waive any condition imposed hereunder, with respect to any Award, or otherwise adjust any of the terms applicable to any such Award; provided, however, that no action under this Section 1.2.3 shall adversely affect any outstanding Awards without the consent of the holder thereof.
+
+1.2.4 All decisions made by the Committee pursuant to the provisions of this Outperformance Program shall be final, conclusive and binding on all persons, including the Company and the Award Recipients. No member of the Board or the Committee, nor any officer or employee of the Company acting on behalf of the Board or the Committee, shall be personally liable for any action, determination, or interpretation taken or made in good faith with respect to this Outperformance Program, and all members of the Board or the Committee and each and any officer or employee of the Company acting on their behalf shall, to the extent permitted by law, be fully indemnified and protected by the Company in respect of any such action, determination or interpretation.
+
+1.3 Definitions. Capitalized terms used herein without definitions shall have the meanings given to those terms in the Plan. In addition, as used herein:
+
+“Absolute Outperformance Pool” means, with respect to a Performance Period, a dollar amount calculated in accordance with the table below and based on the Absolute Total Shareholder Return for such Performance Period or as otherwise set forth in an Award Recipient’s Participation Letter:
+
+
+
+
+
+
+
+
+
+
+
+Absolute Total Shareholder Return
+
+(% per year, compounded annually)
+
+ 
+
+Dollar Amount of Absolute
+
+Outperformance Pool
+
+<8%
+
+ 
+
+$0
+
+8%
+
+ 
+
+$500,000
+
+9%
+
+ 
+
+$1,000,000
+
+10%
+
+ 
+
+$1,500,000
+
+11%
+
+ 
+
+$2,000,000
+
+12%
+
+ 
+
+$2,500,000
+
+13%
+
+ 
+
+$3,000,000
+
+14%
+
+ 
+
+$3,500,000
+
+15%
+
+ 
+
+$4,000,000
+
+16%
+
+ 
+
+$4,500,000
+
+= or > 17%
+
+ 
+
+$5,000,000
+
+provided, that the dollar amount of the Absolute Outperformance Pool for such Performance Period will be pro-rated between the ranges set forth in the table above to reflect actual performance above 8% that may fall in between the specific guidelines (e.g., Absolute Total Shareholder Return of 11.5% would result in an Absolute Outperformance Pool of $2,250,000); provided, further, that in no event shall the Absolute Outperformance Pool for such Performance Period exceed the Maximum Absolute Outperformance Pool Amount.
+
+“Absolute Total Shareholder Return” means, with respect to a Performance Period, the average, compound, annual return that would have been realized by a stockholder who (1) bought one share of Common Stock on the Effective Date for such Performance Period for the Common Stock Price on such date, (2) reinvested each dividend and other distribution declared during such Performance Period with respect to such share of Common Stock (and any other shares previously received upon reinvestment of dividends or other distributions) in additional shares of Common Stock at the Fair Market Value on the ex-dividend date for such dividend or other distribution and (3) sold such shares of Common Stock on the Valuation Date for such Performance Period for the Common Stock Price on such date. As set forth in, and pursuant to, Section 2.8, appropriate adjustments to the Absolute Total Shareholder Return shall be made to take into account all stock dividends, stock splits, reverse stock splits and the other events set forth in Section 2.8 that occur during any Performance Period.
+
+“Award” means an award of a Participation Percentage and/or an Unallocated Participation Percentage to an Award Recipient under this Outperformance Program.
+
+“Award Recipient” means an Eligible Person designated by the Committee to receive an Award.
+
+“Award Shares” has the meaning given to that term in Section 2.3.1.
+
+“Board” has the meaning set forth in Section 1.1.
+
+“Cause” means, with respect to an Award Recipient, (A) if the Award Recipient is a party to a Service Agreement, and “cause” is defined therein, such definition, or (B) if the Award Recipient is not party to a Service Agreement or the Award Recipient’s Service Agreement does not define “cause,” the Award Recipient’s: (i) conviction of a felony (other than a traffic violation), a crime of moral turpitude, or any financial crime involving the Company; (ii) willful act of dishonesty, breach of trust or unethical business conduct in connection with the business of the Company that has a material detrimental impact on the Company, (iii) commission of fraud, misappropriation or embezzlement against the Company; (iv) act or omission in the performance of his or her duties that constitutes willful misconduct, willful neglect or gross neglect, in any such case if such action or omission is either material or repeated,
+
+ 
+
+2
+
+
+
+(v) repeated failure to use reasonable efforts in all material respects to adhere to the directions of the Board or the Chief Executive Officer, or the Company’s policies and practices, after being informed that he or she is not so adhering, or (vi) willful failure to substantially perform his or her duties properly assigned to him or her (other than any such failure resulting from his or her Disability); provided that the Company shall not be permitted to terminate an Award Recipient’s employment for Cause except on written notice given to such Award Recipient at any time following the occurrence of any of the events described in clauses (i) through (iv) above and on written notice given to such Award Recipient at any time not more than 30 days following the occurrence of any of the events described in clause (v) or (vi) above (or, if later, the Company’s knowledge thereof).
+
+“Change in Control” means, with respect to an Award Recipient, (A) if the Award Recipient is a party to a Service Agreement, and “change in control” is defined therein, such definition, or (B) if the Award Recipient is not party to a Service Agreement or the Award Recipient’s Service Agreement does not define “change in control”, the happening of any of the following:
+
+(i) any “person,” including a “group” (as such terms are used in Sections 13(d) and 14(d) of the Exchange Act, but excluding the Company, any entity controlling, controlled by or under common control with the Company, any trustee, fiduciary or other person or entity holding securities under any employee benefit plan or trust of the Company or any such entity, and, with respect to any particular Award Recipient, the Award Recipient and any “group” (as such term is used in Section 13(d)(3) of the Exchange Act) of which the Award Recipient is a member), is or becomes the “beneficial owner” (as defined in Rule 13(d)(3) under the Exchange Act), directly or indirectly, of securities of the Company representing 30% or more of either (A) the combined voting power of the Company’s then outstanding securities or (B) the then outstanding Shares (in either such case other than as a result of an acquisition of securities directly from the Company); or
+
+(ii) any consolidation or merger of the Company resulting in the voting securities of the Company outstanding immediately prior to the consolidation or merger representing (either by remaining outstanding or by being converted into voting securities of the surviving entity or its parent) less than 50% of the combined voting power of the securities of the surviving entity or its parent outstanding immediately after such consolidation or merger; or
+
+(iii) there shall occur (A) any sale, lease, exchange or other transfer (in one transaction or a series of transactions contemplated or arranged by any party as a single plan) of all or substantially all of the assets of the Company, other than a sale or disposition by the Company of all or substantially all of the Company’s assets to an entity, at least 50% of the combined voting power of the voting securities of which are owned by “persons” (as defined above) in substantially the same proportion as their ownership of the Company immediately prior to such sale or (B) the approval by shareholders of the Company of any plan or proposal for the liquidation or dissolution of the Company; or
+
+(iv) the members of the Board at the beginning of any consecutive 24-calendar-month period (the “Incumbent Directors”) cease for any reason other than due to death to constitute at least a majority of the members of the Board; provided that any director whose election, or nomination for election by the Company’s shareholders, was approved or ratified by a vote of at least a majority of the Incumbent Directors shall be deemed to be an Incumbent Director.
+
+Notwithstanding the foregoing, no event or condition shall constitute a Change in Control to the extent that, if it were, a 20% tax would be imposed under Section 409A of the Code; provided that, in such a
+
+ 
+
+3
+
+
+
+case, the event or condition shall continue to constitute a Change in Control to the maximum extent possible (e.g., if applicable, in respect of vesting without an acceleration of distribution) without causing the imposition of such 20% tax.
+
+“Code” means the Internal Revenue Code of 1986, as amended.
+
+“Committee” has the meaning set forth in Section 1.1.
+
+“Common Stock” means the Company’s Common Stock, par value $.01 per share, either currently existing or authorized hereafter.
+
+“Common Stock Price” means, as of a particular date, the average of the Fair Market Value of one share of the Common Stock for the ten (10) trading days ending on, and including, such date (or, if such date is not a trading day, the most recent trading day immediately preceding such date); provided that if any of such trading days is the ex-dividend date for a dividend or other distribution on the Common Stock, then the Fair Market Value of the Common Stock for each prior trading day in such ten-day period shall be adjusted by dividing the Fair Market Value by the sum of (A) one plus (B) the per share amount of the dividend or other distribution declared to which such ex-dividend date relates divided by the Fair Market value on the ex-dividend date for such dividend or other distribution; provided further, however, that if such date is the date upon which a Transactional Change in Control occurs, the Common Stock Price as of such date shall be equal to the fair market value in cash, as determined by the Committee, of the total consideration paid or payable in the transaction resulting in the Transactional Change in Control for one share of Common Stock.
+
+“Company” has the meaning set forth in Section 1.1.
+
+“Disability” means, with respect to an Award Recipient, unless otherwise provided in the Award Recipient’s Service Agreement, such Award Recipient becoming disabled by virtue of ill health or other disability and being unable to perform substantially and continuously the duties assigned to such Award Recipient for more than 180 consecutive or non-consecutive days out of any consecutive 12-month period in the reasonable opinion of a qualified physician chosen by the Company and reasonably acceptable to such Award Recipient. Notwithstanding the foregoing, no circumstances or condition shall constitute a Disability to the extent that, if it were, a 20% tax would be imposed under Section 409A of the Code; provided that, in such a case, the event or condition shall continue to constitute a Disability to the maximum extent possible (e.g., if applicable, in respect of vesting without an acceleration of distribution) without causing the imposition of such 20% tax.
+
+“Effective Date” means, for a Performance Period, the date set forth in an Award Recipient’s Participation Letter for such Performance Period as the Effective Date for such Performance Period.
+
+“Exchange Act” means the Securities Exchange Act of 1934, as amended.
+
+“Fair Market Value” has the meaning given to that term in the Plan.
+
+“Final Participation Percentage” means, as of the Valuation Date for a Performance Period, with respect to an Award Recipient, such Award Recipient’s Participation Percentage for such Performance Period, plus such Award Recipient’s Unallocated Participation Percentage for such Performance Period.
+
+“Good Reason” means, with respect to an Award Recipient, (A) if the Award Recipient is a party to a Service Agreement, and “good reason” is defined therein, such definition, or (B) if the Award Recipient is not party to a Service Agreement or the Award Recipient’s Service Agreement does not
+
+ 
+
+4
+
+
+
+define “good reason”: (i) the material reduction of the Award Recipient’s authority, duties and responsibilities, or the assignment to the Award Recipient of duties materially inconsistent with the Award Recipient’s then current position or positions with the Company; (ii) a reduction in the annual salary of the Award Recipient, or a reduction in the target annual cash bonus or target annual equity award applicable to the Award Recipient, if any (except for a reduction in target annual cash bonus or target annual equity award that is part of a Company program to reduce “general and administrative” expenses due to business conditions which reduction is applied to other employees of similar seniority generally; provided that such reduction is before the occurrence of a Change in Control); or (iii) the relocation of the Award Recipient’s office to more than 30 miles from its then current location; provided that (1) Good Reason (a) shall not be deemed to exist unless such Award Recipient gives to the Company a written notice identifying the event or condition purportedly giving rise to Good Reason expressly referencing this Program within 45 days after the time at which the event or condition first occurs or arises (or, if later, was discovered or should have been discovered by such Award Recipient) and (b) shall not be deemed to exist at any time at which there exists an event or condition which could serve as the basis of a termination of such Award Recipient’s employment for Cause; and (2) if there exists (without regard to the following clause (2)(a)) an event or condition that constitutes Good Reason, (a) the Company shall have 45 days from the date notice of Good Reason is given to cure such event or condition and, if the Company does so, such event or condition shall not constitute Good Reason hereunder; and (b) if the Company does not cure such event or condition within such 45-day period, such Award Recipient shall have one business day thereafter to give the Company notice of termination of employment on account thereof (specifying a termination date no later than 10 days from the date of such notice of termination).
+
+“Index Return” means, with respect to a Performance Period, the average, compound, annual return of the MSCI US REIT Index during such Performance Period calculated by comparing (A) the average daily value of the MSCI US REIT Index during the ten (10) trading days ending on, and including, the Effective Date for such Performance Period (or, if such date is not a trading day, the most recent trading day immediately preceding such date) to (B) the average daily value of the MSCI US REIT Index during the ten (10) trading days ending on, and including, the Valuation Date for such Performance Period (or, if such date is not a trading day, the most recent trading day immediately preceding such date).
+
+“LTIP Units” means partnership units in the Partnership designated as such in the Partnership Agreement.
+
+“Maximum Absolute Outperformance Pool Amount” means, with respect to a Performance Period, $5,000,000 or such other amount as set forth in an Award Recipient’s Participation Letter as the Maximum Absolute Outperformance Pool Amount for such Performance Period.
+
+“Maximum Relative Outperformance Pool Amount” means, with respect to a Performance Period, $5,000,000 or such other amount as set forth in an Award Recipient’s Participation Letter as the Maximum Relative Outperformance Pool Amount for such Performance Period.
+
+“Measurement Date” means, with respect to a Performance Period, the third (3rd) anniversary of the Effective Date or such other date as is set forth in an Award Recipient’s Participation Letter for such Performance Period as the Measurement Date for such Performance Period.
+
+“MSCI US REIT Index” means the MSCI US REIT Index (RMS), or, in the event such index is discontinued or its methodology significantly changed, a comparable index selected by the Committee in good faith.
+
+“Other Share-Based Securities” has the meaning set forth in Section 2.5.
+
+ 
+
+5
+
+
+
+“Outperformance Program” has the meaning set forth in Section 1.1.
+
+“Participation Letter” has the meaning set forth in Section 2.1.
+
+“Participation Percentage” means, with respect to an Award Recipient for a Performance Period, such Award Recipient’s share of the amounts to be paid under this Outperformance Program for such Performance Period as set forth in such Award Recipient’s Participation Letter.
+
+“Partnership” means DCT Industrial Operating Partnership LP, a Delaware limited partnership.
+
+“Partnership Agreement” means the Amended and Restated Limited Partnership Agreement of the Partnership dated as of October 10, 2006 among the Company and the limited partners party thereto, as amended from time to time.
+
+“Performance Period” means, for an Award, the period from the Effective Date set forth in the Participation Letter for such Award until the Valuation Date.
+
+“Plan” has the meaning set forth in Section 1.1.
+
+“Program” has the meaning set forth in Section 1.1.
+
+“Qualified Termination” means, for an Award Recipient, termination of such Award Recipient’s employment by the Company without Cause or by the Award Recipient with Good Reason or by reason of the Award Recipient’s death or Disability.
+
+“Relative Outperformance Pool” means, with respect to a Performance Period, a dollar amount calculated in accordance with the table below and based on the Relative Total Shareholder Return for such Performance Period or as otherwise set forth in an Award Recipient’s Participation Letter:
+
+ 
+
+
+
+
+
+
+
+Relative Total Shareholder Return
+
+(% of MSCI US REIT Index)
+
+ 
+
+Dollar Amount of Relative
+
+Outperformance Pool
+
+<100%
+
+ 
+
+$0
+
+100%
+
+ 
+
+$500,000
+
+102.5%
+
+ 
+
+$1,000,000
+
+105%
+
+ 
+
+$1,500,000
+
+107.5%
+
+ 
+
+$2,000,000
+
+110%
+
+ 
+
+$2,500,000
+
+112.5%
+
+ 
+
+$3,000,000
+
+115%
+
+ 
+
+$3,500,000
+
+117.5%
+
+ 
+
+$4,000,000
+
+120%
+
+ 
+
+$4,500,000
+
+= or > 122.5%
+
+ 
+
+$5,000,000
+
+provided, that the dollar amount of the Relative Outperformance Pool for such Performance Period will be pro-rated between the ranges set forth in the table above to reflect actual performance above 100% that may fall in between the specific guidelines (e.g., Relative Total Shareholder Return of 108.75% would result in a Relative Outperformance Pool of $2,250,000); provided, further, that in no event shall the Relative Outperformance Pool for such Performance Period exceed the Maximum Relative Outperformance Pool Amount.
+
+“Relative Total Shareholder Return” means, with respect to a Performance Period, the quotient
+
+ 
+
+6
+
+
+
+(expressed as a percentage) of (a) the Absolute Total Shareholder Return for such Performance Period divided by (b) the Index Return for such Performance Period.
+
+“Securities Act” means the Securities Act of 1933, as amended.
+
+“Service Agreement” means, as of a particular date, any employment, change of control, consulting or similar service agreement then in effect between an Award Recipient, on the one hand, and the Company, its Subsidiary, or one of its affiliates, on the other hand, as amended or supplemented through such date.
+
+“Subsidiary” means any corporation, partnership or other entity of which at least 50% of the economic interest in the equity or voting power is owned (directly or indirectly) by the Company. In the event the Company becomes such a subsidiary of another company (directly or indirectly), the provisions hereof applicable to subsidiaries shall, unless otherwise determined by the Committee, also be applicable to such parent company.
+
+“Transactional Change in Control” means (a) a Change in Control described in clause (i) of the definition thereof where the “person” or “group” makes a tender offer for Common Stock, (b) a Change in Control described in clauses (ii) or (iii)(A) of the definition thereof or (c) if Change in Control is defined in an Award Recipient’s Service Agreement, circumstances set forth in such definition corresponding to those described in clauses (a) and (b) above.
+
+“Transfer” has the meaning set forth in Section 2.7.
+
+“Unallocated Participation Percentage” means, with respect to an Award Recipient for a Performance Period, the initial Unallocated Participation Percentage for such Performance Period set forth in such Award Recipient’s Participation Letter plus any additional Unallocated Participation Percentage for such Performance Period that is allocated to such Award Recipient less the amount of such initial or additional Unallocated Participation Percentage that has been forfeited or reversed.
+
+“Valuation Date” means, with respect to a Performance Period, the earliest of (i) the Measurement Date for such Performance Period and (ii) the date upon which a Change in Control shall occur during such Performance Period.
+
+ARTICLE 2
+
+OUTPERFORMANCE AWARDS
+
+2.1 Awards for Performance Periods. On or prior to the Valuation Date for a Performance Period, the Committee, in its discretion, shall (i) determine the Effective Date and Measurement Date for such Performance Period, (ii) select those Eligible Persons who shall be Award Recipients for such Performance Period, (iii) determine the amount of each Award Recipient’s Award for such Performance Period, which will consist of a Participation Percentage (and, in some circumstances, an Unallocated Participation Percentage) for such Performance Period, (iv) determine the Maximum Absolute Outperformance Pool Amount and how to calculate the Absolute Outperformance Pool Amount for such Performance Period and (v) determine the Maximum Relative Outperformance Pool Amount and how to calculate the Relative Outperformance Pool Amount for such Performance Period. Promptly after the Committee selects an Award Recipient to receive an Award for a Performance Period, the Company will provide the Award Recipient with a participation letter substantially in the form attached hereto as Exhibit A (each, a “Participation Letter”) notifying the Award Recipient of his or her Award. The Committee shall have the right to increase an Award Recipient’s Participation Percentage for a Performance Period
+
+ 
+
+7
+
+
+
+from time to time and at any time prior to the Valuation Date for such Performance Period, in which case a new Participation Letter will be provided to the Award Recipient. Notwithstanding the foregoing, the total Participation Percentages of all Award Recipients for a Performance Period under this Outperformance Program may not exceed 100%.
+
+2.2 Determination of Absolute Outperformance Pool and Relative Outperformance Pool. As soon as practicable following the Valuation Date for a Performance Period, but as of the Valuation Date for such Performance Period, the Committee will calculate the size of the Absolute Outperformance Pool and the Relative Outperformance Pool for such Performance Period, if any. If the performance of the Company has been such that each of the Absolute Outperformance Pool and the Relative Outperformance Pool for a Performance Period is zero, then the Award Recipients will not be entitled to be paid any amounts under this Program for such Performance Period and the Awards will be terminated as of the Valuation Date for such Performance Period. If the Absolute Outperformance Pool and/or the Relative Outperformance Pool for a Performance Period, as of the Valuation Date for such Performance Period, is greater than zero, then the Award Recipients will be entitled to the payments described in Section 2.3 below.
+
+2.3 Award Payments for Performance Periods.
+
+2.3.1 With respect to a Performance Period, in the event that the Absolute Outperformance Pool and/or the Relative Outperformance Pool for such Performance Period, as of the Valuation Date for such Performance Period, is greater than zero, then the Committee will perform the following calculations with respect to each Award: multiply (x) the sum of (i) the Absolute Outperformance Pool for such Performance Period plus (ii) the Relative Outperformance Pool for such Performance Period, in each case calculated as of the Valuation Date for such Performance Period, by (y) the Final Participation Percentage for such Award Recipient for such Performance Period, then divide the result by (z) the Common Stock Price on the Valuation Date for such Performance Period; the resulting number is hereafter referred to as the “Award Shares.” Notwithstanding the foregoing, in the event that the Valuation Date for such Performance Period is not the Measurement Date for such Performance Period (i.e., the Valuation Date is the date upon which a Change in Control occurred during such Performance Period), then the Award Shares shall be the larger of (i) the Award Shares calculated pursuant to the preceding sentence multiplied by a fraction the numerator of which is the number of days from and including the first day of such Performance Period to and including the date upon which a Change in Control occurred during such Performance Period and the denominator of which is the number of days from and including the first day of such Performance Period to and including the Measurement Date for such Performance Period and (ii) the Award Shares that would have been earned pursuant to the preceding sentence if the Absolute Total Shareholder Return had been calculated based on the aggregate total return actually achieved during such Performance Period, but, for purposes of determining the average, annual, compound return, assumed that such return had been generated over the full period from the Effective Date of such Performance Period to the Measurement Date for such Performance Period.
+
+2.3.2 Subject to the terms hereof, the Award Shares shall be issued as of the Valuation Date for a Performance Period, notwithstanding that, as an administrative matter, certificates or other evidence representing the Award Shares may be issued subsequent to any such date.
+
+2.4 Termination and Forfeiture; Vesting; Change in Control.
+
+2.4.1 With respect to a Performance Period, if at any time prior to the Valuation Date for such Performance Period an Award Recipient’s employment by the Company shall terminate or cease by reason of a Qualified Termination, then, with respect to the Award Recipient only, (i) such Award Recipient’s Unallocated Participation Percentage shall be forfeited in full effective as of the date of the
+
+ 
+
+8
+
+
+
+Qualified Termination, (ii) after giving effect to such forfeiture, the calculations provided in Sections 2.2 and 2.3 hereof shall be performed with respect to such Award Recipient’s Award effective as of the date of the Qualified Termination as if a Change in Control had occurred (with respect to the Award Recipient only) on such date, (ii) such Award Recipient shall be issued the Award Shares resulting from such calculation, and (iii) the Award Shares resulting from such calculation shall automatically and immediately vest as of the date of the Qualified Termination.
+
+2.4.2 With respect to a Performance Period, if at any time prior to the Valuation Date for such Performance Period an Award Recipient’s employment by the Company shall terminate or cease for any reason other than a Qualified Termination, then such Award Recipient’s Award for such Performance Period shall be forfeited at such time. With respect to a Performance Period, if at any time on or after the Valuation Date for such Performance Period an Award Recipient’s employment by the Company shall terminate or cease for any reason other than a Qualified Termination, then all of such Award Recipient’s Award Shares for such Performance Period that remain unvested at such time shall automatically and immediately be forfeited by such Award Recipient.
+
+2.4.3 In the event that the Committee grants a new Award for a Performance Period that would cause the aggregate Participation Percentages and Unallocated Participation Percentages of all of the Awards granted by the Committee for such Performance Period, without giving effect to any forfeitures or re-grants of forfeited Awards, to exceed 100%, then each prior Award Recipient shall automatically forfeit an amount of such Award Recipient’s Unallocated Participation Percentage equal to (i) the Participation Percentage and initial Unallocated Participation Percentage of such new Award multiplied by (ii) such Award Recipient’s Pro Rata Share. For purposes of this Section, an Award Recipient’s “Pro Rata Share” for a Performance Period shall mean (i) such Award Recipient’s Unallocated Participation Percentage for such Performance Period divided by (ii) 100% less the aggregate Participation Percentages of all Awards granted by the Committee for such Performance Period, without giving effect to any forfeitures or re-grants of forfeited Awards. Notwithstanding the foregoing, the total Participation Percentages of all Award Recipients for a Performance Period under this Outperformance Program may not exceed 100% and, after giving effect to the forfeitures provided for in this Section 2.4.3, the total Participation Percentages and Unallocated Participation Percentages of all Award Recipients for a Performance Period under this Outperformance Program may not exceed 100%. In the event that an Award Recipient forfeits a portion of such Award Recipient’s Unallocated Participation Percentage for a Performance Period under this Section 2.4.3, the Committee shall reasonably promptly notify such Award Recipient of such forfeiture; provided that such forfeiture shall occur automatically regardless of whether such notice is given.
+
+2.4.4 With respect to a Performance Period, subject to Section 2.4.2 hereof, the Award Shares shall become vested as follows: (i) fifty percent (50%) of such Award Shares shall become vested on the Measurement Date for such Performance Period; and (ii) the remaining fifty percent (50%) of such Award Shares shall become vested on the first (1st) anniversary of the Measurement Date for such Performance Period; provided, however, that all unvested Award Shares that have not previously been forfeited shall vest immediately upon the occurrence of a Change in Control or a Qualified Termination. For the avoidance of doubt, the vesting of the Award Shares pursuant to this Section 2.4.4 shall be independent from, and in no way effect, the calculations set forth in Sections 2.2 and 2.3 hereof.
+
+2.4.5 With respect to a Performance Period, prior to the Valuation Date for such Performance Period, the Committee may allocate part or all of any Award or any unvested portion thereof which has been forfeited pursuant to Section 2.4.2 to one or more of the other Award Recipients then existing or to one or more new Award Recipients, including newly hired employees. Any Unallocated Participation Percentages with respect to a Performance Period that are forfeited prior to the Valuation Date for such Performance Period will be automatically re-allocated, as of the date of such forfeiture, to
+
+ 
+
+9
+
+
+
+the remaining Award Recipients for such Performance Period proportionally based on the relative amounts of such Award Recipients’ Unallocated Participation Percentages for such Performance Period prior to such forfeiture; provided that the Committee, in its sole discretion, may at any time on or prior to the Valuation Date for such Performance Period reverse some or all of such automatic re-allocations and either specifically re-allocate some or all of such forfeited Unallocated Participation Percentages to specific Award Recipients or choose not to re-allocate some or all of such forfeited Unallocated Participation Percentages (and retain them for the Company’s benefit). The Committee shall notify each Award Recipient whose Unallocated Participation Percentage is increased or decreased as a result of the operation of this Section 2.4.5 reasonably promptly after such increase or decrease.
+
+2.5 Issuance of Other Securities in lieu of Common Stock. In lieu of shares of Common Stock, the Committee, in its sole discretion, may permit some or all of the Award Recipients to receive their Award Shares in LTIP Units or other securities of the Company or any of its affiliates, that are valued in whole or in part by reference to, or are otherwise calculated by reference to or based on, shares of Common Stock (“Other Share-Based Securities”); provided, that the Committee determines, in good faith, that the aggregate value of such Other Share-Based Securities is equivalent to the value of the Award Shares to be issued to such Award Recipient(s) pursuant to Section 2.3.1. Other Share-Based Securities may be issued in lieu of all the Award Shares of such Award Recipient(s) or a portion thereof. The Committee shall determine the restrictions and conditions, under this Program or otherwise, applicable to such Other Share-Based Securities.
+
+2.6 Dividends. From and after their issuance, Award Shares shall be entitled to the same dividend on a per share basis as all other shares of Common Stock without regard to whether such Award Share has then vested (which dividend shall be non-refundable, notwithstanding any subsequent forfeiture, if any, of Award Shares in respect of which such dividend was paid).
+
+2.7 Restrictions on Transfer. Except as otherwise permitted by the Committee, no Award Recipient shall sell, assign, transfer, pledge, give away or in any other manner disposed of, whether voluntarily or by operation of law (each such action a “Transfer”) any Award or any Award Share prior to the date on which it vests; provided that the Committee may, in its sole discretion, provide for the lapse of such restrictions in installments and may accelerate or waive such restrictions in whole or in part based on such factors and such circumstances as the Committee may determine in its sole discretion.
+
+2.8 Rights with Respect to Award. Without duplication with the provisions of Section 14 of the Plan, if (i) the Company shall at any time be involved in a merger, consolidation, dissolution, liquidation, reorganization, exchange of shares, sale of all or substantially all of the assets or capital stock of the Company or a transaction similar thereto, (ii) any stock dividend, stock split, reverse stock split, stock combination, reclassification, recapitalization, significant repurchase of shares, or other similar change in the capital structure of the Company, or any distribution to holders of Common Stock other than ordinary cash dividends, shall occur or (iii) any other event shall occur which in the judgment of the Committee necessitates action by way of adjusting the terms of this Outperformance Program, then and in that event, the Committee shall take such action as shall be necessary to maintain the Award Recipients’ rights hereunder so that they are substantially proportionate to the rights existing under this Outperformance Program prior to such event. After the issuance of the Award Shares, the Award Recipient shall possess all incidents of ownership with respect to each Award Share which is outstanding, including voting rights, without regard to whether such Award Share has then vested, except as otherwise set forth herein.
+
+ 
+
+10
+
+
+
+ARTICLE 3
+
+MISCELLANEOUS
+
+3.1 Amendments. This Outperformance Program and any Participation Letter may be amended or modified only with the consent of the Company acting through the Committee or the Board; provided that any amendment or modification which adversely affects an Award Recipient (other than with respect to a reduction in such Award Recipient’s Unallocated Participation Percentage as contemplated pursuant to Section 2.4.3 and 2.4.5 hereof in connection with the grant of a new Award or the re-allocation of any portion of such Award Recipient’s Unallocated Participation Percentage that had previously been automatically re-allocated to such Award Recipient pursuant to Section 2.4.5) must be consented to by such Award Recipient to be effective as against him.
+
+3.2 Incorporation of the Plan; Interpretation by Committee. This Outperformance Program is subject in all respects to the terms, conditions, limitations and definitions contained in the Plan. In the event of any discrepancy or inconsistency between this Outperformance Program and the Plan, the terms and conditions of the Plan shall control. Without limiting the generality of the foregoing, the Committee may interpret the Plan and this Outperformance Program, with such interpretations to be conclusive and binding on all persons and otherwise accorded the maximum deference permitted by law, provided that the Committee’s interpretation shall not be entitled to deference on and after a Change in Control except to the extent that such interpretations are made exclusively by members of the Committee who are individuals who served as Committee members before the Change in Control and take any other actions and make any other determinations or decisions that it deems necessary or appropriate in connection with the Plan, this Outperformance Program or the administration or interpretation thereof. In the event of any dispute or disagreement as to interpretation of the Plan or this Outperformance Program or of any rule, regulation or procedure, or as to any question, right or obligation arising from or related to the Plan or this Outperformance Program, the decision of the Committee, except as provided above, shall be final and binding upon all persons.
+
+3.3 Stock Certificates; Restrictive Legends
+
+3.3.1 On any date of issuance of Award Shares or as soon as practicable thereafter, the Company shall issue a stock certificate, or if shares are not certificated, a written statement evidencing the book entry of the Award Shares to the extent required by applicable law, to each Award Recipient receiving Award Shares hereunder. Each such certificate or book entry shall be registered in the name of the appropriate Award Recipient. The certificates or any written statement evidencing the book entry of the Award Shares issued hereunder shall bear a legend referring to the terms, conditions and restrictions applicable to such Award Shares hereunder, substantially in the following form (in addition to any other legend the Committee may determine to be necessary or appropriate) and, if shares are not certificated, such legend(s) shall also be entered in the Company’s book entry electronic records:
+
+THE TRANSFERABILITY OF THIS CERTIFICATE AND THE SHARES OF STOCK REPRESENTED HEREBY ARE RESTRICTED BY AND SUBJECT TO THE TERMS AND CONDITIONS (INCLUDING FORFEITURE) OF THE DCT INDUSTRIAL TRUST INC. MULTI-YEAR OUTPERFORMANCE PROGRAM. COPIES OF SUCH PROGRAM ARE ON FILE IN THE OFFICES OF DCT INDUSTRIAL TRUST INC. AT 518 17TH STREET, 8TH FLOOR, DENVER, CO 80202.
+
+3.3.2 The Committee shall require that the stock certificates, if any, evidencing the
+
+ 
+
+11
+
+
+
+Award Shares be held in custody by the Company until the restrictions (including those relating to vesting and transferability) set forth in this Outperformance Program shall have lapsed, and that, as a condition to the issuance of the Award Shares to any Award Recipient such Award Recipient shall have delivered a stock power, endorsed in blank, relating to such Award Shares. If and when such restrictions lapse, the stock certificates, if any, shall be delivered by the Company to the appropriate Award Recipient or his designee.
+
+3.3.3 Any shares of Common Stock or other securities distributed by the Company in respect of the Award Shares shall be subject to this Section 3.3 including the requirement of an appropriate legend, the requirement that the certificates, if any, representing such shares of Common Stock or other securities be held in custody by the Company and the condition to distribution that the Award Recipient have delivered a stock power with respect to such shares of Common Stock or other securities.
+
+3.3.4 If the Company shall be consolidated or merged with another corporation, each Award Recipient shall be required, to the extent that the Award Shares remain unvested and/or subject to restrictions or transferability, to deposit with the successor corporation each certificate that such Award Recipient is entitled to receive by reason of the ownership of the Award Shares, and the other provisions of this Section 3.3 shall apply to such certificates
+
+3.4 Withholding of Tax. Anything to the contrary notwithstanding, all payments required to be made by the Company hereunder shall be subject to the withholding of such amounts as the Company reasonably may determine that it is required to withhold pursuant to applicable federal, state or local law or regulation; provided that, to the extent Awards under this Program are made in shares of Common Stock, the Company will satisfy the required minimum tax withholding obligation with respect to such Awards by withholding a number of shares of Common Stock with a Fair Market Value equal to such minimum tax withholding obligation. The Company’s obligation to deliver stock certificates (or evidence of book entry) to any Award Recipient is subject to and conditioned on tax withholding obligations being satisfied by such Award Recipient.
+
+3.5 Assignability. Except as otherwise provided by law, no benefit hereunder shall be assignable, or subject to alienation, garnishment, execution or levy of any kind, and any attempt to cause any benefit to be so subject shall be void.
+
+3.6 No Contract for Continuing Services. This Program shall not be construed as creating any contract for continued services between the Company and any Award Recipient and nothing herein contained shall give any Award Recipient the right to be retained as an employee of the Company.
+
+3.7 Governing Law. This Program shall be construed, administered, and enforced in accordance with the laws of the State of Maryland, without giving effect to the conflict of laws principles thereof.
+
+3.8 Non-Exclusivity. This Program does not limit the authority of the Company, the Committee, or any Subsidiary, to grant awards or authorize any other compensation under any other plan or authority, including, without limitation, awards or other compensation based on the same performance objectives used under this Program.
+
+3.9 Securities Laws Compliance. Award Shares shall not be issued pursuant to the exercise or settlement of any award granted hereunder unless the settlement of such award and the issuance and delivery of such Award Shares pursuant thereto shall comply with all relevant provisions of law, including, without limitation, the Securities Act, the Exchange Act and the requirements of any stock
+
+ 
+
+12
+
+
+
+exchange upon which the Award Shares may then be listed, and shall be further subject to the approval of counsel for the Company with respect to such compliance.
+
+3.10 Section 409A. If any compensation provided by this Program may result in the application of Section 409A of the Code, the Company shall, in consultation with the Award Recipient, modify this Program with respect to such Award Recipient solely in the least restrictive manner necessary in order to, where applicable, (i) exclude such compensation from the definition of “deferred compensation” within the meaning of such Section 409A or (ii) comply with the provisions of Section 409A, other applicable provision(s) of the Code and/or any rules, regulations or other regulatory guidance issued under such statutory provisions and to make such modifications, in each case, without any diminution in the value of the benefits granted under this Program to such Award Recipient.
+
+ADOPTED BY THE COMPENSATION COMMITTEE ON JANUARY 11, 2010
+
+ 
+
+13
+
+
+
+Exhibit A
+
+[DATE]
+
+CONFIDENTIAL
+
+[Name]
+
+[Address]
+
+ 
+
+Re:
+
+Participation in the DCT Industrial Trust Inc. Multi-Year Outperformance Program
+
+Dear [Name]:
+
+You are hereby granted an Award by DCT Industrial Trust Inc. (the “Company”) under the DCT Industrial Trust Inc. Multi-Year Outperformance Program (the “Program”) with the following terms, in addition to those specified in the Program:
+
+Effective Date: December 31, 20    .
+
+Measurement Date: December 31, 20    .
+
+Maximum Absolute Outperformance Pool Amount: $        .
+
+Maximum Relative Outperformance Pool Amount: $        .
+
+Participation Percentage:     %
+
+Initial Unallocated Participation Percentage:     %
+
+Pursuant to the Program, the Performance Period for your Award will begin on the Effective Date set forth above and end on the Measurement Date set forth above, unless a Change in Control occurs prior to the Measurement Date. Generally, under the Program, (a) in the event that the Company’s average, compounded, annual return to stockholders during the Performance Period is equal to or greater than 8%, then an absolute outperformance pool will be formed under the Program in accordance with the absolute outperformance table set forth below and subject to a maximum equal to the Maximum Absolute Outperformance Pool Amount, and/or (b) in the event that the Company’s average, compounded, annual return to shareholders during the Performance Period is equal to or greater than 100% of the total return of the MSCI US REIT Index (RMS) during the Performance Period, then a relative outperformance pool will be formed under the Program in accordance with the relative outperformance table set forth below and subject to a maximum equal to the Maximum Relative Outperformance Pool Amount. Your award, generally, will equal your Participation Percentage (plus any portion of your initial Unallocated Participation Percentage that is not allocated to another award recipient and thereby forfeited) multiplied by the total absolute outperformance pool and relative outperformance pool formed based on the Company’s performance. Your award will be paid in the form of restricted shares of common stock of the Company, which will vest 50% on the date of issuance and the remaining 50% on the first (1st) anniversary of the end of the Performance Period, subject to continued employment. The Company may offer you the choice to receive LTIP units in the Company’s operating partnership, DCT Industrial Operating Partnership LP, in lieu of shares of restricted stock. Special provisions will apply, and you may forfeit some or all of your award, in the event that your employment is terminated or a change in control of the Company occurs prior to the end of the Performance Period. Your initial Unallocated Participation Percentage may be increased or decreased by subsequent events, such as the grant of
+
+
+
+additional awards by the Company or the forfeiture of awards by other award recipients. The Company expects to notify you if and when your initial Unallocated Participation Percentage changes, but it may change without notice.
+
+Absolute Outperformance Table
+
+ 
+
+
+
+
+
+
+
+Absolute Total Shareholder Return
+
+(% per year, compounded annually)
+
+ 
+
+Dollar Amount of Absolute
+
+Outperformance Pool
+
+<8%
+
+ 
+
+$0
+
+8%
+
+ 
+
+$500,000
+
+9%
+
+ 
+
+$1,000,000
+
+10%
+
+ 
+
+$1,500,000
+
+11%
+
+ 
+
+$2,000,000
+
+12%
+
+ 
+
+$2,500,000
+
+13%
+
+ 
+
+$3,000,000
+
+14%
+
+ 
+
+$3,500,000
+
+15%
+
+ 
+
+$4,000,000
+
+16%
+
+ 
+
+$4,500,000
+
+= or > 17%
+
+ 
+
+$5,000,000
+
+Relative Outperformance Table
+
+ 
+
+
+
+
+
+
+
+Relative Total Shareholder Return
+
+(% of MSCI US REIT Index)
+
+ 
+
+Dollar Amount of Relative
+
+Outperformance Pool
+
+<100%
+
+ 
+
+$0
+
+100%
+
+ 
+
+$500,000
+
+102.5%
+
+ 
+
+$1,000,000
+
+105%
+
+ 
+
+$1,500,000
+
+107.5%
+
+ 
+
+$2,000,000
+
+110%
+
+ 
+
+$2,500,000
+
+112.5%
+
+ 
+
+$3,000,000
+
+115%
+
+ 
+
+$3,500,000
+
+117.5%
+
+ 
+
+$4,000,000
+
+120%
+
+ 
+
+$4,500,000
+
+= or > 122.5%
+
+ 
+
+$5,000,000
+
+The dollar amounts set forth in the tables above will be pro-rated between the ranges set forth in the tables above to reflect actual performance that may fall in between the specific guidelines.
+
+Please note that the terms set forth above, other than the specification of the Effective Date, Measurement Date, Maximum Absolute Outperformance Pool Amount, Maximum Relative Outperformance Pool Amount and your Participation Percentage and initial Unallocated Participation Percentage, represent only a summary of the terms of the Program, and your award will be governed by the actual terms of the Program, not those set forth in this summary. Please refer to the Program for the full terms of your award.
+
+
+
+Please acknowledge receipt of this letter by signing in the space provided below and return the signed letter to the attention of [            ].
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Yours truly,
+
+ 
+
+
+
+ 
+
+ACKNOWLEDGED BY:
+
+ 
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+
+
+Chairman, Compensation Committee
+
+ 
+
+
+
+ 
+
+[Name of Award Recipient]
+
+
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+ 
+
+
+
+ 
+
+[Date]

@@ -1,0 +1,341 @@
+EXHIBIT 10.40
+
+AMENDED AND RESTATED SECURITY AGREEMENT
+
+     THIS AMENDED AND RESTATED SECURITY AGREEMENT (the “Agreement”), dated as of December 31, 2009, is entered into by and between ORWELL NATURAL GAS COMPANY, an Ohio corporation (the “Debtor”), and THE HUNTINGTON NATIONAL BANK, a national banking association (the “Lender”).
+
+WITNESSETH THAT:
+
+     WHEREAS, the Debtor is (or will be with respect to after-acquired property) the legal and beneficial owner and the holder of the Collateral (as defined in Section 1 hereof); and
+
+     WHEREAS, the Debtor and the Lender are party to that certain Commercial Security Agreement dated December 9, 2008 (the “Existing Security Agreement”) entered into in connection with that certain Business Loan Agreement of even date therewith between the Debtor and the Lender (the “Existing Loan Agreement”) pursuant to which the Lender made certain loans and extensions of credit to the Debtor; and
+
+     WHEREAS, pursuant to that certain Amended and Restated Loan Agreement (as it may hereafter from time to time be further restated, amended, modified or supplemented, the “Credit Agreement”) dated as of even date herewith by and among the Lender, the Debtor as the Borrower named therein, and the Guarantors, parties thereto have amended and restated the Existing Loan Agreement, pursuant to which the Lender has agreed to continue to make certain loans and other extensions of credit to the Debtor; and
+
+     WHEREAS, the obligation of the Lender to continue to make loans and extend credit under the Credit Agreement is subject to the condition, among others, that the Debtor secure the Debtor’s obligations to the Lender under the Credit Agreement, the other Loan Documents and otherwise as more fully described herein in the manner set forth herein.
+
+     NOW, THEREFORE, intending to be legally bound hereby, the parties hereto covenant and agree as follows:
+
+     1. Terms which are defined in the Credit Agreement and not otherwise defined herein are used herein as defined therein. The following words and terms shall have the following meanings, respectively, unless the context hereof otherwise clearly requires:
+
+          (i) “Code” means the Uniform Commercial Code as in effect in the State of Ohio on the date hereof and as amended from time to time except to the extent that the conflict of law rules of such Uniform Commercial Code shall apply the Uniform Commercial Code as in effect from time to time in any other state to specific property or other matters.
+
+          (ii) “Collateral” means all of the Debtor’s right, title and interest in, to and under the following described property of the Debtor (each capitalized term used in this definition shall have in this Agreement the meaning given to it by the Code):
+
+          (a) all now existing and hereafter acquired or arising Accounts, Goods (excluding Inventory), Health Care Insurance Receivables, General Intangibles, Payment
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+Intangibles, Deposit Accounts, Chattel Paper (including, without limitation, Electronic Chattel Paper), Documents, Instruments, Software, Investment Property, Letters of Credit, Letter of Credit Rights, advices of credit, money, Commercial Tort Claims as listed on Schedule B hereto (as such Schedule is amended or supplemented from time to time), Equipment, Fixtures, and Supporting Obligations, together with all products of and Accessions to any of the foregoing and all Proceeds of any of the foregoing (including without limitation all insurance policies and proceeds thereof);
+
+          (b) to the extent, if any, not included in clause (a) above, each and every other item of personal property and fixtures (excluding Inventory), whether now existing or hereafter arising or acquired, including, without limitation, all licenses, contracts and agreements, and all collateral for the payment or performance of any contract or agreement, together with all products and Proceeds (including all insurance policies and proceeds) of any Accessions to any of the foregoing; and
+
+          (c) all present and future business records and information, including computer tapes and other storage media containing the same and computer programs and software (including without limitation, source code, object code and related manuals and documentation and all licenses to use such software) for accessing and manipulating such information.
+
+          (iii) “Debt” shall mean and include the following: (a) all now existing and hereafter arising Indebtedness and Obligations of the Debtor to the Lender under the Credit Agreement, the other Loan Documents entered into between the Debtor and the Lender, including all obligations, liabilities, and indebtedness, whether for principal, interest, fees, expenses, or otherwise, of the Debtor to the Lender, now existing or hereafter incurred under the Credit Agreement or the Notes or the Guaranty Agreement or any of the other Loan Documents as any of the same or any one or more of them may from time to time be amended, restated, modified, or supplemented, together with any and all extensions, renewals, refinancings, and refundings thereof in whole or in part (and including obligations, liabilities, and indebtedness arising or accruing after the commencement of any bankruptcy, insolvency, reorganization, or similar proceeding with respect to the Debtor or which would have arisen or accrued but for the commencement of such proceeding, even if the claim for such obligation, liability or indebtedness is not enforceable or allowable in such proceeding, and including all obligations, liabilities and indebtedness arising from any extensions of credit under or in connection with the Loan Documents from time to time, regardless whether any such extensions of credit are in excess of the amount committed under or contemplated by the Loan Documents or are made in circumstances in which any condition to extension of credit is not satisfied); (b) all reimbursement obligations of the Debtor with respect to any one or more Letters of Credit issued by Lender; (c) all indebtedness, loans, obligations, expenses and liabilities of the Debtor to the Lender arising out of any interest rate protection agreement or cash management agreement provided by the Lender; and (d) any sums advanced by the Lender or which may otherwise become due pursuant to the provisions of the Credit Agreement, the Notes, this Agreement, or any other Loan Documents or pursuant to any other document or instrument at any time delivered to the Lender in connection therewith, including commitment, letter of credit, Lender or other fees and charges, and indemnification obligations under any such document or instrument, together with all interest payable on any of the foregoing, whether such sums are
+
+-2-
+
+
+
+
+
+ 
+
+
+
+
+
+advanced or otherwise become due before or after the entry of any judgment for foreclosure or any judgment on any Loan Document or with respect to any default under any of the Debt.
+
+          (iv) “Receivables” means all of the Collateral except Equipment, Goods, Deposit Accounts, Software, Investment Property and Fixtures.
+
+     2. As security for the due and punctual payment and performance of the Debt in full, the Debtor hereby agrees that the Lender shall have, and the Debtor hereby grants to and creates in favor of the Lender, a continuing first priority lien on and security interest under the Code in and to the Collateral subject only to Permitted Encumbrances. Without limiting the generality of Section 4 below, the Debtor further agrees that with respect to each item of Collateral as to which (i) the creation of a valid and enforceable security interest is not governed exclusively by the Code or (ii) the perfection of a valid and enforceable first priority security interest therein under the Code cannot be accomplished either by the Lender taking possession thereof or by the filing in appropriate locations of appropriate Code financing statements, the Debtor will at its expense execute and deliver to the Lender and hereby does authorize the Lender to execute and file such documents, agreements, notices, assignments and instruments and take such further actions as may be reasonably requested by the Lender from time to time for the purpose of creating a valid and perfected first priority lien and security interest on such item, subject only to Permitted Encumbrances, enforceable against the Debtor and all third parties to secure the Debt.
+
+     3. The Debtor represents and warrants to the Lender, subject to any and all regulations affecting the Debtor by the nature of its business as a public utility, that (a) the Debtor has good and marketable title to the Collateral, (b) except for the security interest granted to and created in favor of the Lender and Permitted Encumbrances, all the Collateral is free and clear of any Encumbrance, (c) the Debtor will defend the Collateral against all material claims and demands of all persons at any time claiming the same or any interest therein, (d) each Account and General Intangible is genuine and enforceable in accordance with its terms, subject to reasonable reserves on the Debtor’s financial statements, and the Debtor will defend the same against all claims, demands, recoupment, setoffs, and counterclaims at any time asserted, and (e) at the time any Account or General Intangible becomes subject to this Agreement, each such Account or General Intangible will be a good and valid Account representing a bona fide sale of goods or services by the Debtor and such goods will have been shipped to the respective account debtors or the services will have been performed for the respective account debtors (or for those on behalf of whom the account debtors are obligated on the Accounts), and no such Account or General Intangible will at such time be subject to any claim for credit, allowance, setoff, recoupment, defense, counterclaim or adjustment by any account debtor or otherwise, subject to reasonable reserves on the Debtor’s financial statements, (f) the exact legal name of the Debtor is as set forth on the signature page hereto, and (g) the state of incorporation, formation or organization as applicable, of the Debtor is as set forth on Schedule A hereto.
+
+     4. The Debtor will faithfully preserve and protect the Lender’s security interest in the Collateral as a prior perfected security interest under the Code, superior and prior to the rights of all third Persons, except for holders of Permitted Encumbrances, and will do all such other acts and things and will, upon request therefor by the Lender, execute, deliver, file and record, and the Debtor hereby authorizes the Lender to so file, all such other documents and instruments, including, without limitation, financing statements, security agreements, assignments and
+
+-3-
+
+
+
+
+
+ 
+
+
+
+
+
+documents and powers of attorney with respect to the Collateral, and pay all filing fees and taxes related thereto, as the Lender in its reasonable discretion may deem necessary or advisable from time to time in order to attach, continue, preserve, perfect, and protect said security interest (including the filing at any time or times after the date hereof of financing statements under, and in the locations advisable pursuant to, the Code); and the Debtor hereby irrevocably appoints the Lender, its officers, employees and agents, or any of them, as attorneys-in-fact for the Debtor to execute, deliver, file and record such items for the Debtor and in the Debtor’s name, place and stead. This power of attorney, being coupled with an interest, shall be irrevocable for the life of this Agreement.
+
+     5. The Debtor covenants and agrees, subject to restrictions imposed by any applicable law or regulation, that:
+
+          (i) it will defend the Lender’s right, title and lien on and security interest in and to the Collateral and the proceeds thereof against the claims and demands of all Persons whomsoever, other than any Person claiming a right in the Collateral pursuant to an agreement between such Person and the Lender;
+
+          (ii) it will not suffer or permit to exist on any Collateral any Encumbrance except for Permitted Encumbrances;
+
+          (iii) it will not take or omit to take any action, the taking or the omission of which might result in a material alteration (except as permitted by the Credit Agreement) or impairment of the Collateral or of the Lender’s rights under this Agreement;
+
+          (iv) it will not sell, assign or otherwise dispose of any portion of the Collateral except as permitted in Section 6.6 [Disposition of Assets] of the Credit Agreement;
+
+          (v) it will (a) except for such Collateral delivered to the Lender pursuant to this Section or otherwise now or hereafter under the control of the Lender, obtain and maintain sole and exclusive possession of the Collateral, (b) maintain its chief executive office and keep the Collateral and all records pertaining thereto at the locations specified on the Security Interest Data Summary attached as Schedule A hereto, unless it shall have given the Lender prior notice and taken any action reasonably requested by the Lender to maintain its security interest therein, (c) notify the Lender if an Account becomes evidenced or secured by an Instrument or Chattel Paper and deliver to the Lender upon the Lender’s request therefor all Collateral consisting of Instruments and Chattel Paper immediately upon the Debtor’s receipt of a request therefor, (d) deliver to the Lender possession of all Collateral the possession of which is required to perfect the Lender’s lien thereon or security interest therein or the possession of which grants priority over a Person filing a financing statement with respect thereto, (e) execute control agreements and cause, to the best of its ability, other Persons to execute acknowledgments in form and substance reasonably satisfactory to the Lender evidencing the Lender’s control with respect to all Collateral the control or acknowledgment of which perfects the Lender’s security interest therein, including Letters of Credit, Letter of Credit Rights, Electronic Chattel Paper, Deposit Accounts and Investment Property, and (f) keep materially accurate and complete books and records concerning the Collateral and such other books and records as the Lender may from time to time reasonably require; and
+
+-4-
+
+
+
+
+
+ 
+
+
+
+
+
+          (vi) it will promptly furnish to the Lender such information and documents relating to the Collateral as the Lender may reasonably request, including, without limitation, all invoices, Documents, contracts, Chattel Paper, Instruments and other writings pertaining to the Debtor’s contracts or the performance thereof, all of the foregoing to be certified upon request of the Lender by an authorized officer of the Debtor;
+
+          (vii) it shall immediately notify the Lender if any Account arises out of contracts with the United States or any department, agency or instrumentality thereof or any one or more of the states of the United States or any department, agency, or instrumentality thereof, and upon the request of the Lender will execute any instruments and take any steps required by the Lender so that all monies due and to become due under such contract shall be assigned to the Lender and notice of the assignment given to and acknowledged by the appropriate government agency or authority under the Federal Assignment of Claims Act;
+
+          (viii) the Debtor will not change its state of incorporation, formation or organization without the prior written consent of the Lender;
+
+          (ix) the Debtor will not change its name without providing thirty (30) days prior written notice to the Lender;
+
+          (x) except as otherwise permitted by the Credit Agreement, the Debtor shall preserve its corporate existence and shall not (a) in one, or a series of related transactions, merge into or consolidate with any other entity, the survivor of which is not the Debtor, or (b) sell all or substantially all or its assets;
+
+          (xi) If the Debtor shall at any time acquire a Commercial Tort Claim, the Debtor shall promptly notify the Lender in a writing signed by the Debtor of the details thereof and grant to the Lender in such writing a security interest therein and in the proceeds thereof, with such writing to be in forms and substance reasonably satisfactory to the Lender and such writing shall constitute a supplement to Schedule B hereto;
+
+          (xii) The Debtor hereby authorizes the Lender to, at any time and from time to time, file in any one or more jurisdictions financing statements that describe the Collateral, together with continuation statements thereof and amendments thereto, and which contain any information required by the Code or any other applicable statute applicable to such jurisdiction for the sufficiency or filing office acceptance of any financing statements, continuation statements, or amendments. The Debtor agrees to furnish any such information to the Lender promptly upon request. Any such financing statements, continuation statements, or amendments may be signed by the Lender on behalf of the Debtor if the Lender so elects and may be filed at any time in any jurisdiction; and
+
+          (xiii) the Debtor shall at any time and from time to time take such steps as the Lender may reasonably request as are necessary for the Lender to insure the continued perfection of the Lender’s security interest in the Collateral with the same priority required hereby and the preservation of its rights therein.
+
+     6. The Debtor assumes full responsibility for taking any and all necessary steps to preserve the Lender’s rights with respect to the Collateral against all Persons other than anyone
+
+-5-
+
+
+
+
+
+ 
+
+
+
+
+
+asserting rights in respect of a Permitted Encumbrance. The Lender shall be deemed to have exercised reasonable care in the custody and preservation of the Collateral in its possession if the Lender takes such action for that purpose as the Debtor shall request in writing, provided that such requested action will not, in the judgment of the Lender, impair the security interest in the Collateral created hereby or the Lender’s rights in, or the value of, the Collateral, and provided further that such written request is received by the Lender in sufficient time to permit the Lender to take the requested action.
+
+     7. (i) At any time and from time to time whether or not an Event of Default then exists and without prior notice to or consent of the Debtor, the Lender may at its option take such actions as the Lender deems appropriate (a) to attach, perfect, continue, preserve and protect the Lender’s first priority security interest in or lien on the Collateral, (b) to inspect, audit and verify the Collateral, including reviewing all of the Debtor’s books and records and copying and making excerpts therefrom, and (c) to add all liabilities, obligations, costs and expenses reasonably incurred in connection with the foregoing clauses (a) and (b) to the Debt, to be paid by the Debtor to the Lender upon demand;
+
+          (ii) At any time and from time to time after an Event of Default exists and is continuing and without prior notice to or consent of the Debtor, the Lender may at its option take such action as the Lender deems appropriate (a) to maintain, repair, protect and insure the Collateral, and/or (b) to perform, keep, observe and render true and correct any and all covenants, agreements, representations and warranties of the Debtor hereunder, and (c) to add all liabilities, obligations, costs and expenses reasonably incurred in connection with the foregoing clauses (a) and (b) to the Debt, to be paid by the Debtor to the Lender upon demand.
+
+     8. After there exists any Event of Default which has not been cured or waived under the Credit Agreement:
+
+          (i) The Lender shall have and may exercise all the rights and remedies available to a secured party under the Code in effect at the time, and such other rights and remedies as may be provided by law and as set forth below, including without limitation to take over and collect all of the Debtor’s Receivables and all other Collateral, and to this end the Debtor hereby appoints the Lender, its officers, employees and agents, as its irrevocable, true and lawful attorneys-in-fact with all necessary power and authority to (a) take possession immediately, with or without notice, demand, or legal process, of any of or all of the Collateral wherever found, and for such purposes, enter upon any premises upon which the Collateral may be found and remove the Collateral therefrom, (b) require the Debtor to assemble the Collateral and deliver it to the Lender or to any place designated by the Lender at the Debtor’s expense, (c) receive, open and dispose of all mail addressed to the Debtor and notify postal authorities to change the address for delivery thereof to such address as the Lender may designate, (d) demand payment of the Receivables, (e) enforce payment of the Receivables by legal proceedings or otherwise, (f) exercise all of the Debtor’s rights and remedies with respect to the collection of the Receivables, (g) settle, adjust, compromise, extend or renew the Receivables, (h) settle, adjust or compromise any legal proceedings brought to collect the Receivables, (i) to the extent permitted by applicable law, sell or assign the Receivables upon such terms, for such amounts and at such time or times as the Lender deems advisable, (j) discharge and release the Receivables, (k) take control, in any manner, of any item of payment or proceeds from any account debtor, (l) prepare,
+
+-6-
+
+
+
+
+
+ 
+
+
+
+
+
+file and sign the Debtor’s name on any Proof of Claim in Bankruptcy or similar document against any account debtor, (m) prepare, file and sign the Debtor’s name on any notice of lien, assignment or satisfaction of lien or similar document in connection with the Receivables, (n) do all acts and things necessary, in the Lender’s sole discretion, to fulfill the Debtor’s or any Guarantor’s obligations to the Lender under the Credit Agreement, Loan Documents or otherwise, (o) endorse the name of the Debtor upon any check, Chattel Paper, Document, Instrument, invoice, freight bill, bill of lading or similar document or agreement relating to the Receivables; (p) use the Debtor’s stationery and sign the Debtor’s name to verifications of the Receivables and notices thereof to account debtors; (q) access and use the information recorded on or contained in any data processing equipment or computer hardware or software relating to the Receivables or other Collateral or proceeds thereof to which the Debtor has access, (r) demand, sue for, collect, compromise and give acquittances for any and all Collateral, (s) prosecute, defend or compromise any action, claim or proceeding with respect to any of the Collateral, and (t) take such other action as the Lender may deem appropriate, including extending or modifying the terms of payment of the Debtor’s debtors. This power of attorney, being coupled with an interest, shall be irrevocable for the life of this Agreement. To the extent permitted by law, the Debtor hereby waives all claims of damages due to or arising from or connected with any of the rights or remedies exercised by the Lender pursuant to this Agreement, except claims for physical damage to the Collateral arising from gross negligence or willful misconduct by the Lender.
+
+          (ii) The Lender shall have the right to lease, sell or otherwise dispose of all or any of the Collateral at public or private sale or sales for cash, credit or any combination thereof, with such notice as may be required by law (it being agreed by the Debtor that, in the absence of any contrary requirement of law, ten (10) days’ prior notice of a public or private sale of Collateral shall be deemed reasonable notice), in lots or in bulk, for cash or on credit, all as the Lender, in its sole discretion, may deem advisable. Such sales may be adjourned from time to time with or without notice. The Lender shall have the right to conduct such sales on the Debtor’s premises or elsewhere and shall have the right to use the Debtor’s premises without charge for such sales for such time or times as the Lender may see fit. The Lender may purchase all or any part of the Collateral at public or, if permitted by law, private sale and, in lieu of actual payment of such purchase price, may set off the amount of such price against the Debt.
+
+          (iii) The Debtor, at its cost and expense (including the cost and expense of any of the following referenced consents, approvals etc.) will promptly execute and deliver or cause the execution and delivery of all applications, certificates, instruments, registration statements, and all other documents and papers the Lender may request in connection with the obtaining of any consent, approval, registration, qualification, permit, license, accreditation, or authorization of any other Governmental Authority or other Person necessary or appropriate for the effective exercise of any rights hereunder or under the other Loan Documents. Without limiting the generality of the foregoing, the Debtor agrees that in the event the Lender shall exercise its rights hereunder or pursuant to the other Loan Documents, to sell, transfer, or otherwise dispose of, or vote, consent, operate, or take any other action in connection with any of the Collateral, the Debtor shall execute and deliver (or cause to be executed and delivered) all applications, certificates, assignments and other documents that the Lender requests to facilitate such actions and shall otherwise promptly, fully, and diligently cooperate with the Lender and any other Persons in making any application for the prior consent or approval of any Governmental
+
+-7-
+
+
+
+
+
+ 
+
+
+
+
+
+Authority or any other Person to the exercise by the Lender of any such rights relating to all or any of the Collateral. Furthermore, because the Debtor agrees that the remedies at law of the Lender for failure of the Debtor to comply with this Subsection (iii) would be inadequate, and that any such failure would not be adequately compensable in damages, the Debtor agrees that this Subsection (iii) may be specifically enforced.
+
+          (iv) Without limiting the rights and remedies of the Lender otherwise provided hereunder and under the other Loan Documents, the Lender may, without notice to the Debtor which notice is expressly waived by the Debtor, in order to better secure the Lender, to the extent permitted by law, direct the account debtors to make payments of all monies paid or payable thereon directly to the Lender or to a lockbox designated by the Lender (and, at the request of the Lender, the Debtor shall indicate on all billings that payments thereon are to be made to the Lender) and give any account debtors so notified and directed the receipt of the Lender for any such payment as a full release for the amount so paid.
+
+     9. The lien on and security interest in the Debtor’s Collateral granted to and created in favor of the Lender by this Agreement shall be for the benefit of the Lender. The Debtor shall remain liable to the Lender for and shall pay to the Lender, for the Lender’s benefit, any deficiency which may remain after such sale or collection.
+
+     10. If the Lender repossesses or seeks to repossess any of the Collateral pursuant to the terms hereof because of the occurrence of an Event of Default, then to the extent it is commercially reasonable for the Lender to store any Collateral on any of the Debtor’s premises, the Debtor hereby agrees to lease to the Lender on a month-to-month tenancy for a period not to exceed one hundred twenty (120) days at the Lender’s election, at a rental of One Dollar ($1.00) per month, the premises on which the Collateral is located, provided it is located on premises owned or leased by the Debtor. The foregoing rights shall be in addition to all rights of Lender granted under the Mortgages conveyed by the Debtor to the Lender.
+
+     11. No failure or delay on the part of the Lender in exercising any right, remedy, power or privilege hereunder shall operate as a waiver thereof or of any other right, remedy, power or privilege of the Lender hereunder; nor shall any single or partial exercise of any such right, remedy, power or privilege preclude any other or further exercise thereof or the exercise of any other right, remedy, power or privilege. No waiver of a single Event of Default shall be deemed a waiver of a subsequent Event of Default. All waivers under this Agreement must be in writing. The rights and remedies of the Lender under this Agreement are cumulative and in addition to any rights or remedies which it may otherwise have, and the Lender may enforce any one or more remedies hereunder successively or concurrently at its option.
+
+     12. All notices, statements, requests and demands given to or made upon either party hereto in accordance with the provisions of this Agreement shall be given or made as provided in Section 10.3 [Notices] of the Credit Agreement.
+
+     13. The Debtor agrees that as of the date hereof, all information contained on the Security Interest Data Schedule attached hereto as Schedule A is accurate and complete and contains no omission or misrepresentation. The Debtor shall promptly notify the Lender, and in any case within fifteen (15) days, of any changes in the information set forth thereon.
+
+-8-
+
+
+
+
+
+ 
+
+
+
+
+
+     14. The Debtor acknowledges that the provisions hereof giving the Lender rights of access to books, records and information concerning the Collateral and the Debtor’s operations and providing the Lender access to the Debtor’s premises are intended to afford the Lender with immediate access to current information concerning the Debtor and its activities, including without limitation, the value, nature and location of the Collateral so that the Lender can, among other things, make an appropriate determination after the occurrence of an Event of Default, whether and when to exercise its other remedies hereunder and at law, including without limitation, instituting a replevin action should the Debtor refuse to turn over any Collateral to the Lender. The Debtor further acknowledges that should the Debtor at any time fail to promptly provide such information and access to the Lender, the Debtor acknowledges that the Lender would have no adequate remedy at law to promptly obtain the same. The Debtor agrees that the provisions hereof may be specifically enforced by the Lender and waives any claim or defense in any such action or proceeding that the Lender has an adequate remedy at law.
+
+     15. This Agreement shall be binding upon and inure to the benefit of the Lender and its successors and assigns, and the Debtor and each of its successors and assigns, except that the Debtor may not assign or transfer the Debtor’s obligations hereunder or any interest herein.
+
+     16. This Agreement shall be deemed to be a contract under the laws of the State of Ohio and for all purposes shall be governed by and construed in accordance with the laws of said State excluding its rules relating to conflicts of law.
+
+     17. Any provision of this Agreement which is prohibited or unenforceable in any jurisdiction shall not invalidate the remaining provisions hereof, and any such prohibition or unenforceability in any jurisdiction shall not invalidate or render unenforceable such provision in any other jurisdiction.
+
+     18. The Debtor hereby irrevocably submits to the nonexclusive jurisdiction of the Court of Common Pleas of Lake County, Ohio or of the District Court of the United States for the Northern District of Ohio in any action or proceeding arising out of or relating to this Agreement, and the Debtor hereby irrevocably agrees that all claims in respect of such action or proceeding may be heard and determined in the Court of Common Pleas of Lake County, Ohio or the District Court of the United States for the Northern District of Ohio. The Debtor hereby waives to the fullest extent it may effectively do so, the defense of an inconvenient forum to the maintenance of any such action or proceeding.
+
+     19. THE DEBTOR AND THE LENDER EACH HEREBY WAIVES ANY RIGHT TO A TRIAL BY A JURY IN RESPECT OF ANY LITIGATION DIRECTLY OR INDIRECTLY ARISING OUT OF, UNDER, OR IN CONNECTION WITH THIS AGREEMENT OR ANY OTHER DOCUMENTS OR TRANSACTIONS RELATING THERETO.
+
+     20. This Agreement may be executed in any number of counterparts, and by different parties hereto in separate counterparts, each of which, when so executed, shall be deemed an original, but all such counterparts shall constitute one and the same instrument. The Debtor acknowledges and agrees that a telecopy transmission to the Lender of the signature pages hereof
+
+-9-
+
+
+
+
+
+ 
+
+
+
+
+
+purporting to be signed on behalf of the Debtor shall constitute effective and binding execution and delivery hereof by the Debtor.
+
+     21. The Existing Security Agreement is hereby amended and restated in its entirety as provided herein, and this Agreement is not intended to constitute, nor does it constitute, an interruption, suspension of continuity, satisfaction, discharge of prior duties, novation, or termination of the liens, security interests, indebtedness, loans, liabilities, expenses, or obligations under the Existing Loan Agreement, and as the Existing Loan Agreement has been amended and restated by the Credit Agreement, or the Existing Security Agreement. The Debtor and the Lender acknowledge and agree that the Existing Security Agreement has continued to secure the indebtedness, loans, liabilities, expenses, and obligations under the Existing Loan Agreement, and as so amended and restated by the Credit Agreement, since the date of execution of the Existing Security Agreement; and that this Agreement is entitled to all rights and benefits originally pertaining to the Existing Security Agreement.
+
+[SIGNATURE PAGE FOLLOWS]
+
+-10-
+
+
+
+
+
+ 
+
+
+
+
+
+[SIGNATURE PAGE TO AMENDED AND RESTATED SECURITY AGREEMENT]
+
+     IN WITNESS WHEREOF, the parties hereto, by their officers thereunto duly authorized, have executed and delivered this Agreement as of the day and year first above set forth.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ORWELL NATURAL GAS COMPANY 
+
+ 
+
+ 
+
+By:  
+
+/s/ Richard M. Osborne  
+
+(Seal)
+
+ 
+
+ 
+
+ 
+
+Name:  
+
+Richard M. Osborne 
+
+ 
+
+ 
+
+ 
+
+Title:  
+
+Chairman and COO 
+
+ 
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+THE HUNTINGTON NATIONAL BANK 
+
+ 
+
+ 
+
+By:  
+
+/s/ Bruce G. Shearer  
+
+ 
+
+ 
+
+ 
+
+Name:  
+
+Bruce G. Shearer 
+
+ 
+
+ 
+
+ 
+
+Title:  
+
+Senior Vice President

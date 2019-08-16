@@ -1,0 +1,1153 @@
+Exhibit 10.1
+
+
+
+ASSET PURCHASE AGREEMENT
+
+
+
+AMONG
+
+
+
+DUTCH GOLD RESOURCES, INC.,
+
+
+
+DGRI AGDI ACQUISITION CORPORATION
+
+
+
+AND
+
+
+
+AULTRA GOLD INC.
+
+
+
+December 31, 2009
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ASSET PURCHASE AGREEMENT
+
+
+
+This Asset Purchase Agreement (this "Agreement") is made and entered into as of December __, 2009, by and among DUTCH GOLD RESOURCES, INC., a publicly-owned Nevada Corporation, (“Dutch Gold”), DGRI AGDI ACQUISITION CORPORATION, a Georgia corporation (the “Purchaser”), and AULTRA GOLD, INC., a an publicly-owned Nevada corporation (the “Seller”). Dutch Gold, the Purchaser and the Seller are referred to herein individually as a “Party” and collectively as the “Parties.”
+
+
+
+RECITALS
+
+
+
+WHEREAS, the Seller is in the business of acquiring and exploring gold and mineral properties and is the owner of certain assets of gold and precious mineral properties and certain assets and equipment related to the exploration and development of such properties (the “Mining Business”);
+
+
+
+WHEREAS, the Purchaser is a wholly-owned subsidiary of Dutch Gold; and
+
+
+
+WHEREAS, the Seller desires to sell and Purchaser desires to purchase all of the Seller’s right, title and interest in the Mining Business and the related assets and services as provided herein, pursuant to the terms and conditions set forth herein;
+
+
+
+NOW, THEREFORE, in consideration of the premises and the mutual promises made in this Agreement, and for other good and valuable consideration, the sufficiency and receipt of which are hereby acknowledged, the Parties agree as follows.
+
+
+
+1.0 DEFINITIONS. For purposes of this Agreement and the Acquisition Documents, the capitalized terms shall have the meanings set forth below:
+
+
+
+1.1.          “Acquired Assets” means all right, title and interest of the Seller as set forth on Schedule 1.1 including the books and records as of the Closing Date, but excluding the Excluded Assets.
+
+
+
+1.2.          “Acquisition Documents” means this Agreement and all transfer documents, assumption agreements or other documents or agreements related to the consummation of the transactions contemplated in this Agreement.
+
+
+
+1.3.          “Affiliate” has the meaning set forth in Rule 12b-2 of the regulations promulgated under the Securities Exchange Act of 1934, as amended.
+
+
+
+1.4.          “Agreement” has the meaning set forth in the Preface.
+
+
+
+1.5.          “Assumed Liabilities” means all of the obligations and Liabilities of the Seller arising after the Effective Time but excluding the Excluded Liabilities.
+
+
+
+1.6.          “Closing” means the closing of the transactions contemplated by this Agreement.
+
+
+
+1.7.          “Closing Date” means  December 31, 2009.
+
+
+
+1.8.          “Code” means the Internal Revenue Code of 1986, as amended.
+
+
+
+1.9.          “Disclosure Schedule” has the meaning set forth in Section 3.
+
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+1.10.        “Effective Time” has the meaning set forth in Section 2.4.
+
+
+
+1.11.        “Excluded Assets" means all assets of the Seller not explicitly included in the Acquired Assets, including the following:
+
+
+
+(i)             all refunds (or credits) of any Tax for any Tax year or portion thereof ending on or before the Closing Date (or for any Tax year beginning before and ending after the Closing Date to the extent allocable to the portion of such period beginning before and ending on the Closing Date);
+
+
+
+(ii)       	 all leases, office equipment, fixtures, furniture, supplies, software and software licenses of Seller;
+
+
+
+(iii)           all of Seller's rights, claims or causes of action against Third Parties relating to the Acquired Assets with respect to the period prior to the Closing; and
+
+
+
+(iv)           the names “Basin Gulch”, “Jungo”, or any related or similar trade names, trademarks, service marks or logos to the extent the same incorporate the name “Basin Gulch”, “Jungo”.
+
+
+
+1.12.         “Excluded Liabilities” means all obligations, commitments, or Liabilities of the Seller, whether known or unknown, absolute, contingent, or otherwise, and whether or not related to the Acquired Assets or the Mining Business, except for the Assumed Liabilities. Without limiting the generality of the preceding sentence, the Purchaser shall not assume or become liable for any of the following obligations and Liabilities of the Seller:
+
+
+
+(a)           Any Liability or obligation arising out of any employee benefit plan (i) maintained by or covering employees of the Seller or (ii) to which the Seller has made any contribution or to which the Seller could be subject to any Liability;
+
+
+
+(b)           Any losses, costs, expenses, damages, claims, demands and judgments of every kind and nature (including the defenses thereof and reasonable attorneys' and other professional fees) related to or arising out of or in connection with Seller's failure to comply with the bulk transfer, bulk sales, or any similar statute as enacted in any jurisdiction, domestic or foreign;
+
+
+
+(c)           Any Liability or obligation arising out of any action or failure to act by the Seller prior to the Effective Time;
+
+
+
+(d)           Any Liability of the Seller with respect to any claim or cause of action, regardless of when made or asserted, which arises (i) out of or in connection with the Mining Business or the Acquired Assets prior to the Effective Time or (ii) with respect to any service provided by the Seller prior to the Closing Date; and
+
+
+
+(e)           Any Liabilities or obligations of the Seller relating to the Excluded Assets.
+
+
+
+1.13.        “Governmental Authorization” means any consent, license, registration or permit issued, granted, given or otherwise made available by or under the authority of any Governmental Body or pursuant to any Legal Requirement.
+
+
+
+1.14.        “Governmental Body” means any federal, state, local, municipal, foreign or other government or any governmental or quasi-governmental authority of any nature (including any agency, branch, department, board, commission, court, tribunal or other entity exercising governmental or quasi-governmental powers).
+
+
+
+
+
+ 
+
+
+
+2
+
+
+
+ 
+
+
+
+1.15.        “Indemnified Party” has the meaning set forth in Section 9.2(d).
+
+
+
+1.16.        “Indemnifying Party” has the meaning set forth in Section 9.2(d).
+
+
+
+1.17.        “IRS” means the Internal Revenue Services.
+
+
+
+1.18.        “Knowledge” means actual knowledge.
+
+
+
+1.19.        “Legal Requirement” means any federal, state, local, municipal, foreign, international, multinational or other constitution, law, ordinance, principle of law, code, regulation, statute or treaty.
+
+
+
+1.20.        “Liability” means any liability (whether known or unknown, asserted or unasserted, absolute or contingent, accrued or unaccrued, liquidated or unliquidated, or due or to become due), including any liability for Taxes.
+
+
+
+1.21.        “Mining Business” has the meaning set forth in the Recitals.
+
+ 
+
+1.22.        “Party” has the meaning set forth in the Preface.
+
+
+
+1.23.        “"Person” means an individual, a partnership, a limited liability company, a corporation, an association, a joint stock company, a trust, a joint venture, an unincorporated organization, or a Governmental Body.
+
+
+
+1.24.        “Preface” means the first paragraph of this Agreement.
+
+
+
+1.25.        “Purchase Price” has the meaning set forth in Section 2.3.
+
+
+
+1.26.        “Purchaser” has the meaning set forth in the Preface.
+
+
+
+1.27         “Representative” with respect to a particular Person, any director, officer, manager, employee, agent, consultant, advisor, accountant, financial advisor, legal counsel or other representative of such Person.
+
+
+
+1.28.        “Securities Act” means the Securities Act of 1933, as amended.
+
+
+
+1.29.        “Security Interest” means any mortgage, pledge, lien, encumbrance, charge, or other security interest.
+
+
+
+1.30.        “Seller” has the meaning set forth in the Preface.
+
+
+
+1.31.        “Seller Material Adverse Effect” has the meaning set forth in Section 3.1(a).
+
+
+
+1.32.        “Specified Employees” has the meaning set forth in Section 8.6.
+
+
+
+1.33.        “Tax” means any federal, state, local, or foreign income, gross receipts, license, payroll, employment, excise, severance, stamp, occupation, premium, windfall profits, environmental, customs duties, capital stock, franchise, profits, withholding, social security (or similar), unemployment, disability, real property, personal property, sales, use, transfer, registration, value added, alternative or add-on minimum, estimated, or other tax of any kind whatsoever, including any interest, penalty, or addition thereto, whether disputed or not.
+
+
+
+
+
+ 
+
+
+
+3
+
+
+
+ 
+
+
+
+1.34.        “Tax Return” means any return, declaration, report, claim for refund, or information return or statement relating to Taxes, including any schedule or attachment thereto, and including any amendment thereof.
+
+
+
+1.35.        “Third Party” means any Person who is not a Party.
+
+
+
+1.36.        “Transaction” means the actions contemplated within this Agreement and the Acquisition Documents.
+
+ 
+
+2.             BASIC TRANSACTION.
+
+
+
+2.1           Purchase and Sale of Assets. Upon and subject to the terms and conditions of this Agreement, simultaneously with the execution and delivery of this Agreement, the Purchaser is purchasing from the Seller, and the Seller is selling, transferring, conveying, assigning, and delivering to the Purchaser, all of the Acquired Assets, free and clear of all liens, claims, charges, Security Interests, and encumbrances of any kind or nature other than the following:
+
+
+
+(a) Aultra Gold Inc. shall retain a Two Per Cent NSR royalty on all claims that were not subject to a royalty at the date of Closing.
+
+
+
+(b) William R. Hansen retains a Two Per Cent NSR royalty on a block of claims of the Jungo property in Humboldt County, Nevada; The Metesh Family maintains a royalty interest as set forth in disclosure documents filed by Aultra Gold, Inc. with the Securities and Exchange Commission.
+
+
+
+2.2           Assumption of Assumed Liabilities. Upon and subject to the terms and conditions of this Agreement, simultaneously with the execution and delivery of this Agreement, the Purchaser is assuming and becoming responsible for the performance and satisfaction of the Assumed Liabilities. Under no circumstances will the Purchaser assume or have any responsibility with respect to any of the Excluded Liabilities. The Seller will remain responsible for the performance and satisfaction of the Excluded Liabilities.
+
+
+
+2.3           Purchase Price and Payment.  The purchase price for the Acquired Assets shall be Nine Million Six Hundred Fourteen Thousand Six Hundred Sixty Seven Dollars (9,614,667) shares of Dutch Gold’s common stock, par value $0.001 per share (the “Shares”) and shall be delivered by Dutch Gold to the Seller at the Closing (the “Purchase Price”).
+
+
+
+(a)           Restrictions on Transfer.  The parties acknowledge and agree that as of the Closing Date none of the Shares shall be registered under U.S. Federal or Blue Sky Laws and are intended to be issued pursuant to an exemption therefrom under Rule 506 of Regulation D, Section 4(2) of the Securities Act or other applicable exemption, shall be “restricted securities” within the meaning of Rule 144 promulgated under the Securities Act, and may not be resold, offered for resale, transferred, pledged, distributed or otherwise hypothecated unless registered under the Securities Act and applicable Blue Sky Laws or exempt from such registration under the terms of Rule 144 or otherwise, and the Seller receives an opinion of counsel satisfactory to Seller in its reasonable discretion to the effect that such registration is not required. Each certificate representing any Shares, shall bear a legend substantially in the following form:
+
+
+
+
+
+ 
+
+
+
+4
+
+
+
+ 
+
+
+
+“THE SECURITIES REPRESENTED HEREBY HAVE NOT BEEN REGISTERED UNDER THE U.S. SECURITIES ACT OF 1933 (THE “ACT”) OR APPLICABLE STATE SECURITIES LAWS AND ARE “RESTRICTED SECURITIES” WITHIN THE MEANING OF RULE 144 UNDER THE ACT.  THE SECURITIES MAY NOT BE OFFERED FOR SALE, SOLD, PLEDGED, ASSIGNED, HYPOTHECATED OR OTHER-WISE TRANSFERRED EXCEPT PURSUANT TO AN EFFECTIVE REGISTRATION STATEMENT UNDER THE ACT AND APPLICABLE STATE SECURITIES LAWS, OR PURSUANT TO AN EXEMPTION FROM SUCH REGISTRATION, PROVIDED THAT THE ISSUER OF THESE SECURITIES SHALL HAVE FIRST RECEIVED AN OPINION OF COUNSEL REASONABLY ACCEPTABLE TO THE ISSUER TO THE EFFECT THAT SUCH REGISTRATION IS NOT REQUIRED.”
+
+
+
+(b)           Dutch Gold shall instruct its transfer agent to annotate the applicable records to reflect the restrictions on transfer contained in this Agreement on the Closing Date with respect to the Shares.
+
+
+
+2.4           The Closing. The Closing is taking place simultaneously with the execution and delivery of this Agreement at the offices of the Purchaser and shall be effective as of the date first set forth above (the “Effective Time”).
+
+
+
+2.5           Deliveries at the Closing. In addition to any other documents to be delivered under other provisions of this Agreement, at the Closing:
+
+
+
+(a)           The Seller has executed, acknowledged (if appropriate) and delivered tothe Purchaser:
+
+
+
+(i)         	evidence that the consents listed in Section 6.2 have all been obtained;
+
+
+
+(ii)    	    assignment agreement(s) transferring title to the Acquired Assets to the Purchaser in the form attached as Exhibit C; and
+
+
+
+(iii)           a certificate of the Secretary of the Seller certifying and attaching all requisite resolutions or actions of the respective boards of directors and shareholders of the Seller approving the execution and delivery by the Seller of the Acquisition Documents to which they are a party and the consummation of the transactions contemplated in such Acquisition Documents, and certifying to the incumbency and signatures of the officers of the Seller executing the Acquisition Documents and any other document relating to the transactions contemplated by this Agreement.
+
+
+
+(b)           The Purchaser has executed, acknowledged (if appropriate), and delivered to the Seller:
+
+
+
+(i)       	  assumption agreement(s) pursuant to which the Purchaser is assuming the Assumed Liabilities in the form attached as Exhibit B; and
+
+
+
+
+
+ 
+
+
+
+5
+
+
+
+ 
+
+ 
+
+(ii)     	   a certificate of the Secretary of the Purchaser certifying and attaching all requisite resolutions or actions of the Purchaser's board of directors approving the execution and delivery of the Acquisition Documents to which it is a party and the consummation of the transactions contemplated in such Acquisition Documents, and certifying to the incumbency and signatures of the officers of the Purchaser executing the Acquisition Documents to which it is a party and any other document relating to the transactions contemplated by this Agreement;
+
+
+
+(c)           Dutch Gold has executed, acknowledged (if appropriate), and delivered to the Seller:
+
+
+
+(i)     	    stock certificates evidencing the Shares, with all necessary transfer taxes and other revenue stamps affixed and acquired at the Purchaser’s expense; and
+
+
+
+(ii)     	   a certificate of the Secretary of Dutch Gold certifying and attaching all requisite resolutions or actions of Dutch Gold’s board of directors approving the execution and delivery of the Acquisition Documents to which it is a party and the consummation of the transactions contemplated in such Acquisition Documents, and certifying to the incumbency and signatures of the officers of Dutch Gold executing the Acquisition Documents to which it is a party and any other document relating to the transactions contemplated by this Agreement.
+
+ 
+
+3.             REPRESENTATIONS AND WARRANTIES OF THE SELLER.
+
+
+
+The Seller represents and warrants to the Purchaser that, except as set forth in the disclosure schedule (the "Disclosure Schedule") attached by the Parties (it being understood that the disclosure of any fact with respect to any section of this Agreement shall be deemed to be disclosure of that fact with respect to every other section of this Agreement, provided that it reasonably ascertainable that such disclosure would reasonably apply to another section or sections of this Agreement):
+
+
+
+3.1           Organization and Capitalization of the Seller. The Seller is a corporation duly organized, validly existing and in good standing under the laws of the State of Nevada. The Seller is duly qualified to conduct business as a foreign corporation and is in good standing under the laws of each jurisdiction where such qualification is required except where the lack of such qualification would not have a material adverse effect on the Acquired Assets (a “Seller Material Adverse Effect”). The Seller has delivered to the Purchaser correct and complete copies of the charter and bylaws of the Seller (as amended to date).
+
+
+
+3.2           Authorization of Transaction. The Seller has full corporate power and authority to execute and deliver the Acquisition Documents to which it is a party and to perform its obligations in all respects as required by the Acquisition Documents. The board of directors and stockholders of the Seller has duly authorized the execution, delivery and performance of the Acquisition Documents to which Seller is a party. The Acquisition Documents constitute valid and legally binding obligations of the Seller, enforceable in accordance with their terms and conditions, in each case subject to bankruptcy, insolvency, reorganization, moratorium and similar laws of general application relating to or affecting creditors' rights and to general equity principles.
+
+
+
+3.3           Non-contravention. Except as disclosed in Section 3.3 of the Disclosure Schedule, neither the execution and the delivery of the Acquisition Documents, nor the consummation or performance of the transactions contemplated in the Acquisition Documents, will (a) violate any constitution, statute, regulation, rule, injunction, judgment, order, decree, ruling, or other restriction of any government, governmental agency or court to which the Seller is subject or any provision of the charter or bylaws of the Seller, or (b) conflict with, result in a breach of, constitute a default under, result in the acceleration of, create in any party the right to accelerate, terminate, modify, or cancel, or require any notice under any agreement, contract, lease, license, instrument, or other arrangement to which the Seller is a party or by which the Seller is bound or to which any of the Acquired Assets is subject (or result in the imposition of any Security Interest upon any of its Acquired Assets) except where the violation, conflict, breach, default, acceleration, termination, modification, cancellation, failure to give notice, or Security Interest would not have a Seller Material Adverse Effect, or a material adverse effect on the ability of Seller to consummate the transactions contemplated in the Acquisition Documents. Section 3.3 of the Disclosure Schedule sets forth each Governmental Authorization, and each notice to, filing with, and authorization, consent, or approval of any Governmental Body or Third Party, which is required to be obtained by the Seller in order for the Parties to consummate the transactions contemplated in the Acquisition Documents.
+
+
+
+
+
+ 
+
+
+
+6
+
+
+
+ 
+
+
+
+3.4           Disclosure.  To Seller's Knowledge, no representation or warranty of the Seller in this Agreement or in any Schedule furnished by the Seller, or in connection with the transactions contemplated herein, contains any untrue statement of material fact or omits to state any material fact necessary in order to make the statements contained therein not misleading, and all such representations, warranties and Schedules are true.
+
+
+
+3.5           Restricted Stock.  The Seller understands that the Shares are restricted stock, which has not been registered with the Securities and Exchange Commission, any state securities agency or any foreign securities agency, and further, the Stock has not been approved or disapproved by the Securities and Exchange Commission, any state securities agency or any foreign securities agency.
+
+
+
+3.6           Brokers' Fees. Neither the Seller has any Liability or obligation to pay any fees or commissions to any broker, finder, or agent with respect to the transactions contemplated in the Acquisition Documents.
+
+
+
+3.7           Title to Assets. Except as set forth on Section 3.9 of the Disclosure Schedule, the Seller has good and valid title to all of the Acquired Assets, free and clear of all Security Interests or restrictions on transfer.
+
+
+
+3.8           Tax Matters.
+
+
+
+(a)           With respect to all Taxes, the nonpayment of which would result in a lien or other encumbrance on any of the Acquired Assets, would materially adversely affect the Mining Business or would result in Purchaser or its Affiliates becoming liable or responsible therefor, except as set forth on Section 3.10(a) of the Disclosure Schedule, (i) each of the Seller has filed on a timely basis all Tax Returns with respect to such Taxes that it was required to file; (ii) all such Tax Returns were correct and complete in all material respects; (iii) all Taxes owed by the Seller (whether or not shown on any Tax Return) on or prior to the date hereof have been paid; (iv) the Seller is not currently the beneficiary of any extension of time within which to file any Tax Return with respect to such Taxes; and (v) there are no Security Interests on any of the assets of the Seller that arose in connection with any failure (or alleged failure) to pay any such Tax.
+
+
+
+(b)           Except as set forth on Section 3.10(b) of the Disclosure Schedule, the Seller has withheld and paid all Taxes which are due and are required to have been withheld and paid in connection with amounts paid or owing to any employee prior to the Effective Time.
+
+
+
+(c)           Except as set forth on Section 3.10(c) of the Disclosure Schedule, the Seller has not waived any statute of limitations in respect of, or agreed to any extension of time with respect to an assessment or deficiency relating to, any Taxes, the nonpayment of which would result in a lien or other encumbrance on any of the Acquired Assets, would otherwise adversely affect the Mining Business or would result in Purchaser or its Affiliates becoming liable or responsible therefor.
+
+
+
+
+
+ 
+
+
+
+7
+
+
+
+ 
+
+
+
+(d)           Except as set forth on Section 3.10(d) of the Disclosure Schedule, no unpaid Taxes of Seller that are due have created, or will create a lien or encumbrance on any of the Acquired Assets.
+
+
+
+3.9            Powers of Attorney. There are no outstanding powers of attorney executed by or on behalf of the Seller that could reasonably be expected to have a Seller Material Adverse Effect.
+
+
+
+3.10          Litigation. Section 3.12 of the Disclosure Schedule sets forth each instance in which the Seller (a) is subject to any outstanding injunction, judgment, order, decree, ruling, or charge or (b) is a party or, to the Knowledge of the Seller is threatened to be made a party, to any action, suit, proceeding, hearing, or investigation of, in, or before any court or quasi-judicial or administrative agency of any federal, state, local, or foreign jurisdiction or before any arbitrator relating, directly or indirectly, to any of the Acquired Assets.
+
+
+
+3.11          Financial Statements. The financial statements relating to the Mining Business previously provided by the Seller to the Purchaser, copies of which are attached as Section 3.13 to the Disclosure Schedule, in the opinion of Seller's management fairly present the financial condition of the Mining Business as of the respective dates thereof and the results of operations of the Mining Business for the periods indicated, it being understood that such financial statements have not been audited or reviewed by independent accountants and do not contain footnote disclosures and reflect assets and liabilities which are not being acquired by Purchaser.
+
+
+
+3.12          Events Subsequent to the Balance Sheet Date. Since September 30, 2009, there has not been any material adverse change, singly or in the aggregate, in the financial condition or results of operations of the Mining Business nor has there been any event which has had or may reasonably be expected to have a material adverse effect on any of the foregoing.
+
+
+
+3.13          Certain Liabilities.  As of the date of this Agreement, except as set forth herein, Seller has no liabilities relating to the Acquired Assets, other than (i) liabilities incurred in the ordinary course of business or consistent with past practices relating to the Acquired Assets, (ii) liabilities otherwise made known or discovered by the Purchaser in the course of Purchaser’s investigation of the Acquired Assets, and (iii) liabilities that taken together would have a material adverse effect.
+
+
+
+3.14          Legal Compliance. Except as disclosed in Section 3.14 of the Disclosure Schedule, the Seller and their respective predecessors and Affiliates have each complied in all material respects with all laws (including rules, regulations, codes, plans, injunctions, judgments, orders, decrees, rulings, and charges thereunder) of federal, state and local governments (and all agencies thereof) which are specifically applicable to the Mining Business. To Seller’s Knowledge, after reasonable inquiry, no release emission, or discharge into the environment of hazardous substances, as defined under the Comprehensive Environmental Response, Compensation and Liability Act of 1980 (42 U.S.C. Section 9601 et seq.), or air pollutants as defined under the Clean Air Act (42 U.S.C. Section 7401 et seq.), has occurred or is occurring on the properties described in Schedule 1.1 in excess of federally permitted releases or reportable quantities.  Seller has no Knowledge of any past or existing violations of any such laws, ordinances or regulation used by any governmental authority.
+
+
+
+3.15          Title to Leases.  To Seller’s Knowledge, Seller has a good and valid right, title and interest to one hundred percent of the undivided interest in the leases granted in the mining rights to the properties described in Schedule 1.1 (the “Leases”), and all such rights are owned free and clear of any and all liens, mortgages, security interests, pledges, charges, assignments, deeds of trust, encumbrances, options, tax liens, mechanic’s lien, materialmen’s liens, or other charges or encumbrances of any kind.
+
+
+
+
+
+ 
+
+
+
+8
+
+
+
+ 
+
+
+
+3.16          Leases and Royalties.  Except for the Leases set forth in Section 1.1, the properties described in Schedule 1.1 are not subject to any leases, nor are there any royalties burdening said properties.  For purposes hereof, the term “royalties” shall mean all amounts payable as a share of the product or profit from property, and includes, without limitation, production payments, minimum royalties, overriding royalties and bonus payments.
+
+
+
+3.17          Payment of Production.  To Seller’s Knowledge, Seller is not presently obliged under any purchase or sale agreements, refining agreements, production agreements, production payment agreements, operating agreements, participation agreements, security agreements or any other agreements to make future deliveries of production attributable to said properties described in Schedule 1.1.
+
+ 
+
+3.18          Insolvency.  Seller is not insolvent as such term is defined in the Federal Bankruptcy Code, not has it ever been insolvent at any time during the 90-day period immediately prior to the date of this Agreement.
+
+
+
+3.19          Employees.  The Seller has no employees other than its executive officers.
+
+
+
+4.           REPRESENTATIONS AND WARRANTIES OF THE PURCHASER.  The Purchaser represents and warrants to the Seller that:
+
+
+
+4.1           Organization of the Purchaser. The Purchaser is a corporation duly organized, validly existing, and in good standing under the laws of the jurisdiction of its incorporation. The Purchaser is duly qualified to conduct business and is in good standing under the laws of each jurisdiction where such qualification is required except where the lack of such qualification would not have a material adverse affect on the business, financial condition, operations or results of operations of the Purchaser. The Purchaser has full corporate power and authority and all licenses, permits, and authorizations necessary to carry on the businesses in which it is engaged and in which it presently proposes to engage and to own and use the properties owned and used by it.
+
+
+
+4.2           Authorization of Transaction. The Purchaser has full power and authority (including full corporate power and authority) to execute and deliver the Acquisition Documents to which it is a party and to perform its obligations thereunder. The board of directors of the Purchaser has duly authorized the execution, delivery, and performance of the Acquisition Documents to which the Purchaser is a party. No approval of the stockholders of the Purchaser is required in order for the Purchaser to consummate the transactions contemplated by this Agreement. The Acquisition Documents constitute the valid and legally binding obligations of the Purchaser, enforceable in accordance with their terms and conditions.
+
+
+
+4.3           Non-contravention. Neither the execution and the delivery of the Acquisition Documents to which it is a party, nor the consummation of the transactions contemplated in the Acquisition Documents, will (a) violate any constitution, statute, regulation, rule, injunction, judgment, order, decree, ruling, charge, or other restriction of any government, governmental agency, or court to which the Purchaser is subject or any provision of its charter or bylaws, or (b) conflict with, result in a breach of, constitute a default under, result in the acceleration of, create in any party the right to accelerate, terminate, modify, or cancel, or require any notice under any agreement, contract, lease, license, instrument, or other arrangement to which the Purchaser is a party or by which it is bound or to which any of its assets is subject. The Purchaser does not need to give any notice to, make any filing with, or obtain any authorization, consent, or approval of any government or governmental agency in order for the Parties to consummate the transactions contemplated by the Acquisition Documents.
+
+
+
+
+
+ 
+
+
+
+9
+
+
+
+ 
+
+
+
+4.4           Brokers' Fees. The Purchaser has no Liability or obligation to pay any fees or commissions to any broker, finder, or agent with respect to the transactions contemplated in the Acquisition Documents.
+
+
+
+5.           REPRESENTATIONS AND WARRANTIES OF DUTCH GOLD.  Dutch Gold represents and warrants to the Seller that:
+
+
+
+5.1           Organization of the Purchaser. Dutch Gold is a corporation duly organized, validly existing, and in good standing under the laws of the jurisdiction of its incorporation. Dutch Gold is duly qualified to conduct business and is in good standing under the laws of each jurisdiction where such qualification is required except where the lack of such qualification would not have a material adverse affect on the business, financial condition, operations or results of operations of Dutch Gold. Dutch Gold has full corporate power and authority and all licenses, permits, and authorizations necessary to carry on the businesses in which it is engaged and in which it presently proposes to engage and to own and use the properties owned and used by it.
+
+
+
+5.2           Authorization of Transaction. Dutch Gold has full power and authority (including full corporate power and authority) to execute and deliver the Acquisition Documents to which it is a party and to perform its obligations thereunder. The board of directors of Dutch Gold has duly authorized the execution, delivery, and performance of the Acquisition Documents to which the Purchaser is a party. No approval of the stockholders of Dutch Gold is required in order for Dutch Gold to consummate the transactions contemplated by this Agreement. The Acquisition Documents constitute the valid and legally binding obligations of the Purchaser, enforceable in accordance with their terms and conditions.
+
+
+
+5.3           Non-contravention. Neither the execution and the delivery of the Acquisition Documents to which it is a party, nor the consummation of the transactions contemplated in the Acquisition Documents, will (a) violate any constitution, statute, regulation, rule, injunction, judgment, order, decree, ruling, charge, or other restriction of any government, governmental agency, or court to which Dutch Gold is subject or any provision of its charter or bylaws, or (b) conflict with, result in a breach of, constitute a default under, result in the acceleration of, create in any party the right to accelerate, terminate, modify, or cancel, or require any notice under any agreement, contract, lease, license, instrument, or other arrangement to which Dutch Gold is a party or by which it is bound or to which any of its assets is subject. Dutch Gold does not need to give any notice to, make any filing with, or obtain any authorization, consent, or approval of any government or governmental agency in order for the Parties to consummate the transactions contemplated by the Acquisition Documents.
+
+
+
+5.4           Capitalization; Ownership of Shares. The authorized capital stock of Dutch Gold consists of _00,000,000 authorized shares of common stock, $0.001 par value,  and __,000,000 authorized shares of preferred stock, $0.001 par value.  As of the Closing: (a) ___________ shares of Dutch Gold's Common Stock are issued and outstanding; (b) no shares of Dutch Gold’s Preferred Stock are issued and outstanding; (c) __________ options to acquire any Dutch Gold Common Stock are outstanding; and (d) __________ warrants to purchase any Dutch Gold Common Stock are outstanding.  The Shares issued to the Seller pursuant to the terms of this Agreement will be duly authorized, validly issued, fully paid and nonassessable.  None of such Shares will be issued to the Sellers in violation of any preemptive or preferential rights of any Person.
+
+
+
+
+
+ 
+
+
+
+10
+
+
+
+ 
+
+
+
+5.5           No Liens on Shares.  The Shares when issued to the Seller pursuant  to the terms of this  Agreement  (a) will be free and clear of any liens, restrictions, security interests, claims, rights of another, or  Encumbrances  of  any  kind  whatsoever;  (b)  will  not be  subject  to any outstanding options,  warrants,  calls, or similar rights of any other person to acquire the same;  and (c) will not be subject to any  restrictions on transfer thereof.  Dutch Gold has the full power and authority to convey, and will convey to the Sellers, good and marketable title to the Shares, free and clear of all such liens, restrictions, security interests, claims, rights of another or Encumbrances of any kind whatsoever.
+
+
+
+17.1 5.6           Authorization to Convey the Shares.  Dutch Gold has full power and authority to sell, convey, assign and transfer the Shares to the Seller and otherwise consummate the transactions contemplated by this Agreement. The Seller shall acquire good and marketable title to the Shares, free and clear of all Liens. The Shares will be legally issued, fully paid and non-assessable and shall not be issued in violation of the pre-emptive or other rights of any other person. No authorization, approval or consent of any third party is required for the lawful execution, delivery and performance of this Agreement by Dutch Gold.
+
+ 
+
+6.          	CONDITIONS PRECEDENT TO PURCHASER'S AND DUTCH GOLD’S OBLIGATION TO CLOSE.
+
+
+
+The obligation of Purchaser and Dutch Gold to purchase the Acquired Assets and to take the other actions required to be taken by Purchaser at the Closing is subject to the satisfaction, at or prior to the Closing, of each of the following conditions (any of which may be waived by Purchaser and Dutch Gold, in whole or in part, in writing):
+
+
+
+6.1           Accuracy of Representations. The representations and warranties of Seller set forth in Section 3 that refer specifically to and are made as of the date of this Agreement shall have been accurate as of the date of this Agreement, and all other representations and warranties of Seller set forth in Section 3 shall be accurate as of the Closing Date as if made on and as of the Closing Date provided, however, that, for purposes of this Section 6.1, any inaccuracies in the representations and warranties of Seller will be disregarded unless all such inaccuracies, considered collectively, have a material adverse effect on the value of the Acquired Assets taken as a whole.
+
+
+
+ 6.2           Consents. Seller will obtain the following Consents to the transactions contemplated by this Agreement and the Acquisition documents.
+
+
+
+ 
+
+(a)
+
+;______________________________;
+
+
+
+ 
+
+(b)
+
+___________________________________________________;
+
+
+
+ 
+
+(c)
+
+___________________________________________________;
+
+
+
+ 
+
+(d)
+
+___________________________________________________; and
+
+
+
+ 
+
+(e)
+
+___________________________________________________.
+
+
+
+6.3           Performance of Covenants. Seller shall have performed, in all material respects, all covenants required by this Agreement to be performed by Seller on or before the Closing Date.
+
+
+
+6.4           Additional Documents. Each of the following additional documents shall have been delivered to Purchaser:
+
+
+
+(a)        	a certificate, executed by an executive officer of Seller, confirming that, to the actual knowledge of such executive officer, the conditions set forth in Sections 6.1 and 6.2 have been satisfied;
+
+
+
+
+
+ 
+
+
+
+11
+
+
+
+ 
+
+
+
+(b)       	 such bills of sale, assignments and other instruments as Seller may be required to execute in order to evidence and effectuate the transfer of the Acquired Assets to Purchaser; and
+
+
+
+(c)        	such good standing certificates and other similar documents as Purchaser and Dutch Gold may reasonably request to ensure that the actions required to be taken by Seller at the Closing have been properly authorized.
+
+
+
+6.5           No Restraints. No injunction or other order preventing the consummation of the transactions contemplated by this Agreement shall have been issued since the date of this Agreement by any court of competent jurisdiction and shall remain in effect; and no Legal Requirement that makes consummation of the transactions contemplated by this Agreement illegal shall have been enacted or adopted since the date of this Agreement and shall remain in effect.
+
+
+
+7.             CONDITIONS PRECEDENT TO SELLER'S OBLIGATION TO CLOSE.
+
+
+
+Seller's obligation to sell and transfer the Acquired Assets to Purchaser and to take the other actions required to be taken by Seller at the Closing is subject to the satisfaction, at or prior to the Closing, of each of the following conditions (any of which may be waived by Seller, in whole or in part, in writing):
+
+
+
+7.1           Accuracy of Representations.  The representations and warranties set forth in Section 4 and 5 shall be accurate in all material respects as of the Closing Date provided, however, that, for purposes of this Section 7.1, any inaccuracies in the representations and warranties of Purchaser and Dutch Gold, as the case may be, will be disregarded unless all such inaccuracies, considered collectively, have a material adverse effect on the business, assets (tangible or intangible), liabilities or operations of the Purchaser.
+
+
+
+7.2           Performance of Covenants.  Purchaser shall have performed, in all material respects, all covenants required by this Agreement to be performed by Purchaser on or before the Closing Date.
+
+
+
+7.3           Additional Documents.
+
+
+
+(a)           A certificate, executed by an executive officer of each the Purchaser and Dutch Gold, confirming that, to the actual knowledge of such executive officer, the conditions set forth in Sections 7.1 and 7.2 have been satisfied; and
+
+
+
+(b)           such good standing certificates and other similar documents as Seller may reasonably request to ensure that the actions required to be taken by Purchaser at the Closing have been properly authorized.
+
+
+
+7.4           No Restraints. No injunction or other order preventing the consummation of the transactions contemplated by this Agreement shall have been issued since the date of this Agreement by any court of competent jurisdiction and shall remain in effect; and no Legal Requirement that makes consummation of the transactions contemplated by this Agreement illegal shall have been enacted or adopted since the date of this Agreement and shall remain in effect.
+
+
+
+8.             POST-CLOSING COVENANTS. The Parties agree with respect to the period following the Closing:
+
+
+
+
+
+ 
+
+
+
+12
+
+
+
+ 
+
+
+
+8.1           General; Access.  If at any time after the Closing, any further action is necessary or desirable to carry out the purposes of the Acquisition Documents, each of the Parties will take such further action (including the execution and delivery of such further instruments and documents) as any other Party may reasonably request, all at the sole cost and expense of the requesting Party (unless the requesting Party is entitled to indemnification therefor).
+
+
+
+8.2           Litigation Support. In the event and for so long as any Party actively is contesting or defending against any action, suit, proceeding, hearing, investigation, charge, complaint, claim, or demand in connection with (i) any transaction contemplated under the Acquisition Documents or (ii) any fact, situation, circumstance, status, condition, activity, practice, plan, occurrence, event, incident, action, failure to act, or transaction occurring prior to the Effective Time involving the Seller, each of the other Parties will cooperate with each other and their counsel in the contest or defense, make available their personnel, and provide such testimony and access to their books and records as shall be reasonably necessary in connection with the contest or defense, all at the sole cost and expense of the contesting or defending Party (unless the contesting or defending Party is entitled to indemnification therefor).
+
+
+
+8.3           Tax Matters. The following provisions shall govern the allocation of responsibility as between the Purchaser and the Seller for certain tax matters following the Closing Date:
+
+
+
+(a)           The Purchaser and the Seller shall cooperate fully, as and to the extent reasonably requested by the other, in connection with the filing of Tax Returns and any audit, litigation or other proceeding with respect to Taxes. Such cooperation shall include the retention and (upon the other's reasonable request) the provision of records and information which are reasonably relevant to any such audit, litigation or other proceeding and making employees available on a mutually convenient basis to provide additional information and explanation of any material provided. The Seller and the Purchaser agree (i) to retain all books and records with respect to Tax matters relating to any taxable period beginning before the Closing Date until the expiration of the statute of limitations (and, to the extent notified by the Purchaser or the Seller, any extensions thereof) of the respective taxable periods, and to abide by all record retention agreements entered into with any taxing authority, and (ii) to give the other reasonable written notice prior to transferring, destroying or discarding any such books and records and, if the party so requests, to allow the other party to take possession of such books and records.
+
+
+
+8.4           SEC Reports. Seller will: (i) promptly deliver to the Purchaser a copy of each report or other document filed with the SEC on behalf the Seller during the Pre-Closing Period; and (ii) seek the prior approval of the Purchaser prior to filing any current reports with the SEC disclosing the Transaction.
+
+
+
+9.         	INDEMNIFICATION AND RELATED MATTERS.
+
+
+
+9.1           Survival.  Subject to Section 9.2(c), all representations, warranties, covenants and agreements set forth in this Agreement or in any writing delivered in connection with this Agreement will survive the Closing Date and the consummation of the transactions contemplated hereby and will not be affected by any examination made for or on behalf of the Purchaser or Dutch Gold, the Knowledge of any of its officers, directors, stockholders, employees or agents, or the acceptance of any certificate or other writing.
+
+
+
+9.2           Indemnification.
+
+
+
+(a)           The Seller agrees to indemnify Dutch Gold, its officers, directors, affiliates and stockholders (“the “Dutch Gold Group) and the Purchaser, its officers, directors, affiliates and stockholders (the “Purchaser Group”) and hold them harmless from and against any loss, liability, deficiency, damage or expense (including, without limitation, legal expenses and costs and including interest and penalties, but excluding punitive damages (other than punitive damages awarded to third parties) and lost profits resulting from business interruptions) (a “Loss”) which the Purchaser Group and/or Dutch Gold Group may suffer, sustain or become subject to, as a result of (i) the breach by the Seller of any representation or warranty made by the Seller contained in this Agreement, any schedule or exhibit hereto or any certificate delivered by or on behalf of the Seller to the Purchaser or Dutch Gold in connection with the Closing, (ii) the breach by the Seller of any covenant or agreement made by the Seller contained in this Agreement, any schedule or exhibit hereto or any certificate delivered by or on behalf of the Seller to Purchaser or Dutch Gold in connection with the Closing, (iii) any claims of any brokers or finders claiming by, through or under Seller or in respect of the transactions contemplated herein, (iv) any Taxes of the Seller with respect to any taxable periods (or portions thereof) ending on or prior to the Closing Date.  The Seller shall be responsible for paying the Seller’s Pro Rata Share of any Losses suffered or sustained by any member of the Purchaser Group and/or Dutch Gold Group.
+
+
+
+
+
+ 
+
+
+
+13
+
+
+
+ 
+
+
+
+(b)           The Seller will be liable to the Purchaser Group and Dutch Gold Group with respect to claims referred to in Section 9.2(a)(i) above only if Purchaser or Dutch Gold, as the case may be, delivers to the Seller Representative written notice thereof no later than the date which is eighteen months after the Closing Date.  Notwithstanding anything herein to the contrary, the foregoing limitation shall not apply in the event of any breach of a representation and warranty by or on behalf of the Seller that constitutes fraud or intentional misrepresentation.
+
+
+
+(c)           The Purchaser agrees to indemnify the Seller and hold Seller harmless from and against any Loss which the Seller may suffer, sustain or become subject to, as the result of (i) a breach of any representation nor warranty made by the Purchaser contained in this Agreement, any schedule or exhibit hereto or any certificate delivered by or on behalf of the Purchaser in connection with the Closing and (ii) a breach of any covenant or agreement made by Purchaser contained in this Agreement, any schedule or exhibit hereto or any certificate delivered by or on behalf of Purchaser.
+
+
+
+(d)           Dutch Gold agrees to indemnify the Seller and hold Seller harmless from and against any Loss which the Seller may suffer, sustain or become subject to, as the result of (i) a breach of any representation nor warranty made by Dutch Gold contained in this Agreement, any schedule or exhibit hereto or any certificate delivered by or on behalf of Dutch Gold in connection with the Closing and (ii) a breach of any covenant or agreement made by Dutch Gold contained in this Agreement, any schedule or exhibit hereto or any certificate delivered by or on behalf of Purchase
+
+
+
+(e)           If a party hereto seeks indemnification under this Section 9.2, such party (the “Indemnified Party”) shall give written notice to the other party (the “Indemnifying Party”) of the facts and circumstances giving rise to the claim. In that regard, if any suit, action, claim, liability or obligation shall be brought or asserted by any third party which, if adversely determined, would entitle the Indemnified Party to indemnity pursuant to this Section 9.2, the Indemnified Party shall promptly notify the Indemnifying Party of the same in writing, specifying in reasonable detail the basis of such claim and the facts pertaining thereto and the Indemnifying Party, if it so elects (except that the Indemnifying Party may not so elect without the Indemnified Party’s consent unless (i) the Indemnifying Party acknowledges in writing its obligation to indemnify the Indemnified Party for the entire amount of any Loss relating thereto (without deduction, offset or limitation by operation of any provision hereof), (ii) the Indemnifying Party provides reasonable evidence to the Indemnified Party of its financial ability to satisfy its indemnification obligations, (iii) the suit, action, claim, liability or obligation does not seek to impose any liability or obligation upon the Indemnified Party other than for money damages, and (iv) such suit, action, claim, liability or obligation does not relate to the Indemnified Party’s relationship with its customers, suppliers or employees) shall assume and control the defense thereof (and shall consult with the Indemnified Party with respect thereto), including the employment of counsel reasonably satisfactory to the Indemnified Party and the payment of expenses. If the Indemnifying Party elects to assume and control the defense, the Indemnified Party shall have the right to employ counsel separate from counsel employed by the Indemnifying Party in any such action and to participate in the defense thereof, but the fees and expenses of such counsel employed by the Indemnified Party shall be at the expense of the Indemnified Party unless (y) the employment thereof has been specifically authorized by the Indemnifying Party in writing or (z) the Indemnifying Party has failed to assume the defense and employ counsel. The Indemnifying Party shall not be liable for any settlement of any action or proceeding, the defense of which it has elected to assume, which settlement is effected without the written consent of the Indemnifying Party. If there shall be a settlement to which the Indemnifying Party consents or a final judgment for the plaintiff in any action or proceeding, the Indemnifying Party shall indemnify and hold harmless the Indemnified Party from and against loss or liability by reason of such settlement or judgment in accordance with this Section.
+
+
+
+
+
+ 
+
+
+
+14
+
+
+
+ 
+
+
+
+(e)           Subject to the terms and conditions set forth in this Section 9.2, in the event that a party is finally determined to be entitled to indemnification for any Losses pursuant to this Section 9.2, then such Indemnified Party may, at its option, setoff all or any portion of such Losses against any amounts due or to become due to the Indemnifying Party, whether pursuant to this Agreement or otherwise.
+
+
+
+(f)           The amount of Losses for which the Indemnifying Party may be liable under this Section 9.2 shall be the net amount of the Losses suffered by the Indemnified Party after deducting any proceeds actually received by the Indemnified Party in respect of such Losses under applicable insurance policies (determined, without duplication, after giving effect to any increases in premiums resulting therefrom) or from any other third Person responsible therefor. To the extent any such proceeds are received by the Indemnified Party with respect to a particular indemnified Loss after any such indemnity payment is made by the Indemnifying Party to the Indemnified Party with respect thereto, the Indemnified Party shall reimburse the Indemnifying Party when and as such proceeds are received with respect to such particular indemnified Loss.
+
+
+
+(g)           The amount of any Loss for which indemnification is provided under this Section 9.2 shall be net of any Tax benefits of the Indemnified Party arising directly from such matter for which an indemnity claim was made, but only as and when realized in cash by the Indemnified Party and only if such benefits are actually realized by such Indemnified Party on or before the first anniversary of the date on which the Indemnified Party makes the claim for indemnification in respect of such Loss.
+
+
+
+9.3           Arbitration. Waiver of Jury Trial.    Any dispute among any of the Parties arising out of or in connection with this Agreement, shall be settled by arbitration under the Rules of the American Arbitration Association for Commercial Disputes and shall be placed on an expedited or fast track basis.  The number of arbitrators shall be one (1) if all parties to the dispute agree on the arbitrator.  If there is a disagreement on selection of a sole arbitrator, the number of arbitrators then shall be three (3), with the arbitrators to be appointed in accordance with the Rules from a panel of arbitrators in New York, New York.  The place of arbitration shall be in New York, New York, and each Party hereby irrevocably agree to submit to and not contest personal jurisdiction.  The arbitral award shall state the reasons for the award, and attorneys’ fees shall be awarded to the prevailing party as determined by the arbitrator(s).  Judgment upon the award rendered by the arbitrator(s) may be entered in any court having jurisdiction thereof, and shall be binding on the parties hereto.  Each Party irrevocably waives to the extent permitted by law, all rights to trial by jury and all rights to immunity by sovereignty or otherwise in any action, proceeding or counterclaim arising out of or relating to this Agreement.
+
+
+
+
+
+ 
+
+
+
+15
+
+
+
+ 
+
+
+
+ 10.0         MISCELLANEOUS.
+
+
+
+10.1          Press Releases and Public Announcements. No Party shall issue any press release or make any public announcement relating to the subject matter of this Agreement without the prior written approval of the other Party; provided, however, that any Party may make any public disclosure it believes in good faith is required by applicable law or any rule or regulation of the Securities and Exchange Commission (in which case the disclosing Party will use its reasonable best efforts to advise the other Party prior to making the disclosure, and to allow such other Party the opportunity to review and comment on such disclosure).
+
+
+
+10.2          No Third Party Beneficiaries. This Agreement shall not confer any rights or remedies upon any Person other than the Parties and their respective successors and permitted assigns.
+
+
+
+10.3          Entire Agreement. This Agreement and the other Acquisition Documents (including the documents referred to herein) constitute the entire agreement between the Parties and supersedes any prior understandings, agreements, or representations by or between the Parties, written or oral, to the extent they related in any way to the subject matter hereof.
+
+
+
+10.4          Succession and Assignment. This Agreement shall be binding upon and inure to the benefit of the Parties and their respective successors and permitted assigns. No Party may assign either this Agreement or any of its rights, interests, or obligations hereunder without the prior written approval of the other Party; provided, however, that the Purchaser may (i) assign any or all of its rights and interests hereunder to one or more of its Affiliates, and (ii) designate one or more of its Affiliates to perform its obligations hereunder (in any or all of which cases the Purchaser nonetheless shall remain responsible for the performance of all of its obligations hereunder).
+
+
+
+10.5          Counterparts. This Agreement may be executed in one or more counterparts, each of which shall be deemed an original but all of which together will constitute one and the same instrument.
+
+
+
+10.6          Headings. The section headings contained in this Agreement are inserted for convenience only and shall not affect in any way the meaning or interpretation of this Agreement.
+
+
+
+10.7          Notices. All notices, requests, demands, claims, and other communications hereunder will be in writing. Any notice, request, demand, claim, or other communication hereunder shall be deemed duly given if (and then two business days after) it is sent by registered or certified mail, return receipt requested, postage prepaid, and addressed to the intended recipient.
+
+
+
+
+
+10.8          Governing Law. This Agreement shall be governed by and construed in accordance with the domestic laws of the State of Nevada without giving effect to any choice or conflict of law provision or rule (whether of the State of Nevada or any other jurisdiction) that would cause the application of the laws of any jurisdiction other than the State of Nevada.
+
+
+
+10.9          Amendments and Waivers. No amendment of any provision of this Agreement shall be valid unless the same shall be in writing and signed by the Purchaser and the Seller. No waiver by any Party of any default, misrepresentation, or breach of warranty or covenant hereunder, whether intentional or not, shall be deemed to extend to any prior or subsequent default, misrepresentation, or breach of warranty or covenant hereunder or affect in any way any rights arising by virtue of any prior or subsequent such occurrence.
+
+
+
+
+
+ 
+
+
+
+16
+
+
+
+ 
+
+
+
+10.10        Severability. Any term or provision of this Agreement that is invalid or unenforceable in any situation in any jurisdiction shall not affect the validity or enforceability of the remaining terms and provisions hereof or the validity or enforceability of the offending term or provision in any other situation or in any other jurisdiction.
+
+
+
+10.11        Expenses. Each of the Purchaser and the Seller will bear its own costs and expenses (including legal and accounting fees and expenses) incurred in connection with this Agreement and the transactions contemplated herein; provided, that any sales Tax, use Tax, documentary stamp Tax or similar Tax attributable to the sale or transfer of the Acquired Assets shall be paid by the Purchaser.
+
+
+
+10.12        Construction. The Parties have participated jointly in the negotiation and drafting of this Agreement. In the event an ambiguity or question of intent or interpretation arises, this Agreement shall be construed as if drafted jointly by the Parties and no presumption or burden of proof shall arise favoring or disfavoring any Party by virtue of the authorship of any of the provisions of this Agreement. Any reference to any federal, state, local, or foreign statute or law shall be deemed also to refer to all rules and regulations promulgated thereunder, unless the context requires otherwise. The word "including" shall mean including without limitation. The Parties intend that each representation, warranty, and covenant contained herein shall have independent significance. If any Party has breached any representation, warranty, or covenant contained herein in any respect, the fact that there exists another representation, warranty, or covenant relating to the same subject matter (regardless of the relative levels of specificity) which the Party has not breached shall not detract from or mitigate the fact that the Party is in breach of the first representation, warranty, or covenant.  References to the singular shall include the plurals and vice versa.
+
+
+
+10.13        Incorporation of Exhibits and Schedules. The Exhibits, Glossary of Terms, and Schedules identified in this Agreement are incorporated herein by reference and made a part hereof.
+
+
+
+10.14        Specific Performance. Each of the Parties acknowledges and agrees that the other Party would be damaged irreparably in the event any of the provisions of this Agreement are not performed in accordance with their specific terms or otherwise are breached. Accordingly, each of the Parties agrees that the other Party shall be entitled to an injunction or injunctions to prevent breaches of the provisions of this Agreement and to enforce specifically this Agreement and the terms and provisions hereof in any action instituted in any court of the United States or any state thereof having jurisdiction over the Parties and the matter, in addition to any other remedy to which it may be entitled, at law or in equity.
+
+
+
+The Parties hereto irrevocably agree and consent that all disputes concerning this Agreement or any claim or issue of any nature (whether brought by the Parties hereto or by any other person whatsoever) arising from or relating to this Agreement or to the corporate steps taken to enter into it (including, without limitation, claims for alleged fraud, breach of fiduciary duty, breach of contract, tort, etc.) which cannot be resolved within reasonable time through discussions between the opposing entities, shall be resolved solely and exclusively by means of arbitration to be conducted in Miami, Florida, which arbitration will proceed in accordance with the rules of the American Arbitration Association (or any successor organization thereto) then in force for resolution of commercial disputes.
+
+
+
+
+
+ 
+
+
+
+17
+
+
+
+ 
+
+
+
+IN WITNESS WHEREOF, the Parties hereto have executed this Asset Purchase Agreement as of the date first above written.
+
+
+
+
+
+AULTRA GOLD, INC.
+
+DUTCH GOLD RESOURCES, INC.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+ 
+
+ 
+
+Name:
+
+Daniel W. Hollis
+
+ 
+
+Title:
+
+Chief Executive Officer
+
+ 
+
+ 
+
+Title:
+
+Chief Executive Officer
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+DGRI AGDI ACQUISITION CORPORATION
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+Daniel W. Hollis
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+President
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+18

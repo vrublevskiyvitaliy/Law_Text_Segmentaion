@@ -1,0 +1,711 @@
+EXHIBIT 1.1
+
+IMPERIAL CAPITAL GROUP, INC.
+
+(a Delaware corporation)
+
+[—] Shares of Class A Common Stock
+
+(Par Value $0.01 Per Share)
+
+PURCHASE AGREEMENT
+
+—, [2010]
+
+Merrill Lynch, Pierce, Fenner & Smith
+
+            Incorporated
+
+JMP Securities LLC
+
+Imperial Capital, LLC
+
+as Representatives of the several Underwriters
+
+c/o    Merrill Lynch, Pierce, Fenner & Smith
+
+            Incorporated
+
+One Bryant Park
+
+New York, New York 10036
+
+Ladies and Gentlemen:
+
+Imperial Capital Group, Inc., a Delaware corporation (the “Company”), Imperial Capital Group, LLC, a Delaware limited liability company (“ICG LLC”), and the persons listed in Schedule B hereto (the “Historic Partners”), confirm their respective agreements with Merrill Lynch, Pierce, Fenner & Smith Incorporated (“Merrill Lynch”) and each of the other Underwriters named in Schedule A hereto (collectively, the “Underwriters,” which term shall also include any underwriter substituted as hereinafter provided in Section 10 hereof), for whom Merrill Lynch, JMP Securities LLC and Imperial Capital, LLC are acting as representatives (in such capacity, the “Representatives”), with respect to (i) the sale by the Company and the purchase by the Underwriters, acting severally and not jointly, of the respective numbers of shares of Class A Common Stock, par value $0.01 per share, of the Company (“Common Stock”) set forth in Schedule A hereto and (ii) the grant by the Company to the Underwriters, acting severally and not jointly, of the option described in Section 2(b) hereof to purchase all or any part of [—] additional shares of Common Stock to cover overallotments, if any. The aforesaid [—] shares of Common Stock (the “Initial Securities”) to be purchased by the Underwriters and all or any part of the [—] shares of Common Stock subject to the option described in Section 2(b) hereof (the “Option Securities”) are hereinafter called, collectively, the “Securities.”
+
+The Company understands that the Underwriters propose to make a public offering of the Securities as soon as the Representatives deem advisable after this Agreement has been executed and delivered.
+
+Prior to the completion of this offering, the Company and ICG LLC, will complete a series of transactions as described in the Prospectus (as hereinafter defined) under the caption “The Reorganization Transactions and Our Organizational Structure” (the “Reorganization Transactions”). A list of agreements
+
+
+
+pursuant to which the Reorganization Transactions will be completed is set forth on Schedule F hereto (collectively, the “Reorganization Agreements”). As used in this Agreement, “ICG LP” refers to, for periods prior to the conversion of ICG LLC into a Delaware limited partnership as contemplated by the Reorganization Agreements (the “Conversion”), ICG LLC, and, for periods from and after the Conversion, Imperial Capital Group, L.P., a Delaware limited partnership.
+
+The Company, the Historic Partners and the Underwriters agree that up to [—] shares of the Securities to be purchased by the Underwriters (the “Reserved Securities”) shall be reserved for sale by the Underwriters to certain persons designated by the Company (the “Invitees”), as part of the distribution of the Initial Securities by the Underwriters, subject to the terms of this Agreement, the applicable rules, regulations and interpretations of the Financial Industry Regulatory Agency, Inc. (the “FINRA”) and all other applicable laws, rules and regulations. To the extent that such Reserved Securities are not orally confirmed for purchase by Invitees by 8:00 a.m. Eastern Time on the first business day after the date of this Agreement, such Reserved Securities may be offered to the public as part of the public offering contemplated hereby, at which time such Securities shall no longer constitute Reserved Securities. It is understood that the Company does not intend to have Reserved Securities offered outside of the United States.
+
+The Company has filed with the Securities and Exchange Commission (the “Commission”) a registration statement on Form S-1 (No. 333-162614), including the related preliminary prospectus or prospectuses, covering the registration of the Securities under the Securities Act of 1933, as amended (the “1933 Act”). Promptly after execution and delivery of this Agreement, the Company will prepare and file a prospectus in accordance with the provisions of Rule 430A (“Rule 430A”) of the rules and regulations of the Commission under the 1933 Act (the “1933 Act Regulations”) and paragraph (b) of Rule 424 (“Rule 424(b)”) of the 1933 Act Regulations. The information included in such prospectus that was omitted from such registration statement at the time it became effective but that is deemed to be part of such registration statement at the time it became effective pursuant to paragraph (b) of Rule 430A is referred to as “Rule 430A Information.” Each prospectus used before such registration statement became effective, and any prospectus that omitted the Rule 430A Information that was used after such effectiveness and prior to the execution and delivery of this Agreement, is herein called a “preliminary prospectus.” Such registration statement, including the amendments thereto, the exhibits and any schedules thereto, at the time it became effective, and including the Rule 430A Information, is herein called the “Registration Statement.” Any registration statement filed pursuant to Rule 462(b) of the 1933 Act Regulations is herein referred to as the “Rule 462(b) Registration Statement,” and after such filing the term “Registration Statement” shall include the Rule 462(b) Registration Statement. The final prospectus in the form first furnished to the Underwriters for use in connection with the offering of the Securities is herein called the “Prospectus.” For purposes of this Agreement, all references to the Registration Statement, any preliminary prospectus, the Prospectus or any amendment or supplement to any of the foregoing shall be deemed to include the copy filed with the Commission pursuant to its Electronic Data Gathering, Analysis and Retrieval system (“EDGAR”).
+
+SECTION 1. Representations and Warranties.
+
+(a) Representations and Warranties by the Company and ICG LP. The Company and ICG LP, jointly and severally represent and warrant to each Underwriter as of the date hereof, as of the Applicable Time referred to in Section 1(a)(i) hereof, as of the Closing Time referred to in Section 2(c) hereof, and as of each Date of Delivery (if any) referred to in Section 2(b) hereof, and agree with each Underwriter, as follows:
+
+(i) Compliance with Registration Requirements. Each of the Registration Statement, any Rule 462(b) Registration Statement and any post-effective amendment thereto has
+
+ 
+
+2
+
+
+
+become effective under the 1933 Act and no stop order suspending the effectiveness of the Registration Statement, any Rule 462(b) Registration Statement or any post-effective amendment thereto has been issued under the 1933 Act and no proceedings for that purpose have been instituted or are pending or, to the knowledge of the Company or ICG LP, are threatened by the Commission, and any request on the part of the Commission for additional information has been complied with.
+
+At the respective times the Registration Statement, any Rule 462(b) Registration Statement and any post-effective amendments thereto became effective and at the Closing Time (and, if any Option Securities are purchased, at the Date of Delivery), the Registration Statement, the Rule 462(b) Registration Statement and any amendments and supplements thereto (including any prospectus wrapper) complied and will comply in all material respects with the requirements of the 1933 Act and the 1933 Act Regulations and did not and will not contain an untrue statement of a material fact or omit to state a material fact required to be stated therein or necessary to make the statements therein not misleading, and the Prospectus, any preliminary prospectus and any supplement thereto or prospectus wrapper prepared in connection therewith, at their respective times of issuance and at the Closing Time, complied and will comply in all material respects with any applicable laws or regulations of foreign jurisdictions in which the Prospectus and such preliminary prospectus, as amended or supplemented, if applicable, are distributed in connection with the offer and sale of Reserved Securities. Neither the Prospectus nor any amendments or supplements thereto (including any prospectus wrapper), at the time the Prospectus or any such amendment or supplement was issued and at the Closing Time (and, if any Option Securities are purchased, at the Date of Delivery), included or will include an untrue statement of a material fact or omitted or will omit to state a material fact necessary in order to make the statements therein, in the light of the circumstances under which they were made, not misleading.
+
+As of the Applicable Time (as defined below), neither (x) the Issuer General Use Free Writing Prospectus(es) (as defined below) issued at or prior to the Applicable Time and the Statutory Prospectus (as defined below) as of the Applicable Time [and the information included on Schedule C-1 hereto], all considered together (collectively, the “General Disclosure Package”), nor (y) any individual Issuer Limited Use Free Writing Prospectus, when considered together with the General Disclosure Package, included any untrue statement of a material fact or omitted to state any material fact necessary in order to make the statements therein, in the light of the circumstances under which they were made, not misleading.
+
+As used in this subsection and elsewhere in this Agreement:
+
+“Applicable Time” means 7:00 am (Eastern time) on [            , 2009] or such other time as agreed by the Company and Merrill Lynch.
+
+“Statutory Prospectus” as of any time means the prospectus relating to the Securities that is included in the Registration Statement immediately prior to that time, including any document incorporated by reference therein.
+
+“Issuer Free Writing Prospectus” means any “issuer free writing prospectus,” as defined in Rule 433 of the 1933 Act Regulations (“Rule 433”), relating to the Securities that (i) is required to be filed with the Commission by the Company, (ii) is a “road show that is a written communication” within the meaning of Rule 433(d)(8)(i) whether or not required to be filed with the Commission or (iii) is exempt from filing pursuant to Rule 433(d)(5)(i) because it contains a description of the Securities or of the offering that does not reflect the final terms, in each case in the form filed or required to be filed with the Commission or, if not required to be filed, in the form retained in the Company’s records pursuant to Rule 433(g).
+
+ 
+
+3
+
+
+
+“Issuer General Use Free Writing Prospectus” means any Issuer Free Writing Prospectus that is intended for general distribution to prospective investors (other than a Bona Fide Electronic Road Show (as defined below)), as evidenced by its being specified in Schedule C-2 hereto.
+
+“Issuer Limited Use Free Writing Prospectus” means any Issuer Free Writing Prospectus that is not an Issuer General Use Free Writing Prospectus.
+
+The Company has made available a “bona fide electronic road show,” as defined in Rule 433, in compliance with Rule 433(d)(8)(ii) (the “Bona Fide Electronic Road Show”) such that no filing of any “road show” (as defined in Rule 433(h)) is required in connection with the offering of the Securities.
+
+Each Issuer Free Writing Prospectus, as of its issue date and at all subsequent times through the completion of the public offer and sale of the Securities or until any earlier date that the issuer notified or notifies Merrill Lynch as described in the next sentence, did not, does not and will not include any information that conflicted, conflicts or will conflict with the information contained in the Registration Statement or the Prospectus, and any preliminary or other prospectus deemed to be a part thereof that has not been superseded or modified.
+
+The representations and warranties in this subsection shall not apply to statements in or omissions from the Registration Statement, the Prospectus or any Issuer Free Writing Prospectus made in reliance upon and in conformity with written information furnished to the Company by any Underwriter through Merrill Lynch expressly for use therein. For purposes of this Agreement, the only information so furnished shall be the information in the first paragraph under the heading “Underwriting–Commissions and Discounts,” the information in the second, third and fourth paragraphs under the heading “Underwriting–Price Stabilization, Short Positions and Penalty Bids” in the Prospectus and the information under the heading “Underwriting–Electronic Offer, Sale and Distribution of Shares” (collectively, the “Underwriter Information”).
+
+Each preliminary prospectus (including the prospectus filed as part of the Registration Statement as originally filed or as part of any amendment thereto) complied when so filed in all material respects with the 1933 Act Regulations and each preliminary prospectus and the Prospectus delivered to the Underwriters for use in connection with this offering was identical to the electronically transmitted copies thereof filed with the Commission pursuant to EDGAR, except to the extent permitted by Regulation S-T.
+
+At the time of filing the Registration Statement, any 462(b) Registration Statement and any post-effective amendments thereto, at the earliest time thereafter that the Company or another offering participant made a bona fide offer (within the meaning of Rule 164(h)(2) of the 1933 Act Regulations) of the Securities and at the date hereof, the Company was not and is not an “ineligible issuer,” as defined in Rule 405 of the 1933 Act Regulations.
+
+(ii) Independent Accountants. BDO Seidman, LLP, the accountants who certified the financial statements and supporting schedules included in the Registration Statement, are independent public accountants as required by the 1933 Act and the 1933 Act Regulations.
+
+ 
+
+4
+
+
+
+(iii) Financial Statements. The financial statements included in the Registration Statement, the General Disclosure Package and the Prospectus, together with the related schedules and notes, present fairly in all material respects (1) the financial position of the Company at the dates indicated and the statement of operations, stockholders’ equity and cash flows of the Company for the periods specified and (2) the financial position of ICG LLC, and its consolidated subsidiaries at the dates indicated and the statement of operations, changes in members’ equity and cash flows of ICG LLC and its consolidated subsidiaries for the periods specified; said financial statements have been prepared in conformity with generally accepted accounting principles (“GAAP”) applied on a consistent basis throughout the periods involved. The supporting schedules, if any, present fairly in accordance with GAAP the information required to be stated therein. The selected financial data and the summary financial information included in the Prospectus present fairly in all material respects the information shown therein and have been compiled on a basis consistent with that of the audited financial statements included in the Registration Statement. The pro forma financial statements and the related notes thereto included in the Registration Statement, the General Disclosure Package and the Prospectus present fairly in all material respects the information shown therein, have been prepared in accordance with the Commission’s rules and guidelines with respect to pro forma financial statements and have been properly compiled on the bases described therein, and the assumptions used in the preparation thereof are reasonable and the adjustments used therein are appropriate to give effect to the transactions and circumstances referred to therein. No other financial statements or schedules of the Company, ICG LP or any of their subsidiaries are required by the 1933 Act or the 1933 Act Regulations to be included in the Registration Statement, the General Disclosure Package or the Prospectus.
+
+(iv) No Material Adverse Change in Business. Since the respective dates as of which information is given in the Registration Statement, the General Disclosure Package or the Prospectus, except as otherwise stated therein, (A) there has been no material adverse change in the condition, financial or otherwise, or in the earnings, business affairs or business prospects of the Company, ICG LP and their respective subsidiaries considered as one enterprise, whether or not arising in the ordinary course of business (a “Material Adverse Effect”), (B) there have been no transactions entered into by the Company, ICG LP or any of their respective subsidiaries, other than those in the ordinary course of business, which are material with respect to the Company, ICG LP and their respective subsidiaries considered as one enterprise, and (C) except for (1) regular cash distributions made by ICG LLC to its members in amounts consistent with past practice and disclosed in the General Disclosure Package, (2) other distributions made by ICG LLC as described in the General Disclosure Package, and (3) distributions made by ICG LLC in connection with the consummation of the Reorganization Transactions, there has been no dividend or distribution of any kind declared, paid or made by the Company or ICG LP on any class of their capital stock or membership units, respectively.
+
+(v) Good Standing of the Company and ICG LP. Each of the Company and ICG LP has been duly organized as a corporation, limited liability company or limited partnership, as applicable, and is validly existing and in good standing under the laws of the State of Delaware and has corporate, limited liability company or limited partnership, as applicable, power and authority to own, lease and operate its properties and to conduct its business as described in the Prospectus and to enter into and perform its obligations under this Agreement and the Reorganization Agreements, to the extent it is a party to such agreements; and each of the Company and ICG LP is duly qualified as a foreign corporation to transact business and is in good standing in each other jurisdiction in which such qualification is required, whether by reason of the ownership or leasing of property or the conduct of business, except where the failure so to qualify or to be in good standing would not result in a Material Adverse Effect.
+
+ 
+
+5
+
+
+
+(vi) Good Standing of Subsidiaries. Each “significant subsidiary” of the Company or ICG LP (as such term is defined in Rule 1-02 of Regulation S-X) is set forth on Schedule E. Each significant subsidiary has been duly organized as a limited liability company or limited partnership and is validly existing and in good standing under the laws of the jurisdiction of its incorporation, has the limited liability company or limited partnership, as applicable, power and authority to own, lease and operate its properties and to conduct its business as described in the Prospectus and is duly qualified as a foreign limited liability company or limited partnership to transact business and is in good standing in each jurisdiction in which such qualification is required, whether by reason of the ownership or leasing of property or the conduct of business, except where the failure so to qualify or to be in good standing would not result in a Material Adverse Effect.
+
+(vii) Ownership of Subsidiaries. All of the issued and outstanding limited liability company interests or limited partnership interests, as applicable, of each subsidiary of ICG LP have been duly authorized and validly issued, and are owned by ICG LP, directly or through subsidiaries, free and clear of any security interest, mortgage, pledge, lien, encumbrance, claim or equity; and none of the outstanding ownership interests of any subsidiary of IGC LP was issued in violation of the preemptive or similar rights of any securityholder of such subsidiary. As of the date of this Agreement, all of the issued and outstanding limited liability company interests of ICG LLC have been duly authorized and validly issued, and are owned by the members of ICG LLC free and clear of any security interest, mortgage, pledge, lien, encumbrance, claim or equity except for (i) those that would not materially and adversely affect any Historic Partner’s ability to perform its obligations under this Agreement or the Reorganization Agreements and (ii) those that have been disclosed in writing to the Underwriters prior to the date hereof and that will be released as of the Closing Time; and none of the outstanding limited liability company interests of IGC LLC was issued in violation of the preemptive or similar rights of any securityholder of ICG LLC. Upon the consummation of the Reorganization Transactions, the partnership units of ICG LP to be acquired by the Company from ICGI Holdings, LLC and to be issued to the Company by ICG LP pursuant to the Reorganization Transactions will be duly authorized and validly issued and will be owned by the Company free and clear of all liens, encumbrances, equities and claims except for such liens, encumbrances, equities or claims as would not result in a Material Adverse Effect; and the issuance or acquisition of such partnership units is not subject to the preemptive or other similar rights of any securityholder of ICG LP. Upon the consummation of the Reorganization Transactions, the percentage interest of the Company in ICG LP will be as set forth in the General Disclosure Package and the Prospectus. Exhibit 21.1 to the Registration Statement sets forth a complete list of all of the subsidiaries of the Company and ICG LP.
+
+(viii) Capitalization. The authorized, issued and outstanding capital stock of the Company is as set forth in the Prospectus under the caption “Description of Capital Stock” (except for subsequent issuances, if any, pursuant to this Agreement, pursuant to reservations, agreements or employee benefit plans referred to in the Prospectus or pursuant to the exercise of convertible securities or options referred to in the Prospectus). The shares of issued and outstanding capital stock have been duly authorized and validly issued and are fully paid and non-assessable; none of the outstanding shares of capital stock was issued in violation of the preemptive or other similar rights of any securityholder of the Company.
+
+(ix) Authorization of Agreements. This Agreement has been duly authorized, executed and delivered by each of the Company and ICG LP. Each of the Reorganization Agreements has been duly authorized, executed and delivered by the Company, ICG LLC and ICG LP, to the extent it is a party to such agreements, and constitutes the legally valid and
+
+ 
+
+6
+
+
+
+binding obligation of the Company, ICG LLC and ICG LP, to the extent it is a party to such agreements, enforceable in accordance with its terms, subject to applicable bankruptcy, insolvency or similar laws affecting creditors’ rights generally and equitable principles of general applicability. The Company has delivered to the Representatives a true and correct copy of each of the executed Reorganization Agreements together with all related agreements and all schedules and exhibits thereto. There have been no amendments, alterations, modifications or waivers of any of the provisions of any of the Reorganization Agreements since their date of execution, and there exists no event or condition that would constitute a default or event of default under any of the Reorganization Agreements that could adversely affect the ability of (i) the Company to consummate the offer and sale of the Securities or (ii) the Company, ICG LLC or ICG LP to consummate any of the Reorganization Transactions.
+
+(x) Authorization and Description of Securities. The Securities to be purchased by the Underwriters from the Company have been duly authorized for issuance and sale to the Underwriters pursuant to this Agreement and, when issued and delivered by the Company pursuant to this Agreement against payment of the consideration set forth herein, will be validly issued and fully paid and non-assessable; the Common Stock, the Company’s Class B common stock, par value $0.01 per share, and the partnership interests of ICG LP conform to all statements relating thereto contained in the Prospectus and such descriptions conform in all material respects to the rights set forth in the instruments defining the same; no holder of the Securities will be subject to personal liability by reason of being such a holder; and the issuance of the Securities is not subject to the preemptive or other similar rights of any securityholder of the Company.
+
+(xi) Absence of Defaults and Conflicts. Neither the Company or ICG LP nor any of their subsidiaries is in violation of its charter, by-laws or other organizational documents or in default in the performance or observance of any obligation, agreement, covenant or condition contained in any contract, indenture, mortgage, deed of trust, loan or credit agreement, note, lease or other agreement or instrument to which the Company, ICG LP or any of their subsidiaries is a party or by which any of them may be bound, or to which any of the property or assets of the Company, ICG LP or any subsidiary is subject (collectively, “Agreements and Instruments”) except for such defaults that would not reasonably be expected to result in a Material Adverse Effect; and the execution, delivery and performance of this Agreement and the Reorganization Agreements and the consummation of the transactions contemplated herein and therein and in the Registration Statement (including the issuance and sale of the Securities, the use of the proceeds from the sale of the Securities as described in the Prospectus under the caption “Use of Proceeds”) and compliance by the Company and ICG LP with their respective obligations hereunder and under the Reorganization Agreements, to the extent it is a party to such agreements, have been duly authorized by all necessary corporate or other action and do not and will not, whether with or without the giving of notice or passage of time or both, conflict with or constitute a breach of, or default or Repayment Event (as defined below) under, or result in the creation or imposition of any lien, charge or encumbrance upon any property or assets of the Company, ICG LP or any of their subsidiaries pursuant to, the Agreements and Instruments or the Reorganization Agreements (except for such conflicts, breaches, defaults or Repayment Events or liens, charges or encumbrances that would not reasonably be expected to result in a Material Adverse Effect), nor will such action result in any violation of the provisions of (i) the charter or by-laws of the Company or any subsidiary or (ii) any applicable law, statute, rule, regulation, judgment, order, writ or decree of any government, government instrumentality or court, domestic or foreign, having jurisdiction over the Company or any subsidiary or any of their assets, properties or operations, except in the case of clause (ii) for such violations that would not reasonably be expected to result in a Material Adverse Effect. As used herein, a “Repayment
+
+ 
+
+7
+
+
+
+Event” means any event or condition which gives the holder of any note, debenture or other evidence of indebtedness (or any person acting on such holder’s behalf) the right to require the repurchase, redemption or repayment of all or a portion of such indebtedness by the Company or any subsidiary.
+
+(xii) Absence of Labor Dispute. No labor dispute with the employees of the Company or any subsidiary exists or, to the knowledge of the Company or ICG LP, is imminent, and the Company and ICG LP are not aware of any existing or imminent labor disturbance by the employees of any of their or their subsidiaries’ principal suppliers, manufacturers, customers or contractors, which, in either case, would result in a Material Adverse Effect.
+
+(xiii) Employee Benefits. (i) The Company, ICG LP and each of their subsidiaries or their “ERISA Affiliates” (as defined below) are in compliance in all respects with all presently applicable provisions of the Employee Retirement Income Security Act of 1974, as amended, including the regulations and published interpretations thereunder (“ERISA”); (ii) no “reportable event” (as defined in ERISA) has occurred within the past six years with respect to any “employee benefit plan” (as defined in ERISA) for which the Company, ICG LP or any of their subsidiaries or ERISA Affiliates would have any liability; (iii) the Company, ICG LP and each of their subsidiaries or their ERISA Affiliates have not incurred within the past six years and do not reasonably expect to incur liability under Title IV of ERISA with respect to termination of, or withdrawal from, any “employee benefit plan”; and (iv) each “employee benefit plan” for which the Company, ICG LP and each of their subsidiaries or any of their ERISA Affiliates would have any liability that is intended to be qualified under Section 401(a) of the United States Internal Revenue Code of 1986, as amended, and the regulations and published interpretations thereunder (collectively the “Code”) is so qualified in all material respects and nothing has occurred, whether by action or by failure to act, which would cause the loss of such qualification; except, in the cases of (i), (ii), and (iii), as would not reasonably be expected to have a Material Adverse Effect. “ERISA Affiliate” means, with respect to the Company, ICG LP or any of their subsidiaries, any member of any group of organizations described in Sections 414(b), (c), (m) or (o) of the Code of which the Company, ICG LP or such subsidiary is a member.
+
+(xiv) Absence of Proceedings. There is no action, suit, proceeding, inquiry or investigation before or brought by any court or governmental agency or body, domestic or foreign, now pending, or, to the knowledge of the Company or ICG LP, threatened against the Company, ICG LP or any of their subsidiaries, which is required to be disclosed in the Registration Statement (other than as disclosed therein), or which would reasonably be expected to result in a Material Adverse Effect, or which would reasonably be expected to materially and adversely affect the properties or assets of the Company and its subsidiaries considered as one enterprise or the consummation of the transactions contemplated in this Agreement and the Reorganization Agreements (including the issuance and sale of the Securities, the use of the proceeds from the sale of the Securities as described in the Prospectus under the caption “Use of Proceeds”) or the performance by the Company or ICG LP of their obligations hereunder or thereunder; the aggregate of all pending legal or governmental proceedings to which the Company, ICG LP or any subsidiary is a party or of which any of their respective property or assets is the subject which are not described in the Registration Statement, including ordinary routine litigation incidental to the business, would not reasonably be expected to result in a Material Adverse Effect.
+
+(xv) Accuracy of Exhibits. There are no contracts or documents which are required to be described in the Registration Statement or the Prospectus or to be filed as exhibits thereto which have not been so described and filed as required.
+
+ 
+
+8
+
+
+
+(xvi) Possession of Intellectual Property. The Company, ICG LP and their subsidiaries own or possess adequate rights to use the patents, patent rights, licenses, inventions, copyrights, know-how (including trade secrets and other unpatented and/or unpatentable proprietary or confidential information, systems or procedures), trademarks, service marks, trade names or other intellectual property (collectively, “Intellectual Property”) reasonably necessary to carry on the business now operated by them, except where the failure to possess or acquire such Intellectual Property would not, singly or in the aggregate, reasonably be expected to result in a Material Adverse Effect. Neither the Company, ICG LP nor any of their subsidiaries has any pending, unresolved written claim or notice or is otherwise aware of any infringement of or conflict with asserted rights of others with respect to any Intellectual Property or of any facts or circumstances which would render any Intellectual Property owned by the Company, ICG LP or their subsidiaries invalid or unenforceable, which infringement or conflict (if the subject of any unfavorable decision, ruling or finding) or invalidity or unenforceability, singly or in the aggregate, would result in a Material Adverse Effect.
+
+(xvii) Absence of Further Requirements. No filing with, or authorization, approval, consent, license, order, registration, qualification or decree of, any court or governmental authority or agency is necessary or required for the performance by the Company or ICG LP of their obligations hereunder, in connection with the offering, issuance or sale of the Securities hereunder or the consummation of the transactions contemplated by this Agreement or the Reorganization Agreements (including the issuance and sale of the Securities, the use of the proceeds from the sale of the Securities as described in the Prospectus under the caption “Use of Proceeds”), except (i) such as have been already obtained or, in connection with the offering of the Securities, as may be required under the 1933 Act or the 1933 Act Regulations or state securities laws and (ii) such as have been obtained under the laws and regulations of jurisdictions outside the United States in which the Reserved Securities were offered.
+
+(xviii) Absence of Manipulation. Neither the Company, ICG LP nor any of their affiliates has taken, nor will the Company, ICG LP or any affiliate take, directly or indirectly, any action which is designed to or which has constituted or which would be expected to cause or result in stabilization or manipulation of the price of any security of the Company to facilitate the sale or resale of the Securities.
+
+(xix) Possession of Licenses and Permits. The Company, ICG LP and their subsidiaries possess such permits, licenses, approvals, consents and other authorizations (collectively, “Governmental Licenses”) issued by the appropriate federal, state, local or foreign regulatory agencies or bodies necessary to conduct the business now operated by them, except where the failure so to possess would not, singly or in the aggregate, reasonably be expected to result in a Material Adverse Effect; the Company and its subsidiaries are in compliance with the terms and conditions of all such Governmental Licenses, except where the failure so to comply would not, singly or in the aggregate, reasonably be expected to result in a Material Adverse Effect; all of the Governmental Licenses are valid and in full force and effect, except when the invalidity of such Governmental Licenses or the failure of such Governmental Licenses to be in full force and effect would not, singly or in the aggregate, reasonably be expected to result in a Material Adverse Effect; and neither the Company, ICG LP nor any of their subsidiaries has received any notice of proceedings relating to the revocation or modification of any such Governmental Licenses which, singly or in the aggregate, if the subject of an unfavorable decision, ruling or finding, would result in a Material Adverse Effect.
+
+(xx) Title to Property. The Company, ICG LP and their subsidiaries have good and marketable title to all real property owned by the Company, ICG LP and their subsidiaries
+
+ 
+
+9
+
+
+
+and good title to all other properties owned by them that are material to the business of the Company, ICG LP and their subsidiaries, in each case, free and clear of all mortgages, pledges, liens, security interests, claims, restrictions or encumbrances of any kind except such as (a) are described in the Prospectus or (b) do not, singly or in the aggregate, materially and adversely affect the value of such property and do not materially and adversely interfere with the use made and proposed to be made of such property by the Company, ICG LP or any of their subsidiaries; and all of the leases and subleases material to the business of the Company, ICG LP and their subsidiaries, considered as one enterprise, and under which the Company, ICG LP or any of their subsidiaries holds properties described in the Prospectus, are in full force and effect, with such exceptions as are not material to the Company or ICG LP and do not interfere with the use made of such property, and neither the Company, ICG LP nor any of their subsidiaries has any notice of any material claim of any sort that has been asserted by anyone adverse to the rights of the Company, ICG LP or any of their subsidiaries under any of the leases or subleases mentioned above, or affecting or questioning the rights of the Company, ICG LP or such subsidiary to the continued possession of the leased or subleased premises under any such lease or sublease, except where such claims would not reasonably be expected to result in an Material Adverse Effect.
+
+(xxi) Investment Company Act. The Company and ICG LP are not required, and upon the issuance and sale of the Securities as herein contemplated and the application of the net proceeds therefrom as described in the Prospectus will not be required, to register as an “investment company” under the Investment Company Act of 1940, as amended (the “1940 Act”).
+
+(xxii) Investment Advisors Act. Imperial Capital Asset Management, LLC, a Delaware limited liability company (“ICAM”), is currently registered as an investment adviser under the Investment Advisers Act of 1940, as amended (the “Advisers Act”). None of the Company, ICG LP or any of their subsidiaries, other than ICAM, is, or will as a result of the transactions contemplated by this Agreement be, required to register as an investment adviser under the Advisers Act, or be registered, licensed or qualified as an investment adviser under the laws requiring any such registration, licensing or qualification in any state in which it conducts business, except where the failure to be so registered, licensed and qualified would not reasonably be expected to result in a Material Adverse Effect. ICAM is not required to make any filing with, or obtain the authorization, approval or consent of, any third party as a result of the consummation of the Reorganization Transactions, except (i) such as have been already obtained or (ii) where the failure to obtain such authorization, approval or consent would not be reasonably expected to result in a Material Adverse Effect.
+
+(xxiii) Broker-Dealer Compliance. None of the Company, ICG LP nor any of their subsidiaries (other than Imperial Capital, LLC) is, nor will as a result of the transactions contemplated by this Agreement or the Transaction Agreements be, (i) required to register as a broker-dealer under the Securities Exchange Act of 1934 (the “1934 Act”) and the rules and regulations of the Commission thereunder (the “1934 Act Regulations”), nor (ii) required by the securities laws of any state to register as a broker-dealer, except where the failure to be so registered would not reasonably be expected to result in a Material Adverse Effect. Imperial Capital, LLC is duly registered, licensed and qualified as a broker-dealer under the 1934 Act and the 1934 Act Regulations and the securities laws of each state where the conduct of its business requires such registration, except where the failure to be so registered, licensed and qualified would not reasonably be expected to result in a Material Adverse Effect, and is duly registered and is in good standing with the FINRA.
+
+ 
+
+10
+
+
+
+(xxiv) Environmental Laws. Except as described in the Registration Statement and except as would not, singly or in the aggregate, reasonably be expected to result in a Material Adverse Effect, (A) neither the Company, ICG LP nor any of their subsidiaries is in violation of any federal, state, local or foreign statute, law, rule, regulation, ordinance, code, policy or rule of common law or any judicial or administrative interpretation thereof, including any judicial or administrative order, consent, decree or judgment, relating to pollution or protection of human health, the environment (including, without limitation, ambient air, surface water, groundwater, land surface or subsurface strata) or wildlife, including, without limitation, laws and regulations relating to the release or threatened release into the environment of chemicals, pollutants, contaminants, wastes, toxic substances, hazardous substances, petroleum or petroleum products, asbestos-containing materials or mold (collectively, “Hazardous Materials”) or to the manufacture, processing, distribution, use, treatment, storage, disposal, transport or handling of Hazardous Materials (collectively, “Environmental Laws”), (B) the Company, ICG LP and their subsidiaries have all permits, authorizations and approvals required under any applicable Environmental Laws and are each in compliance with their requirements, (C) there are no pending or, to the knowledge of the Company or ICG LP, threatened administrative, regulatory or judicial actions, suits, demands, demand letters, claims, liens, notices of noncompliance or violation, investigation or proceedings relating to any Environmental Law against the Company, ICG LP or any of their subsidiaries and (D) there are, to the knowledge of the Company or ICG LP, no events or circumstances that would reasonably be expected to form the basis of an order for clean-up or remediation, or an action, suit or proceeding by any private party or governmental body or agency, against or affecting the Company, ICG LP or any of their subsidiaries relating to Hazardous Materials or any Environmental Laws.
+
+(xxv) Registration Rights. There are no persons with registration rights or other similar rights to have any securities registered pursuant to the Registration Statement, and other than pursuant to the Registration Rights Agreement filed as Exhibit 10.[    ] to the Registration Statement, there are no persons with registration rights or other similar rights to have any securities otherwise registered by the Company under the 1933 Act.
+
+(xxvi) Accounting Controls. The Company, ICG LP and each of their subsidiaries maintain a system of internal accounting controls sufficient to provide reasonable assurances that (A) transactions are executed in accordance with management’s general or specific authorization; (B) transactions are recorded as necessary to permit preparation of financial statements in conformity with GAAP and to maintain accountability for assets; (C) access to assets is permitted only in accordance with management’s general or specific authorization; and (D) the recorded accountability for assets is compared with the existing assets at reasonable intervals and appropriate action is taken with respect to any differences. Except as described in the Prospectus, since the Company’s formation, in the case of the Company, and since the end of ICG LLC’s most recent audited fiscal year, in the case of ICG LLC, there has been (1) no material weakness in the Company’s or ICG LLC’s, as applicable, internal control over financial reporting (whether or not remediated) and (2) no change in the Company’s or ICG LLC’s internal control over financial reporting that has materially affected, or is reasonably likely to materially affect, the Company’s, ICG LLC’s or ICG LP’s internal control over financial reporting.
+
+(xxvii) Compliance with the Sarbanes-Oxley Act. The Company has taken all necessary actions to ensure that, upon the effectiveness of the Registration Statement, it will be in compliance with all provisions of the Sarbanes-Oxley Act of 2002 and all rules and regulations promulgated thereunder or implementing the provisions thereof (the “Sarbanes-Oxley Act”) that are then in effect and which the Company is required to comply with as of the effectiveness of the Registration Statement, and is actively taking steps to ensure that it will be in compliance with
+
+ 
+
+11
+
+
+
+other provisions of the Sarbanes-Oxley Act not currently in effect, upon the effectiveness of such provisions, or which will become applicable to the Company at all times after the effectiveness of the Registration Statement.
+
+(xxviii) Taxes. Except as would not reasonably be expected to cause a Material Adverse Effect, all United States federal income tax returns of the Company, ICG LP and their subsidiaries required by law to be filed have been filed and all taxes shown by such returns or otherwise assessed, which are due and payable, have been paid, except assessments against which appeals have been or will be promptly taken and as to which adequate reserves have been provided. The Company, ICG LP and their subsidiaries have filed all other tax returns that are required to have been filed by them pursuant to applicable foreign, state, local or other law except insofar as the failure to file such returns would not reasonably be expected to result in a Material Adverse Effect, and have paid all taxes due pursuant to such returns or pursuant to any assessment received by the Company and its subsidiaries, except for such taxes, if any, as are being contested in good faith and as to which adequate reserves have been provided. The charges, accruals and reserves on the books of the Company, ICG LLC and their subsidiaries in respect of any income and corporation tax liability for any years not finally determined are adequate to meet any assessments or re-assessments for additional income tax for any years not finally determined, except to the extent of any inadequacy that would not reasonably be expected to result in a Material Adverse Effect. Each subsidiary of the Company, ICG LP and each subsidiary of ICG LP is, and has been since its formation, classified for U.S. federal income tax purposes as either a partnership or disregarded entity and not as a corporation or an association taxable as a corporation.
+
+(xxix) Insurance. The Company, ICG LP and their subsidiaries carry or are entitled to the benefits of insurance, with, to the knowledge of the Company or ICG LP, financially sound and reputable insurers, in such amounts and covering such risks as is generally maintained by companies of established repute engaged in the same or similar business, and all such insurance is in full force and effect. Neither the Company nor ICG LP has any reason to believe that it or any of its subsidiaries will not be able (A) to renew its existing insurance coverage as and when such policies expire or (B) to obtain comparable coverage from similar institutions as may be necessary or appropriate to conduct its business as now conducted and at a cost that would not reasonably be expected to result in a Material Adverse Effect. Neither of the Company, ICG LP nor any subsidiary has been denied any material amount of insurance coverage which it has sought or for which it has applied.
+
+(xxx) Statistical and Market-Related Data. Any statistical and market-related data included in the Registration Statement and the Prospectus are based on or derived from sources that the Company and ICG LP believes to be reliable and accurate, and the Company has obtained the written consent to the use of such data from such sources to the extent required.
+
+(xxxi) Foreign Corrupt Practices Act. Neither the Company or ICG LP nor, to the knowledge of the Company or ICG LP, any director, officer, agent, employee, affiliate or other person acting on behalf of the Company, ICG LP or any of their subsidiaries is aware of or has taken any action, directly or indirectly, that would result in a violation by such persons of the Foreign Corrupt Practices Act of 1977, as amended, and the rules and regulations thereunder (the “FCPA”), including, without limitation, making use of the mails or any means or instrumentality of interstate commerce corruptly in furtherance of an offer, payment, promise to pay or authorization of the payment of any money, or other property, gift, promise to give, or authorization of the giving of anything of value to any “foreign official” (as such term is defined in the FCPA) or any foreign political party or official thereof or any candidate for foreign
+
+ 
+
+12
+
+
+
+political office, in contravention of the FCPA and the Company and ICG LP and, to the knowledge of the Company and ICG LP, its affiliates have conducted their businesses in compliance with the FCPA and have instituted and maintain policies and procedures designed to ensure, and which are reasonably expected to continue to ensure, continued compliance therewith.
+
+(xxxii) Money Laundering Laws. The operations of the Company and ICG LP are and have been conducted at all times in compliance with applicable financial recordkeeping and reporting requirements of the Currency and Foreign Transactions Reporting Act of 1970, as amended, the money laundering statutes of all jurisdictions, the rules and regulations thereunder and any related or similar rules, regulations or guidelines, issued, administered or enforced by any governmental agency (collectively, the “Money Laundering Laws”) and no action, suit or proceeding by or before any court or governmental agency, authority or body or any arbitrator involving the Company or ICG LP with respect to the Money Laundering Laws is pending or, to the best knowledge of the Company or ICG LP, threatened.
+
+(xxxiii) OFAC. Neither the Company, ICG LP nor any of their subsidiaries nor, to the knowledge of the Company or ICG LP, any director, officer, agent, employee, affiliate or person acting on behalf of the Company, ICG LP or any of their subsidiaries is currently subject to any U.S. sanctions administered by the Office of Foreign Assets Control of the U.S. Treasury Department (“OFAC”); and neither the Company, ICG LP nor any of their subsidiaries will directly or indirectly use the proceeds of the offering, or lend, contribute or otherwise make available such proceeds to any subsidiary, joint venture partner or other person or entity, for the purpose of financing the activities of any person currently subject to any U.S. sanctions administered by OFAC.
+
+(xxxiv) Reserved Securities Sales. The Company has not offered, or caused the Representatives to offer, Reserved Securities to any person with the specific intent to unlawfully influence (i) a customer or supplier of the Company or ICG LP or any of their affiliates to alter the customer’s or supplier’s level or type of business with any such entity or (ii) a trade journalist or publication to write or publish favorable information about the Company or ICG LP or any of their affiliates, or their respective businesses or products.
+
+(b) Representations and Warranties by the Historic Partners other than ICGH LLC. Each Historic Partner other than Imperial Capital Group Holdings, LLC (“ICGH LLC”) (and solely with respect to Section 1(b)(x), other than ARCC Imperial LLC) severally and not jointly represents and warrants to each Underwriter as of the date hereof, as of the Closing Time, and as of each Date of Delivery, as follows:
+
+(i) Accurate Disclosure. Neither the General Disclosure Package, the Prospectus nor any amendments or supplements thereto includes any untrue statement of a material fact or omits to state a material fact necessary in order to make the statements therein, in the light of the circumstances under which they were made, not misleading; provided, that the representations and warranties set forth in this sentence apply only to statements and omissions made in reliance upon and in conformity with information relating to such Historic Partner furnished in writing by or on behalf of such Historic Partner expressly for use in the General Disclosure Package, the Prospectus or any amendments or supplements thereto (the “Provided Information”). Such Historic Partner is not prompted to enter into the Reorganization Agreements to which it is a party by any information concerning the Company, ICG LP or any of their subsidiaries which is not set forth in the General Disclosure Package or the Prospectus.
+
+ 
+
+13
+
+
+
+(ii) Authorization of this Agreement. This Agreement has been duly authorized, executed and delivered by or on behalf of such Historic Partner.
+
+(iii) Authorization and Enforceability of Reorganization Agreements. Such Historic Partner has the legal right and power, and all authorization and approval required by law, to enter into this Agreement and each of the Reorganization Agreements to which it is a party and to contribute such Historic Partner’s membership interests in ICG LLC (the “ICG LLC Membership Units”) to ICGI Holdings, LLC. Each of the Reorganization Agreements has been duly authorized, executed and delivered by such Historic Partner, to the extent it is a party to such agreements, and constitutes the legally valid and binding obligation of such Historic Partner, to the extent it is a party to such agreements, enforceable in accordance with its terms, subject to applicable bankruptcy, insolvency or similar laws affecting creditors’ rights generally and equitable principles of general applicability.
+
+(iv) Noncontravention. The execution and delivery by such Historic Partner of this Agreement and each of the Reorganization Agreements, to the extent it is a party to such agreements, and the consummation of the transactions contemplated herein and therein and compliance by such Historic Partner with its obligations hereunder and thereunder do not and will not, whether with or without the giving of notice or passage of time or both, conflict with or constitute a breach of, or default under, or result in the creation or imposition of any tax (other than taxes arising as a result of such Historic Partner’s acquisition of Common Stock pursuant to the Reorganization Agreements), lien, charge or encumbrance upon such Historic Partner’s ICG LLC Membership Units or any property or assets of such Historic Partner pursuant to any contract, indenture, mortgage, deed of trust, loan or credit agreement, note, license, lease or other agreement or instrument to which such Historic Partner is a party or by which such Historic Partner may be bound, or to which any of the property or assets of such Historic Partner is subject, nor will such action result in any violation of the provisions of the charter or by-laws or other organizational instrument of such Historic Partner, if applicable, or any applicable treaty, law, statute, rule, regulation, judgment, order, writ or decree of any government, government instrumentality or court, domestic or foreign, having jurisdiction over such Historic Partner or any of its properties, except for those that would not materially and adversely affect such Historic Partner’s ability to perform its obligations hereunder and thereunder.
+
+(v) Valid Title. At the Closing Time, (i) such Historic Partner will have valid title to all of such Historic Partner’s ICGI Holdings, LLC membership units free and clear of all security interests, claims, liens, equities or other encumbrances except for those that would not materially and adversely affect such Historic Partner’s ability to perform its obligations under this Agreement or the Reorganization Agreements and (ii) the ICG LLC Membership Units contributed by such Historic Partner to ICGI Holdings, LLC pursuant to the Contribution Agreement will be owned by ICGI Holdings, LLC with valid title, free and clear of all security interests, claims, liens, equities or other encumbrances.
+
+(vi) Absence of Manipulation. Such Historic Partner has not taken, and will not take, directly or indirectly, any action which is designed to or which has constituted or would reasonably be expected to cause or result in stabilization or manipulation of the price of any security of the Company to facilitate the sale or resale of the Securities.
+
+(vii) Absence of Further Requirements. No filing with, or consent, approval, authorization, order, registration, qualification or decree of, any court or governmental authority or agency, domestic or foreign, is necessary or required for the performance by such Historic Partner of its obligations hereunder or under each of the Reorganization Agreements to which it is a party, except such as may have previously been made or obtained.
+
+ 
+
+14
+
+
+
+(viii) No Free Writing Prospectuses. Such Historic Partner has not prepared or had prepared on its behalf, or used or referred to, any “free writing prospectus” (as defined in Rule 405 of the 1933 Act Regulations), and has not distributed any written materials in connection with the offer or sale of the Securities.
+
+(ix) No Association with FINRA. Neither such Historic Partner nor any of its affiliates directly, or indirectly through one or more intermediaries, controls, or is controlled by, or is under common control with any member firm of FINRA or is a person associated with a member (within the meaning of the FINRA By-Laws) of FINRA, except (i) by virtue of such Historic Partner’s status as a member of ICG LLC, (ii) if such Historic Partner is also an executive officer of the Company, by virtue of such Historic Partner’s status as an executive officer of the Company, or (iii) as otherwise disclosed in such Historic Partner’s FINRA questionnaire previously provided to the Representatives.
+
+(x) Reserved Securities Sales. To the best of such Historic Partner’s knowledge and belief, the Company has not offered, or caused the Representatives to offer, Reserved Securities to any person with the specific intent to unlawfully influence (i) a customer or supplier of the Company or ICG LP or any of their affiliates to alter the customer’s or supplier’s level or type of business with any such entity or (ii) a trade journalist or publication to write or publish favorable information about the Company or ICG LP or any of their affiliates, or their respective businesses or products.
+
+(c) Representations and Warranties by ICGH LLC. ICGH LLC represents and warrants to each Underwriter as of the date hereof, as of the Closing Time, and as of each Date of Delivery, as follows:
+
+(i) Accurate Disclosure. The representations and warranties of the Company contained in Section 1(a) hereof are true and correct; neither the General Disclosure Package, the Prospectus nor any amendments or supplements thereto (including any prospectus wrapper) includes any untrue statement of a material fact or omits to state a material fact necessary in order to make the statements therein, in the light of the circumstances under which they were made, not misleading; provided that the representations and warranties set forth in this sentence do not apply to the Provided Information nor information furnished to the Company by any Underwriter through any Representative (other than Imperial Capital, LLC) expressly for use in the General Disclosure Package, the Prospectus or any amendments or supplements thereto. ICGH LLC is not prompted to enter into the Reorganization Agreements to which it is a party by any information concerning the Company, ICG LP or any of their subsidiaries which is not set forth in the General Disclosure Package or the Prospectus.
+
+(ii) Authorization of this Agreement. This Agreement has been duly authorized, executed and delivered by ICGH LLC.
+
+(iii) Authorization and Enforceability of Reorganization Agreements. ICGH LLC has the legal right and power, and all authorization and approval required by law, to enter into this Agreement and each of the Reorganization Agreements to which it is a party and to contribute its ICG LLC Membership Units to ICGI Holdings, LLC. Each of the Reorganization Agreements has been duly authorized, executed and delivered by ICGH LLC, to the extent it is a party to such agreements, and constitutes the legally valid and binding obligation of ICGH LLC, to the extent it is a party to such agreements, enforceable in accordance with its terms, subject to applicable bankruptcy, insolvency or similar laws affecting creditors’ rights generally and equitable principles of general applicability.
+
+ 
+
+15
+
+
+
+(iv) Noncontravention. The execution and delivery by ICGH LLC of this Agreement and each of the Reorganization Agreements, to the extent it is a party to such agreements, and the consummation of the transactions contemplated herein and therein and compliance by ICGH LLC with its obligations hereunder and thereunder do not and will not, whether with or without the giving of notice or passage of time or both, conflict with or constitute a breach of, or default under, or result in the creation or imposition of any tax (other than taxes arising as a result of ICGH LLC’s acquisition of Common Stock pursuant to the Reorganization Agreements), lien, charge or encumbrance upon ICGH LLC’s ICG LLC Membership Units or any property or assets of ICGH LLC pursuant to any contract, indenture, mortgage, deed of trust, loan or credit agreement, note, license, lease or other agreement or instrument to which ICGH LLC is a party or by which ICGH LLC may be bound, or to which any of the property or assets of ICGH LLC is subject, nor will such action result in any violation of the provisions of the charter or by-laws or other organizational instrument of ICGH LLC or any applicable treaty, law, statute, rule, regulation, judgment, order, writ or decree of any government, government instrumentality or court, domestic or foreign, having jurisdiction over ICGH LLC or any of its properties, except for those that would not materially and adversely affect ICGH LLC’s ability to perform its obligations hereunder and thereunder.
+
+(v) Valid Title. At the Closing Time, (i) ICGH LLC will have valid title to all of its ICGI Holdings, LLC membership units free and clear of all security interests, claims, liens, equities or other encumbrances and (ii) the ICG LLC Membership Units contributed by ICGH LLC to ICGI Holdings, LLC pursuant to the Contribution Agreement will be owned by ICGI Holdings, LLC with valid title, free and clear of all security interests, claims, liens, equities or other encumbrances.
+
+(vi) Absence of Manipulation. ICGH LLC has not taken, and will not take, directly or indirectly, any action which is designed to or which has constituted or would be expected to cause or result in stabilization or manipulation of the price of any security of the Company to facilitate the sale or resale of the Securities.
+
+(vii) Absence of Further Requirements. No filing with, or consent, approval, authorization, order, registration, qualification or decree of, any court or governmental authority or agency, domestic or foreign, is necessary or required for the performance by ICGH LLC of its obligations hereunder or under each of the Reorganization Agreements to which it is a party, except such as may have previously been made or obtained.
+
+(viii) No Free Writing Prospectuses. ICGH LLC has not prepared or had prepared on its behalf, or used or referred to, any “free writing prospectus” (as defined in Rule 405 of the 1933 Act Regulations), and has not distributed any written materials in connection with the offer or sale of the Securities.
+
+(ix) No Association with FINRA. Neither ICGH LLC nor any of its affiliates directly, or indirectly through one or more intermediaries, controls, or is controlled by, or is under common control with any member firm of FINRA or is a person associated with a member (within the meaning of the FINRA By-Laws) of FINRA, except as disclosed in the FINRA questionnaires of Jason W. Reese and Randall E. Wooster previously provided to the Representatives.
+
+(x) Reserved Securities Sales. To the best of ICGH LLC’s knowledge and belief, the Company has not offered, or caused the Representatives to offer, Reserved Securities to any person with the specific intent to unlawfully influence (i) a customer or supplier of the Company
+
+ 
+
+16
+
+
+
+or ICG LP or any of their affiliates to alter the customer’s or supplier’s level or type of business with any such entity or (ii) a trade journalist or publication to write or publish favorable information about the Company or ICG LP or any of their affiliates, or their respective businesses or products.
+
+SECTION 2. Sale and Delivery to Underwriters; Closing.
+
+(a) Initial Securities. On the basis of the representations and warranties herein contained and subject to the terms and conditions herein set forth, the Company agrees to sell to each Underwriter, severally and not jointly, and each Underwriter, severally and not jointly, agrees to purchase from the Company, at the price per share set forth in Schedule C-1, that proportion of the number of Initial Securities, which the number of Initial Securities set forth in Schedule A opposite the name of such Underwriter, plus any additional number of Initial Securities which such Underwriter may become obligated to purchase pursuant to the provisions of Section 10 hereof, bears to the total number of Initial Securities, subject, in each case, to such adjustments among the Underwriters as the Representatives in their sole discretion shall make to eliminate any sales or purchases of fractional securities.
+
+(b) Option Securities. In addition, on the basis of the representations and warranties herein contained and subject to the terms and conditions herein set forth, the Company hereby grant(s) an option to the Underwriters, severally and not jointly, to purchase up to an additional [—] shares of Common Stock, at the price per share set forth in Schedule C-1, less an amount per share equal to any dividends or distributions declared by the Company and payable on the Initial Securities but not payable on the Option Securities. The option hereby granted will expire 30 days after the date hereof and may be exercised in whole or in part from time to time only for the purpose of covering overallotments which may be made in connection with the offering and distribution of the Initial Securities upon notice by Merrill Lynch to the Company setting forth the number of Option Securities as to which the several Underwriters are then exercising the option and the time and date of payment and delivery for such Option Securities. Any such time and date of delivery (a “Date of Delivery”) shall be determined by Merrill Lynch, but shall not be later than seven full business days after the exercise of said option, nor in any event prior to the Closing Time, as hereinafter defined. If the option is exercised as to all or any portion of the Option Securities, each of the Underwriters, acting severally and not jointly, will purchase that proportion of the total number of Option Securities then being purchased which the number of Initial Securities set forth in Schedule A opposite the name of such Underwriter bears to the total number of Initial Securities, subject in each case to such adjustments as Merrill Lynch in its discretion shall make to eliminate any sales or purchases of fractional shares.
+
+(c) Payment. Payment of the purchase price for, and delivery of certificates for, the Initial Securities shall be made at the offices of Skadden, Arps, Arps, Slate, Meagher & Flom LLP located at 300 South Grand Avenue, Suite 3400, Los Angeles, CA 90071, or at such other place as shall be agreed upon by the Representatives and the Company, at [9:00 A.M. (Eastern time)] on the third (fourth, if the pricing occurs after 4:30 P.M. (Eastern time) on any given day) business day after the date hereof (unless postponed in accordance with the provisions of Section 10), or such other time not later than ten business days after such date as shall be agreed upon by the Representatives and the Company (such time and date of payment and delivery being herein called “Closing Time”).
+
+In addition, in the event that any or all of the Option Securities are purchased by the Underwriters, payment of the purchase price for such Option Securities shall be made at the above-mentioned offices, or at such other place as shall be agreed upon by the Representatives and the Company, on each Date of Delivery as specified in the notice from the Representatives to the Company.
+
+ 
+
+17
+
+
+
+Payment shall be made to the Company by wire transfer of immediately available funds to a bank account designated by the Company against delivery to the Representatives for the respective accounts of the Underwriters of the Securities to be purchased by them. It is understood that each Underwriter has authorized the Representatives, for its account, to accept delivery of, receipt for, and make payment of the purchase price for, the Initial Securities and the Option Securities, if any, which it has agreed to purchase. Merrill Lynch, individually and not as representative of the Underwriters, may (but shall not be obligated to) make payment of the purchase price for the Initial Securities or the Option Securities, if any, to be purchased by any Underwriter whose funds have not been received by the Closing Time or the relevant Date of Delivery, as the case may be, but such payment shall not relieve such Underwriter from its obligations hereunder.
+
+(d) Denominations; Registration. The Initial Securities and the Option Securities, if any, shall be in such denominations and registered in such names as the Representatives may request in writing at least one full business day before the Closing Time or the relevant Date of Delivery, as the case may be.
+
+(e) Appointment of Qualified Independent Underwriter. The Company hereby confirms its engagement of Merrill Lynch, Pierce, Fenner & Smith Incorporated as, and Merrill Lynch, Pierce, Fenner & Smith Incorporated hereby confirms its agreement with the Company to render services as, a “qualified independent underwriter” within the meaning of NASD Rule 2720 with respect to the offering and sale of the Securities. Merrill Lynch, Pierce, Fenner & Smith Incorporated, solely in its capacity as qualified independent underwriter and not otherwise, is referred to herein as the “Independent Underwriter.”
+
+SECTION 3. Covenants of the Company. The Company and ICG LP covenants with each Underwriter as follows:
+
+(a) Compliance with Securities Regulations and Commission Requests. The Company, subject to Section 3(b), will comply with the requirements of Rule 430A and will notify the Representatives immediately, and confirm the notice in writing, (i) when any post-effective amendment to the Registration Statement shall become effective, or any supplement to the Prospectus or any amended Prospectus shall have been filed, (ii) of the receipt of any comments from the Commission, (iii) of any request by the Commission for any amendment to the Registration Statement or any amendment or supplement to the Prospectus or for additional information, (iv) of the issuance by the Commission of any stop order suspending the effectiveness of the Registration Statement or of any order preventing or suspending the use of any preliminary prospectus, or of the suspension of the qualification of the Securities for offering or sale in any jurisdiction, or of the initiation or threatening of any proceedings for any of such purposes or of any examination pursuant to Section 8(e) of the 1933 Act concerning the Registration Statement and (v) if the Company becomes the subject of a proceeding under Section 8A of the 1933 Act in connection with the offering of the Securities. The Company will effect the filings required under Rule 424(b), in the manner and within the time period required by Rule 424(b) (without reliance on Rule 424(b)(8)), and will take such steps as it deems necessary to ascertain promptly whether the form of prospectus transmitted for filing under Rule 424(b) was received for filing by the Commission and, in the event that it was not, it will promptly file such prospectus. The Company will make every reasonable effort to prevent the issuance of any stop order and, if any stop order is issued, to obtain the lifting thereof as soon as practicable.
+
+(b) Filing of Amendments and Exchange Act Documents. The Company will give the Representatives notice of its intention to file or prepare any amendment to the Registration Statement (including any filing under Rule 462(b)) or any amendment, supplement or revision to either the prospectus included in the Registration Statement at the time it became effective or to the Prospectus, and will furnish the Representatives with copies of any such documents a reasonable amount of time prior to such proposed filing or use, as the case may be, and will not file or use any such document to which the
+
+ 
+
+18
+
+
+
+Representatives or counsel for the Underwriters shall object. The Company has given the Representatives notice of any filings made pursuant to the 1934 Act or 1934 Act Regulations within 48 hours prior to the Applicable Time; the Company will give the Representatives notice of its intention to make any such filing from the Applicable Time to the Closing Time and will furnish the Representatives with copies of any such documents a reasonable amount of time prior to such proposed filing, as the case may be, and will not file or use any such document to which the Representatives or counsel for the Underwriters shall object.
+
+(c) Delivery of Registration Statements. The Company has furnished or will deliver to the Representatives and counsel for the Underwriters, upon request, without charge, signed copies of the Registration Statement as originally filed and of each amendment thereto (including, in each case, exhibits filed therewith) and signed copies of all consents and certificates of experts, and will also deliver to the Representatives, upon request, without charge, a conformed copy of the Registration Statement as originally filed and of each amendment thereto (without exhibits) for each of the Underwriters. The copies of the Registration Statement and each amendment thereto furnished to the Underwriters will be identical to the electronically transmitted copies thereof filed with the Commission pursuant to EDGAR, except to the extent permitted by Regulation S-T.
+
+(d) Delivery of Prospectuses. The Company has delivered to each Underwriter, without charge, as many copies of each preliminary prospectus as such Underwriter reasonably requested, and the Company hereby consents to the use of such copies for purposes permitted by the 1933 Act. The Company will furnish to each Underwriter, without charge, during the period when the Prospectus is required to be delivered under the 1933 Act, such number of copies of the Prospectus (as amended or supplemented) as such Underwriter may reasonably request. The Prospectus and any amendments or supplements thereto furnished to the Underwriters will be identical to the electronically transmitted copies thereof filed with the Commission pursuant to EDGAR, except to the extent permitted by Regulation S-T.
+
+(e) Continued Compliance with Securities Laws. The Company will comply with the 1933 Act and the 1933 Act Regulations so as to permit the completion of the distribution of the Securities as contemplated in this Agreement and in the Prospectus. If at any time when a prospectus is required by the 1933 Act to be delivered in connection with sales of the Securities, any event shall occur or condition shall exist as a result of which it is necessary, in the opinion of counsel for the Underwriters or for the Company, to amend the Registration Statement or amend or supplement the Prospectus in order that the Prospectus will not include any untrue statements of a material fact or omit to state a material fact necessary in order to make the statements therein not misleading in the light of the circumstances existing at the time it is delivered to a purchaser, or if it shall be necessary, in the opinion of such counsel, at any such time to amend the Registration Statement or amend or supplement the Prospectus in order to comply with the requirements of the 1933 Act or the 1933 Act Regulations, the Company will promptly prepare and file with the Commission, subject to Section 3(b), such amendment or supplement as may be necessary to correct such statement or omission or to make the Registration Statement or the Prospectus comply with such requirements, and the Company will furnish to the Underwriters such number of copies of such amendment or supplement as the Underwriters may reasonably request. If at any time following issuance of an Issuer Free Writing Prospectus there occurred or occurs an event or development as a result of which such Issuer Free Writing Prospectus conflicted or would conflict with the information contained in the Registration Statement relating to the Securities or included or would include an untrue statement of a material fact or omitted or would omit to state a material fact necessary in order to make the statements therein, in the light of the circumstances, prevailing at that subsequent time, not misleading, the Company will promptly notify Merrill Lynch and will promptly amend or supplement, at its own expense, such Issuer Free Writing Prospectus to eliminate or correct such conflict, untrue statement or omission.
+
+ 
+
+19
+
+
+
+(f) Blue Sky Qualifications. The Company will use its reasonable best efforts, in cooperation with the Underwriters, to qualify the Securities for offering and sale under the applicable securities laws of such states and other jurisdictions (domestic or foreign) as the Representatives may designate and to maintain such qualifications in effect for a period of not less than one year from the later of the effective date of the Registration Statement and any Rule 462(b) Registration Statement; provided, however, that the Company shall not be obligated to file any general consent or otherwise subject itself to service of process or to qualify as a foreign corporation or as a dealer in securities in any jurisdiction in which it is not so qualified or to subject itself to taxation in respect of doing business in any jurisdiction in which it is not otherwise so subject.
+
+(g) Rule 158. The Company will timely file such reports pursuant to the 1934 Act as are necessary in order to make generally available to its securityholders as soon as practicable an earnings statement for the purposes of, and to provide to the Underwriters the benefits contemplated by, the last paragraph of Section 11(a) of the 1933 Act.
+
+(h) Use of Proceeds. The Company will use the net proceeds received by it from the sale of the Securities in the manner specified in the Prospectus under “Use of Proceeds.”
+
+(i) Listing. The Company will use its reasonable best efforts to effect the listing of the Common Stock (including the Securities) on the New York Stock Exchange.
+
+(j) Restriction on Sale of Securities. During a period of 180 days from the date of the Prospectus, the Company will not, without the prior written consent of Merrill Lynch, Pierce, Fenner & Smith Incorporated, JMP Securities LLC and Imperial Capital, LLC (i) directly or indirectly, offer, pledge, sell, contract to sell, sell any option or contract to purchase, purchase any option or contract to sell, grant any option, right or warrant to purchase or otherwise transfer or dispose of any share of Common Stock or any securities convertible into or exercisable or exchangeable for Common Stock or file any registration statement under the 1933 Act with respect to any of the foregoing or (ii) enter into any swap or any other agreement or any transaction that transfers, in whole or in part, directly or indirectly, the economic consequence of ownership of the Common Stock, whether any such swap or transaction described in clause (i) or (ii) above is to be settled by delivery of Common Stock or such other securities, in cash or otherwise. The foregoing sentence shall not apply to (A) the Securities to be sold hereunder, (B) any shares of Common Stock issued or options to purchase Common Stock granted pursuant to existing employee benefit plans of the Company referred to in the Prospectus, (C) any shares of Common Stock issued or options to purchase Common Stock granted pursuant to any non-employee director stock plan or dividend reinvestment plan, (D) the issuance of any shares of Common Stock to owners of businesses which the Company may acquire in the future, whether by merger, acquisition of assets or capital stock or otherwise, as consideration for the acquisition of such business or to management employees of such businesses in connection with all such acquisitions provided that the Representatives receive a signed lock up agreement in substantially the form of Exhibit A hereto for the balance of the 180 day restricted period (as such period may be extended as described in the immediately following sentence) from the recipients receiving Common Stock in connection with such acquisitions, (E) any registration statement on Form S-8 under the 1933 Act with respect to the foregoing clauses (B) and (C), or (F) with respect to clause (D) only, a registration statement on Form S-4 under the 1933 Act. Notwithstanding the foregoing, if (1) during the last 17 days of the 180-day restricted period the Company issues an earnings release or material news or a material event relating to the Company occurs or (2) prior to the expiration of the 180-day restricted period, the Company announces that it will release earnings results or becomes aware that material news or a material event will occur during the 16-day period beginning on the last day of the 180-day restricted period, the restrictions imposed in this clause (j) shall continue to apply until the expiration of the 18-day period beginning on the issuance of the earnings release or the occurrence of the material news or material event.
+
+ 
+
+20
+
+
+
+(k) Reporting Requirements. The Company, during the period when the Prospectus is required to be delivered under the 1933 Act, will file all documents required to be filed with the Commission pursuant to the 1934 Act within the time periods required by the 1934 Act and the rules and regulations of the Commission thereunder.
+
+(l) Compliance with FINRA Rules. The Company hereby agrees that it will ensure that the Reserved Securities will be restricted as required by the FINRA rules from sale, transfer, assignment, pledge or hypothecation for a period of three months following the date of this Agreement. The Underwriters will notify the Company as to which persons will need to be so restricted. At the request of the Underwriters, the Company will direct the transfer agent to place a stop transfer restriction upon such securities for such period of time. Should the Company release, or seek to release, from such restrictions any of the Reserved Securities, the Company agrees to reimburse the Underwriters for any reasonable expenses (including, without limitation, legal expenses) they incur in connection with such release.
+
+(m) Issuer Free Writing Prospectuses. The Company represents and agrees that, unless it obtains the prior consent of the Representatives, and each Underwriter represents and agrees that, unless it obtains the prior consent of the Company and the Representatives, it has not made and will not make any offer relating to the Securities that would constitute an “issuer free writing prospectus,” as defined in Rule 433, or that would otherwise constitute a “free writing prospectus,” as defined in Rule 405, required to be filed with the Commission. Any such free writing prospectus consented to by the Company and the Representatives is hereinafter referred to as a “Permitted Free Writing Prospectus.” The Company represents that it has treated or agrees that it will treat each Permitted Free Writing Prospectus as an “issuer free writing prospectus,” as defined in Rule 433, and has complied and will comply with the requirements of Rule 433 applicable to any Permitted Free Writing Prospectus, including timely filing with the Commission where required, legending and record keeping.
+
+(n) Contribution to ICG LP. On the first business day after the Closing Time, the Company will effect the contribution of net proceeds of this offering as contemplated in Section 3.3 of the Exchange Agreement.
+
+SECTION 4. Payment of Expenses.
+
+(a) Expenses. ICG LP will pay or cause to be paid all expenses incident to the performance of the Company and ICG LP’s obligations under this Agreement, including (i) the preparation, printing and filing of the Registration Statement (including financial statements and exhibits) as originally filed and of each amendment thereto, (ii) the preparation, printing and delivery to the Underwriters of this Agreement, any Agreement among Underwriters and such other documents as may be required in connection with the offering, purchase, sale, issuance or delivery of the Securities, (iii) if any, the preparation, issuance and delivery of the certificates for the Securities to the Underwriters, including any stock or other transfer taxes and any stamp or other duties payable upon the sale, issuance or delivery of the Securities to the Underwriters, (iv) the fees and disbursements of the Company’s counsel, accountants and other advisors, (v) the qualification of the Securities under securities laws in accordance with the provisions of Section 3(f) hereof, including filing fees and the reasonable fees and disbursements of counsel for the Underwriters in connection therewith and in connection with the preparation of the Blue Sky Survey and any supplement thereto, (vi) the printing and delivery to the Underwriters of copies of each preliminary prospectus, any Permitted Free Writing Prospectus and of the Prospectus and any amendments or supplements thereto and any costs associated with electronic delivery of any of the foregoing by the Underwriters to investors, (vii) the preparation, printing and delivery to the Underwriters of copies of the Blue Sky Survey and any supplement thereto, (viii) the fees and expenses of any transfer agent or registrar for the Securities, (ix) the costs and expenses of the Company relating to investor presentations on any “road show” undertaken in connection with the marketing of the Securities, including without
+
+ 
+
+21
+
+
+
+limitation, expenses associated with the production of road show slides and graphics, reasonable and documented fees and expenses of any consultants engaged with the consent of the Company in connection with the road show presentations, travel and lodging expenses of the representatives and officers of the Company and any such consultants, and the cost of aircraft and other transportation chartered in connection with the road show and (x) the filing fees incident to, and the reasonable fees and disbursements of counsel to the Underwriters in connection with, the review by the FINRA of the terms of the sale of the Securities (together with amounts specified in clause (v), not to exceed $140,000), (xi) the fees and expenses incurred in connection with the listing of the Securities on the New York Stock Exchange, (xii) all costs and expenses of the Underwriters, including the fees and disbursements of counsel for the Underwriters, in connection with matters related to the Reserved Securities which are designated by the Company for sale to Invitees, (xiii) the costs and expenses (including without limitation any damages or other amounts payable in connection with legal or contractual liability) associated with the reforming of any contracts for sale of the Securities made by the Underwriter caused by a breach of the representation contained in the third paragraph of Section 1(a)(i) and (xiv) the expenses of the Independent Underwriter, solely in its capacity as qualified independent underwriter and not otherwise as an Underwriter.
+
+(b) Expenses of the Historic Partners. Other than as set forth in the side letter, dated the date hereof, between the Company and ARCC Imperial Corporation, the Historic Partners, severally and not jointly, will pay all expenses incident to the performance of their respective obligations under, and the consummation of the transactions contemplated by this Agreement.
+
+(c) Termination of Agreement. If this Agreement is terminated by the Representatives in accordance with the provisions of Section 5 or Section 9(a)(i) hereof, the Company shall reimburse the Underwriters for all of their reasonably documented out-of-pocket expenses actually incurred, including the reasonable fees and disbursements of counsel for the Underwriters.
+
+(d) Allocation of Expenses. The provisions of this Section shall not affect any agreement that the Company may make for the sharing of such costs and expenses.
+
+SECTION 5. Conditions of Underwriters’ Obligations. The obligations of the several Underwriters hereunder are subject to the accuracy of the representations and warranties of the Company and the Historic Partners contained in Section 1 hereof or in certificates of any officer of the Company or any subsidiary of the Company or on behalf of any Historic Partner delivered pursuant to the provisions hereof, to the performance by the Company and ICG LP of their respective covenants and other obligations hereunder, and to the following further conditions:
+
+(a) Effectiveness of Registration Statement. The Registration Statement, including any Rule 462(b) Registration Statement, has become effective and at Closing Time no stop order suspending the effectiveness of the Registration Statement shall have been issued under the 1933 Act or proceedings therefor initiated or threatened by the Commission, and any request on the part of the Commission for additional information shall have been complied with to the reasonable satisfaction of counsel to the Underwriters. A prospectus containing the Rule 430A Information shall have been filed with the Commission in the manner and within the time frame required by Rule 424(b) without reliance on Rule 424(b)(8) or a post-effective amendment providing such information shall have been filed and declared effective in accordance with the requirements of Rule 430A.
+
+(b) Opinion of Counsel for Company. At Closing Time, the Representatives shall have received the favorable opinion, dated as of Closing Time, of Dechert LLP, counsel for the Company, in form and substance satisfactory to counsel for the Underwriters, together with signed or reproduced copies of such letter for each of the other Underwriters.
+
+ 
+
+22
+
+
+
+(c) Opinion of Counsel for ICGH LLC. At Closing Time, the Representatives shall have received the favorable opinion, dated as of Closing Time, of Dechert LLP, counsel for ICGH LLC, in form and substance satisfactory to counsel for the Underwriters, together with signed or reproduced copies of such letter for each of the other Underwriters.
+
+(d) Opinion of Counsel for Underwriters. At Closing Time, the Representatives shall have received the favorable opinion, dated as of Closing Time, of Skadden, Arps, Slate, Meagher & Flom LLP, counsel for the Underwriters, together with signed and reproduced copies of such letter for each of the other Underwriters, in form and substance satisfactory to the Underwriters.
+
+(e) Officers’ Certificates. At Closing Time, there shall not have been, since the date hereof or since the respective dates as of which information is given in the Prospectus or the General Disclosure Package, any material adverse change in the condition, financial or otherwise, or in the earnings, business affairs or business prospects of the Company, ICG LP and their subsidiaries considered as one enterprise, whether or not arising in the ordinary course of business, and the Representatives shall have received (1) a certificate of the Chief Executive Officer, President or a Vice President of the Company and of the chief financial or chief accounting officer of the Company, dated as of Closing Time, to the effect that (i) there has been no such material adverse change, (ii) the representations and warranties in Section 1(a) hereof are true and correct with the same force and effect as though expressly made at and as of Closing Time, (iii) the Company has complied in all material respects with all agreements and satisfied all conditions on its part to be performed or satisfied at or prior to Closing Time, and (iv) no stop order suspending the effectiveness of the Registration Statement has been issued and no proceedings for that purpose have been instituted or are pending or, to their knowledge, contemplated by the Commission, and (2) a certificate of an officer of ICG LP, dated as of Closing Time, to the effect that (i) there has been no such material adverse change, (ii) the representations and warranties in Section 1(a) hereof are true and correct with the same force and effect as though expressly made at and as of Closing Time, (iii) ICG LP has complied in all material respects with all agreements and satisfied all conditions on its part to be performed or satisfied at or prior to Closing Time, and (iv) no stop order suspending the effectiveness of the Registration Statement has been issued and no proceedings for that purpose have been instituted or are pending or, to their knowledge, contemplated by the Commission.
+
+(f) Certificate of Historic Partners. At Closing Time, the Representatives shall have received a certificate of each Historic Partner, dated as of Closing Time, to the effect that (i) the representations and warranties of each Historic Partner contained in Section 1(b) (or, in the case of ICGH LLC, Section 1(c)) hereof are true and correct in all respects with the same force and effect as though expressly made at and as of Closing Time and (ii) each Historic Partner has complied in all material respects with all agreements and all conditions on its part to be performed under this Agreement at or prior to Closing Time.
+
+(g) Accountant’s Comfort Letter. At the time of the execution of this Agreement, the Representatives shall have received from BDO Seidman, LLP a letter dated such date, in form and substance satisfactory to the Representatives, together with signed or reproduced copies of such letter for each of the other Underwriters containing statements and information of the type ordinarily included in accountants’ “comfort letters” to underwriters with respect to the financial statements and certain financial information contained in the Registration Statement and the Prospectus.
+
+(h) Bring-down Comfort Letter. At Closing Time, the Representatives shall have received from BDO Seidman, LLP a letter, dated as of Closing Time, to the effect that they reaffirm the statements made in the letter furnished pursuant to subsection (g) of this Section, except that the specified date referred to shall be a date not more than three business days prior to Closing Time.
+
+ 
+
+23
+
+
+
+(i) Approval of Listing. At Closing Time, the Securities shall have been approved for listing on the New York Stock Exchange, subject only to official notice of issuance.
+
+(j) No Objection. The FINRA shall have confirmed that it has not raised any objection with respect to the fairness and reasonableness of the underwriting terms and arrangements.
+
+(k) Lock-up Agreements. At the date of this Agreement, the Representatives shall have received an agreement substantially in the form of Exhibit B hereto signed by the persons listed on Schedule D hereto.
+
+(l) Completion of Reorganization Transaction. All transactions required by the terms of the Reorganization Agreements to be consummated prior to, or concurrent with, the Closing Time shall have been so consummated, and at the Closing Time ICGI Holdings, LLC shall have acquired valid title to all of each Historic Partner’s ICG LLC Membership Units free and clear of all security interests, claims, liens, equities or other encumbrances, except for the ICG LLC Membership Units to be transferred to ICGI Holdings, LLC by ICGH LLC in the Secondary Contribution (as such term is defined in the Contribution Agreement).
+
+(m) Conditions to Purchase of Option Securities. In the event that the Underwriters exercise their option provided in Section 2(b) hereof to purchase all or any portion of the Option Securities, the representations and warranties of the Company and the Historic Partners contained herein and the statements in any certificates furnished by the Company, any subsidiary of the Company and this Historic Partners hereunder shall be true and correct as of each Date of Delivery and, at the relevant Date of Delivery, the Representatives shall have received:
+
+(i) Officers’ Certificate. A certificate, dated such Date of Delivery, of the Chief Executive Officer, President or a Vice President of the Company and of the chief financial or chief accounting officer of the Company confirming that the certificate delivered at the Closing Time pursuant to Section 5(e) hereof remains true and correct as of such Date of Delivery.
+
+(ii) Historic Partners’ Certificate. A certificate, dated such Date of Delivery, on behalf of each Historic Partner confirming that the certificate delivered at the Closing Time pursuant to Section 5(f) hereof remains true and correct as of such Date of Delivery.
+
+(iii) Opinion of Counsel for Company. The favorable opinion of Dechert LLP, counsel for the Company, in form and substance satisfactory to counsel for the Underwriters, dated such Date of Delivery, relating to the Option Securities to be purchased on such Date of Delivery and otherwise to the same effect as the opinion required by Section 5(b) hereof.
+
+(iv) Opinion of Counsel for Underwriters. The favorable opinion of Skadden, Arps, Slate, Meagher & Flom LLP, counsel for the Underwriters, dated such Date of Delivery, relating to the Option Securities to be purchased on such Date of Delivery and otherwise to the same effect as the opinion required by Section 5(c) hereof.
+
+(v) Bring-down Comfort Letter. A letter from BDO Seidman, LLP, in form and substance satisfactory to the Representatives and dated such Date of Delivery, substantially in the same form and substance as the letter furnished to the Representatives pursuant to Section 5(g) hereof, except that the “specified date” in the letter furnished pursuant to this paragraph shall be a date not more than five days prior to such Date of Delivery.
+
+ 
+
+24
+
+
+
+(n) Additional Documents. At Closing Time and at each Date of Delivery counsel for the Underwriters shall have been furnished with such documents and opinions as they may require for the purpose of enabling them to pass upon the issuance and sale of the Securities as herein contemplated, or in order to evidence the accuracy of any of the representations or warranties, or the fulfillment of any of the conditions, herein contained; and all proceedings taken by the Company in connection with the issuance and sale of the Securities as herein contemplated shall be satisfactory in form and substance to the Representatives and counsel for the Underwriters.
+
+(o) Termination of Agreement. If any condition specified in this Section shall not have been fulfilled when and as required to be fulfilled, this Agreement, or, in the case of any condition to the purchase of Option Securities on a Date of Delivery which is after the Closing Time, the obligations of the several Underwriters to purchase the relevant Option Securities, may be terminated by the Representatives by notice to the Company at any time at or prior to Closing Time or such Date of Delivery, as the case may be, and such termination shall be without liability of any party to any other party except as provided in Section 4 and except that Sections 1, 6, 7 and 8 shall survive any such termination and remain in full force and effect.
+
+SECTION 6. Indemnification.
+
+(a) Indemnification of Underwriters. (1) The Company and ICG LP agree, jointly and severally, to indemnify and hold harmless each Underwriter, its affiliates, as such term is defined in Rule 501(b) under the 1933 Act (each, an “Affiliate”), its selling agents and each person, if any, who controls any Underwriter within the meaning of Section 15 of the 1933 Act or Section 20 of the 1934 Act as follows:
+
+(i) against any and all loss, liability, claim, damage and expense whatsoever, as incurred, arising out of any untrue statement or alleged untrue statement of a material fact contained in the Registration Statement (or any amendment thereto), including the Rule 430A Information or the omission or alleged omission therefrom of a material fact required to be stated therein or necessary to make the statements therein not misleading or arising out of any untrue statement or alleged untrue statement of a material fact included in any preliminary prospectus, any Issuer Free Writing Prospectus or the Prospectus (or any amendment or supplement thereto), or the omission or alleged omission therefrom of a material fact necessary in order to make the statements therein, in the light of the circumstances under which they were made, not misleading;
+
+(ii) against any and all loss, liability, claim, damage and expense whatsoever, as incurred, to the extent of the aggregate amount paid in settlement of any litigation, or any investigation or proceeding by any governmental agency or body, commenced or threatened, or of any claim whatsoever based upon any such untrue statement or omission, or any such alleged untrue statement or omission; provided that any such settlement is effected with the written consent of the Company;
+
+(iii) against any and all expense whatsoever, as incurred (including the fees and disbursements of counsel chosen by Merrill Lynch), reasonably incurred in investigating, preparing or defending against any litigation, or any investigation or proceeding by any governmental agency or body, commenced or threatened, or any claim whatsoever based upon any such untrue statement or omission, or any such alleged untrue statement or omission, to the extent that any such expense is not paid under (i) or (ii) above;
+
+provided, however, that this indemnity agreement shall not apply to any loss, liability, claim, damage or expense to the extent arising out of any untrue statement or omission or alleged untrue statement or omission made in the Registration Statement (or any amendment thereto), including the Rule 430A Information, any preliminary prospectus, the Prospectus (or any amendment or supplement thereto) or any Issuer Free Writing Prospectus in reliance upon and in conformity with the Underwriter Information.
+
+ 
+
+25
+
+
+
+(2) Each Historic Partner, severally and not jointly, agrees to indemnify and hold harmless each Underwriter, its Affiliates and selling agents and each person, if any, who controls any Underwriter within the meaning of Section 15 of the 1933 Act or Section 20 of the 1934 Act to the extent and in the manner set forth in Section 6(a)(1)(i), (ii) and (iii), and Section 6(a)(3); provided, that each Historic Partner shall be liable only to the extent of the net proceeds of this offering of Securities received by such Historic Partner pursuant to Section 3.1 of the Exchange Agreement as a result of such Historic Partner’s membership interest in ICGI Holdings, LLC; provided, further, that each Historic Partner other than ICGH LLC shall be liable only with respect to the Provided Information of such Historic Partner.
+
+(3) In addition to and without limitation of the Company’s and each Historic Partner’s obligation to indemnify Merrill Lynch, Pierce, Fenner & Smith Incorporated as an Underwriter, the Company and each Historic Partner agrees to indemnify and hold harmless the Independent Underwriter, its Affiliates and selling agents and each person, if any, who controls the Independent Underwriter within the meaning of Section 15 of the 1933 Act or Section 20 of the 1934 Act, from and against any and all loss, liability, claim, damage and expense whatsoever, as incurred, incurred as a result of the Independent Underwriter’s participation as a “qualified independent underwriter” within the meaning of FINRA Rule 5110 in connection with the offering of the Securities; provided, that each Historic Partner shall be liable only to the extent of the net proceeds of this offering of Securities received by such Historic Partner pursuant to Section 3.1 of the Exchange Agreement as a result of such Historic Partner’s membership interest in ICGI Holdings, LLC; provided, further, that each Historic Partner other than ICGH LLC shall be liable only with respect to the Provided Information of such Historic Partner.
+
+(4) Insofar as this indemnity agreement may permit indemnification for liabilities under the 1933 Act of any person who is a partner of an Underwriter or who controls an underwriter within the meaning of Section 15 of the 1933 Act or Section 20 of the 1934 Act and who, at the date of this Agreement, is a director or officer of the Company or controls the Company within the meaning of Section 15 of the 1933 Act or Section 20 of the 1934 Act, such indemnity agreement is subject to the undertaking of the Company in the Registration Statement under Item 17 thereof.
+
+(b) Indemnification of Company, Directors and Officers, and Historic Partners. Each Underwriter severally agrees to indemnify and hold harmless the Company, its directors, each of its officers who signed the Registration Statement, the Historic Partners, and each person, if any, who controls the Company or a Historic Partner within the meaning of Section 15 of the 1933 Act or Section 20 of the 1934 Act against any and all loss, liability, claim, damage and expense described in the indemnity contained in subsection (a)(1) of this Section, as incurred, but only with respect to untrue statements or omissions, or alleged untrue statements or omissions, made in the Registration Statement (or any amendment thereto), including the Rule 430A Information or any preliminary prospectus, any Issuer Free Writing Prospectus or the Prospectus (or any amendment or supplement thereto) in reliance upon and in conformity with the Underwriter Information.
+
+(c) Actions against Parties; Notification. Each indemnified party shall give notice as promptly as reasonably practicable to each indemnifying party of any action commenced against it in respect of which indemnity may be sought hereunder, but failure to so notify an indemnifying party shall not relieve such indemnifying party from any liability hereunder to the extent it is not materially prejudiced as a result thereof and in any event shall not relieve it from any liability which it may have otherwise than on account of this indemnity agreement. In the case of parties indemnified pursuant to Section 6(a)(1) above, counsel to the indemnified parties shall be selected by Merrill Lynch, and, in the case of parties indemnified pursuant to Section 6(a)(2) above, counsel to the indemnified parties shall be selected by the
+
+ 
+
+26
+
+
+
+Company. An indemnifying party may participate at its own expense in the defense of any such action; provided, however, that counsel to the indemnifying party shall not (except with the consent of the indemnified party) also be counsel to the indemnified party. In no event shall the indemnifying parties be liable for fees and expenses of more than one counsel (in addition to any local counsel) separate from their own counsel for all indemnified parties in connection with any one action or separate but similar or related actions in the same jurisdiction arising out of the same general allegations or circumstances; provided, that, if indemnity is sought pursuant to Section 6(a)(3), then, in addition to the fees and expenses of such counsel for the indemnified parties, the indemnifying party shall be liable for the reasonable fees and expenses of not more than one counsel (in addition to any local counsel) separate from its own counsel and that of the other indemnified parties for the Independent Underwriter in its capacity as a “qualified independent underwriter” and all persons, if any, who control the Independent Underwriter within the meaning of Section 15 of the 1933 Act or Section 20 of 1934 Act in connection with any one action or separate but similar or related actions in the same jurisdiction arising out of the same general allegations or circumstances if, in the reasonable judgment of the Independent Underwriter, there may exist a conflict of interest between the Independent Underwriter and the other indemnified parties. Any such separate counsel for the Independent Underwriter and such control persons of the Independent Underwriter shall be designated in writing by the Independent Underwriter. No indemnifying party shall, without the prior written consent of the indemnified parties, settle or compromise or consent to the entry of any judgment with respect to any litigation, or any investigation or proceeding by any governmental agency or body, commenced or threatened, or any claim whatsoever in respect of which indemnification or contribution could be sought under this Section 6 or Section 7 hereof (whether or not the indemnified parties are actual or potential parties thereto), unless such settlement, compromise or consent (i) includes an unconditional release of each indemnified party from all liability arising out of such litigation, investigation, proceeding or claim and (ii) does not include a statement as to or an admission of fault, culpability or a failure to act by or on behalf of any indemnified party.
+
+(d) Settlement without Consent if Failure to Reimburse. If at any time an indemnified party shall have requested an indemnifying party to reimburse the indemnified party for fees and expenses of counsel, such indemnifying party agrees that it shall be liable for any settlement of the nature contemplated by Section 6(a)(1) or settlement of any claim in connection with any violation referred to in Section 6(e) effected without its written consent if (i) such settlement is entered into more than 45 days after receipt by such indemnifying party of the aforesaid request, (ii) such indemnifying party shall have received notice of the terms of such settlement at least 30 days prior to such settlement being entered into and (iii) such indemnifying party shall not have reimbursed such indemnified party in accordance with such request prior to the date of such settlement, unless such failure to reimburse the indemnified party is based on a dispute with a good faith basis as to either the obligation of the indemnifying party arising under this Section 6 to indemnify the indemnified party or the amount of such obligation and the indemnifying party shall have notified the indemnified party of such good faith dispute prior to the date of such settlement
+
+(e) Indemnification for Reserved Securities. In connection with the offer and sale of the Reserved Securities, the Company agrees to indemnify and hold harmless the Underwriters, their Affiliates and selling agents and each person, if any, who controls any Underwriter within the meaning of either Section 15 of the 1933 Act or Section 20 of the 1934 Act, from and against any and all loss, liability, claim, damage and expense (including, without limitation, any legal or other expenses reasonably incurred in connection with defending, investigating or settling any such action or claim), as incurred, (i) arising out of the violation of any applicable laws or regulations of foreign jurisdictions where Reserved Securities have been offered; (ii) arising out of any untrue statement or alleged untrue statement of a material fact contained in any prospectus wrapper or other material prepared by or with the consent of the Company for distribution to Invitees in connection with the offering of the Reserved Securities or caused by any omission or alleged omission to state therein a material fact required to be
+
+ 
+
+27
+
+
+
+stated therein or necessary to make the statements therein not misleading; (iii) caused by the failure of any Invitee to pay for and accept delivery of Reserved Securities which have been orally confirmed for purchase by any Invitee by 8:00 a.m. Eastern Time on the first business day after the date of the Agreement; or (iv) related to, or arising out of or in connection with, the offering of the Reserved Securities.
+
+SECTION 7. Contribution. If the indemnification provided for in Section 6 hereof is for any reason unavailable to or insufficient to hold harmless an indemnified party in respect of any losses, liabilities, claims, damages or expenses referred to therein, then each indemnifying party shall contribute to the aggregate amount of such losses, liabilities, claims, damages and expenses incurred by such indemnified party, as incurred, (i) in such proportion as is appropriate to reflect the relative benefits received by the Company and the Historic Partners on the one hand and the Underwriters on the other hand from the offering of the Securities pursuant to this Agreement or (ii) if the allocation provided by clause (i) is not permitted by applicable law, in such proportion as is appropriate to reflect not only the relative benefits referred to in clause (i) above but also the relative fault of the Company on the one hand and of the Underwriters (other than Imperial Capital, LLC) on the other hand in connection with the statements or omissions, or in connection with any violation of the nature referred to in Section 6(e) hereof, which resulted in such losses, liabilities, claims, damages or expenses, as well as any other relevant equitable considerations.
+
+The relative benefits received by the Company and the Historic Partners on the one hand and the Underwriters on the other hand in connection with the offering of the Securities pursuant to this Agreement shall be deemed to be in the same respective proportions as the total net proceeds from the offering of the Securities pursuant to this Agreement (before deducting expenses) received by the Company and the total underwriting discount received by the Underwriters, in each case as set forth on the cover of the Prospectus bear to the aggregate initial public offering price of the Securities as set forth on the cover of the Prospectus.
+
+The relative fault of the Company and the Historic Partners on the one hand and the Underwriters on the other hand shall be determined by reference to, among other things, whether any such untrue or alleged untrue statement of a material fact or omission or alleged omission to state a material fact relates to information supplied by the Company or the Historic Partners or by the Underwriters (other than Imperial Capital, LLC) and the parties’ relative intent, knowledge, access to information and opportunity to correct or prevent such statement or omission or any violation of the nature referred to in Section 6(f) hereof.
+
+The Company, the Historic Partners and the Underwriters agree that Merrill Lynch, Pierce, Fenner & Smith Incorporated will not receive any additional benefits hereunder for serving as the Independent Underwriter in connection with the offering and sale of the Securities.
+
+The Company, the Historic Partners and the Underwriters agree that it would not be just and equitable if contribution pursuant to this Section 7 were determined by pro rata allocation (even if the Underwriters were treated as one entity for such purpose) or by any other method of allocation which does not take account of the equitable considerations referred to above in this Section 7. The aggregate amount of losses, liabilities, claims, damages and expenses incurred by an indemnified party and referred to above in this Section 7 shall be deemed to include any legal or other expenses reasonably incurred by such indemnified party in investigating, preparing or defending against any litigation, or any investigation or proceeding by any governmental agency or body, commenced or threatened, or any claim whatsoever based upon any such untrue or alleged untrue statement or omission or alleged omission.
+
+ 
+
+28
+
+
+
+Notwithstanding the provisions of this Section 7, (a) no Underwriter shall be required to contribute any amount in excess of the amount by which the total price at which the Securities underwritten by it and distributed to the public were offered to the public exceeds the amount of any damages which such Underwriter has otherwise been required to pay by reason of any such untrue or alleged untrue statement or omission or alleged omission; and (b) no Historic Partner shall be required to contribute any amount in excess of the amount by which the amount received by it as a result of this Agreement exceeds the amount of any damages which such Historic Partner has otherwise been required to pay by reason of any such alleged untrue statement or omission or alleged omission.
+
+No person guilty of fraudulent misrepresentation (within the meaning of Section 11(f) of the 1933 Act) shall be entitled to contribution from any person who was not guilty of such fraudulent misrepresentation.
+
+For purposes of this Section 7, each person, if any, who controls an Underwriter within the meaning of Section 15 of the 1933 Act or Section 20 of the 1934 Act and each Underwriter’s Affiliates and selling agents shall have the same rights to contribution as such Underwriter, and each director of the Company, each officer of the Company who signed the Registration Statement, and each person, if any, who controls the Company or a Historic Partner within the meaning of Section 15 of the 1933 Act or Section 20 of the 1934 Act shall have the same rights to contribution as the Company and the Historic Partners. The Underwriters’ respective obligations to contribute pursuant to this Section 7 are several in proportion to the number of Initial Securities set forth opposite their respective names in Schedule A hereto and not joint.
+
+SECTION 8. Representations, Warranties and Agreements to Survive. All representations, warranties and agreements contained in this Agreement or in certificates of officers of the Company or any of its subsidiaries submitted pursuant hereto, shall remain operative and in full force and effect regardless of (i) any investigation made by or on behalf of any Underwriter or its Affiliates or selling agents, any person controlling any Underwriter, its officers or directors, any person controlling the Company and (ii) delivery of and payment for the Securities.
+
+SECTION 9. Termination of Agreement.
+
+(a) Termination; General. The Representatives may terminate this Agreement, by notice to the Company, at any time at or prior to Closing Time (i) if there has been, since the time of execution of this Agreement or since the respective dates as of which information is given in the Prospectus or General Disclosure Package, any material adverse change in the condition, financial or otherwise, or in the earnings, business affairs or business prospects of the Company and its subsidiaries considered as one enterprise, whether or not arising in the ordinary course of business, or (ii) if there has occurred any material adverse change in the financial markets in the United States or the international financial markets, any outbreak of hostilities or escalation thereof or other calamity or crisis or any change or development involving a prospective change in national or international political, financial or economic conditions, in each case the effect of which is such as to make it, in the judgment of the Representatives, impracticable or inadvisable to market the Securities or to enforce contracts for the sale of the Securities, or (iii) if trading in any securities of the Company has been suspended or materially limited by the Commission or the New York Stock Exchange, or if trading generally on the American Stock Exchange or the New York Stock Exchange or in the Nasdaq Global Market has been suspended or materially limited, or minimum or maximum prices for trading have been fixed, or maximum ranges for prices have been required, by any of said exchanges or by such system or by order of the Commission, the FINRA or any other governmental authority, or (iv) a material disruption has occurred in commercial banking or securities settlement or clearance services in the United States, or (v) if a banking moratorium has been declared by either Federal or New York authorities.
+
+ 
+
+29
+
+
+
+(b) Liabilities. If this Agreement is terminated pursuant to this Section, such termination shall be without liability of any party to any other party except as provided in Section 4 hereof, and provided further that Sections 1, 6, 7 and 8 shall survive such termination and remain in full force and effect.
+
+SECTION 10. Default by One or More of the Underwriters. If one or more of the Underwriters shall fail at Closing Time or a Date of Delivery to purchase the Securities which it or they are obligated to purchase under this Agreement (the “Defaulted Securities”), the Representatives shall have the right, within 24 hours thereafter, to make arrangements for one or more of the non-defaulting Underwriters, or any other underwriters, to purchase all, but not less than all, of the Defaulted Securities in such amounts as may be agreed upon and upon the terms herein set forth; if, however, the Representatives shall not have completed such arrangements within such 24-hour period, then:
+
+(i) if the number of Defaulted Securities does not exceed 10% of the number of Securities to be purchased on such date, each of the non-defaulting Underwriters shall be obligated, severally and not jointly, to purchase the full amount thereof in the proportions that their respective underwriting obligations hereunder bear to the underwriting obligations of all non-defaulting Underwriters, or
+
+(ii) if the number of Defaulted Securities exceeds 10% of the number of Securities to be purchased on such date, this Agreement or, with respect to any Date of Delivery which occurs after the Closing Time, the obligation of the Underwriters to purchase and of the Company to sell the Option Securities to be purchased and sold on such Date of Delivery shall terminate without liability on the part of any non-defaulting Underwriter.
+
+No action taken pursuant to this Section shall relieve any defaulting Underwriter from liability in respect of its default.
+
+In the event of any such default which does not result in a termination of this Agreement or, in the case of a Date of Delivery which is after the Closing Time, which does not result in a termination of the obligation of the Underwriters to purchase and the Company to sell the relevant Option Securities, as the case may be, either the (i) Representatives or (ii) the Company shall have the right to postpone Closing Time or the relevant Date of Delivery, as the case may be, for a period not exceeding seven days in order to effect any required changes in the Registration Statement or Prospectus or in any other documents or arrangements. As used herein, the term “Underwriter” includes any person substituted for an Underwriter under this Section 10.
+
+SECTION 11. Tax Disclosure. Notwithstanding any other provision of this Agreement, immediately upon commencement of discussions with respect to the transactions contemplated hereby, the Company (and each employee, representative or other agent of the Company) may disclose to any and all persons, without limitation of any kind, the tax treatment and tax structure of the transactions contemplated by this Agreement and all materials of any kind (including opinions or other tax analyses) that are provided to the Company relating to such tax treatment and tax structure. For purposes of the foregoing, the term “tax treatment” is the purported or claimed federal income tax treatment of the transactions contemplated hereby, and the term “tax structure” includes any fact that may be relevant to understanding the purported or claimed federal income tax treatment of the transactions contemplated hereby.
+
+SECTION 12. Notices. All notices and other communications hereunder shall be in writing and shall be deemed to have been duly given if mailed or transmitted by any standard form of telecommunication. Notices to the Underwriters shall be directed to the Representatives at 4 World Financial Center, New York, New York 10080, attention of — and notices to the Company or the Historic Partners shall be directed to 2000 Avenue of the Stars, 9th Floor, South Tower, Los Angeles, CA 90067, attention of Jason Reese, Chief Executive Officer.
+
+ 
+
+30
+
+
+
+SECTION 13. No Advisory or Fiduciary Relationship. The Company and each of the Historic Partners acknowledges and agrees that (a) the purchase and sale of the Securities pursuant to this Agreement, including the determination of the public offering price of the Securities and any related discounts and commissions, is an arm’s-length commercial transaction between the Company, on the one hand, and the several Underwriters, on the other hand, (b) in connection with the offering contemplated hereby and the process leading to such transaction each Underwriter is and has been acting solely as a principal and is not the agent or fiduciary of the Company or the Historic Partners, or each of their respective stockholders, creditors, employees or any other party, (c) no Underwriter has assumed or will assume an advisory or fiduciary responsibility in favor of the Company or any Historic Partner with respect to the offering contemplated hereby or the process leading thereto (irrespective of whether such Underwriter has advised or is currently advising the Company on other matters) and no Underwriter has any obligation to the Company with respect to the offering contemplated hereby except the obligations expressly set forth in this Agreement, (d) the Underwriters and their respective affiliates may be engaged in a broad range of transactions that involve interests that differ from those of each of the Company, and (e) the Underwriters have not provided any legal, accounting, regulatory or tax advice with respect to the offering contemplated hereby and the Company has consulted its own respective legal, accounting, regulatory and tax advisors to the extent it deemed appropriate.
+
+SECTION 14. Parties. This Agreement shall each inure to the benefit of and be binding upon the Underwriters, the Company, and the Historic Partners and their respective successors. Nothing expressed or mentioned in this Agreement is intended or shall be construed to give any person, firm or corporation, other than the Underwriters, the Company, and the Historic Partners and their respective successors and the controlling persons and officers and directors referred to in Sections 6 and 7 and their heirs and legal representatives, any legal or equitable right, remedy or claim under or in respect of this Agreement or any provision herein contained. This Agreement and all conditions and provisions hereof are intended to be for the sole and exclusive benefit of the Underwriters, the Company, and the Historic Partners and their respective successors, and said controlling persons and officers and directors and their heirs and legal representatives, and for the benefit of no other person, firm or corporation. No purchaser of Securities from any Underwriter shall be deemed to be a successor by reason merely of such purchase.
+
+SECTION 15. Trial by Jury. The Company and the Historic Partners (each, on its behalf and, to the extent permitted by applicable law, on behalf of its stockholders and affiliates) and each of the Underwriters hereby irrevocably waives, to the fullest extent permitted by applicable law, any and all right to trial by jury in any legal proceeding arising out of or relating to this Agreement or the transactions contemplated hereby.
+
+SECTION 16. GOVERNING LAW. THIS AGREEMENT SHALL BE GOVERNED BY AND CONSTRUED IN ACCORDANCE WITH THE LAWS OF THE STATE OF NEW YORK.
+
+SECTION 17. TIME. TIME SHALL BE OF THE ESSENCE OF THIS AGREEMENT. EXCEPT AS OTHERWISE SET FORTH HEREIN, SPECIFIED TIMES OF DAY REFER TO NEW YORK CITY TIME.
+
+SECTION 18. Counterparts. This Agreement may be executed in any number of counterparts, each of which shall be deemed to be an original, but all such counterparts shall together constitute one and the same Agreement.
+
+ 
+
+31
+
+
+
+SECTION 19. Effect of Headings. The Section headings herein are for convenience only and shall not affect the construction hereof.
+
+ 
+
+32
+
+
+
+If the foregoing is in accordance with your understanding of our agreement, please sign and return to the Company a counterpart hereof, whereupon this instrument, along with all counterparts, will become a binding agreement among the Underwriters and the Company in accordance with its terms.
+
+ 
+
+
+
+
+
+
+
+
+
+Very truly yours,
+
+
+
+IMPERIAL CAPITAL GROUP, INC.
+
+
+
+
+
+By
+
+ 
+
+ 
+
+
+
+
+
+ 
+
+Title:
+
+
+
+IMPERIAL CAPITAL GROUP, LLC
+
+
+
+
+
+By
+
+ 
+
+ 
+
+
+
+
+
+ 
+
+Title:
+
+
+
+
+
+By
+
+ 
+
+ 
+
+
+
+
+
+ 
+
+[Name of Historic Partner]
+
+ 
+
+
+
+
+
+
+
+CONFIRMED AND ACCEPTED,
+
+as of the date first above written:
+
+
+
+MERRILL LYNCH, PIERCE, FENNER & SMITH
+
+          INCORPORATED
+
+JMP SECURITIES LLC
+
+IMPERIAL CAPITAL, LLC
+
+KEEFE, BRUYETTE & WOODS, INC.
+
+SANDLER O’NEILL & PARTNERS, L.P.
+
+
+
+
+
+By:
+
+ 
+
+MERRILL LYNCH, PIERCE, FENNER & SMITH
+
+          INCORPORATED
+
+
+
+
+
+By
+
+ 
+
+ 
+
+
+
+
+
+ 
+
+Authorized Signatory
+
+For themselves and as Representatives of the other Underwriters named in Schedule A hereto.
+
+ 
+
+33

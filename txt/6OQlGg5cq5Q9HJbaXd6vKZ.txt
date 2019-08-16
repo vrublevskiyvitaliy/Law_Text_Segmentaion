@@ -1,0 +1,277 @@
+EXHIBIT 10.3
+
+CHANGE OF CONTROL AGREEMENT
+
+AMENDMENT NO. 1
+
+Name
+
+Address
+
+City, State
+
+Dear Name:
+
+This Amendment No. 1 (“Amendment”) to your Change of Control Agreement is entered into effective (except as explicitly provided below) this xxth day of xx, 200x, between you and Dole Food Company, Inc. (“Dole”). This Amendment amends the terms of the Change of Control Agreement, dated xxth day of xx, 200x, between you and Dole (the “Agreement”). Except as explicitly set forth in this Amendment, the Agreement will remain in full force and effect. The capitalized terms used in this Amendment either are defined in the Agreement or otherwise are defined in the body of this Amendment.
+
+In consideration of your continued employment with Dole and other good and valuable consideration, you and Dole agree as follows:
+
+1. Section 4 of the Agreement is hereby amended by deleting the existing clause (b) thereof and replacing it with the following:
+
+“(b) such release becoming effective and irrevocable in accordance with its terms, within 90 days after the date of Termination.”
+
+2. The Agreement is hereby amended to add a new section 5 as follows with all subsequent sections and cross-references renumbered accordingly:
+
+“5. Employee Covenants.
+
+     (a) Unauthorized Disclosure. You shall not, during the term of this Agreement and thereafter, make any Unauthorized Disclosure. For purposes of this Agreement, “Unauthorized Disclosure” shall mean:
+
+
+
+ 
+
+1)
+
+ 
+
+your disclosure (without the prior written consent of Dole)
+
+ 
+
+ 
+
+2)
+
+ 
+
+to any person (other than an employee of Dole or a Dole subsidiary or a person to whom disclosure is reasonably necessary or appropriate in connection with your performance of your duties as an employee and/or officer of Dole or a Dole subsidiary)
+
+ 
+
+ 
+
+3)
+
+ 
+
+of any confidential information relating to the business or prospects of Dole (including, but not limited to, any confidential information with respect to any of Dole’s customers, products, methods of distribution, strategies, business and marketing plans and business policies and practices),
+
+ 
+
+ 
+
+4)
+
+ 
+
+except (i) to the extent disclosure is or may be required by law, by a court of law or by any governmental agency or other person or entity with apparent jurisdiction to require you to divulge, disclose or make available such information or (ii) in confidence to an attorney or other advisor for
+
+1
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+the purpose of securing professional advice concerning your personal matters provided such attorney or other advisor agrees to observe these confidentiality provisions;
+
+
+
+ 
+
+5)
+
+ 
+
+provided, however, that Unauthorized Disclosure shall not include your use or disclosure, without consent, of any information known generally to the public or known within Dole’s trade or industry (other than as a result of disclosure by you in violation of this section 5(a)).
+
+This covenant has no temporal, geographical or territorial restriction.
+
+     (b) Conflict of Interest. During the period of your employment with Dole or a Dole subsidiary, you shall not, directly or indirectly, without the prior written consent of Dole:
+
+
+
+ 
+
+1)
+
+ 
+
+own, manage, operate, join, control, be employed by, consult with or participate in the ownership, management, operation or control of, or be connected with (as a stockholder, partner, or otherwise),
+
+ 
+
+ 
+
+2)
+
+ 
+
+any business, individual, partner, firm, corporation or other entity that competes, directly or indirectly, with Dole;
+
+ 
+
+ 
+
+3)
+
+ 
+
+provided, however, that your “beneficial ownership” (as that term is defined in Rule 13d-3 under the Exchange Act), either individually or as a member of a “group” for purposes of Section 13(d)(3) under the Exchange Act and the regulations promulgated thereunder, of not more than two percent (2%) of the voting stock of any publicly-held corporation shall not be a violation of this Agreement.
+
+     (c) Non-Solicitation. During the period of your employment with Dole or a Dole subsidiary and for a period of twenty-four (24) months following immediately thereafter (the “Restricted Period”), you shall not, either directly or indirectly, alone or in conjunction with another person:
+
+
+
+ 
+
+1)
+
+ 
+
+interfere with or harm, or attempt to interfere with or harm, the relationship of Dole, with any person who at any time was an employee, consultant, supplier, licensor, licensee, contractor, agent, strategic partner, distributor or customer of Dole or a subsidiary of Dole or otherwise had a business relationship with Dole; or
+
+ 
+
+ 
+
+2)
+
+ 
+
+solicit, induce or recruit the employment or services of (whether as an employee, officer, director, agent, consultant or independent contractor), except as otherwise agreed to in writing by Dole, any individual who, at the time of such solicitation, inducement or recruitment, was an employee, officer, director, or individual serving as agent, consultant or independent contractor of Dole or a subsidiary of Dole.
+
+     (d) Remedies.
+
+
+
+ 
+
+1)
+
+ 
+
+You acknowledge that you have carefully read and considered all the terms and conditions of this Agreement, including the restraints imposed upon you pursuant to this section 5.
+
+
+
+ 
+
+2)
+
+ 
+
+You acknowledge that Dole hereby notifies you that each of these restraints are necessary for the protection of the goodwill, confidential information, trade secrets and other legitimate interests of Dole; and you agree that each of these restraints is reasonable in respect to subject matter, length of time and geographic area, and that these restraints will
+
+2
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+not prevent you from obtaining other suitable employment during the period in which you are bound by such restraints.
+
+
+
+ 
+
+3)
+
+ 
+
+You acknowledge that Dole hereby notifies you that any breach of the terms of this section 5 would result in irreparable injury and damage to Dole for which Dole would have no adequate remedy at law; and you agree that in the event of said breach or any threat of breach, Dole shall be entitled to seek an immediate injunction and restraining order to prevent such breach and/or threatened breach by you and/or any and all persons and/or entities acting for and/or with you, without having to prove damages or posting a bond, in addition to any other remedies to which Dole may be entitled at law or in equity. Should a court or arbitrator determine, however, that any provision of this section 5 is unreasonable, either in period of time, geographical area, or otherwise, the parties hereto agree that such provision should be interpreted and enforced to the maximum extent which such court or arbitrator deems reasonable.
+
+ 
+
+ 
+
+4)
+
+ 
+
+The provisions of this section 5 shall survive any termination of this Agreement or your employment with Dole, and the existence of any claim or cause of action by you against Dole, whether predicated on this Agreement or otherwise, shall not constitute a defense to the enforcement by Dole of the covenants and agreements of this section 5; provided, however, that this paragraph shall not, in and of itself, preclude you from defending yourself against the enforceability of the covenants and agreements of this section 5.”
+
+3. The Agreement is hereby amended to add a new section 17 to the end thereof as follows:
+
+“17. Section 409A Compliance.
+
+     (a) The parties agree that this Agreement is intended to comply with the requirements of Section 409A of the Internal Revenue Code of 1986, as amended (the “Code”) and the regulations and guidance promulgated thereunder (“Section 409A”) or an exemption from Section 409A. The Agreement shall be administered and interpreted so as to avoid a “plan failure” within the meaning of Code Section 409A. However, no guarantee or commitment is made that the Agreement shall be administered in accordance with the requirements of Code Section 409A, with respect to amounts that are subject to Section 409A, or that it shall be administered in a manner that avoids the application of Code Section 409A, with respect to amounts that are not subject to Section 409A.
+
+     (b) A termination of employment shall not be deemed to have occurred for purposes of any provision of this Agreement providing for the payment of any amounts or benefits upon or following a termination of employment unless such termination is also a “separation from service” within the meaning of Section 409A and, for purposes of any such provision of this Agreement, references to a “termination,” “termination of employment” or like terms shall mean “separation from service.” If you are deemed on the date of termination to be a “specified employee” within the meaning of that term under Section 409A(a)(2)(B) of the Code, then with regard to any payment or the provision of any benefit (whether under this Agreement or otherwise) that is considered deferred compensation under Section 409A payable on account of a “separation from
+
+3
+
+
+
+
+
+ 
+
+
+
+
+
+service,” and that is not exempt from Section 409A as involuntary separation pay or a short-term deferral (or otherwise), such payment or benefit shall be made or provided at the date which is the earlier of (i) the expiration of the six (6)-month period measured from the date of your “separation from service” or (ii) the date of your death (the “Delay Period”). Upon the expiration of the Delay Period, all payments and benefits delayed pursuant to this section 17(b) (whether they would have otherwise been payable in a single sum or in installments in the absence of such delay) shall be paid or reimbursed to you in a lump sum, and any remaining payments and benefits due under this Agreement shall be paid or provided in accordance with the normal payment dates specified for them herein.
+
+     (c) With regard to any provision herein that provides for reimbursement of costs and expenses or in-kind benefits, except as permitted by Section 409A of the Code, all such payments shall be made on or before the last day of calendar year following the calendar year in which the expense occurred.
+
+     (d) Each payment made under this Agreement shall be treated as a “separate payment” within the meaning of Section 409A.”
+
+4. The definition of the term “Good Reason” in Appendix I of the Agreement is hereby amended by deleting the existing clause (g) thereof and replacing it with the following:
+
+“(g) The failure of Dole or any successor to continue in effect any equity-based or non-equity based incentive compensation plan (whether annual or long-term) in effect immediately prior to the Change of Control Date, or a non de minimis reduction, in the aggregate, in your participation in any such plans (based upon (1) in the case of equity based plans, the average grant date fair value of your awards under such plans over the three years preceding the Change of Control Date (or such lesser period following the Dole’s initial public offering that you were employed by Dole or any successor) or (2) in the case of non-equity based plans, your target award under such plans for the performance period in which the Change of Control Date occurs), unless you are afforded the opportunity to participate in an alternative incentive compensation plan of reasonably equivalent value; provided that a reduction in the aggregate value of your participation in any such plans of not more than 5% in connection with across-the-board reductions or modifications affecting all executives with Change of Control Agreements containing terms substantially identical to your Agreement shall not constitute Good Reason (all determinations under this clause (g) shall be made in good faith by the corporate compensation and benefits committee of the board of directors of Dole or any successor in its sole discretion); or
+
+(h) Any reduction in the aggregate value of benefits provided to you, as in effect on the Change of Control Date; provided that a reduction in the aggregate value of benefits of not more than 5% in connection with across-the-board reductions or modifications affecting all executives with Change of Control Agreements containing terms substantially identical to your Agreement shall not constitute Good Reason. All determinations under this clause (h) shall be made in good faith by the corporate compensation and benefits committee of the board of directors of Dole or any successor in its sole discretion. As used herein, “benefits” shall include all deferred compensation,
+
+4
+
+
+
+
+
+ 
+
+
+
+
+
+retirement, pension, health, medical, dental, disability, insurance, automobile, and similar benefits.”
+
+5. For the avoidance of doubt, you and Dole agree that the consummation of the initial public offering of the Corporation’s common stock shall not be considered a Change of Control or Fundamental Transaction for any purpose under the Agreement.
+
+6 Effective as of the second anniversary of the date of this Amendment, Exhibit A to the Agreement is hereby amended by deleting the third paragraph following clause (h) thereof and replacing it with the following:
+
+“Notwithstanding anything to the contrary provided in any plans or agreements of Dole pursuant to which you were granted options to purchase shares of Dole’s common stock and/or other equity-based compensation awards, all of your unvested options and/or other equity-based compensation awards granted pursuant to such plans or agreements (whenever granted) shall be deemed to vest immediately prior to the first time that one or both of the following conditions are satisfied: (i) a Change of Control occurs and the acquiring or surviving company in the transaction does not assume or continue your outstanding awards in connection with the Change of Control; or (ii) a Qualified Termination occurs, and, in either case, neither the Board of Directors of Dole nor any committee thereof nor any other Person shall have any discretion, right or power whatsoever to block, delay or impose any condition upon such vesting. For the avoidance of doubt and not by way of limitation of the foregoing, if a Qualified Termination occurs pursuant to the last sentence of section 1(a) of this Agreement, all of your unvested options and/or other equity-based compensation awards shall vest hereunder immediately prior to the effectiveness or consummation of the Fundamental Transaction or the Asset Sale but not at any earlier time.”
+
+7. Section 1 of Exhibit B to the Agreement is hereby amended to add the following new sentence to the end thereof:
+
+“Any Gross-Up Payment or other payment payable under this Exhibit B shall be paid to you promptly and in no event later than the end of the first quarter of the calendar year next following the calendar year in which the related tax is paid by you.”
+
+Please indicate your acceptance of and agreement to the terms of this Amendment by signing and dating below, where indicated, and returning a signed copy to us.
+
+Sincerely,
+
+DOLE FOOD COMPANY, INC.
+
+Title:                                         
+
+Agreed and Accepted:
+
+                                        Date:                           	           
+
+5

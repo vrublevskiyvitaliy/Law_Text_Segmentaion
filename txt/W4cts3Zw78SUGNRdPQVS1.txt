@@ -1,0 +1,419 @@
+Exhibit 10.2
+
+FORM OF LONG-TERM INCENTIVE AWARD AGREEMENT
+
+UNDER THE 1993 STOCK INCENTIVE PLAN
+
+NOTE: The following form of Long-Term Incentive Award Agreement is the form used for awards to corporate-level employees. In the Long-Term Incentive Award Agreements for employees who work exclusively for the Company’s Metals Recycling Business or Auto Parts Business, the ROCE Payout Factor in Section 2.3 is based 100% on the MRB/APB ROCE Payout Factor, all references to the SMB ROCE Payout Factor are omitted, and various conforming language changes are made. In the Long-Term Incentive Award Agreements for employees who work exclusively for the Company’s Steel Manufacturing Business, the ROCE Payout Factor in Section 2.3 is based 100% on the SMB ROCE Payout Factor, all references to the MRB/APB ROCE Payout Factor are omitted and various conforming language changes are made.
+
+SCHNITZER STEEL INDUSTRIES, INC.
+
+LONG-TERM INCENTIVE AWARD AGREEMENT
+
+(FY 20    -20     Performance Period)
+
+On              , 20    , the Compensation Committee (the “Committee”) of the Board of Directors (the “Board”) of Schnitzer Steel Industries, Inc. (the “Company”) authorized and granted a performance-based award to                      (“Recipient”) pursuant to Section 11 of the Company’s 1993 Stock Incentive Plan (the “Plan”). Compensation paid pursuant to the award is intended to qualify as performance-based compensation under Section 162(m) of the Internal Revenue Code of 1986 (the “Code”). By accepting this award, Recipient agrees to all of the terms and conditions of this Agreement.
+
+1. Award. Subject to the terms and conditions of this Agreement, the Company shall issue to the Recipient the number of shares of Class A Common Stock of the Company (“Performance Shares”) determined under this Agreement based on (a) the performance of the Company during the three-year period from September 1, 20     to August 31, 20     (the “Performance Period”) as described in Section 2, and (b) Recipient’s continued employment during the Performance Period as described in Section 3. Recipient’s “Target Share Amount” for purposes of this Agreement is          shares.
+
+2. Performance Conditions.
+
+2.1 Payout Factor. Subject to adjustment under Sections 3, 4, 5 and 6, the number of Performance Shares to be issued to Recipient shall be determined by multiplying the Payout Factor by the Target Share Amount. The “Payout Factor” shall be equal to the sum of (a) 50% of the EPS Payout Factor as determined under Section 2.2 below, plus (b) 50% of the ROCE Payout Factor as determined under Section 2.3 below.
+
+
+
+2.2 EPS Payout Factor.
+
+2.2.1 The “EPS Payout Factor” shall be equal to the average of the Annual EPS Payout Factors determined for each of the three fiscal years of the Performance Period. The “Annual EPS Payout Factor” for each applicable fiscal year shall be determined under the table below based on the Adjusted EPS of the Company for the fiscal year.
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fiscal 20    
+
+Adjusted EPS
+
+ 
+
+Fiscal 20    
+
+Adjusted EPS
+
+ 
+
+Fiscal 20    
+
+Adjusted EPS
+
+ 
+
+Annual EPS
+
+Payout Factor
+
+Less than $        
+
+ 
+
+Less than $        
+
+ 
+
+Less than $        
+
+ 
+
+0%
+
+$        
+
+ 
+
+$        
+
+ 
+
+$        
+
+ 
+
+    %
+
+$        
+
+ 
+
+$        
+
+ 
+
+$        
+
+ 
+
+100%
+
+$         or more
+
+ 
+
+$         or more
+
+ 
+
+$         or more
+
+ 
+
+200%
+
+If the Adjusted EPS for any fiscal year is between any two data points set forth in the applicable column of the above table for that fiscal year, the Annual EPS Payout Factor shall be determined by interpolation between the corresponding data points in the fourth column of the table as follows: the difference between the Adjusted EPS and the lower data point shall be divided by the difference between the higher data point and the lower data point, the resulting fraction shall be multiplied by the difference between the two corresponding data points in the fourth column of the table, and the resulting product shall be added to the lower corresponding data point in the fourth column of the table, with the resulting sum being the Annual EPS Payout Factor.
+
+2.2.2 The Company’s “Adjusted EPS” for any fiscal year of the Performance Period shall mean the Company’s diluted earnings per share for that fiscal year, before extraordinary items and cumulative effects of changes in accounting principles, if any, as set forth in the audited consolidated financial statements of the Company and its subsidiaries for that fiscal year, and as adjusted in accordance with Section 2.4 below.
+
+2.3 ROCE Payout Factor.
+
+2.3.1 The “ROCE Payout Factor” shall be equal to the sum of (a) the MRB/APB Weight (as defined below) multiplied by the MRB/APB ROCE Payout Factor as determined under Section 2.3.2 below, plus (b) the SMB Weight (as defined below) multiplied by the SMB ROCE Payout Factor as determined under Section 2.3.3 below. The “SMB Weight” shall be equal to a fraction, the numerator of which is the Three-Year ACE of the Company’s Steel Manufacturing Business (“SMB”) and the denominator of which is the sum of the Three-Year ACE of SMB and the Three-Year ACE of the Company’s Metals Recycling Business (“MRB”) and the Three-Year ACE of the Company’s Auto Parts Business (“APB”). The “MRB/APB Weight” shall be equal to one (1) minus the SMB Weight. The “Three-Year ACE” for each business shall mean the average of thirteen (13) numbers consisting of the business’s Capital Employed as of the last day of the Performance Period and as of the last day of the twelve preceding fiscal quarters. Subject to adjustment in accordance with Section 2.4 below, “Capital Employed” for each business as of any date shall mean (i) the business’s total assets, minus (ii) the business’s total liabilities other than debt for borrowed money and capital lease obligations, plus (iii) its intercompany payable balances, minus (iv) its intercompany receivable balances, in each case as set forth in the consolidated financial statements of the Company and its subsidiaries as of the applicable date or otherwise determined from the Company’s accounting records on a consistent basis.
+
+ 
+
+2
+
+
+
+2.3.2 MRB/APB ROCE Payout Factor.
+
+2.3.2.1 The “MRB/APB ROCE Payout Factor” shall be equal to the average of the Annual MRB/APB ROCE Payout Factors for each of the three fiscal years of the Performance Period. The “Annual MRB/APB ROCE Payout Factor” for each fiscal year shall be determined under the table below based on the MRB/APB ROCE for the fiscal year.
+
+ 
+
+
+
+
+
+
+
+MRB/APB ROCE
+
+ 
+
+Annual
+
+MRB/APB ROCE
+
+Payout Factor
+
+Less than     %
+
+ 
+
+0%
+
+    %
+
+ 
+
+    %
+
+    %
+
+ 
+
+    %
+
+    %
+
+ 
+
+100%
+
+    %
+
+ 
+
+    %
+
+    % or more
+
+ 
+
+200%
+
+If the MRB/APB ROCE is between any two data points set forth in the first column of the above table, the Annual MRB/APB ROCE Payout Factor shall be determined by interpolation between the corresponding data points in the second column of the table as follows: the difference between the MRB/APB ROCE and the lower data point shall be divided by the difference between the higher data point and the lower data point, the resulting fraction shall be multiplied by the difference between the two corresponding data points in the second column of the table, and the resulting product shall be added to the lower corresponding data point in the second column of the table, with the resulting sum being the Annual MRB/APB ROCE Payout Factor.
+
+2.3.2.2 The “MRB/APB ROCE” for any fiscal year shall be equal to the sum of the Adjusted Operating Income of MRB for that fiscal year and the Adjusted Operating Income of APB for that fiscal year divided by the sum of the Average Capital Employed of MRB for that fiscal year and the Average Capital Employed of APB for that fiscal year. “Adjusted Operating Income” for each business for any fiscal year shall mean the business’s segment operating income for that fiscal year as set forth in the audited consolidated financial statements of the Company and its subsidiaries for the year, adjusted in accordance with Section 2.4 below, and then reduced by the Company’s effective tax rate for the fiscal year as determined from the audited consolidated statement of operations of the Company and its subsidiaries for the year. “Average Capital Employed” for each business for any fiscal year shall mean the average of five (5) numbers consisting of the business’s Capital Employed as of the last day of the fiscal year and as of the last day of the four preceding fiscal quarters.
+
+2.3.3 SMB ROCE Payout Factor.
+
+2.3.3.1 The “SMB ROCE Payout Factor” shall be equal to the average of the Annual SMB ROCE Payout Factors determined for each of the three fiscal years of the Performance Period. The “Annual SMB ROCE Payout Factor” for each applicable fiscal year shall be determined under the table below based on the SMB ROCE for the fiscal year.
+
+ 
+
+3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fiscal 20    
+
+SMB ROCE
+
+ 
+
+Fiscal 20    
+
+SMB ROCE
+
+ 
+
+Fiscal 20    
+
+SMB ROCE
+
+ 
+
+Annual SMB ROCE
+
+Payout Factor
+
+Less than     %
+
+ 
+
+Less than     %
+
+ 
+
+Less than     %
+
+ 
+
+0%
+
+    %
+
+ 
+
+    %
+
+ 
+
+    %
+
+ 
+
+    %
+
+    %
+
+ 
+
+    %
+
+ 
+
+    %
+
+ 
+
+100%
+
+    % or more
+
+ 
+
+    % or more
+
+ 
+
+    % or more
+
+ 
+
+200%
+
+If the SMB ROCE for any fiscal year is between any two data points set forth in the applicable column of the above table for that fiscal year, the Annual SMB ROCE Payout Factor shall be determined by interpolation between the corresponding data points in the fourth column of the table as follows: the difference between the SMB ROCE and the lower data point shall be divided by the difference between the higher data point and the lower data point, the resulting fraction shall be multiplied by the difference between the two corresponding data points in the fourth column of the table, and the resulting product shall be added to the lower corresponding data point in the fourth column of the table, with the resulting sum being the Annual SMB ROCE Payout Factor.
+
+2.3.3.2 The “SMB ROCE” for any fiscal year shall be equal to the Adjusted Operating Income of SMB for that fiscal year divided by the Average Capital Employed of SMB for that fiscal year.
+
+2.4 Adjustments.
+
+2.4.1 Change in Accounting Principle. If the Company implements a change in accounting principle during the Performance Period either as a result of issuance of new accounting standards or otherwise, and the effect of the accounting change was not reflected in the Company’s business plan at the time of approval of this award, then the Adjusted EPS and the Adjusted Operating Income and Capital Employed of each business for each affected period shall be adjusted to eliminate the impact of the change in accounting principle.
+
+2.4.2 Other Adjustments. [additional adjustments as approved by Compensation Committee for each grant]
+
+3. Employment Condition.
+
+3.1 Full Payout. In order to receive the full number of Performance Shares determined under Section 2, Recipient must be employed by the Company on the October 31 immediately following the end of the Performance Period (the “Vesting Date”).
+
+3.2 Retirement; Termination Without Cause After 12 Months. If Recipient’s employment with the Company is terminated at any time prior to the Vesting Date because of retirement (as defined in paragraph 6(a)(iv)(D) of the Plan), or if Recipient’s employment is terminated by the Company without Cause (as defined below) after the end of the 12th month of the Performance Period and prior to the Vesting Date, Recipient shall be entitled to receive a pro-rated award to be paid following completion of the Performance Period. The number of
+
+ 
+
+4
+
+
+
+Performance Shares to be issued as a pro-rated award under this Section 3.2 shall be determined by multiplying the number of Performance Shares determined under Section 2 by a fraction, the numerator of which is the number of days Recipient was employed by the Company since the beginning of the Performance Period and the denominator of which is the number of days in the period from the beginning of the Performance Period to the Vesting Date. Any obligation of the Company to issue a pro-rated award under this Section 3.2 shall be subject to and conditioned upon the execution and delivery by Recipient of a Release of Claims in such form as may be requested by the Company. For purposes of this Section 3.2, “Cause” shall mean (a) the conviction (including a plea of guilty or nolo contendere) of Recipient of a felony involving theft or moral turpitude or relating to the business of the Company, other than a felony predicated on Recipient’s vicarious liability, (b) Recipient’s continued failure or refusal to perform with reasonable competence and in good faith any of the lawful duties assigned by (or any lawful directions of) the Company that are commensurate with Recipient’s position with the Company (not resulting from any illness, sickness or physical or mental incapacity), which continues after the Company has given notice thereof (and a reasonable opportunity to cure) to Recipient, (c) deception, fraud, misrepresentation or dishonesty by Recipient in connection with Recipient’s employment with the Company, (d) any incident materially compromising Recipient’s reputation or ability to represent the Company with the public, (e) any willful misconduct by Recipient that substantially impairs the Company’s business or reputation, or (f) any other willful misconduct by Recipient that is clearly inconsistent with Recipient’s position or responsibilities.
+
+3.3 Death or Disability. If Recipient’s employment with the Company is terminated at any time prior to the Vesting Date because of death or disability, Recipient shall be entitled to receive a pro-rated award to be paid as soon as reasonably practicable following such event. The term “disability” means a medically determinable physical or mental condition of Recipient resulting from bodily injury, disease, or mental disorder which is likely to continue for the remainder of Recipient’s life and which renders Recipient incapable of performing the job assigned to Recipient by the Company or any substantially equivalent replacement job. For purposes of calculating the pro-rated award under this Section 3.3, the EPS Payout Factor and the ROCE Payout Factor shall both be calculated as if the Performance Period ended on the last day of the Company’s most recently completed fiscal quarter prior to the date of death or disability. For this purpose, the Adjusted EPS for any partial fiscal year shall be annualized (e.g., multiplied by 4/3 if the partial period is three quarters) before determining the Annual EPS Payout Factor for that fiscal year, and the EPS Payout Factor shall be determined by averaging however many full and partial fiscal years for which an Annual EPS Payout Factor shall have been determined. Also for this purpose, the Adjusted Operating Income of MRB and APB for any partial fiscal year shall be annualized and the Average Capital Employed of MRB and APB shall be determined based on the average of its Capital Employed as of the last day of only those quarters that have been completed, before determining the Annual MRB/APB ROCE Payout Factor for that partial fiscal year, and the MRB/APB ROCE Payout Factor shall be determined by averaging however many full and partial fiscal years for which an Annual MRB/APB ROCE Payout Factor shall have been determined. Also for this purpose, the Adjusted Operating Income of SMB for any partial fiscal year shall be annualized and the Average Capital Employed of SMB shall be determined based on the average of its Capital Employed as of the last day of only those quarters that have been completed, before determining the Annual SMB ROCE Payout Factor for that partial fiscal year, and the SMB ROCE Payout Factor shall be determined by averaging however many full and partial fiscal years for which an Annual SMB ROCE Payout Factor shall have been determined. The number of Performance Shares to be issued as a pro-rated
+
+ 
+
+5
+
+
+
+award under this Section 3.3 shall be determined by multiplying the number of Performance Shares determined after applying the modifications described in the preceding sentences by a fraction, the numerator of which is the number of days Recipient was employed by the Company since the beginning of the Performance Period and the denominator of which is the number of days in the period from the beginning of the Performance Period to the Vesting Date.
+
+3.4 Other Terminations. If Recipient’s employment by the Company is terminated at any time prior to the Vesting Date and neither Section 3.2 nor Section 3.3 applies to such termination, Recipient shall not be entitled to receive any Performance Shares.
+
+4. Company Sale.
+
+4.1 If a Company Sale (as defined below) occurs before the Vesting Date, Recipient shall be entitled to receive an award payout no later than the earlier of fifteen (15) days following such event or the last day on which the Performance Shares could be issued so that Recipient may participate as a shareholder in receiving proceeds from the Company Sale. The amount of the award payout under this Section 4.1 shall be the amount determined using a Payout Factor equal to the greater of (a) 100%, or (b) the Payout Factor calculated as if the Performance Period ended on the last day of the Company’s most recently completed fiscal quarter prior to the date of the Company Sale. For this purpose, the Adjusted EPS for any partial fiscal year shall be annualized (e.g., multiplied by 4/3 if the partial period is three quarters) before determining the Annual EPS Payout Factor for that fiscal year, and the EPS Payout Factor shall be determined by averaging however many full and partial fiscal years for which an Annual EPS Payout Factor shall have been determined. Also for this purpose, the Adjusted Operating Income of MRB and APB for any partial fiscal year shall be annualized and the Average Capital Employed of MRB and APB shall be determined based on the average of its Capital Employed as of the last day of only those quarters that have been completed, before determining the Annual MRB/APB ROCE Payout Factor for that partial fiscal year, and the MRB/APB ROCE Payout Factor shall be determined by averaging however many full and partial fiscal years for which an Annual MRB/APB ROCE Payout Factor shall have been determined. Also for this purpose, the Adjusted Operating Income of SMB for any partial fiscal year shall be annualized and the Average Capital Employed of SMB shall be determined based on the average of its Capital Employed as of the last day of only those quarters that have been completed, before determining the Annual SMB ROCE Payout Factor for that partial fiscal year, and the SMB ROCE Payout Factor shall be determined by averaging however many full and partial fiscal years for which an Annual SMB ROCE Payout Factor shall have been determined.
+
+4.2 For purposes of this Agreement, a “Company Sale” shall mean the occurrence of any of the following events:
+
+4.2.1 any consolidation, merger or plan of share exchange involving the Company (a “Merger”) in which the Company is not the continuing or surviving corporation or pursuant to which outstanding shares of Class A Common Stock would be converted into cash, other securities or other property; or
+
+4.2.2 any sale, lease, exchange or other transfer (in one transaction or a series of related transactions) of all, or substantially all, the assets of the Company.
+
+ 
+
+6
+
+
+
+4.3 If an SMB Sale (as defined below) occurs before the end of the Performance Period, Recipient shall be entitled to receive a modified award to be paid following completion of the Performance Period. The amount of the award payout under this Section 4.3 shall be determined in accordance with the other provisions of this Agreement, except that the SMB ROCE Payout Factor shall be calculated as if the Performance Period ended on the last day of the Company’s most recently completed fiscal quarter prior to the date of the SMB Sale. For this purpose, the Adjusted Operating Income of SMB for any partial fiscal year shall be annualized and the Average Capital Employed of SMB shall be determined based on the average of its Capital Employed as of the last day of only those quarters that have been completed, before determining the Annual SMB ROCE Payout Factor for that partial fiscal year, and the SMB ROCE Payout Factor shall be determined by averaging however many full and partial fiscal years for which an Annual SMB ROCE Payout Factor shall have been determined. An “SMB Sale” shall mean a sale by the Company of all of the stock of Cascade Steel Rolling Mills, Inc. or the sale of all or substantially all of the assets of Cascade Steel Rolling Mills, Inc.
+
+5. Certification and Payment. As soon as practicable following the completion of the audit of the Company’s consolidated financial statements for the final fiscal year of the Performance Period, the Company shall calculate the Payout Factor and the corresponding number of Performance Shares issuable to Recipient. This calculation shall be submitted to the Committee. No later than the Vesting Date the Committee shall certify in writing (which may consist of approved minutes of a Committee meeting) the levels of Adjusted EPS, MRB/APB ROCE and SMB ROCE attained by the Company for the Performance Period and the number of Performance Shares issuable to Recipient based on such performance. Subject to applicable tax withholding, the number of Performance Shares so certified shall be issued to Recipient as soon as practicable following the Vesting Date, but no Performance Shares shall be issued prior to certification. No fractional shares shall be issued and the number of Performance Shares deliverable shall be rounded to the nearest whole share. In the event of the death or disability of Recipient as described in Section 3.3 or a Company Sale as described in Section 4, each of which requires an award payout earlier than the Vesting Date, a similar calculation and certification process shall be followed within the time frames required by those sections.
+
+6. Tax Withholding. Recipient acknowledges that, on the date the Performance Shares are issued to Recipient (the “Payment Date”), the Value (as defined below) on that date of the Performance Shares will be treated as ordinary compensation income for federal and state income and FICA tax purposes, and that the Company will be required to withhold taxes on these income amounts. To satisfy the required minimum withholding amount, the Company shall withhold the number of Performance Shares having a Value equal to the minimum withholding amount. For purposes of this Section 6, the “Value” of a Performance Share shall be equal to the closing market price for Class A Common Stock on the last trading day preceding the Payment Date.
+
+7. Changes in Capital Structure. If the outstanding Class A Common Stock of the Company is hereafter increased or decreased or changed into or exchanged for a different number or kind of shares or other securities of the Company by reason of any stock split, combination of shares or dividend payable in shares, recapitalization or reclassification, appropriate adjustment shall be made by the Committee in the number and kind of shares subject to this Agreement so that the Recipient’s proportionate interest before and after the occurrence of the event is maintained.
+
+ 
+
+7
+
+
+
+8. Approvals. The obligations of the Company under this Agreement are subject to the approval of state, federal or foreign authorities or agencies with jurisdiction in the matter. The Company will use its reasonable best efforts to take steps required by state, federal or foreign law or applicable regulations, including rules and regulations of the Securities and Exchange Commission and any stock exchange on which the Company’s shares may then be listed, in connection with the award evidenced by this Agreement. The foregoing notwithstanding, the Company shall not be obligated to deliver Class A Common Stock under this Agreement if such delivery would violate or result in a violation of applicable state or federal securities laws.
+
+9. No Right to Employment. Nothing contained in this Agreement shall confer upon Recipient any right to be employed by the Company or to continue to provide services to the Company or to interfere in any way with the right of the Company to terminate Recipient’s services at any time for any reason, with or without cause.
+
+10. Miscellaneous.
+
+10.1 Entire Agreement. This Agreement constitutes the entire agreement of the parties with regard to the subjects hereof.
+
+10.2 Notices. Any notice required or permitted under this Agreement shall be in writing and shall be deemed sufficient when delivered personally to the party to whom it is addressed or when deposited into the United States Mail as registered or certified mail, return receipt requested, postage prepaid, addressed to the Company, Attention: Corporate Secretary, at its principal executive offices or to Recipient at the address of Recipient in the Company’s records, or at such other address as such party may designate by ten (10) days’ advance written notice to the other party.
+
+10.3 Assignment; Rights and Benefits. Recipient shall not assign this Agreement or any rights hereunder to any other party or parties without the prior written consent of the Company. The rights and benefits of this Agreement shall inure to the benefit of and be enforceable by the Company’s successors and assigns and, subject to the foregoing restriction on assignment, be binding upon Recipient’s heirs, executors, administrators, successors and assigns.
+
+10.4 Further Action. The parties agree to execute such instruments and to take such action as may reasonably be necessary to carry out the intent of this Agreement.
+
+10.5 Applicable Law; Attorneys’ Fees. The terms and conditions of this Agreement shall be governed by the laws of the State of Oregon. In the event either party institutes litigation hereunder, the prevailing party shall be entitled to reasonable attorneys’ fees to be set by the trial court and, upon any appeal, the appellate court.
+
+ 
+
+
+
+
+
+
+
+
+
+SCHNITZER STEEL INDUSTRIES, INC.
+
+
+
+
+
+By
+
+ 
+
+ 
+
+
+
+Title
+
+ 
+
+ 
+
+
+
+ 
+
+8

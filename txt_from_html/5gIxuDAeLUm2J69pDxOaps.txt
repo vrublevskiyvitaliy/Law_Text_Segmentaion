@@ -1,0 +1,936 @@
+Exhibit 10.8
+
+
+WILLIS GROUP HOLDINGS
+2001 NORTH AMERICA EMPLOYEE SHARE PURCHASE PLAN
+
+
+(AS AMENDED AND RESTATED ON DECEMBER 30, 2009 BY WILLIS GROUP HOLDINGS LIMITED
+AND AS AMENDED AND RESTATED AND ASSUMED BY WILLIS GROUP HOLDINGS PUBLIC LIMITED COMPANY ON DECEMBER 31, 2009)
+
+
+1. Purpose of the Plan
+
+
+     The purpose of the Plan is to give eligible employees of the Subsidiaries of Willis Group
+Holdings Public Limited Company in the United States of America and Canada the ability to benefit
+from the added interest that such employees will have in the welfare of the Company as a result of
+their increased equity interest in that Company.
+
+
+2. Section 423 of the Code
+
+
+     The Plan is intended to qualify as an employee stock purchase plan within the meaning of
+Section 423 of the Code or any successor section thereto. Accordingly, all Participants shall have
+the same rights and privileges under the Plan, subject to any exceptions that are permitted under
+Section 423(b)(5) of the Code. Any provision of the Plan that is inconsistent with Section 423 of
+the Code or any successor provision shall, without further act or amendment, be reformed to comply
+with the requirements of Section 423. This Section 2 shall take precedence over all other
+provisions in the Plan.
+
+
+3. Definitions
+
+
+     The following capitalized terms used in the Plan have the respective meanings set forth in
+this Section:
+
+
+
+
+
+ 
+(a)
+ 
+Act: The U.S. Securities Exchange Act of 1934, as amended, or any
+successor thereto.
+
+
+ 
+
+ 
+(b)
+ 
+Board: The Board of Directors of the Company or a duly authorized
+committee of the Board.
+
+
+ 
+
+ 
+(c)
+ 
+Change in Control: such term means (i) the acquisition of ownership,
+directly or indirectly, beneficially or of record, by any Person or group (within the
+meaning of the Securities Exchange Act of 1934 and the rules of the Securities and
+Exchange Commission there under as in effect on the date hereof) of the common shares
+of the Company representing more than 50% of the aggregate voting power represented by
+the issued and outstanding common shares of the Company; or (ii) occupation of a
+majority of the seats (other than vacant seats) on the Board by Persons who were
+neither (x) nominated by the Companys Board nor (y) appointed by directors so
+nominated.
+
+
+ 
+
+ 
+ 
+ 
+For the avoidance of doubt, a transaction shall not constitute a Change in Control
+(i) if effected for the purpose of changing the place of incorporation or form of
+organization of the ultimate parent entity of the Willis Group (including where the
+Company is succeeded by an issuer incorporated under the laws of another state,
+country or foreign government for such purpose and whether or not the Company
+remains in existence following such transaction) and (ii) where all or substantially
+all of the Person(s) who are the beneficial owners of the outstanding voting
+securities of the Company immediately prior to such transaction will beneficially
+own, directly or indirectly, all or substantially all of the combined voting power
+of the outstanding voting securities entitled to vote generally in the election of
+directors of the ultimate parent entity resulting from such transaction in
+substantially the same proportions as their ownership, immediately prior to such
+transaction, of such outstanding securities of the Company. The Board, in its sole
+discretion, may make an appropriate and equitable adjustment to the Shares
+underlying an Option to take into account such transaction, including to substitute
+or provide for the issuance of shares of the resulting ultimate parent entity in
+lieu of Shares of the Company.
+
+
+ 
+
+ 
+(d)
+ 
+Code: The Internal Revenue Code of 1986, as amended, or any successor
+thereto.
+
+
+ 
+
+ 
+(e)
+ 
+Companies Act: The Companies Act 1963 of Ireland.
+
+
+
+
+
+
+
+
+
+
+
+ 
+(f)
+ 
+Company: Willis Group Holdings Public Limited Company, a company
+organized under the laws of Ireland under registered number 475616.
+
+
+ 
+
+ 
+(g)
+ 
+Compensation: Base salary, AIP and office profit bonuses or other
+miscellaneous bonuses as defined in the payroll system, commissions, production
+incentives, overtime and shift pay, in each case prior to reductions for pre-tax
+contributions made to a plan or salary reduction contributions to a plan excludable
+from income under Section 125 of the Code. Notwithstanding the foregoing, Compensation
+shall exclude any other form of remuneration not listed above including, severance pay,
+stay-on bonuses, long-term bonuses, retirement income, change-in-control payments,
+contingent payments, income derived from share options, share appreciation rights and
+other equity-based compensation and other forms of special remuneration.
+
+
+ 
+
+ 
+(h)
+ 
+Disability: Inability to engage in any substantial gainful activity by
+reason of a medically determinable physical or mental impairment which constitutes a
+permanent and total disability, as defined in Section 22(e)(3) of the Code (or any
+successor section thereto). The determination whether a Participant has suffered a
+Disability shall be made by the Board based upon such evidence as it deems necessary
+and appropriate. A Participant shall not be considered disabled unless he or she
+furnishes such medical or other evidence of the existence of the Disability as the
+Board, in its sole discretion, may require.
+
+
+ 
+
+ 
+(i)
+ 
+Disqualifying Disposition: As such term is defined in Section 11(h) of
+the Plan.
+
+
+ 
+
+ 
+(j)
+ 
+Effective Date: The date on which the Plan was originally adopted by
+the Board of Directors of Willis Group Holdings Limited, subject to shareholder
+approval as defined pursuant to Section 22 of the Plan.
+
+
+ 
+
+ 
+(k)
+ 
+Fair Market Value: On a given date, the closing bid price of the Shares
+as reported on such date on the Composite Tape of the principal national securities
+exchange on which such Shares are listed or admitted to trading, or, if no Composite
+Tape exists for such national securities exchange on such date, then the closing bid
+price on the first date on which it is otherwise reported on the principal national
+securities exchange on which such Shares are listed or admitted to trading, or, if the
+Shares are not listed or admitted on a national securities exchange, the closing bid
+price of the Shares on such date as quoted on the National Association of Securities
+Dealers Automated Quotation System (or such market in which such prices are regularly
+quoted), or, if there is no market on which the Shares are regularly quoted, the Fair
+Market Value shall be the value established by the Board in good faith. If no sale of
+Shares shall have been reported on such Composite Tape or such national securities
+exchange on such date or quoted on the National Association of Securities Dealer
+Automated Quotation System on such date, then the immediately preceding date on which
+sales of the Shares have been so reported or quoted shall be used. For purposes of the
+Plans first Offering Period, the Fair Market Value of the Shares on the Offering Date
+shall be their offering price in the Initial Public Offering.
+
+
+ 
+
+ 
+(l)
+ 
+Group: A group as such term is used in Sections 13(d) and 14(d) of
+the Exchange Act, acting in concert.
+
+
+ 
+
+ 
+(m)
+ 
+Initial Public Offering: The initial offer for sale of Shares to the
+public pursuant to the effective registration statement on Form F-1 filed under the
+Act.
+
+
+ 
+
+ 
+(n)
+ 
+Maximum Share Amount: Subject to Section 423 of the Code, the maximum
+number of Shares that a Participant may purchase in any given Offering Period or for
+any given year shall be determined by the Board; provided however, the maximum number
+of Shares that a Participant may purchase for any given year is U.S. $25,000 worth of
+Shares (as determined as of each Offering Date) in each calendar year during which an
+option is granted to such Participant.
+
+
+ 
+
+
+ 
+
+ 
+(o)
+ 
+Offering Date: The first date of an Offering Period.
+
+
+
+
+
+
+
+
+
+
+
+ 
+(p)
+ 
+Offering Period: An offering period described in Section 6 of the Plan.
+
+
+ 
+
+ 
+(q)
+ 
+Option: A share option granted pursuant to Section 9 of the Plan.
+
+
+ 
+
+ 
+(r)
+ 
+Participant: An individual who is eligible to participate in the Plan
+pursuant to Section 7 of the Plan.
+
+
+ 
+
+ 
+(s)
+ 
+Participating Subsidiary: A Subsidiary of the Company that is selected
+to participate in the Plan by the Committee in its sole discretion.
+
+
+ 
+
+ 
+(t)
+ 
+Payroll Deduction Account: An account to which payroll deductions of
+Participants are credited under Section 11(c) of the Plan.
+
+
+ 
+
+ 
+(u)
+ 
+Person: As such term is used for purposes of Section 13(d) or 14(d) of
+the Act (or any successor section thereto).
+
+
+ 
+
+ 
+(v)
+ 
+Plan: The Willis Group Holdings 2001 North America Employee Share
+Purchase Plan, as amended and restated on December 30, 2009 by Willis Group Holdings Limited and as
+amended and restated and assumed by Willis Group Holdings Public Limited Company on December 31,
+2009.
+
+
+ 
+
+ 
+(w)
+ 
+Plan Broker: A stock brokerage or other financial services firm
+designated by the Board in its sole discretion.
+
+
+ 
+
+ 
+(x)
+ 
+ Purchase Date: The last date of an Offering Period.
+
+
+ 
+
+ 
+(y)
+ 
+Purchase Price: The purchase price per Share, as determined pursuant to Section 10 of the Plan.
+
+
+ 
+
+ 
+(z)
+ 
+Shares: Ordinary shares of the Company.
+
+
+ 
+
+ 
+(aa)
+ 
+Subsidiary: A subsidiary corporation as defined in Section
+424(f) of the Code (or any successor section thereto) which is also a subsidiary within
+the meaning of Section 155 of the Companies Act.
+
+
+ 
+
+ 
+(bb)
+ 
+Willis Group: The Company and its Subsidiaries.
+
+
+
+
+4. Shares Subject to the Plan
+
+
+     Subject to the adjustment provision in Section 14 of the Plan, the total number of Shares
+which shall be made available for sale under the Plan shall be 1,000,000 Shares to be allocated
+among Offering Periods as the Board shall determine. If the Board determines that, on a given
+Purchase Date, the number of Shares with respect to which Options are to be exercised may exceed
+(i) the number of Shares available for sale under the Plan on the Offering Date of the applicable
+Offering Period or (ii) the number of Shares available for sale under the Plan on such Purchase
+Date, the Board may in its sole discretion provide (x) that the Company shall make a pro rata
+allocation of the Shares available for purchase on such Offering Date or Purchase Date, as
+applicable, in as uniform manner as shall be practicable and as it shall determine in its sole
+discretion to be equitable among all participants exercising options to purchase Shares on such
+Purchase Date, and continue all Offering Periods then in effect or (y) that the Company shall make
+a pro rata allocation of the Shares available for purchase on such Offering Date or Purchase Date,
+as applicable, in as uniform a manner as shall be practicable and as it shall determine in its sole
+discretion to be equitable among all participants exercising options to purchase Shares on such
+Purchase Date, and terminate any or all Offering Periods then in effect. The Company may make pro
+rata allocation of the Shares available on the Offering Date of any applicable Offering Period
+pursuant to the preceding sentence, notwithstanding any authorization of Additional Shares (defined
+below) for issuance under the Plan by the Companys shareholders subsequent to such Offering Date.
+The Shares may consist, in whole or in part, of unissued Shares, treasury Shares or Shares
+purchased on the open market. The issuance of Shares pursuant to the Plan shall reduce the total
+number of Shares available under the Plan.
+
+
+5. Administration of the Plan and Administrative Fees
+
+
+     The Plan shall be administered by the Board, which may delegate its duties and powers in whole
+or in part to any subcommittee thereof. The Board is authorized to interpret the Plan, to
+establish, amend and rescind any rules and regulations relating to the Plan, and to make any other
+determinations that it deems necessary or desirable for the administration of the Plan. The Board
+may correct any defect or supply any omission or reconcile any inconsistency in the Plan in the
+manner and to the extent the Board deems necessary or desirable. Any decision of the Board in the
+interpretation and administration of the Plan, as described herein, shall lie within its sole and
+absolute discretion and shall be final, conclusive and binding on all parties concerned (including,
+but not limited to, Participants and their beneficiaries or successors). Subject to any applicable
+law, the Board may delegate its duties and powers under the Plan to such persons, board of
+directors of subsidiaries or committees thereof as it designates in it sole discretion. The Board
+may impose reasonable administrative fees on Participants to defray the administrative costs of the
+Plan, which shall in no event exceed the actual administrative costs of the Plan. At least
+annually, each Participant will receive a copy of the Companys financial statement.
+
+
+6. Offering Periods
+
+
+     The Plan shall be implemented by a series of Offering Periods of six (6) months duration,
+with new Offering Periods commencing on the date determined by the Board. The first Offering
+Period shall commence on the effective date of the registration statement on Form S-8 covering the
+Plan, filed shortly after the effective date of the registration statement on Form F-1 relating to
+the Initial Public Offering and continue to and including August 31, 2001. The Plan shall
+continue until terminated in accordance with Section 17 hereof. Notwithstanding the foregoing, the
+Board may change the duration, frequency and/or commencement of any Offering Period, subject to the
+limitations under Section 423 of the Code and all applicable state, local and foreign laws.
+
+
+7. Eligibility
+
+
+
+
+
+ 
+(a)
+ 
+Any individual whose (i) customary employment by a Participating Subsidiary is
+more than 20 hours per week, (ii) customary employment by a Participating Subsidiary is
+for more than five (5) months in any calendar year; and (iii) employment by a
+Participating Subsidiary has continued for more than 3 months prior to the beginning of
+an Offering Period, is eligible to participate in the Plan commencing with that
+Offering Period. Notwithstanding the foregoing, the Board shall have discretion, in
+subsequent Offering Periods, to exclude from the Plan one or more of the following
+categories of employees:
+
+
+
+
+
+
+
+ 
+(1)
+ 
+employees who have not been continuously employed by a
+Participating Subsidiary for such period (not to exceed two years) as the Board
+may determine, ending on the Offering Date;
+
+
+ 
+
+ 
+(2)
+ 
+employees whose customary employment is 20 hours or less per
+week;
+
+
+ 
+
+ 
+(3)
+ 
+employees whose customary employment is for not more than five
+(5) months in any calendar year; and
+
+
+ 
+
+ 
+(4)
+ 
+highly compensated employees.
+
+
+
+
+
+
+
+ 
+(b)
+ 
+In no event shall an employee be granted an option under the Plan if,
+immediately after the grant, such Employee (or any other person whose share would be
+attributed to such employee pursuant to Section 424(d) of the Code) would own capital
+stock of the Company and/or hold outstanding options to purchase shares possessing five
+percent (5%) or more of the total combined voting power or value of all classes of
+ shares of the Company or of any subsidiary of the Company.
+
+
+
+
+8. Participation in the Plan
+
+
+     The Board shall set forth procedures pursuant to which Participants may elect to participate
+in a given Offering Period under the Plan. For the first Offering Period, Participants will have a
+period of days measured from
+
+
+the Offering Date which period will be set by the Board to elect to participate in said
+Offering Period under the Plan. Once a Participant elects to participate in an Offering Period,
+such employee shall automatically participate in all subsequent Offering Periods, unless the
+employee (a) makes a new election or (b) withdraws from an Offering Period or from the Plan
+pursuant to Section 12 of the Plan.
+
+
+9. Grant of Option on Enrollment
+
+
+     Each Participant who elects to participate in a given Offering Period shall be granted (as of
+the first date of the Offering Period) an Option to purchase (as of the Purchase Date) a number of
+Shares equal to the lesser of (i) the Maximum Share Amount reduced by any purchases that have
+already been made under the Plan during the same calendar year in which the purchases for this
+Offering Period will be made or (ii) the number determined by dividing the amount accumulated in
+such employees payroll deduction account during such Offering Period by the Purchase Price;
+
+
+10. Purchase Price
+
+
+     The Purchase Price at which a Share will be sold for in the Plans first Offering Period shall
+be the Fair Market Value of a Share on the first day of such Offering Period. Thereafter, the
+Purchase Price at which a Share will be sold for in a given Offering Period, as of the Purchase
+Date, shall be determined by the Board but shall not be less than eighty-five percent (85%) of the
+lesser of:
+
+
+
+
+
+ 
+(a)
+ 
+the Fair Market Value of a Share on the first day of the Offering Period; or
+
+
+ 
+
+ 
+(b)
+ 
+the Fair Market Value of a Share on the last day of the Offering Period.
+
+
+
+
+     Provided, however, that with respect to all Offering Periods except the first Offering Period,
+in the event (i) of any increase in the number of Shares available for issuance under the Plan as a
+result of a shareholder-approved amendment to the Plan (the date on which such amendment is
+approved, the Approval Date), and (ii) all or a portion of such additional Shares are to be
+issued with respect to one or more Offering Periods that are underway at the time of such increase
+(Additional Shares) and (iii) the Fair Market Value of a Share on the date of such increase (the
+Approval Date Fair Market Value) is higher than the Fair Market Value on the Offering Date for
+any such Offering Period, then in such instance the Approval Date is deemed to be the first day of
+a new Offering Period, and the Purchase Price with respect to the Additional Shares shall be
+determined by the Board but shall not be less than 85% of the Approval Date Fair Market Value or
+the Fair Market Value of a Share on the Purchase Date, whichever is lower.
+
+
+11. Payment of Purchase Price; Changes in Payroll Deductions; Issuance of Shares
+
+
+     Subject to Sections 12 and 13 of the Plan:
+
+
+
+
+
+ 
+(a)
+ 
+Payroll deductions shall be made on each day that Participants are paid during
+an Offering Period with respect to all Participants who elect to participate in such
+Offering Period. The deductions shall be made as a percentage of the Participants
+Compensation in one percent (1%) increments, from one percent (1%) to fifteen percent
+(15%) of such Participants Compensation, as elected by the Participant;
+provided, however, that no Participant shall be permitted to purchase
+Shares under this Plan (or under any other employee stock purchase plan within the
+meaning of Section 423(b) of the Code, of the Company or any of its Subsidiaries) with
+an aggregate Fair Market Value (as determined as of each Offering Date) in excess of
+U.S. $25,000.00 for any one calendar year within the meaning of Section 423(b)(8) of
+the Code. For a given Offering Period, payroll deductions shall commence on the
+Offering Date and shall end on the related Purchase Date, unless sooner altered or
+terminated as provided in the Plan.
+
+
+ 
+
+ 
+(b)
+ 
+For the first Offering Period, Participants will have a period of days measured
+from the Offering Date which period will be set by the Board to elect the percentage of
+their Compensation to have deducted in said Offering Period under the Plan.
+Thereafter, the Board shall specify the procedures for such elections.
+
+
+
+
+
+
+
+
+
+
+
+ 
+(c)
+ 
+A Participant shall not change the rate of payroll deductions once an Offering
+Period has commenced. The Board shall specify procedures by which a Participant may
+increase or decrease the rate of payroll deductions for subsequent Offering Periods.
+Unless a Participant makes a new election to change the rate of payroll deductions at
+the commencement of an Offering Period, the Participants most recent election will
+apply to such new Offering Period.
+
+
+ 
+
+ 
+(d)
+ 
+All payroll deductions made with respect to a Participant shall be credited to
+his or her Payroll Deduction Account under the Plan and shall be deposited with the
+general funds of the Company. Any administrative fee that may be assessed pursuant to
+Section 5 above may be deducted from a Participants Payroll Deduction Account.
+Interest shall accrue and shall be paid on the amounts credited to such Payroll
+Deduction Accounts as determined by the Board in its sole discretion. All payroll
+deductions received or held by the Company may be used by the Company for any corporate
+purpose, and the Company shall not be obligated to segregate such payroll deductions.
+A Participant may not make any separate cash payment into his or her Payroll Deduction
+Account, and payment for Shares purchased under the Plan may not be made in any form
+other than by payroll deduction.
+
+
+ 
+
+ 
+(e)
+ 
+On each Purchase Date, the Company shall apply all funds then in the
+Participants Payroll Deduction Account to purchase Shares (in whole and/or fractional
+Shares, as the case may be) pursuant to the Option granted on the Offering Date. In
+the event that the number of Shares to be purchased by all Participants in one Offering
+Period exceeds the number of Shares then available for issuance under the Plan, (i) the
+Company shall make a pro rata allocation of the remaining Shares available for issuance
+under the Plan in as uniform a manner as shall be practicable and as the Board shall in
+its sole discretion determine to be equitable and (ii) all funds not used to purchase
+Shares on the Purchase Date shall be returned to the Participant.
+
+
+ 
+
+ 
+(f)
+ 
+A Participant shall have no interest or voting right in the Shares covered by
+his or her Option until such Option is exercised. Upon exercise, the Shares received
+by a Participant under this Plan will carry the same voting rights as other outstanding
+ shares of the same class.
+
+
+ 
+
+ 
+(g)
+ 
+As soon as practicable following the end of each Offering Period, the number of
+Shares purchased by each Participant shall be deposited into an account established in
+the Participants name with the Plan Broker to be held by such Broker during the period
+set forth in Section 423(a)(1) of the Code. Unless otherwise permitted by the Board in
+its sole discretion, dividends that are declared on the Shares held in such account
+shall be reinvested in whole or fractional Shares.
+
+
+ 
+
+ 
+(h)
+ 
+Once the holding period set forth in Section 423(a)(1) of the Code has been
+satisfied with respect to a Participants Shares, the Participant may (i) transfer his
+or her Shares to another brokerage account of Participants choosing or (ii) request in
+writing that any whole Shares in his or her account with the Plan Broker be issued to
+him or her and that any fractional Shares remaining in such account be paid in cash to
+him or her. The Board may require, in its sole discretion, that the Participant bear
+the cost of transferring such Shares or issuing Shares. Any Participant who engages in
+a Disqualifying Disposition of his or her Shares within the meaning of Section 421(b)
+of the Code shall notify the Company of such Disqualifying Disposition in accordance
+with Section 20 of the Plan.
+
+
+
+
+12. Withdrawal
+
+
+     Each Participant may withdraw from an Offering Period or from the Plan under such terms and
+conditions as are established by the Board in its sole discretion. Upon a Participants withdrawal
+from an Offering Period or from the Plan, all accumulated payroll deductions in the Payroll
+Deduction Account shall be returned, with such interest as the Board may, in its sole discretion,
+determine to pay to such Participant and he or she shall not be entitled to any Shares on the
+Purchase Date or thereafter with respect to the Offering Period in effect at the time of such
+withdrawal. Such Participant shall be permitted to participate in subsequent Offering Periods
+pursuant to such terms and conditions established by the Board in its sole discretion.
+
+
+13. Termination of Employment
+
+
+     A Participant whose employment is terminated for any reason shall cease to participate in the
+Plan upon his or her termination of employment. Upon such termination all payroll deductions
+credited to the Participants Payroll Deduction Account shall be returned, with such interest as
+the Board may, in its sole discretion, determine to pay to such Participant and such Participant
+shall have no future rights in any unexercised Options under the Plan.
+
+
+14. Adjustments Upon Certain Events
+
+
+     Notwithstanding any other provisions in the Plan to the contrary, the following provisions
+shall apply to all Options granted under the Plan:
+
+
+
+
+
+ 
+(a)
+ 
+Generally. In the event of any change in the outstanding Shares by
+reason of any Share dividend, split, reverse share split, reorganization,
+recapitalization, merger, consolidation, spin-off, combination or exchange of Shares or
+other corporate exchange, or any distribution to shareholders of Shares other than
+regular cash dividends, the Board without liability to any person will make such
+substitution or adjustment, as it deems to be equitable, as to (i) the number or kind
+of Shares or other securities issued or reserved for issuance pursuant to the Plan,
+(ii) the Purchase Price and/or (iii) any other affected terms of such Options. An
+adjustment under this provision may have the effect of reducing the price at which
+Ordinary Shares may be acquired to less than their nominal value (the Shortfall), but
+only if and to the extent that the Board shall be authorized to capitalize from the
+reserves of the Company a sum equal to the Shortfall and to apply that sum in paying up
+that amount on the Ordinary Shares.
+
+
+ 
+
+ 
+(b)
+ 
+Change in Control. In the event of a Change in Control, the Board in
+its sole discretion and without liability to any person may take such actions, if any,
+as it deems necessary or desirable with respect to any Option or Offering Period as of
+the date of the consummation of the Change in Control.
+
+
+
+
+15. Nontransferability
+
+
+     No Options granted under the Plan shall be transferred, assigned, pledged or otherwise
+disposed of in any way by the Participant otherwise than by will or by the laws of descent and
+distribution. Any such attempted transfer, assignment, pledge or other disposition shall be of no
+force or effect, except that the Board may treat such act as an election to withdraw from the
+Offering Period in accordance with Section 12.
+
+
+16. No Right to Employment
+
+
+     The granting of an Option under the Plan shall impose no obligation on the Participating
+Subsidiary to continue the employment of a Participant and shall not lessen or affect the
+Participating Subsidiarys right to terminate the employment of such Participant.
+
+
+17. Amendment or Termination of the Plan
+
+
+     The Plan shall continue until the earliest to occur of the following: (a) termination of the
+Plan by the Board, (b) issuance of all of the Shares reserved for issuance under the Plan, (c) May
+31, 2011 or (d) failure to satisfy the conditions of Section 22 of the Plan. The Board may amend,
+alter or terminate the Plan, but no amendment, alteration or termination shall be made which, (a)
+without the approval of the shareholders of the Company, would (except as is provided in Section 14
+of the Plan), increase the total number of Shares reserved for the purposes of the Plan or (b)
+except as otherwise provided in Section 14(b), without the consent of a Participant, would impair
+any of the rights or obligations under any Option theretofore granted to such Participant under the
+Plan; provided, however, that (i) the Board may amend the Plan in such manner as it deems
+necessary to permit the granting of Options meeting the requirements of the Code or other
+applicable laws and (ii) the Board may terminate the Plan without the consent of the Participants
+so long as it returns all payroll deductions accumulated in the Participants Payroll Deduction
+Accounts together with such interest as the Board may, in its sole discretion, determine to pay.
+
+
+18. Tax Withholding
+
+
+
+
+
+ 
+(a)
+ 
+The Participants employer shall have the right to withhold from such
+Participant such withholding taxes as may be required by federal, state, local or other
+law, or to otherwise require the Participant to pay such withholding taxes. Unless the
+Board specifies otherwise, a Participant may elect to pay a portion or all of such
+withholding taxes by (a) delivery of Shares or (b) having Shares withheld by the
+Company from the Shares otherwise to be received. The Shares so delivered or withheld
+shall have an aggregate Fair Market Value equal to the amount of such withholding
+taxes.
+
+
+ 
+
+ 
+(b)
+ 
+Notwithstanding anything set forth in Section 18(a), an option may not be
+exercised unless:
+
+
+
+
+
+
+
+ 
+(i)
+ 
+the Board considers that the issue or transfer of shares
+pursuant to such exercise would be lawful in all relevant jurisdictions; and
+
+
+ 
+
+ 
+(ii)
+ 
+in a case where, if the Option were exercised, the Company or a
+Participating Subsidiary would be obligated to (or would suffer a disadvantage
+if it were not to) account for any tax (in any jurisdiction) for which the
+person in question would be liable by virtue of the exercise of the Option
+and/or for any social security contributions that would be recoverable from the
+person in question (together, the Tax Liability), that person has either:
+
+
+
+
+
+
+
+ 
+(c)
+ 
+made a payment to the Company or the relevant Participating Subsidiary of an
+amount at least equal to the Companys estimate of the Tax Liability; or
+
+
+ 
+
+ 
+(d)
+ 
+entered into arrangements acceptable to the Company or the relevant
+Participating Subsidiary to secure that such a payment is made (whether by authorizing
+the sale of some or all of the shares on his behalf and the payment to the Company or
+the relevant Participating Subsidiary of the relevant amount out of the proceeds of
+sale or otherwise).
+
+
+
+
+19. International Participants
+
+
+     With respect to Participants who reside or work outside the United States of America, the
+Board may, in its sole discretion, amend the terms of the Plan with respect to such Participants in
+order to conform such terms with the requirements of local or foreign law.
+
+
+20. Notices
+
+
+     All notices and other communications hereunder shall be in writing and hand delivered or
+mailed by registered or certified mail (return receipt requested) or sent by any means of
+electronic message transmission with delivery confirmed (by voice or otherwise) to the parties at
+the following addresses (or at such other addresses for a party as shall be specified by like
+notice) and will be deemed given on the date on which such notice is received:
+
+
+Willis North America Inc.
+26 Century Boulevard, Fl. 7S
+Nashville, TN 37214
+Attention: Corporate Secretary
+
+
+With a copy to:
+
+
+
+Willis Group Holdings Public Limited Company
+c/o Willis Group Limited
+31 Lime Street
+London EC3M 7DQ.
+Attention Company Secretary
+
+
+21. Choice of Law
+
+
+     The Plan shall be governed by and construed in accordance with the laws of the State of New
+York applicable to contracts made and to be performed in the State of New York.
+
+
+22. Effectiveness of the Plan
+
+
+     The Plan became effective on the date on which it was originally adopted by the Board of
+Directors of Willis Group Holdings Limited (the Effective Date).
+
+

@@ -1,0 +1,691 @@
+Exhibit 4.2
+
+COMMON STOCK PURCHASE WARRANT
+
+ADVENTRX PHARMACEUTICALS, INC.
+
+
+
+ 
+
+ 
+
+ 
+
+Warrant No.:
+
+ 
+
+Initial Exercise Date:
+
+ 
+
+ 
+
+ 
+
+Warrant Shares:
+
+ 
+
+Issue Date:
+
+          THIS COMMON STOCK PURCHASE WARRANT (the “Warrant”) certifies that, for value received,                      (the “Holder”) is entitled, upon the terms and subject to the limitations on exercise and the conditions hereinafter set forth, at any time on or after                      (the “Initial Exercise Date”) and on or prior to 5:30 p.m. (New York City time) on                      (the “Termination Date”) but not thereafter, to subscribe for and purchase from ADVENTRX Pharmaceuticals, Inc., a Delaware corporation (the “Company”), up to                      shares (the “Warrant Shares”) of Common Stock. The purchase price of one share of Common Stock under this Warrant shall be equal to the Exercise Price, as defined in Section 2(b).
+
+     Section 1. Definitions. Capitalized terms used and not otherwise defined herein shall have the meanings set forth in that certain Securities Purchase Agreement (the “Purchase Agreement”), dated January 4, 2010, among the Company and the purchasers signatory thereto.
+
+     Section 2. Exercise.
+
+          a) Exercise of Warrant. Exercise of the purchase rights represented by this Warrant may be made, in whole or in part, at any time or times on or after the Initial Exercise Date and on or before the Termination Date by delivery to the Company (or such other office or agency of the Company as it may designate by notice in writing to the registered Holder at the address of the Holder appearing on the books of the Company) of a duly executed facsimile copy of the Notice of Exercise Form annexed hereto; and, within three (3) Trading Days of the date said Notice of Exercise is delivered to the Company, the Company shall have received payment of the aggregate Exercise Price of the shares thereby purchased by wire transfer or cashier’s check drawn on a United States bank or, if available, pursuant to the cashless exercise procedure specified in Section 2(c) below. Notwithstanding anything herein to the contrary, except as set forth in Section 2(d)(ii) below, the Holder shall not be required to physically surrender this Warrant to the Company until the Holder has purchased all of the Warrant Shares available hereunder and the Warrant has been exercised in full, in which case, the Holder shall surrender this Warrant to the Company for cancellation within three (3) Trading Days of the date the final Notice of Exercise is delivered to the Company. Partial exercises of this Warrant resulting in purchases of a portion of the total number of Warrant Shares available hereunder shall have the effect of lowering the outstanding number of Warrant Shares purchasable hereunder in an amount equal to the applicable number of Warrant Shares purchased. The Holder and the Company shall maintain records showing the number of Warrant Shares purchased and the date of such purchases. The Company shall deliver any objection to any Notice of Exercise Form
+
+1
+
+
+
+
+
+ 
+
+
+
+
+
+within 1 Business Day of receipt of such notice. In the event of any dispute or discrepancy, the records of the Holder shall be controlling and determinative in the absence of manifest error. The Holder and any assignee, by acceptance of this Warrant, acknowledge and agree that, by reason of the provisions of this paragraph, following the purchase of a portion of the Warrant Shares hereunder, the number of Warrant Shares available for purchase hereunder at any given time may be less than the amount stated on the face hereof.
+
+          b) Exercise Price. The exercise price per share of the Common Stock under this Warrant shall be $0.3499, subject to adjustment hereunder (the “Exercise Price”).
+
+          c) Cashless Exercise. If at the time of exercise hereof there is no effective registration statement registering, or the prospectus contained therein is not available for the issuance of the Warrant Shares to the Holder and all of the Warrant Shares are not then registered for resale by Holder into the market at market prices from time to time on an effective registration statement for use on a continuous basis (or the prospectus contained therein is not available for use), then this Warrant may also be exercised, in whole or in part, at such time by means of a “cashless exercise” in which the Holder shall be entitled to receive that number of Warrant Shares equal to the quotient obtained by dividing [(A-B) (X)] by (A), where:
+
+
+
+ 
+
+(A)
+
+= 
+
+the VWAP on the Trading Day immediately preceding the date on which Holder elects to exercise this Warrant by means of a “cashless exercise,” as set forth in the applicable Notice of Exercise;
+
+ 
+
+ 
+
+(B)
+
+= 
+
+the Exercise Price of this Warrant, as adjusted hereunder; and
+
+ 
+
+ 
+
+(X)
+
+= 
+
+the number of Warrant Shares that would be issuable upon exercise of this Warrant in accordance with the terms of this Warrant if such exercise were by means of a cash exercise rather than a cashless exercise.
+
+          “VWAP” means, for any date, the price determined by the first of the following clauses that applies: (a) if the Common Stock is then listed or quoted on a Trading Market, the daily volume weighted average price of the Common Stock for such date (or the nearest preceding date) on the Trading Market on which the Common Stock is then listed or quoted as reported by Bloomberg L.P. (based on a Trading Day from 9:30 a.m. (New York City time) to 4:02 p.m. (New York City time), (b) if the OTC Bulletin Board is not a Trading Market, the volume weighted average price of the Common Stock for such date (or the nearest preceding date) on the OTC Bulletin Board, (c) if the Common Stock is not then listed or quoted for trading on the OTC Bulletin Board and if prices for the Common Stock are then reported in the “Pink Sheets” published by Pink OTC Markets, Inc. (or a similar organization or agency succeeding to its functions of reporting prices), the most recent bid price per share of the Common Stock so reported, or (d) in all other cases, the fair market value of a share of Common Stock as determined by an independent appraiser selected in good faith by the Holders of a majority in interest of the Securities then outstanding and reasonably acceptable to the Company, the fees and expenses of which shall be paid by the Company.
+
+          Notwithstanding anything herein to the contrary, on the Termination Date, this Warrant shall be automatically exercised via cashless exercise pursuant to this Section 2(c).
+
+2
+
+
+
+
+
+ 
+
+
+
+
+
+          d) Mechanics of Exercise.
+
+               i. Delivery of Shares Upon Exercise. Shares purchased hereunder shall be transmitted by the Transfer Agent to the Holder by crediting the account of the Holder’s prime broker with the Depository Trust Company through its Deposit Withdrawal Agent Commission (“DWAC”) system if the Company is then a participant in such system and either (A) there is an effective Registration Statement permitting the issuance of the Warrant Shares to or resale of the Warrant Shares by Holder or (B) this Warrant is being exercised via cashless exercise more than six months after its original issue date (or one year in the event there is not adequate current public information available with respect to the Company as required by subsection (c) of Rule 144) and the Holder is not and has not been an Affiliate of the Company within 90 days of the date of exercise, and otherwise by physical delivery of a certificate for such shares to the address specified by the Holder in the Notice of Exercise by the date that is three (3) Trading Days after the latest of (A) the delivery to the Company of the Notice of Exercise Form and receipt of the DWAC request from the Holder’s prime broker (if applicable), (B) surrender of this Warrant (if required) and (C) payment of the aggregate Exercise Price as set forth above (including by cashless exercise, if permitted) (such date, the “Warrant Share Delivery Date”). This Warrant shall be deemed to have been exercised on the first date on which all of the foregoing have been delivered to the Company. The Warrant Shares shall be deemed to have been issued, and Holder or any other person so designated to be named therein shall be deemed to have become a holder of record of such shares for all purposes, as of the date the Warrant has been exercised, with payment to the Company of the Exercise Price (or by cashless exercise, if permitted) and all taxes required to be paid by the Holder, if any, pursuant to Section 2(d)(vi) prior to the issuance of such shares, having been paid.
+
+               ii. Delivery of New Warrants Upon Exercise. If this Warrant shall have been exercised in part, the Company shall, at the request of a Holder and upon surrender of this Warrant certificate, at the time of delivery of the certificate or certificates representing Warrant Shares, deliver to Holder a new Warrant evidencing the rights of Holder to purchase the unpurchased Warrant Shares called for by this Warrant, which new Warrant shall in all other respects be identical with this Warrant.
+
+               iii. Rescission Rights. If the Company fails to cause the Transfer Agent to transmit either to the Holder’s prime broker the Warrant Shares or to the Holder a certificate or the certificates representing the Warrant Shares, as applicable pursuant to Section 2(d)(i) hereof, by the Warrant Share Delivery Date, then, the Holder will have the right to rescind such exercise.
+
+               iv. Compensation for Buy-In on Failure to Timely Deliver Shares Upon Exercise. In addition to any other rights available to the Holder, if the Company fails to instruct the Transfer Agent to transmit to the Holder’s prime broker the Warrant Shares, or to the Holder a certificate or the certificates representing the Warrant Shares, pursuant to an exercise on or before the Warrant Share Delivery Date, and if after such date the Holder is required by its broker to purchase (in an open market transaction or otherwise) or the Holder’s brokerage firm otherwise purchases, shares of Common Stock to deliver in satisfaction of a sale by the Holder of the Warrant Shares which the Holder anticipated receiving upon such exercise (a “Buy-In”), then
+
+3
+
+
+
+
+
+ 
+
+
+
+
+
+the Company shall (A) pay in cash to the Holder the amount, if any, by which (x) the Holder’s total purchase price (including brokerage commissions, if any) for the shares of Common Stock so purchased exceeds (y) the amount obtained by multiplying (1) the number of Warrant Shares that the Company was required to deliver to the Holder in connection with the exercise at issue times (2) the price at which the sell order giving rise to such purchase obligation was executed, and (B) at the option of the Holder, either reinstate the portion of the Warrant and equivalent number of Warrant Shares for which such exercise was not honored (in which case such exercise shall be deemed rescinded) or deliver to the Holder the number of shares of Common Stock that would have been issued had the Company timely complied with its exercise and delivery obligations hereunder. For example, if the Holder purchases Common Stock having a total purchase price of $11,000 to cover a Buy-In with respect to an attempted exercise of shares of Common Stock with an aggregate sale price giving rise to such purchase obligation of $10,000, under clause (A) of the immediately preceding sentence the Company shall be required to pay the Holder $1,000. The Holder shall provide the Company written notice indicating the amounts payable to the Holder in respect of the Buy-In and evidence of the amount of such loss. Nothing herein shall limit a Holder’s right to pursue any other remedies available to it hereunder, at law or in equity including, without limitation, a decree of specific performance and/or injunctive relief with respect to the Company’s failure to timely deliver certificates representing shares of Common Stock upon exercise of the Warrant as required pursuant to the terms hereof.
+
+               v. No Fractional Shares or Scrip. No fractional shares or scrip representing fractional shares shall be issued upon the exercise of this Warrant. As to any fraction of a share which the Holder would otherwise be entitled to purchase upon such exercise, the Company shall, at its election, either pay a cash adjustment in respect of such final fraction in an amount equal to such fraction multiplied by the Exercise Price or round up to the next whole share.
+
+               vi. Charges, Taxes and Expenses. Issuance of certificates for Warrant Shares shall be made without charge to the Holder for any issue or transfer tax or other incidental expense in respect of the issuance of such certificate, all of which taxes and expenses shall be paid by the Company, and such certificates shall be issued in the name of the Holder or in such name or names as may be directed by the Holder; provided, however, that in the event certificates for Warrant Shares are to be issued in a name other than the name of the Holder, this Warrant when surrendered for exercise shall be accompanied by the Assignment Form attached hereto duly executed by the Holder and the Company may require, as a condition thereto, the payment of a sum sufficient to reimburse it for any transfer tax incidental thereto.
+
+               vii. Closing of Books. The Company will not close its stockholder books or records in any manner which prevents the timely exercise of this Warrant, pursuant to the terms hereof.
+
+                      e) Holder’s Exercise Limitations. The Company shall not effect any exercise of this Warrant, and a Holder shall not have the right to exercise any portion of this Warrant, pursuant to Section 2 or otherwise, to the extent that after giving effect to such issuance after exercise as set forth on the applicable Notice of Exercise, the Holder (together with the Holder’s Affiliates, and any other Persons acting as a group together with the Holder or any of the Holder’s Affiliates), would beneficially own in excess of the Beneficial Ownership
+
+4
+
+
+
+
+
+ 
+
+
+
+
+
+Limitation (as defined below). For purposes of the foregoing sentence, the number of shares of Common Stock beneficially owned by the Holder and its Affiliates shall include the number of shares of Common Stock issuable upon exercise of this Warrant with respect to which such determination is being made, but shall exclude the number of shares of Common Stock which would be issuable upon (i) exercise of the remaining, nonexercised portion of this Warrant beneficially owned by the Holder or any of its Affiliates and (ii) exercise or conversion of the unexercised or nonconverted portion of any other securities of the Company (including, without limitation, any other Common Stock Equivalents) subject to a limitation on conversion or exercise analogous to the limitation contained herein beneficially owned by the Holder or any of its Affiliates. Except as set forth in the preceding sentence, for purposes of this Section 2(e), beneficial ownership shall be calculated in accordance with Section 13(d) of the Exchange Act and the rules and regulations promulgated thereunder, it being acknowledged by the Holder that the Company is not representing to the Holder that such calculation is in compliance with Section 13(d) of the Exchange Act and the Holder is solely responsible for any schedules required to be filed in accordance therewith. To the extent that the limitation contained in this Section 2(e) applies, the determination of whether this Warrant is exercisable (in relation to other securities owned by the Holder together with any Affiliates) and of which portion of this Warrant is exercisable shall be in the sole discretion of the Holder, and the submission of a Notice of Exercise shall be deemed to be the Holder’s determination of whether this Warrant is exercisable (in relation to other securities owned by the Holder together with any Affiliates) and of which portion of this Warrant is exercisable, in each case subject to the Beneficial Ownership Limitation, and the Company shall have no obligation to verify or confirm the accuracy of such determination. In addition, a determination as to any group status as contemplated above shall be determined in accordance with Section 13(d) of the Exchange Act and the rules and regulations promulgated thereunder. For purposes of this Section 2(e), in determining the number of outstanding shares of Common Stock, a Holder may rely on the number of outstanding shares of Common Stock as reflected in (A) the Company’s most recent periodic or annual report filed with the Commission, as the case may be, (B) a more recent public announcement by the Company or (C) a more recent written notice by the Company or the Transfer Agent setting forth the number of shares of Common Stock outstanding. Upon the written or oral request of a Holder, the Company shall within two Trading Days confirm orally and in writing to the Holder the number of shares of Common Stock then outstanding. In any case, the number of outstanding shares of Common Stock shall be determined after giving effect to the conversion or exercise of securities of the Company, including this Warrant, by the Holder or its Affiliates since the date as of which such number of outstanding shares of Common Stock was reported. The “Beneficial Ownership Limitation” shall be 4.9% of the number of shares of the Common Stock outstanding immediately after giving effect to the issuance of shares of Common Stock issuable upon exercise of this Warrant. The Holder, upon not less than 61 days’ prior notice to the Company, may increase or decrease the Beneficial Ownership Limitation provisions of this Section 2(e), provided that the Beneficial Ownership Limitation in no event exceeds 9.99% of the number of shares of the Common Stock outstanding immediately after giving effect to the issuance of shares of Common Stock upon exercise of this Warrant held by the Holder and the provisions of this Section 2(e) shall continue to apply. Any such increase or decrease will not be effective until the 61st day after such notice is delivered to the Company. The provisions of this paragraph shall be construed and implemented in a manner otherwise than in strict conformity with the terms of this Section 2(e) to correct this paragraph (or any portion
+
+5
+
+
+
+
+
+ 
+
+
+
+
+
+hereof) which may be defective or inconsistent with the intended Beneficial Ownership Limitation herein contained or to make changes or supplements necessary or desirable to properly give effect to such limitation. The limitations contained in this paragraph shall apply to a successor holder of this Warrant.
+
+     Section 3. Certain Adjustments.
+
+          a) Stock Dividends and Splits. If the Company, at any time while this Warrant is outstanding: (i) pays a stock dividend or otherwise makes a distribution or distributions on shares of its Common Stock or any other equity or equity equivalent securities that is payable in shares of Common Stock (which, for avoidance of doubt, shall not include any shares of Common Stock issued by the Company upon exercise of this Warrant), (ii) subdivides outstanding shares of Common Stock into a larger number of shares, (iii) combines (including by way of reverse stock split) outstanding shares of Common Stock into a smaller number of shares, or (iv) issues by reclassification of shares of the Common Stock any shares of capital stock of the Company, then in each case the Exercise Price shall be multiplied by a fraction of which the numerator shall be the number of shares of Common Stock (excluding treasury shares, if any) outstanding immediately before such event and of which the denominator shall be the number of shares of Common Stock outstanding immediately after such event, and the number of shares issuable upon exercise of this Warrant shall be proportionately adjusted such that the aggregate Exercise Price of this Warrant shall remain unchanged. Any adjustment made pursuant to this Section 3(a) shall become effective immediately after the record date for the determination of stockholders entitled to receive such dividend or distribution and shall become effective immediately after the effective date in the case of a subdivision, combination or re-classification.
+
+          b) [RESERVED]
+
+          c) Subsequent Rights Offerings. If the Company, at any time while the Warrant is outstanding, shall issue rights, options or warrants to all holders of Common Stock (and not to the Holders) entitling them to subscribe for or purchase shares of Common Stock at a price per share less than the VWAP on the record date mentioned below, then, the Exercise Price shall be multiplied by a fraction, of which the denominator shall be the number of shares of the Common Stock outstanding on the date of issuance of such rights, options or warrants plus the number of additional shares of Common Stock offered for subscription or purchase, and of which the numerator shall be the number of shares of the Common Stock outstanding on the date of issuance of such rights, options or warrants plus the number of shares which the aggregate offering price of the total number of shares so offered (assuming receipt by the Company in full of all consideration payable upon exercise of such rights, options or warrants) would purchase at such VWAP. Such adjustment shall be made whenever such rights, options or warrants are issued, and shall become effective immediately after the record date for the determination of stockholders entitled to receive such rights, options or warrants.
+
+          d) Pro Rata Distributions. If the Company, at any time while this Warrant is outstanding, shall distribute to all holders of Common Stock (and not to the Holders) evidences of its indebtedness or assets (including cash and cash dividends) or rights or warrants to subscribe for or purchase any security other than the Common Stock (which shall be subject to Section 3(a)), then in each such case the Exercise Price shall be adjusted by multiplying the
+
+6
+
+
+
+
+
+ 
+
+
+
+
+
+Exercise Price in effect immediately prior to the record date fixed for determination of stockholders entitled to receive such distribution by a fraction of which the denominator shall be the VWAP determined as of the record date mentioned above, and of which the numerator shall be such VWAP on such record date less the then per share fair market value at such record date of the portion of such assets or evidence of indebtedness so distributed applicable to one outstanding share of the Common Stock as determined by the Board of Directors in good faith. In each case the adjustments shall be described in a statement provided to the Holder of the portion of assets or evidences of indebtedness so distributed or such subscription rights applicable to one share of Common Stock. Such adjustment shall be made whenever any such distribution is made and shall become effective immediately after the record date mentioned above.
+
+          e) Fundamental Transaction. If, at any time while this Warrant is outstanding, (i) the Company, directly or indirectly, in one or more related transactions effects any merger or consolidation of the Company with or into another Person, (ii) the Company, directly or indirectly, effects any sale, lease, license, assignment, transfer, conveyance or other disposition of all or substantially all of its assets in one or a series of related transactions, (iii) any, direct or indirect, purchase offer, tender offer or exchange offer (whether by the Company or another Person) is completed pursuant to which holders of Common Stock are permitted to sell, tender or exchange their shares for other securities, cash or property and has been accepted by the holders of 50% or more of the outstanding Common Stock, (iv) the Company, directly or indirectly, in one or more related transactions effects any reclassification, reorganization or recapitalization of the Common Stock or any compulsory share exchange pursuant to which the Common Stock is effectively converted into or exchanged for other securities, cash or property, (v) the Company, directly or indirectly, in one or more related transactions consummates a stock or share purchase agreement or other business combination (including, without limitation, a reorganization, recapitalization, spin-off or scheme of arrangement) with another Person whereby such other Person acquires more than 50% of the outstanding shares of Common Stock (not including any shares of Common Stock held by the other Person or other Persons making or party to, or associated or affiliated with the other Persons making or party to, such stock or share purchase agreement or other business combination) (each a “Fundamental Transaction”) then, upon any subsequent exercise of this Warrant, the Holder shall have the right to receive, for each Warrant Share that would have been issuable upon such exercise immediately prior to the occurrence of such Fundamental Transaction, at the option of the Holder (without regard to any limitation in Section 2(e) on the exercise of this Warrant), the number of shares of Common Stock of the successor or acquiring corporation or of the Company, if it is the surviving corporation, and any additional consideration (the “Alternate Consideration”) receivable as a result of such Fundamental Transaction by a holder of the number of shares of Common Stock for which this Warrant is exercisable immediately prior to such Fundamental Transaction (without regard to any limitation in Section 2(e) on the exercise of this Warrant). For purposes of any such exercise, the determination of the Exercise Price shall be appropriately adjusted to apply to such Alternate Consideration based on the amount of Alternate Consideration issuable in respect of one share of Common Stock in such Fundamental Transaction, and the Company shall apportion the Exercise Price among the Alternate Consideration in a reasonable manner reflecting the relative value of any different components of the Alternate Consideration. If holders of Common Stock are given any choice as to the securities, cash or property to be received in a Fundamental Transaction, then the Holder shall be given the same choice as to the
+
+7
+
+
+
+
+
+ 
+
+
+
+
+
+Alternate Consideration it receives upon any exercise of this Warrant following such Fundamental Transaction. Notwithstanding anything to the contrary, in the event of a Fundamental Transaction that is (1) an all cash transaction, (2) a “Rule 13e-3 transaction” as defined in Rule 13e-3 under the Exchange Act, or (3) a Fundamental Transaction involving a person or entity not traded on a national securities exchange, including, but not limited to, the NYSE Amex, the Nasdaq Global Select Market, the Nasdaq Global Market, or the Nasdaq Capital Market, the Company or any Successor Entity (as defined below) shall, at the Holder’s option, exercisable at any time concurrently with, or within 30 days after, the consummation of the Fundamental Transaction, purchase this Warrant from the Holder by paying to the Holder an amount of cash equal to the Black Scholes Value of the remaining unexercised portion of this Warrant on the date of the consummation of such Fundamental Transaction. “Black Scholes Value” means the value of this Warrant based on the Black and Scholes Option Pricing Model obtained from the “OV” function on Bloomberg, L.P. (“Bloomberg”) determined as of the day of consummation of the applicable Fundamental Transaction for pricing purposes and reflecting (A) a risk-free interest rate corresponding to the U.S. Treasury rate for a period equal to the time between the date of the public announcement of the applicable Fundamental Transaction and the Termination Date, (B) an expected volatility equal to the greater of 100% and the 100 day volatility obtained from the HVT function on Bloomberg as of the Trading Day immediately following the public announcement of the applicable Fundamental Transaction, (C) the underlying price per share used in such calculation shall be the sum of the price per share being offered in cash, if any, plus the value of any non-cash consideration, if any, being offered in such Fundamental Transaction and (D) a remaining option time equal to the time between the date of the public announcement of the applicable Fundamental Transaction and the Termination Date. The Company shall cause any successor entity in a Fundamental Transaction in which the Company is not the survivor (the “Successor Entity”) to assume in writing all of the obligations of the Company under this Warrant and the other Transaction Documents in accordance with the provisions of this Section 3(e) pursuant to written agreements and shall, at the option of the holder of this Warrant, deliver to the Holder in exchange for this Warrant a security of the Successor Entity evidenced by a written instrument substantially similar in form and substance to this Warrant which is exercisable for a corresponding number of shares of capital stock of such Successor Entity (or its parent entity) equivalent to the shares of Common Stock acquirable and receivable upon exercise of this Warrant (without regard to any limitations on the exercise of this Warrant) prior to such Fundamental Transaction, and with an exercise price which applies the exercise price hereunder to such shares of capital stock (but taking into account the relative value of the shares of Common Stock pursuant to such Fundamental Transaction and the value of such shares of capital stock, such number of shares of capital stock and such exercise price being for the purpose of protecting the economic value of this Warrant immediately prior to the consummation of such Fundamental Transaction), and which is reasonably satisfactory in form and substance to the Holder. Upon the occurrence of any such Fundamental Transaction, the Successor Entity shall succeed to, and be substituted for (so that from and after the date of such Fundamental Transaction, the provisions of this Warrant and the other Transaction Documents referring to the “Company” shall refer instead to the Successor Entity), and may exercise every right and power of the Company and shall assume all of the obligations of the Company under this Warrant and the other Transaction Documents with the same effect as if such Successor Entity had been named as the Company herein.
+
+8
+
+
+
+
+
+ 
+
+
+
+
+
+          f) Calculations. All calculations under this Section 3 shall be made to the nearest cent or the nearest 1/100th of a share, as the case may be. For purposes of this Section 3, the number of shares of Common Stock deemed to be issued and outstanding as of a given date shall be the sum of the number of shares of Common Stock (excluding treasury shares, if any) issued and outstanding.
+
+          g) Notice to Holder.
+
+               i. Adjustment to Exercise Price. Whenever the Exercise Price is adjusted pursuant to any provision of this Section 3, the Company shall promptly mail to the Holder a notice setting forth the Exercise Price after such adjustment and setting forth a brief statement of the facts requiring such adjustment.
+
+               ii. Notice to Allow Exercise by Holder. If (A) the Company shall declare a dividend (or any other distribution in whatever form) on the Common Stock, (B) the Company shall declare a special nonrecurring cash dividend on or a redemption of the Common Stock, (C) the Company shall authorize the granting to all holders of the Common Stock rights or warrants to subscribe for or purchase any shares of capital stock of any class or of any rights, (D) the approval of any stockholders of the Company shall be required in connection with any reclassification of the Common Stock, any consolidation or merger to which the Company is a party, any sale or transfer of all or substantially all of the assets of the Company, or any compulsory share exchange whereby the Common Stock is converted into other securities, cash or property, or (E) the Company shall authorize the voluntary or involuntary dissolution, liquidation or winding up of the affairs of the Company, then, in each case, the Company shall cause to be mailed to the Holder at its last address as it shall appear upon the Warrant Register of the Company, at least 20 calendar days prior to the applicable record or effective date hereinafter specified, a notice stating (x) the date on which a record is to be taken for the purpose of such dividend, distribution, redemption, rights or warrants, or if a record is not to be taken, the date as of which the holders of the Common Stock of record to be entitled to such dividend, distributions, redemption, rights or warrants are to be determined or (y) the date on which such reclassification, consolidation, merger, sale, transfer or share exchange is expected to become effective or close, and the date as of which it is expected that holders of the Common Stock of record shall be entitled to exchange their shares of the Common Stock for securities, cash or other property deliverable upon such reclassification, consolidation, merger, sale, transfer or share exchange; provided that the failure to mail such notice or any defect therein or in the mailing thereof shall not affect the validity of the corporate action required to be specified in such notice. To the extent that any notice provided hereunder constitutes, or contains, material, non-public information regarding the Company or any of the Subsidiaries, the Company shall simultaneously file such notice with the Commission pursuant to a Current Report on Form 8-K. The Holder shall remain entitled to exercise this Warrant during the period commencing on the date of such notice to the effective date of the event triggering such notice except as may otherwise be expressly set forth herein.
+
+     Section 4. Transfer of Warrant.
+
+          a) Transferability. This Warrant and all rights hereunder are transferable, in whole or in part, upon surrender of this Warrant at the principal office of the Company or its
+
+9
+
+
+
+
+
+ 
+
+
+
+
+
+designated agent, together with a written assignment of this Warrant substantially in the form attached hereto duly executed by the Holder or its agent or attorney and funds sufficient to pay any transfer taxes payable upon the making of such transfer. Upon such surrender and, if required, such payment, the Company shall execute and deliver a new Warrant or Warrants in the name of the assignee or assignees, as applicable, and in the denomination or denominations specified in such instrument of assignment, and shall issue to the assignor a new Warrant evidencing the portion of this Warrant not so assigned, and this Warrant shall promptly be cancelled. The Warrant, if properly assigned in accordance herewith, may be exercised by a new holder for the purchase of Warrant Shares without having a new Warrant issued.
+
+          b) New Warrants. This Warrant may be divided or combined with other Warrants upon presentation hereof at the aforesaid office of the Company, together with a written notice specifying the names and denominations in which new Warrants are to be issued, signed by the Holder or its agent or attorney. Subject to compliance with Section 4(a), as to any transfer which may be involved in such division or combination, the Company shall execute and deliver a new Warrant or Warrants in exchange for the Warrant or Warrants to be divided or combined in accordance with such notice. All Warrants issued on transfers or exchanges shall be dated the initial issuance date set forth on the first page of this Warrant and shall be identical with this Warrant except as to the number of Warrant Shares issuable pursuant thereto.
+
+          c) Warrant Register. The Company shall register this Warrant, upon records to be maintained by the Company for that purpose (the “Warrant Register”), in the name of the record Holder hereof from time to time. The Company may deem and treat the registered Holder of this Warrant as the absolute owner hereof for the purpose of any exercise hereof or any distribution to the Holder, and for all other purposes, absent actual notice to the contrary.
+
+     Section 5. Miscellaneous.
+
+          a) No Rights as Stockholder Until Exercise. This Warrant does not entitle the Holder to any voting rights, dividends or other rights as a stockholder of the Company prior to the exercise hereof as set forth in Section 2(d)(i).
+
+          b) Loss, Theft, Destruction or Mutilation of Warrant. The Company covenants that upon receipt by the Company of evidence reasonably satisfactory to it of the loss, theft, destruction or mutilation of this Warrant or any stock certificate relating to the Warrant Shares, and in case of loss, theft or destruction, of indemnity or security reasonably satisfactory to it, and upon surrender and cancellation of such Warrant or stock certificate, if mutilated, the Company will make and deliver a new Warrant or stock certificate of like tenor and dated as of such cancellation, in lieu of such Warrant or stock certificate.
+
+          c) Saturdays, Sundays, Holidays, etc. If the last or appointed day for the taking of any action or the expiration of any right required or granted herein shall not be a Business Day, then, such action may be taken or such right may be exercised on the next succeeding Business Day.
+
+10
+
+
+
+
+
+ 
+
+
+
+
+
+          d) Authorized Shares.
+
+                    The Company covenants that, during the period the Warrant is outstanding, it will reserve from its authorized and unissued Common Stock a sufficient number of shares to provide for the issuance of the Warrant Shares upon the exercise of any purchase rights under this Warrant. The Company further covenants that its issuance of this Warrant shall constitute full authority to its officers who are charged with the duty of executing stock certificates to execute and issue the necessary certificates for the Warrant Shares upon the exercise of the purchase rights under this Warrant. The Company will take all such reasonable action as may be necessary to assure that such Warrant Shares may be issued as provided herein without violation of any applicable law or regulation, or of any requirements of the Trading Market upon which the Common Stock may be listed. The Company covenants that all Warrant Shares which may be issued upon the exercise of the purchase rights represented by this Warrant will, upon exercise of the purchase rights represented by this Warrant and payment for such Warrant Shares in accordance herewith, be duly authorized, validly issued, fully paid and nonassessable and free from all taxes, liens and charges created by the Company in respect of the issue thereof (other than taxes in respect of any transfer occurring contemporaneously with such issue).
+
+                    Except and to the extent as waived or consented to by the Holder, the Company shall not by any action, including, without limitation, amending its certificate of incorporation or through any reorganization, transfer of assets, consolidation, merger, dissolution, issue or sale of securities or any other voluntary action, avoid or seek to avoid the observance or performance of any of the terms of this Warrant, but will at all times in good faith assist in the carrying out of all such terms and in the taking of all such actions as may be necessary or appropriate to protect the rights of Holder as set forth in this Warrant against impairment. Without limiting the generality of the foregoing, the Company will (i) not increase the par value of any Warrant Shares above the amount payable therefor upon such exercise immediately prior to such increase in par value, (ii) take all such action as may be necessary or appropriate in order that the Company may validly and legally issue fully paid and nonassessable Warrant Shares upon the exercise of this Warrant and (iii) use commercially reasonable efforts to obtain all such authorizations, exemptions or consents from any public regulatory body having jurisdiction thereof, as may be, necessary to enable the Company to perform its obligations under this Warrant.
+
+                    Before taking any action which would result in an adjustment in the number of Warrant Shares for which this Warrant is exercisable or in the Exercise Price, the Company shall obtain all such authorizations or exemptions thereof, or consents thereto, as may be necessary from any public regulatory body or bodies having jurisdiction thereof.
+
+          e) Jurisdiction. All questions concerning the construction, validity, enforcement and interpretation of this Warrant shall be determined in accordance with the provisions of the Purchase Agreement.
+
+          f) Restrictions. The Holder acknowledges that the Warrant Shares acquired upon the exercise of this Warrant, if not registered, will have restrictions upon resale imposed by state and federal securities laws unless the Holder utilizes the cashless exercise provisions hereof after at least one year has elapsed from the original issue date (or six months as long as there is adequate current public information available with respect to the Company as required by
+
+11
+
+
+
+
+
+ 
+
+
+
+
+
+subsection (c) of Rule 144) and the Holder is not and has not been an Affiliate of the Company within 90 days of the date of exercise.
+
+          g) Nonwaiver and Expenses. No course of dealing or any delay or failure to exercise any right hereunder on the part of Holder shall operate as a waiver of such right or otherwise prejudice Holder’s rights, powers or remedies. Without limiting any other provision of this Warrant or the Purchase Agreement, if the Company willfully and knowingly fails to comply with any provision of this Warrant, which results in any material damages to the Holder, the Company shall pay to Holder such amounts as shall be sufficient to cover any costs and expenses including, but not limited to, reasonable attorneys’ fees, including those of appellate proceedings, incurred by Holder in collecting any amounts due pursuant hereto or in otherwise enforcing any of its rights, powers or remedies hereunder.
+
+          h) Notices. Any notice, request or other document required or permitted to be given or delivered to the Holder by the Company shall be delivered in accordance with the notice provisions of the Purchase Agreement.
+
+          i) Limitation of Liability. No provision hereof, in the absence of any affirmative action by Holder to exercise this Warrant to purchase Warrant Shares, and no enumeration herein of the rights or privileges of Holder, shall give rise to any liability of Holder for the purchase price of any Common Stock or as a stockholder of the Company, whether such liability is asserted by the Company or by creditors of the Company.
+
+          j) Remedies. The Holder, in addition to being entitled to exercise all rights granted by law, including recovery of damages, will be entitled to specific performance of its rights under this Warrant. The Company agrees that monetary damages would not be adequate compensation for any loss incurred by reason of a breach by it of the provisions of this Warrant and hereby agrees to waive and not to assert the defense in any action for specific performance that a remedy at law would be adequate.
+
+          k) Successors and Assigns. Subject to applicable securities laws, this Warrant and the rights and obligations evidenced hereby shall inure to the benefit of and be binding upon the successors and permitted assigns of the Company and the successors and permitted assigns of Holder. The provisions of this Warrant are intended to be for the benefit of any Holder from time to time of this Warrant and shall be enforceable by the Holder or holder of Warrant Shares.
+
+          l) Amendment. This Warrant may be modified or amended or the provisions hereof waived with the written consent of the Company and the Holder.
+
+          m) Severability. Wherever possible, each provision of this Warrant shall be interpreted in such manner as to be effective and valid under applicable law, but if any provision of this Warrant shall be prohibited by or invalid under applicable law, such provision shall be ineffective to the extent of such prohibition or invalidity, without invalidating the remainder of such provisions or the remaining provisions of this Warrant.
+
+          n) Headings. The headings used in this Warrant are for the convenience of reference only and shall not, for any purpose, be deemed a part of this Warrant.
+
+12
+
+
+
+
+
+ 
+
+
+
+
+
+********************
+
+(Signature Pages Follow)
+
+13
+
+
+
+
+
+ 
+
+
+
+
+
+          IN WITNESS WHEREOF, the Company has caused this Common Stock Purchase Warrant (Warrant No.:                     ) to be executed by its officer thereunto duly authorized as of the date first above indicated.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ADVENTRX PHARMACEUTICALS, INC. 
+
+ 
+
+ 
+
+By:  
+
+ 
+
+ 
+
+ 
+
+ 
+
+Brian M. Culley, Principal Executive Officer 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+14
+
+
+
+
+
+ 
+
+
+
+
+
+NOTICE OF EXERCISE
+
+TO: ADVENTRX PHARMACEUTICALS, INC.
+
+          (1) The undersigned hereby elects to purchase                      Warrant Shares of the Company pursuant to the terms of Warrant No.                      (the “Warrant”), and tenders herewith payment of the exercise price in full, together with all applicable transfer taxes, if any.
+
+          (2) Payment shall take the form of (check applicable box):
+
+o in lawful money of the United States; or
+
+o [if permitted] the cancellation of such number of Warrant Shares as is necessary, in accordance with the formula set forth in subsection 2(c), to exercise the Warrant with respect to the maximum number of Warrant Shares purchasable pursuant to the cashless exercise procedure set forth in subsection 2(c).
+
+          (3) Unless said Warrant Shares will be delivered electronically via DWAC, please issue a certificate or certificates representing said Warrant Shares in the name of the undersigned or in such other name as is specified below:
+
+    	               	               	                	                  
+
+and deliver the physical certificate representing said Warrant Shares to the following address:
+
+     	               	               	               	                  
+
+    	               	               	                	                  
+
+    	               	               	                	                  
+
+If the Warrant Shares will be delivered electronically via DWAC, please issue them to the following account:
+
+
+
+ 
+
+ 
+
+ 
+
+Name of DTC Participant (broker-dealer at which the account of
+
+Holder to be credited with the Warrant Shares is maintained):
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+DTC Participant Number:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name of Account at DTC Participant to be credited with the Shares:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Account Number at DTC Participant to be credited with the Shares:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+[SIGNATURE OF HOLDER]
+
+Name of Investing Entity:                 	         	           	            	            	            	            	             	            	     
+
+Signature of Authorized Signatory of Investing Entity:    	           	           	           	           	            	           	         
+
+Name of Authorized Signatory:   	           	            	           	           	           	            	           	           	               
+
+Title of Authorized Signatory:         	        	             	              	             	             	             	             	              	
+
+Date:          	         	             	              	              	              	              	              	              	              	               
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+ASSIGNMENT FORM
+
+(To assign the foregoing warrant, execute
+
+this form and supply required information.
+
+Do not use this form to exercise the warrant.)
+
+          FOR VALUE RECEIVED, [___] all of or [                    ] of the shares of Warrant No.                      (enclosed herewith) and all rights evidenced thereby are hereby assigned to
+
+      	              	              	                	                   whose address is
+
+      	             	               	                	              	               	               	               	       .
+
+      	               	               	               	                	              	               	               	     
+
+Dated:   	               	              	,              	    
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Holder’s Signature:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Holder’s Address:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Signature Guaranteed:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+NOTE: The signature to this Assignment Form must correspond with the name as it appears on the face of the Warrant, without alteration or enlargement or any change whatsoever, and must be guaranteed by a bank or trust company. Officers of corporations and those acting in a fiduciary or other representative capacity should file proper evidence of authority to assign the foregoing Warrant.

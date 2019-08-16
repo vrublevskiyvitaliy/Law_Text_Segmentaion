@@ -1,0 +1,671 @@
+**********************
+Exhibit10.2
+**********************
+NEW JERSEY RESOURCES CORPORATION 2007 Stock Award and Incentive Plan Performance Shares Agreement NFE Growth
+**********************
+This Performance Shares Agreement (the Agreement), which includes the attached Terms and Conditions of Performance Shares (the Terms and Conditions) and the attached ExhibitA captioned Performance Goal and Earning of Performance Shares, confirms the grant on  (the Grant Date) by NEW JERSEY RESOURCES CORPORATION, a New Jersey corporation (the Company), to  (Employee), under Sections6(e), 6(i) and 7 of the 2007 Stock Award and Incentive Plan (the Plan), of Performance Shares (the Performance Shares), including rights to Dividend Equivalents as specified herein, as follows:
+**********************
+Target Number Granted:  Performance Shares (Target Number)
+**********************
+How Performance Shares are Earned and Vest: The Performance Shares, if not previously forfeited, (i)will be earned, if and to the extent that the Performance Goal defined on ExhibitA to this Agreement is achieved, with the corresponding number of Performance Shares earned (ranging from 0% to 150% of the Target Number) as specified on ExhibitA, on the date set forth on ExhibitA (the Earning Date) and (ii)will vest as to the number of Performance Shares earned if Employee remains employed by the Company or a Subsidiary from the Grant Date through the Earning Date (the Stated Vesting Date).
+To the extent vested, all earned Performance Shares shall be settled within 60days of the Stated Vesting Date.
+In addition, if not previously forfeited, upon a Change in Control the Performance Shares will be earned in an amount equal to the greater of the Target Number or the number of Performance Shares that would have been earned based upon the actual level of achievement if the performance period had ended at the date of the end of the Companys fiscal year immediately preceding the date of the Change in Control (the Target Number in the event the Change in Control occurs before , 20_____) and will become immediately vested with respect to the earned performance shares and will be settled within 60days thereafter, if Employee remains employed by the Company or a Subsidiary from the Grant Date through the Change in Control and, if (and only if) the stock of the Company remains publicly traded after the Change in Control, any Performance Shares not earned and vested on the Change in Control will remain potentially payable in accordance with the terms of this Agreement.
+In addition, if not previously forfeited, the Performance Shares will become earned and/or vested upon the occurrence of certain events relating to Termination of Employment to the extent provided in Section4 of the attached Terms and Conditions.
+The terms vest and vesting mean that the Performance Shares have become non-forfeitable in relation to Employees employment but continue to be subject to a substantial risk of forfeiture based on the Performance Goal to the extent provided in Section4 of the attached Terms and Conditions.
+If the Performance Goal is not met (or not fully met) to the extent provided in Section4 of the attached Terms and Conditions, the Performance Shares (or the unearned portion of the Performance Shares) will be immediately forfeited (whether vested or not).
+If Employee has a Termination of Employment prior to a Stated Vesting Date and the Performance Shares are not otherwise vested by that date, the Performance Shares will be immediately forfeited except as otherwise provided in Section4 of the attached Terms and Conditions.
+Forfeited Performance Shares cease to be outstanding and in no event will thereafter result in any delivery of shares of Stock to Employee.
+**********************
+Performance Goal and Earning Date: The Performance Goal and Earning Date, and the number of Performance Shares earned for specified levels of performance at the Earning Date, shall be as specified in ExhibitA hereto.
+Settlement: Performance Shares that are to be settled hereunder, including Performance Shares credited as a result of Dividend Equivalents, will be settled by delivery of one share of Stock, for each Performance Share being settled.
+Settlement shall occur at the time specified above and in Section6 of the attached Terms and Conditions.
+The Performance Shares are subject to the terms and conditions of the Plan and this Agreement, including the Terms and Conditions of Performance Shares attached hereto and deemed a part hereof.
+The number of Performance Shares and the kind of shares deliverable in settlement and other terms and conditions of the Performance Shares are subject to adjustment in accordance with Section5 of the attached Terms and Conditions and Section 11(c) of the Plan.
+**********************
+Employee acknowledges and agrees that (i)the Performance Shares are nontransferable, except as provided in Section3 of the attached Terms and Conditions and Section 11(b) of the Plan, (ii) the Performance Shares are subject to forfeiture in the event of Employees Termination of Employment in certain circumstances prior to vesting, as specified in Section4 of the attached Terms and Conditions, and (iii)sales of shares of Stock delivered upon settlement of the Performance Shares will be subject to any Company policy regulating trading by employees.
+**********************
+Capitalized terms used in this Agreement but not defined herein shall have the same meanings as in the Plan.
+**********************
+IN WITNESS WHEREOF, NEW JERSEY RESOURCES CORPORATION has caused this Agreement to be executed by its officer thereunto duly authorized.
+**********************
+NEW JERSEY RESOURCES CORPORATION
+**********************
+By:
+**********************
+LAURENCE M. DOWNES
+**********************
+Chairman & CEO
+**********************
+EMPLOYEE
+**********************
+NAME
+**********************
+Title
+**********************
+TERMS AND CONDITIONS OF PERFORMANCE SHARES
+**********************
+The following Terms and Conditions apply to the Performance Shares granted to Employee by NEW JERSEY RESOURCES CORPORATION (the Company) and Performance Shares resulting from Dividend Equivalents (as defined below), if any, as specified in the Performance Shares Agreement (of which these Terms and Conditions form a part).
+Certain terms of the Performance Shares, including the number of Performance Shares granted, vesting date(s) and settlement date, are set forth on the cover page hereto and ExhibitA, which are an integral part of this Agreement.
+**********************
+1.General.
+The Performance Shares are granted to Employee under the Companys 2007 Stock Award and Incentive Plan (the Plan), which has been previously delivered to Employee and/or is available upon request to the Corporate Benefits Department.
+All of the applicable terms, conditions and other provisions of the Plan are incorporated by reference herein.
+Capitalized terms used in this Agreement but not defined herein shall have the same meanings as in the Plan.
+If there is any conflict between the provisions of this document and mandatory provisions of the Plan, the provisions of the Plan govern.
+By accepting the grant of the Performance Shares, Employee agrees to be bound by all of the terms and provisions of the Plan (as presently in effect or later amended), the rules and regulations under the Plan adopted from time to time, and the decisions and determinations of the Leadership Development and Compensation Committee of the Companys Board of Directors (the Committee) made from time to time.
+**********************
+2.Account for Employee.
+The Company shall maintain a bookkeeping account for Employee (the Account) reflecting the number of Performance Shares then credited to Employee hereunder as a result of such grant of Performance Shares and any crediting of additional Performance Shares to Employee pursuant to payments equivalent to dividends paid on shares of Stock under Section5 hereof (Dividend Equivalents).
+**********************
+3.Nontransferability.
+Until Performance Shares are settled by delivery of shares of Stock in accordance with the terms of this Agreement, Employee may not transfer Performance Shares or any rights hereunder to any third party other than by will or the laws of descent and distribution, except for transfers to a Beneficiary or as otherwise permitted and subject to the conditions under Section 11(b) of the Plan.
+**********************
+4.Termination Provisions.
+The following provisions will govern the vesting and forfeiture of the Performance Shares that are outstanding at the time of Employees Termination of Employment (as defined below), unless otherwise determined by the Committee (subject to Section 8(a) hereof):
+**********************
+(a)Death.
+In the event of Employees Termination of Employment due to death the Performance Shares will be earned at the date of the Termination of Employment due to death in an amount equal to the greater of the Target Number or the number of Performance Shares that would have been earned based upon the actual level of achievement if the performance period had ended at the date of the end of the completed fiscal year immediately preceding the date of the Termination of Employment due to death (the Target Number in the event of Employees Termination of Employment due to death before , 20_____).
+A Pro-Rata Portion (as defined below) of the Performance Shares earned will vest at the date of the Employees Termination of Employment due to death, and such earned and vested Performance Shares will be settled in accordance with Section 6(a) hereof.
+Any portion of the then-outstanding Performance Shares not earned and vested at or before the date of Employees Termination of Employment due to death will be forfeited.
+**********************
+(b)Termination by the Company or Voluntarily by the Employee.
+In the event of Employees Termination of Employment by the Company for any reason other than Disability or by Employee voluntarily (other than a Retirement), the portion of the then-outstanding Performance Shares not earned and vested at the date of such Termination of Employment will be forfeited.
+**********************
+(c)Retirement or Disability.
+In the event of Employees Termination of Employment by Employee voluntarily due to Retirement (as defined below) or by the Company for Disability (as defined below), a Pro-Rata Portion (as defined below) of the Performance Shares that may become earned on the Earning Date, to the extent not previously vested, will vest at the date of Employees Termination of Employment, and such Performance Shares will continue to be subject to the Performance Goal and will be eligible to be earned and settled in accordance with Section 6(a) hereof.
+Any portion of the then-outstanding Performance Shares not vested at or before the date of such Termination of Employment will be forfeited.
+**********************
+(d)Certain Definitions.
+The following definitions apply for purposes of this Agreement:
+**********************
+(i)Disability means Employee has been incapable of substantially fulfilling the positions, duties, responsibilities and obligations of his employment because of physical, mental or emotional incapacity resulting from injury, sickness or disease for a period of at least six consecutive months.
+The Company and Employee shall agree on the identity of a physician to resolve any question as to Employees disability.
+If the Company and Employee cannot agree on the physician to make such determination, then the Company and Employee shall each select a physician and those physicians shall jointly select a third physician, who shall make the determination.
+The determination of any such physician shall be final and conclusive for all purposes of this Agreement.
+Only the Company can initiate a Termination of Employment due to Disability.
+**********************
+(ii)Pro Rata Portion means a fraction the numerator of which is the number of days from the Grant Date to the date of Employees Termination of Employment and the denominator of which is the number of days from the Grant Date to the Earning Date.
+**********************
+(iii)Retirement means the Employee terminates employment at or after age 65, or at or after age 55 with 20 or more years of service.
+**********************
+(iv)Subsidiary means any subsidiary corporation of the Company within the meaning of Section 424(f) of the Code (Section424(f) Corporation) and any partnership, limited liability company or joint venture in which either the Company or Section 424(f) Corporation is at least a fifty percent (50%) equity participant.
+**********************
+(v)Termination of Employment and Termination means the earliest time at which Employee is not employed by the Company or a Subsidiary of the Company.
+**********************
+5. Dividend Equivalents and Adjustments.
+**********************
+(a)Dividend Equivalents.
+Dividend Equivalents will be credited on Performance Shares (other than Performance Shares that, at the relevant record date, previously have been settled or forfeited) and deemed reinvested in additional Performance Shares.
+Dividend Equivalents will be credited as follows, except that the Company may vary the manner of crediting (for example, by crediting cash dividend equivalents rather than additional Performance Shares) for administrative convenience:
+**********************
+(i)Cash Dividends.
+If the Company declares and pays a dividend or distribution on shares of Stock in the form of cash, then additional Performance Shares shall be credited to Employees Account in lieu of payment or crediting of cash dividend equivalents equal to the number of Performance Shares credited to the Account as of the relevant record date multiplied by the amount of cash paid per share of Stock in such dividend or distribution divided by the Fair Market Value of a share of Stock at the payment date for such dividend or distribution.
+**********************
+(ii)Non-Share Dividends.
+If the Company declares and pays a dividend or distribution on shares of Stock in the form of property other than shares of Stock, then a number of additional Performance Shares shall be credited to Employees Account as of the payment date for such dividend or distribution equal to the number of Performance Shares credited to the Account as of the record date for such dividend or distribution multiplied by the fair market value of such property actually paid as a dividend or distribution on each outstanding share of Stock at such payment date, divided by the Fair Market Value of a share of Stock at such payment date.
+**********************
+(iii)Share Dividends and Splits.
+If the Company declares and pays a dividend or distribution on shares of Stock in the form of additional shares of Stock, or there occurs a forward split of shares of Stock, then a number of additional Performance Shares shall be credited to Employees Account as of the payment date for such dividend or distribution or forward split equal to the number of Performance Shares credited to the Account as of the record date for such dividend or distribution or split multiplied by the number of additional shares of Stock actually paid as a dividend or distribution or issued in such split in respect of each outstanding share of Stock.
+**********************
+(iv)Additional Credits.
+Prior to settlement in accordance with Section 6(a) hereof, additional Dividend Equivalents will be credited to the Employees Account to the extent Performance Shares in excess of the Target Number are settled so that Employee is credited for Dividend Equivalents on the excess Performance Shares on the same basis they would have been had the excess Performance Shares been credited to Employees Account as of the relevant earlier date.
+**********************
+(b)Adjustments.
+The number of Performance Shares credited to Employees Account shall be appropriately adjusted in order to prevent dilution or enlargement of Employees rights with respect to Performance Shares or to reflect any changes in the number of outstanding shares of Stock resulting from any event referred to in Section 11(c) of the Plan, taking into account any Performance Shares credited to Employee in connection with such event under Section 5(a) hereof.
+In furtherance of the foregoing, in the event of an equity restructuring, as defined in FAS 123R, which affects the shares of Stock, Employee shall have a legal right to an adjustment to Employees Performance Shares which shall preserve without enlarging the value of the Performance Shares, with the manner of such adjustment to be determined by the Committee in its discretion.
+All adjustments will be made in a manner as to maintain the Performance Shares exemption from Code Section409A or, to the extent Code Section409A applies, to comply with Code Section409A.
+Any adjustments shall be subject to the requirements and restrictions set forth in Section 11(c) of the Plan.
+**********************
+(c)Risk of Forfeiture and Settlement of Performance Shares Resulting from Dividend Equivalents and Adjustments.
+Performance Shares which directly or indirectly result from Dividend Equivalents on or adjustments to a Performance Share granted hereunder shall be subject to the same risk of forfeiture and other conditions as apply to the granted Performance Shares with respect to which the Dividend Equivalents related and will be settled at the same time as such related Performance Shares.
+**********************
+6.
+Settlement and Deferral.
+**********************
+(a)Settlement Date.
+Performance Shares granted hereunder that have become earned and vested, together with Performance Shares credited as a result of Dividend Equivalents with respect thereto, shall be settled by delivery of one share of Stock for each Performance Share being settled.
+Settlement of a vested Performance Share granted hereunder shall occur at the Earning Date (with shares to be delivered within 60days after the Earning Date); provided, however, that settlement shall occur earlier (i)within 60days after the date of death of Employee, or (ii)within 60days after a Change in Control; and provided further, that settlement shall be deferred if so elected by Employee in accordance with Section 6(b) hereof subject to Section 6(c) hereof.
+Settlement of Performance Shares which directly or indirectly result from Dividend Equivalents on Performance Shares granted hereunder shall occur at the time of settlement of the related Performance Share.
+**********************
+(b)Elective Deferral.
+The Committee may determine to permit Employee to elect to defer settlement (or redefer) if such election would be permissible under Section 11(k) of the Plan and Code Section409A.
+In addition to any applicable requirements under Code Section409A, any such deferral election shall be made only while Employee remains employed and at a time permitted under Code Section409A.
+The form under which an election is made shall set forth the time and form of payment of such amount deferred.
+Any amount deferred shall be subject to a 6month delay upon payment if required under Section11(k)(i)(F) of the Plan.
+Any elective deferral will be subject to such additional terms and conditions as the Vice President  Corporate Services, or the officer designated by the Company as responsible for administration of the Agreement, may reasonably impose.
+**********************
+(c)Compliance with Code Section409A.
+Other provisions of this Agreement notwithstanding, if Performance Shares constitute a deferral of compensation under Section409A of the Code (Code Section409A) as presently in effect or hereafter amended (i.e., the Performance Shares are not excluded or exempted under Code Section409A or a regulation or other official governmental guidance thereunder; Note: an elective deferral under Section 6(b) would cause the Performance Shares to be a deferral of compensation subject to Code Section409A after the deferral), such Performance Shares shall be subject to the additional requirements set forth in Section 11(k) of the Plan.
+**********************
+7.Employee Representations and Warranties Upon Settlement.
+As a condition to the settlement of the Performance Shares, the Company may require Employee to make any representation or warranty to the Company as may be required under any applicable law or regulation.
+**********************
+8.
+Miscellaneous.
+**********************
+(a)Binding Agreement; Written Amendments.
+This Agreement shall be binding upon the heirs, executors, administrators and successors of the parties.
+This Agreement constitutes the entire agreement between the parties with respect to the Performance Shares, and supersedes any prior agreements or documents with respect to the Performance Shares.
+No amendment or alteration of this Agreement which may impose any additional obligation upon the Company shall be valid unless expressed in a written instrument duly executed in the name of the Company, and no amendment, alteration, suspension or termination of this Agreement which may materially impair the rights of Employee with respect to the Performance Shares shall be valid unless expressed in a written instrument executed by Employee.
+**********************
+(b)No Promise of Employment.
+The Performance Shares and the granting thereof shall not constitute or be evidence of any agreement or understanding, express or implied, that Employee has a right to continue as an officer or employee of the Company for any period of time, or at any particular rate of compensation.
+**********************
+(c)Governing Law.
+The validity, construction, and effect of this Agreement shall be determined in accordance with the laws (including those governing contracts) of the state of New Jersey, without giving effect to principles of conflicts of laws, and applicable federal law.
+**********************
+(d)Fractional Performance Shares and Shares.
+The number of Performance Shares credited to Employees Account shall include fractional Performance Shares calculated to at least three decimal places, unless otherwise determined by the Committee.
+Unless settlement is effected through a third-party broker or agent that can accommodate fractional shares (without requiring issuance of a fractional Share by the Company), upon settlement of the Performance Shares Employee shall be paid, in cash, an amount equal to the value of any fractional Share that would have otherwise been deliverable in settlement of such Performance Shares.
+**********************
+(e)Mandatory Tax Withholding.
+Unless otherwise determined by the Committee, at the time of vesting and/or settlement the Company will withhold from any shares of Stock deliverable in settlement of the Performance Shares, in accordance with Section11(d)(i) of the Plan, the number of shares of Stock having a value nearest to, but not exceeding, the amount of income and employment taxes required to be withheld under applicable laws and regulations, and pay the amount of such withholding taxes in cash to the appropriate taxing authorities.
+Employee will be responsible for any withholding taxes not satisfied by means of such mandatory withholding and for all taxes in excess of such withholding taxes that may be due upon vesting or settlement of Performance Shares.
+**********************
+(f)Statements.
+An individual statement of each Employees Account will be issued to Employee at such times as may be determined by the Company.
+Such a statement shall reflect the number of Performance Shares credited to Employees Account, transactions therein during the period covered by the statement, and other information deemed relevant by the Company.
+Such a statement may be combined with or include information regarding other plans and compensatory arrangements.
+Employees statements shall be deemed a part of this Agreement, and shall evidence the Companys obligations in respect of Performance Shares, including the number of Performance Shares credited as a result of Dividend Equivalents (if any).
+Any statement containing an error shall not, however, represent a binding obligation to the extent of such error, notwithstanding the inclusion of such statement as part of this Agreement.
+**********************
+(g)Unfunded Obligations.
+The grant of the Performance Shares and any provision for distribution in settlement of Employees Account hereunder shall be by means of bookkeeping entries on the books of the Company and shall not create in Employee any right to, or claim against any, specific assets of the Company, nor result in the creation of any trust or escrow account for Employee.
+With respect to Employees entitlement to any distribution hereunder, Employee shall be a general creditor of the Company.
+**********************
+(h)Notices.
+Any notice to be given the Company under this Agreement shall be addressed to the Company at its principal executive offices, in care of the Vice President  Corporate Services, or the officer designated by the Company as responsible for administration of the Agreement, and any notice to Employee shall be addressed to Employee at Employees address as then appearing in the records of the Company.
+**********************
+(i)Shareholder Rights.
+Employee and any Beneficiary shall not have any rights with respect to shares of Stock (including voting rights) covered by this Agreement prior to the settlement and distribution of the shares of Stock as specified herein.
+Specifically, Performance Shares represent a contractual right to receive shares of Stock in the future, subject to the terms and conditions of this Agreement and the Plan, and do not represent ownership of shares of Stock at any time before the settlement of this Award and actual issuance of the shares of Stock.
+**********************
+ExhibitA
+**********************
+NEW JERSEY RESOURCES CORPORATION 2007 Stock Award and Incentive Plan Performance Goal and Earning of Performance Shares
+**********************
+The number of Performance Shares earned by Participant shall be determined as of , 20_____
+**********************
+(the Earning Date), based on the Companys Net Financial Earnings (defined below) growth over the 36-month period ending at the Earning Date.
+The number of Performance Shares earned will be determined based on the following table:
+**********************
+Net Financial Earnings Growth
+**********************
+Performance Shares Earned as a
+**********************
+Percentage of
+**********************
+Average Annual NFE Per Basic Share Growth
+**********************
+Target Performance Shares
+**********************
+%
+**********************
+%
+**********************
+%
+**********************
+%
+**********************
+%
+**********************
+%
+**********************
+%
+**********************
+%
+**********************
+Net Financial Earnings is a financial measure not in accordance with generally accepted accounting principles that the Company reports on a quarterly and annual basis to the public and in its quarterly reports on Form 10-Q and annual reports on Form 10-K that are filed with the Securities and Exchanged Commission.
+Net Financial Earnings per basic share were $ at the beginning of the 36-month performance period.
+**********************
+Upon achievement of Average Annual Net Financial Earnings per basic share growth at a percentage between any two specified earnings per share levels, the Performance Shares earned will be mathematically interpolated on a straight-line basis.
+**********************
+Determinations of the Committee regarding Average Annual Net Financial Earnings growth performance, the calculation of such performance, the resulting Performance Shares and related matters will be final and binding on the Participant.
+**********************
+Determinations of the Committee regarding Average Annual Net Financial Earnings growth performance, in the case of a Change in Control or Employees Termination of Employment due to death prior to the Earning Date, shall be made as of the end of the Companys fiscal year immediately preceding the date of the Change in Control or Employees Termination of Employment due to death, as applicable.
+**********************
+Exhibit10.2
+**********************
+NEW JERSEY RESOURCES CORPORATION 2007 Stock Award and Incentive Plan Performance Shares Agreement NFE Growth
+**********************
+This Performance Shares Agreement (the Agreement), which includes the attached Terms and Conditions of Performance Shares (the Terms and Conditions) and the attached ExhibitA captioned Performance Goal and Earning of Performance Shares, confirms the grant on  (the Grant Date) by NEW JERSEY RESOURCES CORPORATION, a New Jersey corporation (the Company), to  (Employee), under Sections6(e), 6(i) and 7 of the 2007 Stock Award and Incentive Plan (the Plan), of Performance Shares (the Performance Shares), including rights to Dividend Equivalents as specified herein, as follows:
+**********************
+Target Number Granted:  Performance Shares (Target Number)
+**********************
+How Performance Shares are Earned and Vest: The Performance Shares, if not previously forfeited, (i)will be earned, if and to the extent that the Performance Goal defined on ExhibitA to this Agreement is achieved, with the corresponding number of Performance Shares earned (ranging from 0% to 150% of the Target Number) as specified on ExhibitA, on the date set forth on ExhibitA (the Earning Date) and (ii)will vest as to the number of Performance Shares earned if Employee remains employed by the Company or a Subsidiary from the Grant Date through the Earning Date (the Stated Vesting Date).
+To the extent vested, all earned Performance Shares shall be settled within 60days of the Stated Vesting Date.
+In addition, if not previously forfeited, upon a Change in Control the Performance Shares will be earned in an amount equal to the greater of the Target Number or the number of Performance Shares that would have been earned based upon the actual level of achievement if the performance period had ended at the date of the end of the Companys fiscal year immediately preceding the date of the Change in Control (the Target Number in the event the Change in Control occurs before , 20_____) and will become immediately vested with respect to the earned performance shares and will be settled within 60days thereafter, if Employee remains employed by the Company or a Subsidiary from the Grant Date through the Change in Control and, if (and only if) the stock of the Company remains publicly traded after the Change in Control, any Performance Shares not earned and vested on the Change in Control will remain potentially payable in accordance with the terms of this Agreement.
+In addition, if not previously forfeited, the Performance Shares will become earned and/or vested upon the occurrence of certain events relating to Termination of Employment to the extent provided in Section4 of the attached Terms and Conditions.
+The terms vest and vesting mean that the Performance Shares have become non-forfeitable in relation to Employees employment but continue to be subject to a substantial risk of forfeiture based on the Performance Goal to the extent provided in Section4 of the attached Terms and Conditions.
+If the Performance Goal is not met (or not fully met) to the extent provided in Section4 of the attached Terms and Conditions, the Performance Shares (or the unearned portion of the Performance Shares) will be immediately forfeited (whether vested or not).
+If Employee has a Termination of Employment prior to a Stated Vesting Date and the Performance Shares are not otherwise vested by that date, the Performance Shares will be immediately forfeited except as otherwise provided in Section4 of the attached Terms and Conditions.
+Forfeited Performance Shares cease to be outstanding and in no event will thereafter result in any delivery of shares of Stock to Employee.
+**********************
+Exhibit10.2
+**********************
+NEW JERSEY RESOURCES CORPORATION 2007 Stock Award and Incentive Plan Performance Shares Agreement NFE Growth
+**********************
+This Performance Shares Agreement (the Agreement), which includes the attached Terms and Conditions of Performance Shares (the Terms and Conditions) and the attached ExhibitA captioned Performance Goal and Earning of Performance Shares, confirms the grant on  (the Grant Date) by NEW JERSEY RESOURCES CORPORATION, a New Jersey corporation (the Company), to  (Employee), under Sections6(e), 6(i) and 7 of the 2007 Stock Award and Incentive Plan (the Plan), of Performance Shares (the Performance Shares), including rights to Dividend Equivalents as specified herein, as follows:
+**********************
+Target Number Granted:  Performance Shares (Target Number)
+**********************
+How Performance Shares are Earned and Vest: The Performance Shares, if not previously forfeited, (i)will be earned, if and to the extent that the Performance Goal defined on ExhibitA to this Agreement is achieved, with the corresponding number of Performance Shares earned (ranging from 0% to 150% of the Target Number) as specified on ExhibitA, on the date set forth on ExhibitA (the Earning Date) and (ii)will vest as to the number of Performance Shares earned if Employee remains employed by the Company or a Subsidiary from the Grant Date through the Earning Date (the Stated Vesting Date).
+To the extent vested, all earned Performance Shares shall be settled within 60days of the Stated Vesting Date.
+In addition, if not previously forfeited, upon a Change in Control the Performance Shares will be earned in an amount equal to the greater of the Target Number or the number of Performance Shares that would have been earned based upon the actual level of achievement if the performance period had ended at the date of the end of the Companys fiscal year immediately preceding the date of the Change in Control (the Target Number in the event the Change in Control occurs before , 20_____) and will become immediately vested with respect to the earned performance shares and will be settled within 60days thereafter, if Employee remains employed by the Company or a Subsidiary from the Grant Date through the Change in Control and, if (and only if) the stock of the Company remains publicly traded after the Change in Control, any Performance Shares not earned and vested on the Change in Control will remain potentially payable in accordance with the terms of this Agreement.
+In addition, if not previously forfeited, the Performance Shares will become earned and/or vested upon the occurrence of certain events relating to Termination of Employment to the extent provided in Section4 of the attached Terms and Conditions.
+The terms vest and vesting mean that the Performance Shares have become non-forfeitable in relation to Employees employment but continue to be subject to a substantial risk of forfeiture based on the Performance Goal to the extent provided in Section4 of the attached Terms and Conditions.
+If the Performance Goal is not met (or not fully met) to the extent provided in Section4 of the attached Terms and Conditions, the Performance Shares (or the unearned portion of the Performance Shares) will be immediately forfeited (whether vested or not).
+If Employee has a Termination of Employment prior to a Stated Vesting Date and the Performance Shares are not otherwise vested by that date, the Performance Shares will be immediately forfeited except as otherwise provided in Section4 of the attached Terms and Conditions.
+Forfeited Performance Shares cease to be outstanding and in no event will thereafter result in any delivery of shares of Stock to Employee.
+**********************
+Performance Goal and Earning Date: The Performance Goal and Earning Date, and the number of Performance Shares earned for specified levels of performance at the Earning Date, shall be as specified in ExhibitA hereto.
+Settlement: Performance Shares that are to be settled hereunder, including Performance Shares credited as a result of Dividend Equivalents, will be settled by delivery of one share of Stock, for each Performance Share being settled.
+Settlement shall occur at the time specified above and in Section6 of the attached Terms and Conditions.
+The Performance Shares are subject to the terms and conditions of the Plan and this Agreement, including the Terms and Conditions of Performance Shares attached hereto and deemed a part hereof.
+The number of Performance Shares and the kind of shares deliverable in settlement and other terms and conditions of the Performance Shares are subject to adjustment in accordance with Section5 of the attached Terms and Conditions and Section 11(c) of the Plan.
+**********************
+Employee acknowledges and agrees that (i)the Performance Shares are nontransferable, except as provided in Section3 of the attached Terms and Conditions and Section 11(b) of the Plan, (ii) the Performance Shares are subject to forfeiture in the event of Employees Termination of Employment in certain circumstances prior to vesting, as specified in Section4 of the attached Terms and Conditions, and (iii)sales of shares of Stock delivered upon settlement of the Performance Shares will be subject to any Company policy regulating trading by employees.
+**********************
+Capitalized terms used in this Agreement but not defined herein shall have the same meanings as in the Plan.
+**********************
+IN WITNESS WHEREOF, NEW JERSEY RESOURCES CORPORATION has caused this Agreement to be executed by its officer thereunto duly authorized.
+**********************
+NEW JERSEY RESOURCES CORPORATION
+**********************
+By:
+**********************
+LAURENCE M. DOWNES
+**********************
+Chairman & CEO
+**********************
+EMPLOYEE
+**********************
+NAME
+**********************
+Title
+**********************
+Performance Goal and Earning Date: The Performance Goal and Earning Date, and the number of Performance Shares earned for specified levels of performance at the Earning Date, shall be as specified in ExhibitA hereto.
+**********************
+Settlement: Performance Shares that are to be settled hereunder, including Performance Shares credited as a result of Dividend Equivalents, will be settled by delivery of one share of Stock, for each Performance Share being settled.
+Settlement shall occur at the time specified above and in Section6 of the attached Terms and Conditions.
+**********************
+The Performance Shares are subject to the terms and conditions of the Plan and this Agreement, including the Terms and Conditions of Performance Shares attached hereto and deemed a part hereof.
+The number of Performance Shares and the kind of shares deliverable in settlement and other terms and conditions of the Performance Shares are subject to adjustment in accordance with Section5 of the attached Terms and Conditions and Section 11(c) of the Plan.
+**********************
+Employee acknowledges and agrees that (i)the Performance Shares are nontransferable, except as provided in Section3 of the attached Terms and Conditions and Section 11(b) of the Plan, (ii) the Performance Shares are subject to forfeiture in the event of Employees Termination of Employment in certain circumstances prior to vesting, as specified in Section4 of the attached Terms and Conditions, and (iii)sales of shares of Stock delivered upon settlement of the Performance Shares will be subject to any Company policy regulating trading by employees.
+**********************
+Capitalized terms used in this Agreement but not defined herein shall have the same meanings as in the Plan.
+**********************
+IN WITNESS WHEREOF, NEW JERSEY RESOURCES CORPORATION has caused this Agreement to be executed by its officer thereunto duly authorized.
+**********************
+TERMS AND CONDITIONS OF PERFORMANCE SHARES
+**********************
+The following Terms and Conditions apply to the Performance Shares granted to Employee by NEW JERSEY RESOURCES CORPORATION (the Company) and Performance Shares resulting from Dividend Equivalents (as defined below), if any, as specified in the Performance Shares Agreement (of which these Terms and Conditions form a part).
+Certain terms of the Performance Shares, including the number of Performance Shares granted, vesting date(s) and settlement date, are set forth on the cover page hereto and ExhibitA, which are an integral part of this Agreement.
+**********************
+1.General.
+The Performance Shares are granted to Employee under the Companys 2007 Stock Award and Incentive Plan (the Plan), which has been previously delivered to Employee and/or is available upon request to the Corporate Benefits Department.
+All of the applicable terms, conditions and other provisions of the Plan are incorporated by reference herein.
+Capitalized terms used in this Agreement but not defined herein shall have the same meanings as in the Plan.
+If there is any conflict between the provisions of this document and mandatory provisions of the Plan, the provisions of the Plan govern.
+By accepting the grant of the Performance Shares, Employee agrees to be bound by all of the terms and provisions of the Plan (as presently in effect or later amended), the rules and regulations under the Plan adopted from time to time, and the decisions and determinations of the Leadership Development and Compensation Committee of the Companys Board of Directors (the Committee) made from time to time.
+**********************
+2.Account for Employee.
+The Company shall maintain a bookkeeping account for Employee (the Account) reflecting the number of Performance Shares then credited to Employee hereunder as a result of such grant of Performance Shares and any crediting of additional Performance Shares to Employee pursuant to payments equivalent to dividends paid on shares of Stock under Section5 hereof (Dividend Equivalents).
+**********************
+3.Nontransferability.
+Until Performance Shares are settled by delivery of shares of Stock in accordance with the terms of this Agreement, Employee may not transfer Performance Shares or any rights hereunder to any third party other than by will or the laws of descent and distribution, except for transfers to a Beneficiary or as otherwise permitted and subject to the conditions under Section 11(b) of the Plan.
+**********************
+4.Termination Provisions.
+The following provisions will govern the vesting and forfeiture of the Performance Shares that are outstanding at the time of Employees Termination of Employment (as defined below), unless otherwise determined by the Committee (subject to Section 8(a) hereof):
+**********************
+(a)Death.
+In the event of Employees Termination of Employment due to death the Performance Shares will be earned at the date of the Termination of Employment due to death in an amount equal to the greater of the Target Number or the number of Performance Shares that would have been earned based upon the actual level of achievement if the performance period had ended at the date of the end of the completed fiscal year immediately preceding the date of the Termination of Employment due to death (the Target Number in the event of Employees Termination of Employment due to death before , 20_____).
+A Pro-Rata Portion (as defined below) of the Performance Shares earned will vest at the date of the Employees Termination of Employment due to death, and such earned and vested Performance Shares will be settled in accordance with Section 6(a) hereof.
+Any portion of the then-outstanding Performance Shares not earned and vested at or before the date of Employees Termination of Employment due to death will be forfeited.
+**********************
+(b)Termination by the Company or Voluntarily by the Employee.
+In the event of Employees Termination of Employment by the Company for any reason other than Disability or by Employee voluntarily (other than a Retirement), the portion of the then-outstanding Performance Shares not earned and vested at the date of such Termination of Employment will be forfeited.
+**********************
+TERMS AND CONDITIONS OF PERFORMANCE SHARES
+**********************
+The following Terms and Conditions apply to the Performance Shares granted to Employee by NEW JERSEY RESOURCES CORPORATION (the Company) and Performance Shares resulting from Dividend Equivalents (as defined below), if any, as specified in the Performance Shares Agreement (of which these Terms and Conditions form a part).
+Certain terms of the Performance Shares, including the number of Performance Shares granted, vesting date(s) and settlement date, are set forth on the cover page hereto and ExhibitA, which are an integral part of this Agreement.
+**********************
+1.General.
+The Performance Shares are granted to Employee under the Companys 2007 Stock Award and Incentive Plan (the Plan), which has been previously delivered to Employee and/or is available upon request to the Corporate Benefits Department.
+All of the applicable terms, conditions and other provisions of the Plan are incorporated by reference herein.
+Capitalized terms used in this Agreement but not defined herein shall have the same meanings as in the Plan.
+If there is any conflict between the provisions of this document and mandatory provisions of the Plan, the provisions of the Plan govern.
+By accepting the grant of the Performance Shares, Employee agrees to be bound by all of the terms and provisions of the Plan (as presently in effect or later amended), the rules and regulations under the Plan adopted from time to time, and the decisions and determinations of the Leadership Development and Compensation Committee of the Companys Board of Directors (the Committee) made from time to time.
+**********************
+2.Account for Employee.
+The Company shall maintain a bookkeeping account for Employee (the Account) reflecting the number of Performance Shares then credited to Employee hereunder as a result of such grant of Performance Shares and any crediting of additional Performance Shares to Employee pursuant to payments equivalent to dividends paid on shares of Stock under Section5 hereof (Dividend Equivalents).
+**********************
+3.Nontransferability.
+Until Performance Shares are settled by delivery of shares of Stock in accordance with the terms of this Agreement, Employee may not transfer Performance Shares or any rights hereunder to any third party other than by will or the laws of descent and distribution, except for transfers to a Beneficiary or as otherwise permitted and subject to the conditions under Section 11(b) of the Plan.
+**********************
+4.Termination Provisions.
+The following provisions will govern the vesting and forfeiture of the Performance Shares that are outstanding at the time of Employees Termination of Employment (as defined below), unless otherwise determined by the Committee (subject to Section 8(a) hereof):
+**********************
+(a)Death.
+In the event of Employees Termination of Employment due to death the Performance Shares will be earned at the date of the Termination of Employment due to death in an amount equal to the greater of the Target Number or the number of Performance Shares that would have been earned based upon the actual level of achievement if the performance period had ended at the date of the end of the completed fiscal year immediately preceding the date of the Termination of Employment due to death (the Target Number in the event of Employees Termination of Employment due to death before , 20_____).
+A Pro-Rata Portion (as defined below) of the Performance Shares earned will vest at the date of the Employees Termination of Employment due to death, and such earned and vested Performance Shares will be settled in accordance with Section 6(a) hereof.
+Any portion of the then-outstanding Performance Shares not earned and vested at or before the date of Employees Termination of Employment due to death will be forfeited.
+**********************
+(b)Termination by the Company or Voluntarily by the Employee.
+In the event of Employees Termination of Employment by the Company for any reason other than Disability or by Employee voluntarily (other than a Retirement), the portion of the then-outstanding Performance Shares not earned and vested at the date of such Termination of Employment will be forfeited.
+**********************
+(c)Retirement or Disability.
+In the event of Employees Termination of Employment by Employee voluntarily due to Retirement (as defined below) or by the Company for Disability (as defined below), a Pro-Rata Portion (as defined below) of the Performance Shares that may become earned on the Earning Date, to the extent not previously vested, will vest at the date of Employees Termination of Employment, and such Performance Shares will continue to be subject to the Performance Goal and will be eligible to be earned and settled in accordance with Section 6(a) hereof.
+Any portion of the then-outstanding Performance Shares not vested at or before the date of such Termination of Employment will be forfeited.
+**********************
+(d)Certain Definitions.
+The following definitions apply for purposes of this Agreement:
+**********************
+(i)Disability means Employee has been incapable of substantially fulfilling the positions, duties, responsibilities and obligations of his employment because of physical, mental or emotional incapacity resulting from injury, sickness or disease for a period of at least six consecutive months.
+The Company and Employee shall agree on the identity of a physician to resolve any question as to Employees disability.
+If the Company and Employee cannot agree on the physician to make such determination, then the Company and Employee shall each select a physician and those physicians shall jointly select a third physician, who shall make the determination.
+The determination of any such physician shall be final and conclusive for all purposes of this Agreement.
+Only the Company can initiate a Termination of Employment due to Disability.
+**********************
+(ii)Pro Rata Portion means a fraction the numerator of which is the number of days from the Grant Date to the date of Employees Termination of Employment and the denominator of which is the number of days from the Grant Date to the Earning Date.
+**********************
+(iii)Retirement means the Employee terminates employment at or after age 65, or at or after age 55 with 20 or more years of service.
+**********************
+(iv)Subsidiary means any subsidiary corporation of the Company within the meaning of Section 424(f) of the Code (Section424(f) Corporation) and any partnership, limited liability company or joint venture in which either the Company or Section 424(f) Corporation is at least a fifty percent (50%) equity participant.
+**********************
+(v)Termination of Employment and Termination means the earliest time at which Employee is not employed by the Company or a Subsidiary of the Company.
+**********************
+5. Dividend Equivalents and Adjustments.
+**********************
+(a)Dividend Equivalents.
+Dividend Equivalents will be credited on Performance Shares (other than Performance Shares that, at the relevant record date, previously have been settled or forfeited) and deemed reinvested in additional Performance Shares.
+Dividend Equivalents will be credited as follows, except that the Company may vary the manner of crediting (for example, by crediting cash dividend equivalents rather than additional Performance Shares) for administrative convenience:
+**********************
+(i)Cash Dividends.
+If the Company declares and pays a dividend or distribution on shares of Stock in the form of cash, then additional Performance Shares shall be credited to Employees Account in lieu of payment or crediting of cash dividend equivalents equal to the number of Performance Shares credited to the Account as of the relevant record date multiplied by the amount of cash paid per share of Stock in such dividend or distribution divided by the Fair Market Value of a share of Stock at the payment date for such dividend or distribution.
+**********************
+(ii)Non-Share Dividends.
+If the Company declares and pays a dividend or distribution on shares of Stock in the form of property other than shares of Stock, then a number of additional Performance Shares shall be credited to Employees Account as of the payment date for such dividend or distribution equal to the number of Performance Shares credited to the Account as of the record date for such dividend or distribution multiplied by the fair market value of such property actually paid as a dividend or distribution on each outstanding share of Stock at such payment date, divided by the Fair Market Value of a share of Stock at such payment date.
+**********************
+(c)Retirement or Disability.
+In the event of Employees Termination of Employment by Employee voluntarily due to Retirement (as defined below) or by the Company for Disability (as defined below), a Pro-Rata Portion (as defined below) of the Performance Shares that may become earned on the Earning Date, to the extent not previously vested, will vest at the date of Employees Termination of Employment, and such Performance Shares will continue to be subject to the Performance Goal and will be eligible to be earned and settled in accordance with Section 6(a) hereof.
+Any portion of the then-outstanding Performance Shares not vested at or before the date of such Termination of Employment will be forfeited.
+**********************
+(d)Certain Definitions.
+The following definitions apply for purposes of this Agreement:
+**********************
+(i)Disability means Employee has been incapable of substantially fulfilling the positions, duties, responsibilities and obligations of his employment because of physical, mental or emotional incapacity resulting from injury, sickness or disease for a period of at least six consecutive months.
+The Company and Employee shall agree on the identity of a physician to resolve any question as to Employees disability.
+If the Company and Employee cannot agree on the physician to make such determination, then the Company and Employee shall each select a physician and those physicians shall jointly select a third physician, who shall make the determination.
+The determination of any such physician shall be final and conclusive for all purposes of this Agreement.
+Only the Company can initiate a Termination of Employment due to Disability.
+**********************
+(ii)Pro Rata Portion means a fraction the numerator of which is the number of days from the Grant Date to the date of Employees Termination of Employment and the denominator of which is the number of days from the Grant Date to the Earning Date.
+**********************
+(iii)Retirement means the Employee terminates employment at or after age 65, or at or after age 55 with 20 or more years of service.
+**********************
+(iv)Subsidiary means any subsidiary corporation of the Company within the meaning of Section 424(f) of the Code (Section424(f) Corporation) and any partnership, limited liability company or joint venture in which either the Company or Section 424(f) Corporation is at least a fifty percent (50%) equity participant.
+**********************
+(v)Termination of Employment and Termination means the earliest time at which Employee is not employed by the Company or a Subsidiary of the Company.
+**********************
+5. Dividend Equivalents and Adjustments.
+**********************
+(a)Dividend Equivalents.
+Dividend Equivalents will be credited on Performance Shares (other than Performance Shares that, at the relevant record date, previously have been settled or forfeited) and deemed reinvested in additional Performance Shares.
+Dividend Equivalents will be credited as follows, except that the Company may vary the manner of crediting (for example, by crediting cash dividend equivalents rather than additional Performance Shares) for administrative convenience:
+**********************
+(i)Cash Dividends.
+If the Company declares and pays a dividend or distribution on shares of Stock in the form of cash, then additional Performance Shares shall be credited to Employees Account in lieu of payment or crediting of cash dividend equivalents equal to the number of Performance Shares credited to the Account as of the relevant record date multiplied by the amount of cash paid per share of Stock in such dividend or distribution divided by the Fair Market Value of a share of Stock at the payment date for such dividend or distribution.
+**********************
+(ii)Non-Share Dividends.
+If the Company declares and pays a dividend or distribution on shares of Stock in the form of property other than shares of Stock, then a number of additional Performance Shares shall be credited to Employees Account as of the payment date for such dividend or distribution equal to the number of Performance Shares credited to the Account as of the record date for such dividend or distribution multiplied by the fair market value of such property actually paid as a dividend or distribution on each outstanding share of Stock at such payment date, divided by the Fair Market Value of a share of Stock at such payment date.
+**********************
+(iii)Share Dividends and Splits.
+If the Company declares and pays a dividend or distribution on shares of Stock in the form of additional shares of Stock, or there occurs a forward split of shares of Stock, then a number of additional Performance Shares shall be credited to Employees Account as of the payment date for such dividend or distribution or forward split equal to the number of Performance Shares credited to the Account as of the record date for such dividend or distribution or split multiplied by the number of additional shares of Stock actually paid as a dividend or distribution or issued in such split in respect of each outstanding share of Stock.
+**********************
+(iv)Additional Credits.
+Prior to settlement in accordance with Section 6(a) hereof, additional Dividend Equivalents will be credited to the Employees Account to the extent Performance Shares in excess of the Target Number are settled so that Employee is credited for Dividend Equivalents on the excess Performance Shares on the same basis they would have been had the excess Performance Shares been credited to Employees Account as of the relevant earlier date.
+**********************
+(b)Adjustments.
+The number of Performance Shares credited to Employees Account shall be appropriately adjusted in order to prevent dilution or enlargement of Employees rights with respect to Performance Shares or to reflect any changes in the number of outstanding shares of Stock resulting from any event referred to in Section 11(c) of the Plan, taking into account any Performance Shares credited to Employee in connection with such event under Section 5(a) hereof.
+In furtherance of the foregoing, in the event of an equity restructuring, as defined in FAS 123R, which affects the shares of Stock, Employee shall have a legal right to an adjustment to Employees Performance Shares which shall preserve without enlarging the value of the Performance Shares, with the manner of such adjustment to be determined by the Committee in its discretion.
+All adjustments will be made in a manner as to maintain the Performance Shares exemption from Code Section409A or, to the extent Code Section409A applies, to comply with Code Section409A.
+Any adjustments shall be subject to the requirements and restrictions set forth in Section 11(c) of the Plan.
+**********************
+(c)Risk of Forfeiture and Settlement of Performance Shares Resulting from Dividend Equivalents and Adjustments.
+Performance Shares which directly or indirectly result from Dividend Equivalents on or adjustments to a Performance Share granted hereunder shall be subject to the same risk of forfeiture and other conditions as apply to the granted Performance Shares with respect to which the Dividend Equivalents related and will be settled at the same time as such related Performance Shares.
+**********************
+6.
+Settlement and Deferral.
+**********************
+(a)Settlement Date.
+Performance Shares granted hereunder that have become earned and vested, together with Performance Shares credited as a result of Dividend Equivalents with respect thereto, shall be settled by delivery of one share of Stock for each Performance Share being settled.
+Settlement of a vested Performance Share granted hereunder shall occur at the Earning Date (with shares to be delivered within 60days after the Earning Date); provided, however, that settlement shall occur earlier (i)within 60days after the date of death of Employee, or (ii)within 60days after a Change in Control; and provided further, that settlement shall be deferred if so elected by Employee in accordance with Section 6(b) hereof subject to Section 6(c) hereof.
+Settlement of Performance Shares which directly or indirectly result from Dividend Equivalents on Performance Shares granted hereunder shall occur at the time of settlement of the related Performance Share.
+**********************
+(b)Elective Deferral.
+The Committee may determine to permit Employee to elect to defer settlement (or redefer) if such election would be permissible under Section 11(k) of the Plan and Code Section409A.
+In addition to any applicable requirements under Code Section409A, any such deferral election shall be made only while Employee remains employed and at a time permitted under Code Section409A.
+The form under which an election is made shall set forth the time and form of payment of such amount deferred.
+Any amount deferred shall be subject to a 6month delay upon payment if required under Section11(k)(i)(F) of the Plan.
+Any elective deferral will be subject to such additional terms and conditions as the Vice President  Corporate Services, or the officer designated by the Company as responsible for administration of the Agreement, may reasonably impose.
+**********************
+(iii)Share Dividends and Splits.
+If the Company declares and pays a dividend or distribution on shares of Stock in the form of additional shares of Stock, or there occurs a forward split of shares of Stock, then a number of additional Performance Shares shall be credited to Employees Account as of the payment date for such dividend or distribution or forward split equal to the number of Performance Shares credited to the Account as of the record date for such dividend or distribution or split multiplied by the number of additional shares of Stock actually paid as a dividend or distribution or issued in such split in respect of each outstanding share of Stock.
+**********************
+(iv)Additional Credits.
+Prior to settlement in accordance with Section 6(a) hereof, additional Dividend Equivalents will be credited to the Employees Account to the extent Performance Shares in excess of the Target Number are settled so that Employee is credited for Dividend Equivalents on the excess Performance Shares on the same basis they would have been had the excess Performance Shares been credited to Employees Account as of the relevant earlier date.
+**********************
+(b)Adjustments.
+The number of Performance Shares credited to Employees Account shall be appropriately adjusted in order to prevent dilution or enlargement of Employees rights with respect to Performance Shares or to reflect any changes in the number of outstanding shares of Stock resulting from any event referred to in Section 11(c) of the Plan, taking into account any Performance Shares credited to Employee in connection with such event under Section 5(a) hereof.
+In furtherance of the foregoing, in the event of an equity restructuring, as defined in FAS 123R, which affects the shares of Stock, Employee shall have a legal right to an adjustment to Employees Performance Shares which shall preserve without enlarging the value of the Performance Shares, with the manner of such adjustment to be determined by the Committee in its discretion.
+All adjustments will be made in a manner as to maintain the Performance Shares exemption from Code Section409A or, to the extent Code Section409A applies, to comply with Code Section409A.
+Any adjustments shall be subject to the requirements and restrictions set forth in Section 11(c) of the Plan.
+**********************
+(c)Risk of Forfeiture and Settlement of Performance Shares Resulting from Dividend Equivalents and Adjustments.
+Performance Shares which directly or indirectly result from Dividend Equivalents on or adjustments to a Performance Share granted hereunder shall be subject to the same risk of forfeiture and other conditions as apply to the granted Performance Shares with respect to which the Dividend Equivalents related and will be settled at the same time as such related Performance Shares.
+**********************
+6.
+Settlement and Deferral.
+**********************
+(a)Settlement Date.
+Performance Shares granted hereunder that have become earned and vested, together with Performance Shares credited as a result of Dividend Equivalents with respect thereto, shall be settled by delivery of one share of Stock for each Performance Share being settled.
+Settlement of a vested Performance Share granted hereunder shall occur at the Earning Date (with shares to be delivered within 60days after the Earning Date); provided, however, that settlement shall occur earlier (i)within 60days after the date of death of Employee, or (ii)within 60days after a Change in Control; and provided further, that settlement shall be deferred if so elected by Employee in accordance with Section 6(b) hereof subject to Section 6(c) hereof.
+Settlement of Performance Shares which directly or indirectly result from Dividend Equivalents on Performance Shares granted hereunder shall occur at the time of settlement of the related Performance Share.
+**********************
+(b)Elective Deferral.
+The Committee may determine to permit Employee to elect to defer settlement (or redefer) if such election would be permissible under Section 11(k) of the Plan and Code Section409A.
+In addition to any applicable requirements under Code Section409A, any such deferral election shall be made only while Employee remains employed and at a time permitted under Code Section409A.
+The form under which an election is made shall set forth the time and form of payment of such amount deferred.
+Any amount deferred shall be subject to a 6month delay upon payment if required under Section11(k)(i)(F) of the Plan.
+Any elective deferral will be subject to such additional terms and conditions as the Vice President  Corporate Services, or the officer designated by the Company as responsible for administration of the Agreement, may reasonably impose.
+**********************
+(c)Compliance with Code Section409A.
+Other provisions of this Agreement notwithstanding, if Performance Shares constitute a deferral of compensation under Section409A of the Code (Code Section409A) as presently in effect or hereafter amended (i.e., the Performance Shares are not excluded or exempted under Code Section409A or a regulation or other official governmental guidance thereunder; Note: an elective deferral under Section 6(b) would cause the Performance Shares to be a deferral of compensation subject to Code Section409A after the deferral), such Performance Shares shall be subject to the additional requirements set forth in Section 11(k) of the Plan.
+**********************
+7.Employee Representations and Warranties Upon Settlement.
+As a condition to the settlement of the Performance Shares, the Company may require Employee to make any representation or warranty to the Company as may be required under any applicable law or regulation.
+**********************
+8.
+Miscellaneous.
+**********************
+(a)Binding Agreement; Written Amendments.
+This Agreement shall be binding upon the heirs, executors, administrators and successors of the parties.
+This Agreement constitutes the entire agreement between the parties with respect to the Performance Shares, and supersedes any prior agreements or documents with respect to the Performance Shares.
+No amendment or alteration of this Agreement which may impose any additional obligation upon the Company shall be valid unless expressed in a written instrument duly executed in the name of the Company, and no amendment, alteration, suspension or termination of this Agreement which may materially impair the rights of Employee with respect to the Performance Shares shall be valid unless expressed in a written instrument executed by Employee.
+**********************
+(b)No Promise of Employment.
+The Performance Shares and the granting thereof shall not constitute or be evidence of any agreement or understanding, express or implied, that Employee has a right to continue as an officer or employee of the Company for any period of time, or at any particular rate of compensation.
+**********************
+(c)Governing Law.
+The validity, construction, and effect of this Agreement shall be determined in accordance with the laws (including those governing contracts) of the state of New Jersey, without giving effect to principles of conflicts of laws, and applicable federal law.
+**********************
+(d)Fractional Performance Shares and Shares.
+The number of Performance Shares credited to Employees Account shall include fractional Performance Shares calculated to at least three decimal places, unless otherwise determined by the Committee.
+Unless settlement is effected through a third-party broker or agent that can accommodate fractional shares (without requiring issuance of a fractional Share by the Company), upon settlement of the Performance Shares Employee shall be paid, in cash, an amount equal to the value of any fractional Share that would have otherwise been deliverable in settlement of such Performance Shares.
+**********************
+(e)Mandatory Tax Withholding.
+Unless otherwise determined by the Committee, at the time of vesting and/or settlement the Company will withhold from any shares of Stock deliverable in settlement of the Performance Shares, in accordance with Section11(d)(i) of the Plan, the number of shares of Stock having a value nearest to, but not exceeding, the amount of income and employment taxes required to be withheld under applicable laws and regulations, and pay the amount of such withholding taxes in cash to the appropriate taxing authorities.
+Employee will be responsible for any withholding taxes not satisfied by means of such mandatory withholding and for all taxes in excess of such withholding taxes that may be due upon vesting or settlement of Performance Shares.
+**********************
+(f)Statements.
+An individual statement of each Employees Account will be issued to Employee at such times as may be determined by the Company.
+Such a statement shall reflect the number of Performance Shares credited to Employees Account, transactions therein during the period covered by the statement, and other information deemed relevant by the Company.
+Such a statement may be combined with or include information regarding other plans and compensatory arrangements.
+Employees statements shall be deemed a part of this Agreement, and shall evidence the Companys obligations in respect of Performance Shares, including the number of Performance Shares credited as a result of Dividend Equivalents (if any).
+Any statement containing an error shall not, however, represent a binding obligation to the extent of such error, notwithstanding the inclusion of such statement as part of this Agreement.
+**********************
+(c)Compliance with Code Section409A.
+Other provisions of this Agreement notwithstanding, if Performance Shares constitute a deferral of compensation under Section409A of the Code (Code Section409A) as presently in effect or hereafter amended (i.e., the Performance Shares are not excluded or exempted under Code Section409A or a regulation or other official governmental guidance thereunder; Note: an elective deferral under Section 6(b) would cause the Performance Shares to be a deferral of compensation subject to Code Section409A after the deferral), such Performance Shares shall be subject to the additional requirements set forth in Section 11(k) of the Plan.
+**********************
+7.Employee Representations and Warranties Upon Settlement.
+As a condition to the settlement of the Performance Shares, the Company may require Employee to make any representation or warranty to the Company as may be required under any applicable law or regulation.
+**********************
+8.
+Miscellaneous.
+**********************
+(a)Binding Agreement; Written Amendments.
+This Agreement shall be binding upon the heirs, executors, administrators and successors of the parties.
+This Agreement constitutes the entire agreement between the parties with respect to the Performance Shares, and supersedes any prior agreements or documents with respect to the Performance Shares.
+No amendment or alteration of this Agreement which may impose any additional obligation upon the Company shall be valid unless expressed in a written instrument duly executed in the name of the Company, and no amendment, alteration, suspension or termination of this Agreement which may materially impair the rights of Employee with respect to the Performance Shares shall be valid unless expressed in a written instrument executed by Employee.
+**********************
+(b)No Promise of Employment.
+The Performance Shares and the granting thereof shall not constitute or be evidence of any agreement or understanding, express or implied, that Employee has a right to continue as an officer or employee of the Company for any period of time, or at any particular rate of compensation.
+**********************
+(c)Governing Law.
+The validity, construction, and effect of this Agreement shall be determined in accordance with the laws (including those governing contracts) of the state of New Jersey, without giving effect to principles of conflicts of laws, and applicable federal law.
+**********************
+(d)Fractional Performance Shares and Shares.
+The number of Performance Shares credited to Employees Account shall include fractional Performance Shares calculated to at least three decimal places, unless otherwise determined by the Committee.
+Unless settlement is effected through a third-party broker or agent that can accommodate fractional shares (without requiring issuance of a fractional Share by the Company), upon settlement of the Performance Shares Employee shall be paid, in cash, an amount equal to the value of any fractional Share that would have otherwise been deliverable in settlement of such Performance Shares.
+**********************
+(e)Mandatory Tax Withholding.
+Unless otherwise determined by the Committee, at the time of vesting and/or settlement the Company will withhold from any shares of Stock deliverable in settlement of the Performance Shares, in accordance with Section11(d)(i) of the Plan, the number of shares of Stock having a value nearest to, but not exceeding, the amount of income and employment taxes required to be withheld under applicable laws and regulations, and pay the amount of such withholding taxes in cash to the appropriate taxing authorities.
+Employee will be responsible for any withholding taxes not satisfied by means of such mandatory withholding and for all taxes in excess of such withholding taxes that may be due upon vesting or settlement of Performance Shares.
+**********************
+(f)Statements.
+An individual statement of each Employees Account will be issued to Employee at such times as may be determined by the Company.
+Such a statement shall reflect the number of Performance Shares credited to Employees Account, transactions therein during the period covered by the statement, and other information deemed relevant by the Company.
+Such a statement may be combined with or include information regarding other plans and compensatory arrangements.
+Employees statements shall be deemed a part of this Agreement, and shall evidence the Companys obligations in respect of Performance Shares, including the number of Performance Shares credited as a result of Dividend Equivalents (if any).
+Any statement containing an error shall not, however, represent a binding obligation to the extent of such error, notwithstanding the inclusion of such statement as part of this Agreement.
+**********************
+(g)Unfunded Obligations.
+The grant of the Performance Shares and any provision for distribution in settlement of Employees Account hereunder shall be by means of bookkeeping entries on the books of the Company and shall not create in Employee any right to, or claim against any, specific assets of the Company, nor result in the creation of any trust or escrow account for Employee.
+With respect to Employees entitlement to any distribution hereunder, Employee shall be a general creditor of the Company.
+**********************
+(h)Notices.
+Any notice to be given the Company under this Agreement shall be addressed to the Company at its principal executive offices, in care of the Vice President  Corporate Services, or the officer designated by the Company as responsible for administration of the Agreement, and any notice to Employee shall be addressed to Employee at Employees address as then appearing in the records of the Company.
+**********************
+(i)Shareholder Rights.
+Employee and any Beneficiary shall not have any rights with respect to shares of Stock (including voting rights) covered by this Agreement prior to the settlement and distribution of the shares of Stock as specified herein.
+Specifically, Performance Shares represent a contractual right to receive shares of Stock in the future, subject to the terms and conditions of this Agreement and the Plan, and do not represent ownership of shares of Stock at any time before the settlement of this Award and actual issuance of the shares of Stock.
+**********************
+(g)Unfunded Obligations.
+The grant of the Performance Shares and any provision for distribution in settlement of Employees Account hereunder shall be by means of bookkeeping entries on the books of the Company and shall not create in Employee any right to, or claim against any, specific assets of the Company, nor result in the creation of any trust or escrow account for Employee.
+With respect to Employees entitlement to any distribution hereunder, Employee shall be a general creditor of the Company.
+**********************
+(h)Notices.
+Any notice to be given the Company under this Agreement shall be addressed to the Company at its principal executive offices, in care of the Vice President  Corporate Services, or the officer designated by the Company as responsible for administration of the Agreement, and any notice to Employee shall be addressed to Employee at Employees address as then appearing in the records of the Company.
+**********************
+(i)Shareholder Rights.
+Employee and any Beneficiary shall not have any rights with respect to shares of Stock (including voting rights) covered by this Agreement prior to the settlement and distribution of the shares of Stock as specified herein.
+Specifically, Performance Shares represent a contractual right to receive shares of Stock in the future, subject to the terms and conditions of this Agreement and the Plan, and do not represent ownership of shares of Stock at any time before the settlement of this Award and actual issuance of the shares of Stock.
+**********************
+ExhibitA
+**********************
+NEW JERSEY RESOURCES CORPORATION 2007 Stock Award and Incentive Plan Performance Goal and Earning of Performance Shares
+**********************
+The number of Performance Shares earned by Participant shall be determined as of , 20_____
+**********************
+(the Earning Date), based on the Companys Net Financial Earnings (defined below) growth over the 36-month period ending at the Earning Date.
+The number of Performance Shares earned will be determined based on the following table:
+**********************
+Net Financial Earnings Growth
+**********************
+Performance Shares Earned as a
+**********************
+Percentage of
+**********************
+Average Annual NFE Per Basic Share Growth
+**********************
+Target Performance Shares
+**********************
+%
+**********************
+%
+**********************
+%
+**********************
+%
+**********************
+%
+**********************
+%
+**********************
+%
+**********************
+%
+**********************
+Net Financial Earnings is a financial measure not in accordance with generally accepted accounting principles that the Company reports on a quarterly and annual basis to the public and in its quarterly reports on Form 10-Q and annual reports on Form 10-K that are filed with the Securities and Exchanged Commission.
+Net Financial Earnings per basic share were $ at the beginning of the 36-month performance period.
+**********************
+Upon achievement of Average Annual Net Financial Earnings per basic share growth at a percentage between any two specified earnings per share levels, the Performance Shares earned will be mathematically interpolated on a straight-line basis.
+**********************
+Determinations of the Committee regarding Average Annual Net Financial Earnings growth performance, the calculation of such performance, the resulting Performance Shares and related matters will be final and binding on the Participant.
+**********************
+Determinations of the Committee regarding Average Annual Net Financial Earnings growth performance, in the case of a Change in Control or Employees Termination of Employment due to death prior to the Earning Date, shall be made as of the end of the Companys fiscal year immediately preceding the date of the Change in Control or Employees Termination of Employment due to death, as applicable.
+**********************
+ExhibitA
+**********************
+NEW JERSEY RESOURCES CORPORATION 2007 Stock Award and Incentive Plan Performance Goal and Earning of Performance Shares
+**********************
+The number of Performance Shares earned by Participant shall be determined as of , 20_____
+**********************
+(the Earning Date), based on the Companys Net Financial Earnings (defined below) growth over the 36-month period ending at the Earning Date.
+The number of Performance Shares earned will be determined based on the following table:
+**********************
+Net Financial Earnings Growth
+**********************
+Performance Shares Earned as a
+**********************
+Percentage of
+**********************
+Average Annual NFE Per Basic Share Growth
+**********************
+Target Performance Shares
+**********************
+%
+**********************
+%
+**********************
+%
+**********************
+%
+**********************
+%
+**********************
+%
+**********************
+%
+**********************
+%
+**********************
+%
+**********************
+%
+**********************
+%
+**********************
+%
+**********************
+Net Financial Earnings is a financial measure not in accordance with generally accepted accounting principles that the Company reports on a quarterly and annual basis to the public and in its quarterly reports on Form 10-Q and annual reports on Form 10-K that are filed with the Securities and Exchanged Commission.
+Net Financial Earnings per basic share were $ at the beginning of the 36-month performance period.
+**********************
+Upon achievement of Average Annual Net Financial Earnings per basic share growth at a percentage between any two specified earnings per share levels, the Performance Shares earned will be mathematically interpolated on a straight-line basis.
+**********************
+Determinations of the Committee regarding Average Annual Net Financial Earnings growth performance, the calculation of such performance, the resulting Performance Shares and related matters will be final and binding on the Participant.
+**********************
+Determinations of the Committee regarding Average Annual Net Financial Earnings growth performance, in the case of a Change in Control or Employees Termination of Employment due to death prior to the Earning Date, shall be made as of the end of the Companys fiscal year immediately preceding the date of the Change in Control or Employees Termination of Employment due to death, as applicable.

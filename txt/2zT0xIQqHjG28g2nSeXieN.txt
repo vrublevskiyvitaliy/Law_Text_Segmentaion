@@ -1,0 +1,409 @@
+Exhibit 4.1
+
+AMENDED AND RESTATED
+
+CERTIFICATE OF INCORPORATION
+
+OF
+
+JUPITER SATURN HOLDING COMPANY
+
+ 
+
+A.
+
+The name of the Corporation (the “Corporation”) is Jupiter Saturn Holding Company. The Corporation was originally incorporated by the filing of a Certificate of Incorporation with the Secretary of State of Delaware on June 24, 2009.
+
+ 
+
+B.
+
+This Amended and Restated Certificate of Incorporation was duly adopted in accordance with the provisions of Sections 242 and 245 of the General Corporation Law of the State of Delaware (the “DGCL”).
+
+ 
+
+C.
+
+The text of the Certificate of Incorporation of the Corporation is hereby amended and restated to read in full as follows:
+
+1. Name. The name of the corporation is Towers Watson & Co.
+
+2. Registered Office; Registered Agent. The address of the Corporation’s registered office in the State of Delaware is 160 Greentree Drive, Suite 101, in the City of Dover, County of Kent, DE 19904. The name of the registered agent of the Corporation at such address is National Registered Agents, Inc.
+
+3. Purpose. The purpose of the Corporation is to engage in any lawful act or activity for which corporations may be organized under the DGCL.
+
+4. Capital Stock.
+
+4.1 The Corporation has the authority to issue an aggregate of 416,100,000 shares. Of the authorized shares of capital stock of the Corporation: (i) 300,000,000 shares shall be designated as Class A Common Stock, par value $0.01 per share (the “Class A Common Stock”), (ii) 93,500,000 shares shall be designated as Class B Common Stock, par value $0.01 per share (the “Class B Common Stock”), (iii) 13,500,000 shares shall be designated as Class R Common Stock, par value $0.01 per share (the “Class R Common Stock”), (iv) 7,000,000 shares shall be designated as Class S Common Stock, par value $0.01 per share (the “Class S Common Stock” and, collectively with the Class A Common Stock, the Class B Common Stock and the Class R Common Stock, the “Common Stock”), (v) 100,000 shares shall be designated as Class F Stock, no par value per share (the “Class F Stock”) and (vi) 2,000,000 shares shall be designated as Preferred Stock, par value $0.01 per share (the “Preferred Stock”). The shares of Class B Common Stock shall be divided into the following series: 31,000,000 shares of Class B-1 Common Stock (the “Class B-1 Common Stock”), 25,000,000 shares of Class B-2 Common Stock (the “Class B-2 Common Stock”), 25,000,000 shares of Class B-3 Common Stock (the “Class B-3 Common Stock”), and 12,500,000 shares of Class B-4 Common Stock (the “Class B-4 Common Stock”).
+
+
+
+4.2 The number of authorized shares of any class or classes of stock may be increased or decreased (but not below the number of shares thereof then outstanding) by the affirmative vote of the holders of a majority of the stock of the corporation entitled to vote, voting together as a single class, irrespective of the provisions of Section 242(b)(2) of the DGCL or any corresponding provision hereinafter enacted.
+
+4.3 To the full extent permitted by the DGCL, as the same exists or may hereafter be amended, the Board of Directors is authorized by resolution to divide and issue the shares of Preferred Stock in series and to fix the voting powers and any designations, preferences, and relative, participating, optional or other special rights of any such series of Preferred Stock and any qualifications, limitations or restrictions thereof as are stated and expressed in the resolution or resolutions providing for the issue of such stock adopted by the Board of Directors.
+
+4.4 No holder of stock of any class of the Corporation has any preemptive or preferential right of subscription to any shares of any class of stock of the Corporation whether now or hereafter authorized, or to any obligation convertible into stock of the Corporation, or any right of subscription therefor, other than such rights, if any, as the Board of Directors in its discretion from time to time determines.
+
+4.5 The following is a description of the relative powers, preferences and participating, optional or other special rights, and the qualifications, limitations or restrictions of the Common Stock and the Class F Stock.
+
+(a) General. Except as otherwise set forth in this Article 4, the relative powers, preferences and participating, optional or other special rights, and the qualifications, limitations or restrictions of each class of Common Stock and the Class F Stock are identical in all respects.
+
+(b) Voting. At every meeting of the stockholders of the Corporation in connection with the election of directors and all other matters submitted to a vote of stockholders, every holder of Common Stock is entitled to one vote in person or by proxy for each share of Common Stock registered in the name of the holder on the transfer books of the Corporation. Except as otherwise required by law, the holders of Common Stock shall vote together as a single class, subject to any right that may be conferred upon holders of Preferred Stock to vote together with holders of Common Stock on matters submitted to a vote of stockholders of the Corporation. Shares of Class F Stock shall not have any voting rights except as required by the DGCL.
+
+(c) Certain Definitions. For purposes of this Amended and Restated Certificate of Incorporation:
+
+“Affiliate” of any Person means any other Person that directly or indirectly, through one or more intermediaries, controls, is controlled by, or is under common control with, such first Person.
+
+“Board of Directors” means the Board of Directors of the Corporation.
+
+“Cause” means for any Towers Perrin Continuing Employee (as defined below), any of the following with respect to such Towers Perrin Continuing Employee, provided,
+
+ 
+
+2
+
+
+
+that such definition shall not in any manner change or modify the terms of employment of any Towers Perrin Continuing Employee, restrict or impede the ability of the Corporation or any of its Subsidiaries (as defined below) to terminate the employment of any Towers Perrin Continuing Employee, or confer any rights (other than the conversion of shares as set forth herein) upon any Towers Perrin Continuing Employee with respect to the termination of his or her employment with the Corporation or any of its Subsidiaries:
+
+ 
+
+ 
+
+(A)
+
+commission of theft, embezzlement, any other act of dishonesty relating to his or her employment with the Corporation or any of its Subsidiaries, or any violation of any law, rule, regulation, order, judgment or decree applicable to the Corporation or any Subsidiary at which he or she was employed at the time of such violation;
+
+ 
+
+ 
+
+(B)
+
+conviction of, or pleading guilty or nolo contendere to, a felony or to any lesser crime, which lesser crime has as its predicate element fraud, dishonesty, misappropriation or moral turpitude;
+
+ 
+
+ 
+
+(C)
+
+commission of an act or acts in the performance of his duties amounting to negligence or willful misconduct;
+
+ 
+
+ 
+
+(D)
+
+breach of a written policy of the Corporation or any Subsidiary at which he or she was employed at the time of such breach; or
+
+ 
+
+ 
+
+(E)
+
+failure to perform his or her job functions satisfactorily.
+
+“Change in Control” means the occurrence of any of the foregoing: (A) a consolidation or merger of the Corporation with or into any other corporation or entity in which the holders of record of the Corporation’s outstanding shares of capital stock immediately before such consolidation or merger do not, immediately after such consolidation or merger, hold (by virtue of securities issued as consideration in such transaction or otherwise) a majority of the voting power of the surviving corporation of such consolidation or merger; or (B) any transaction, or series of related transactions in which 50% or more of the Corporation’s voting power is transferred to persons other than the stockholders of the Corporation and their respective Affiliates immediately prior to such transaction or series of transactions; or (C) a sale of all or substantially all of the assets of the Corporation, except to one or more Affiliates of the Corporation; or (D) a change in the composition of the Board of Directors that results in Persons other than Continuing Directors (as defined below) comprising a majority of the Board of Directors.
+
+“Continuing Director” means, as of any date of determination, any member of the Board of Directors who (A) was selected as a member of the Board of Directors pursuant to Section 1.6 of the Merger Agreement (as defined below) or (B) was nominated for election or elected to the Board of Directors with the approval of a majority of the Continuing Directors who were members of the Board of Directors at the time of such nomination or election.
+
+ 
+
+3
+
+
+
+“Effective Time” has the meaning set forth in Section 1.3(c) of the Merger Agreement (as defined below).
+
+“Merger Agreement” means the Agreement and Plan of Merger, dated as of June 26, 2009, among the Corporation, Watson Wyatt Worldwide, Inc., a Delaware corporation (“Watson Wyatt”), Towers, Perrin, Forster & Crosby, Inc., a Pennsylvania corporation (“Towers Perrin”), Jupiter Saturn Pennsylvania Inc., a Pennsylvania corporation and Jupiter Saturn Delaware Inc., a Delaware corporation (as it may be amended, supplemented, modified or waived from time to time).
+
+“Permitted Family Members” means any spouse, parent, grandparent, child, grandchild (including a child or grandchild by adoption and step-children), sibling, mother-in-law, father-in-law, brother-in-law or sister-in-law of (i) the holder of Class B Common Stock for purposes of Section 4.5(d) hereof, (ii) the holder of Class R Common Stock or Class S Common Stock for purposes of Section 4.5(e) hereof and (iii) the holder of Class F Stock for purposes of Section 4.5(f) hereof.
+
+“Permitted Transferee” means any Permitted Family Members or trusts for the benefit of Permitted Family Members.
+
+“Person” means an individual, corporation, partnership, limited liability company, association, trust or other entity or organization, including any governmental entity.
+
+“Redemption Price” means the Final Watson Wyatt Stock Price, as such term is defined in the Merger Agreement.
+
+“Subsidiary” means, with respect to any Person, any other Person of which stock or other equity interests having ordinary voting power to elect more than 50% of the board of directors or other governing body are owned, directly or indirectly, by such first Person.
+
+“Transfer” means the sale, gift, mortgage, pledge, exchange, assignment or other disposition or transfer, including a disposition under judicial order, legal process, execution, attachment or enforcement of an encumbrance; provided, that none of the following shall constitute a Transfer: (i) the automatic conversion, transfer or exchange of the Class B Common Stock pursuant to Section 4.5(d)(ii) or (iii) hereof, (ii) the redemption of Class R Common Stock and Class S Common Stock pursuant to Section 4.5(e)(ii) hereof, or (iii) the exchange of shares of Class F Stock for Forfeited Towers Perrin RSU Shares (as defined in the Merger Agreement) pursuant to Section 4.5(f)(ii) hereof. “Transferred”, “Transferee” and “Transferor” shall have correlative meanings.
+
+“Towers Perrin Continuing Employee” means any individual who (A) was an employee of Towers Perrin or any of its Subsidiaries immediately prior to the Effective Time, (B) received shares of Class B Common Stock as merger consideration under the Merger Agreement and (C) did not make a Valid Class R Election under the Merger Agreement.
+
+ 
+
+4
+
+
+
+(d) Rights of Holders of Class B Common Stock.
+
+(i) Transfer Restrictions. Except for (A) Transfers to Permitted Transferees that comply with the notice requirements set forth below, (B) Transfers to the Corporation, (C) the automatic conversion of shares of Class B Common Stock pursuant to Section 4.5(d)(ii) hereof, or (D) the automatic transfer and exchange of shares of Class B Common Stock pursuant to Section 4.5(d)(iii) hereof, shares of Class B Common Stock may not be Transferred. Except as expressly provided in this Section 4.5(d), any purported Transfer of shares of Class B Common Stock shall be void. Shares of Class B Common Stock may be Transferred to a Permitted Transferee at any time, provided that the Transferor provides at least five (5) business days prior written notice to the Corporation, and any such Permitted Transferee shall take such shares subject to all of the provisions and restrictions set forth in this Section 4.5(d).
+
+ 
+
+ 
+
+(ii)
+
+Automatic Conversion of Class B Common Stock. The shares of Class B Common Stock shall be subject to automatic conversion, without any action by the holder thereof, as follows:
+
+ 
+
+ 
+
+(A)
+
+(1) each share of Class B-1 Common Stock shall automatically convert into one share of Class A Common Stock on the first anniversary of the Effective Time, (2) each share of Class B-2 Common Stock shall automatically convert into one share of Class A Common Stock on the second anniversary of the Effective Time, (3) each share of Class B-3 Common Stock shall automatically convert into one share of Class A Common Stock on the third anniversary of the Effective Time and (4) each share of Class B-4 Common Stock shall automatically convert into one share of Class A Common Stock on the fourth anniversary of the Effective Time;
+
+ 
+
+ 
+
+(B)
+
+in the event of the death of any Towers Perrin Continuing Employee, each share of Class B Common Stock then held by such Towers Perrin Continuing Employee or, to the extent that he or she Transferred such shares of Class B Common Stock thereto, such Towers Perrin Continuing Employee’s Permitted Transferees, shall automatically convert into one share of Class A Common Stock;
+
+ 
+
+ 
+
+(C)
+
+in the event of a Change in Control, each of the then-outstanding shares of Class B Common Stock shall automatically convert into one share of Class A Common Stock;
+
+ 
+
+ 
+
+(D)
+
+to the extent the Board of Directors determines that such conversion is necessary pursuant to Section 2.1(c) of the Merger Agreement, with respect to shares held by stockholders located within any particular tax jurisdiction(s); and
+
+ 
+
+5
+
+
+
+
+
+ 
+
+(E)
+
+any share(s) of Class B Common Stock may be converted by action of the Board of Directors, to the extent the Board of Directors determines, in its discretion, that such conversion is necessary or appropriate; provided, that the total number of shares so converted shall not exceed, in the aggregate, 5% of the total shares of Class B Common Stock issued pursuant to the Merger Agreement.
+
+To the extent permitted by applicable law: all conversions pursuant to clause (A) shall be deemed to have been effected at the close of business on the date of conversion; all conversions pursuant to clause (B) shall be deemed to have been effected at the close of business on the date of death; all conversions pursuant to clause (C) shall be deemed to have been effected immediately prior to the consummation of the underlying transaction or sale, or upon the underlying change in composition of the Board of Directors, as the case may be, and all conversions pursuant to clauses (D) and (E) shall be deemed to have been effected on such date as the Board of Directors determines. Shares of Class A Common Stock may not be converted into shares of Class B Common Stock.
+
+(iii) Automatic Transfer and Exchange of Class B Common Stock. The shares of Class B Common Stock held by any Towers Perrin Continuing Employee whose employment with the Corporation and its Subsidiaries is terminated without Cause, on or before the second anniversary of the Effective Time, shall be automatically transferred to the Corporation in exchange for shares of Class A Common Stock and/or shares of another series of Class B Common Stock upon such termination, as follows:
+
+ 
+
+ 
+
+(A)
+
+each share of Class B-1 Common Stock then held by such Towers Perrin Continuing Employee shall automatically be transferred to the Corporation in exchange for one share of Class A Common Stock;
+
+ 
+
+ 
+
+(B)
+
+each share of Class B-2 Common Stock then held by such Towers Perrin Continuing Employee shall automatically be transferred to the Corporation in exchange for one share of Class B-1 Common Stock;
+
+ 
+
+ 
+
+(C)
+
+each share of Class B-3 Common Stock then held by such Towers Perrin Continuing Employee shall automatically be transferred to the Corporation in exchange for one share of Class B-2 Common Stock; and
+
+ 
+
+ 
+
+(D)
+
+each share of Class B-4 Common Stock then held by such Towers Perrin Continuing Employee shall automatically be transferred to the Corporation in exchange for one share of Class B-3 Common Stock;
+
+provided, however that the transfers and exchanges set forth in this Section 4.5(d)(iii) shall not apply to the voluntary termination by any Towers Perrin Continuing Employee of his or her employment with, or a termination for Cause of any Towers Perrin Continuing Employee by, the Corporation or any of its Subsidiaries.
+
+ 
+
+6
+
+
+
+To the extent permitted by applicable law, any of the foregoing transfers and exchanges set forth in this Section 4.5(d)(iii) shall be deemed to have been effected on the date of the underlying termination of employment. Shares of Class A Common Stock may not be transferred and exchanged for shares of Class B Common Stock.
+
+(iv) Procedure for Transfers. Shares of Class B Common Stock which are uncertificated shall be transferred on the books of the Corporation upon presentation at the office of the Secretary of the Corporation (or at such additional place or places as may from time to time be designated by the Secretary of the Corporation) of a written request for transfer in such form as the Corporation requests. Shares of Class B Common Stock represented by certificates shall be transferred on the books of the Corporation, and a new certificate therefor issued, upon presentation at the office of the Secretary of the Corporation (or at such additional place or places as may from time to time be designated by the Secretary of the Corporation) of the certificate for the shares, in proper form for transfer and accompanied by all requisite stock transfer tax stamps.
+
+(v) Legends. Each outstanding certificate, if any, representing shares of Class B Common Stock shall contain a legend reading substantially as follows, together with any other endorsements that the Board of Directors deems necessary or appropriate:
+
+“THE SECURITIES REPRESENTED BY THIS CERTIFICATE (THE “SECURITIES”) ARE SUBJECT TO RESTRICTIONS ON TRANSFER SET FORTH IN THE AMENDED AND RESTATED CERTIFICATE OF INCORPORATION OF TOWERS WATSON & CO., AS IT MAY BE AMENDED FROM TIME TO TIME (THE “CHARTER”). ANY PURPORTED SALE, GIFT, MORTGAGE, PLEDGE, EXCHANGE, ASSIGNMENT OR OTHER DISPOSITION OR TRANSFER (COLLECTIVELY, A “TRANSFER”), EXCEPT AS SET FORTH IN SECTION 4.5(D) OF THE CHARTER, SHALL BE DEEMED NULL AND VOID. BY ACCEPTING ANY INTEREST IN THE SECURITIES, THE RECIPIENT THEREOF SHALL BE DEEMED TO HAVE AGREED TO, AND SHALL BECOME BOUND BY, ALL OF THE PROVISIONS SET FORTH IN THE CHARTER, INCLUDING THE TRANSFER RESTRICTIONS SET FORTH THEREIN. A COPY OF THE CHARTER MAY BE OBTAINED UPON WRITTEN REQUEST TO THE SECRETARY OF TOWERS WATSON & CO.”
+
+(vi) Retirement of Class B Shares. The Corporation shall take all such action as is necessary so that any shares of Class B Common Stock that have been transferred to the Corporation in exchange for, or converted into, shares of Class A Common Stock or any other series of Class B Common Stock shall be retired and may not be reissued as shares of Class B Common Stock.
+
+(vii) Reservation of Shares. The Corporation at all times shall reserve and keep available, out of its authorized but unissued Class A Common Stock, at least the number of shares of Class A Common Stock (i) that would become issuable upon the conversion of all shares of Class B Common Stock then outstanding and (ii) that would become issuable upon the exchange of all shares of Class F Stock then outstanding pursuant to
+
+ 
+
+7
+
+
+
+Section 4.5(f)(ii) hereof. The Corporation at all times shall also reserve and keep available, out of its authorized but unissued Class B Common Stock, at least the number of each series of shares of Class B Common Stock that would become issuable upon the conversion of all shares of Class B Common Stock then outstanding which are held by a Towers Perrin Continuing Employee in the event that such person’s employment with the Corporation and its Subsidiaries is terminated without Cause as set forth in Section 4.5(d)(iii) hereof.
+
+(e) Rights of Holders of Class R and S Common Stock.
+
+(i) Transfer Restrictions. Except for (A) Transfers to Permitted Transferees, (B) Transfers to the Corporation, (C) Transfers, in the event of the death of any natural person who is the record holder of shares of Class R Common Stock or Class S Common Stock, to such deceased holder’s executors, administrators, testamentary trustees, legatees and beneficiaries or (D) redemptions pursuant to Section 4.5(e)(ii) hereof, shares of Class R Common Stock and Class S Common Stock may not be Transferred. Except as expressly provided in this Section 4.5(e), any purported Transfer of shares of Class R Common Stock and Class S Common Stock shall be void. Shares of Class R Common Stock and Class S Common Stock may be Transferred to a Permitted Transferee at any time, provided that any such Permitted Transferee shall take such shares subject to all of the provisions and restrictions set forth in this Section 4.5. Shares of Class R Common Stock or Class S Common Stock may be Transferred to a Class R Common Stock holder’s or a Class S Common Stock holder’s (as applicable) executors, administrators, testamentary trustees, legatees and beneficiaries after the holder’s death, provided that any such Transferee shall take such shares subject to all of the provisions and restrictions set forth in this Section 4.5.
+
+(ii) Redemption of Class R and Class S Common Stock. The Corporation shall redeem, out of funds legally available therefor, each issued and outstanding share of Class R Common Stock, on the first business day following the Effective Time, for (A) an amount of cash equal to 50% of the Redemption Price and (B) a promissory note with a principal amount equal to 50% of the Redemption Price, as set forth in Section 2.1(a)(ii) of the Merger Agreement. The Corporation shall redeem, out of funds legally available therefor, each issued and outstanding share of Class S Common Stock, on the first business day following the Effective Time, for an amount of cash equal to the Redemption Price, as set forth in Section 2.1(a)(iii) of the Merger Agreement.
+
+(iii) Procedure for Transfers. Shares of Class R Common Stock and Class S Common Stock which are uncertificated shall be transferred on the books of the Corporation upon presentation at the office of the Secretary of the Corporation (or at such additional place or places as may from time to time be designated by the Secretary of the Corporation) of a written request for transfer in such form as the Corporation requests. Shares of Class R Common Stock and Class S Common Stock represented by certificates shall be transferred on the books of the Corporation, and a new certificate therefor issued, upon presentation at the office of the Secretary of the Corporation (or at such additional place or places as may from time to time be designated by the Secretary of the Corporation) of the certificate for the shares, in proper form for transfer and accompanied by all requisite stock transfer tax stamps.
+
+ 
+
+8
+
+
+
+(iv) Legends. Each outstanding certificate, if any, representing shares of Class R Common Stock or shares of Class S Common Stock shall contain a legend reading substantially as follows, together with any other endorsements that the Board of Directors deems necessary or appropriate:
+
+“THE SECURITIES REPRESENTED BY THIS CERTIFICATE (THE “SECURITIES”) ARE SUBJECT TO RESTRICTIONS ON TRANSFER SET FORTH IN THE AMENDED AND RESTATED CERTIFICATE OF INCORPORATION OF TOWERS WATSON & CO., AS IT MAY BE AMENDED FROM TIME TO TIME (THE “CHARTER”). ANY PURPORTED SALE, GIFT, MORTGAGE, PLEDGE, EXCHANGE, ASSIGNMENT OR OTHER DISPOSITION OR TRANSFER (COLLECTIVELY, A “TRANSFER”), EXCEPT AS SET FORTH IN SECTION 4.5(E) OF THE CHARTER, SHALL BE DEEMED NULL AND VOID. BY ACCEPTING ANY INTEREST IN THE SECURITIES, THE RECIPIENT THEREOF SHALL BE DEEMED TO HAVE AGREED TO, AND SHALL BECOME BOUND BY, ALL OF THE PROVISIONS SET FORTH IN THE CHARTER, INCLUDING THE TRANSFER RESTRICTIONS SET FORTH THEREIN. A COPY OF THE CHARTER MAY BE OBTAINED UPON WRITTEN REQUEST TO THE SECRETARY OF TOWERS WATSON & CO.”
+
+(v) Retirement of Class R and S Shares. The Corporation shall take all such action as is necessary so that any shares of Class R Common Stock and Class S Common Stock that have been redeemed shall be retired and may not be reissued as shares of Class R Common Stock or Class S Common Stock.
+
+(f) Rights of Holders of Class F Stock.
+
+(i) Transfer Restrictions. Except for (A) Transfers to Permitted Transferees that comply with the notice requirements set forth below, (B) Transfers to the Corporation, (C) Transfers, in the event of the death of any natural person who is the record holder of shares of Class F Stock, to such deceased holder’s executors, administrators, testamentary trustees, legatees and beneficiaries, (D) the automatic transfer and exchange pursuant to Section 4.5(f)(ii) hereof, shares of Class F Stock may not be Transferred. Except as expressly provided in this Section 4.5(f), any purported Transfer of shares of Class F Stock shall be void. Shares of Class F Stock may be Transferred to a Permitted Transferee at any time, provided that the Transferor provides at least five (5) business days prior written notice to the Corporation, and any such Permitted Transferee shall take such shares subject to all of the provisions and restrictions set forth in this Section 4.5. Shares of Class F Stock may be Transferred to a Class F Stock holder’s (as applicable) executors, administrators, testamentary trustees, legatees and beneficiaries after the holder’s death, provided that any such Transferee shall take such shares subject to all of the provisions and restrictions set forth in this Section 4.5.
+
+ 
+
+9
+
+
+
+(ii) Automatic Exchange of Class F Stock. Promptly following the earlier of (i) the effectiveness of the Forfeited Share Registration Statement (as defined in the Merger Agreement), if required, or (ii) the Corporation’s determination pursuant to Section 5.14(h) of the Merger Agreement that a Forfeited Share Registration Statement (as defined in the Merger Agreement) is not required (but no earlier than the third (3rd) anniversary of the Effective Time), each outstanding share of Class F Stock shall automatically be exchanged by the record holder thereof for a number of shares of Class A Common Stock equal to the quotient of (A) the number of Forfeited Towers Perrin RSU Shares (as defined in the Merger Agreement) plus the Additional Reallocation Amount (as defined below) divided by (B) the number of then-outstanding shares of Class F Stock (the “Reallocation”). As used herein, “Additional Reallocation Amount” means the number of shares of Class A Common Stock equal to the quotient of (x) the aggregate dividends that were paid on the Forfeited Towers Perrin RSU Shares from the Effective Time until the Reallocation, divided by (y) the average closing price per share of Class A Common Stock (rounded to the nearest cent) for the ten (10) consecutive trading days ending on the second trading day immediately prior to the Reallocation (as reported in the New York City edition of The Wall Street Journal for each such trading day, or, if not reported therein, any other authoritative source reasonably determined by the Board of Directors); provided, that such number of shares shall not in any event exceed 50% of the sum of (x) the number of shares of Class A Common Stock issued as Watson Wyatt Merger Consideration (as defined in the Merger Agreement) plus (y) the number of shares of Class B Common Company Stock issued as Towers Perrin Merger Consideration (as defined in the Merger Agreement). To the extent permitted by applicable law, exchanges pursuant to this Section 4.5(f)(ii) shall be deemed to have been effected on the date of the Reallocation.
+
+(iii) Procedure for Transfers. Shares of Class F Stock which are uncertificated shall be transferred on the books of the Corporation upon presentation at the office of the Secretary of the Corporation (or at such additional place or places as may from time to time be designated by the Secretary of the Corporation) of a written request for transfer in such form as the Corporation requests. Shares of Class F Stock represented by certificates shall be transferred on the books of the Corporation, and a new certificate therefor issued, upon presentation at the office of the Secretary of the Corporation (or at such additional place or places as may from time to time be designated by the Secretary of the Corporation) of the certificate for the shares, in proper form for transfer and accompanied by all requisite stock transfer tax stamps.
+
+(iv) Legends. Each outstanding certificate, if any, representing shares of Class F Stock shall contain a legend reading substantially as follows, together with any other endorsements that the Board of Directors deems necessary or appropriate:
+
+“THE SECURITIES REPRESENTED BY THIS CERTIFICATE (THE “SECURITIES”) ARE SUBJECT TO RESTRICTIONS ON TRANSFER SET FORTH IN THE AMENDED AND RESTATED CERTIFICATE OF INCORPORATION OF TOWERS WATSON & CO., AS IT MAY BE AMENDED FROM TIME TO TIME (THE “CHARTER”). ANY PURPORTED SALE, GIFT, MORTGAGE, PLEDGE,
+
+ 
+
+10
+
+
+
+EXCHANGE, ASSIGNMENT OR OTHER DISPOSITION OR TRANSFER (COLLECTIVELY, A “TRANSFER”), EXCEPT AS SET FORTH IN SECTION 4.5(F) OF THE CHARTER, SHALL BE DEEMED NULL AND VOID. BY ACCEPTING ANY INTEREST IN THE SECURITIES, THE RECIPIENT THEREOF SHALL BE DEEMED TO HAVE AGREED TO, AND SHALL BECOME BOUND BY, ALL OF THE PROVISIONS SET FORTH IN THE CHARTER, INCLUDING THE TRANSFER RESTRICTIONS SET FORTH THEREIN. A COPY OF THE CHARTER MAY BE OBTAINED UPON WRITTEN REQUEST TO THE SECRETARY OF TOWERS WATSON & CO.”
+
+(v) Retirement of Class F Shares. The Corporation shall take all such action as is necessary so that any shares of Class F Stock that have been exchanged pursuant to Section 4.5(f)(ii), shall be retired and may not be reissued as shares of Class F Stock.
+
+(g) Reclassifications, Subdivisions and Combinations. No class of Common Stock, or series thereof, may be reclassified, subdivided or combined, including without limitation pursuant to any stock split, stock dividend or other distribution, reorganization, reclassification or similar event, unless such reclassification, subdivision or combination occurs simultaneously and in the same proportion for each class of Common Stock, and each series thereof, except that Class A Common Stock and Class B Common Stock may be reclassified as a single class of Common Stock at any time following the fourth anniversary of the Effective Time. All dividends or other distributions payable in Common Stock pursuant to stock splits or divisions of Common Stock shall be paid as follows: (i) only shares of Class A Common Stock are paid or distributed with respect to Class A Common Stock, (ii) only shares of Class B-1 Common Stock are paid or distributed with respect to Class B-1 Common Stock, (iii) only shares of Class B-2 Common Stock are paid or distributed with respect to Class B-2 Common Stock, (iv) only shares of Class B-3 Common Stock are paid or distributed with respect to Class B-3 Common Stock, (v) only shares of Class B-4 Common Stock are paid or distributed with respect to Class B-4 Common Stock, (vi) only shares of Class R Common Stock are paid or distributed with respect to Class R Common Stock and (vii) only shares of Class S Common Stock are paid or distributed with respect to Class S Common Stock; provided, that (i) if a dividend or other distribution is paid with respect to the Class A Common Stock other than pursuant to stock splits or divisions of Common Stock, a proportionate dividend or distribution shall paid with respect to the Class B Common Stock and (ii) if a dividend or other distribution is paid with respect to one class or series of Common Stock pursuant to stock splits or divisions of Common Stock, a proportionate dividend or distribution shall be paid with respect to each other class or series of Common Stock.
+
+(h) Dividends and Other Distributions. Subject to the rights of the holders of Preferred Stock and to clause (g) above with respect to stock splits or divisions of Common Stock, holders of Common Stock are entitled to receive such dividends and other distributions in cash, stock of any corporation or property of the Corporation as may be declared thereon by the Board of Directors from time to time out of assets or funds of the Corporation legally available therefor, and shall share equally on a per share
+
+ 
+
+11
+
+
+
+basis in all such dividends and other distributions. Except as set forth in Section 4.5(f)(ii) hereof, shares of Class F Stock shall not be entitled to receive any dividends or other distributions from the Corporation.
+
+(i) Liquidation, Dissolution and Winding Up. In the event of any liquidation, dissolution or winding up of the affairs of the Corporation, whether voluntary or involuntary, after payment in full of the amounts required to be paid to the holders of Preferred Stock, the remaining assets and funds of the Corporation shall be distributed pro rata to the holders of shares of Common Stock. For purposes of this Section 4.5(i), the voluntary sale, conveyance, lease, exchange or transfer (for cash, shares of stock, securities or other consideration) of all or substantially all of the assets of the Corporation or a consolidation or merger of the Corporation with one or more other corporations (whether or not the Corporation is the corporation surviving the consolidation or merger) shall not be deemed to be a liquidation, dissolution or winding up, voluntary or involuntary. Shares of Class F Stock shall not be entitled to receive any distribution from the assets or funds of the Corporation, in connection with any liquidation, dissolution or winding up of the affairs of the Corporation.
+
+(j) Fractional Shares. Fractional shares of Common Stock and Class F Stock may be issued; however, no certificates or scrip representing fractional shares of Class A Common Stock will be issued upon the automatic conversion of shares of Class B Common Stock into shares of Class A Common Stock or the exchange of shares of Class B Common Stock for shares of Class A Common Stock or the exchange of shares of Class A Common Stock for Shares of Class F Stock, but in lieu thereof each holder of such shares who would otherwise be entitled to a fraction of a share upon such event shall receive from the Corporation (after aggregating all fractional shares of Class B Common Stock or Class A Common Stock to be received by such holder in such event) an amount of cash (rounded down to the nearest whole cent), without interest, equal to the product of such fraction multiplied by the average per-share trading price of Class A Common Stock for the ten (10) consecutive trading days ending on the second trading day immediately prior to the date of such conversion or exchange (as reported in the New York City edition of The Wall Street Journal for each such trading day, or, if not reported therein, any other authoritative source to be selected by the Corporation). Such payment shall occur as soon as reasonably practicable after the determination of the amount of cash, if any, to be paid to each person entitled to receive cash pursuant to the immediately preceding sentence, and upon such payment, all of the fractional shares to which such payment relates shall be cancelled.
+
+5. Limitation of Liability. A director of the Corporation shall not be personally liable to the Corporation or its stockholders for monetary damages for breach of fiduciary duty as a director, except for liability (a) for any breach of the director’s duty of loyalty to the Corporation or its stockholders, (b) for acts or omissions not in good faith or which involve intentional misconduct or a knowing violation of law, (c) under Section 174 of the DGCL or (d) for any transaction from which the director derived an improper personal benefit. If the DGCL is amended to authorize the further elimination or limitation of the liability of directors, then the liability of directors is eliminated or limited to the full extent authorized.
+
+ 
+
+12
+
+
+
+6. Amendment of Bylaws. In furtherance and not in limitation of the powers conferred by the laws of the State of Delaware, the Board of Directors is authorized to adopt, amend or repeal the Bylaws of the Corporation (as may be amended and in effect from time to time, the “Bylaws”). No adoption, amendment or repeal of any provision of the Bylaws by action of stockholders shall be effective unless approved by the affirmative vote of the holders of at least 67% of the voting power of the shares entitled to vote generally in the election of directors.
+
+7. Board of Directors.
+
+7.1 The business and affairs of the Corporation are managed by or under the direction of a Board of Directors. The number of directors of the Corporation constituting the whole Board of Directors shall be fixed exclusively by the Board of Directors. The election of directors need not be by ballot. Notwithstanding the foregoing, for any director who is an employee of the Corporation or any of its Affiliates at the time of election to the Board of Directors, it is a qualification for service as a director that such director remain so employed, so that such director shall no longer be qualified to be a director and shall therefore automatically cease to be a director upon termination of such director’s employment with the Corporation or such Affiliate for any reason.
+
+7.2 Any director may be removed, with or without cause, but only with the affirmative vote of the holders of not less than 67% of the voting power of all outstanding shares of stock of the Corporation entitled to vote generally in the election of directors, considered for this purpose as a single class.
+
+7.3 Vacancies and newly created directorships resulting from any increase in the authorized number of directors or from any other cause (other than vacancies and newly created directorships which the holders of any class or classes of stock or series thereof are expressly entitled by this Amended and Restated Certificate of Incorporation to fill) shall, unless otherwise required by resolution of the Board of Directors, be filled by, and only by, the affirmative vote of a majority of the members of the Board of Directors then in office, although less than a quorum, or by the sole remaining director. Any director appointed to fill a vacancy or a newly created directorship shall hold office until the next election of the directors and until his or her successor is elected and qualified or until his or her earlier resignation or removal.
+
+8. Stockholder Meetings. No action of stockholders of the Corporation required or permitted to be taken at any annual or special meeting of stockholders may be taken without such a meeting, without prior notice, or without a vote, and the power of stockholders of the Corporation to consent in writing to the taking of any action without a meeting is specifically denied; provided, however, that the holders of any series of Preferred Stock of the Corporation shall be entitled to take action by written consent to such extent, if any, as may be provided in the terms of such series. Subject to the rights of holders of any series of Preferred Stock, special meetings of stockholders of the Corporation may be only be called as follows: (a) by the Chief Executive Officer of the Corporation; (b) by the President of the Corporation or (c) by the Board of Directors pursuant to a resolution adopted by the Board of Directors.
+
+ 
+
+13
+
+
+
+9. Indemnification.
+
+9.1 Right to Indemnification. The Corporation shall, as set forth more fully in the Bylaws, indemnify and hold harmless each of its directors and officers, and advance expenses (including attorneys fees) incurred by directors and officers in matters subject to such indemnification, in each case to the fullest extent permitted by Delaware law, as the same exists or may hereafter be amended (but, in the case of any such amendment, only to the extent that such amendment permits the Corporation to provide broader indemnification rights than such law permitted the Corporation to provide prior to such amendment), and such right to indemnification and advancement of expenses shall continue as to any person who has ceased to be a director or officer and shall inure to the benefit of his or her heirs, executors and administrators. Notwithstanding the foregoing, except with respect to proceedings to enforce rights to indemnification or advancement of expenses, the Corporation shall not indemnify any current or former director or officer in connection with a proceeding (or part thereof) initiated by such director or officer unless such proceeding (or part thereof) was authorized by the Board of Directors.
+
+9.2 Non-Exclusivity of Rights. The rights conferred on any person by this Article 9 shall not be exclusive of any other right which such person may have or hereafter acquire under applicable law, this Amended and Restated Certificate of Incorporation, the Bylaws, any agreement, vote of stockholders or disinterested directors, or otherwise.
+
+9.3 Indemnification of Persons Other Than Directors and Officers. This Article 9 shall not limit the right of the Corporation, to the extent and in the manner authorized or permitted thereby, to indemnify and to advance expenses, pursuant to applicable law, the Bylaws, any agreement, vote of stockholders or disinterested directors, or otherwise, to persons other than directors or officers of the Corporation.
+
+10. Amendments. Subject to the provisions of this Amended and Restated Certificate of Incorporation, the Corporation reserves the right to amend, alter, change or repeal any provision contained in this Amended and Restated Certificate of Incorporation, in the manner now or hereafter prescribed by statute, and all rights conferred upon stockholders in this Amended and Restated Certificate of Incorporation are granted subject to this reservation.
+
+11. Effective Time. This Amended and Restated Certificate of Incorporation shall be effective at 12:00 a.m., Eastern Time, on January 1, 2010.
+
+[Signature page follows]
+
+ 
+
+14
+
+
+
+IN WITNESS WHEREOF, the undersigned duly authorized officer of the Corporation has caused this Amended and Restated Certificate of Incorporation to be executed as of December 30, 2009.
+
+ 
+
+
+
+
+
+
+
+
+
+By:
+
+ 
+
+/s/ Walter W. Bardenwerper
+
+
+
+
+
+ 
+
+Walter W. Bardenwerper
+
+
+
+ 
+
+Secretary
+
+ 
+
+15

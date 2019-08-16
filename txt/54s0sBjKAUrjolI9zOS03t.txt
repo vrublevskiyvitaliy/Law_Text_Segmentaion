@@ -1,0 +1,179 @@
+Exhibit 10.3
+
+Form of Agreement
+
+THE WALT DISNEY COMPANY
+
+Non-Qualified Stock Option Award Agreement
+
+[Seven-year / Ten-year Form]
+
+This AWARD AGREEMENT (the “Agreement”) is between you, Participant Name, and The Walt Disney Company (“Disney”), in connection with the Non-Qualified Stock Option Award (the “Option”) granted to you on Grant Date, by the Compensation Committee of the Board of Directors of Disney pursuant to the terms of the Amended and Restated 2005 Stock Incentive Plan (the “Plan”), the applicable terms and conditions of which are incorporated herein by reference and made a part of this Agreement.
+
+This Option gives you the opportunity to purchase ### shares of Common Stock of The Walt Disney Company at an exercise price of $Option Price per share. The exercise price is the average of the highest and the lowest market prices for the Common Stock on the above grant date as determined pursuant to the Plan.
+
+This Option may not be exercised before First Vest Date. On or after that date, subject to your continued employment by Disney or an affiliated company (as described further below) and to the other provisions of the Plan, you may exercise the Option with respect to the number of shares set forth opposite the first date below. As the subsequent dates set forth below occur, you may exercise as to the number of shares set forth opposite those dates:
+
+ 
+
+
+
+
+
+
+
+Vest Date 1
+
+  
+
+Exercise Qty 1 Shares
+
+Vest Date 2
+
+  
+
+Exercise Qty 2 Shares
+
+Vest Date 3
+
+  
+
+Exercise Qty 3 Shares
+
+Vest Date 4
+
+  
+
+Exercise Qty 4 Shares
+
+Provided your employment continues, the term of this Option is [seven][ten] years from the grant date and, therefore, expires on [insert, as applicable, seventh or tenth anniversary date of grant date]. If your employment should cease prior to the date on which your grant expires, your right to vest and exercise under the Option will be subject to early termination as provided in Sections 6.5, 12 and 13.2 of the Plan. Except under certain circumstances specified in such Sections, you will generally have the right of continued vesting and exercisability for three months following the date of termination of your employment (such period as it may hereinafter be extended in certain circumstances as provided below being the “Extended Vesting and Exercisability Period”), and any shares that vest during the Extended Vesting and Exercisability Period will be exercisable during such longer period (or, under certain circumstances, for such period as may be provided by the Plan).
+
+ 
+
+1
+
+
+
+Form of Agreement
+
+You may exercise this Option as to all or part of the number of shares covered by the Option which are then vested by paying the aggregate exercise price and applicable withholding taxes on the gross gain. You will be provided with additional information at the time of exercise about the methods available for exercising your Option and paying your withholding taxes, in accordance with the methods of exercising options permitted under Section 6.6 of the Plan. You are urged to seek advice from your tax accountant or attorney when making decisions regarding the exercise of this Option. This Option may not be transferred or assigned.
+
+Notwithstanding any other term or provision hereof, you agree by acceptance of this Option that, except for certain shares (the “Tax-Available Shares”) that may be sold to pay taxes up to the Maximum Tax Liability (as defined below) upon an exercise of a portion of, or all of, this Option, you will hold, for not less than twelve months from the date of exercise of this Option, shares representing no less than [seventy-five percent (75%)] [one hundred percent (100%)] of the shares acquired by you (other than Tax-Available Shares) upon such exercise; provided, however, that the foregoing obligation to hold such shares (and any similar obligation in any non-qualified stock option award previously granted to you) shall not be applicable at any time when you are already holding shares of Common Stock of Disney (including any outstanding restricted stock units (with or without performance-based vesting conditions) awarded to you by with a value equal to at least [three] [five] times your base salary as in effect at such time (the “Disney Stock Ownership Requirement”). For purposes hereof the term “Maximum Tax Liability” shall mean the amount calculated by multiplying total income recognized, as reported by Disney for Federal income tax purposes, upon an exercise of this Option, by a percentage determined as follows:
+
+FR + SR (100-FR) + MR
+
+where:
+
+FR = the highest Federal income tax rate in effect at time of exercise of the Option;
+
+SR = the highest state income tax rate, if any, in effect at the time of exercise of the Option in the state where your principle Disney office is located; and
+
+MR = the Medicare tax rate in effect at time of exercise of the Option.
+
+ 
+
+2
+
+
+
+Form of Agreement
+
+The number of whole shares acquired upon any exercise of the Options that may be sold to discharge the Maximum Tax Liability shall be determined by dividing the Maximum Tax Liability by the fair market value (as defined in Section 2 of the Plan) of one share of Disney common stock on the date of exercise of the Option and disregarding any fractional amount resulting from such calculation.
+
+For the purposes hereof, your commitment to hold the percentage of shares referred to above for not less than twelve months unless you are already in compliance with the Disney Stock Ownership Requirement shall constitute an undertaking by you not to sell, transfer, pledge, encumber, assign or otherwise dispose of, except for certain transfers to “family members” and certain others permitted with the prior approval of the Committee pursuant to Section 6.7 of the Plan, any of such shares during such period.
+
+If you are employed pursuant to an employment agreement with Disney, any provisions thereof relating to the effect of a termination of your employment upon your rights with respect to this Option, including, without limitation, any provision regarding acceleration of this Option, shall be fully applicable and shall supercede the provisions hereof relating to the same subject matter, but in no event shall the restriction on sale of shares acquired upon the exercise of this Option referred herein apply after any termination of your employment with Disney.
+
+In the event that your employment with Disney or an Affiliate thereof terminates for any reason other than death or “cause” (as further provided in the Plan) at a time when (i) you have attained the age of sixty and have completed at least ten consecutive Service Years (as hereinafter defined) and (ii) at least one year has passed since the Grant Date of this Option, then notwithstanding any other term or provision hereof, the Extended Vesting and Exercisability Period shall continue until the earlier of three years from the date of termination of your employment or the expiration date of this Option as provided above; provided, however, that in the event of your death during such period, all remaining unvested Tranches of this Option shall vest immediately upon such event and thereafter all remaining unexercised Tranches (or portions thereof) of this Option shall be exercisable until the earlier of the expiration of 18 months from date of death or the expiration date of this Option. For purposes of the foregoing, “Service Year” shall mean any calendar year during which you have continuously employed by Disney or an Affiliate thereof for the entire calendar year. In determining the total number of consecutive Service Years that you have been so employed, the Company shall apply such rules regarding the bridging of service as the Committee may adopt from time to time.
+
+ 
+
+3
+
+
+
+Form of Agreement
+
+Notwithstanding any other term or provision hereof, if you are employed pursuant to an employment agreement with Disney or an Affiliate which provides under certain circumstances for the continued vesting and/or exercisability of this Option in the event of the termination of such employment agreement prior to its scheduled expiration date (a “Contractual Extension Provision”), then, except as otherwise expressly provided in such employment agreement, (i) this Option shall be interpreted and applied in all respects to have the same effect as if you had remained continuously employed by Disney or an Affiliate thereof from the Grant Date of this Option through the scheduled expiration date of such employment agreement and (ii) the date of termination of your employment for all purposes under this Section 6 shall be deemed to be the scheduled expiration date of such employment agreement.
+
+Please sign this Non-Qualified Stock Option Award Agreement where indicated below. Your signature acknowledges receipt of a copy of the Plan and evidences your agreement to be bound by all the terms and provisions of this Agreement and the Plan.
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+THE WALT DISNEY COMPANY
+
+ 
+
+
+
+ 
+
+PARTICIPANT
+
+
+
+
+
+
+
+
+
+
+
+By: 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+By: 
+
+ 
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+(Signature of Participant)
+
+ 
+
+4

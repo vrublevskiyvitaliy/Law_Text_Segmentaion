@@ -1,0 +1,541 @@
+Exhibit 10.2
+
+
+
+NEITHER THE ISSUANCE AND SALE OF THE SECURITIES REPRESENTED BY THIS CERTIFICATE NOR THE SECURITIES INTO WHICH THESE SECURITIES ARE CONVERTIBLE HAVE BEEN REGISTERED UNDER THE SECURITIES ACT OF 1933, AS AMENDED, OR APPLICABLE STATE SECURITIES LAWS. THE SECURITIES MAY NOT BE OFFERED FOR SALE, SOLD, TRANSFERRED OR ASSIGNED (I) IN THE ABSENCE OF (A) AN EFFECTIVE REGISTRATION STATEMENT FOR THE SECURITIES UNDER THE SECURITIES ACT OF 1933, AS AMENDED, OR (B) AN OPINION OF COUNSEL (WHICH COUNSEL SHALL BE SELECTED BY THE HOLDER), IN A GENERALLY ACCEPTABLE FORM, THAT REGISTRATION IS NOT REQUIRED UNDER SAID ACT OR (II) UNLESS SOLD PURSUANT TO RULE 144 OR RULE 144A UNDER SAID ACT. NOTWITHSTANDING THE FOREGOING, THE SECURITIES MAY BE PLEDGED IN CONNECTION WITH A BONA FIDE MARGIN ACCOUNT OR OTHER LOAN OR FINANCING ARRANGEMENT SECURED BY THE SECURITIES.
+
+
+
+
+
+
+
+
+
+Principal Amount: $______
+
+ 
+
+Issue Date: January 6, 2010
+
+Purchase Price: $_______
+
+ 
+
+ 
+
+
+
+SECURED CONVERTIBLE PROMISSORY NOTE
+
+
+
+FOR VALUE RECEIVED, CLEAR SKIES SOLAR, INC., a Delaware corporation (hereinafter called “Borrower”), hereby promises to pay to the order of __________ (the “Holder”), without demand, the sum of ___________Dollars ($_______) (“Principal Amount”), with interest accruing thereon, on January 6, 2011 (the “Maturity Date”), if not sooner paid.
+
+
+
+This Note has been entered into pursuant to the terms of a subscription agreement between the Borrower, the Holder and the other signatories thereto (“Other Holders”) dated at or about the date hereof (the “Subscription Agreement”), who have been issued Notes pursuant to the Subscription Agreement (“Other Notes”) and shall be governed by the terms of such Subscription Agreement. Unless otherwise separately defined herein, all capitalized terms used in this Note shall have the same meaning as is set forth in the Subscription Agreement. The following terms shall apply to this Note:
+
+
+
+ARTICLE I
+
+
+
+GENERAL PROVISIONS
+
+
+
+1.1
+
+Interest Rate. Interest payable on this Note shall accrue at the annual rate of five percent (5%) and be payable on the Maturity Date, accelerated or otherwise, when the principal and remaining accrued but unpaid interest shall be due and payable, or sooner as described below.
+
+
+
+1.2
+
+Payment Grace Period. The Borrower shall not have any grace period to pay any monetary amounts due under this Note. During the pendency of an Event of Default (as described in Article III), a default interest rate of eighteen percent (18%) per annum shall be in effect.
+
+
+
+1.3
+
+Conversion Privileges. The Conversion Rights set forth in Article II shall remain in full force and effect immediately from the date hereof and until the Note is paid in full regardless of the occurrence of an Event of Default. This Note shall be payable in full on the Maturity Date, unless previously converted into Common Stock in accordance with Article II hereof.
+
+
+
+1.4
+
+Prepayment. This Note may be prepaid by the Borrower in whole, at any time, or in part, from time to time, without penalty or premium, upon thirty (30) days prior written notice to the Holder. Upon receipt of such notice, the Holder may determine to convert the Note pursuant to Article II.
+
+
+
+ARTICLE II
+
+
+
+CONVERSION RIGHTS
+
+
+
+The Holder shall have the right to convert the principal and any interest due under this Note into Shares of the Borrower's Common Stock, $.001 par value per share (“Common Stock”) as set forth below.
+
+
+
+2.1.
+
+Conversion into the Borrower's Common Stock.
+
+
+
+(a)
+
+Commencing March 31, 2010, the Holder shall have the right at any time until this Note is fully paid, to convert any outstanding and unpaid principal portion of this Note, and accrued interest, at the election of the Holder (the date of giving of such notice of conversion being a "Conversion Date") into fully paid and non-assessable shares of Common Stock as such stock exists on the date of issuance of this Note, or any shares of capital stock of Borrower into which such Common Stock shall hereafter be changed or reclassified, at the conversion price as defined in Section 2.1(b) hereof, determined as provided herein. Upon delivery to the Borrower of a completed Notice of Conversion, a form of which is annexed hereto as Exhibit A, Borrower shall issue and deliver to the Holder within three (3) business days after the Conversion Date (such third day being the “Delivery Date”) that number of shares of Common S tock for the portion of the Note converted in accordance with the foregoing. At the election of the Holder, the Borrower will deliver accrued but unpaid interest on the Note, if any, through the Conversion Date directly to the Holder on or before the Delivery Date. The number of shares of Common Stock to be issued upon each conversion of this Note shall be determined by dividing that portion of the principal of the Note and interest, if any, to be converted, by the Conversion Price.
+
+
+
+(b)
+
+Subject to adjustment as provided in Section 2.1(c) hereof, the fixed conversion price per share shall be equal to $0.10 (“Fixed Conversion Price”). In the event (i) on or before March 31, 2010, there is not a closing on an additional financing of not less than $500,000, or (ii) the Note is not paid in full on the Maturity Date, then the Conversion Price will be reduced to $0.06, subject to adjustments as described in this Note and the Transaction Documents.
+
+
+
+(c)
+
+ The Fixed Conversion Price and number and kind of shares or other securities to be issued upon conversion determined pursuant to Section 2.1(a), shall be subject to adjustment from time to time upon the happening of certain events while this conversion right remains outstanding, as follows:
+
+
+
+A.
+
+Merger, Sale of Assets, etc. If (A) the Borrower effects any merger or consolidation of the Borrower with or into another entity, (B) the Borrower effects any sale of all or substantially all of its assets in one or a series of related transactions, (C) any tender offer or exchange offer (whether by the Borrower or another entity) is completed pursuant to which holders of Common Stock are permitted to tender or exchange their shares for other securities, cash or property, (D) the Borrower consummates a stock purchase agreement or other business combination (including, without limitation, a reorganization, recapitalization, spin-off or scheme of arrangement) with one or more persons or entities whereby such other persons or entities acquire more than the 50% of the outstanding shares of Common Stock (not including any shares of Common Stock held by such other persons or entities making or party to, or associated or affiliated with the other persons or entities making or party to, such stock purchase agreement or other business combination), (E) any "person" or "group" (as these terms are used for purposes of Sections 13(d) and 14(d) of the 1934 Act) is or shall become the "beneficial owner" (as defined in Rule 13d-3 under the 1934 Act), directly or indirectly, of 50% of the aggregate Common Stock of the Borrower, or (F) the Borrower effects any reclassification of the Common Stock or any compulsory share exchange pursuant to which the Common Stock is effectively converted into or exchanged for other securities, cash or property (in any such case, a "Fundamental Transaction"), this Note, as to the unpaid principal portion thereof and accrued interest thereon, shall thereafter be deemed to evidence the right to convert into such number and kind of shares or other securities and property as would have been issuable or distributable on account of such Fundamental Transaction, upon or with respect to the secur ities subject to the conversion right immediately prior to such Fundamental Transaction. The foregoing provision shall similarly apply to successive Fundamental Transactions of a similar nature by any such successor or purchaser. Without limiting the generality of the foregoing, the anti-dilution provisions of this Section shall apply to such securities of such successor or purchaser after any such Fundamental Transaction.
+
+
+
+B.
+
+Reclassification, etc. If the Borrower at any time shall, by reclassification or otherwise, change the Common Stock into the same or a different number of securities of any class or classes that may be issued or outstanding, this Note, as to the unpaid principal portion thereof and accrued interest thereon, shall thereafter be deemed to evidence the right to purchase an adjusted number of such securities and kind of securities as would have been issuable as the result of such change with respect to the Common Stock immediately prior to such reclassification or other change.
+
+
+
+C.
+
+Stock Splits, Combinations and Dividends. If the shares of Common Stock are subdivided or combined into a greater or smaller number of shares of Common Stock, or if a dividend is paid on the Common Stock in shares of Common Stock, the Conversion Price shall be proportionately reduced in case of subdivision of shares or stock dividend or proportionately increased in the case of combination of shares, in each such case by the ratio which the total number of shares of Common Stock outstanding immediately after such event bears to the total number of shares of Common Stock outstanding immediately prior to such event.
+
+
+
+2
+
+
+
+D.
+
+Share Issuance. So long as this Note is outstanding, if the Borrower shall issue any Common Stock except for the Excepted Issuances (as defined in the Subscription Agreement), prior to the complete conversion or payment of this Note, for a consideration per share that is less than the Fixed Conversion Price that would be in effect at the time of such issue, then, and thereafter successively upon each such issuance, the Fixed Conversion Price shall be reduced to such other lower issue price. For purposes of this adjustment, the issuance of any security or debt instrument of the Borrower carrying the right to convert such security or debt instrument into Common Stock or of any warrant, right or option to purchase Common Stock shall result in an adjustment to the Fixed Conversion Price upon the issuance of the above-described security, debt instrument, warrant, right, or option and again upon the issuance of shares of Common Stock upon exercise of su ch conversion or purchase rights if such issuance is at a price lower than the then applicable Fixed Conversion Price. Common Stock issued or issuable by the Borrower for no consideration will be deemed issuable or to have been issued for $0.001 per share of Common Stock. The reduction of the Fixed Conversion Price described in this paragraph is in addition to the other rights of the Holder described in the Subscription Agreement.
+
+
+
+E.
+
+Funding Reset. In the event on or before March 31, 2010, the Borrower does not raise an additional capital of not less than $500,000 of net proceeds to Borrower from the sale of common stock (“Additional Funding”), then the Conversion Price shall be reduced to $0.06, subject to adjustments as described in the Note and the Transaction Documents.
+
+
+
+(d)
+
+Whenever the Conversion Price is adjusted pursuant to Section 2.1(c) above, the Borrower shall promptly mail to the Holder a notice setting forth the Conversion Price after such adjustment and setting forth a statement of the facts requiring such adjustment.
+
+
+
+(e)
+
+During the period the conversion right exists, Borrower will reserve from its authorized and unissued Common Stock not less than an amount of Common Stock equal to 150% of the amount of shares of Common Stock issuable upon the full conversion of this Note. Borrower represents that upon issuance, such shares will be duly and validly issued, fully paid and non-assessable. Borrower agrees that its issuance of this Note shall constitute full authority to its officers, agents, and transfer agents who are charged with the duty of executing and issuing stock certificates to execute and issue the necessary certificates for shares of Common Stock upon the conversion of this Note.
+
+
+
+2.2
+
+Method of Conversion. This Note may be converted by the Holder in whole or in part as described in Section 2.1(a) hereof and the Subscription Agreement. Upon partial conversion of this Note, a new Note containing the same date and provisions of this Note shall, at the request of the Holder, be issued by the Borrower to the Holder for the principal balance of this Note and interest which shall not have been converted or paid.
+
+
+
+2.3.
+
+Maximum Conversion. The Holder shall not be entitled to convert on a Conversion Date that amount of the Note in connection with that number of shares of Common Stock which would be in excess of the sum of (i) the number of shares of Common Stock beneficially owned by the Holder and its affiliates on a Conversion Date, (ii) any Common Stock issuable in connection with the unconverted portion of the Note, and (iii) the number of shares of Common Stock issuable upon the conversion of the Note with respect to which the determination of this provision is being made on a Conversion Date, which would result in beneficial ownership by the Holder and its affiliates of more than 4.99% of the outstanding shares of Common Stock of the Borrower on such Conversion Date. For the purposes of the provision to the immediately preceding sentence, beneficial ownership shall be determined in accordance with Section 13(d) of the Securities Exchange Act of 1934, as amend ed, and Regulation 13d-3 thereunder. Subject to the foregoing, the Holder shall not be limited to aggregate conversions of 4.99%. The Holder shall have the authority and obligation to determine whether the restriction contained in this Section 2.3 will limit any conversion hereunder and to the extent that the Holder determines that the limitation contained in this Section applies, the determination of which portion of the Notes are convertible shall be the responsibility and obligation of the Holder. The Holder may waive the conversion limitation described in this Section 2.3, in whole or in part, upon and effective after 61 days prior written notice to the Borrower to increase such percentage to up to 9.99%.
+
+
+
+ARTICLE III
+
+
+
+EVENT OF DEFAULT
+
+
+
+The occurrence of any of the following events of default ("Event of Default") shall, at the option of the Holder hereof, make all sums of principal and interest then remaining unpaid hereon and all other amounts payable hereunder immediately due and payable, upon demand, without presentment, or grace period, all of which hereby are expressly waived, except as set forth below:
+
+
+
+3.1
+
+Failure to Pay Principal or Interest. The Borrower fails to pay any installment of principal, interest or other sum due under this Note when due.
+
+
+
+3.2
+
+Breach of Covenant. The Borrower breaches any material covenant or other term or condition of the Subscription Agreement, Transaction Documents or this Note in any material respect and such breach, if subject to cure, continues for a period of five (5) business days after written notice to the Borrower from the Holder.
+
+
+
+3
+
+
+
+3.3
+
+Breach of Representations and Warranties. Any material representation or warranty of the Borrower made herein, in the Subscription Agreement, Transaction Documents, or in any agreement, statement or certificate given in writing pursuant hereto or in connection therewith shall be false or misleading in any material respect as of the date made and the Closing Date.
+
+
+
+3.4
+
+Liquidation. Any dissolution, liquidation or winding up of Borrower or any substantial portion of its business.
+
+
+
+3.5
+
+Cessation of Operations. Any cessation of operations by Borrower or Borrower admits it is otherwise generally unable to pay its debts as such debts become due.
+
+
+
+3.6
+
+Maintenance of Assets. The failure by Borrower to maintain any material intellectual property rights, personal, real property or other assets which are necessary to conduct its business (whether now or in the future).
+
+
+
+3.7
+
+Receiver or Trustee. The Borrower or any Subsidiary of Borrower shall make an assignment for the benefit of creditors, or apply for or consent to the appointment of a receiver or trustee for it or for a substantial part of its property or business; or such a receiver or trustee shall otherwise be appointed.
+
+
+
+3.8
+
+Judgments. Any money judgment, writ or similar final process shall be entered or filed against Borrower or any of its property or other assets for more than $250,000, unless stayed vacated or satisfied within thirty (30) days.
+
+
+
+3.9
+
+Bankruptcy. Bankruptcy, insolvency, reorganization or liquidation proceedings or other proceedings or relief under any bankruptcy law or any law, or the issuance of any notice in relation to such event, for the relief of debtors shall be instituted by or against the Borrower or any Subsidiary of Borrower.
+
+
+
+3.10
+
+Delisting. Delisting of the Common Stock from any Principal Market; failure to comply with the requirements for continued listing on a Principal Market for a period of five (5) consecutive trading days; or notification from a Principal Market that the Borrower is not in compliance with the conditions for such continued listing on such Principal Market.
+
+
+
+3.11
+
+Non-Payment. A default by the Borrower under any one or more obligations in an aggregate monetary amount in excess of $200,000 for more than twenty (20) days after the due date, unless the Borrower is contesting the validity of such obligation in good faith.
+
+
+
+3.12
+
+Stop Trade. An SEC or judicial stop trade order or Principal Market trading suspension that lasts for five or more consecutive trading days.
+
+
+
+3.13
+
+Failure to Deliver Common Stock or Replacement Note. Borrower's failures to timely deliver Common Stock to the Holder pursuant to and in the form required by this Note and Sections 7 and 11 of the Subscription Agreement, or, if required, a replacement Note.
+
+
+
+3.14
+
+Reservation Default. Following March 31, 2010, failure by the Borrower to have reserved for issuance upon conversion of the Note or upon exercise of the Warrants issued in connection with the Subscription Agreement, the number of shares of Common Stock as required in the Subscription Agreement, this Note and the Warrants.
+
+
+
+3.15
+
+Financial Statement Restatement. The restatement after the date hereof of any financial statements filed by the Borrower with the Securities and Exchange Commission for any date or period from two years prior to the Issue Date of this Note and until this Note is no longer outstanding, if the result of such restatement would, by comparison to the unrestated financial statements, have constituted a Material Adverse Effect.
+
+
+
+3.16
+
+Other Note Default. The occurrence of any Event of Default under any Other Note.
+
+
+
+3.17
+
+Reverse Splits. The Borrower effectuates a reverse split of its Common Stock without twenty (20) days prior written notice to the Holder.
+
+
+
+3.18
+
+Event Described in Subscription Agreement. The occurrence of an Event of Default as described in the Subscription Agreement that, if susceptible to cure, is not cured during any designated cure period.
+
+
+
+3.19
+
+Executive Officers Breach of Duties. Any of Borrower’s named executive officers or directors is convicted of a violation of securities laws, or a settlement in excess of $250,000 is reached by any such officer or director relating to a violation of securities laws, breach of fiduciary duties or self-dealing.
+
+
+
+4
+
+
+
+3.20
+
+Cross Default. A default by the Borrower of a material term, covenant, warranty or undertaking of any other agreement to which the Borrower and Holder are parties, including but not limited to in connection with the Prior Transaction, or the occurrence of a material event of default under any such other agreement to which Borrower and Holder are parties which is not cured after any required notice and/or cure period.
+
+
+
+ARTICLE IV
+
+
+
+SECURITY INTEREST
+
+
+
+4.
+
+Security Interest/Waiver of Automatic Stay. This Note is secured by a security interest granted to the Holder pursuant to a Security Agreement, as delivered by Borrower to Holder. The Borrower acknowledges and agrees that should a proceeding under any bankruptcy or insolvency law be commenced by or against the Borrower, or if any of the Collateral (as defined in the Security Agreement) should become the subject of any bankruptcy or insolvency proceeding, then the Holder should be entitled to, among other relief to which the Holder may be entitled under the Transaction Documents and any other agreement to which the Borrower and Holder are parties (collectively, "Loan Documents") and/or applicable law, an order from the court granting immediate relief from the automatic stay pursuant to 11 U.S.C. Section 362 to permit the Holder to exercise all of its rights and remedies pursuant to the Loan Documents and/or applicable law. THE BORRO WER EXPRESSLY WAIVES THE BENEFIT OF THE AUTOMATIC STAY IMPOSED BY 11 U.S.C. SECTION 362. FURTHERMORE, THE BORROWER EXPRESSLY ACKNOWLEDGES AND AGREES THAT NEITHER 11 U.S.C. SECTION 362 NOR ANY OTHER SECTION OF THE BANKRUPTCY CODE OR OTHER STATUTE OR RULE (INCLUDING, WITHOUT LIMITATION, 11 U.S.C. SECTION 105) SHALL STAY, INTERDICT, CONDITION, REDUCE OR INHIBIT IN ANY WAY THE ABILITY OF THE HOLDER TO ENFORCE ANY OF ITS RIGHTS AND REMEDIES UNDER THE LOAN DOCUMENTS AND/OR APPLICABLE LAW. The Borrower hereby consents to any motion for relief from stay that may be filed by the Holder in any bankruptcy or insolvency proceeding initiated by or against the Borrower and, further, agrees not to file any opposition to any motion for relief from stay filed by the Holder. The Borrower represents, acknowledges and agrees that this provision is a specific and material aspect of the Loan Documents, and that the Holder would not agree to the terms of the Loan Documents if this waiver were not a part of this Note. The Borrower further represents, acknowledges and agrees that this waiver is knowingly, intelligently and voluntarily made, that neither the Holder nor any person acting on behalf of the Holder has made any representations to induce this waiver, that the Borrower has been represented (or has had the opportunity to he represented) in the signing of this Note and the Loan Documents and in the making of this waiver by independent legal counsel selected by the Borrower and that the Borrower has discussed this waiver with counsel.
+
+
+
+ARTICLE V
+
+
+
+MISCELLANEOUS
+
+
+
+5.1
+
+Failure or Indulgence Not Waiver. No failure or delay on the part of the Holder hereof in the exercise of any power, right or privilege hereunder shall operate as a waiver thereof, nor shall any single or partial exercise of any such power, right or privilege preclude other or further exercise thereof or of any other right, power or privilege. All rights and remedies existing hereunder are cumulative to, and not exclusive of, any rights or remedies otherwise available.
+
+
+
+5.2
+
+Notices. All notices, demands, requests, consents, approvals, and other communications required or permitted hereunder shall be in writing and, unless otherwise specified herein, shall be (i) personally served, (ii) deposited in the mail, registered or certified, return receipt requested, postage prepaid, (iii) delivered by reputable air courier service with charges prepaid, or (iv) transmitted by hand delivery, telegram, or facsimile, addressed as set forth below or to such other address as such party shall have specified most recently by written notice. Any notice or other communication required or permitted to be given hereunder shall be deemed effective (a) upon hand delivery or delivery by facsimile, with accurate confirmation generated by the transmitting facsimile machine, at the address or number designated below (if delivered on a business day during normal business hours where such notice is to be received), or the first business day foll owing such delivery (if delivered other than on a business day during normal business hours where such notice is to be received) or (b) on the first business day following the date of mailing by express courier service, fully prepaid, addressed to such address, or upon actual receipt of such mailing, whichever shall first occur. The addresses for such communications shall be: (i) if to the Borrower to: Clear Skies Solar, Inc., 200 Old Country Road, Suite 610, Mineola, New York 11501, Attn: Ezra Green, CEO, facsimile: (516) 281-7150, with a copy by fax only to: Harvey Kesner, Esq., Sichenzia Ross Friedman Ference LLP, 61 Broadway, 32nd Floor, New York, NY 10006, facsimile: (212) 930-9725, and (ii) if to the Holder, to the name, address and facsimile number set forth on the front page of this Note, with a copy by fax only to Grushko & Mittman, P.C., 551 Fifth Avenue, Suite 1601, New York, New York 10176, facsimile: (212) 697-3575.
+
+
+
+5.3
+
+Amendment Provision. The term “Note” and all reference thereto, as used throughout this instrument, shall mean this instrument as originally executed, or if later amended or supplemented, then as so amended or supplemented.
+
+
+
+5.4
+
+Assignability. This Note shall be binding upon the Borrower and its successors and assigns, and shall inure to the benefit of the Holder and its successors and assigns. The Borrower may not assign its obligations under this Note.
+
+
+
+5
+
+
+
+5.5
+
+Cost of Collection. If default is made in the payment of this Note, Borrower shall pay the Holder hereof reasonable costs of collection, including reasonable attorneys’ fees.
+
+
+
+5.6
+
+Governing Law. This Note shall be governed by and construed in accordance with the laws of the State of New York without regard to conflicts of laws principles that would result in the application of the substantive laws of another jurisdiction. Any action brought by either party against the other concerning the transactions contemplated by this Agreement must be brought only in the civil or state courts of New York or in the federal courts located in the State and county of New York. Both parties and the individual signing this Agreement on behalf of the Borrower agree to submit to the jurisdiction of such courts. The prevailing party shall be entitled to recover from the other party its reasonable attorney's fees and costs. In the event that any provision of this Note is invalid or unenforceable under any applicable statute or rule of law, then such provision shall be deemed inoperative to the extent that it may conflict therewith and shall be deemed modified to conform with such statute or rule of law. Any such provision which may prove invalid or unenforceable under any law shall not affect the validity or unenforceability of any other provision of this Note. Nothing contained herein shall be deemed or operate to preclude the Holder from bringing suit or taking other legal action against the Borrower in any other jurisdiction to collect on the Borrower's obligations to Holder, to realize on any collateral or any other security for such obligations, or to enforce a judgment or other decision in favor of the Holder. This Note shall be deemed an unconditional obligation of Borrower for the payment of money and, without limitation to any other remedies of Holder, may be enforced against Borrower by summary proceeding pursuant to New York Civil Procedure Law and Rules Section 3213 or any similar rule or statute in the jurisdiction where enforcement is sought. For purposes of such rule or statute, any oth er document or agreement to which Holder and Borrower are parties or which Borrower delivered to Holder, which may be convenient or necessary to determine Holder’s rights hereunder or Borrower’s obligations to Holder are deemed a part of this Note, whether or not such other document or agreement was delivered together herewith or was executed apart from this Note.
+
+
+
+5.7
+
+Maximum Payments. Nothing contained herein shall be deemed to establish or require the payment of a rate of interest or other charges in excess of the maximum rate permitted by applicable law. In the event that the rate of interest required to be paid or other charges hereunder exceed the maximum rate permitted by applicable law, any payments in excess of such maximum rate shall be credited against amounts owed by the Borrower to the Holder and thus refunded to the Borrower.
+
+
+
+5.8
+
+Non-Business Days. Whenever any payment or any action to be made shall be due on a Saturday, Sunday or a public holiday under the laws of the State of New York, such payment may be due or action shall be required on the next succeeding business day and, for such payment, such next succeeding day shall be included in the calculation of the amount of accrued interest payable on such date.
+
+
+
+5.9
+
+Redemption. This Note may not be redeemed or called without the consent of the Holder except as described in this Note or the Subscription Agreement.
+
+
+
+5.10
+
+Shareholder Status. The Holder shall not have rights as a shareholder of the Borrower with respect to unconverted portions of this Note. However, the Holder will have the rights of a shareholder of the Borrower with respect to the Shares of Common Stock to be received after delivery by the Holder of a Conversion Notice to the Borrower.
+
+
+
+IN WITNESS WHEREOF, Borrower has caused this Note to be signed in its name by an authorized officer as of the 6th day of January, 2010.
+
+
+
+CLEAR SKIES SOLAR, INC.
+
+
+
+
+
+
+
+By: /s/ Ezra Green
+
+Name: Ezra Green
+
+Title: Chief Executive Officer
+
+
+
+WITNESS:
+
+
+
+
+
+
+
+______________________________________
+
+
+
+6
+
+
+
+NOTICE OF CONVERSION
+
+
+
+(To be executed by the Registered Holder in order to convert the Note)
+
+
+
+
+
+The undersigned hereby elects to convert $_________ of the principal and $_________ of the interest due on the Note issued by CLEAR SKIES SOLAR, INC. on January 6, 2010 into Shares of Common Stock of CLEAR SKIES SOLAR, INC. (the “Borrower”) according to the conditions set forth in such Note, as of the date written below.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Date of Conversion:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Conversion Price:
+
+ 
+
+
+
+
+
+Number of Shares of Common Stock Beneficially Owned on the Conversion Date: Less than 5% of the outstanding Common Stock of CLEAR SKIES SOLAR, INC.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Shares To Be Delivered:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Signature:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Print Name:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Address:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+7

@@ -1,0 +1,147 @@
+Exhibit 10.1
+
+THE WALT DISNEY COMPANY
+
+Performance-Based
+
+Stock Unit Award
+
+(Section 162(m) Vesting Requirement)
+
+AWARD AGREEMENT, dated as of <DATED> between The Walt Disney Company, a Delaware corporation (“Disney”), and                      (the “Participant”). This Award is granted on <GRANT DATE> (the “Date of Grant”) by the Compensation Committee of the Disney Board of Directors (the “Committee”) pursuant to the terms of the Amended and Restated 2002 Executive Performance Plan (the “Plan”), and pursuant to the terms of the Amended and Restated 2005 Stock Incentive Plan (the “Stock Plan”). The applicable terms of the Plan and the Stock Plan are incorporated herein by reference, including the definitions of terms contained therein.
+
+Section 1. Stock Unit Award. Disney hereby grants to the Participant, on the terms and conditions set forth herein, an Award of <#STOCK UNITS> “Stock Units.” The Stock Units are notional units of measurement denominated in Shares of Disney (i.e. one Stock Unit is equivalent in value to one Share, subject to the terms hereof). The Stock Units represent an unfunded, unsecured obligation of Disney. The Stock Units granted by this Award are grouped into subdivisions referred to herein as “Tranches,” and each Tranche constitutes one quarter (25%) of the Award. Subject to the terms, conditions and Section 162(m) performance-based vesting requirements set forth herein, one Tranche will vest on each of the first, second, third and fourth anniversary dates, respectively, of the Date of Grant (any such anniversary date being a “Scheduled Vesting Date”).
+
+Section 2. Vesting Requirements. The vesting of this Award (other than pursuant to accelerated vesting in certain circumstances as provided in Section 3 below) shall be subject to the satisfaction of the conditions set forth in subsections A and B of this Section 2:
+
+A. Section 162(m) Vesting Requirement. This Award is subject to performance vesting requirements under this Section 2.A, with respect to all Tranches, based upon the achievement of the Performance Targets applicable to the Performance Periods which are set forth below, subject to certification of achievement of such Performance Targets by the Committee pursuant to Section 4.8 of the Plan. The respective Performance Targets (together with the Business Criteria with respect to such Performance Targets) shall be established by the Committee for each Tranche by no later than 90 days following the beginning of the Performance Period applicable to such Tranche. If the Performance Target for a Tranche is not satisfied, all of the Stock Units comprising such Tranche shall be immediately forfeited. For each of the Tranches of Stock Units granted hereunder the Performance Period shall be the last fiscal year (or a portion thereof) of Disney ending prior to the Scheduled Vesting Date of such Tranche.
+
+ 
+
+1
+
+
+
+B. Service Vesting Requirement. In addition to the performance vesting requirements of subsection A of this Section 2, the right of the Participant to receive payment of any Tranche of this Award shall become vested only if he or she remains continuously employed by Disney or an Affiliate thereof from the date hereof until the Scheduled Vesting Date of such Tranche; provided, however, that, nothing set forth herein shall be deemed to modify, qualify, or otherwise derogate from, the requirement of Section 4.8 of the Plan that the Committee certify in writing (which writing may be the approved minutes of the Committee) that the applicable Performance Targets of Section 2.A above have been satisfied prior to the payment of any amount to the Participant under this Award.
+
+If the service vesting requirements of this Section 2.B are not satisfied for any Tranche or Tranches, the applicable number of Stock Units shall be immediately forfeited and the Participant’s rights with respect thereto shall cease.
+
+All Stock Units for which all of the requirements of this Section 2 have been satisfied shall become vested and shall thereafter be payable in accordance with Section 5 hereof.
+
+Section 3. Accelerated Vesting. Notwithstanding the terms and conditions of Section 2 hereof, upon the Participant’s death or disability (within the meaning of Section 409A of the Internal Revenue Code), or upon the occurrence of a Triggering Event within the 12-month period following a Change in Control in accordance with Section 11 of the Stock Plan as in effect as of the date of the Triggering Event (provided, in each case, that the Participant is employed by Disney (or an Affiliate) at the time of such death, disability or occurrence of a Triggering Event), this Award shall become fully vested and shall be payable in accordance with Section 5 hereof to the extent that it has not previously been forfeited.
+
+Section 4. Dividend Equivalents. Any dividends paid in cash on Shares of Disney will be credited to the Participant as additional Stock Units as if the Stock Units previously held by the Participant were outstanding Shares, as follows: such credit shall be made in whole and/or fractional Stock Units and shall be based on the fair market value (as defined in the Stock Plan) of the Shares on the date of payment of such dividend. All such additional Stock Units shall be subject to the same vesting requirements applicable to the Stock Units in respect of which they were credited and shall be payable in accordance with Section 5 hereof.
+
+ 
+
+2
+
+
+
+Section 5. Payment of Award. Payment of vested Stock Units shall be made within 30 days following the later of:
+
+ 
+
+ 
+
+(i)
+
+the date as of which all of the applicable vesting requirements under Section 2 hereof shall have been satisfied for the applicable Tranche, or
+
+ 
+
+ 
+
+(ii)
+
+the date of certification of achievement of the applicable Performance Targets by the Committee for the applicable Tranche, as required under Sections 2.A hereof,
+
+or within 30 days following acceleration of vesting under Section 3 hereof, if applicable, but in no event later than the later of (x) December 31 of the year in which the Scheduled Vesting Date occurs and (y) two and one-half months after the Scheduled Vesting Date occurs. The Stock Units shall be paid in cash or in Shares (or some combination thereof), as determined by the Committee in its discretion at the time of payment, and in either case shall be paid to the Participant after deduction of applicable minimum statutory withholding taxes.
+
+Section 6. Extended Vesting based on Age and Service Years.
+
+(a) In the event that Participant’s employment with Disney or an Affiliate thereof terminates for any reason other than death, disability or “cause” (as further provided in the Stock Plan) at a time when (i) the Participant has attained the age of sixty and has completed at least ten consecutive Service Years (as hereinafter defined) and (ii) at least one year has passed since the Date of Grant of this Award, then the remaining then unvested Tranches of this Award shall vest in accordance with the terms and provisions hereof in the same manner as if Participant’s employment had continued through the Scheduled Vesting Date, provided that all of the conditions to such vesting (other than the condition set forth in Section 2.B hereof), including without limitation the condition set forth in Section 2.A hereof, have been met. For purposes of the foregoing, “Service Year” shall mean any calendar year during which the Participant was continuously employed by Disney or an Affiliate thereof for the entire calendar year. In determining the total number of consecutive Service Years that the Participant has been so employed, the Company shall apply such rules regarding the bridging of service as the Committee may adopt from time to time.
+
+(b) Notwithstanding any other term or provision hereof, if at the time of termination of employment (other than upon the scheduled expiration date of an employment agreement) Participant is employed pursuant to an employment agreement with Disney or an Affiliate which provides under certain circumstances for the continued vesting of any Stock Units subject to this Award in the event of the termination of such employment agreement prior to its scheduled expiration date (a “Contractual Extension Provision”), then, except as otherwise provided in such employment agreement, (i) this Section 6 shall be interpreted and applied in all respects as if Participant had remained continuously employed by Disney or an Affiliate thereof from the Date of Grant of this Award through the scheduled expiration date of such employment agreement and (ii) the date of termination of Participant’s employment for all purposes under this Section 6 shall be deemed to be the scheduled expiration date of such employment agreement.
+
+ 
+
+3
+
+
+
+Section 7. Restrictions on Transfer. Neither this Stock Unit Award nor any Stock Units covered hereby may be sold, assigned, transferred, encumbered, hypothecated or pledged by the Participant, other than to Disney as a result of forfeiture of the units as provided herein and as provided in Section 6 of the Plan. The Stock Units constitute Restricted Units as defined in Section 2.2 of the Plan.
+
+Section 8. No Voting Rights. The Stock Units granted pursuant to this Award, whether or not vested, will not confer any voting rights upon the Participant, unless and until the Award is paid in Shares.
+
+Section 9. Award Subject to Plans, Etc. This Stock Unit Award is subject to the terms of the Plan and the Stock Plan, the terms and provisions of which are hereby incorporated by reference. In the event of a conflict or ambiguity between any term or provision contained herein and a term or provision of the Plan or the Stock Plan, the Plan or the Stock Plan (as applicable) will govern and prevail.
+
+Section 10. Changes in Capitalization. The Stock Units under this Award shall be subject to the provisions of the Stock Plan relating to adjustments for changes in corporate capitalization.
+
+Section 11. Effect of Employment Agreement. If the Participant is employed pursuant to an employment agreement with Disney, any provisions thereof relating to the effect of a termination of the Participant’s employment upon his or her rights with respect to this Award, including, without limitation, any provisions regarding acceleration of vesting and/or payment of this Award in the event of termination of employment, shall be fully applicable and supersede any provisions hereof with respect to the same subject matter.
+
+Section 12. No Right of Employment. Nothing in this Award Agreement shall confer upon the Participant any right to continue as an employee of Disney or an Affiliate nor interfere in any way with the right of Disney or an Affiliate to terminate the Participant’s employment at any time or to change the terms and conditions of such employment.
+
+Section 13. Governing Law. This Award Agreement shall be construed and enforced in accordance with the laws of the State of Delaware, without giving effect to the choice of law principles thereof.
+
+ 
+
+4
+
+
+
+
+
+
+
+
+
+
+
+THE WALT DISNEY COMPANY
+
+
+
+
+
+By: 
+
+ 
+
+ 
+
+
+
+ 
+
+Name:
+
+
+
+ 
+
+Title:
+
+
+
+PARTICIPANT
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+5

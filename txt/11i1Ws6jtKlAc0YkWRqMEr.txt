@@ -1,0 +1,645 @@
+Exhibit 4.1
+
+ 
+
+THIS NOTE AND THE SECURITIES ISSUABLE UPON CONVERSION HEREOF HAVE NOT BEEN REGISTERED UNDER THE SECURITIES ACT OF 1933, AS AMENDED, OR APPLICABLE STATE SECURITIES LAWS. THE SECURITIES HAVE BEEN ACQUIRED FOR INVESTMENT AND MAY NOT BE OFFERED FOR SALE, SOLD, TRANSFERRED OR ASSIGNED IN THE ABSENCE OF AN EFFECTIVE REGISTRATION STATEMENT FOR THE SECURITIES UNDER THE SECURITIES ACT OF 1933, AS AMENDED, OR APPLICABLE STATE SECURITIES LAWS, OR AN OPINION OF COUNSEL, IN A FORM ACCEPTABLE TO THE COMPANY, THAT REGISTRATION IS NOT REQUIRED UNDER SAID ACT OR APPLICABLE STATE SECURITIES LAWS OR UNLESS SOLD PURSUANT TO RULE 144 UNDER SAID ACT.
+
+
+
+LINK RESOURCES, INC.
+
+
+
+8% SENIOR CONVERTIBLE PROMISSORY NOTE
+
+
+
+US $ _________
+
+ ________, 2010   
+
+
+
+FOR VALUE RECEIVED, Link Resources, Inc., a Nevada corporation (the “Company”), promises to pay to [ ] (the “Holder”), the principal sum of ___________________ DOLLARS ($_________) (the “Principal”) in lawful money of the United States of America, with interest payable thereon at the rate of eight percent (8%) per annum.  The principal amount hereof and all accrued but unpaid interest thereon shall be paid in full to the Holder on the two (2) year anniversary of the date of closing of the Minimum Amount (the “Maturity Date”).
+
+
+
+Capitalized terms used herein but not defined herein shall have the meaning ascribed to it in that certain Securities Purchase Agreement, dated of even date herewith (the “SPA”), pursuant to which the Holder is acquiring this Note.
+
+
+
+The following is a statement of the rights of the Holder of this Note and the terms and conditions to which this Note is subject, and to which the Holder, by acceptance of this Note, agrees:
+
+
+
+1.           Series.  This Note is one of a series of Notes of the Company in the aggregate principal amount of a minimum of Nine Million Three Hundred Thousand Dollars ($9,300,000) and up to a maximum of Twelve Million Dollars ($12,000,000.00) (collectively, the “Notes”) as described in that certain Confidential Private Placement Memorandum, dated December 10, 2009, delivered to the Holder in connection with the transactions contemplated by the SPA (the “Memorandum”). 
+
+
+
+2.           Principal Repayment.  The outstanding principal amount of this Note shall be payable on the Maturity Date, unless this Note has been earlier converted as described below.
+
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+3.           Interest.
+
+
+
+(a)           Computation.  Interest (the “Interest”) shall accrue on the unpaid principal amount of this Note from the date hereof until such principal amount is repaid in full at the rate of eight percent (8%) per annum, payable quarterly in arrears on the last day of each fiscal quarter of the Company (i.e., March 31, June 30, September 30 and December 31) commencing January 1, 2010.  For purposes of clarity, the initial interest payment shall consist of accrued interest from the date of issuance of the Note through December 31, 2009.  Thereafter, interest payments of accrued interest shall be due and payable on the last day of each fiscal quarter until the Maturity Date, subject to earlier conversion or redemption of the Note. All computations of the interest rate hereunder shall be made on the basis of a 360-day year of twelve 30-day months.   In the event that any interest rate provided for herein shall be determined to be unlawful, such interest rate shall be computed at the highest rate permitted by applicable law.  Any payment by the Company of any interest amount in excess of that permitted by law shall be considered a mistake, with the excess being applied to the principal of this Note without prepayment premium or penalty.
+
+
+
+(b)           Closing Escrow Holdback.  Pursuant to the SPA, $186,000 (if the Minimum Amount is raised) or up to $240,000 (if the Maximum Amount is raised) (the “Total Holdback Amount”), constituting an amount sufficient to satisfy one quarterly payment of Interest due on the aggregate principal amount of all Notes, shall be retained by the Escrow Agent and paid to the holders of the Notes and otherwise administered in accordance with the certain Closing Escrow Agreement.  At such time as 75% of all Shares underlying the Notes have been issued upon conversion of Notes, if the Company is not in breach of any of the Transaction Documents, all remaining funds of the Total Holdback Amount, if any, shall be disbursed to the Company in accordance with the Closing Escrow Agreement.
+
+
+
+4.           Ranking.   Except for the indebtedness of the Company and its Subsidiaries in existence on the date hereof as described in the Memorandum (including the financial statements that form a part thereof), and subject to the terms and conditions of this Note and the other Transaction Documents, the obligations of the Company under this Note shall rank senior with respect to all existing indebtedness of the Company as of the date hereof and to any and all indebtedness incurred hereafter. The term “indebtedness” as used in this Section 4, refers to all unsecured debts and obligations of the Company, including trade payables.  
+
+
+
+5.           Conversion.
+
+
+
+(a)           Generally.  Each holder of the Notes shall have the right, exercisable at any time prior to the Maturity Date, to convert all, but not less than all, of the principal amount then outstanding, plus all accrued but unpaid interest thereon, into shares of the Company’s common stock, par value $0.001 per share (the “Common Stock) at a conversion price (the “Conversion Price”) equal to $2.00 per share (the Common Stock underlying the Notes being referred to herein as the “Shares”).
+
+
+
+
+
+ 
+
+
+
+2
+
+
+
+ 
+
+
+
+(b)           Mechanics of Conversion.  The conversion of this Note shall be conducted in the following manner: upon any conversion of all but not less than all of the outstanding principal amount of this Note, plus all accrued but unpaid interest thereon: (i) the Holder shall deliver a completed and executed Notice of Conversion attached hereto as Exhibit A and surrender and deliver this Note, duly endorsed, to the Company’s office or such other address which the Company shall designate against delivery of the certificates presenting the Shares to be delivered; (ii) in exchange for the surrendered Note, the Company shall prepare and deliver irrevocable instructions addressed to the Company’s transfer and exchange agent, as applicable, to issue such required number of Shares as set forth in the Conversion Notice which Shares shall be delivered to the Holder within five (5) Business Days of the delivery of the documentation to the Company; and (iii) upon delivery of the Shares, this Note shall become fully paid and satisfied.  The Company shall, upon the written request of the Holder, use its best efforts to deliver, or cause to be delivered, the Shares hereunder electronically through the Depository Trust and Clearing Corporation or another established clearing corporation performing similar functions, if available; provided, that, the Company may, but will not be required to, change its transfer agent if its current transfer agent cannot deliver the Shares electronically through the Depository Trust and Clearing Corporation. 
+
+
+
+(c)           Adjustments to Conversion Price.
+
+
+
+(i)           Adjustments for Stock Splits and Combinations and Stock Dividends.  If the Company shall at any time or from time to time after the date hereof, effect a stock split or combination of the outstanding Common Stock or pay a stock dividend in shares of Common Stock, then the Conversion Price shall be proportionately adjusted. Any adjustments under this Section 5(c)(i) shall be effective at the close of business on the date the stock split or combination becomes effective or the date of payment of the stock dividend, as applicable.
+
+
+
+(ii)           Merger Sale, Reclassification, etc. In case of any (A) consolidation or merger (including a merger in which the Company is the surviving entity), (B) sale or other disposition of all or substantially all of the Company’s assets or distribution of property to shareholders (other than distributions payable out of earnings or retained earnings), or reclassification, change or conversion of the outstanding securities of the Company or of any reorganization of the Company (or any other corporation the stock or securities of which are at the time receivable upon the conversion of this Note) or any similar corporate reorganization on or after the date hereof, then and in each such case the Holder of this Note, upon the conversion hereof at any time thereafter shall be entitled to receive, in lieu of the stock or other securities and property receivable upon the conversion hereof prior to such consolidation, merger, sale or other disposition, reclassification, change, conversion or reorganization, the stock or other securities or property to which such Holder would have been entitled upon such consummation if such Holder had converted this Note immediately prior thereto.
+
+
+
+(iii)          Adjustments for Issuance of Additional Shares of Common Stock.
+
+
+
+(A)           In the event the Company, shall, at any time, from time to time, issue or sell any additional shares of Common Stock (other than pursuant to Common Stock Equivalents (hereafter defined) granted or issued prior to the issuance date of this Note) (“Additional Shares of Common Stock”), at a price per share less than the Conversion Price then in effect or without consideration, then the Conversion Price upon each such issuance shall be adjusted to that price (rounded to the nearest cent) determined by multiplying the Conversion Price then in effect by a fraction:
+
+
+
+
+
+ 
+
+
+
+3
+
+
+
+ 
+
+
+
+(1)           the numerator of which shall be equal to the sum of (x) the number of shares of Common Stock outstanding immediately prior to the issuance of such Additional Shares of Common Stock plus (y) the number of shares of Common Stock (rounded to the nearest whole share) which the aggregate consideration for the total number of such Additional Shares of Common Stock so issued would purchase at a price per share equal to the Conversion Price then in effect, and
+
+
+
+(2)           the denominator of which shall be equal to the number of shares of Common Stock outstanding immediately after the issuance of such Additional Shares of Common Stock.
+
+
+
+(B)           The provisions of paragraph (A) of Section 5(iii) shall not apply to any issuance of Additional Shares of Common Stock for which an adjustment is provided elsewhere in this Section 5).  No adjustment of the number of Shares for which this Note shall be convertible shall be made under this clause (iii) upon the issuance of any Additional Shares of Common Stock which are issued pursuant to the exercise of any Common Stock Equivalents, if any such adjustment shall previously have been made upon the issuance of such Common Stock Equivalents pursuant to the other provisions of this Section 5.
+
+
+
+(C)           Issuance of Common Stock Equivalents.  The provisions of this Section 5(iii) shall apply if (a) the Company, at any time after the issuance date of this Note, shall issue any securities convertible into or exchangeable for, directly or indirectly, Common Stock (“Convertible Securities”), other than the Convertible Notes, or (b) any rights or warrants or options to purchase any such Common Stock or Convertible Securities (collectively, the “Common Stock Equivalents”) shall be issued or sold.  If the price per share for which Additional Shares of Common Stock may be issuable pursuant to any such Common Stock Equivalent shall be less than the applicable Conversion Price then in effect, or if, after any such issuance of Common Stock Equivalents, the price per share for which Additional Shares of Common Stock may be issuable thereafter is amended or adjusted, and such price as so amended shall be less than the applicable Conversion Price in effect at the time of such amendment or adjustment, then the applicable Conversion Price upon each such issuance or amendment shall be adjusted as provided in the first sentence of subsection (iii)(A) of this Section 5.  No adjustment shall be made to the Conversion Price upon the issuance of Common Stock pursuant to the exercise, conversion or exchange of any Convertible Security or Common Stock Equivalent where an adjustment to the Conversion Price was made as a result of the issuance or purchase of any Convertible Security or Common Stock Equivalent.
+
+
+
+
+
+ 
+
+
+
+4
+
+
+
+ 
+
+
+
+(D)           Certain Issues Excepted.  Anything herein to the contrary notwithstanding, the Company shall not be required to make any adjustment to the Conversion Price under this Section 5 in connection with securities of the Company issued: (i) in connection with a merger, acquisition or consolidation, (ii) in connection with bona fide joint venture, strategic license or similar business partnering arrangements (provided that the transaction or arrangement is not primarily for the purpose of raising capital from Person whose primary business is investing in securities), (iii) upon exercise of the Warrants issued together with the Notes; (iv) upon exercise any warrants issued to the placement agents and its designees for the transactions contemplated hereby; and (v) in connection with any share split, share dividend, recapitalization or similar transaction by the Company for which adjustment is made pursuant to this Section 5.
+
+
+
+(E)           Floor Price.  Notwithstanding any provision of this Note to the contrary, no adjustment pursuant to Section 5(c)(iii) shall cause the Conversion Price to be less than $1.00, as adjusted for any stock dividend, stock split, stock combination, reclassification or similar transaction.
+
+
+
+(e)           Elimination of Fractional Interests.  No fractional shares of Common Stock shall be issued upon conversion of this Note, nor shall the Company be required to pay cash in lieu of fractional interests, it being the intent of the parties that all fractional interests shall be eliminated and that all issuances of Common Stock shall be rounded up to the nearest whole share.
+
+
+
+6.           Events of Default.  In the event that any of the following (each, an “Event of Default”) shall occur:
+
+
+
+(a)           Non-Payment.  The Company shall default in the payment of the principal of, or accrued interest on, this Note as and when the same shall become due and payable, whether by acceleration or otherwise; or
+
+
+
+(b)           Default in Covenants.  The Company shall default in any material manner in the observance or performance of the affirmative or negative covenants or agreements set forth in the SPA, this Note or that certain Registration Rights Agreement, dated of even date herewith, between the Holder and the Company (collectively, the “Transaction Documents”); or
+
+
+
+(c)           Breach of Representations and Warranties.  The Company materially breaches any representation or warranty contained in the Transaction Documents; or
+
+
+
+(d)           Exchange Act or Exchange Requirements.  Any termination of registration or suspension of the Company’s reporting obligations under the Exchange Act or suspension from trading on the OTCBB (or any exchange on which the Common Stock is traded or listed for quotation (it being agreed that the delisting of the Common Stock from any national exchange shall not be an Event of Default if the Common Stock is, within ten (10) Business Days of the effective date of such delisting, quoted on the OTCBB), or the Company’s failure to file reports with the SEC on a timely basis as required by the Exchange Act; or
+
+
+
+
+
+ 
+
+
+
+5
+
+
+
+ 
+
+
+
+(e)           Judgments. Any final, non-appealable judgment, decree or order for the payment of money is entered against any of the Company or the Company’s subsidiaries in an amount equal to $5,000,000 or more and the same remains unsatisfied or unbonded for more than thirty (30) days; or
+
+
+
+(f)           Nationalization.  The confiscation, expropriation or nationalization by any governmental authority to which the Company or a Subsidiary is subject of any material property or assets of the Company or its Subsidiaries, taken as a whole (it being agreed, however, that it shall not be an Event of Default if the PRC government or any local instrumentality thereof shall require that Bohai or its Affiliates move its principal venue of operations to a different location within the PRC (a “Principal Venue Move”); or
+
+
+
+(g)           Illegality of Notes.  Any court of competent jurisdiction issues an order declaring the Notes or any provision thereunder to be illegal; or
+
+
+
+(h)           Cross Default.  There occurs with respect to any agreement, indenture or instrument under which the Company has Indebtedness of $5,000,000 or more in the aggregate: (i) a default with respect to any payment obligation thereunder that then entitles the holder thereof to declare such Indebtedness to be due and payable prior to its stated maturity, or (ii) any other default thereunder that entitles, and has caused, the holder thereof to declare such indebtedness to be due and payable prior to its stated maturity; or
+
+
+
+(i)           Bankruptcy.  The Company shall: (i) admit in writing its inability to pay its debts as they become due; (ii) apply for, consent to, or acquiesce in, the appointment of a trustee, receiver, sequestrator or other custodian for the Company or any of its property, or make a general assignment for the benefit of creditors; (iii) in the absence of such application, consent or acquiesce in, permit or suffer to exist the appointment of a trustee, receiver, sequestrator or other custodian for the Company or for any part of its property; or (iv) permit or suffer to exist the commencement of any bankruptcy, reorganization, debt arrangement or other case or proceeding under any bankruptcy or insolvency law, or any dissolution, winding up or liquidation proceeding, in respect of the Company, and, if such case or proceeding is not commenced by the Company or converted to a voluntary case, such case or proceeding shall be consented to or acquiesced in by the Company or shall result in the entry of an order for relief; 
+
+
+
+then, and so long as such Event of Default is continuing for a period of two (2) Business Days in the case of non-payment under Section 6(a), a period of five (5) Business Days in the case of a cross-default under 6(h), or for a period of thirty (30) calendar days in the case of events under Sections 6(b) through 6(g) (and the event which would constitute such Event of Default, if curable, has not been cured), by written notice to the Company from the Investor Representative, all obligations of the Company under this Note shall be immediately due and payable without presentment, demand, protest or any other action nor obligation of the Holder of any kind, all of which are hereby expressly waived, and Holder may exercise any other remedies the Holder may have at law or in equity.  If an Event of Default specified in Section 6(i) above occurs, the principal of, and accrued interest on, all the Notes shall automatically, and without any declaration or other action on the part of any Holder, become immediately due and payable.
+
+
+
+
+
+ 
+
+
+
+6
+
+
+
+ 
+
+
+
+In addition, upon an Event of Default, and provided this Note is still outstanding, the Holder (through the Investor Representative) shall have the rights to receive its pro rata portion of 1,000,000 shares of Common Stock being held in escrow pursuant to the terms and conditions of that certain Securities Escrow Agreement between Glory Period Limited, the Investor Representative and Escrow, LLC, as escrow agent..
+
+
+
+7.           Affirmative Covenants of the Company.  The Company hereby agrees that, so long as the Note remains outstanding and unpaid, or any other amount is owing to the Holder hereunder, the Company will:
+
+
+
+(a)           Corporate Existence and Qualification.  Take the necessary steps to preserve its corporate existence and its right to conduct business in all states in which the nature of its business requires qualification to do business;
+
+
+
+(b)           Books of Account.  Keep its books of account in accordance with good accounting practices;
+
+
+
+(c)           Insurance.  Maintain insurance with responsible and reputable insurance companies or associations, as determined by the Company in its sole but reasonable discretion, in such amounts and covering such risks as is usually carried by companies engaged in similar businesses and owning similar properties in the same general areas in which the Company operates;
+
+
+
+(d)           Compliance with Law.  Comply with the charter and bylaws or other organizational or governing documents of the Company, and any law, treaty, rule or regulation, or determination of an arbitrator or a court or other governmental authority, in each case applicable to or binding upon the Company or any of its property or to which each the Company or any of its property is subject;
+
+
+
+(e)           Taxes.  Duly pay and discharge all taxes or other claims, which might become a lien upon any of its property except to the extent that any thereof are being in good faith appropriately contested with adequate reserves provided therefore;
+
+
+
+(f)           Reservation of Shares.  At all times have authorized, and reserved for the purpose of issuance, a sufficient number of shares of Common Stock and issuable upon conversion of this Note to provide for the issuance of all of the Shares.  Prior to complete conversion of this Note, the Company shall not reduce the number of shares of Common Stock reserved for issuance hereunder without the written consent of the Holder except for a reduction proportionate to a reverse stock split effected for a business purpose other than affecting the requirements of this Section, which reverse stock split affects all shares of Common Stock equally; and
+
+
+
+(g)           Use of Proceeds.  Use the proceeds of the Notes for the purposes described in the Memorandum.
+
+
+
+
+
+ 
+
+
+
+7
+
+
+
+ 
+
+
+
+(h)           Notice of Known Events of Default.  The Company shall furnish to the Investor Representative a notice of any occurrence of an Event of Default, and what action the Company is taking or proposes to take with respect thereto, promptly after such Event of Default becomes known to the Company.
+
+
+
+(i)           Further Assurances.  The Company shall execute and deliver any and all such further documents and take any and all such other actions as may be reasonably necessary or appropriate to carry out the intent and purposes of this Note and to consummate the transactions contemplated herein.
+
+
+
+8.           Negative Covenants of the Company.  Except for the transactions completed by the Share Exchange Agreement and all related documents between and among the Company and its Subsidiaries, and except as disclosed in the Memorandum, the Company hereby agrees that, so long as this Note remains outstanding and unpaid it will not, nor will it permit any of its Subsidiaries, without the consent of the Investor Representative, to:
+
+
+
+(a)           Indebtedness for Borrowed Money.  Except as set forth on Schedule 8(a) hereto, incur, or permit to exist, any Indebtedness (as defined below) for borrowed money in excess of (i) US$10,000,000 during the twelve (12) month period beginning on the date hereof, or (ii) US$15,000,000 during period beginning on the date hereof and ending on the Maturity Date, except in the ordinary course of the Company’s business.  For purposes of this Section 8(a), “Indebtedness” shall mean: (i) all obligations of the Company for borrowed money or with respect to deposits or advances of any kind, (ii) all obligations of the Company evidenced by bonds, debentures, notes or other similar instruments, (iii) all obligations of the Company for the deferred purchase price of property or services, except current accounts payable arising in the ordinary course of business and not overdue beyond such period as is commercially reasonable for the Company’s business, (iv) all obligations of the Company under conditional sale or other title retention agreements relating to property purchased by the Company, (v) all payment obligations of the Company with respect to interest rate or currency protection agreements, (vi) all obligations of the Company as an account party under any letter of credit or in respect of bankers’ acceptances, (vii) all obligations of any third party secured by property or assets of such Person (regardless of whether or not the Company is liable for repayment of such obligations), except for obligations to secure Indebtedness incurred within the limitations of this Section 8(a); (viii) all guarantees of the Company and (ix) the redemption price of all redeemable preferred stock of the Company, but only to the extent that such stock is redeemable at the option of the holder or requires sinking fund or similar payments at any time prior to the Maturity Date;
+
+
+
+(b)           Loans; Investments.  Lend or advance money, credit or property to or invest in (by capital contribution, loan, purchase or otherwise) any Person in excess of US$2,000,000 except: (i) investments in United States Government obligations, certificates of deposit of any banking institution with combined capital and surplus of at least $200,000,000; (ii) accounts receivable arising out of sales in the ordinary course of business; and (iii) inter-company loans between and among the Company and its Subsidiaries;
+
+
+
+
+
+ 
+
+
+
+8
+
+
+
+ 
+
+
+
+(c)           Dividends and Distributions.  Pay dividends or make any other distribution on shares of the capital stock of the Company other than inter-company dividends, and distributions between and among the Company and its Subsidiaries;
+
+
+
+(d)           Liens.  Except as set forth on Schedule 8(d) hereto, shall not create, assume or permit to exist, any lien on any of its property or assets now owned or hereafter acquired except (i) liens in favor of the Holder; (ii) liens granted to secure Indebtedness incurred within the limitations of Section 8(a) hereof; (iii) liens incidental to the conduct of its business or the ownership of its property and assets which were not incurred in connection with the borrowing of money or the obtaining of advances or credit and which do not materially impair the use thereof in the operation of its business; (iv) liens subordinate to the liens granted to secure this Note (v) liens for taxes or other governmental charges which are not delinquent or which are being contested in good faith and for which a reserve shall have been established in accordance with generally accepted accounting principles; and (vi) purchase money liens granted to secure the unpaid purchase price of any fixed assets purchased within the limitations of Section 8(g) hereof;
+
+
+
+(e)           Contingent Liabilities.  Assume, endorse, be or become liable for or guarantee the obligations of any Person, contingently or otherwise, excluding however, the endorsement of negotiable instruments for deposit or collection in the ordinary course of business or guarantees of the Company made within the limitations of Section 8(a) hereof;
+
+
+
+(f)           Sales of Receivables; Sale - Leasebacks.  Except as set forth on Schedule 8(f) hereto, sell, discount or otherwise dispose of notes, accounts receivable or other obligations owing to the Company, with or without recourse, except for the purpose of collection in the ordinary course of business; or sell any asset pursuant to an arrangement to thereafter lease such asset from the purchaser thereof;
+
+
+
+(g)           Capital Expenditures; Capitalized Leases.  Except in the case of a Principal Venue Move, expend in the aggregate for the Company and all its Subsidiaries in excess of US$5,000,000 in any fiscal year for Capital Expenditures (as defined below), including payments made on account of Capitalized Leases (as defined below).  For purposes of the foregoing, Capital Expenditures shall include payments made on account of any deferred purchase price or on account of any indebtedness incurred to finance any such purchase price.  “Capital Expenditures” shall mean for any period, the aggregate amount of all payments made by any Person directly or indirectly for the purpose of acquiring, constructing or maintaining fixed assets, real property or equipment which, in accordance with generally accepted accounting principles, would be added as a debit to the fixed asset account of such Person, including, without limitation, all amounts paid or payable with respect to Capitalized Lease Obligations and interest which are required to be capitalized in accordance with generally accepted accounting principles.  “Capitalized Lease” shall mean any lease the obligations to pay rent or other amounts under which constitute Capitalized Lease Obligations.  “Capitalized Lease Obligations” shall mean as to any Person, the obligations of such Person to pay rent or other amounts under a lease of (or other agreement conveying the right to use) real and/or personal property which obligations are required to be classified and accounted for as a capital lease on a balance sheet of such Person under generally accepted accounting principles and, for purposes of this Note, the amount of such obligations shall be the capitalized amount thereof, determined in accordance with generally accepted accounting principles;
+
+
+
+
+
+ 
+
+
+
+9
+
+
+
+ 
+
+
+
+(h)          Nature of Business.  Materially alter the nature of the Company’s business or otherwise engage in any business other than the business engaged in or proposed to be engaged in on the date of this Note;
+
+
+
+(i)          Stock of Subsidiaries.  Sell or otherwise dispose of any Subsidiary or permit a Subsidiary to issue any additional shares of its capital stock except pro rata to its stockholders; and
+
+
+
+(j)          Accounting Changes.  Make, or permit any Subsidiary to make any change in their accounting treatment or financial reporting practices except as required or permitted by generally accepted accounting principles in effect from time to time.
+
+
+
+(k)          Merger or Sale.
+
+
+
+(i)           The Company shall not, and shall not permit any of its Subsidiaries to, directly or indirectly, consolidate or merge with or into another Person (whether or not the Company or such Subsidiary is the surviving corporation), or sell, assign, transfer, convey or otherwise dispose of all or substantially all of the properties or assets of the Company and its Subsidiaries taken as a whole in one or more related transactions, to any other Person, unless (A) either the Company or such Subsidiary is the surviving corporation or the Person formed by or surviving any such consolidation or merger (if other than the Company or such Subsidiary) or to which such sale, assignment, transfer, conveyance or other disposition shall have been made is a corporation organized or existing under the laws of the United States, any state thereof or the District of Columbia, (B) the Person formed by or surviving any such consolidation or merger (if other than the Company or such Subsidiary) or the Person to which such sale, assignment, transfer, conveyance or other disposition shall have been made (1) assumes in writing all the obligations of the Company under the Notes and the other Transaction Documents and (2) causes to be delivered to each Holder of any Notes an opinion of nationally recognized independent counsel, or other independent counsel reasonably satisfactory to the Investor Representative, to the effect that all agreements or instruments effecting such assumption are enforceable in accordance with their terms and comply with the terms hereof, and (C) immediately after such transaction, no default or Event of Default exists.
+
+
+
+The foregoing paragraph in this Section 8(k)(i) shall not apply to (x) a merger of the Company with an Affiliate with no material assets, liabilities or operations solely for the purpose of reincorporating the Company in another jurisdiction; or (y) any consolidation or merger, or any sale, assignment, transfer, conveyance, lease or other disposition of assets between or among the Company and its Subsidiaries; provided, however, that such consolidation or merger shall comply with subclauses (A) and (B) in the foregoing paragraph.
+
+
+
+
+
+ 
+
+
+
+10
+
+
+
+ 
+
+
+
+(ii)           Upon any consolidation or merger, or any sale, assignment, transfer, lease, conveyance or other disposition of all or substantially all of the assets of the Company or any of its Subsidiaries permitted by Section 8(k)(i) hereof, the successor corporation formed by such consolidation or into or with which the Company or such Subsidiary is merged or to which such sale, assignment, transfer, lease, conveyance or other disposition is made shall succeed to, and be substituted for (so that from and after the date of such consolidation, merger, sale, lease, conveyance or other disposition, the provisions of this Note referring to the “Company,” or to a “Subsidiary” shall refer instead to the successor corporation and not to the Company or such Subsidiary, as the case may be), may exercise every right and power of the Company or such Subsidiary under this Note with the same effect as if such successor Person had been named as the Company or a Subsidiary herein and shall be bound by every obligation and liability of the Company or such Subsidiary under this Note and the other Transaction Documents, however, that the predecessor Person shall not be relieved from the obligation to pay the principal of and interest on the Notes.
+
+
+
+(l)           Transactions with Affiliates.  Except for transactions contemplated by the Transaction Documents or as otherwise approved by the Board (including a majority of the independent directors then on the Board) or as disclosed in the SEC Reports or the Memorandum, the Company shall not, and shall cause its Subsidiaries not to enter into any transaction with any director, officer, employee or holder of more than five percent of the outstanding capital stock of any class or series of capital stock of the Company or any Subsidiary, member of the family of any such person, or any corporation, partnership, trust or other entity in which any such person, or member of the family of any such person, is a director, officer, trustee, partner or holder of more than five percent of the outstanding capital stock thereof.
+
+
+
+9.           Holder Not Deemed a Stockholder.  No Holder, as such, of this Note shall be entitled to vote or receive dividends or be deemed the holder of shares of the Company for any purpose, nor shall anything contained in this Note be construed to confer upon the Holder hereof, as such, any of the rights at law of a stockholder of the Company prior to the issuance to the Holder of the shares of Common Stock which the Holder is then entitled to receive upon the due conversion of this Note.
+
+
+
+10.           Mutilated, Destroyed, Lost or Stolen Notes.  In case this Note shall become mutilated or defaced, or be destroyed, lost or stolen, the Company shall execute and deliver a new note of like principal amount in exchange and substitution for the mutilated or defaced Note, or in lieu of and in substitution for the destroyed, lost or stolen Note.  In the case of a mutilated or defaced Note, the Holder shall surrender such Note to the Company.  In the case of any destroyed, lost or stolen Note, the Holder shall furnish to the Company: (i) evidence to its satisfaction of the destruction, loss or theft of such Note and (ii) such security or indemnity as may be reasonably required by the Company to hold the Company harmless.
+
+
+
+11.           Waiver of Demand, Presentment, etc.  The Company hereby expressly waives demand and presentment for payment, notice of nonpayment, protest, notice of protest, notice of dishonor, notice of acceleration or intent to accelerate, bringing of suit and diligence in taking any action to collect amounts called for hereunder and shall be directly and primarily liable for the payment of all sums owing and to be owing hereunder, regardless of and without any notice, diligence, act or omission as or with respect to the collection of any amount called for hereunder.  The Company agrees that, in the event of an Event of Default, to reimburse the Holder for all reasonable costs and expenses (including reasonable legal fees of one counsel) incurred in connection with the enforcement and collection of this Note.
+
+
+
+
+
+ 
+
+
+
+11
+
+
+
+ 
+
+
+
+12.           Payment.  All payments with respect to this Note shall be made in lawful money of the United States of America, at the address of the Holder as of the date hereof or as designated in writing by the Holder from time to time.  The receipt by the Holder of immediately available funds shall constitute a payment of principal and interest hereunder and shall satisfy and discharge the liability for principal and interest on this Note to the extent of the sum represented by such payment.  Payment shall be credited first to the accrued interest then due and payable and the remainder applied to principal.   
+
+
+
+13.           Assignment.  The rights and obligations of the Company and the Holder of this Note shall be binding upon, and inure to the benefit of, the successors and permitted assigns of the parties hereto.  The Holder may not assign, pledge or otherwise transfer this Note or any interest therein without the prior written consent of the Company.  Interest and principal are payable only to the registered Holder of this Note on the books and records of the Company.
+
+
+
+14.           Waiver and Amendment.  Any provision of this Note, including, without limitation, the due date hereof, and the observance of any term hereof, may be amended, waived or modified (either generally or in a particular instance and either retroactively or prospectively) only with the written consent of the Company and the Investor Representative.
+
+
+
+15.           Notices.  Any notice, request or other communication required or permitted hereunder shall be in writing and shall be deemed to have been duly given if given in accordance with the provisions of Section 9.2 of the SPA.
+
+
+
+16.           Governing Law.  This Note shall be governed by and construed in accordance with the laws of the State of New York, USA, excluding that body of law relating to conflicts of laws.
+
+
+
+17.           Consent to Jurisdiction.  Each party agrees that all legal proceedings concerning the interpretations, enforcement and defense of the transactions contemplated by this Note (whether brought against a party hereto or its respective affiliates, directors, officers, shareholders, employees or agents) shall be commenced exclusively in the state and federal courts sitting in the City of New York.  Each party hereto hereby irrevocably submits to the exclusive jurisdiction of the state and federal courts sitting in the City of New York, New York for the adjudication of any dispute hereunder or in connection herewith or with any transaction contemplated hereby or discussed herein (including with respect to the enforcement of this Note, and hereby irrevocably waives, and agrees not to assert in any suit, action or proceeding, any claim that it is not personally subject to the jurisdiction of any such court, that such suit, action or proceeding is improper.  Each party hereto hereby irrevocably waives personal service of process and consents to process being served in any such suit, action or proceeding by mailing a copy thereof via registered or certified mail or overnight delivery (with evidence of delivery) to such party at the address in effect for notices to it under this Note and agrees that such service shall constitute good and sufficient service of process and notice thereof.  Nothing contained herein shall be deemed to limit in any way any right to serve process in any manner permitted by law.  THE COMPANY AND, BY ITS ACCEPTANCE HEREOF, THE HOLDER (INCLUDING THEIR RESPECTIVE AFFILIATES, AGENTS, OFFICERS, DIRECTORS AND EMPLOYEES) HEREBY IRREVOCABLY WAIVE, TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, ANY AND ALL RIGHT TO TRIAL BY JURY IN ANY LEGAL PROCEEDING ARISING OUT OF OR RELATING TO THIS NOTE OR THE TRANSACTIONS CONTEMPLATED HEREBY.
+
+
+
+
+
+ 
+
+
+
+12
+
+
+
+ 
+
+
+
+18.           Severability.  If one or more provisions of this Note are held to be unenforceable under applicable law, such provisions shall be excluded from this Note, and the balance of this Note shall be interpreted as if such provisions were so excluded and shall be enforceable in accordance with its terms.
+
+
+
+19.           Headings.  Section headings in this Note are for convenience only, and shall not be used in the construction of this Note.
+
+
+
+[Signature Page Follows]
+
+
+
+
+
+ 
+
+
+
+13
+
+
+
+ 
+
+
+
+IN WITNESS WHEREOF, the Company has caused this Note to be issued as of the date first above written.
+
+
+
+
+
+ 
+
+LINK RESOURCES, INC.
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+ 
+
+Title:
+
+ 
+
+
+
+ 
+
+
+
+14
+
+
+
+ 
+
+
+
+Exhibit A
+
+
+
+LINK RESOURCES, INC.
+
+NOTE CONVERSION NOTICE
+
+
+
+Reference is made to the 8% Senior Convertible Promissory Note in the original principal amount of $___________ of Link Resources, Inc., a Nevada corporation (the “Company”), issued to the undersigned (the “Note”).
+
+
+
+In accordance with and pursuant to the terms of the Note, the undersigned hereby elects to convert the entire outstanding principal amount due and owing under the Note, together with all accrued but unpaid interest thereon, into shares of Common Stock, $0.001 par value per share, of the Company (the “Common Stock”), by tendering the original of the Note for cancellation.
+
+
+
+Please confirm the following information:
+
+
+
+Principal Amount Outstanding
+
+under the Note:_______________________
+
+
+
+Accrued but unpaid interest
+
+under the Note:________________________
+
+
+
+Conversion Price:   _______________________
+
+
+
+Number of Shares to be issued:  _________________________
+
+
+
+Please issue the Shares into which the Note is being converted in the following name and to the following address:
+
+
+
+
+
+
+
+Issue to:
+
+___________________________________________________________
+
+ 
+
+ 
+
+Address:
+
+_____________________________________________
+
+ 
+
+_____________________________________________
+
+ 
+
+_____________________________________________
+
+ 
+
+ 
+
+Facsimile Number:
+
+___________________________________________________________
+
+ 
+
+ 
+
+Authorization:
+
+___________________________________________________________
+
+ 
+
+By:  ________________________________________________________
+
+ 
+
+Title: _______________________________________________________
+
+
+
+Dated:  ________________________

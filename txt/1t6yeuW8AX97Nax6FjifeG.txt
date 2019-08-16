@@ -1,0 +1,213 @@
+Exhibit 10.14
+
+SPS COMMERCE, INC.
+
+2002 MANAGEMENT INCENTIVE AGREEMENT
+
+     THIS 2002 MANAGEMENT INCENTIVE AGREEMENT (this “Agreement”) is entered into effective as of the 1st day of July, 2002, by and between SPS Commerce, Inc., a Delaware corporation (the “Company”), and Archie Black (“Employee”).
+
+     WHEREAS, the Company has in the past considered the possible sale of the Company, and may consider such a sale in the future; and
+
+     WHEREAS, subject to the terms and under the conditions herein, the Company desires to provide an additional inducement for Employee to assist the Company at such time (if any) during which the Company considers pursuing such a sale.
+
+     NOW, THEREFORE, in consideration of the foregoing and the mutual covenants and conditions contained herein, the parties hereto agree as follows:
+
+     1. Sale Bonus. Subject to the conditions and limitations herein (including without limitation Sections 1(b), 1(c), 1(d) and 1(e) below), if a Sale (as hereinafter defined) of the Company occurs, the Company shall pay to Employee an amount equal to the Sale Bonus (as hereinafter defined) as follows:
+
+          (a) Calculation. If the Purchase Price (as hereinafter defined) to the Company in respect of any Sale is at least $25,000,000, then the “Sale Bonus” shall be an amount equal to .114% (the “Designated Percentage”) of the amount of the Purchase Price that (x) exceeds $25,000,000 and (y) does not exceed $65,000,000, subject to adjustment and paid as follows:
+
+          (i) The Company shall pay the Sale Bonus to Employee within 5 days after the closing date of the Sale.
+
+          (ii) If Employee’s employment with the Company terminates for any or no reason (whether voluntary, involuntary, or with or without cause, by death or for any other reason), such termination shall not affect the Company’s obligation to pay the Sale Bonus to Employee, or Employee’s rights thereto, in the event of a Sale.
+
+          (iii) The form of payment of any Sale Bonus due hereunder shall be in the sole discretion of the Board of Directors of the Company, and may consist of cash, securities, other property, or a combination of the foregoing, all as decided by the Board of Directors.
+
+For the avoidance of doubt, the following example of the above calculation is set forth: If a Sale occurs with a Purchase Price of $70,000,000, then the amount of the Sale Bonus (to the extent otherwise due hereunder) would be $45,600, which is the amount equal to the Designated Percentage of $40,000,000 (which $40,000,000 is in turn the amount of such Purchase Price that exceeds $25,000,000 but does not exceed $65,000,000).
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+          (b) Minimum Purchase Price. If the Purchase Price to the Company in respect of any Sale of the Company is less than $25,000,000, then Employee shall not be entitled to any Sale Bonus or other payment pursuant to this Agreement, and all of the Company’s obligations to pay the Sale Bonus shall be canceled and be of no effect.
+
+          (c) Termination of Right to Receive Payments. Notwithstanding any other provision herein, if a Sale does not occur by June 30, 2012, then the Company’s obligation to make any payment to Employee pursuant to this Agreement, and all of Employee’s rights thereto, shall be canceled and be of no effect.
+
+          (d) Possible Reduction of Payments Pursuant to Section 280G of the Internal Revenue Code. Notwithstanding any provision to the contrary contained herein, if the payments to which Employee may become entitled under this Section 1, either alone or together with other payments (if any) in the nature of compensation to Employee which are contingent on a change in the ownership or effective control of the Company or in the ownership of a substantial portion of the assets of the Company or otherwise, would constitute a “parachute payment” as defined in Section 280G of the Internal Revenue Code of 1986, as amended (the “Code”) (or any successor provision thereto, together “Section 280G”), such cash payments and/or such other benefits shall be reduced (but not below zero) to the largest aggregate amount as will result in no portion thereof being subject to the excise tax imposed under Section 4999 of the Code (or any successor provision thereto, together “Section 4999”), or being non-deductible to the Company for federal income tax purposes pursuant to Section 280G. Company shall determine the amount of any reduction to be made pursuant to this Section 1(d) and shall select from among the foregoing benefits and payments those that shall be reduced.
+
+          (e) Company Right to Amend Agreement. Notwithstanding any provision to the contrary contained herein, Employee acknowledges that an independent committee of the Company’s Board of Directors (“independent” in that it does not contain representatives of the preferred stockholders of the Company), in its sole discretion, may at any time (upon notice to Employee) amend this Agreement to reflect an equitable (as determined by the such committee in its sole discretion) adjustment as a result of any (i) merger or acquisition made by the Company, (ii) additional rounds of financing or (iii) similar events that the Company enters into prior to the occurrence of a Sale, but only to the extent such committee determines that such events independently increased the Purchase Price and that an equitable adjustment is required as a result. Such an amendment may include, without limitation, a reduction in the Designated Percentage or other revisions to the calculation of the Sale Bonus. EMPLOYEE AGREES THAT ANY SUCH AMENDMENT SHALL BE IN THE SOLE DISCRETION OF THE INDEPENDENT COMMITTEE OF THE COMPANY’S BOARD OF DIRECTORS AND SHALL BE BINDING UPON EMPLOYEE. EMPLOYEE WAIVES ANY AND ALL RIGHTS EMPLOYEE MAY HAVE TO CHALLENGE SUCH AMENDMENT.
+
+          (f) Certain Definitions. As used herein, the following terms shall have the following respective meanings:
+
+          (i) “Sale” shall mean the actual closing (if any) of (A) the sale of all or substantially all of the assets of the Company, other than to one or more persons who
+
+2
+
+
+
+
+
+ 
+
+
+
+
+
+are stockholders of, or employed by, the Company on the date of this letter, an entity controlled by or affiliated with such persons, an entity controlled by, or under common control with, the Company, or any of them, (B) the sale of more than 70% of the voting stock of the Company (on an as-converted basis) in a single transaction or series of transactions other than to one or more persons who are stockholders of, or employed by, the Company on the date of this Agreement, an entity controlled by or affiliated with such persons, an entity controlled by, or under common control with, the Company, or any of them, or (C) a merger or consolidation of the Company resulting in more than 70% of the voting power of the Company or of the surviving or resulting corporation being vested in persons other than one or more persons who are stockholders of, or employed by, the Company on the date of this Agreement, an entity controlled by or affiliated with such persons, an entity controlled by, or under common control with, the Company, or any of them.
+
+          (ii) “Purchase Price” shall mean the aggregate of (A) cash amounts payable to the Company as consideration pursuant to the terms of the Sale (including any non-competition payments payable to the Company, but excluding any amounts payable to any employees in connection with the Sale); and (B) any bona fide debt (i.e., debt represented by a written promissory note or similar instrument) of the Company assumed by the purchaser as consideration pursuant to the terms of the Sale. Notwithstanding the foregoing, to the extent any amount of the Purchase Price is (x) subject to a post-closing adjustment (for example, to reflect actual inventory or accounts receivables), or (y) payable only as an “earn-out” contingency upon certain performance thresholds being achieved (i.e., minimum revenue or earnings thresholds), then the Company shall, in consultation with its certified public accountant, have the right in its discretion to determine an appropriate amount (if any) to reflect the probable amount (as of the date of closing of the Sale) payable (or other adjustment to be made) as a result of such an adjustment or earn-out contingency, and in such event Employee hereby waives to the fullest extent permitted by law, any and all rights to challenge or question such determination by the Company, it being understood by Employee that any such determination would be based upon assumptions and projections that might well be proven inaccurate.
+
+     2. Effect on Other Bonus or Severance Programs. Any payments made under Section 1(a) above shall be in addition to, and not in lieu of, any payments (if any) that may become due to Employee under any existing or future executive management bonus or severance program of the Company or any agreements in respect thereof.
+
+     3. Sale at Company’s Discretion; No Obligation to Inform. Employee hereby acknowledges and agrees that any decision to consider or pursue a Sale (and to establish the amount of any consideration related thereto) shall be in the Company’s sole discretion, and that the Company has no obligation to Employee (including without limitation pursuant to this Agreement) to (a) cause a Sale to occur, including without limitation to seek or entertain offers from third parties relating to any such matter, (b) negotiate with any third party regarding any such matter, (c) seek any alternative to any such matter, or (d) establish the amount of any consideration relating to a Sale in a manner that would cause the Company to be obligated to pay
+
+3
+
+
+
+
+
+ 
+
+
+
+
+
+a Sale Bonus or maximize the amount of any Sale Bonus. Employee further acknowledges and agrees that the Company shall have no obligation to disclose to Employee the status of the Company’s efforts in pursuing a Sale.
+
+     4. Certain Representations, Warranties and Covenants of Employee. Employee hereby represents, warrants and covenants to the Company as follows:
+
+          (a) While an employee of the Company, Employee shall assist the Company in preparation for, and in the consummation of, a Sale if requested by the Company, through the performance of Employee’s normal and customary employment duties, as well as those duties as may be reasonably requested by the Company from time to time, including without limitation assisting in the compilation and analysis of data relating to the Company.
+
+          (b) Employee acknowledges and agrees that the Company’s entering into this Agreement, and its contingent obligations to make payments pursuant to Section 1 hereof, constitute full and complete consideration for each of Employee’s obligations hereunder.
+
+     5. No Right to Employment or Benefits. This Agreement does not constitute or imply (a) any obligation or undertaking to employ Employee for any period of time or in any position, or (b) any limitation on the right of the Company to terminate Employee’s employment at any time with or without notice or cause.
+
+     6. Withholding/Reduction of Payments. All payments hereunder are subject to withholding of all taxes and other amounts required by law to be withheld or paid to others. The Company may, in its discretion and to the full extent permitted by law, apply a payment otherwise due Employee to pay any amounts, debts or claims owed to the Company by Employee, until all such amounts, debts and claims are paid in full.
+
+     7. No Waiver. No delay or failure by any party hereto to insist, in any one or more instances, upon performance of any of the terms and conditions of this Agreement or to exercise any rights or remedies hereunder shall constitute a waiver or relinquishment of such rights or remedies or any other rights or remedies hereunder.
+
+     8. Successors and Assigns. This Agreement shall be binding upon and inure to the benefit of the successors, legal representatives and assigns of the parties hereto; provided, however, that Employee shall not have any right to assign, pledge or otherwise dispose of or transfer any interest in this Agreement or any payment hereunder, whether directly or indirectly or in whole or in part, without the prior written consent of the Company, and any such attempted assignment, pledge or other disposition or transfer in contravention of the foregoing shall be null and void. Notwithstanding the foregoing, in the event of Employee’s death, the Employee’s estate and/or legal beneficiaries shall be entitled to the rights of Employee hereunder in the event of a Sale occurring prior to June 30, 2012.
+
+     9. Separate Representation. Employee hereby acknowledges that Employee has been advised, and has had ample opportunity, to obtain independent advice and representation from counsel of Employee’s own selection in connection with this Agreement and has not relied
+
+4
+
+
+
+
+
+ 
+
+
+
+
+
+to any extent on any officer, director or shareholder of, or counsel to, the Company in deciding to enter into this Agreement.
+
+     10. Amendment; Complete Agreement. No provision of this Agreement may be altered, amended, modified, waived or discharged in any manner whatsoever except (i) by the independent committee pursuant to Section 1(e) and (ii) by written agreement executed by both parties hereto. This Agreement contains the entire understanding of the parties hereto with respect to the subject matter hereof.
+
+     11. Governing Law. This Agreement shall be construed under and governed by the laws of the State of Minnesota, without giving effect to principles of conflicts of law.
+
+     12. Severability. In the event that any portion of this Agreement is held to be invalid or unenforceable for any reason, such invalidity or unenforceability shall not affect the other portions of this Agreement, and the remaining covenants, terms and conditions or portions hereof shall remain in full force and effect, and any court of competent jurisdiction may so modify the objectionable provision so as to make it valid, enforceable and as close in meaning and economic effect to the original provision as possible.
+
+     13. Counterparts. This Agreement may be executed by facsimile signature and in counterparts, each of which shall be deemed an original, and all of which taken together shall constitute one and the same instrument.
+
+     IN WITNESS WHEREOF, the parties have executed this Management Incentive Agreement as of the date first above written.
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+SPS COMMERCE, INC.
+
+ 
+
+ 
+
+ 
+
+EMPLOYEE
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Archie Black
+
+ 
+
+ 
+
+ 
+
+/s/ Archie Black
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name: Archie Black
+
+ 
+
+ 
+
+ 
+
+Archie Black
+
+Its: CEO
+
+ 
+
+ 
+
+ 
+
+ 
+
+5
